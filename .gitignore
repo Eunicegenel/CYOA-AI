@@ -15,3 +15,10 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Python / TTS
+backend/tts/.venv/
+backend/tts/__pycache__/
+backend/tts/*.wav
+backend/tts/*.mp3
+backend/tts/.cache/
