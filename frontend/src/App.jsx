@@ -51,6 +51,7 @@ function App() {
   const [ttsVoices, setTtsVoices] = useState([]);
   const [selectedTtsVoiceId, setSelectedTtsVoiceId] = useState("af_heart");
   const [ttsSpeed, setTtsSpeed] = useState(1);
+  const [isVoicePlaying, setIsVoicePlaying] = useState(false);
 
   const recognitionRef = useRef(null);
   const finalTranscriptRef = useRef("");
@@ -71,6 +72,7 @@ function App() {
 
   const currentAudioRef = useRef(null);
   const currentAudioUrlRef = useRef("");
+  const ttsPlayIdRef = useRef(0);
 
   const chatScrollRef = useRef(null);
 
@@ -145,16 +147,31 @@ function App() {
     }, 500);
   };
 
+  const stopVoiceNow = () => {
+    ttsPlayIdRef.current += 1;
+
+    stopCurrentAudio();
+    setIsVoicePlaying(false);
+
+    pauseRestartRef.current = false;
+    restartRecognitionAfterResponse();
+  };
+
   const playKokoroSpeech = async (text) => {
     const cleanText = cleanTextForSpeech(text);
 
     if (!cleanText) {
       pauseRestartRef.current = false;
+      setIsVoicePlaying(false);
       restartRecognitionAfterResponse();
       return;
     }
 
+    const playbackId = ttsPlayIdRef.current + 1;
+    ttsPlayIdRef.current = playbackId;
+
     pauseRestartRef.current = true;
+    setIsVoicePlaying(true);
 
     try {
       recognitionRef.current?.stop();
@@ -177,6 +194,10 @@ function App() {
         }
       );
 
+      if (playbackId !== ttsPlayIdRef.current) {
+        return;
+      }
+
       const audioUrl = URL.createObjectURL(response.data);
       const audio = new Audio(audioUrl);
 
@@ -184,21 +205,32 @@ function App() {
       currentAudioUrlRef.current = audioUrl;
 
       audio.onended = () => {
+        if (playbackId !== ttsPlayIdRef.current) return;
+
         stopCurrentAudio();
+        setIsVoicePlaying(false);
         pauseRestartRef.current = false;
         restartRecognitionAfterResponse();
       };
 
       audio.onerror = () => {
+        if (playbackId !== ttsPlayIdRef.current) return;
+
         stopCurrentAudio();
+        setIsVoicePlaying(false);
         pauseRestartRef.current = false;
         restartRecognitionAfterResponse();
       };
 
       await audio.play();
     } catch (error) {
+      if (playbackId !== ttsPlayIdRef.current) {
+        return;
+      }
+
       console.error("Kokoro TTS error:", error);
 
+      setIsVoicePlaying(false);
       pauseRestartRef.current = false;
       restartRecognitionAfterResponse();
     }
@@ -475,7 +507,9 @@ function App() {
       // Ignore stop errors.
     }
 
+    ttsPlayIdRef.current += 1;
     stopCurrentAudio();
+    setIsVoicePlaying(false);
   };
 
   const resetVisibleChat = () => {
@@ -766,6 +800,32 @@ function App() {
 
                 <Button variant="outlined" onClick={resetVisibleChat} sx={ghostButtonSx}>
                   Clear View
+                </Button>
+
+                <Button
+                  variant="outlined"
+                  onClick={stopVoiceNow}
+                  disabled={!isVoicePlaying}
+                  sx={{
+                    ...ghostButtonSx,
+                    color: isVoicePlaying ? "#fecaca" : "rgba(226,232,240,0.38)",
+                    borderColor: isVoicePlaying
+                      ? "rgba(248,113,113,0.55)"
+                      : "rgba(148,163,184,0.16)",
+                    bgcolor: isVoicePlaying
+                      ? "rgba(127,29,29,0.28)"
+                      : "rgba(15,23,42,0.42)",
+                    "&:hover": {
+                      bgcolor: "rgba(127,29,29,0.4)",
+                      borderColor: "rgba(248,113,113,0.75)",
+                    },
+                    "&.Mui-disabled": {
+                      color: "rgba(226,232,240,0.34)",
+                      borderColor: "rgba(148,163,184,0.14)",
+                    },
+                  }}
+                >
+                  Stop Voice
                 </Button>
               </Box>
             </Paper>
