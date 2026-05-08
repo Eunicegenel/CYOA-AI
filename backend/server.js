@@ -1,7 +1,7 @@
 import "dotenv/config";
 import express from "express";
 import cors from "cors";
-import { SYSTEM_BEHAVIOR } from "./src/behavior.js";
+import { SYSTEM_BEHAVIORS } from "./src/behavior.js";
 
 const app = express();
 
@@ -10,21 +10,56 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 5050;
 const OLLAMA_URL = process.env.OLLAMA_URL || "http://localhost:11434/api/chat";
-const MODEL = process.env.OLLAMA_MODEL || "qwen3:4b";
+
+const MODEL_CONFIG = {
+  assistant: {
+    label: "Assistant",
+    model: process.env.OLLAMA_ASSISTANT_MODEL || "qwen3:4b",
+    behavior: SYSTEM_BEHAVIORS.assistant,
+  },
+  story: {
+    label: "Story",
+    model: process.env.OLLAMA_STORY_MODEL || "qwen3:4b",
+    behavior: SYSTEM_BEHAVIORS.story,
+  },
+  adultStory: {
+    label: "Adult Story",
+    model: process.env.OLLAMA_ADULT_STORY_MODEL || "dolphin-mistral",
+    behavior: SYSTEM_BEHAVIORS.adultStory,
+  },
+};
 
 const conversations = new Map();
+
+const getConversationKey = ({ conversationId, mode }) => {
+  return `${mode}:${conversationId}`;
+};
 
 app.get("/", (req, res) => {
   res.json({
     app: "CYOA Brain v0",
     status: "running",
-    model: MODEL,
+    models: MODEL_CONFIG,
   });
+});
+
+app.get("/api/models", (req, res) => {
+  const models = Object.entries(MODEL_CONFIG).map(([key, value]) => ({
+    key,
+    label: value.label,
+    model: value.model,
+  }));
+
+  return res.json({ models });
 });
 
 app.post("/api/chat", async (req, res) => {
   try {
-    const { message, conversationId = "default" } = req.body;
+    const {
+      message,
+      conversationId = "default",
+      mode = "assistant",
+    } = req.body;
 
     if (!message || typeof message !== "string") {
       return res.status(400).json({
@@ -32,12 +67,22 @@ app.post("/api/chat", async (req, res) => {
       });
     }
 
-    const history = conversations.get(conversationId) || [];
+    const selectedConfig = MODEL_CONFIG[mode];
+
+    if (!selectedConfig) {
+      return res.status(400).json({
+        error: "Invalid mode selected.",
+        allowedModes: Object.keys(MODEL_CONFIG),
+      });
+    }
+
+    const conversationKey = getConversationKey({ conversationId, mode });
+    const history = conversations.get(conversationKey) || [];
 
     const messages = [
       {
         role: "system",
-        content: SYSTEM_BEHAVIOR,
+        content: selectedConfig.behavior,
       },
       ...history.slice(-20),
       {
@@ -52,12 +97,12 @@ app.post("/api/chat", async (req, res) => {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        model: MODEL,
+        model: selectedConfig.model,
         messages,
         stream: false,
         options: {
-          temperature: 0.7,
-          top_p: 0.9,
+          temperature: mode === "story" ? 0.9 : 0.7,
+          top_p: mode === "story" ? 0.95 : 0.9,
         },
       }),
     });
@@ -86,11 +131,12 @@ app.post("/api/chat", async (req, res) => {
       },
     ];
 
-    conversations.set(conversationId, updatedHistory);
+    conversations.set(conversationKey, updatedHistory);
 
     return res.json({
       conversationId,
-      model: MODEL,
+      mode,
+      model: selectedConfig.model,
       reply: assistantReply,
     });
   } catch (error) {
@@ -104,13 +150,19 @@ app.post("/api/chat", async (req, res) => {
 });
 
 app.post("/api/chat/reset", (req, res) => {
-  const { conversationId = "default" } = req.body || {};
+  const {
+    conversationId = "default",
+    mode = "assistant",
+  } = req.body || {};
 
-  conversations.delete(conversationId);
+  const conversationKey = getConversationKey({ conversationId, mode });
+
+  conversations.delete(conversationKey);
 
   return res.json({
     message: "Conversation reset.",
     conversationId,
+    mode,
   });
 });
 
