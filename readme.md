@@ -1,0 +1,1 @@
+My first Take on a local AI
