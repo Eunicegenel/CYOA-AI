@@ -2,6 +2,7 @@ import "dotenv/config";
 import express from "express";
 import cors from "cors";
 import { SYSTEM_BEHAVIORS } from "./src/behavior.js";
+import { buildLocalComputerContext } from "./localComputerContext.js";
 
 const app = express();
 
@@ -79,10 +80,18 @@ app.post("/api/chat", async (req, res) => {
     const conversationKey = getConversationKey({ conversationId, mode });
     const history = conversations.get(conversationKey) || [];
 
+    const localComputerContext = buildLocalComputerContext(message);
+
+    const systemPrompt = `
+      ${selectedConfig.behavior}
+
+      ${localComputerContext}
+      `.trim();
+
     const messages = [
       {
         role: "system",
-        content: selectedConfig.behavior,
+        content: systemPrompt,
       },
       ...history.slice(-20),
       {
