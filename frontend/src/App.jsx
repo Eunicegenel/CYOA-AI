@@ -32,6 +32,45 @@ function cleanTextForSpeech(text = "") {
     .trim();
 }
 
+function cleanModelReplyForDisplay(text = "") {
+  const emojiRegex =
+    /[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}]/gu;
+
+  const variationSelectorRegex = /\uFE0F/g;
+
+  const metaLineRegex =
+    /^\s*(?:\(?\s*)?(?:p\.?s\.?|no internet|no outside data|just your imagination|type one of|reply with|i'll send|i’ll send).*$/i;
+
+  const cleanOutsideCodeBlocks = (value) => {
+    return value
+      .split(/(```[\s\S]*?```)/g)
+      .map((part) => {
+        if (part.startsWith("```")) return part;
+
+        return part
+          .replace(emojiRegex, "")
+          .replace(variationSelectorRegex, "")
+          .replace(/^\s{0,3}#{1,6}\s+/gm, "")
+          .replace(/\*\*([^*\n]+)\*\*/g, "$1")
+          .replace(/__([^_\n]+)__/g, "$1")
+          .replace(/^[ \t]*[-–—]{3,}[ \t]*$/gm, "");
+      })
+      .join("");
+  };
+
+  return cleanOutsideCodeBlocks(String(text || ""))
+    .split("\n")
+    .filter((line) => !metaLineRegex.test(line))
+    .join("\n")
+    .replace(
+      /^\s*(?:ah|okay|sure|alright|perfect|great|absolutely)[,.! ]*(?:[-–—:])?\s*/i,
+      ""
+    )
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
 function App() {
   const [message, setMessage] = useState("");
   const [mode, setMode] = useState("assistant");
@@ -66,6 +105,7 @@ function App() {
   const pauseRestartRef = useRef(false);
   const pendingRef = useRef(false);
   const autoSpeakRef = useRef(autoSpeak);
+  const suppressSpeechResultsRef = useRef(false);
   const silenceDelayRef = useRef(silenceDelay);
   const selectedTtsVoiceIdRef = useRef(selectedTtsVoiceId);
   const ttsSpeedRef = useRef(ttsSpeed);
@@ -103,6 +143,14 @@ function App() {
       URL.revokeObjectURL(currentAudioUrlRef.current);
       currentAudioUrlRef.current = "";
     }
+  };
+
+  const clearVoiceTranscriptState = () => {
+    clearTimeout(silenceTimerRef.current);
+
+    finalTranscriptRef.current = "";
+    currentVoiceTextRef.current = "";
+    setVoiceDraft("");
   };
 
   useEffect(() => {
@@ -143,6 +191,8 @@ function App() {
     if (!listeningRef.current || manuallyStoppedRef.current) return;
 
     setTimeout(() => {
+      clearVoiceTranscriptState();
+      suppressSpeechResultsRef.current = false;
       safeStartRecognitionRef.current?.();
     }, 500);
   };
@@ -264,17 +314,21 @@ function App() {
       pendingRef.current = true;
     },
     onSuccess: (data) => {
+      const cleanedReply = cleanModelReplyForDisplay(
+        data.reply || "No response received."
+      );
+
       setMessages((prev) => [
         ...prev,
         {
           role: "assistant",
-          content: data.reply || "No response received.",
+          content: cleanedReply || "No response received.",
           mode: data.mode,
           model: data.model,
         },
       ]);
 
-      speakReply(data.reply || "");
+      speakReply(cleanedReply || "");
     },
     onError: (error) => {
       console.error(error);
@@ -352,13 +406,10 @@ function App() {
 
     if (!transcript || pendingRef.current) return;
 
-    clearTimeout(silenceTimerRef.current);
-
-    finalTranscriptRef.current = "";
-    currentVoiceTextRef.current = "";
-    setVoiceDraft("");
-
+    suppressSpeechResultsRef.current = true;
     pauseRestartRef.current = true;
+
+    clearVoiceTranscriptState();
 
     try {
       recognitionRef.current?.stop();
@@ -427,6 +478,14 @@ function App() {
     };
 
     recognition.onresult = (event) => {
+      if (
+        suppressSpeechResultsRef.current ||
+        pauseRestartRef.current ||
+        pendingRef.current
+      ) {
+        return;
+      }
+
       let finalText = "";
       let interimText = "";
 
@@ -481,6 +540,7 @@ function App() {
     manuallyStoppedRef.current = false;
     listeningRef.current = true;
     pauseRestartRef.current = false;
+    suppressSpeechResultsRef.current = false;
 
     finalTranscriptRef.current = "";
     currentVoiceTextRef.current = "";
@@ -490,15 +550,13 @@ function App() {
   };
 
   const stopListening = () => {
+    suppressSpeechResultsRef.current = true;
+
     manuallyStoppedRef.current = true;
     listeningRef.current = false;
     pauseRestartRef.current = false;
 
-    clearTimeout(silenceTimerRef.current);
-
-    finalTranscriptRef.current = "";
-    currentVoiceTextRef.current = "";
-    setVoiceDraft("");
+    clearVoiceTranscriptState();
     setIsListening(false);
 
     try {
