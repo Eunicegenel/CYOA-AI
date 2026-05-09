@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { useMutation } from "@tanstack/react-query";
 import axios from "axios";
 import {
@@ -15,10 +15,15 @@ import {
   Switch,
   TextField,
   Typography,
+  Dialog,
+  DialogActions,
+  DialogContent,
+  DialogTitle,
 } from "@mui/material";
 
 const API_URL = "http://localhost:5050/api/chat";
 const MODELS_URL = "http://localhost:5050/api/models";
+const ALARMS_EVENTS_URL = "http://localhost:5050/api/alarms/events";
 
 const TTS_URL = "http://127.0.0.1:5070/api/tts";
 const TTS_VOICES_URL = "http://127.0.0.1:5070/api/voices";
@@ -91,6 +96,7 @@ function App() {
   const [selectedTtsVoiceId, setSelectedTtsVoiceId] = useState("af_heart");
   const [ttsSpeed, setTtsSpeed] = useState(1);
   const [isVoicePlaying, setIsVoicePlaying] = useState(false);
+  const [ringingAlarm, setRingingAlarm] = useState(null);
 
   const recognitionRef = useRef(null);
   const finalTranscriptRef = useRef("");
@@ -113,6 +119,9 @@ function App() {
   const currentAudioRef = useRef(null);
   const currentAudioUrlRef = useRef("");
   const ttsPlayIdRef = useRef(0);
+
+  const alarmAudioContextRef = useRef(null);
+  const alarmBeepIntervalRef = useRef(null);
 
   const chatScrollRef = useRef(null);
 
@@ -634,6 +643,87 @@ function App() {
       borderColor: "rgba(96,165,250,0.55)",
     },
   };
+
+  const stopAlarmSound = useCallback(() => {
+    if (alarmBeepIntervalRef.current) {
+      clearInterval(alarmBeepIntervalRef.current);
+      alarmBeepIntervalRef.current = null;
+    }
+  }, []);
+
+  const playAlarmPulse = useCallback(async () => {
+    const AudioContext = window.AudioContext || window.webkitAudioContext;
+
+    if (!AudioContext) return;
+
+    if (!alarmAudioContextRef.current) {
+      alarmAudioContextRef.current = new AudioContext();
+    }
+
+    const audioContext = alarmAudioContextRef.current;
+
+    if (audioContext.state === "suspended") {
+      await audioContext.resume();
+    }
+
+    const oscillator = audioContext.createOscillator();
+    const gain = audioContext.createGain();
+
+    oscillator.type = "sine";
+    oscillator.frequency.setValueAtTime(880, audioContext.currentTime);
+
+    gain.gain.setValueAtTime(0.0001, audioContext.currentTime);
+    gain.gain.exponentialRampToValueAtTime(0.28, audioContext.currentTime + 0.03);
+    gain.gain.exponentialRampToValueAtTime(0.0001, audioContext.currentTime + 0.65);
+
+    oscillator.connect(gain);
+    gain.connect(audioContext.destination);
+
+    oscillator.start();
+    oscillator.stop(audioContext.currentTime + 0.7);
+  }, []);
+
+  const startAlarmRinging = useCallback(
+    (alarm) => {
+      stopAlarmSound();
+
+      setRingingAlarm(alarm);
+
+      playAlarmPulse();
+
+      alarmBeepIntervalRef.current = setInterval(() => {
+        playAlarmPulse();
+      }, 1200);
+    },
+    [playAlarmPulse, stopAlarmSound]
+  );
+
+  const dismissAlarm = useCallback(() => {
+    stopAlarmSound();
+    setRingingAlarm(null);
+  }, [stopAlarmSound]);
+
+  useEffect(() => {
+    const events = new EventSource(ALARMS_EVENTS_URL);
+
+    events.addEventListener("alarm", (event) => {
+      try {
+        const alarm = JSON.parse(event.data);
+        startAlarmRinging(alarm);
+      } catch (error) {
+        console.error("Failed to read alarm event:", error);
+      }
+    });
+
+    events.onerror = () => {
+      console.warn("Alarm event connection issue.");
+    };
+
+    return () => {
+      events.close();
+      stopAlarmSound();
+    };
+  }, [startAlarmRinging, stopAlarmSound]);
 
   return (
     <Box
@@ -1242,6 +1332,63 @@ function App() {
           </Paper>
         </Box>
       </Container>
+
+      <Dialog
+        open={Boolean(ringingAlarm)}
+        onClose={dismissAlarm}
+        PaperProps={{
+          sx: {
+            width: "100%",
+            maxWidth: 420,
+            borderRadius: 4,
+            bgcolor: "#111827",
+            color: "#f8fafc",
+            border: "1px solid rgba(248,113,113,0.45)",
+            boxShadow: "0 24px 80px rgba(0,0,0,0.45)",
+          },
+        }}
+      >
+        <DialogTitle
+          sx={{
+            fontWeight: 950,
+            color: "#fecaca",
+          }}
+        >
+          Alarm
+        </DialogTitle>
+
+        <DialogContent>
+          <Typography
+            sx={{
+              fontWeight: 800,
+              mb: 1,
+            }}
+          >
+            {ringingAlarm?.label || "Alarm"}
+          </Typography>
+
+          <Typography sx={{ color: "#cbd5e1" }}>
+            Scheduled for{" "}
+            {ringingAlarm?.triggerAt
+              ? new Date(ringingAlarm.triggerAt).toLocaleString()
+              : "now"}
+          </Typography>
+        </DialogContent>
+
+        <DialogActions sx={{ p: 2 }}>
+          <Button
+            variant="contained"
+            color="error"
+            onClick={dismissAlarm}
+            sx={{
+              borderRadius: 2.5,
+              fontWeight: 950,
+            }}
+          >
+            Dismiss
+          </Button>
+        </DialogActions>
+      </Dialog>
     </Box>
   );
 }
