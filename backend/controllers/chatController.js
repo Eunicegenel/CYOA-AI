@@ -138,6 +138,111 @@ function saveChatTurn({ conversationId, mode, history, userMessage, assistantRep
   });
 }
 
+function cleanAssistantReplyForChat(reply = "") {
+  let text = String(reply || "")
+    .replace(/\r\n/g, "\n")
+    .trim();
+
+  const lowerText = text.toLowerCase();
+  const lastThinkCloseIndex = lowerText.lastIndexOf("</think>");
+
+  if (lastThinkCloseIndex !== -1) {
+    text = text.slice(lastThinkCloseIndex + "</think>".length).trim();
+  }
+
+  text = text.replace(/<think>[\s\S]*?<\/think>/gi, "").trim();
+  text = text.replace(/<think>[\s\S]*$/gi, "").trim();
+  text = text
+    .replace(/^\s*(final answer|final response|final scene|scene|output)\s*:\s*/i, "")
+    .trim();
+
+  const lines = text.split("\n");
+
+  const reasoningLinePatterns = [
+    /^\s*the user wants\b/i,
+    /^\s*the user said\b/i,
+    /^\s*i need to\b/i,
+    /^\s*i should\b/i,
+    /^\s*i'll\b/i,
+    /^\s*i will\b/i,
+    /^\s*i think\b/i,
+    /^\s*hmm\b/i,
+    /^\s*wait\b/i,
+    /^\s*alternatively\b/i,
+    /^\s*to be safe\b/i,
+    /^\s*for the scene\b/i,
+    /^\s*also,\s*/i,
+    /^\s*but note\b/i,
+    /^\s*this gives the user\b/i,
+    /^\s*let me\b/i,
+    /^\s*important:\b/i,
+    /^\s*this is the output\b/i,
+    /^\s*so:\s*$/i,
+  ];
+
+  // Remove leading reasoning lines.
+  let firstGoodLineIndex = 0;
+
+  while (
+    firstGoodLineIndex < lines.length &&
+    (
+      !lines[firstGoodLineIndex].trim() ||
+      reasoningLinePatterns.some((pattern) =>
+        pattern.test(lines[firstGoodLineIndex])
+      )
+    )
+  ) {
+    firstGoodLineIndex += 1;
+  }
+
+  text = lines.slice(firstGoodLineIndex).join("\n").trim();
+
+  // Cut off trailing reasoning if it appears after a good answer.
+  const trailingMetaPatterns = [
+    /\n\s*this gives the user\b/i,
+    /\n\s*but note\b/i,
+    /\n\s*also,\s*/i,
+    /\n\s*i think\b/i,
+    /\n\s*let me\b/i,
+    /\n\s*important:\b/i,
+    /\n\s*this is the output\b/i,
+    /\n\s*the user said\b/i,
+    /\n\s*the user wants\b/i,
+    /\n\s*i need to\b/i,
+    /\n\s*i should\b/i,
+    /\n\s*wait\b/i,
+    /\n\s*hmm\b/i,
+  ];
+
+  let cutIndex = -1;
+
+  for (const pattern of trailingMetaPatterns) {
+    const match = text.match(pattern);
+
+    if (match?.index !== undefined) {
+      cutIndex = cutIndex === -1 ? match.index : Math.min(cutIndex, match.index);
+    }
+  }
+
+  if (cutIndex !== -1) {
+    text = text.slice(0, cutIndex).trim();
+  }
+
+  const cleanedLines = text.split("\n");
+  const lastChoiceIndex = cleanedLines.reduce((lastIndex, line, index) => {
+    return /^\s*[A-Z]\)\s+/.test(line) ? index : lastIndex;
+  }, -1);
+
+  if (lastChoiceIndex !== -1) {
+    text = cleanedLines.slice(0, lastChoiceIndex + 1).join("\n").trim();
+  }
+
+  return text
+    .replace(/\n{3,}/g, "\n\n")
+    .replace(/[ \t]+\n/g, "\n")
+    .trim();
+}
+
 export async function sendChatMessage(req, res) {
   try {
     const {
@@ -235,10 +340,16 @@ export async function sendChatMessage(req, res) {
     const localComputerContext = buildLocalComputerContext(message);
 
     const systemPrompt = `
-${selectedConfig.behavior}
+    ${selectedConfig.behavior}
 
-${localComputerContext}
-`.trim();
+    OUTPUT CONTRACT:
+    Your visible reply must contain only the final user-facing response.
+    Start directly with the answer, scene, or action.
+    Never include planning notes, decision notes, hidden reasoning, self-talk, or analysis.
+    Never write phrases like "the user wants", "I need to", "I should", "wait", "hmm", "final scene", or "let me".
+
+    ${localComputerContext}
+    `.trim();
 
     const messages = [
       {
@@ -248,7 +359,7 @@ ${localComputerContext}
       ...history.slice(-20),
       {
         role: "user",
-        content: message,
+        content: `/no_think\n${message}`,
       },
     ];
 
@@ -261,6 +372,10 @@ ${localComputerContext}
         model: selectedConfig.model,
         messages,
         stream: false,
+
+        // Keep normal generation, but do not expose thinking text.
+        think: false,
+
         options: {
           temperature: mode === "story" ? 0.9 : 0.7,
           top_p: mode === "story" ? 0.95 : 0.9,
@@ -278,7 +393,15 @@ ${localComputerContext}
     }
 
     const data = await response.json();
-    const assistantReply = data?.message?.content || "";
+
+    const rawAssistantReply =
+      data?.message?.content ||
+      data?.response ||
+      "";
+
+    const assistantReply =
+      cleanAssistantReplyForChat(rawAssistantReply) ||
+      "I could not generate a clean response. Please try again.";
 
     saveChatTurn({
       conversationId,

@@ -37,6 +37,62 @@ function cleanTextForSpeech(text = "") {
     .trim();
 }
 
+function splitTextForSpeech(text = "", maxChars = 260) {
+  const cleanText = String(text || "")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (!cleanText) return [];
+
+  const sentenceParts = cleanText.match(/[^.!?]+[.!?]+|[^.!?]+$/g) || [cleanText];
+
+  const chunks = [];
+  let currentChunk = "";
+
+  for (const part of sentenceParts) {
+    const sentence = part.trim();
+
+    if (!sentence) continue;
+
+    if ((currentChunk + " " + sentence).trim().length <= maxChars) {
+      currentChunk = (currentChunk + " " + sentence).trim();
+      continue;
+    }
+
+    if (currentChunk) {
+      chunks.push(currentChunk);
+      currentChunk = "";
+    }
+
+    if (sentence.length <= maxChars) {
+      currentChunk = sentence;
+      continue;
+    }
+
+    const words = sentence.split(" ");
+    let wordChunk = "";
+
+    for (const word of words) {
+      if ((wordChunk + " " + word).trim().length <= maxChars) {
+        wordChunk = (wordChunk + " " + word).trim();
+      } else {
+        if (wordChunk) chunks.push(wordChunk);
+        wordChunk = word;
+      }
+    }
+
+    if (wordChunk) {
+      currentChunk = wordChunk;
+    }
+  }
+
+  if (currentChunk) {
+    chunks.push(currentChunk);
+  }
+
+  return chunks;
+}
+
 function cleanModelReplyForDisplay(text = "") {
   const emojiRegex =
     /[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}]/gu;
@@ -89,7 +145,7 @@ function App() {
 
   const [isListening, setIsListening] = useState(false);
   const [voiceDraft, setVoiceDraft] = useState("");
-  const [silenceDelay, setSilenceDelay] = useState(3);
+  const [silenceDelay, setSilenceDelay] = useState(1.5);
   const [autoSpeak, setAutoSpeak] = useState(false);
 
   const [ttsVoices, setTtsVoices] = useState([]);
@@ -216,10 +272,74 @@ function App() {
     restartRecognitionAfterResponse();
   };
 
+  const requestKokoroSpeechBlob = async (text) => {
+    const response = await axios.post(
+      TTS_URL,
+      {
+        text,
+        voice: selectedTtsVoiceIdRef.current || "af_heart",
+        speed: ttsSpeedRef.current || 1,
+      },
+      {
+        responseType: "blob",
+      }
+    );
+
+    return response.data;
+  };
+
+  const playAudioBlob = async (blob, playbackId) => {
+    if (playbackId !== ttsPlayIdRef.current) return false;
+
+    return new Promise((resolve) => {
+      const audioUrl = URL.createObjectURL(blob);
+      const audio = new Audio(audioUrl);
+
+      currentAudioRef.current = audio;
+      currentAudioUrlRef.current = audioUrl;
+
+      const cleanup = () => {
+        URL.revokeObjectURL(audioUrl);
+
+        if (currentAudioRef.current === audio) {
+          currentAudioRef.current = null;
+        }
+
+        if (currentAudioUrlRef.current === audioUrl) {
+          currentAudioUrlRef.current = "";
+        }
+      };
+
+      audio.onended = () => {
+        cleanup();
+        resolve(true);
+      };
+
+      audio.onerror = () => {
+        cleanup();
+        resolve(false);
+      };
+
+      audio.play().catch(() => {
+        cleanup();
+        resolve(false);
+      });
+    });
+  };
+
+  const createSpeechBlobPromise = (chunk) => {
+    return requestKokoroSpeechBlob(chunk)
+      .then((blob) => ({ blob }))
+      .catch((error) => ({ error }));
+  };
+
   const playKokoroSpeech = async (text) => {
     const cleanText = cleanTextForSpeech(text);
 
-    if (!cleanText) {
+    // Smaller chunks make the first voice start faster.
+    const speechChunks = splitTextForSpeech(cleanText, 180);
+
+    if (speechChunks.length === 0) {
       pauseRestartRef.current = false;
       setIsVoicePlaying(false);
       restartRecognitionAfterResponse();
@@ -241,47 +361,39 @@ function App() {
     try {
       stopCurrentAudio();
 
-      const response = await axios.post(
-        TTS_URL,
-        {
-          text: cleanText,
-          voice: selectedTtsVoiceIdRef.current || "af_heart",
-          speed: ttsSpeedRef.current || 1,
-        },
-        {
-          responseType: "blob",
-        }
-      );
+      // Start generating the first chunk immediately.
+      let nextBlobPromise = createSpeechBlobPromise(speechChunks[0]);
 
-      if (playbackId !== ttsPlayIdRef.current) {
-        return;
+      for (let index = 0; index < speechChunks.length; index += 1) {
+        if (playbackId !== ttsPlayIdRef.current) {
+          return;
+        }
+
+        const result = await nextBlobPromise;
+
+        if (result.error) {
+          throw result.error;
+        }
+
+        if (playbackId !== ttsPlayIdRef.current) {
+          return;
+        }
+
+        // While the current chunk is playing, generate the next chunk in the background.
+        if (index + 1 < speechChunks.length) {
+          nextBlobPromise = createSpeechBlobPromise(speechChunks[index + 1]);
+        }
+
+        const playedSuccessfully = await playAudioBlob(result.blob, playbackId);
+
+        if (!playedSuccessfully || playbackId !== ttsPlayIdRef.current) {
+          return;
+        }
       }
 
-      const audioUrl = URL.createObjectURL(response.data);
-      const audio = new Audio(audioUrl);
-
-      currentAudioRef.current = audio;
-      currentAudioUrlRef.current = audioUrl;
-
-      audio.onended = () => {
-        if (playbackId !== ttsPlayIdRef.current) return;
-
-        stopCurrentAudio();
-        setIsVoicePlaying(false);
-        pauseRestartRef.current = false;
-        restartRecognitionAfterResponse();
-      };
-
-      audio.onerror = () => {
-        if (playbackId !== ttsPlayIdRef.current) return;
-
-        stopCurrentAudio();
-        setIsVoicePlaying(false);
-        pauseRestartRef.current = false;
-        restartRecognitionAfterResponse();
-      };
-
-      await audio.play();
+      setIsVoicePlaying(false);
+      pauseRestartRef.current = false;
+      restartRecognitionAfterResponse();
     } catch (error) {
       if (playbackId !== ttsPlayIdRef.current) {
         return;
@@ -289,6 +401,7 @@ function App() {
 
       console.error("Kokoro TTS error:", error);
 
+      stopCurrentAudio();
       setIsVoicePlaying(false);
       pauseRestartRef.current = false;
       restartRecognitionAfterResponse();
@@ -337,7 +450,7 @@ function App() {
         },
       ]);
 
-      speakReply(cleanedReply || "");
+      void speakReply(cleanedReply || "");
     },
     onError: (error) => {
       console.error(error);
@@ -854,6 +967,9 @@ function App() {
                     label="Silence"
                     onChange={(event) => setSilenceDelay(Number(event.target.value))}
                   >
+                    <MenuItem value={1}>1 second</MenuItem>
+                    <MenuItem value={1.5}>1.5 seconds</MenuItem>
+                    <MenuItem value={2}>2 seconds</MenuItem>
                     <MenuItem value={3}>3 seconds</MenuItem>
                     <MenuItem value={5}>5 seconds</MenuItem>
                   </Select>
