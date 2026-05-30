@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Adventures Sun & Moon volume 3",
+    "slug": "pokemon-adventures-sun-and-moon-volume-3",
+    "pageId": 229673,
+    "revisionId": 4298457
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-adventures-sun-and-moon-volume-3__229673.json",
+    "revisionTimestamp": "2025-05-11T10:05:02Z",
+    "fetchedAt": "2026-05-14T15:34:58.560Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 3 is the third volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 3 is the third volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n \n \n \n \n \n \n \n\n==Chapters==\nPASM14\nPASM15\nPASM16\nPASM17\nPASM18\nPASM19\n\n==Major events==\n\n==Party changes==\n===Additions===\nSun's \"Penny\" (PASM17)\n\n===Evolutions===\nMoon's into (prior to PASM19)\n\n \n\n \n\nde:Band 3 (Pokémon Sonne und Mond – Der Manga)\nes:Tomo 3 (Pocket Monsters Special Sol y Luna)\nfr:Tome 3 (Pocket Monsters Special Soleil et Lune)\nit:Pokémon Adventures Sun & Moon volume 3\nzh:宝可梦特别篇太阳·月亮3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 3 is the third volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "PASM14\nPASM15\nPASM16\nPASM17\nPASM18\nPASM19"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "Sun's \"Penny\" (PASM17)"
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "Moon's into (prior to PASM19)\n\n \n\n \n\nde:Band 3 (Pokémon Sonne und Mond – Der Manga)\nes:Tomo 3 (Pocket Monsters Special Sol y Luna)\nfr:Tome 3 (Pocket Monsters Special Soleil et Lune)\nit:Pokémon Adventures Sun & Moon volume 3\nzh:宝可梦特别篇太阳·月亮3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Adventures Sun & Moon volume 3",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Adventures Sun & Moon volume 3\nCategory:Pokémon Adventures volumes\nVolume 3 is the third volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions",
+      "Evolutions"
+    ],
+    "characterCount": 691,
+    "sectionCount": 4
+  }
+}

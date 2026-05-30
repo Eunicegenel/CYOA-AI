@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PPA01",
+    "slug": "ppa01",
+    "pageId": 297216,
+    "revisionId": 4548335
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures episodes",
+    "sourceFileName": "ppa01__297216.json",
+    "revisionTimestamp": "2026-05-11T00:22:46Z",
+    "fetchedAt": "2026-05-14T14:44:18.302Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "It's super effective! (Japanese: こうかはばつぐんだ! It's Super Effective!) is the first episode of A Pocketful of Adventures. It first aired in Japan on October 20, 2023, and in the Middle East and North Africa on May 18, 2024.",
+  "plainText": "It's super effective! (Japanese: こうかはばつぐんだ! It's Super Effective!) is the first episode of A Pocketful of Adventures. It first aired in Japan on October 20, 2023, and in the Middle East and North Africa on May 18, 2024.\n \n\n==Plot==\n \n\n==Major events==\n \nMadoka Akari, 20 years later, received a Game Boy and cartridge she had as a child, that originally belonged to her older brother, from her mother.\n\n==Characters==\n===Humans===\nMadoka Akagi\nMadoka's mother\nKoichi Yadoya\n \n \nMasako\n \nMidori Kudo\nTakeshi Iwakura\n====Game characters====\n\nProfessor Oak\nBrock\n\n===Pokémon===\n\n==Trivia==\nParallels/References with Generation I games:\nThe series' Cold Open sequence with Madoka's mother references the beginning of Red's journey in Pokémon Red and Green.\nThe second time Madoka tried to play the Pokémon Red cartridge, she was shown blowing on the cartridge. This was a common habit that people had with video games that used cartridges in the 90s due to the belief that it would make the cartridge easier to read and remove dust.\nMadoka's difficulty in finding a Pikachu in Viridian Forest makes a subtle reference to the difficulty of finding this specific Pokémon. In the Pokémon Red, Green and Blue games, Pikachu's encounter rate is 5%.\nWhile studying the types of each Pokémon, Madoka made a reference to the difficulty that players in Generation I games had in beating Brock, especially those who chose Charmander.\nWhile trying to recruit other co-workers, the game sound when a Pokémon escapes in games is played, referencing them leaving her alone with the job.\nThe first meeting with Madoka and Midori Kudo makes a direct reference to the meeting between Red and Blue on .\nThe \"clash\" between Madoka Akagi and Takeshi Iwakura references the Gym Battle against Brock in Pokémon Red. Madoka's proposal revolved around how the product can be used to utilize Water, one of the Rock-type's known weaknesses.\n\n===Errors===\n===Dub edits===\n\n==In other languages==\n \n \n \n \n\n \n\nde:Kōka wa Batsugun da!\nit:PBT01\nzh:口袋裡的冒險 第1集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "It's super effective! (Japanese: こうかはばつぐんだ! It's Super Effective!) is the first episode of A Pocketful of Adventures. It first aired in Japan on October 20, 2023, and in the Middle East and North Africa on May 18, 2024."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Madoka Akari, 20 years later, received a Game Boy and cartridge she had as a child, that originally belonged to her older brother, from her mother."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Madoka Akagi\nMadoka's mother\nKoichi Yadoya\n \n \nMasako\n \nMidori Kudo\nTakeshi Iwakura"
+    },
+    {
+      "heading": "Game characters",
+      "level": 4,
+      "text": "Professor Oak\nBrock"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Parallels/References with Generation I games:\nThe series' Cold Open sequence with Madoka's mother references the beginning of Red's journey in Pokémon Red and Green.\nThe second time Madoka tried to play the Pokémon Red cartridge, she was shown blowing on the cartridge. This was a common habit that people had with video games that used cartridges in the 90s due to the belief that it would make the cartridge easier to read and remove dust.\nMadoka's difficulty in finding a Pikachu in Viridian Forest makes a subtle reference to the difficulty of finding this specific Pokémon. In the Pokémon Red, Green and Blue games, Pikachu's encounter rate is 5%.\nWhile studying the types of each Pokémon, Madoka made a reference to the difficulty that players in Generation I games had in beating Brock, especially those who chose Charmander.\nWhile trying to recruit other co-workers, the game sound when a Pokémon escapes in games is played, referencing them leaving her alone with the job.\nThe first meeting with Madoka and Midori Kudo makes a direct reference to the meeting between Red and Blue on .\nThe \"clash\" between Madoka Akagi and Takeshi Iwakura references the Gym Battle against Brock in Pokémon Red. Madoka's proposal revolved around how the product can be used to utilize Water, one of the Rock-type's known weaknesses."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Kōka wa Batsugun da!\nit:PBT01\nzh:口袋裡的冒險 第1集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPA01",
+    "pageType": "episode",
+    "searchableText": "PPA01\nCategory:A Pocketful of Adventures episodes\nIt's super effective! (Japanese: こうかはばつぐんだ! It's Super Effective!) is the first episode of A Pocketful of Adventures. It first aired in Japan on October 20, 2023, and in the Middle East and North Africa on May 18, 2024.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Game characters",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 2023,
+    "sectionCount": 6
+  }
+}

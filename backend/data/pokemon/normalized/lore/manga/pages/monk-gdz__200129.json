@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Monk (GDZ)",
+    "slug": "monk-gdz",
+    "pageId": 200129,
+    "revisionId": 4528286
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "monk-gdz__200129.json",
+    "revisionTimestamp": "2026-04-09T16:13:32Z",
+    "fetchedAt": "2026-05-14T15:26:56.693Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The monk is a character who appeared in Pokémon: Yeah! I Got Pokémon!. He appeared in GDZ67.",
+  "plainText": "The monk is a character who appeared in Pokémon: Yeah! I Got Pokémon!. He appeared in GDZ67.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The monk is a character who appeared in Pokémon: Yeah! I Got Pokémon!. He appeared in GDZ67."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Monk (GDZ)",
+    "pageType": "character",
+    "searchableText": "Monk (GDZ)\nCategory:Pokémon: Yeah! I Got Pokémon! characters\nThe monk is a character who appeared in Pokémon: Yeah! I Got Pokémon!. He appeared in GDZ67.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 105,
+    "sectionCount": 1
+  }
+}

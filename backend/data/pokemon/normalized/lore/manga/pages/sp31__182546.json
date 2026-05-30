@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "SP31",
+    "slug": "sp31",
+    "pageId": 182546,
+    "revisionId": 4114547
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp31__182546.json",
+    "revisionTimestamp": "2024-09-16T20:30:07Z",
+    "fetchedAt": "2026-05-14T15:50:10.847Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "A Clash Of Wills!! Eternal Rivals?! (Japanese: 激突!! 永遠のライバル!? Clash!! Eternal Rivals!?) is the thirty first chapter of the Ash & Pikachu manga.",
+  "plainText": "A Clash Of Wills!! Eternal Rivals?! (Japanese: 激突!! 永遠のライバル!? Clash!! Eternal Rivals!?) is the thirty first chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nMorrison\n\n====Pokémon debuts====\n( )\n( )\n\n==Characters==\n===Humans===\n\nMax\nMorrison\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( ; evolves)\n( ; newly evolved)\n\n \n \n\n \n\nit:SP31",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Clash Of Wills!! Eternal Rivals?! (Japanese: 激突!! 永遠のライバル!? Clash!! Eternal Rivals!?) is the thirty first chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Morrison"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max\nMorrison"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( ; evolves)\n( ; newly evolved)\n\n \n \n\n \n\nit:SP31"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP31",
+    "pageType": "chapter",
+    "searchableText": "SP31\nCategory:Ash & Pikachu chapters\nA Clash Of Wills!! Eternal Rivals?! (Japanese: 激突!! 永遠のライバル!? Clash!! Eternal Rivals!?) is the thirty first chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 390,
+    "sectionCount": 5
+  }
+}

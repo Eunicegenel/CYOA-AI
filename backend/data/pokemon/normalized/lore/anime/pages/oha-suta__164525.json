@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Oha Suta",
+    "slug": "oha-suta",
+    "pageId": 164525,
+    "revisionId": 3766337
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TV and VOD",
+    "sourceFileName": "oha-suta__164525.json",
+    "revisionTimestamp": "2023-08-11T07:11:01Z",
+    "fetchedAt": "2026-05-14T14:39:56.992Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Oha Suta (おはスタ Oha Suta) is a television show that airs in Japan on TV Tokyo. The full title of the show is \"Oha Suta: The Super Kids Station\". The show is a remake of a show that had once aired on TV Tokyo in 1979, called \"Ohayō Studio\". It often shows trailers and new Pokémon on occasion.",
+  "plainText": "Oha Suta (おはスタ Oha Suta) is a television show that airs in Japan on TV Tokyo. The full title of the show is \"Oha Suta: The Super Kids Station\". The show is a remake of a show that had once aired on TV Tokyo in 1979, called \"Ohayō Studio\". It often shows trailers and new Pokémon on occasion.\n\n==New Pokémon revealed on Oha Suta==\nA number of Pokémon were revealed during the 'Pokémon Game Scoops' division of the show, most notably during the fifth Generation. \nOn an episode airing on July 23, 2010, two new Pokémon, Mamanbo (ママンボウ), and Gigaiath (ギガイアス ) were revealed. Their English names were later revealed to be and respectively.\nOn an episode airing on July 27, 2010, Mogurew (モグリュー) was revealed. Later, the English name was revealed to be .\nOn an episode airing March 1, 2012, was revealed.\nOn an episode airing April 9, 2018, was revealed.\n\n==External links==\n\n \n\n \n\nit:Oha Suta",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Oha Suta (おはスタ Oha Suta) is a television show that airs in Japan on TV Tokyo. The full title of the show is \"Oha Suta: The Super Kids Station\". The show is a remake of a show that had once aired on TV Tokyo in 1979, called \"Ohayō Studio\". It often shows trailers and new Pokémon on occasion."
+    },
+    {
+      "heading": "New Pokémon revealed on Oha Suta",
+      "level": 2,
+      "text": "A number of Pokémon were revealed during the 'Pokémon Game Scoops' division of the show, most notably during the fifth Generation. \nOn an episode airing on July 23, 2010, two new Pokémon, Mamanbo (ママンボウ), and Gigaiath (ギガイアス ) were revealed. Their English names were later revealed to be and respectively.\nOn an episode airing on July 27, 2010, Mogurew (モグリュー) was revealed. Later, the English name was revealed to be .\nOn an episode airing March 1, 2012, was revealed.\nOn an episode airing April 9, 2018, was revealed."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "it:Oha Suta"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Oha Suta",
+    "pageType": "general-anime-lore",
+    "searchableText": "Oha Suta\nCategory:TV and VOD\nOha Suta (おはスタ Oha Suta) is a television show that airs in Japan on TV Tokyo. The full title of the show is \"Oha Suta: The Super Kids Station\". The show is a remake of a show that had once aired on TV Tokyo in 1979, called \"Ohayō Studio\". It often shows trailers and new Pokémon on occasion.",
+    "sectionHeadings": [
+      "Lead",
+      "New Pokémon revealed on Oha Suta",
+      "External links"
+    ],
+    "characterCount": 888,
+    "sectionCount": 3
+  }
+}

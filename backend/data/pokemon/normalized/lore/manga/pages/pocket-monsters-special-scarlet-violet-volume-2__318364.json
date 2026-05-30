@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters Special Scarlet Violet volume 2",
+    "slug": "pocket-monsters-special-scarlet-violet-volume-2",
+    "pageId": 318364,
+    "revisionId": 4481832
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pocket-monsters-special-scarlet-violet-volume-2__318364.json",
+    "revisionTimestamp": "2026-02-03T21:06:14Z",
+    "fetchedAt": "2026-05-14T15:34:26.533Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 2 is the second volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 2 is the second volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n \n \n \n\n==Chapters== \nPASV07\nPASV08\nPASV09\nPASV10\nPASV11\nPASV12\n\n \n\n \n\n \n\nde:Band 2 (Pokémon Karmesin und Purpur – Der Manga)\nes:Tomo 2 (Pocket Monsters Special Scarlet y Violet)\nfr:Tome 2 (Pocket Monsters Special Écarlate et Violet)\nit:Pocket Monsters Special Scarlet Violet volume 2\nzh:宝可梦特别篇朱·紫2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Publications",
+      "level": 2,
+      "text": "==Chapters== \nPASV07\nPASV08\nPASV09\nPASV10\nPASV11\nPASV12\n\n \n\n \n\n \n\nde:Band 2 (Pokémon Karmesin und Purpur – Der Manga)\nes:Tomo 2 (Pocket Monsters Special Scarlet y Violet)\nfr:Tome 2 (Pocket Monsters Special Écarlate et Violet)\nit:Pocket Monsters Special Scarlet Violet volume 2\nzh:宝可梦特别篇朱·紫2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters Special Scarlet Violet volume 2",
+    "pageType": "pokemon-related",
+    "searchableText": "Pocket Monsters Special Scarlet Violet volume 2\nCategory:Pokémon Adventures volumes\nVolume 2 is the second volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Publications"
+    ],
+    "characterCount": 586,
+    "sectionCount": 2
+  }
+}

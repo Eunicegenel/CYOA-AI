@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Bill's wife",
+    "slug": "bills-wife",
+    "pageId": 229177,
+    "revisionId": 4129349
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters characters",
+    "sourceFileName": "bills-wife__229177.json",
+    "revisionTimestamp": "2024-09-28T03:31:58Z",
+    "fetchedAt": "2026-05-14T15:14:04.261Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Bill's wife (Japanese: マサキの奥さん Masaki's wife) is a character from the Pokémon Pocket Monsters . She is the wife of Bill.",
+  "plainText": "Bill's wife (Japanese: マサキの奥さん Masaki's wife) is a character from the Pokémon Pocket Monsters . She is the wife of Bill.\n\n==History==\n \nBill's wife briefly appeared in Obtain the Moon Stone!! as a where she snatched a Moon Stone out of Misty's hands.\n\nIn Search For The Mirage Pokémon Mew!!, and went after Bill's wife to get the Moon Stone back and arrived in an abandoned water mill. It was then revealed that Bill and his wife were transformed into a leopard and Mew respectively from an unsuccessful experiment, which his wife noted, when they combined themselves with a cat when they wanted to combine a human and an animal together. After doing so, Bill's wife went out to search for a Moon Stone in order to get changed back to humans. Green, after hearing her story, attempted to catch her but failed as Bill blocked it. Later, Bill's wife placed the Moon Stone on a machine and Bill was able to change her and himself back to humans.\n\nBill's wife reappeared in Bring Down the Strongest Pokemon!!. She was held hostage by and his twin brother so that Bill could continue the creation of using Mew's DNA. \n\n \n \n \n\n \n \n \n\nes:Esposa de Bill\nit:Moglie di Bill",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bill's wife (Japanese: マサキの奥さん Masaki's wife) is a character from the Pokémon Pocket Monsters . She is the wife of Bill."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Bill's wife briefly appeared in Obtain the Moon Stone!! as a where she snatched a Moon Stone out of Misty's hands.\n\nIn Search For The Mirage Pokémon Mew!!, and went after Bill's wife to get the Moon Stone back and arrived in an abandoned water mill. It was then revealed that Bill and his wife were transformed into a leopard and Mew respectively from an unsuccessful experiment, which his wife noted, when they combined themselves with a cat when they wanted to combine a human and an animal together. After doing so, Bill's wife went out to search for a Moon Stone in order to get changed back to humans. Green, after hearing her story, attempted to catch her but failed as Bill blocked it. Later, Bill's wife placed the Moon Stone on a machine and Bill was able to change her and himself back to humans.\n\nBill's wife reappeared in Bring Down the Strongest Pokemon!!. She was held hostage by and his twin brother so that Bill could continue the creation of using Mew's DNA. \n\n \n \n \n\n \n \n \n\nes:Esposa de Bill\nit:Moglie di Bill"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bill's wife",
+    "pageType": "character",
+    "searchableText": "Bill's wife\nCategory:Pokémon Pocket Monsters characters\nBill's wife (Japanese: マサキの奥さん Masaki's wife) is a character from the Pokémon Pocket Monsters . She is the wife of Bill.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 1163,
+    "sectionCount": 2
+  }
+}

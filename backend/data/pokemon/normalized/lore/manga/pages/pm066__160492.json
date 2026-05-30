@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM066",
+    "slug": "pm066",
+    "pageId": 160492,
+    "revisionId": 4527308
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm066__160492.json",
+    "revisionTimestamp": "2026-04-09T15:32:28Z",
+    "fetchedAt": "2026-05-14T15:31:11.200Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Hatch the Pokémon Egg!! (Japanese: カえって！！気になる卵 Come Back!! Worrying About the Egg) is the sixty-sixth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Hatch the Pokémon Egg!! (Japanese: カえって！！気になる卵 Come Back!! Worrying About the Egg) is the sixty-sixth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( ; hatches)\n( 's)\n\n==Trivia==\n\n \n \n \n\nde:Kapitel 66 (Pokémon Pocket Monsters)\nit:PMM066",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hatch the Pokémon Egg!! (Japanese: カえって！！気になる卵 Come Back!! Worrying About the Egg) is the sixty-sixth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( ; hatches)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 66 (Pokémon Pocket Monsters)\nit:PMM066"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM066",
+    "pageType": "chapter",
+    "searchableText": "PM066\nCategory:Pokémon Pocket Monsters chapters\nHatch the Pokémon Egg!! (Japanese: カえって！！気になる卵 Come Back!! Worrying About the Egg) is the sixty-sixth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 357,
+    "sectionCount": 3
+  }
+}

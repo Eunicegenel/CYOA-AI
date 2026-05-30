@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB40",
+    "slug": "rb40",
+    "pageId": 152597,
+    "revisionId": 4246091
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb40__152597.json",
+    "revisionTimestamp": "2025-02-23T03:27:49Z",
+    "fetchedAt": "2026-05-14T15:47:41.013Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 左腕 Left Arm) is the 40th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 左腕 Left Arm) is the 40th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nRyouga's battle against Fraud continues.\nYappy manages to escape from the cage and plans to take the Burst Hearts.\nFraud reveals his strongest attack that is known as \"Invincible.\"\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nFraud\nHariru\nRyouga\nMiruto\nYappy\nRush\nLoren\nEurou\nPikke\nRurimaru\nDokan\nRabine\nAfron\nKaruta\nCarola\nPlayers\n\n===Pokémon===\n(Ryouga's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB40",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 左腕 Left Arm) is the 40th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga's battle against Fraud continues.\nYappy manages to escape from the cage and plans to take the Burst Hearts.\nFraud reveals his strongest attack that is known as \"Invincible.\""
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Fraud\nHariru\nRyouga\nMiruto\nYappy\nRush\nLoren\nEurou\nPikke\nRurimaru\nDokan\nRabine\nAfron\nKaruta\nCarola\nPlayers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ryouga's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB40"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB40",
+    "pageType": "chapter",
+    "searchableText": "RB40\nCategory:Pokémon RéBURST chapters\n(Japanese: 左腕 Left Arm) is the 40th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 511,
+    "sectionCount": 4
+  }
+}

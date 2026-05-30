@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "How Do You Do, Pikachu?",
+    "slug": "how-do-you-do-pikachu",
+    "pageId": 178002,
+    "revisionId": 4168429
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "how-do-you-do-pikachu__178002.json",
+    "revisionTimestamp": "2024-10-26T16:13:44Z",
+    "fetchedAt": "2026-05-14T15:21:48.721Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: How Do You Do, Pikachu? is the first monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the first two chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a section of fan art submitted by readers which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: How Do You Do, Pikachu? is the first monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the first two chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a section of fan art submitted by readers which was not part of the regular volume.\n\n== Blurb ==\nPIKACHU, CLEFAIRY & JIGGLYPUFF\n\nHazel goes to her Grandpa, a Pokémon researcher and inept magician, for a love potion to hook her beloved Pokémon trainer-friend Almondo. But the resulting potion doesn't make hearts flutter--it makes Grandpa's lab explode! For the promise of more and better love potion, Hazel is convinced to travel the world studying any Pokémon she finds...\n\nIN THIS ISSUE: Hazel meets Pikachu, but how can she win its trust when her beloved Almondo just wants to catch it? And, will Pikachu be flattered by Hazel's drawing of it? Then, the story of how Hazel saved Clefairy from Ekans and Arbok!\n\n==Publications==\n \n \n \n\n==Chapters==\nHow Do You Do, Pikachu?\nClefairy Comes Through\n\n==Important events==\nHazel sets out to catch Pokémon for Grandpa.\nHazel meets .\nHazel meets .\nand the Ekans Brothers are introduced.\n\n \n \n\nit:Piacere di conoscerti, Pikachu!",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: How Do You Do, Pikachu? is the first monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the first two chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a section of fan art submitted by readers which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "PIKACHU, CLEFAIRY & JIGGLYPUFF\n\nHazel goes to her Grandpa, a Pokémon researcher and inept magician, for a love potion to hook her beloved Pokémon trainer-friend Almondo. But the resulting potion doesn't make hearts flutter--it makes Grandpa's lab explode! For the promise of more and better love potion, Hazel is convinced to travel the world studying any Pokémon she finds...\n\nIN THIS ISSUE: Hazel meets Pikachu, but how can she win its trust when her beloved Almondo just wants to catch it? And, will Pikachu be flattered by Hazel's drawing of it? Then, the story of how Hazel saved Clefairy from Ekans and Arbok!"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "How Do You Do, Pikachu?\nClefairy Comes Through"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Hazel sets out to catch Pokémon for Grandpa.\nHazel meets .\nHazel meets .\nand the Ekans Brothers are introduced.\n\n \n \n\nit:Piacere di conoscerti, Pikachu!"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "How Do You Do, Pikachu?",
+    "pageType": "pokemon-related",
+    "searchableText": "How Do You Do, Pikachu?\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: How Do You Do, Pikachu? is the first monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the first two chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a section of fan art submitted by readers which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 1289,
+    "sectionCount": 4
+  }
+}

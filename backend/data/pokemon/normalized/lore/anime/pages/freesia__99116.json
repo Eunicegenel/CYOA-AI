@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Freesia",
+    "slug": "freesia",
+    "pageId": 99116,
+    "revisionId": 4167773
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "freesia__99116.json",
+    "revisionTimestamp": "2024-10-25T21:59:00Z",
+    "fetchedAt": "2026-05-14T14:19:37.475Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Freesia (Japanese: フリージア Freesia) is a minor recurring character in . She made her main appearance in Dawn of a Royal Day!.\n\nFreesia is one of the people who works for Princess Salvia, who she appears to have a close friendship with. She confronted and outside of the Arrowroot Town Contest Hall, when suddenly began to flirt with her. After Brock's Croagunk him, Freesia asked to help the princess by switching places. After they did so, she stayed by Dawn's side to advise her throughout the required royal duties.\n\nFreesia made a brief cameo in A Grand Fight For Winning!, where she, along with Salvia, was seen watching the Contest Battle between Zoey and Dawn in the final round of the Sinnoh Grand Festival.",
+  "plainText": "Freesia (Japanese: フリージア Freesia) is a minor recurring character in . She made her main appearance in Dawn of a Royal Day!.\n\nFreesia is one of the people who works for Princess Salvia, who she appears to have a close friendship with. She confronted and outside of the Arrowroot Town Contest Hall, when suddenly began to flirt with her. After Brock's Croagunk him, Freesia asked to help the princess by switching places. After they did so, she stayed by Dawn's side to advise her throughout the required royal duties.\n\nFreesia made a brief cameo in A Grand Fight For Winning!, where she, along with Salvia, was seen watching the Contest Battle between Zoey and Dawn in the final round of the Sinnoh Grand Festival.\n\n==Voice actors==\n \n\n==Trivia==\nHer name comes from , a genus of flowering plants in the family .\n\n \n\n \n \n\nes:Freesia\nit:Freesia\nja:フリージア\nzh:芙莉佳",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Freesia (Japanese: フリージア Freesia) is a minor recurring character in . She made her main appearance in Dawn of a Royal Day!.\n\nFreesia is one of the people who works for Princess Salvia, who she appears to have a close friendship with. She confronted and outside of the Arrowroot Town Contest Hall, when suddenly began to flirt with her. After Brock's Croagunk him, Freesia asked to help the princess by switching places. After they did so, she stayed by Dawn's side to advise her throughout the required royal duties.\n\nFreesia made a brief cameo in A Grand Fight For Winning!, where she, along with Salvia, was seen watching the Contest Battle between Zoey and Dawn in the final round of the Sinnoh Grand Festival."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Her name comes from , a genus of flowering plants in the family .\n\n \n\n \n \n\nes:Freesia\nit:Freesia\nja:フリージア\nzh:芙莉佳"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Freesia",
+    "pageType": "character",
+    "searchableText": "Freesia\nCategory:Animation characters\nFreesia (Japanese: フリージア Freesia) is a minor recurring character in . She made her main appearance in Dawn of a Royal Day!.\n\nFreesia is one of the people who works for Princess Salvia, who she appears to have a close friendship with. She confronted and outside of the Arrowroot Town Contest Hall, when suddenly began to flirt with her. After Brock's Croagunk him, Freesia asked to help the princess by switching places. After they did so, she stayed by Dawn's side to advise her throughout the required royal duties.\n\nFreesia made a brief cameo in A Grand Fight For Winning!, where she, along with Salvia, was seen watching the Contest Battle between Zoey and Dawn in the final round of the Sinnoh Grand Festival.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 858,
+    "sectionCount": 2
+  }
+}

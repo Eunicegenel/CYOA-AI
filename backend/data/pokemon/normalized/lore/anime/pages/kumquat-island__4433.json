@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Kumquat Island",
+    "slug": "kumquat-island",
+    "pageId": 4433,
+    "revisionId": 4441373
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands",
+    "sourceFileName": "kumquat-island__4433.json",
+    "revisionTimestamp": "2025-12-12T02:44:39Z",
+    "fetchedAt": "2026-05-14T14:30:03.074Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kumquat Island (Japanese: リュウチン島 Liucheng Island) is located in the northern region of the Orange Islands. It is a well known luxury seaside resort. Its main settlement includes many hotels, beautiful beaches, and natural hot springs.",
+  "plainText": "Kumquat Island (Japanese: リュウチン島 Liucheng Island) is located in the northern region of the Orange Islands. It is a well known luxury seaside resort. Its main settlement includes many hotels, beautiful beaches, and natural hot springs.\n\n==Places of interest==\n===Kumquat Hotel & Gym===\n \nThe Gym on Kumquat Island is the main place of interest, and it is part of the luxurious Kumquat Hotel. The Hotel offers many amenities including a dance studio for Pokémon Trainers to get their Pokémon into shape and relaxing hot springs.\n\nThe resident Gym Leader and hotelier is Luana. Her Gym hosts Double Battles, but the battle ends when the first Pokémon faints, not both. If the challenger should defeat the Gym Leader, they will receive the .\n\n==Pokémon seen on Kumquat Island==\n \n\n==Trivia==\n==Names==\n \n \n==Related articles==\n \n \n\n \n\nde:Kumquat Insel\nes:Isla Kumquat\nfr:Île Citrus\nit:Isola Kumquat\nzh:榴柑岛",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kumquat Island (Japanese: リュウチン島 Liucheng Island) is located in the northern region of the Orange Islands. It is a well known luxury seaside resort. Its main settlement includes many hotels, beautiful beaches, and natural hot springs."
+    },
+    {
+      "heading": "Kumquat Hotel & Gym",
+      "level": 3,
+      "text": "The Gym on Kumquat Island is the main place of interest, and it is part of the luxurious Kumquat Hotel. The Hotel offers many amenities including a dance studio for Pokémon Trainers to get their Pokémon into shape and relaxing hot springs.\n\nThe resident Gym Leader and hotelier is Luana. Her Gym hosts Double Battles, but the battle ends when the first Pokémon faints, not both. If the challenger should defeat the Gym Leader, they will receive the ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Kumquat Insel\nes:Isla Kumquat\nfr:Île Citrus\nit:Isola Kumquat\nzh:榴柑岛"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kumquat Island",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kumquat Island\nCategory:Orange Islands\nKumquat Island (Japanese: リュウチン島 Liucheng Island) is located in the northern region of the Orange Islands. It is a well known luxury seaside resort. Its main settlement includes many hotels, beautiful beaches, and natural hot springs.",
+    "sectionHeadings": [
+      "Lead",
+      "Kumquat Hotel & Gym",
+      "Related articles"
+    ],
+    "characterCount": 901,
+    "sectionCount": 3
+  }
+}

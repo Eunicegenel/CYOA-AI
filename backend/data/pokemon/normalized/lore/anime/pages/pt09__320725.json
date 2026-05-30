@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PT09",
+    "slug": "pt09",
+    "pageId": 320725,
+    "revisionId": 4308352
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Undubbed episodes",
+    "sourceFileName": "pt09__320725.json",
+    "revisionTimestamp": "2025-05-22T07:03:46Z",
+    "fetchedAt": "2026-05-14T14:45:10.924Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "(Japanese: パモパモットパーモット！ , , !) is the first episode of the second season of POKÉTOON and ninth overall. It was first released in Japan on the official Pokémon YouTube channel on September 18, 2024 .",
+  "plainText": "(Japanese: パモパモットパーモット！ , , !) is the first episode of the second season of POKÉTOON and ninth overall. It was first released in Japan on the official Pokémon YouTube channel on September 18, 2024 .\n\n==Blurb==\n\n==Plot==\nA young girl is having a picnic, eating sandwiches when she notices a group of , , and dancing. She tries to grab them but fails. She asks her dad to grab them for her, and he agrees and brings the Pawmi to her. The girl hugs the Pawmi, making it happy, but notices the Pawmo and Pawmot and wants them too. The girl's dad brings over the Pawmot, struggling to carry it as it is slightly heavy. The girl pokes Pawmot's fur, and it releases electricity, shocking the dad in the process. The Pawmo, being the only one remaining, comes over to them on its own, and the girl's dad opens his arms wide to receive it. The Pawmo, however, jumps over the dad, landing in the girl's arms. The girl and the three Pokémon then dance together, and after exerting themselves, fall asleep together.\n\n==Major events==\n\n==Characters==\n===Humans===\nGirl\nGirl's father\n\n===Pokémon===\n\n==Cast==\n===Staff===\n \n\n==Video==\n \n\n==Trivia==\n===Errors===\n\n==In other languages==\n \n\n \n \n \n\n \n\nde:Pamo Pamot Parmot!\nes:TOON09\nja:パモパモットパーモット!\nzh:布拨布土拨巴布土拨！",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: パモパモットパーモット！ , , !) is the first episode of the second season of POKÉTOON and ninth overall. It was first released in Japan on the official Pokémon YouTube channel on September 18, 2024 ."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "A young girl is having a picnic, eating sandwiches when she notices a group of , , and dancing. She tries to grab them but fails. She asks her dad to grab them for her, and he agrees and brings the Pawmi to her. The girl hugs the Pawmi, making it happy, but notices the Pawmo and Pawmot and wants them too. The girl's dad brings over the Pawmot, struggling to carry it as it is slightly heavy. The girl pokes Pawmot's fur, and it releases electricity, shocking the dad in the process. The Pawmo, being the only one remaining, comes over to them on its own, and the girl's dad opens his arms wide to receive it. The Pawmo, however, jumps over the dad, landing in the girl's arms. The girl and the three Pokémon then dance together, and after exerting themselves, fall asleep together."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Girl\nGirl's father"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Pamo Pamot Parmot!\nes:TOON09\nja:パモパモットパーモット!\nzh:布拨布土拨巴布土拨！"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PT09",
+    "pageType": "episode",
+    "searchableText": "PT09\nCategory:Undubbed episodes\n(Japanese: パモパモットパーモット！ , , !) is the first episode of the second season of POKÉTOON and ninth overall. It was first released in Japan on the official Pokémon YouTube channel on September 18, 2024 .",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "In other languages"
+    ],
+    "characterCount": 1245,
+    "sectionCount": 4
+  }
+}

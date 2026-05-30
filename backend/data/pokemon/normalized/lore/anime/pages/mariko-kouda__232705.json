@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Mariko Kouda",
+    "slug": "mariko-kouda",
+    "pageId": 232705,
+    "revisionId": 4323368
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "mariko-kouda__232705.json",
+    "revisionTimestamp": "2025-06-24T03:28:57Z",
+    "fetchedAt": "2026-05-14T14:35:00.290Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Mariko Kouda (Japanese: 國府田マリ子 Kouda Mariko) is a Japanese voice actress for .",
+  "plainText": "Mariko Kouda (Japanese: 國府田マリ子 Kouda Mariko) is a Japanese voice actress for .\n\n==Biography==\nKouda was born on September 5, 1989, in , . She graduated from Kasukabe Kyōei High School and became a communications major at Tamagawa University in . After graduating from college in 1990, Kouda became a voice actress, singer, and radio personality as an adult. She was once affiliated with the voice acting group Drops, which has since disbanded. Kouda became involved with the during , voicing recurring character Sakura, a Kimono Girl. She is currently affiliated with the talent management firm . She announced her marriage in 2003.\n\n==Pokémon roles==\n===Animation===\n==== ====\nSakura\n\n==Other non-Pokémon roles==\nYukari Aozora, Maho ( )\nShuko ( )\nShaorin ( )\nKaya ( )\nYoung Witch Marie ( )\nNayuki Minase ( )\nReika ( )\nVivian ( )\nRuby, Denbo ( )\nMiko Shirogane ( )\nSayuri Daimon ( )\nMako Yakumaru ( )\nJuri Kuran ( )\nIkuyo Hoshizora ( )\nQueen Mirage ( )\nMoose ( )\n\n==External links==\nAoni Production profile\nTwitter\nOfficial blog",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mariko Kouda (Japanese: 國府田マリ子 Kouda Mariko) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kouda was born on September 5, 1989, in , . She graduated from Kasukabe Kyōei High School and became a communications major at Tamagawa University in . After graduating from college in 1990, Kouda became a voice actress, singer, and radio personality as an adult. She was once affiliated with the voice acting group Drops, which has since disbanded. Kouda became involved with the during , voicing recurring character Sakura, a Kimono Girl. She is currently affiliated with the talent management firm . She announced her marriage in 2003."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Sakura"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Yukari Aozora, Maho ( )\nShuko ( )\nShaorin ( )\nKaya ( )\nYoung Witch Marie ( )\nNayuki Minase ( )\nReika ( )\nVivian ( )\nRuby, Denbo ( )\nMiko Shirogane ( )\nSayuri Daimon ( )\nMako Yakumaru ( )\nJuri Kuran ( )\nIkuyo Hoshizora ( )\nQueen Mirage ( )\nMoose ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Aoni Production profile\nTwitter\nOfficial blog"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mariko Kouda",
+    "pageType": "general-anime-lore",
+    "searchableText": "Mariko Kouda\nCategory:Japanese voice actors\nMariko Kouda (Japanese: 國府田マリ子 Kouda Mariko) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1028,
+    "sectionCount": 5
+  }
+}

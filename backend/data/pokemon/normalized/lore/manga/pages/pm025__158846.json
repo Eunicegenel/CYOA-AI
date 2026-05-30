@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM025",
+    "slug": "pm025",
+    "pageId": 158846,
+    "revisionId": 4526590
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm025__158846.json",
+    "revisionTimestamp": "2026-04-09T14:57:23Z",
+    "fetchedAt": "2026-05-14T15:30:45.126Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Bring Down the Strongest Pokémon!! (Japanese: 最強ポケモンをぶったおせ！！ Bring Down the Strongest Pokémon!!) is the twenty-fifth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Bring Down the Strongest Pokémon!! (Japanese: 最強ポケモンをぶったおせ！！ Bring Down the Strongest Pokémon!!) is the twenty-fifth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\nkidnaps Bill and his wife in order to create , and has Bill forced to finish it.\nGiovanni successfully gets a to make his creation complete.\nMewtwo, after receiving Clefairy's DNA, is released along with Mew.\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nBill\nBill's wife\n\n===Pokémon===\n( ) \n( )\n( )\n(Giovanni's; released)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's; released)\n\n==Trivia==\n\n \n \n\nde:Kapitel 25 (Pokémon Pocket Monsters)\nit:PMM025",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bring Down the Strongest Pokémon!! (Japanese: 最強ポケモンをぶったおせ！！ Bring Down the Strongest Pokémon!!) is the twenty-fifth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "kidnaps Bill and his wife in order to create , and has Bill forced to finish it.\nGiovanni successfully gets a to make his creation complete.\nMewtwo, after receiving Clefairy's DNA, is released along with Mew."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Bill\nBill's wife"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(Giovanni's; released)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's; released)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 25 (Pokémon Pocket Monsters)\nit:PMM025"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM025",
+    "pageType": "chapter",
+    "searchableText": "PM025\nCategory:Pokémon Pocket Monsters chapters\nBring Down the Strongest Pokémon!! (Japanese: 最強ポケモンをぶったおせ！！ Bring Down the Strongest Pokémon!!) is the twenty-fifth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 663,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon the Movie 2000 (score)",
+    "slug": "pokemon-the-movie-2000-score",
+    "pageId": 24455,
+    "revisionId": 4275573
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie soundtracks",
+    "sourceFileName": "pokemon-the-movie-2000-score__24455.json",
+    "revisionTimestamp": "2025-04-03T13:03:37Z",
+    "fetchedAt": "2026-05-14T14:43:40.093Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Pokémon the Movie 2000 - The Power of One is the English score to the second Pokémon movie, The Power of One.\n\nIt was released on its own in Germany and Brazil. In , it was available in a 2-disc bundle pack with Pokémon 3: The Ultimate Soundtrack.\n\nIt was released on the iTunes Store in 2004 by , but it was removed from the store in most countries following iTunes' move to .",
+  "plainText": "Pokémon the Movie 2000 - The Power of One is the English score to the second Pokémon movie, The Power of One.\n\nIt was released on its own in Germany and Brazil. In , it was available in a 2-disc bundle pack with Pokémon 3: The Ultimate Soundtrack.\n\nIt was released on the iTunes Store in 2004 by , but it was removed from the store in most countries following iTunes' move to .\n\n==Tracklist==\n \n\nPokémon World was not included on the Australian CD.\n\n==In other languages==\n \n\n==Gallery==\n \n\n==Trivia==\nThe version of featured on this album is by Russell Velázquez, not the version from the movie.\nThe ninth track, The Guardian's Song is identical to The Legend Comes to Life on the Atlantic movie soundtrack.\n\n==Related articles==\n \n \n \n \n \n\nde:Pokémon 2 – Die Macht des Einzelnen (CD)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon the Movie 2000 - The Power of One is the English score to the second Pokémon movie, The Power of One.\n\nIt was released on its own in Germany and Brazil. In , it was available in a 2-disc bundle pack with Pokémon 3: The Ultimate Soundtrack.\n\nIt was released on the iTunes Store in 2004 by , but it was removed from the store in most countries following iTunes' move to ."
+    },
+    {
+      "heading": "Tracklist",
+      "level": 2,
+      "text": "Pokémon World was not included on the Australian CD."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The version of featured on this album is by Russell Velázquez, not the version from the movie.\nThe ninth track, The Guardian's Song is identical to The Legend Comes to Life on the Atlantic movie soundtrack."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Pokémon 2 – Die Macht des Einzelnen (CD)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon the Movie 2000 (score)",
+    "pageType": "movie",
+    "searchableText": "Pokémon the Movie 2000 (score)\nCategory:Movie soundtracks\nPokémon the Movie 2000 - The Power of One is the English score to the second Pokémon movie, The Power of One.\n\nIt was released on its own in Germany and Brazil. In , it was available in a 2-disc bundle pack with Pokémon 3: The Ultimate Soundtrack.\n\nIt was released on the iTunes Store in 2004 by , but it was removed from the store in most countries following iTunes' move to .",
+    "sectionHeadings": [
+      "Lead",
+      "Tracklist",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 785,
+    "sectionCount": 4
+  }
+}

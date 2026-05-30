@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Evolution Mountain",
+    "slug": "evolution-mountain",
+    "pageId": 162384,
+    "revisionId": 4261394
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "evolution-mountain__162384.json",
+    "revisionTimestamp": "2025-03-19T22:49:04Z",
+    "fetchedAt": "2026-05-14T14:18:39.538Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Evolution Mountain (Japanese: 進化山 Evolution Mountain) is an -exclusive mountain located in between the and Cinnabar Island. At its base lies Stone Town. Evolution Mountain is famous for the Evolution stones that can be found there.",
+  "plainText": "Evolution Mountain (Japanese: 進化山 Evolution Mountain) is an -exclusive mountain located in between the and Cinnabar Island. At its base lies Stone Town. Evolution Mountain is famous for the Evolution stones that can be found there.\n\n==In other languages==\n \n\n \n \n \n\n \n\nit:Montagna dell'evoluzione\nes:Montaña Evolución/de la Evolución\nzh:进化山",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Evolution Mountain (Japanese: 進化山 Evolution Mountain) is an -exclusive mountain located in between the and Cinnabar Island. At its base lies Stone Town. Evolution Mountain is famous for the Evolution stones that can be found there."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Montagna dell'evoluzione\nes:Montaña Evolución/de la Evolución\nzh:进化山"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Evolution Mountain",
+    "pageType": "location",
+    "searchableText": "Evolution Mountain\nCategory:Animated series-exclusive locations\nEvolution Mountain (Japanese: 進化山 Evolution Mountain) is an -exclusive mountain located in between the and Cinnabar Island. At its base lies Stone Town. Evolution Mountain is famous for the Evolution stones that can be found there.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 340,
+    "sectionCount": 2
+  }
+}

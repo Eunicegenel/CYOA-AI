@@ -1,0 +1,225 @@
+{
+  "identity": {
+    "title": "Ace Trainer (Trainer class)",
+    "slug": "ace-trainer-trainer-class",
+    "pageId": 4582,
+    "revisionId": 4543470
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Origins characters",
+    "sourceFileName": "ace-trainer-trainer-class__4582.json",
+    "revisionTimestamp": "2026-05-02T22:32:50Z",
+    "fetchedAt": "2026-05-14T13:58:07.195Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "CoolTrainer redirects here. For the glitch move commonly called \"CoolTrainer\", see -- (move). For the CoolTrainer♀ type, see List of glitch types in Generation I → CoolTrainer♀.\n \n \n \nAn Ace Trainer (Japanese: エリートトレーナー Elite Trainer; known as エリート♂ Elite♂ and エリート♀ Elite♀ in Generation I), referred to as a Cooltrainer from Generations I to , is a type of Pokémon Trainer that debuted in the Generation I games. They are depicted as teens or young adults and can be male or female.\n\nThey are Trainers who frequently travel around the world to meet new Trainers and take part in Pokémon League competitions. In Generation I, the Cooltrainers are shown to be carrying whips, which were also used by s, s, and s at the time. From Generation II onward, they no longer carry whips.\n\nThey often use strong and evolved Pokémon, have diversified and balanced parties, and their artificial intelligence is generally very good compared to other Trainer classes in their games. Like Gym Leaders, they often have healing items, and they also use type advantages to their advantage. They are usually seen during the mid to last part of the game in Victory Road, as they are presumably on their way to challenge the Elite Four. In the Battle Subway, some of them employ a set strategy revolving around the Ability . In Generation VI's Battle Maison, they have unspecialized teams that may occasionally include or .\n\nWhen paired together in Double Battles, they are called s in Generation III, s in Generation IV, and s in Generations VI and . Additionally, a duo of a male Ace Trainer and a male is called .\n\nIn , Cooltrainers use a team of five Pokémon, save for those in the Battle Tower and Cool Couples.\n\nIn the Sinnoh-based games, Ace Trainers have two sets of sprites, with one set of Ace Trainers dressed warmly for the s near Snowpoint City.\n\nIn , some Ace Trainers will give out PP Ups when defeated.\n\nIn , some Ace Trainers appear on top of ing Pokémon across Hoenn's water routes.\n\nIn , Ace Trainers keep their Pokémon in Ultra Balls. In addition, certain Ace Trainers possess Z-Rings or Z-Power Rings.\n\nIn , Ace Trainers will award five Ultra Balls along with prize money upon being defeated, except for Gym Trainers and Master Trainers.\n\nIn , Ace Trainers appear as CPU characters alongside Cynthia and Leon in the event mode. Four of them are on the opposing team in the Casual difficulty, and two of them are on the opposing team in the Intermediate difficulty. They replace the named characters who do not appear at those difficulties. They use random Unite Licenses from a limited pool, and their Pokémon sometimes use Holowear.",
+  "plainText": "CoolTrainer redirects here. For the glitch move commonly called \"CoolTrainer\", see -- (move). For the CoolTrainer♀ type, see List of glitch types in Generation I → CoolTrainer♀.\n \n \n \nAn Ace Trainer (Japanese: エリートトレーナー Elite Trainer; known as エリート♂ Elite♂ and エリート♀ Elite♀ in Generation I), referred to as a Cooltrainer from Generations I to , is a type of Pokémon Trainer that debuted in the Generation I games. They are depicted as teens or young adults and can be male or female.\n\nThey are Trainers who frequently travel around the world to meet new Trainers and take part in Pokémon League competitions. In Generation I, the Cooltrainers are shown to be carrying whips, which were also used by s, s, and s at the time. From Generation II onward, they no longer carry whips.\n\nThey often use strong and evolved Pokémon, have diversified and balanced parties, and their artificial intelligence is generally very good compared to other Trainer classes in their games. Like Gym Leaders, they often have healing items, and they also use type advantages to their advantage. They are usually seen during the mid to last part of the game in Victory Road, as they are presumably on their way to challenge the Elite Four. In the Battle Subway, some of them employ a set strategy revolving around the Ability . In Generation VI's Battle Maison, they have unspecialized teams that may occasionally include or .\n\nWhen paired together in Double Battles, they are called s in Generation III, s in Generation IV, and s in Generations VI and . Additionally, a duo of a male Ace Trainer and a male is called .\n\nIn , Cooltrainers use a team of five Pokémon, save for those in the Battle Tower and Cool Couples.\n\nIn the Sinnoh-based games, Ace Trainers have two sets of sprites, with one set of Ace Trainers dressed warmly for the s near Snowpoint City.\n\nIn , some Ace Trainers will give out PP Ups when defeated.\n\nIn , some Ace Trainers appear on top of ing Pokémon across Hoenn's water routes.\n\nIn , Ace Trainers keep their Pokémon in Ultra Balls. In addition, certain Ace Trainers possess Z-Rings or Z-Power Rings.\n\nIn , Ace Trainers will award five Ultra Balls along with prize money upon being defeated, except for Gym Trainers and Master Trainers.\n\nIn , Ace Trainers appear as CPU characters alongside Cynthia and Leon in the event mode. Four of them are on the opposing team in the Casual difficulty, and two of them are on the opposing team in the Intermediate difficulty. They replace the named characters who do not appear at those difficulties. They use random Unite Licenses from a limited pool, and their Pokémon sometimes use Holowear.\n\n==Terminology==\nIn Generations I to III, this Trainer class is referred to as COOLTRAINER in ALLCAPS. In some related materials, such as the English Pokémon Battle e cards and Generation II Nintendo Power guidebooks, it is formatted as COOL TRAINER, including a space that is not present in the games themselves. In guidebooks, which often present these names in sentence case, it is often formatted as either Cooltrainer or Cool Trainer. \n\nFrom Generation IV onward, this Trainer class is named Ace Trainer.\n\n==Gallery==\n===In the core series===\n====Artwork====\n \n\n====Sprites and models====\n \n \n\n====Pokéstar Studios====\n \n\n===In other games===\n====Artwork====\n \n\n====Sprites and models====\n \n \n\n==Trainer list==\n \n===Pokémon Red, Blue, and Yellow===\nIn these games a random number is generated every turn, and if it falls within a specific range a checklist is followed to determine whether the Trainer will perform a special action like switching or using an item. The AI check is meant to be performed 25% of the time for both Cooltrainer types. However, the Cooltrainer♀ AI code is bugged and fails to properly handle the random check, meaning that Cooltrainer♀s will always perform the relevant actions when their individual requirements are fulfilled. The Cooltrainer♂ code does not have this bug, and thus occurs at the proper rate.\n\nCooltrainer♂s have access to two X Attacks, which they will use 25% of the time. Cooltrainer♀s, on the other hand, are coded to check their Pokémon's current HP and perform one of two actions when it's under a certain threshold. If their current Pokémon is under 10% HP, they will use a Hyper Potion. If their Pokémon is not under 10% HP, but is under 20% HP, they will instead switch out to the next Pokémon in their party. Because of the aforementioned bug, Cooltrainer♀s will do this continuously so long as the HP condition remains true, which can lead to a Cooltrainer♀ switching two Pokémon for each other ad infinitum. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon Gold and Silver===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon Crystal===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon Ruby and Sapphire===\nCooltrainers each use a Super Potion, Hyper Potion, or Full Restore, depending on how strong their team is, accounting for rematches.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon Emerald===\nCooltrainers each use a Super Potion, Hyper Potion, or Full Restore, depending on how strong their team is, accounting for rematches.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nSee more: List of Battle Frontier Trainers in Generation III/Cooltrainer\n\n===Pokémon FireRed and LeafGreen===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon Diamond and Pearl===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nSee more: List of Battle Tower Trainers in Pokémon Diamond and Pearl/Ace Trainer\n\n===Pokémon Platinum===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nSee more: List of Battle Frontier Trainers in Generation IV/Ace Trainer\n\n===Pokémon HeartGold and SoulSilver===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon Black and White===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nSee more: List of Battle Subway Trainers/Ace Trainer\n\n===Pokémon Black 2 and White 2===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon X and Y===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nSee more: List of Battle Maison Trainers/Ace Trainer\n\n===Pokémon Omega Ruby and Alpha Sapphire===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n! colspan=\"9\" | \n \n \n \n \n \n \n\n===Pokémon Sun and Moon===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n! colspan=\"9\" | \n \n \n\nSee more:\nList of Battle Royal Dome Trainers/Ace Trainer\nList of Battle Tree Trainers/Ace Trainer\n\n===Pokémon Ultra Sun and Ultra Moon===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon Brilliant Diamond and Shining Pearl===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nSee more: List of Battle Tower Trainers in Pokémon Brilliant Diamond and Shining Pearl/Ace Trainer\n\n===Pokémon Legends: Z-A===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon Stadium===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon Stadium 2===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon Colosseum===\n====Story Mode====\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n====Battle Mode====\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon XD: Gale of Darkness===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n==In the spin-off games==\n===Pokémon UNITE===\nAce Trainers pull from a limited pool of licenses and holowear. All moves are chosen at random for each match. \n\n \n\n==In animation==\n \n===Pokémon the Series===\nSeveral characters based on Cooltrainers or Ace Trainers have appeared in :\nIn Mewtwo Strikes Back, Corey resembled the male Cooltrainer class in Generation II.\nIn Destiny Deoxys, Rafe resembled the male Cooltrainers in Generation III in .\nIn Shocks and Bonds and A Judgment Brawl, resembled the Generation III female Cooltrainers.\nA female Ace Trainer named Astrid debuted in Mega Evolution Special I. Her appearance resembled that of 's female Ace Trainers.\n\nA male Ace Trainer appeared in Tag! We're It...!, where he competed in the Hearthome City Tag Battle Competition. He was partnered with a and was one of and Paul's opponents. He ended up getting defeated, alongside the Scientist.\n\nA male Ace Trainer appeared in A Timeless Encounter!, where he battled Hala and his with his in a flashback, but was defeated.\n\nA female Ace Trainer appeared in Getting Down to The Ire!, where she observed the Manalo Conference.\n\n====Pokémon====\n \n=====DP050 Ace Trainer=====\n \n\n=====SM125 Ace Trainer=====\n \n\n===Pokémon Origins===\n ]]\nA female Cooltrainer appeared briefly in File 3: Giovanni as one of the Trainers seen in the Celadon Gym with Erika.\n\n===Pokémon Evolutions===\nA male and female Ace Trainer briefly appeared in The Plan. They were shown in Accumula Town, listening to Ghetsis's speech about the liberation of Pokémon.\n\nIn The Discovery, a female Ace Trainer was shown challenging to a battle.\n \n\n==In the manga==\n===Pokémon Adventures===\nMany Ace Trainers make cameos throughout Pokémon Adventures.\n\n==== ====\nIn Verily Vanquishing Vileplume I, a female Ace Trainer is one of the Trainers that participate in the Battle Dome challenge. She is pushed aside when tries to squeeze in to sit with the challengers.\n\n==== ====\nIn Out-Odding Oddish, a male Ace Trainer was seen entering the Pokéathlon Dome.\n\n==== ====\nIn Bombastic Bibarel & Heroic Hippopotas, two Ace Trainers in their winter clothes appear as challengers in the Seven Stars Restaurant, one with a , the other with a .\n\n==== ====\nIn Deprogramming Porygon-Z, a female Ace Trainer challenging the Battle Castle is shown with her .\n\n==== ====\nA male Ace Trainer with his in An Odd Speech, was one of the people listening to Ghetsis's speech.\n\nA male and female Ace Trainer were seen in Drawing Bridges amongst the Trainers waiting to get to cross the Driftveil Drawbridge.\n\nThe tutor of the Pledge moves in Driftveil City also bore the appearance of a male Ace Trainer in Fight in a Cold Climate.\n\nA female Ace Trainer with a is later seen in the Pokémon League, in Dream a Little Dream.\n\n==== ====\nA male Ace Trainer was shown giving commands to a in Colress's fantasy in Innocent Scientist.\n\n==== ====\nA female Ace Trainer appears in Kangaskhan...Kangascan't, walking together with a Lass in Santalune City.\n\nIn Xerneas Gives, a male Ace Trainer was seen walking at Lumiose City.\n\n==== ====\nIn Truth and the Mastermind Behind Team Skull, an Ace Trainer was briefly shown being intimidated by the Ultra Beasts that showed up in Alola.\n\n====Gallery====\n \nFile:Ace Trainer female III Adventures.png|A female Ace Trainer in Hoenn\nFile:Ace Trainer Shellos Mothim Adventures.png|Two Ace Trainers in winter clothes in Sinnoh\nFile:Ace Trainer Rhydon Psychic Banette Adventures.png|A female Ace Trainer in Sinnoh\nFile:Ace Trainer Sawk Adventures.png|A male Ace Trainer in Unova\nFile:Pokémon Breeder Lampent Ace Trainer Zweilous Adventures.png|A female Ace Trainer in Unova\nFile:Ace Trainer Lass Adventures.png|A female Ace Trainer in Kalos\nFile:Ace Trainer Chase Janitor Shawn Adventures.png|Ace Trainer Chase in Alola\n \n\n====Pokémon====\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n ]]\n\n===Pokémon Gold & Silver: The Golden Boys===\n fights a Cooltrainer (known by the Japanese class name of Elite Trainer) named Akira in a tournament in Let's Fight! The Mini Pokémon Tournament. Akira uses a .\n\n====Pokémon====\n \n\n===Pocket Monsters BW: Good Partners===\nA male Ace Trainer made an appearance in BWGP01, commenting on how the path to was blocked. He was later seen searching for the that was the cause for the obstruction and was later impressed when Takurō caught the Scraggy.\n\n==In the TCG==\nThis listing is of cards mentioning or featuring Ace Trainer in the Pokémon Trading Card Game.\n\n \n \n \n \n \n\n==Trivia==\n \n \nDespite appearing on top of a surfing sprite, some Ace Trainers on Hoenn's water routes battle without Pokémon that know .\nSome Cooltrainers/Ace Trainers own Pokémon with moves that couldn't be learned either in that generation at all or due to it being underleveled:\nIn , Cooltrainer Cruik has a that knows , which it could not legitimately know until Generation IV.\nIn , Cooltrainer Dianne has a that knows , even though it cannot legitimately learn the move in any generation.\nIn , Cooltrainer Noxon has an that knows at level 64, which it cannot learn until level 85 in Generation III.\nIn , Ace Trainer Nick has a that knows , which is a move it cannot legitimately obtain in that generation.\nIn Pokémon HeartGold and SoulSilver, there is a glitch with Ace Trainer Kate: if the player leaves the area after completing the Double Battle with Jenn and Irene, then comes back and talks to Kate from the side, she will speak to the player as if they had already battled. Then, if the player walks down towards her, she will start a battle while facing the wrong direction.\nIn Pokémon GO, \"Ace Trainer\" is the name of an achievement awarded for engaging in at least 10 s against any of the team leaders.\nOriginally, the medal could be achieved by training in a friendly by the same minimum amount, but the medal was decommissioned on June 19, 2017, with the update of the Gym system. It would not be used again until the introduction of Trainer Battles on December 13, 2018.\nAce Trainers in Alola-based Generation VII games were designed by TOKIYA. \nIn , a model of a male Ace Trainer using his design is in the game files, but goes unused.\nIn , Ace Trainer Deanna on Sinnoh Route 225 has a in a Cherish Ball, which was not the case in the original versions of , nor in . It was added as a reference to Shokotan Tropius, the first ever event Pokémon to be distributed in a Cherish Ball.\n\n==In other languages==\n \n\n==References==\n \n\n==Related articles==\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n\nde:Ass-Trainer\nes:Entrenador de Élite/Entrenador Guay\nfr:Topdresseur\nit:Fantallenatore e Fantallenatrice\nja:エリートトレーナー\nzh:精英训练家",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "CoolTrainer redirects here. For the glitch move commonly called \"CoolTrainer\", see -- (move). For the CoolTrainer♀ type, see List of glitch types in Generation I → CoolTrainer♀.\n \n \n \nAn Ace Trainer (Japanese: エリートトレーナー Elite Trainer; known as エリート♂ Elite♂ and エリート♀ Elite♀ in Generation I), referred to as a Cooltrainer from Generations I to , is a type of Pokémon Trainer that debuted in the Generation I games. They are depicted as teens or young adults and can be male or female.\n\nThey are Trainers who frequently travel around the world to meet new Trainers and take part in Pokémon League competitions. In Generation I, the Cooltrainers are shown to be carrying whips, which were also used by s, s, and s at the time. From Generation II onward, they no longer carry whips.\n\nThey often use strong and evolved Pokémon, have diversified and balanced parties, and their artificial intelligence is generally very good compared to other Trainer classes in their games. Like Gym Leaders, they often have healing items, and they also use type advantages to their advantage. They are usually seen during the mid to last part of the game in Victory Road, as they are presumably on their way to challenge the Elite Four. In the Battle Subway, some of them employ a set strategy revolving around the Ability . In Generation VI's Battle Maison, they have unspecialized teams that may occasionally include or .\n\nWhen paired together in Double Battles, they are called s in Generation III, s in Generation IV, and s in Generations VI and . Additionally, a duo of a male Ace Trainer and a male is called .\n\nIn , Cooltrainers use a team of five Pokémon, save for those in the Battle Tower and Cool Couples.\n\nIn the Sinnoh-based games, Ace Trainers have two sets of sprites, with one set of Ace Trainers dressed warmly for the s near Snowpoint City.\n\nIn , some Ace Trainers will give out PP Ups when defeated.\n\nIn , some Ace Trainers appear on top of ing Pokémon across Hoenn's water routes.\n\nIn , Ace Trainers keep their Pokémon in Ultra Balls. In addition, certain Ace Trainers possess Z-Rings or Z-Power Rings.\n\nIn , Ace Trainers will award five Ultra Balls along with prize money upon being defeated, except for Gym Trainers and Master Trainers.\n\nIn , Ace Trainers appear as CPU characters alongside Cynthia and Leon in the event mode. Four of them are on the opposing team in the Casual difficulty, and two of them are on the opposing team in the Intermediate difficulty. They replace the named characters who do not appear at those difficulties. They use random Unite Licenses from a limited pool, and their Pokémon sometimes use Holowear."
+    },
+    {
+      "heading": "Terminology",
+      "level": 2,
+      "text": "In Generations I to III, this Trainer class is referred to as COOLTRAINER in ALLCAPS. In some related materials, such as the English Pokémon Battle e cards and Generation II Nintendo Power guidebooks, it is formatted as COOL TRAINER, including a space that is not present in the games themselves. In guidebooks, which often present these names in sentence case, it is often formatted as either Cooltrainer or Cool Trainer. \n\nFrom Generation IV onward, this Trainer class is named Ace Trainer."
+    },
+    {
+      "heading": "Pokémon Red, Blue, and Yellow",
+      "level": 3,
+      "text": "In these games a random number is generated every turn, and if it falls within a specific range a checklist is followed to determine whether the Trainer will perform a special action like switching or using an item. The AI check is meant to be performed 25% of the time for both Cooltrainer types. However, the Cooltrainer♀ AI code is bugged and fails to properly handle the random check, meaning that Cooltrainer♀s will always perform the relevant actions when their individual requirements are fulfilled. The Cooltrainer♂ code does not have this bug, and thus occurs at the proper rate.\n\nCooltrainer♂s have access to two X Attacks, which they will use 25% of the time. Cooltrainer♀s, on the other hand, are coded to check their Pokémon's current HP and perform one of two actions when it's under a certain threshold. If their current Pokémon is under 10% HP, they will use a Hyper Potion. If their Pokémon is not under 10% HP, but is under 20% HP, they will instead switch out to the next Pokémon in their party. Because of the aforementioned bug, Cooltrainer♀s will do this continuously so long as the HP condition remains true, which can lead to a Cooltrainer♀ switching two Pokémon for each other ad infinitum."
+    },
+    {
+      "heading": "Pokémon Ruby and Sapphire",
+      "level": 3,
+      "text": "Cooltrainers each use a Super Potion, Hyper Potion, or Full Restore, depending on how strong their team is, accounting for rematches."
+    },
+    {
+      "heading": "Pokémon Emerald",
+      "level": 3,
+      "text": "Cooltrainers each use a Super Potion, Hyper Potion, or Full Restore, depending on how strong their team is, accounting for rematches.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nSee more: List of Battle Frontier Trainers in Generation III/Cooltrainer"
+    },
+    {
+      "heading": "Pokémon Diamond and Pearl",
+      "level": 3,
+      "text": "See more: List of Battle Tower Trainers in Pokémon Diamond and Pearl/Ace Trainer"
+    },
+    {
+      "heading": "Pokémon Platinum",
+      "level": 3,
+      "text": "See more: List of Battle Frontier Trainers in Generation IV/Ace Trainer"
+    },
+    {
+      "heading": "Pokémon Black and White",
+      "level": 3,
+      "text": "See more: List of Battle Subway Trainers/Ace Trainer"
+    },
+    {
+      "heading": "Pokémon X and Y",
+      "level": 3,
+      "text": "See more: List of Battle Maison Trainers/Ace Trainer"
+    },
+    {
+      "heading": "Pokémon Omega Ruby and Alpha Sapphire",
+      "level": 3,
+      "text": "! colspan=\"9\" |"
+    },
+    {
+      "heading": "Pokémon Sun and Moon",
+      "level": 3,
+      "text": "! colspan=\"9\" | \n \n \n\nSee more:\nList of Battle Royal Dome Trainers/Ace Trainer\nList of Battle Tree Trainers/Ace Trainer"
+    },
+    {
+      "heading": "Pokémon Brilliant Diamond and Shining Pearl",
+      "level": 3,
+      "text": "See more: List of Battle Tower Trainers in Pokémon Brilliant Diamond and Shining Pearl/Ace Trainer"
+    },
+    {
+      "heading": "Pokémon UNITE",
+      "level": 3,
+      "text": "Ace Trainers pull from a limited pool of licenses and holowear. All moves are chosen at random for each match."
+    },
+    {
+      "heading": "Pokémon the Series",
+      "level": 3,
+      "text": "Several characters based on Cooltrainers or Ace Trainers have appeared in :\nIn Mewtwo Strikes Back, Corey resembled the male Cooltrainer class in Generation II.\nIn Destiny Deoxys, Rafe resembled the male Cooltrainers in Generation III in .\nIn Shocks and Bonds and A Judgment Brawl, resembled the Generation III female Cooltrainers.\nA female Ace Trainer named Astrid debuted in Mega Evolution Special I. Her appearance resembled that of 's female Ace Trainers.\n\nA male Ace Trainer appeared in Tag! We're It...!, where he competed in the Hearthome City Tag Battle Competition. He was partnered with a and was one of and Paul's opponents. He ended up getting defeated, alongside the Scientist.\n\nA male Ace Trainer appeared in A Timeless Encounter!, where he battled Hala and his with his in a flashback, but was defeated.\n\nA female Ace Trainer appeared in Getting Down to The Ire!, where she observed the Manalo Conference."
+    },
+    {
+      "heading": "Pokémon Origins",
+      "level": 3,
+      "text": "]]\nA female Cooltrainer appeared briefly in File 3: Giovanni as one of the Trainers seen in the Celadon Gym with Erika."
+    },
+    {
+      "heading": "Pokémon Evolutions",
+      "level": 3,
+      "text": "A male and female Ace Trainer briefly appeared in The Plan. They were shown in Accumula Town, listening to Ghetsis's speech about the liberation of Pokémon.\n\nIn The Discovery, a female Ace Trainer was shown challenging to a battle."
+    },
+    {
+      "heading": "Pokémon Adventures",
+      "level": 3,
+      "text": "Many Ace Trainers make cameos throughout Pokémon Adventures."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "In Verily Vanquishing Vileplume I, a female Ace Trainer is one of the Trainers that participate in the Battle Dome challenge. She is pushed aside when tries to squeeze in to sit with the challengers."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "In Out-Odding Oddish, a male Ace Trainer was seen entering the Pokéathlon Dome."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "In Bombastic Bibarel & Heroic Hippopotas, two Ace Trainers in their winter clothes appear as challengers in the Seven Stars Restaurant, one with a , the other with a ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "In Deprogramming Porygon-Z, a female Ace Trainer challenging the Battle Castle is shown with her ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "A male Ace Trainer with his in An Odd Speech, was one of the people listening to Ghetsis's speech.\n\nA male and female Ace Trainer were seen in Drawing Bridges amongst the Trainers waiting to get to cross the Driftveil Drawbridge.\n\nThe tutor of the Pledge moves in Driftveil City also bore the appearance of a male Ace Trainer in Fight in a Cold Climate.\n\nA female Ace Trainer with a is later seen in the Pokémon League, in Dream a Little Dream."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "A male Ace Trainer was shown giving commands to a in Colress's fantasy in Innocent Scientist."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "A female Ace Trainer appears in Kangaskhan...Kangascan't, walking together with a Lass in Santalune City.\n\nIn Xerneas Gives, a male Ace Trainer was seen walking at Lumiose City."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "In Truth and the Mastermind Behind Team Skull, an Ace Trainer was briefly shown being intimidated by the Ultra Beasts that showed up in Alola."
+    },
+    {
+      "heading": "Gallery",
+      "level": 4,
+      "text": "File:Ace Trainer female III Adventures.png|A female Ace Trainer in Hoenn\nFile:Ace Trainer Shellos Mothim Adventures.png|Two Ace Trainers in winter clothes in Sinnoh\nFile:Ace Trainer Rhydon Psychic Banette Adventures.png|A female Ace Trainer in Sinnoh\nFile:Ace Trainer Sawk Adventures.png|A male Ace Trainer in Unova\nFile:Pokémon Breeder Lampent Ace Trainer Zweilous Adventures.png|A female Ace Trainer in Unova\nFile:Ace Trainer Lass Adventures.png|A female Ace Trainer in Kalos\nFile:Ace Trainer Chase Janitor Shawn Adventures.png|Ace Trainer Chase in Alola"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 4,
+      "text": "]]"
+    },
+    {
+      "heading": "Pokémon Gold & Silver: The Golden Boys",
+      "level": 3,
+      "text": "fights a Cooltrainer (known by the Japanese class name of Elite Trainer) named Akira in a tournament in Let's Fight! The Mini Pokémon Tournament. Akira uses a ."
+    },
+    {
+      "heading": "Pocket Monsters BW: Good Partners",
+      "level": 3,
+      "text": "A male Ace Trainer made an appearance in BWGP01, commenting on how the path to was blocked. He was later seen searching for the that was the cause for the obstruction and was later impressed when Takurō caught the Scraggy."
+    },
+    {
+      "heading": "In the TCG",
+      "level": 2,
+      "text": "This listing is of cards mentioning or featuring Ace Trainer in the Pokémon Trading Card Game."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Despite appearing on top of a surfing sprite, some Ace Trainers on Hoenn's water routes battle without Pokémon that know .\nSome Cooltrainers/Ace Trainers own Pokémon with moves that couldn't be learned either in that generation at all or due to it being underleveled:\nIn , Cooltrainer Cruik has a that knows , which it could not legitimately know until Generation IV.\nIn , Cooltrainer Dianne has a that knows , even though it cannot legitimately learn the move in any generation.\nIn , Cooltrainer Noxon has an that knows at level 64, which it cannot learn until level 85 in Generation III.\nIn , Ace Trainer Nick has a that knows , which is a move it cannot legitimately obtain in that generation.\nIn Pokémon HeartGold and SoulSilver, there is a glitch with Ace Trainer Kate: if the player leaves the area after completing the Double Battle with Jenn and Irene, then comes back and talks to Kate from the side, she will speak to the player as if they had already battled. Then, if the player walks down towards her, she will start a battle while facing the wrong direction.\nIn Pokémon GO, \"Ace Trainer\" is the name of an achievement awarded for engaging in at least 10 s against any of the team leaders.\nOriginally, the medal could be achieved by training in a friendly by the same minimum amount, but the medal was decommissioned on June 19, 2017, with the update of the Gym system. It would not be used again until the introduction of Trainer Battles on December 13, 2018.\nAce Trainers in Alola-based Generation VII games were designed by TOKIYA. \nIn , a model of a male Ace Trainer using his design is in the game files, but goes unused.\nIn , Ace Trainer Deanna on Sinnoh Route 225 has a in a Cherish Ball, which was not the case in the original versions of , nor in . It was added as a reference to Shokotan Tropius, the first ever event Pokémon to be distributed in a Cherish Ball."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Ass-Trainer\nes:Entrenador de Élite/Entrenador Guay\nfr:Topdresseur\nit:Fantallenatore e Fantallenatrice\nja:エリートトレーナー\nzh:精英训练家"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ace Trainer (Trainer class)",
+    "pageType": "character",
+    "searchableText": "Ace Trainer (Trainer class)\nCategory:Pokémon Origins characters\nCoolTrainer redirects here. For the glitch move commonly called \"CoolTrainer\", see -- (move). For the CoolTrainer♀ type, see List of glitch types in Generation I → CoolTrainer♀.\n \n \n \nAn Ace Trainer (Japanese: エリートトレーナー Elite Trainer; known as エリート♂ Elite♂ and エリート♀ Elite♀ in Generation I), referred to as a Cooltrainer from Generations I to , is a type of Pokémon Trainer that debuted in the Generation I games. They are depicted as teens or young adults and can be male or female.\n\nThey are Trainers who frequently travel around the world to meet new Trainers and take part in Pokémon League competitions. In Generation I, the Cooltrainers are shown to be carrying whips, which were also used by s, s, and s at the time. From Generation II onward, they no longer carry whips.\n\nThey often use strong and evolved Pokémon, have diversified and balanced parties, and their artificial intelligence is generally very good compared to other Trainer classes in their games. Like Gym Leaders, they often have healing items, and they also use type advantages to their advantage. They are usually seen during the mid to last part of the game in Victory Road, as they are presumably on their way to challenge the Elite Four. In the Battle Subway, some of them employ a set strategy revolving around the Ability . In Generation VI's Battle Maison, they have unspecialized teams that may occasionally include or .\n\nWhen paired together in Double Battles, they are called s in Generation III, s in Generation IV, and s in Generations VI and . Additionally, a duo of a male Ace Trainer and a male is called .\n\nIn , Cooltrainers use a team of five Pokémon, save for those in the Battle Tower and Cool Couples.\n\nIn the Sinnoh-based games, Ace Trainers have two sets of sprites, with one set of Ace Trainers dressed warmly for the s near Snowpoint City.\n\nIn , some Ace Trainers will give out PP Ups when defeated.\n\nIn , some Ace Trainers appear on top of ing Pokémon across Hoenn's water routes.\n\nIn , Ace Trainers keep their Pokémon in Ultra Balls. In addition, certain Ace Trainers possess Z-Rings or Z-Power Rings.\n\nIn , Ace Trainers will award five Ultra Balls along with prize money upon being defeated, except for Gym Trainers and Master Trainers.\n\nIn , Ace Trainers appear as CPU characters alongside Cynthia and Leon in the event mode. Four of them are on the opposing team in the Casual difficulty, and two of them are on the opposing team in the Intermediate difficulty. They replace the named characters who do not appear at those difficulties. They use random Unite Licenses from a limited pool, and their Pokémon sometimes use Holowear.",
+    "sectionHeadings": [
+      "Lead",
+      "Terminology",
+      "Pokémon Red, Blue, and Yellow",
+      "Pokémon Ruby and Sapphire",
+      "Pokémon Emerald",
+      "Pokémon Diamond and Pearl",
+      "Pokémon Platinum",
+      "Pokémon Black and White",
+      "Pokémon X and Y",
+      "Pokémon Omega Ruby and Alpha Sapphire",
+      "Pokémon Sun and Moon",
+      "Pokémon Brilliant Diamond and Shining Pearl",
+      "Pokémon UNITE",
+      "Pokémon the Series",
+      "Pokémon Origins",
+      "Pokémon Evolutions",
+      "Pokémon Adventures",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Gallery",
+      "Pokémon",
+      "Pokémon Gold & Silver: The Golden Boys",
+      "Pocket Monsters BW: Good Partners",
+      "In the TCG",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 15796,
+    "sectionCount": 32
+  }
+}

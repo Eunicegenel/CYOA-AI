@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "PW19",
+    "slug": "pw19",
+    "pageId": 172204,
+    "revisionId": 4528462
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw19__172204.json",
+    "revisionTimestamp": "2026-04-09T16:22:58Z",
+    "fetchedAt": "2026-05-14T15:46:39.758Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: たそがれのルージュラ Twilight ) is the nineteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+  "plainText": "(Japanese: たそがれのルージュラ Twilight ) is the nineteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .\n\n==Plot==\n \n==Major events==\n\n==Characters==\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: たそがれのルージュラ Twilight ) is the nineteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is ."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW19",
+    "pageType": "chapter",
+    "searchableText": "PW19\nCategory:How I Became a Pokémon Card chapters\n(Japanese: たそがれのルージュラ Twilight ) is the nineteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 233,
+    "sectionCount": 1
+  }
+}

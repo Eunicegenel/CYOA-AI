@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Dance, Dance, Dance",
+    "slug": "dance-dance-dance",
+    "pageId": 173807,
+    "revisionId": 4220555
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:English ending themes",
+    "sourceFileName": "dance-dance-dance__173807.json",
+    "revisionTimestamp": "2025-01-13T23:25:50Z",
+    "fetchedAt": "2026-05-14T14:11:04.497Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Dance, Dance, Dance is the English ending theme of Meloetta's Moonlight Serenade.",
+  "plainText": "Dance, Dance, Dance is the English ending theme of Meloetta's Moonlight Serenade. \n\n==Lyrics==\n Dance, dance, dance.\nWe wanna dance forever.\nThis is our best chance to laugh and sing together.\n\nBoogie, boogie, boogie, boogie, you and me.\nMove it, move it, move it, to the melody.\nTwisting and turning, feeling alive.\nCan't stop loving the music inside!\n\nSo clap your hands! To the beat!\nFeel the rhythm in your dancing feet!\nIt feels so good. Let's make it last.\nCelebrate. Oh, what a blast!\n\nDance, dance, dance.\nWe wanna dance forever. \nThis is our best chance to laugh and sing together.\n\nI wanna feel like I'm up in the sky, learning to fly.\nYeah, it's clear to me that these are the best days of our lives.\n\nDance, dance, dance. (I wanna dance)\nWe wanna dance forever.\nThis is our best chance (best chance) to laugh and sing together.\n\nC'mon everybody! Let's dance!\n1. 2. 3. 1 2 3 4!\nI wanna dance. (Dance ×16)\nForever and ever.\n\nI wanna feel like I'm up in the sky, learning to fly.\nYeah, it's clear to me that these are the best days of our lives.\nI wanna dance forever.\n\nDance, dance, dance. (I wanna dance)\nWe wanna dance forever.\nThis is our best chance (best chance) to laugh and sing together.\nYeah! \n\n==Credits==\nMusic and lyrics by John Loeffler and Brandon Lowry \nVocals by Melissa Lefton \n\n==In other languages==\n \n\n==Notes and references==\n \n\n==Related articles==\n \n \n \n\nes:Bailar Bailar",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Dance, Dance, Dance is the English ending theme of Meloetta's Moonlight Serenade."
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "Dance, dance, dance.\nWe wanna dance forever.\nThis is our best chance to laugh and sing together.\n\nBoogie, boogie, boogie, boogie, you and me.\nMove it, move it, move it, to the melody.\nTwisting and turning, feeling alive.\nCan't stop loving the music inside!\n\nSo clap your hands! To the beat!\nFeel the rhythm in your dancing feet!\nIt feels so good. Let's make it last.\nCelebrate. Oh, what a blast!\n\nDance, dance, dance.\nWe wanna dance forever. \nThis is our best chance to laugh and sing together.\n\nI wanna feel like I'm up in the sky, learning to fly.\nYeah, it's clear to me that these are the best days of our lives.\n\nDance, dance, dance. (I wanna dance)\nWe wanna dance forever.\nThis is our best chance (best chance) to laugh and sing together.\n\nC'mon everybody! Let's dance!\n1. 2. 3. 1 2 3 4!\nI wanna dance. (Dance ×16)\nForever and ever.\n\nI wanna feel like I'm up in the sky, learning to fly.\nYeah, it's clear to me that these are the best days of our lives.\nI wanna dance forever.\n\nDance, dance, dance. (I wanna dance)\nWe wanna dance forever.\nThis is our best chance (best chance) to laugh and sing together.\nYeah!"
+    },
+    {
+      "heading": "Credits",
+      "level": 2,
+      "text": "Music and lyrics by John Loeffler and Brandon Lowry \nVocals by Melissa Lefton"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Bailar Bailar"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dance, Dance, Dance",
+    "pageType": "general-anime-lore",
+    "searchableText": "Dance, Dance, Dance\nCategory:English ending themes\nDance, Dance, Dance is the English ending theme of Meloetta's Moonlight Serenade.",
+    "sectionHeadings": [
+      "Lead",
+      "Lyrics",
+      "Credits",
+      "Related articles"
+    ],
+    "characterCount": 1404,
+    "sectionCount": 4
+  }
+}

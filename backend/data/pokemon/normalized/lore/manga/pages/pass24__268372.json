@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASS24",
+    "slug": "pass24",
+    "pageId": 268372,
+    "revisionId": 4528541
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass24__268372.json",
+    "revisionTimestamp": "2026-04-09T16:26:01Z",
+    "fetchedAt": "2026-05-14T15:28:54.567Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Unbelievable!! The Shocking Truth (Japanese: メキメキ！！衝撃の真相 Shatter!! The Shocking Truth) is the 24th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Unbelievable!! The Shocking Truth (Japanese: メキメキ！！衝撃の真相 Shatter!! The Shocking Truth) is the 24th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nSordward and Shielbert attack and escape Spikemuth.\nSonia tells Leon that Rose is trying to bring back the Darkest Day.\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHenry\nCasey\nProfessor Magnolia\nHop\nMarnie\nSonia\nKabu (flashback)\nPiers\nLeon\nRose (flashback)\nSordward \nShielbert\nMarvin\n\n===Pokémon===\n(Twiggy; Henry's)\n( )\n(Hop's)\n( ; Marnie's)\n(Piers's)\n( ; flashback)\n(Sordward's)\n(Shielbert's)\n(Sniffler; Marvin's)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)\n\n==Trivia==\n \n \n \n\nde:Die schockierende Wahrheit\nes:PMSSwSh24\nfr:Chapitre 24 (Pocket Monsters Special Épée et Bouclier)\nit:PASS24\nzh:宝可梦特别篇 剑·盾篇 第24话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Unbelievable!! The Shocking Truth (Japanese: メキメキ！！衝撃の真相 Shatter!! The Shocking Truth) is the 24th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Sordward and Shielbert attack and escape Spikemuth.\nSonia tells Leon that Rose is trying to bring back the Darkest Day."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nProfessor Magnolia\nHop\nMarnie\nSonia\nKabu (flashback)\nPiers\nLeon\nRose (flashback)\nSordward \nShielbert\nMarvin"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Twiggy; Henry's)\n( )\n(Hop's)\n( ; Marnie's)\n(Piers's)\n( ; flashback)\n(Sordward's)\n(Shielbert's)\n(Sniffler; Marvin's)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Die schockierende Wahrheit\nes:PMSSwSh24\nfr:Chapitre 24 (Pocket Monsters Special Épée et Bouclier)\nit:PASS24\nzh:宝可梦特别篇 剑·盾篇 第24话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS24",
+    "pageType": "chapter",
+    "searchableText": "PASS24\nCategory:Pokémon Adventures chapters\nUnbelievable!! The Shocking Truth (Japanese: メキメキ！！衝撃の真相 Shatter!! The Shocking Truth) is the 24th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 826,
+    "sectionCount": 5
+  }
+}

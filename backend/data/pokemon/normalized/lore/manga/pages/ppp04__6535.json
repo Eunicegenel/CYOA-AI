@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PPP04",
+    "slug": "ppp04",
+    "pageId": 6535,
+    "revisionId": 4131802
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp04__6535.json",
+    "revisionTimestamp": "2024-09-29T04:25:37Z",
+    "fetchedAt": "2026-05-14T15:38:39.090Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Tangela's Secret (Japanese: モンジャラくんの秘密 -kun's Secret) is the fourth chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Tangela's Secret (Japanese: モンジャラくんの秘密 -kun's Secret) is the fourth chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nHazel, Almond, and the Pokémon spend a day drawing in a field. Hazel suggests she and Almond draw each other, but he refuses, reminding her of the last time she tried to draw something. When and show interest in making art, Hazel gives them some paper and pens. The two Pokémon decide to draw each other and share the results with Hazel—Pikachu's drawing is very energetic, while Clefairy's is quite small. \n\nStill annoyed with Almond, Hazel sets off to draw a Pokémon he has never seen before. She finds a and tries to draw it, but its vines make it difficult to see its true appearance. Trying to get Tangela to reveal what it looks like, Hazel accidentally scares it and provokes it into trapping her in its vines. Seeing Hazel in danger, Pikachu and Almond charge toward Tangela. Pikachu uses an attack on the Tangela, but it has little effect. Almond then pulls out a knife and tries to cut through its vines, but Hazel shouts at him to stop. Through tears, she apologizes to Tangela for not respecting its boundaries. Tangela sets Hazel down and taps her forehead, using telepathy to apologize for scaring her. Tangela then allows Hazel to see what it looks like under its vines. Later, Hazel goes to Almond to show him her drawing of Tangela's body, but it is impossible to discern due to her horrible artistic ability.\n\n==Major events==\nHazel sees what looks like beneath its vines.\n \n\n===Debuts===\n====Pokémon====\n\n==Characters==\n===Humans===\nHazel\nAlmond\nGrandpa (cameo; as narrator)\n\n===Pokémon===\n( )\n( )\n( )\n\n(debut)\n(debut)\n \n==In other languages==\n \n\n \n \n\n \n\nes:MPJ04\nit:PPP04",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tangela's Secret (Japanese: モンジャラくんの秘密 -kun's Secret) is the fourth chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Hazel, Almond, and the Pokémon spend a day drawing in a field. Hazel suggests she and Almond draw each other, but he refuses, reminding her of the last time she tried to draw something. When and show interest in making art, Hazel gives them some paper and pens. The two Pokémon decide to draw each other and share the results with Hazel—Pikachu's drawing is very energetic, while Clefairy's is quite small. \n\nStill annoyed with Almond, Hazel sets off to draw a Pokémon he has never seen before. She finds a and tries to draw it, but its vines make it difficult to see its true appearance. Trying to get Tangela to reveal what it looks like, Hazel accidentally scares it and provokes it into trapping her in its vines. Seeing Hazel in danger, Pikachu and Almond charge toward Tangela. Pikachu uses an attack on the Tangela, but it has little effect. Almond then pulls out a knife and tries to cut through its vines, but Hazel shouts at him to stop. Through tears, she apologizes to Tangela for not respecting its boundaries. Tangela sets Hazel down and taps her forehead, using telepathy to apologize for scaring her. Tangela then allows Hazel to see what it looks like under its vines. Later, Hazel goes to Almond to show him her drawing of Tangela's body, but it is impossible to discern due to her horrible artistic ability."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hazel sees what looks like beneath its vines."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nAlmond\nGrandpa (cameo; as narrator)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n(debut)\n(debut)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:MPJ04\nit:PPP04"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP04",
+    "pageType": "chapter",
+    "searchableText": "PPP04\nCategory:Magical Pokémon Journey chapters\nTangela's Secret (Japanese: モンジャラくんの秘密 -kun's Secret) is the fourth chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1717,
+    "sectionCount": 6
+  }
+}

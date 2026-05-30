@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "MTM11",
+    "slug": "mtm11",
+    "pageId": 316360,
+    "revisionId": 4169328
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mezastar: Aim to Be a Tag Master! chapters",
+    "sourceFileName": "mtm11__316360.json",
+    "revisionTimestamp": "2024-10-27T20:53:14Z",
+    "fetchedAt": "2026-05-14T15:27:19.091Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the 11th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the January 2023 issue of CoroCoro Ichiban!, released on November 21, 2022. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on November 27, 2023.",
+  "plainText": "This is the 11th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the January 2023 issue of CoroCoro Ichiban!, released on November 21, 2022. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on November 27, 2023.\n\n==Plot==\n ]]\n \n \n\n==Major events==\n===Debuts===\n====Humans====\n\n==Characters==\n===Humans===\nKira Hoshio\nSuguru Tsukino\nDouji Futakata\nPokémon Mezastar players\n\n==Tags featured==\n \nVenusaur (3-3-001)\nBlastoise (3-3-003)\nCharizard (3-3-002)\nXerneas (3-3-005)\nEternatus (3-3-008)\nYveltal (3-3-006)\nEntei (3-2-009)\nEmboar (3-2-031)\nDialga (2-3-001)\nSerperior (3-2-028)\nDracovish (3-2-018)\nZygarde (3-2-007)\nZeraora (CoroCoro Ichiban! February 2023)\n\n==Trivia==\n \nThis chapter was published in an extra book of the CoroCoro Ichiban! January 2023 issue titled (Japanese: ポケモンメザスタ　ＤＣ３だん攻略準備ＢＯＯＫ！！). \nThis chapter features the January 2023 issue of CoroCoro Ichiban!.\n\n==References==\n \n\n==External links==\nChapter 11 on Weekly CoroCoro Comics",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the 11th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the January 2023 issue of CoroCoro Ichiban!, released on November 21, 2022. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on November 27, 2023."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "]]"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kira Hoshio\nSuguru Tsukino\nDouji Futakata\nPokémon Mezastar players"
+    },
+    {
+      "heading": "Tags featured",
+      "level": 2,
+      "text": "Venusaur (3-3-001)\nBlastoise (3-3-003)\nCharizard (3-3-002)\nXerneas (3-3-005)\nEternatus (3-3-008)\nYveltal (3-3-006)\nEntei (3-2-009)\nEmboar (3-2-031)\nDialga (2-3-001)\nSerperior (3-2-028)\nDracovish (3-2-018)\nZygarde (3-2-007)\nZeraora (CoroCoro Ichiban! February 2023)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This chapter was published in an extra book of the CoroCoro Ichiban! January 2023 issue titled (Japanese: ポケモンメザスタ　ＤＣ３だん攻略準備ＢＯＯＫ！！). \nThis chapter features the January 2023 issue of CoroCoro Ichiban!."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 11 on Weekly CoroCoro Comics"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MTM11",
+    "pageType": "chapter",
+    "searchableText": "MTM11\nCategory:Pokémon Mezastar: Aim to Be a Tag Master! chapters\nThis is the 11th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the January 2023 issue of CoroCoro Ichiban!, released on November 21, 2022. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on November 27, 2023.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Tags featured",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 1010,
+    "sectionCount": 6
+  }
+}

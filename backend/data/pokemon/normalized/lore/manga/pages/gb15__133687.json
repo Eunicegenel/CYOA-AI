@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "GB15",
+    "slug": "gb15",
+    "pageId": 133687,
+    "revisionId": 3793033
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys chapters",
+    "sourceFileName": "gb15__133687.json",
+    "revisionTimestamp": "2023-09-05T14:48:33Z",
+    "fetchedAt": "2026-05-14T15:19:15.996Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Escape From The Mystery Forest! (Japanese: 謎の森をぬけだせ!! Escape From The Mysterious Forest!!) is the fifteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+  "plainText": "Escape From The Mystery Forest! (Japanese: 謎の森をぬけだせ!! Escape From The Mysterious Forest!!) is the fifteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga.\n\n==Plot==\nOn his way to Olivine City, gets lost in a misty forest. He encounters a wild , but before he can attack it, a girl appears and starts battling it with her . She loses and the Dugtrio escapes. Afterwards, she introduces herself as , a \"Pokémon Adventurer\".\n\nAs they are both lost, Gold sends has his use to clear the mist, revealing a cavern ahead. However, Chris is then chased out by an , causing the two of them to run even deeper into the forest. Chris then sends out her as a lookout, who finds some ruins on top of a hill in a clearing. Chris wants to explore, but Gold decides to leave. Gold feels guilty about leaving her behind, however, so he goes back, only to find her being chased by Ursaring again. Gold and Chris combine their Pokémon's powers to defeat Ursaring, allowing them to escape.\n\nAfter their victory, the mist clears, with appearing in the distance. It leaves, with the mist and the ruins disappearing with it.\n\n==Major events==\nmeets for the first time.\n\n===Debuts===\n====Humans====\nBuena (on the Pokégear radio)\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nBuena (on the Pokégear radio)\n\n===Pokémon===\n( 's)\n( 's)\n( 's)\n\n==Trivia==\nIn the English translation by Chuang Yi, Buena is still known by her Japanese name, Aoi.\n\n \n \n \n\nes:GB15\nit:GB15",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Escape From The Mystery Forest! (Japanese: 謎の森をぬけだせ!! Escape From The Mysterious Forest!!) is the fifteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "On his way to Olivine City, gets lost in a misty forest. He encounters a wild , but before he can attack it, a girl appears and starts battling it with her . She loses and the Dugtrio escapes. Afterwards, she introduces herself as , a \"Pokémon Adventurer\".\n\nAs they are both lost, Gold sends has his use to clear the mist, revealing a cavern ahead. However, Chris is then chased out by an , causing the two of them to run even deeper into the forest. Chris then sends out her as a lookout, who finds some ruins on top of a hill in a clearing. Chris wants to explore, but Gold decides to leave. Gold feels guilty about leaving her behind, however, so he goes back, only to find her being chased by Ursaring again. Gold and Chris combine their Pokémon's powers to defeat Ursaring, allowing them to escape.\n\nAfter their victory, the mist clears, with appearing in the distance. It leaves, with the mist and the ruins disappearing with it."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "meets for the first time."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Buena (on the Pokégear radio)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Buena (on the Pokégear radio)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the English translation by Chuang Yi, Buena is still known by her Japanese name, Aoi.\n\n \n \n \n\nes:GB15\nit:GB15"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GB15",
+    "pageType": "chapter",
+    "searchableText": "GB15\nCategory:Pokémon Gold & Silver: The Golden Boys chapters\nEscape From The Mystery Forest! (Japanese: 謎の森をぬけだせ!! Escape From The Mysterious Forest!!) is the fifteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1459,
+    "sectionCount": 7
+  }
+}

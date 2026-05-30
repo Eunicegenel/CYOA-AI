@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM063",
+    "slug": "pm063",
+    "pageId": 160310,
+    "revisionId": 4527662
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm063__160310.json",
+    "revisionTimestamp": "2026-04-09T15:46:01Z",
+    "fetchedAt": "2026-05-14T15:31:09.326Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Marill's Special Training to Surpass Pikachu!! (Japanese: めざせピカチュウ、マリル猛特訓！！ Marill's Special Training to Surpass Pikachu!!) is the sixty-third chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Marill's Special Training to Surpass Pikachu!! (Japanese: めざせピカチュウ、マリル猛特訓！！ Marill's Special Training to Surpass Pikachu!!) is the sixty-third chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\nMarill now lives with Professor Oak\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Elm\n\n===Pokémon===\n( ) \n( )\n( 's)\n( 's)\n( 's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 63 (Pokémon Pocket Monsters)\nit:PMM063",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Marill's Special Training to Surpass Pikachu!! (Japanese: めざせピカチュウ、マリル猛特訓！！ Marill's Special Training to Surpass Pikachu!!) is the sixty-third chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Marill now lives with Professor Oak"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Elm"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( 's)\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 63 (Pokémon Pocket Monsters)\nit:PMM063"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM063",
+    "pageType": "chapter",
+    "searchableText": "PM063\nCategory:Pokémon Pocket Monsters chapters\nMarill's Special Training to Surpass Pikachu!! (Japanese: めざせピカチュウ、マリル猛特訓！！ Marill's Special Training to Surpass Pikachu!!) is the sixty-third chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 447,
+    "sectionCount": 5
+  }
+}

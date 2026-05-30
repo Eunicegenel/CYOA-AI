@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB25",
+    "slug": "rb25",
+    "pageId": 147549,
+    "revisionId": 4242880
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb25__147549.json",
+    "revisionTimestamp": "2025-02-19T14:57:07Z",
+    "fetchedAt": "2026-05-14T15:47:31.613Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 巨漢戦士ドカン Giant Warrior Dokan) is the 25th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 巨漢戦士ドカン Giant Warrior Dokan) is the 25th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n== Major events ==\nRyouga battles Dokan.\nCarola reveals that she wishes to leave Great Gavel with Hariru.\n\n=== Debuts ===\n\n==== Pokémon debuts ====\n\n== Characters ==\n=== Humans ===\nShin\nRurimaru\nFraud\nRabine\nDokan\nRyouga\nPauline\nMiruto\nYappy\nHariru\nCarola\n=== Pokémon ===\n(Dokan's)\n(Ryouga's)\n(Pauline's)\n\n \n \n \n\n \n\nzh:RB25",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 巨漢戦士ドカン Giant Warrior Dokan) is the 25th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga battles Dokan.\nCarola reveals that she wishes to leave Great Gavel with Hariru."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shin\nRurimaru\nFraud\nRabine\nDokan\nRyouga\nPauline\nMiruto\nYappy\nHariru\nCarola"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Dokan's)\n(Ryouga's)\n(Pauline's)\n\n \n \n \n\n \n\nzh:RB25"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB25",
+    "pageType": "chapter",
+    "searchableText": "RB25\nCategory:Pokémon RéBURST chapters\n(Japanese: 巨漢戦士ドカン Giant Warrior Dokan) is the 25th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 425,
+    "sectionCount": 4
+  }
+}

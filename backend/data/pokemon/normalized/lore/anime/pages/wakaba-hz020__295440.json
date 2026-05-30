@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Wakaba (HZ020)",
+    "slug": "wakaba-hz020",
+    "pageId": 295440,
+    "revisionId": 4509376
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "wakaba-hz020__295440.json",
+    "revisionTimestamp": "2026-03-16T07:34:33Z",
+    "fetchedAt": "2026-05-14T14:57:12.319Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Wakaba (Japanese: ワカバ Wakaba) is a character of the day who appeared in Kabu's Battle Training!. She is a apprentice, shadowing under Kabu.",
+  "plainText": "Wakaba (Japanese: ワカバ Wakaba) is a character of the day who appeared in Kabu's Battle Training!. She is a apprentice, shadowing under Kabu.\n\n==History==\nWakaba encountered Liko and Roy outside Motostoke Stadium and took them inside to see Kabu. She later watched as they took on the Gym Test, which Roy eventually won. Being a novice herself, Wakaba was awestruck by Liko's methods of extinguishing 's flames with 's . Wakaba subsequently joined Kabu in a Tag Battle against Roy and Liko.\n\nOnce Kabu's had defeated Roy's Fuecoco, Kabu left the rest of the battle to Wakaba telling her this would count as her Gym Leader test. However, she was not confident with her battle style, due to being inexperienced, which caused her to receive damage. Determined to win, she resolved to do her best. Hearing this from Wakaba, Liko felt bad for her and forfeited. Unfortunately, this did not make Wakaba happy as she did not want to become a Gym Trainer without truly earning it, leading Wakaba to run off. After being spoken to by Kabu, Liko went to find her, and they both apologized to each other for how they had acted. Feeling better now, Wakaba gave Liko encouragement to do her best in the future.\n\nShe reappeared in a flashback in The Lonely Hatenna.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n==Names==\n \n \n\n \n\n \n \n \n\nes:Wakaba\nfr:Wakaba\nit:Wakaba (OP020)\nzh:若叶",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Wakaba (Japanese: ワカバ Wakaba) is a character of the day who appeared in Kabu's Battle Training!. She is a apprentice, shadowing under Kabu."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Wakaba encountered Liko and Roy outside Motostoke Stadium and took them inside to see Kabu. She later watched as they took on the Gym Test, which Roy eventually won. Being a novice herself, Wakaba was awestruck by Liko's methods of extinguishing 's flames with 's . Wakaba subsequently joined Kabu in a Tag Battle against Roy and Liko.\n\nOnce Kabu's had defeated Roy's Fuecoco, Kabu left the rest of the battle to Wakaba telling her this would count as her Gym Leader test. However, she was not confident with her battle style, due to being inexperienced, which caused her to receive damage. Determined to win, she resolved to do her best. Hearing this from Wakaba, Liko felt bad for her and forfeited. Unfortunately, this did not make Wakaba happy as she did not want to become a Gym Trainer without truly earning it, leading Wakaba to run off. After being spoken to by Kabu, Liko went to find her, and they both apologized to each other for how they had acted. Feeling better now, Wakaba gave Liko encouragement to do her best in the future.\n\nShe reappeared in a flashback in The Lonely Hatenna."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Wakaba\nfr:Wakaba\nit:Wakaba (OP020)\nzh:若叶"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Wakaba (HZ020)",
+    "pageType": "character",
+    "searchableText": "Wakaba (HZ020)\nCategory:Horizons characters of the day\nWakaba (Japanese: ワカバ Wakaba) is a character of the day who appeared in Kabu's Battle Training!. She is a apprentice, shadowing under Kabu.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Names"
+    ],
+    "characterCount": 1354,
+    "sectionCount": 3
+  }
+}

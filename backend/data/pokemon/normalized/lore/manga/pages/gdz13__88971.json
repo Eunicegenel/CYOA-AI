@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GDZ13",
+    "slug": "gdz13",
+    "pageId": 88971,
+    "revisionId": 4130831
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz13__88971.json",
+    "revisionTimestamp": "2024-09-29T03:53:41Z",
+    "fetchedAt": "2026-05-14T15:19:29.653Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Forest Insect Hunt (Japanese: 森で虫とり大作戦！ In the Forest, the Grand Bug-Catching Plan!) is the thirteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "The Forest Insect Hunt (Japanese: 森で虫とり大作戦！ In the Forest, the Grand Bug-Catching Plan!) is the thirteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\nThe chapter begins with Shu capturing in the forest. is impatiently waiting for Shu to finish, reminding him that he should be capturing Pokémon, rather than just insects. This gives Shu the idea to use his Pokémon to aid him with capturing insects. He hatches a plan where he will get his to transform itself into sap, which will lure the insects over as bait. He will then command to search underground, as many insects also hide there. As Shu is explaining to Pikachu that kicking trees will cause insects to fall down, he kicks one as an example, and an angry falls down. Shu commands his Ditto to use to turn into a bug catching net to trap it, but Pinsir's horns clamp down on it, causing it to faint. Shu commands Pikachu to battle instead, but he quickly becomes too scared after watching Pinsir chop down a tree with its horns. Pikachu runs around quickly to escape until Pinsir has chopped down all the trees in the surrounding area. Desperate, Pikachu climbs up the only remaining tree, only to be followed by Pinsir. Shu, Diglett and shake the tree, causing both Pikachu and Pinsir to fall down. To avoid injuring Pikachu, Shu commands Poliwag to use , which he lands on. Shu begins to brag about how his insect-capturing techniques saved them from the wild Pinsir, which leads him to realise that the Pinsir escaped in the commotion before he had the opportunity to capture it. It is then revealed that the Pinsir fell so hard that it dug a big crater into the ground and it got stuck there.\n\n==Major events==\nShu battles a wild Pinsir, but fails to capture it.\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's)\n(Shu's)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Forest Insect Hunt (Japanese: 森で虫とり大作戦！ In the Forest, the Grand Bug-Catching Plan!) is the thirteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "The chapter begins with Shu capturing in the forest. is impatiently waiting for Shu to finish, reminding him that he should be capturing Pokémon, rather than just insects. This gives Shu the idea to use his Pokémon to aid him with capturing insects. He hatches a plan where he will get his to transform itself into sap, which will lure the insects over as bait. He will then command to search underground, as many insects also hide there. As Shu is explaining to Pikachu that kicking trees will cause insects to fall down, he kicks one as an example, and an angry falls down. Shu commands his Ditto to use to turn into a bug catching net to trap it, but Pinsir's horns clamp down on it, causing it to faint. Shu commands Pikachu to battle instead, but he quickly becomes too scared after watching Pinsir chop down a tree with its horns. Pikachu runs around quickly to escape until Pinsir has chopped down all the trees in the surrounding area. Desperate, Pikachu climbs up the only remaining tree, only to be followed by Pinsir. Shu, Diglett and shake the tree, causing both Pikachu and Pinsir to fall down. To avoid injuring Pikachu, Shu commands Poliwag to use , which he lands on. Shu begins to brag about how his insect-capturing techniques saved them from the wild Pinsir, which leads him to realise that the Pinsir escaped in the commotion before he had the opportunity to capture it. It is then revealed that the Pinsir fell so hard that it dug a big crater into the ground and it got stuck there."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Shu battles a wild Pinsir, but fails to capture it."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's)\n(Shu's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ13",
+    "pageType": "chapter",
+    "searchableText": "GDZ13\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\nThe Forest Insect Hunt (Japanese: 森で虫とり大作戦！ In the Forest, the Grand Bug-Catching Plan!) is the thirteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1881,
+    "sectionCount": 5
+  }
+}

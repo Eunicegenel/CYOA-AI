@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "MCM2",
+    "slug": "mcm2",
+    "pageId": 175212,
+    "revisionId": 4528157
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Aim to Be a Card Master!! chapters",
+    "sourceFileName": "mcm2__175212.json",
+    "revisionTimestamp": "2026-04-09T16:08:50Z",
+    "fetchedAt": "2026-05-14T15:26:13.923Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 日米交流戦 金髪のお嬢様 Cross-Cultural Battle \"The Golden-Haired Lady\") is the second chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.",
+  "plainText": "(Japanese: 日米交流戦 金髪のお嬢様 Cross-Cultural Battle \"The Golden-Haired Lady\") is the second chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nVanessa Crawford\n\n====Pokémon debuts====\n(Vanessa's)\n(Vanessa's)\n(Kenta's)\n(Kenta's)\n(Kenta's)\n(Kenta's)\n(Vanessa's, ×2)\n(Vanessa's)\n(Vanessa's)\n(Vanessa's)\n(Kenta's)\n(Vanessa's)\n(Kenta's)\n(Kenta's)\n(Kenta's)\n\n==Characters==\n===Humans===\nKenta Minamii\nShou Okabe\nVanessa Crawford\n\n===Pokémon===\n(Vanessa's)\n(Vanessa's)\n(Kenta's)\n(Kenta's)\n(Kenta's)\n(Kenta's)\n(Vanessa's, ×2)\n(Vanessa's)\n(Vanessa's)\n(Vanessa's)\n(Kenta's)\n(Vanessa's)\n(Kenta's)\n(Kenta's)\n(Kenta's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 日米交流戦 金髪のお嬢様 Cross-Cultural Battle \"The Golden-Haired Lady\") is the second chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Vanessa Crawford"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Vanessa's)\n(Vanessa's)\n(Kenta's)\n(Kenta's)\n(Kenta's)\n(Kenta's)\n(Vanessa's, ×2)\n(Vanessa's)\n(Vanessa's)\n(Vanessa's)\n(Kenta's)\n(Vanessa's)\n(Kenta's)\n(Kenta's)\n(Kenta's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kenta Minamii\nShou Okabe\nVanessa Crawford"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Vanessa's)\n(Vanessa's)\n(Kenta's)\n(Kenta's)\n(Kenta's)\n(Kenta's)\n(Vanessa's, ×2)\n(Vanessa's)\n(Vanessa's)\n(Vanessa's)\n(Kenta's)\n(Vanessa's)\n(Kenta's)\n(Kenta's)\n(Kenta's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MCM2",
+    "pageType": "chapter",
+    "searchableText": "MCM2\nCategory:Aim to Be a Card Master!! chapters\n(Japanese: 日米交流戦 金髪のお嬢様 Cross-Cultural Battle \"The Golden-Haired Lady\") is the second chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 675,
+    "sectionCount": 5
+  }
+}

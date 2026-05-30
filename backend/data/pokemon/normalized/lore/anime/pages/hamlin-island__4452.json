@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Hamlin Island",
+    "slug": "hamlin-island",
+    "pageId": 4452,
+    "revisionId": 4441372
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands",
+    "sourceFileName": "hamlin-island__4452.json",
+    "revisionTimestamp": "2025-12-12T02:44:38Z",
+    "fetchedAt": "2026-05-14T14:21:47.273Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Hamlin Island (Japanese: デコポン島 Dekopon Island) is the northernmost island in the Orange Islands. Due to its proximity, it serves as a gateway to the Kanto region. A ferry carries passengers between Pallet Town and a tiny island connected by a bridge to Hamlin Island.\n\nThe smaller island is a popular tourist location, with amenities such as a coffee shop. In The Underground Round Up, the island was overrun with due to a failed experiment for producing energy. The inhabitants of the island evacuated, and the island was left deserted for several years until Rancher was called in to get rid of the Electrode. He was eventually able to relocate them to the open prairie in the middle of the larger island. After this, the inhabitants of the smaller island returned, and the island opened for business again.",
+  "plainText": "Hamlin Island (Japanese: デコポン島 Dekopon Island) is the northernmost island in the Orange Islands. Due to its proximity, it serves as a gateway to the Kanto region. A ferry carries passengers between Pallet Town and a tiny island connected by a bridge to Hamlin Island.\n\nThe smaller island is a popular tourist location, with amenities such as a coffee shop. In The Underground Round Up, the island was overrun with due to a failed experiment for producing energy. The inhabitants of the island evacuated, and the island was left deserted for several years until Rancher was called in to get rid of the Electrode. He was eventually able to relocate them to the open prairie in the middle of the larger island. After this, the inhabitants of the smaller island returned, and the island opened for business again.\n\n==Pokémon seen on Hamlin Island==\n \n\n==Trivia==\n==Names==\n \n \n==Related articles==\n \n \n \n\nde:Hamlin Insel\nes:Isla Hamlin\nfr:Île d'Hamlin\nit:Isola Hamlin\nzh:凸橙岛",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hamlin Island (Japanese: デコポン島 Dekopon Island) is the northernmost island in the Orange Islands. Due to its proximity, it serves as a gateway to the Kanto region. A ferry carries passengers between Pallet Town and a tiny island connected by a bridge to Hamlin Island.\n\nThe smaller island is a popular tourist location, with amenities such as a coffee shop. In The Underground Round Up, the island was overrun with due to a failed experiment for producing energy. The inhabitants of the island evacuated, and the island was left deserted for several years until Rancher was called in to get rid of the Electrode. He was eventually able to relocate them to the open prairie in the middle of the larger island. After this, the inhabitants of the smaller island returned, and the island opened for business again."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Hamlin Insel\nes:Isla Hamlin\nfr:Île d'Hamlin\nit:Isola Hamlin\nzh:凸橙岛"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hamlin Island",
+    "pageType": "general-anime-lore",
+    "searchableText": "Hamlin Island\nCategory:Orange Islands\nHamlin Island (Japanese: デコポン島 Dekopon Island) is the northernmost island in the Orange Islands. Due to its proximity, it serves as a gateway to the Kanto region. A ferry carries passengers between Pallet Town and a tiny island connected by a bridge to Hamlin Island.\n\nThe smaller island is a popular tourist location, with amenities such as a coffee shop. In The Underground Round Up, the island was overrun with due to a failed experiment for producing energy. The inhabitants of the island evacuated, and the island was left deserted for several years until Rancher was called in to get rid of the Electrode. He was eventually able to relocate them to the open prairie in the middle of the larger island. After this, the inhabitants of the smaller island returned, and the island opened for business again.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 970,
+    "sectionCount": 2
+  }
+}

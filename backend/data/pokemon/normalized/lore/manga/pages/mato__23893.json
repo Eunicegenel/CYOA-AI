@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mato",
+    "slug": "mato",
+    "pageId": 23893,
+    "revisionId": 4009910
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga crew",
+    "sourceFileName": "mato__23893.json",
+    "revisionTimestamp": "2024-05-16T19:04:57Z",
+    "fetchedAt": "2026-05-14T15:26:04.708Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "]]\n\nMato (Japanese: 真斗) is a manga illustrator from Japan. She was born in the and her birthdate is November 27. She was the illustrator for the Pokémon Adventures manga until volume nine. She stopped drawing for the series due to an illness which left her hand weak and unable to draw, leading Satoshi Yamamoto to take over her position from volume ten onward.\n\nHer other works include Nightingale and New Year X-mas, which was serialized in .",
+  "plainText": "]]\n\nMato (Japanese: 真斗) is a manga illustrator from Japan. She was born in the and her birthdate is November 27. She was the illustrator for the Pokémon Adventures manga until volume nine. She stopped drawing for the series due to an illness which left her hand weak and unable to draw, leading Satoshi Yamamoto to take over her position from volume ten onward.\n\nHer other works include Nightingale and New Year X-mas, which was serialized in .\n\n==External links==\nTwitter (Japanese)\nMato's personal site (Japanese)\n\n \n \n\nde:Mato\nes:Mato\nfr:Mato\nit:Mato\nja:真斗\nzh:真斗",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "]]\n\nMato (Japanese: 真斗) is a manga illustrator from Japan. She was born in the and her birthdate is November 27. She was the illustrator for the Pokémon Adventures manga until volume nine. She stopped drawing for the series due to an illness which left her hand weak and unable to draw, leading Satoshi Yamamoto to take over her position from volume ten onward.\n\nHer other works include Nightingale and New Year X-mas, which was serialized in ."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter (Japanese)\nMato's personal site (Japanese)\n\n \n \n\nde:Mato\nes:Mato\nfr:Mato\nit:Mato\nja:真斗\nzh:真斗"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mato",
+    "pageType": "manga-series",
+    "searchableText": "Mato\nCategory:Manga crew\n]]\n\nMato (Japanese: 真斗) is a manga illustrator from Japan. She was born in the and her birthdate is November 27. She was the illustrator for the Pokémon Adventures manga until volume nine. She stopped drawing for the series due to an illness which left her hand weak and unable to draw, leading Satoshi Yamamoto to take over her position from volume ten onward.\n\nHer other works include Nightingale and New Year X-mas, which was serialized in .",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 565,
+    "sectionCount": 2
+  }
+}

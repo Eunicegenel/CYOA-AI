@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Diona",
+    "slug": "diona",
+    "pageId": 222859,
+    "revisionId": 4246727
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "diona__222859.json",
+    "revisionTimestamp": "2025-02-23T23:58:17Z",
+    "fetchedAt": "2026-05-14T14:12:00.546Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Diona (Japanese: ハルミ Harumi) is a minor character who appeared in Genesect and the Legend Awakened. She is a resident of New Tork City.\n\nDiona was first seen walking home with her children Neva and Tanner. She called out their names when they were lagging behind. As Tanner suggested, Diona agreed that the family would have sandwiches for dinner.\n\nDiona reappeared in the ending credits with her children, where they were among the guests taking a tour of Pokémon Hills with Eric.",
+  "plainText": "Diona (Japanese: ハルミ Harumi) is a minor character who appeared in Genesect and the Legend Awakened. She is a resident of New Tork City.\n\nDiona was first seen walking home with her children Neva and Tanner. She called out their names when they were lagging behind. As Tanner suggested, Diona agreed that the family would have sandwiches for dinner.\n\nDiona reappeared in the ending credits with her children, where they were among the guests taking a tour of Pokémon Hills with Eric.\n \n==Related articles==\n \n \n\n \n \n\nit:Diona",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Diona (Japanese: ハルミ Harumi) is a minor character who appeared in Genesect and the Legend Awakened. She is a resident of New Tork City.\n\nDiona was first seen walking home with her children Neva and Tanner. She called out their names when they were lagging behind. As Tanner suggested, Diona agreed that the family would have sandwiches for dinner.\n\nDiona reappeared in the ending credits with her children, where they were among the guests taking a tour of Pokémon Hills with Eric."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Diona"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Diona",
+    "pageType": "movie",
+    "searchableText": "Diona\nCategory:Movie characters\nDiona (Japanese: ハルミ Harumi) is a minor character who appeared in Genesect and the Legend Awakened. She is a resident of New Tork City.\n\nDiona was first seen walking home with her children Neva and Tanner. She called out their names when they were lagging behind. As Tanner suggested, Diona agreed that the family would have sandwiches for dinner.\n\nDiona reappeared in the ending credits with her children, where they were among the guests taking a tour of Pokémon Hills with Eric.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 523,
+    "sectionCount": 2
+  }
+}

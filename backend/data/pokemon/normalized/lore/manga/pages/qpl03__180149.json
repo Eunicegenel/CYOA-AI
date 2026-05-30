@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "QPL03",
+    "slug": "qpl03",
+    "pageId": 180149,
+    "revisionId": 4231320
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters",
+    "sourceFileName": "qpl03__180149.json",
+    "revisionTimestamp": "2025-01-31T11:01:26Z",
+    "fetchedAt": "2026-05-14T15:47:00.378Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: The Magic Show is Full of Quizzes, Pikka!!) is the third chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+  "plainText": "(Japanese: The Magic Show is Full of Quizzes, Pikka!!) is the third chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n\n==Characters==\n\n(×2)\n\n(multiple)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: The Magic Show is Full of Quizzes, Pikka!!) is the third chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga."
+    },
+    {
+      "heading": "Characters",
+      "level": 2,
+      "text": "(×2)\n\n(multiple)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "QPL03",
+    "pageType": "chapter",
+    "searchableText": "QPL03\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters\n(Japanese: The Magic Show is Full of Quizzes, Pikka!!) is the third chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Characters"
+    ],
+    "characterCount": 222,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Mysterious Garden",
+    "slug": "mysterious-garden",
+    "pageId": 354063,
+    "revisionId": 4520556
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "mysterious-garden__354063.json",
+    "revisionTimestamp": "2026-03-31T17:50:22Z",
+    "fetchedAt": "2026-05-14T14:38:43.746Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Mysterious Garden (Japanese: ふしぎのはなぞの Mysterious Flower Garden) is an -exclusive location in Kanto that appeared in Bulbasaur's Mysterious Garden. It's a location where from all over the are said to gather every year for a festival to evolve into en masse.",
+  "plainText": "The Mysterious Garden (Japanese: ふしぎのはなぞの Mysterious Flower Garden) is an -exclusive location in Kanto that appeared in Bulbasaur's Mysterious Garden. It's a location where from all over the are said to gather every year for a festival to evolve into en masse.\n\n==History==\nWhen Ash's Bulbasaur started showing signs of evolving, a group of Bulbasaur forcibly brought it to the Mysterious Garden, prompting and to follow. A appeared from a giant tree and cried out as all the wild Bulbasaur evolved into Ivysaur. However, Ash's Bulbasaur refused to evolve, angering Venusaur, which tried to hit it with , but Ash took the blow and defended Bulbasaur's right to stay unevolved if it so chose. subsequently appeared and tried to capture all of the Ivysaur, but Ash's Bulbasaur managed to save them by using its newly learned , after which the villainous trio was sent blasting off by a collective Vine Whip from all the Bulbasaur evolutionary line members. Accepting Bulbasaur's choice, Venusaur and the Ivysaur then let it leave the Mysterious Garden without evolving alongside Ash and his friends.\n\n==Pokémon seen in the Mysterious Garden==\n \n\n==Related articles==\n \n \n\nit:Giardino dei misteri",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Mysterious Garden (Japanese: ふしぎのはなぞの Mysterious Flower Garden) is an -exclusive location in Kanto that appeared in Bulbasaur's Mysterious Garden. It's a location where from all over the are said to gather every year for a festival to evolve into en masse."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "When Ash's Bulbasaur started showing signs of evolving, a group of Bulbasaur forcibly brought it to the Mysterious Garden, prompting and to follow. A appeared from a giant tree and cried out as all the wild Bulbasaur evolved into Ivysaur. However, Ash's Bulbasaur refused to evolve, angering Venusaur, which tried to hit it with , but Ash took the blow and defended Bulbasaur's right to stay unevolved if it so chose. subsequently appeared and tried to capture all of the Ivysaur, but Ash's Bulbasaur managed to save them by using its newly learned , after which the villainous trio was sent blasting off by a collective Vine Whip from all the Bulbasaur evolutionary line members. Accepting Bulbasaur's choice, Venusaur and the Ivysaur then let it leave the Mysterious Garden without evolving alongside Ash and his friends."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Giardino dei misteri"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mysterious Garden",
+    "pageType": "location",
+    "searchableText": "Mysterious Garden\nCategory:Animated series-exclusive locations\nThe Mysterious Garden (Japanese: ふしぎのはなぞの Mysterious Flower Garden) is an -exclusive location in Kanto that appeared in Bulbasaur's Mysterious Garden. It's a location where from all over the are said to gather every year for a festival to evolve into en masse.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1193,
+    "sectionCount": 3
+  }
+}

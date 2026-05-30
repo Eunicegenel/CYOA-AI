@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Ephraim",
+    "slug": "ephraim",
+    "pageId": 16912,
+    "revisionId": 4322192
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "ephraim__16912.json",
+    "revisionTimestamp": "2025-06-21T16:20:23Z",
+    "fetchedAt": "2026-05-14T14:18:19.176Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ephraim (Japanese: ミノル Minoru) is a character of the day who appeared in The Grass Route.\n\nHe is the son of a couple of farmers who live in a small town close to Ecruteak City. He specializes in raising , mainly because his parents use a large collection of Grass-type Pokémon to maintain their farm of flowers. He convinced to enter his in the Grass Tournament, held near where he lives.\n\nAsh faced Ephraim in the finals of the tournament, with Ephraim using Skiploom. Skiploom almost lost, but learned at the last moment. It defeated Bulbasaur, and won the tournament. Ephraim's prize was a collection of Leaf Stones, which he planned on using to evolve his parents' Pokémon.",
+  "plainText": "Ephraim (Japanese: ミノル Minoru) is a character of the day who appeared in The Grass Route.\n\nHe is the son of a couple of farmers who live in a small town close to Ecruteak City. He specializes in raising , mainly because his parents use a large collection of Grass-type Pokémon to maintain their farm of flowers. He convinced to enter his in the Grass Tournament, held near where he lives.\n\nAsh faced Ephraim in the finals of the tournament, with Ephraim using Skiploom. Skiploom almost lost, but learned at the last moment. It defeated Bulbasaur, and won the tournament. Ephraim's prize was a collection of Leaf Stones, which he planned on using to evolve his parents' Pokémon.\n\n==Pokémon==\n \n \n\n==Pokémon competitions==\n \nEphraim has competed in the following :\nGrass Tournament - Winner (The Grass Route)\n \n\n==Voice actors==\n \n\n==Trivia==\nPokemon.com misspells Ephraim's name as Ephram.\nIn the European Spanish dub, Ephraim was renamed Jairo, after José Escobosa's (Meowth's voice actor) son. Escobosa also played Ephraim's father in the episode.\nIn the Arabic dub, he was renamed Freddy.\n\n \n \n\n \n \n \n \n\nde:Das Pflanzen-Pokémon-Turnier#Ephram\nes:Ephraim/Jairo\nfr:Ephram\nit:Ephraim\nzh:小实",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ephraim (Japanese: ミノル Minoru) is a character of the day who appeared in The Grass Route.\n\nHe is the son of a couple of farmers who live in a small town close to Ecruteak City. He specializes in raising , mainly because his parents use a large collection of Grass-type Pokémon to maintain their farm of flowers. He convinced to enter his in the Grass Tournament, held near where he lives.\n\nAsh faced Ephraim in the finals of the tournament, with Ephraim using Skiploom. Skiploom almost lost, but learned at the last moment. It defeated Bulbasaur, and won the tournament. Ephraim's prize was a collection of Leaf Stones, which he planned on using to evolve his parents' Pokémon."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Ephraim has competed in the following :\nGrass Tournament - Winner (The Grass Route)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Pokemon.com misspells Ephraim's name as Ephram.\nIn the European Spanish dub, Ephraim was renamed Jairo, after José Escobosa's (Meowth's voice actor) son. Escobosa also played Ephraim's father in the episode.\nIn the Arabic dub, he was renamed Freddy.\n\n \n \n\n \n \n \n \n\nde:Das Pflanzen-Pokémon-Turnier#Ephram\nes:Ephraim/Jairo\nfr:Ephram\nit:Ephraim\nzh:小实"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ephraim",
+    "pageType": "character",
+    "searchableText": "Ephraim\nCategory:Johto characters of the day\nEphraim (Japanese: ミノル Minoru) is a character of the day who appeared in The Grass Route.\n\nHe is the son of a couple of farmers who live in a small town close to Ecruteak City. He specializes in raising , mainly because his parents use a large collection of Grass-type Pokémon to maintain their farm of flowers. He convinced to enter his in the Grass Tournament, held near where he lives.\n\nAsh faced Ephraim in the finals of the tournament, with Ephraim using Skiploom. Skiploom almost lost, but learned at the last moment. It defeated Bulbasaur, and won the tournament. Ephraim's prize was a collection of Leaf Stones, which he planned on using to evolve his parents' Pokémon.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Trivia"
+    ],
+    "characterCount": 1188,
+    "sectionCount": 3
+  }
+}

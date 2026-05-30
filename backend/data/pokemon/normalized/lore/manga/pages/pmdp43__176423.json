@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP43",
+    "slug": "pmdp43",
+    "pageId": 176423,
+    "revisionId": 4528463
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp43__176423.json",
+    "revisionTimestamp": "2026-04-09T16:22:59Z",
+    "fetchedAt": "2026-05-14T15:32:39.988Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: バルキー大災難！！ 's Big Accident!!) is the forty-third chapter of the manga.",
+  "plainText": "(Japanese: バルキー大災難！！ 's Big Accident!!) is the forty-third chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: バルキー大災難！！ 's Big Accident!!) is the forty-third chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )\n\n}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP43",
+    "pageType": "chapter",
+    "searchableText": "PMDP43\nCategory:Pocket Monsters DP chapters\n(Japanese: バルキー大災難！！ 's Big Accident!!) is the forty-third chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 212,
+    "sectionCount": 2
+  }
+}

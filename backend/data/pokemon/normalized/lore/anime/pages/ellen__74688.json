@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Ellen",
+    "slug": "ellen",
+    "pageId": 74688,
+    "revisionId": 4260368
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "ellen__74688.json",
+    "revisionTimestamp": "2025-03-19T00:11:11Z",
+    "fetchedAt": "2026-05-14T14:15:10.548Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: エレン Ellen) is a character of the day who appeared in Mild 'n Wooly.\n\nEllen is 's mother, who lives with her on a ranch in a valley between Violet City and Azalea Town. When , , and came to visit, they were preparing for the annual Mareep Festival. \n\nShe originally seemed quite strict, scolding her daughter for letting the Mareep escape, and even scaring Ash's Pikachu. She would not let Mary compete in the festival, saying she was too young and careless of Fluffy's condition to enter. However, after seeing Mary's battle abilities and strategies against , she changed her mind. The next morning, she presented her daughter with her old and gave her permission to compete.",
+  "plainText": "(Japanese: エレン Ellen) is a character of the day who appeared in Mild 'n Wooly.\n\nEllen is 's mother, who lives with her on a ranch in a valley between Violet City and Azalea Town. When , , and came to visit, they were preparing for the annual Mareep Festival. \n\nShe originally seemed quite strict, scolding her daughter for letting the Mareep escape, and even scaring Ash's Pikachu. She would not let Mary compete in the festival, saying she was too young and careless of Fluffy's condition to enter. However, after seeing Mary's battle abilities and strategies against , she changed her mind. The next morning, she presented her daughter with her old and gave her permission to compete.\n \n\n==Pokémon==\n \nThis listing is of Ellen's known in :\n \n\n \n\n==Voice actors==\n \n\n==Trivia==\nEllen uses a similar method as for rounding up a group of Pokémon by using another Electric type's electricity to do so.\n \n \n\n \n \n \n \n \n\nes:Ellen\nfr:Mère de Marie\nit:Ellen\nja:エレン",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: エレン Ellen) is a character of the day who appeared in Mild 'n Wooly.\n\nEllen is 's mother, who lives with her on a ranch in a valley between Violet City and Azalea Town. When , , and came to visit, they were preparing for the annual Mareep Festival. \n\nShe originally seemed quite strict, scolding her daughter for letting the Mareep escape, and even scaring Ash's Pikachu. She would not let Mary compete in the festival, saying she was too young and careless of Fluffy's condition to enter. However, after seeing Mary's battle abilities and strategies against , she changed her mind. The next morning, she presented her daughter with her old and gave her permission to compete."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Ellen's known in :"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Ellen uses a similar method as for rounding up a group of Pokémon by using another Electric type's electricity to do so.\n \n \n\n \n \n \n \n \n\nes:Ellen\nfr:Mère de Marie\nit:Ellen\nja:エレン"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ellen",
+    "pageType": "character",
+    "searchableText": "Ellen\nCategory:Johto characters of the day\n(Japanese: エレン Ellen) is a character of the day who appeared in Mild 'n Wooly.\n\nEllen is 's mother, who lives with her on a ranch in a valley between Violet City and Azalea Town. When , , and came to visit, they were preparing for the annual Mareep Festival. \n\nShe originally seemed quite strict, scolding her daughter for letting the Mareep escape, and even scaring Ash's Pikachu. She would not let Mary compete in the festival, saying she was too young and careless of Fluffy's condition to enter. However, after seeing Mary's battle abilities and strategies against , she changed her mind. The next morning, she presented her daughter with her old and gave her permission to compete.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 957,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PPA10",
+    "slug": "ppa10",
+    "pageId": 301208,
+    "revisionId": 4548348
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures episodes",
+    "sourceFileName": "ppa10__301208.json",
+    "revisionTimestamp": "2026-05-11T00:23:34Z",
+    "fetchedAt": "2026-05-14T14:44:23.918Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "Pocket Adventure (Japanese: ポケットに冒険をつめこんで Pack Your Pocket With Adventure) is the tenth and final episode of A Pocketful of Adventures. It first aired in Japan on December 22, 2023, and in the Middle East and North Africa on May 18, 2024.",
+  "plainText": "Pocket Adventure (Japanese: ポケットに冒険をつめこんで Pack Your Pocket With Adventure) is the tenth and final episode of A Pocketful of Adventures. It first aired in Japan on December 22, 2023, and in the Middle East and North Africa on May 18, 2024.\n \n==Plot==\n \n\n==Major events==\nMadoka starts playing Generation II games\n\n==Characters==\n===Humans===\nMadoka Akagi\nMadoka's mother\nKoichi Yadoya\nMasako\nSora Karasawa\nMidori Kudo\nTakeshi Iwakura\n====Game characters====\n\n===Pokémon===\n\n==Trivia==\n===Errors===\n===Dub edits===\n\n==In other languages==\n \n \n \n \n\n \n\nit:PBT10\nzh:口袋裡的冒險 第10集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pocket Adventure (Japanese: ポケットに冒険をつめこんで Pack Your Pocket With Adventure) is the tenth and final episode of A Pocketful of Adventures. It first aired in Japan on December 22, 2023, and in the Middle East and North Africa on May 18, 2024."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Madoka starts playing Generation II games"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Madoka Akagi\nMadoka's mother\nKoichi Yadoya\nMasako\nSora Karasawa\nMidori Kudo\nTakeshi Iwakura"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:PBT10\nzh:口袋裡的冒險 第10集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPA10",
+    "pageType": "episode",
+    "searchableText": "PPA10\nCategory:A Pocketful of Adventures episodes\nPocket Adventure (Japanese: ポケットに冒険をつめこんで Pack Your Pocket With Adventure) is the tenth and final episode of A Pocketful of Adventures. It first aired in Japan on December 22, 2023, and in the Middle East and North Africa on May 18, 2024.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "In other languages"
+    ],
+    "characterCount": 572,
+    "sectionCount": 4
+  }
+}

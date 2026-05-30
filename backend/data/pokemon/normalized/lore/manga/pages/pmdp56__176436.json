@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP56",
+    "slug": "pmdp56",
+    "pageId": 176436,
+    "revisionId": 4528212
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp56__176436.json",
+    "revisionTimestamp": "2026-04-09T16:10:18Z",
+    "fetchedAt": "2026-05-14T15:32:48.346Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ロボット参戦！大掃除バトル！！ Entry into the Robot Competition! Cleaning Battle!!) is the fifty-sixth chapter of the manga.",
+  "plainText": "(Japanese: ロボット参戦！大掃除バトル！！ Entry into the Robot Competition! Cleaning Battle!!) is the fifty-sixth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ロボット参戦！大掃除バトル！！ Entry into the Robot Competition! Cleaning Battle!!) is the fifty-sixth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP56",
+    "pageType": "chapter",
+    "searchableText": "PMDP56\nCategory:Pocket Monsters DP chapters\n(Japanese: ロボット参戦！大掃除バトル！！ Entry into the Robot Competition! Cleaning Battle!!) is the fifty-sixth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 248,
+    "sectionCount": 2
+  }
+}

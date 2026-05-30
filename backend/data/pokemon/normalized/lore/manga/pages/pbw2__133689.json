@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PBW2",
+    "slug": "pbw2",
+    "pageId": 133689,
+    "revisionId": 4549608
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Be the Best! Pokémon B+W",
+    "sourceFileName": "pbw2__133689.json",
+    "revisionTimestamp": "2026-05-11T02:07:27Z",
+    "fetchedAt": "2026-05-14T15:29:29.723Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The Key to Triple Battles (Japanese: トリプルバトルの極意！！ Triple Battle Essentials!!) is the second chapter of the Be the Best! Pokémon B+W manga. It was published in the October 2010 issue of CoroCoro Comics Special.",
+  "plainText": "The Key to Triple Battles (Japanese: トリプルバトルの極意！！ Triple Battle Essentials!!) is the second chapter of the Be the Best! Pokémon B+W manga. It was published in the October 2010 issue of CoroCoro Comics Special.\n\n==Plot==\n \n\n==Major events==\nIt is revealed that Monta has a and a .\nCheren's is revealed to know .\nCheren is revealed to have a and .\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nMonta\nCheren\n\n===Pokémon===\n( )\n(Monta's)\n(Monta's)\n(Cheren's)\n(Cheren's)\n(Cheren's; Red-Striped)\n\n==Trivia==\n\n==In other languages==\n \n \n\n \n\n \n\nzh:钻研吧!!宝可梦B・W 第2话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Key to Triple Battles (Japanese: トリプルバトルの極意！！ Triple Battle Essentials!!) is the second chapter of the Be the Best! Pokémon B+W manga. It was published in the October 2010 issue of CoroCoro Comics Special."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "It is revealed that Monta has a and a .\nCheren's is revealed to know .\nCheren is revealed to have a and ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Monta\nCheren"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Monta's)\n(Monta's)\n(Cheren's)\n(Cheren's)\n(Cheren's; Red-Striped)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "zh:钻研吧!!宝可梦B・W 第2话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PBW2",
+    "pageType": "pokemon-related",
+    "searchableText": "PBW2\nCategory:Be the Best! Pokémon B+W\nThe Key to Triple Battles (Japanese: トリプルバトルの極意！！ Triple Battle Essentials!!) is the second chapter of the Be the Best! Pokémon B+W manga. It was published in the October 2010 issue of CoroCoro Comics Special.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 576,
+    "sectionCount": 5
+  }
+}

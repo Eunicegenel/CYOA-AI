@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASS05",
+    "slug": "pass05",
+    "pageId": 253641,
+    "revisionId": 4528657
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass05__253641.json",
+    "revisionTimestamp": "2026-04-09T16:33:12Z",
+    "fetchedAt": "2026-05-14T15:28:42.500Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Ooh Shiny!! Legendary Equipment (Japanese: ピカピカ！！伝説の身具 Shine!! The Legendary Tools) is the fifth chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Ooh Shiny!! Legendary Equipment (Japanese: ピカピカ！！伝説の身具 Shine!! The Legendary Tools) is the fifth chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nIn a flashback, and meet for the first time.\nIn a flashback, Henry and Casey find Wishing Stars.\nIn a flashback, Henry and Casey encounter and .\nIn a flashback, Casey loses all of her Pokémon.\nHenry and Casey arrive at Motostoke.\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n(Galarian Form)\n\n( )\n(Galarian Form)\n( )\n\n( )\n( )\n\n==Characters==\n===Humans===\n\nProfessor Magnolia\nMarvin\nRose (fantasy)\ns (flashback)\n\n===Pokémon===\n(Lancelot; Galarian Form; 's; flashback)\n(Giga; 's; flashback; debut)\n(Kilo; 's; flashback; debut)\n(Tera; ; 's; flashback; debut)\n(Mega; Galarian Form; 's; flashback; debut)\n(Peta; ; 's; flashback; debut)\n\n(×2)\n(×2)\n(×3)\n\n(×2; debut)\n(debut)\n( ; flashback; debut)\n( ; flashback; debut)\n\n \n}}\n \n \n \n\nde:Legendäre Werkzeuge\nes:PMSSwSh05\nfr:Chapitre 5 (Pocket Monsters Special Épée et Bouclier)\nit:PASS05\nzh:宝可梦特别篇 剑·盾篇 第5话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ooh Shiny!! Legendary Equipment (Japanese: ピカピカ！！伝説の身具 Shine!! The Legendary Tools) is the fifth chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "In a flashback, and meet for the first time.\nIn a flashback, Henry and Casey find Wishing Stars.\nIn a flashback, Henry and Casey encounter and .\nIn a flashback, Casey loses all of her Pokémon.\nHenry and Casey arrive at Motostoke."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Galarian Form)\n\n( )\n(Galarian Form)\n( )\n\n( )\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Magnolia\nMarvin\nRose (fantasy)\ns (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Lancelot; Galarian Form; 's; flashback)\n(Giga; 's; flashback; debut)\n(Kilo; 's; flashback; debut)\n(Tera; ; 's; flashback; debut)\n(Mega; Galarian Form; 's; flashback; debut)\n(Peta; ; 's; flashback; debut)\n\n(×2)\n(×2)\n(×3)\n\n(×2; debut)\n(debut)\n( ; flashback; debut)\n( ; flashback; debut)\n\n \n}}\n \n \n \n\nde:Legendäre Werkzeuge\nes:PMSSwSh05\nfr:Chapitre 5 (Pocket Monsters Special Épée et Bouclier)\nit:PASS05\nzh:宝可梦特别篇 剑·盾篇 第5话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS05",
+    "pageType": "chapter",
+    "searchableText": "PASS05\nCategory:Pokémon Adventures chapters\nOoh Shiny!! Legendary Equipment (Japanese: ピカピカ！！伝説の身具 Shine!! The Legendary Tools) is the fifth chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1035,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PPPA1",
+    "slug": "pppa1",
+    "pageId": 6828,
+    "revisionId": 4527834
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "pppa1__6828.json",
+    "revisionTimestamp": "2026-04-09T15:55:33Z",
+    "fetchedAt": "2026-05-14T15:39:20.492Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "I Got Pokémon! (Japanese: ポケモンゲットだぜー!!, Let's Catch Some Pokémon!!), is the first appendix of the fourth volume of Magical Pokémon Journey.",
+  "plainText": "I Got Pokémon! (Japanese: ポケモンゲットだぜー!!, Let's Catch Some Pokémon!!), is the first appendix of the fourth volume of Magical Pokémon Journey. \n\n==Plot==\n \n\n==Important characters and Pokémon==\nHazel\nAlmond\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "I Got Pokémon! (Japanese: ポケモンゲットだぜー!!, Let's Catch Some Pokémon!!), is the first appendix of the fourth volume of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Hazel\nAlmond"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPPA1",
+    "pageType": "chapter",
+    "searchableText": "PPPA1\nCategory:Magical Pokémon Journey chapters\nI Got Pokémon! (Japanese: ポケモンゲットだぜー!!, Let's Catch Some Pokémon!!), is the first appendix of the fourth volume of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Important characters and Pokémon"
+    ],
+    "characterCount": 254,
+    "sectionCount": 2
+  }
+}

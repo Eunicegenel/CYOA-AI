@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "John (Galar)",
+    "slug": "john-galar",
+    "pageId": 247005,
+    "revisionId": 4112231
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Twilight Wings characters",
+    "sourceFileName": "john-galar__247005.json",
+    "revisionTimestamp": "2024-09-15T02:56:01Z",
+    "fetchedAt": "2026-05-14T14:27:56.406Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "John (Japanese: ジョン John) is a character who appeared in Pokémon: Twilight Wings, and the main character of its first episode.",
+  "plainText": "John (Japanese: ジョン John) is a character who appeared in Pokémon: Twilight Wings, and the main character of its first episode.\n\n==History==\n \nJohn is currently being treated for an unknown illness in a hospital, where he met his good friend while they shared a wardroom. They bonded over their shared dreams of becoming Pokémon Trainers like their idol, the Galar Leon. John in particular wanted to watch one of Leon's matches in-person.\n\nIn Letter, John and Tommy learned that Rose, who operates the Galar Pokémon League, was coming to visit the hospital. John was determined to write a letter for Leon, but he missed the visit. He and Tommy rushed to the hospital roof, where they were able to deliver the letter to Chairman Rose before he could depart on the Flying Taxi.\n\nIn Moonlight, John remained in the hospital for further observation following another operation. Tommy, meanwhile, had been discharged after making a full recovery. The two had a fight beforehand over John's ambitions of becoming a Trainer. Tommy, following on the advice of Allister, sneaked back into the hospital and apologized to John for his earlier comments. John accepted the apology, with the pair vowing to become the greatest Trainers together. Meanwhile, John's letter finally reached Leon.\n\nIn Sky, John overslept on the day he was due to see Leon's match against Raihan. However, he managed to get in a Flying Taxi. En route, John spotted Leon climbing a mountain and getting lost along the way. He requested for the taxi to land, whereupon he met his idol in person for the first time. Realizing they wouldn't reach the match in time, John flew with Leon on the and arrived at the stadium. Afterwards, he remained on the field, watching the battle.\n\n==Character==\nJohn hopes to become a great Pokémon Trainer just like his idol Leon once he recovers from his illness. He is enthusiastic and has a collection of Leon memorabilia that decorates his wardroom. However, he can become too fixated by one thing, with his friend often reminding John to stay realistic about his condition.\n\n==Voice actors==\n \n\n==Trivia==\n \nAs a tribute to the end of the miniseries, director Shingo Yamashita posted an image of the first day of John and Tommy's on his Twitter. In the image, Tommy is seen with a and John with a . This also suggested that they were discharged from the hospital. Also in the picture, the attire John wears for his journey is similar to the attire Ash Ketchum wore during his Kalos journey.\n\n==Names==\n \n \n\n \n\nde:John\nes:John\nit:John (Galar)\nzh:約翰",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "John (Japanese: ジョン John) is a character who appeared in Pokémon: Twilight Wings, and the main character of its first episode."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "John is currently being treated for an unknown illness in a hospital, where he met his good friend while they shared a wardroom. They bonded over their shared dreams of becoming Pokémon Trainers like their idol, the Galar Leon. John in particular wanted to watch one of Leon's matches in-person.\n\nIn Letter, John and Tommy learned that Rose, who operates the Galar Pokémon League, was coming to visit the hospital. John was determined to write a letter for Leon, but he missed the visit. He and Tommy rushed to the hospital roof, where they were able to deliver the letter to Chairman Rose before he could depart on the Flying Taxi.\n\nIn Moonlight, John remained in the hospital for further observation following another operation. Tommy, meanwhile, had been discharged after making a full recovery. The two had a fight beforehand over John's ambitions of becoming a Trainer. Tommy, following on the advice of Allister, sneaked back into the hospital and apologized to John for his earlier comments. John accepted the apology, with the pair vowing to become the greatest Trainers together. Meanwhile, John's letter finally reached Leon.\n\nIn Sky, John overslept on the day he was due to see Leon's match against Raihan. However, he managed to get in a Flying Taxi. En route, John spotted Leon climbing a mountain and getting lost along the way. He requested for the taxi to land, whereupon he met his idol in person for the first time. Realizing they wouldn't reach the match in time, John flew with Leon on the and arrived at the stadium. Afterwards, he remained on the field, watching the battle."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "John hopes to become a great Pokémon Trainer just like his idol Leon once he recovers from his illness. He is enthusiastic and has a collection of Leon memorabilia that decorates his wardroom. However, he can become too fixated by one thing, with his friend often reminding John to stay realistic about his condition."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "As a tribute to the end of the miniseries, director Shingo Yamashita posted an image of the first day of John and Tommy's on his Twitter. In the image, Tommy is seen with a and John with a . This also suggested that they were discharged from the hospital. Also in the picture, the attire John wears for his journey is similar to the attire Ash Ketchum wore during his Kalos journey."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:John\nes:John\nit:John (Galar)\nzh:約翰"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "John (Galar)",
+    "pageType": "character",
+    "searchableText": "John (Galar)\nCategory:Pokémon: Twilight Wings characters\nJohn (Japanese: ジョン John) is a character who appeared in Pokémon: Twilight Wings, and the main character of its first episode.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 2545,
+    "sectionCount": 5
+  }
+}

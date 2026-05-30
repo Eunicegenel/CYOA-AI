@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Glacine",
+    "slug": "glacine",
+    "pageId": 146258,
+    "revisionId": 4191320
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "glacine__146258.json",
+    "revisionTimestamp": "2024-11-24T03:17:12Z",
+    "fetchedAt": "2026-05-14T14:20:34.493Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Glacine (Japanese: ヤジン Yajin) is a minor supporting character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram.",
+  "plainText": "Glacine (Japanese: ヤジン Yajin) is a minor supporting character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram.\n\n==In the movies==\nShe is the leader of a tundra village that Damon eventually travels to during his quest for support from the People of the Vale. Initially, she did not support Damon's goals, but when he rescued her and some of her people from a giant iceberg using his and or and , she changed her mind, along with the rest of the village. She was later seen in Mannes's home, voicing her support for Damon, and again in the ending credits, where she helped rebuild the Kingdom of the Vale.\n\n===Voice actors===\n \n\n==In the manga==\n===Movie adaptations===\nGlacine appears in , where she is seen in the flashback of Damon visiting the tundra village on a journey to gather the descendants of the People of the Vale. Glacine does not travel to Eindoak Town in support of Damon's plan as she does in the movie.\n\n==Related articles==\nRavine\nDonuke\n \n\n \n \n\n \n\nes:Glacine\nit:Glacine",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Glacine (Japanese: ヤジン Yajin) is a minor supporting character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram."
+    },
+    {
+      "heading": "In the movies",
+      "level": 2,
+      "text": "She is the leader of a tundra village that Damon eventually travels to during his quest for support from the People of the Vale. Initially, she did not support Damon's goals, but when he rescued her and some of her people from a giant iceberg using his and or and , she changed her mind, along with the rest of the village. She was later seen in Mannes's home, voicing her support for Damon, and again in the ending credits, where she helped rebuild the Kingdom of the Vale."
+    },
+    {
+      "heading": "Movie adaptations",
+      "level": 3,
+      "text": "Glacine appears in , where she is seen in the flashback of Damon visiting the tundra village on a journey to gather the descendants of the People of the Vale. Glacine does not travel to Eindoak Town in support of Damon's plan as she does in the movie."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Ravine\nDonuke\n \n\n \n \n\n \n\nes:Glacine\nit:Glacine"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Glacine",
+    "pageType": "movie",
+    "searchableText": "Glacine\nCategory:Movie characters\nGlacine (Japanese: ヤジン Yajin) is a minor supporting character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram.",
+    "sectionHeadings": [
+      "Lead",
+      "In the movies",
+      "Movie adaptations",
+      "Related articles"
+    ],
+    "characterCount": 1013,
+    "sectionCount": 4
+  }
+}

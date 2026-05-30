@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Bobbi Hartley",
+    "slug": "bobbi-hartley",
+    "pageId": 236903,
+    "revisionId": 4528698
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "bobbi-hartley__236903.json",
+    "revisionTimestamp": "2026-04-09T16:44:20Z",
+    "fetchedAt": "2026-05-14T14:05:45.116Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Bobbi Hartley is a voice actress for the English-language dub of .",
+  "plainText": "Bobbi Hartley is a voice actress for the English-language dub of .\n\n==Biography==\nHartley in an American voice actress. She joined the during , where she voiced 's mother .\n\n==Pokémon roles==\n===Animation===\n==== ====\n\nFemale Attendant (SM086)\n\n \n \n \n\nit:Bobbi Hartley",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bobbi Hartley is a voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hartley in an American voice actress. She joined the during , where she voiced 's mother ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Female Attendant (SM086)\n\n \n \n \n\nit:Bobbi Hartley"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bobbi Hartley",
+    "pageType": "general-anime-lore",
+    "searchableText": "Bobbi Hartley\nCategory:TPCi voice actors\nBobbi Hartley is a voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      ""
+    ],
+    "characterCount": 268,
+    "sectionCount": 3
+  }
+}

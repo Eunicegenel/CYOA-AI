@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "List of English language Advanced Battle home video releases (Region 1)",
+    "slug": "list-of-english-language-advanced-battle-home-video-releases-region-1",
+    "pageId": 203001,
+    "revisionId": 4261534
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Lists of animation home video releases",
+    "sourceFileName": "list-of-english-language-advanced-battle-home-video-releases-region-1__203001.json",
+    "revisionTimestamp": "2025-03-20T01:11:33Z",
+    "fetchedAt": "2026-05-14T14:31:40.290Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "The following is a list of all of the English language home video releases of the eighth season of , Pokémon: Advanced Battle, in and ( ).",
+  "plainText": "The following is a list of all of the English language home video releases of the eighth season of , Pokémon: Advanced Battle, in and ( ).\n\n==Single releases==\nThe Advanced Battle single DVD releases were released by VIZ Media in 2006 and 2007, containing the entire season between them. Each volume contains five episodes each with the exception of volumes 9 and 10, which contain six episodes each. Optional English closed captioning is included on the DVDs.\n\n \n\n==The Complete Collection==\n \nPokémon: Advanced Battle - The Complete Collection was released on June 12, 2018 by VIZ Media and distributed through . This Complete Collection contains six discs with 52 episodes across them combined. Its catalogue number is 3000077895. It consists of a single DVD case in a slip cover.\n\n \n\n==External links==\nDogasu's Backpack - Pokémon Advanced Battle DVD Guide\nPokémon: Advanced Battle - The Complete Collection on VIZ Media's website\n\nPokemonCenter.com (archive)\nAdvanced Battle Vol. 1 – Gaining Groudon\nAdvanced Battle Vol. 2 - Scuffle of Legends\nAdvanced Battle Vol. 3 - Absol-ute Disaster\nAdvanced Battle Vol. 4 - Eight Ain't Enough",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of all of the English language home video releases of the eighth season of , Pokémon: Advanced Battle, in and ( )."
+    },
+    {
+      "heading": "Single releases",
+      "level": 2,
+      "text": "The Advanced Battle single DVD releases were released by VIZ Media in 2006 and 2007, containing the entire season between them. Each volume contains five episodes each with the exception of volumes 9 and 10, which contain six episodes each. Optional English closed captioning is included on the DVDs."
+    },
+    {
+      "heading": "The Complete Collection",
+      "level": 2,
+      "text": "Pokémon: Advanced Battle - The Complete Collection was released on June 12, 2018 by VIZ Media and distributed through . This Complete Collection contains six discs with 52 episodes across them combined. Its catalogue number is 3000077895. It consists of a single DVD case in a slip cover."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Dogasu's Backpack - Pokémon Advanced Battle DVD Guide\nPokémon: Advanced Battle - The Complete Collection on VIZ Media's website\n\nPokemonCenter.com (archive)\nAdvanced Battle Vol. 1 – Gaining Groudon\nAdvanced Battle Vol. 2 - Scuffle of Legends\nAdvanced Battle Vol. 3 - Absol-ute Disaster\nAdvanced Battle Vol. 4 - Eight Ain't Enough"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of English language Advanced Battle home video releases (Region 1)",
+    "pageType": "general-anime-lore",
+    "searchableText": "List of English language Advanced Battle home video releases (Region 1)\nCategory:Lists of animation home video releases\nThe following is a list of all of the English language home video releases of the eighth season of , Pokémon: Advanced Battle, in and ( ).",
+    "sectionHeadings": [
+      "Lead",
+      "Single releases",
+      "The Complete Collection",
+      "External links"
+    ],
+    "characterCount": 1136,
+    "sectionCount": 4
+  }
+}

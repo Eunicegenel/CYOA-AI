@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Master Mewtwo",
+    "slug": "master-mewtwo",
+    "pageId": 198189,
+    "revisionId": 4336701
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "master-mewtwo__198189.json",
+    "revisionTimestamp": "2025-07-15T22:13:09Z",
+    "fetchedAt": "2026-05-14T15:26:03.445Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Master Mewtwo is the fifteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-four and thirty-five of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Master Mewtwo is the fifteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-four and thirty-five of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 34 - And Mewtwo Too!?\nChapter 35 - And Mewtwo... Three!\n\n==Important events==\ngoes to the Cerulean Cave after hearing about the \"Cerulean monster\".\nRed meets up with , who is fighting a .\ncaptures the in a Master Ball and gives it to Blaine.\n\n \n\n \n\nfr:Volume 15 (Pokémon Adventures)\nit:Master Mewtwo",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Master Mewtwo is the fifteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-four and thirty-five of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 34 - And Mewtwo Too!?\nChapter 35 - And Mewtwo... Three!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "goes to the Cerulean Cave after hearing about the \"Cerulean monster\".\nRed meets up with , who is fighting a .\ncaptures the in a Master Ball and gives it to Blaine.\n\n \n\n \n\nfr:Volume 15 (Pokémon Adventures)\nit:Master Mewtwo"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Master Mewtwo",
+    "pageType": "pokemon-related",
+    "searchableText": "Master Mewtwo\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Master Mewtwo is the fifteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-four and thirty-five of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 750,
+    "sectionCount": 3
+  }
+}

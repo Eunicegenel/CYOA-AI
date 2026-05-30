@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters BW: The Heroes of Fire and Thunder",
+    "slug": "pocket-monsters-bw-the-heroes-of-fire-and-thunder",
+    "pageId": 131922,
+    "revisionId": 4526620
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW: The Heroes of Fire and Thunder",
+    "sourceFileName": "pocket-monsters-bw-the-heroes-of-fire-and-thunder__131922.json",
+    "revisionTimestamp": "2026-04-09T14:58:38Z",
+    "fetchedAt": "2026-05-14T15:34:12.759Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Pocket Monsters BW: The Heroes of Fire and Thunder (Japanese: ポケットモンスターB・W　炎雷の英雄) is a Pokémon manga that was serialized in CoroCoro Special between February and October 2011. It is illustrated and written by Satoshi Kanda.",
+  "plainText": "Pocket Monsters BW: The Heroes of Fire and Thunder (Japanese: ポケットモンスターB・W　炎雷の英雄) is a Pokémon manga that was serialized in CoroCoro Special between February and October 2011. It is illustrated and written by Satoshi Kanda. \n\n==Publications==\n \n \n \n\n==Chapters==\nFAT1\nFAT2\nFAT3\nFAT4\nFAT5\n\n \n \n \n\nit:Pocket Monsters BW: The Heroes of Fire and Thunder\nzh:宝可梦B・W 炎雷的英雄",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pocket Monsters BW: The Heroes of Fire and Thunder (Japanese: ポケットモンスターB・W　炎雷の英雄) is a Pokémon manga that was serialized in CoroCoro Special between February and October 2011. It is illustrated and written by Satoshi Kanda."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "FAT1\nFAT2\nFAT3\nFAT4\nFAT5\n\n \n \n \n\nit:Pocket Monsters BW: The Heroes of Fire and Thunder\nzh:宝可梦B・W 炎雷的英雄"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters BW: The Heroes of Fire and Thunder",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters BW: The Heroes of Fire and Thunder\nCategory:Pocket Monsters BW: The Heroes of Fire and Thunder\nPocket Monsters BW: The Heroes of Fire and Thunder (Japanese: ポケットモンスターB・W　炎雷の英雄) is a Pokémon manga that was serialized in CoroCoro Special between February and October 2011. It is illustrated and written by Satoshi Kanda.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 365,
+    "sectionCount": 2
+  }
+}

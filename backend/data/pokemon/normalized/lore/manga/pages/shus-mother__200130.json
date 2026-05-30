@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Shu's mother",
+    "slug": "shus-mother",
+    "pageId": 200130,
+    "revisionId": 4398493
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "shus-mother__200130.json",
+    "revisionTimestamp": "2025-10-12T11:59:39Z",
+    "fetchedAt": "2026-05-14T15:49:28.686Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Shu's mother is a character in Pokémon: Yeah! I Got Pokémon!.",
+  "plainText": "Shu's mother is a character in Pokémon: Yeah! I Got Pokémon!. \n==History==\nShe appeared in GDZ46. \n==Pokémon==\n \n\n \n \n \n \n \n\n \n \n\nit:Madre di Shu",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shu's mother is a character in Pokémon: Yeah! I Got Pokémon!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "She appeared in GDZ46."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Madre di Shu"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shu's mother",
+    "pageType": "character",
+    "searchableText": "Shu's mother\nCategory:Pokémon: Yeah! I Got Pokémon! characters\nShu's mother is a character in Pokémon: Yeah! I Got Pokémon!.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon"
+    ],
+    "characterCount": 145,
+    "sectionCount": 3
+  }
+}

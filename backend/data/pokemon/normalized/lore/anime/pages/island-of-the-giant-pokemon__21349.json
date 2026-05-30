@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Island of the Giant Pokémon",
+    "slug": "island-of-the-giant-pokemon",
+    "pageId": 21349,
+    "revisionId": 4341652
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "island-of-the-giant-pokemon__21349.json",
+    "revisionTimestamp": "2025-07-23T22:16:55Z",
+    "fetchedAt": "2026-05-14T14:25:11.778Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "For the original series episode of the , see EP017. For the book by Tracey West, see Island of the Giant Pokémon (book).\n \n\nThe Island of the Giant Pokémon (Japanese: きょだいポケモンのしま Island of the Giant Pokémon) is an -exclusive location in Kanto. It appeared from Island of the Giant Pokémon to Tentacool & Tentacruel.\n\nIt contains the cities and , which comprise Porta Vista in the dub, as well as the theme park Pokémon Land.",
+  "plainText": "For the original series episode of the , see EP017. For the book by Tracey West, see Island of the Giant Pokémon (book).\n \n\nThe Island of the Giant Pokémon (Japanese: きょだいポケモンのしま Island of the Giant Pokémon) is an -exclusive location in Kanto. It appeared from Island of the Giant Pokémon to Tentacool & Tentacruel.\n\nIt contains the cities and , which comprise Porta Vista in the dub, as well as the theme park Pokémon Land.\n\n==Places of interest==\n===Pokémon Land===\n \nThe Pokémon Land side is mostly uninhabited by humans. The coast is sandy and contains many palm trees. Just a little inland is a woods with several fruits that are edible for Pokémon. It is mostly uninhabited by wild Pokémon, due to Team Rocket's robotic giant Pokémon using this area. Further inland, there are tall cliffs and large rocks.\n\nThe part of the beach Jessie and James landed on contains a phone booth. The phone booth has a very long cable, which is entirely above-ground.\n\nThrough the center of the park is a railway, on which a railcart runs at high speed. This railway features various humps and sharp turns, as well as a vertical loop. One railway station was shown, but it merely contained two concrete slabs (to aid in entering the cart) with some outdoor chairs.\n\n===Porta Vista===\n \n \n \nPorta Vista is the human-inhabited part of the island. It contains two individual cities, Acapulco (Japanese: アオプルコ Aopulco) and Hutber Port (Japanese: ハトバポート Hatoba Port), which appeared in Beauty and the Beach and Tentacool & Tentacruel, respectively.\n \n==In other languages==\n \n \n \n \n\n \n\nes:Isla de los Pokémon gigantes\nit:Isola dei Pokémon giganti",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "For the original series episode of the , see EP017. For the book by Tracey West, see Island of the Giant Pokémon (book).\n \n\nThe Island of the Giant Pokémon (Japanese: きょだいポケモンのしま Island of the Giant Pokémon) is an -exclusive location in Kanto. It appeared from Island of the Giant Pokémon to Tentacool & Tentacruel.\n\nIt contains the cities and , which comprise Porta Vista in the dub, as well as the theme park Pokémon Land."
+    },
+    {
+      "heading": "Pokémon Land",
+      "level": 3,
+      "text": "The Pokémon Land side is mostly uninhabited by humans. The coast is sandy and contains many palm trees. Just a little inland is a woods with several fruits that are edible for Pokémon. It is mostly uninhabited by wild Pokémon, due to Team Rocket's robotic giant Pokémon using this area. Further inland, there are tall cliffs and large rocks.\n\nThe part of the beach Jessie and James landed on contains a phone booth. The phone booth has a very long cable, which is entirely above-ground.\n\nThrough the center of the park is a railway, on which a railcart runs at high speed. This railway features various humps and sharp turns, as well as a vertical loop. One railway station was shown, but it merely contained two concrete slabs (to aid in entering the cart) with some outdoor chairs."
+    },
+    {
+      "heading": "Porta Vista",
+      "level": 3,
+      "text": "Porta Vista is the human-inhabited part of the island. It contains two individual cities, Acapulco (Japanese: アオプルコ Aopulco) and Hutber Port (Japanese: ハトバポート Hatoba Port), which appeared in Beauty and the Beach and Tentacool & Tentacruel, respectively."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Isla de los Pokémon gigantes\nit:Isola dei Pokémon giganti"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Island of the Giant Pokémon",
+    "pageType": "location",
+    "searchableText": "Island of the Giant Pokémon\nCategory:Animated series-exclusive locations\nFor the original series episode of the , see EP017. For the book by Tracey West, see Island of the Giant Pokémon (book).\n \n\nThe Island of the Giant Pokémon (Japanese: きょだいポケモンのしま Island of the Giant Pokémon) is an -exclusive location in Kanto. It appeared from Island of the Giant Pokémon to Tentacool & Tentacruel.\n\nIt contains the cities and , which comprise Porta Vista in the dub, as well as the theme park Pokémon Land.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon Land",
+      "Porta Vista",
+      "In other languages"
+    ],
+    "characterCount": 1630,
+    "sectionCount": 4
+  }
+}

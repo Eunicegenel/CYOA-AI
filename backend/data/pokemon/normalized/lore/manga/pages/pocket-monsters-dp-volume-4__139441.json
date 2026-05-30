@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters DP volume 4",
+    "slug": "pocket-monsters-dp-volume-4",
+    "pageId": 139441,
+    "revisionId": 4528102
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP volumes",
+    "sourceFileName": "pocket-monsters-dp-volume-4__139441.json",
+    "revisionTimestamp": "2026-04-09T16:07:01Z",
+    "fetchedAt": "2026-05-14T15:34:18.382Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 4 is the fourth volume of the manga created by Kosaku Anakubo.",
+  "plainText": "Volume 4 is the fourth volume of the manga created by Kosaku Anakubo.\n\n==Publications==\n \n \n \n\n==Chapters==\nFierce Swim Battle in the Pool!\nMr. Clefairy's Laugh-Filled Class!?\nRun! Clefairy's Great Escape Theatrics!!\nEconomic Recovery Policy!? Clefairy's Grand Ecological Plan!!\nClefairy vs Tyrogue, Showdown!!\nCalamity! A Treacherous Cave!!\nTyrogue's Big Accident!!\nClefairy-style Sky Form, Perfected!?\nSay Hello to Clefairy the Tutor!!\nClefairy, Making it Big with a New Talent!?\nStar Newcomer Clefairy's Debut!!\nClash!? Clefairy VS Giratina\nExtra: Special Manga - A Rare Battle with Clefairy\n\n \n\n \n\nzh:宝可梦欢乐祭 钻石・珍珠篇4",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 4 is the fourth volume of the manga created by Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Fierce Swim Battle in the Pool!\nMr. Clefairy's Laugh-Filled Class!?\nRun! Clefairy's Great Escape Theatrics!!\nEconomic Recovery Policy!? Clefairy's Grand Ecological Plan!!\nClefairy vs Tyrogue, Showdown!!\nCalamity! A Treacherous Cave!!\nTyrogue's Big Accident!!\nClefairy-style Sky Form, Perfected!?\nSay Hello to Clefairy the Tutor!!\nClefairy, Making it Big with a New Talent!?\nStar Newcomer Clefairy's Debut!!\nClash!? Clefairy VS Giratina\nExtra: Special Manga - A Rare Battle with Clefairy\n\n \n\n \n\nzh:宝可梦欢乐祭 钻石・珍珠篇4"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters DP volume 4",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters DP volume 4\nCategory:Pocket Monsters DP volumes\nVolume 4 is the fourth volume of the manga created by Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 619,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters BW (Kosaku Anakubo)",
+    "slug": "pocket-monsters-bw-kosaku-anakubo",
+    "pageId": 123400,
+    "revisionId": 4527727
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW",
+    "sourceFileName": "pocket-monsters-bw-kosaku-anakubo__123400.json",
+    "revisionTimestamp": "2026-04-09T15:51:07Z",
+    "fetchedAt": "2026-05-14T15:34:08.412Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Pocket Monsters BW (Japanese: ポケットモンスターBW) is a shōnen Pokémon manga created by Kosaku Anakubo. It is a sequel to the Pokémon Pocket Monsters, Pokémon Ruby-Sapphire, and manga series and is succeeded by . The plot follows the adventures of and his Pokémon as they travel to the Unova region. It is chiefly a gag manga using crude humor and slapstick.",
+  "plainText": "Pocket Monsters BW (Japanese: ポケットモンスターBW) is a shōnen Pokémon manga created by Kosaku Anakubo. It is a sequel to the Pokémon Pocket Monsters, Pokémon Ruby-Sapphire, and manga series and is succeeded by . The plot follows the adventures of and his Pokémon as they travel to the Unova region. It is chiefly a gag manga using crude humor and slapstick.\n\n==See also==\nList of Pocket Monsters BW chapters\nList of Pocket Monsters BW volumes\n\n \n \n \n \n \n\nde:Pocket Monsters B/W (Kosaku Anakubo)\nit:Pocket Monsters BW (Kosaku Anakubo)\nzh:宝可梦欢乐祭 黑・白篇",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pocket Monsters BW (Japanese: ポケットモンスターBW) is a shōnen Pokémon manga created by Kosaku Anakubo. It is a sequel to the Pokémon Pocket Monsters, Pokémon Ruby-Sapphire, and manga series and is succeeded by . The plot follows the adventures of and his Pokémon as they travel to the Unova region. It is chiefly a gag manga using crude humor and slapstick."
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "List of Pocket Monsters BW chapters\nList of Pocket Monsters BW volumes\n\n \n \n \n \n \n\nde:Pocket Monsters B/W (Kosaku Anakubo)\nit:Pocket Monsters BW (Kosaku Anakubo)\nzh:宝可梦欢乐祭 黑・白篇"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters BW (Kosaku Anakubo)",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters BW (Kosaku Anakubo)\nCategory:Pocket Monsters BW\nPocket Monsters BW (Japanese: ポケットモンスターBW) is a shōnen Pokémon manga created by Kosaku Anakubo. It is a sequel to the Pokémon Pocket Monsters, Pokémon Ruby-Sapphire, and manga series and is succeeded by . The plot follows the adventures of and his Pokémon as they travel to the Unova region. It is chiefly a gag manga using crude humor and slapstick.",
+    "sectionHeadings": [
+      "Lead",
+      "See also"
+    ],
+    "characterCount": 541,
+    "sectionCount": 2
+  }
+}

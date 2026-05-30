@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of animated series episodes",
+    "slug": "list-of-animated-series-episodes",
+    "pageId": 11504,
+    "revisionId": 4398869
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Lists of animated series episodes",
+    "sourceFileName": "list-of-animated-series-episodes__11504.json",
+    "revisionTimestamp": "2025-10-13T09:20:12Z",
+    "fetchedAt": "2026-05-14T14:31:27.479Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "This is a list of all episodes of the Pokémon animated series, airing since April 1, 1997 in Japan, and since September 7, 1998 in the United States. In , these episodes follow the journey of Pokémon Trainer Ash Ketchum across the regions of Kanto, the Orange Islands, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and Galar with his first , a , and along the way. In , they instead follow the journey of Liko and Roy.\n\nThe animated series is divided up into eight series, though the episodes are sequential, and so the last original series episode is followed by the first Pokémon the Series: Ruby and Sapphire episode and so on. Outside of Japan, it is further subdivided into seasons.",
+  "plainText": "This is a list of all episodes of the Pokémon animated series, airing since April 1, 1997 in Japan, and since September 7, 1998 in the United States. In , these episodes follow the journey of Pokémon Trainer Ash Ketchum across the regions of Kanto, the Orange Islands, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and Galar with his first , a , and along the way. In , they instead follow the journey of Liko and Roy.\n\nThe animated series is divided up into eight series, though the episodes are sequential, and so the last original series episode is followed by the first Pokémon the Series: Ruby and Sapphire episode and so on. Outside of Japan, it is further subdivided into seasons.\n \n \n \n \n \n \n \n \n\n==See also==\nTimeline of events in Pokémon the Series\nTimeline of events in Pokémon Horizons: The Series\n\n \n \n\n \n \n \n\nde:Anime-Episodenliste\nes:Lista de episodios completa\nfr:Liste des épisodes de Pokémon, la série\nit:Elenco episodi della serie animata originale\nja:アニメのサブタイトル一覧\nzh:宝可梦动画通算集数列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of all episodes of the Pokémon animated series, airing since April 1, 1997 in Japan, and since September 7, 1998 in the United States. In , these episodes follow the journey of Pokémon Trainer Ash Ketchum across the regions of Kanto, the Orange Islands, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and Galar with his first , a , and along the way. In , they instead follow the journey of Liko and Roy.\n\nThe animated series is divided up into eight series, though the episodes are sequential, and so the last original series episode is followed by the first Pokémon the Series: Ruby and Sapphire episode and so on. Outside of Japan, it is further subdivided into seasons."
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "Timeline of events in Pokémon the Series\nTimeline of events in Pokémon Horizons: The Series\n\n \n \n\n \n \n \n\nde:Anime-Episodenliste\nes:Lista de episodios completa\nfr:Liste des épisodes de Pokémon, la série\nit:Elenco episodi della serie animata originale\nja:アニメのサブタイトル一覧\nzh:宝可梦动画通算集数列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of animated series episodes",
+    "pageType": "episode",
+    "searchableText": "List of animated series episodes\nCategory:Lists of animated series episodes\nThis is a list of all episodes of the Pokémon animated series, airing since April 1, 1997 in Japan, and since September 7, 1998 in the United States. In , these episodes follow the journey of Pokémon Trainer Ash Ketchum across the regions of Kanto, the Orange Islands, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, and Galar with his first , a , and along the way. In , they instead follow the journey of Liko and Roy.\n\nThe animated series is divided up into eight series, though the episodes are sequential, and so the last original series episode is followed by the first Pokémon the Series: Ruby and Sapphire episode and so on. Outside of Japan, it is further subdivided into seasons.",
+    "sectionHeadings": [
+      "Lead",
+      "See also"
+    ],
+    "characterCount": 995,
+    "sectionCount": 2
+  }
+}

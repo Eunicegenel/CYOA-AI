@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "The Snorlax Stop",
+    "slug": "the-snorlax-stop",
+    "pageId": 122904,
+    "revisionId": 4132996
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "the-snorlax-stop__122904.json",
+    "revisionTimestamp": "2024-09-29T05:30:30Z",
+    "fetchedAt": "2026-05-14T15:51:43.472Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: The Snorlax Stop is the fourth monthly issue of the Pokémon Adventures manga to be released by VIZ Media. It contains the chapters ten, eleven, and twelve of the . The chapters originally released in this book were later compiled into . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: The Snorlax Stop is the fourth monthly issue of the Pokémon Adventures manga to be released by VIZ Media. It contains the chapters ten, eleven, and twelve of the . The chapters originally released in this book were later compiled into . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n \n \n \n\n==Chapters==\nChapter 10: Danger: High Voltorb\nChapter 11: Buzz Off, Electabuzz!\nChapter 12: Wake Up—You're Snorlax!\n\n==Important events==\nmeets Lt. Surge.\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\nRed's \"Snor\" in PS012.\n\n===Evolutions===\nThe following Pokémon evolve:\nRed's evolves into in PS011.\n\n==Trivia==\nThis was the last issue of Pokémon Adventures to be released in .\n\n==In other languages==\n \n\n \n \n\nfr:Volume 4 (Pokémon Adventures)\nit:La Tappa Snorlax",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: The Snorlax Stop is the fourth monthly issue of the Pokémon Adventures manga to be released by VIZ Media. It contains the chapters ten, eleven, and twelve of the . The chapters originally released in this book were later compiled into . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 10: Danger: High Voltorb\nChapter 11: Buzz Off, Electabuzz!\nChapter 12: Wake Up—You're Snorlax!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "meets Lt. Surge."
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:\nRed's \"Snor\" in PS012."
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "The following Pokémon evolve:\nRed's evolves into in PS011."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This was the last issue of Pokémon Adventures to be released in ."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "fr:Volume 4 (Pokémon Adventures)\nit:La Tappa Snorlax"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Snorlax Stop",
+    "pageType": "pokemon-related",
+    "searchableText": "The Snorlax Stop\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: The Snorlax Stop is the fourth monthly issue of the Pokémon Adventures manga to be released by VIZ Media. It contains the chapters ten, eleven, and twelve of the . The chapters originally released in this book were later compiled into . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Additions",
+      "Evolutions",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 886,
+    "sectionCount": 7
+  }
+}

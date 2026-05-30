@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Red (4Koma)",
+    "slug": "red-4koma",
+    "pageId": 67262,
+    "revisionId": 4525959
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma characters",
+    "sourceFileName": "red-4koma__67262.json",
+    "revisionTimestamp": "2026-04-09T14:07:41Z",
+    "fetchedAt": "2026-05-14T15:48:04.935Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Red is one of the characters in Pokémon 4Koma. He is based on the Generation I version of from . \n \n \n\n \n \n\nit:Red (4Koma)\nzh:赤紅（4Koma）",
+  "plainText": "Red is one of the characters in Pokémon 4Koma. He is based on the Generation I version of from . \n \n \n\n \n \n\nit:Red (4Koma)\nzh:赤紅（4Koma）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Red is one of the characters in Pokémon 4Koma. He is based on the Generation I version of from . \n \n \n\n \n \n\nit:Red (4Koma)\nzh:赤紅（4Koma）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Red (4Koma)",
+    "pageType": "character",
+    "searchableText": "Red (4Koma)\nCategory:Pokémon 4Koma characters\nRed is one of the characters in Pokémon 4Koma. He is based on the Generation I version of from . \n \n \n\n \n \n\nit:Red (4Koma)\nzh:赤紅（4Koma）",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 135,
+    "sectionCount": 1
+  }
+}

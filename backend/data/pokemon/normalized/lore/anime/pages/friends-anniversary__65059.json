@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Friends' Anniversary",
+    "slug": "friends-anniversary",
+    "pageId": 65059,
+    "revisionId": 4528680
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese ending themes",
+    "sourceFileName": "friends-anniversary__65059.json",
+    "revisionTimestamp": "2026-04-09T16:38:27Z",
+    "fetchedAt": "2026-05-14T14:19:39.998Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Friends' Anniversary (Japanese: ともだち記念日 Tomodachi Kinenbi) is the seventh ending song of the Japanese Pikachu shorts.\n\nIt debuted in Pikachu and Pichu.",
+  "plainText": "Friends' Anniversary (Japanese: ともだち記念日 Tomodachi Kinenbi) is the seventh ending song of the Japanese Pikachu shorts.\n\nIt debuted in Pikachu and Pichu.\n\n==Synopsis==\n \n\n==Characters==\n( )\n(Pichu Brothers)\n\n \n\n==Lyrics==\n \n! Japanese\n! English\n\n　 \n \n　 \n\n \n \n\n \n \n\n \n　 \n \n　 \n\n \n \n\n \n \n\n \n \n\n \n\n　Yes, of course! If I'm not mistaken, it was raining\nThat's not right, is it? It was perfectly sunny\n　Huh? Is that right? But what's important is that...\n\nIn this vast world, the two of us\nWere singing happily like this!\n\nWe're so glad we were born on this planet full of encounters!\nTo the \"coincidence\" that gave us this encounter, we give our thanks!\n\nHey, what's wrong? You're crying while you're laughing\n　Yes, you see, this is my strongest move!\nThat's not right, is it? Don't be embarrassed\n　You figured it out, huh? The reason for these tears...\n\nI knew that even this short encounter\nWould someday change into a friendship!\n\nWe're so glad we were born on this planet full of encounters!\nTo the \"coincidence\" that gave us this encounter, we give our thanks!\n\nEven today, somewhere, someone is meeting someone else for the first time!\nLet's all celebrate! Today is a friends' anniversary!\n\nLalalala lalalala... \n\n==Trivia==\nA version of the Pallet Town tune can be heard during the song.\n\n \n \n \n\n \n\nja:ともだち記念日",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Friends' Anniversary (Japanese: ともだち記念日 Tomodachi Kinenbi) is the seventh ending song of the Japanese Pikachu shorts.\n\nIt debuted in Pikachu and Pichu."
+    },
+    {
+      "heading": "Characters",
+      "level": 2,
+      "text": "( )\n(Pichu Brothers)"
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "! Japanese\n! English\n\n　 \n \n　 \n\n \n \n\n \n \n\n \n　 \n \n　 \n\n \n \n\n \n \n\n \n \n\n \n\n　Yes, of course! If I'm not mistaken, it was raining\nThat's not right, is it? It was perfectly sunny\n　Huh? Is that right? But what's important is that...\n\nIn this vast world, the two of us\nWere singing happily like this!\n\nWe're so glad we were born on this planet full of encounters!\nTo the \"coincidence\" that gave us this encounter, we give our thanks!\n\nHey, what's wrong? You're crying while you're laughing\n　Yes, you see, this is my strongest move!\nThat's not right, is it? Don't be embarrassed\n　You figured it out, huh? The reason for these tears...\n\nI knew that even this short encounter\nWould someday change into a friendship!\n\nWe're so glad we were born on this planet full of encounters!\nTo the \"coincidence\" that gave us this encounter, we give our thanks!\n\nEven today, somewhere, someone is meeting someone else for the first time!\nLet's all celebrate! Today is a friends' anniversary!\n\nLalalala lalalala..."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "A version of the Pallet Town tune can be heard during the song.\n\n \n \n \n\n \n\nja:ともだち記念日"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Friends' Anniversary",
+    "pageType": "general-anime-lore",
+    "searchableText": "Friends' Anniversary\nCategory:Japanese ending themes\nFriends' Anniversary (Japanese: ともだち記念日 Tomodachi Kinenbi) is the seventh ending song of the Japanese Pikachu shorts.\n\nIt debuted in Pikachu and Pichu.",
+    "sectionHeadings": [
+      "Lead",
+      "Characters",
+      "Lyrics",
+      "Trivia"
+    ],
+    "characterCount": 1308,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "TA07",
+    "slug": "ta07",
+    "pageId": 180866,
+    "revisionId": 4549156
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta07__180866.json",
+    "revisionTimestamp": "2026-05-11T01:22:12Z",
+    "fetchedAt": "2026-05-14T15:50:36.495Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 森の平和を守れ！ Protect the Harmony of the Forest!) is the seventh chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 森の平和を守れ！ Protect the Harmony of the Forest!) is the seventh chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nKids\nPokémon poacher\n\n===Pokémon===\n(Lin; Katsuya's)\n(Chacha; Katsuya's)\n(Soro's)\n(Soro's)\n(Kamaru; Toki's)\n(Absō; Toki's)\n\n==In other languages==\n \n \n\n \n \n \n\nes:PTR07",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 森の平和を守れ！ Protect the Harmony of the Forest!) is the seventh chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nKids\nPokémon poacher"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Lin; Katsuya's)\n(Chacha; Katsuya's)\n(Soro's)\n(Soro's)\n(Kamaru; Toki's)\n(Absō; Toki's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:PTR07"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA07",
+    "pageType": "chapter",
+    "searchableText": "TA07\nCategory:Pokémon Try Adventure chapters\n(Japanese: 森の平和を守れ！ Protect the Harmony of the Forest!) is the seventh chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 397,
+    "sectionCount": 4
+  }
+}

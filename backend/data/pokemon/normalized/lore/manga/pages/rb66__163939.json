@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB66",
+    "slug": "rb66",
+    "pageId": 163939,
+    "revisionId": 4252906
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb66__163939.json",
+    "revisionTimestamp": "2025-03-04T04:56:56Z",
+    "fetchedAt": "2026-05-14T15:47:57.451Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 裏切りと復讐と… Betrayal and Revenge and...) is the 66th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 裏切りと復讐と… Betrayal and Revenge and...) is the 66th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nYappy is offered a chance to become famous by Gerubu, but violently declines and runs away.\nGerubu tags Yappy with a tracker.\nHariru and Carola plans their revenge on Fraud, only to find the GG headquarters destroyed by him.\nHariru and Fraud's battle begins.\n\n===Debuts===\n\n====Pokémon debuts====\n==Characters==\n===Humans===\nYappy\nArcades (fantasy)\nGerubu\nRug \nMiruto\nKaruta\nRyouga\nHariru\nCarola\nFraud\nCitizens\n\n===Pokémon===\n(Fraud's)\n(Hariru's)\n(Carola's)\n(citizen's)\n(citizen's)\n(citizen's)\n(citizen's)\n\n \n \n \n\n \n\nzh:RB66",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 裏切りと復讐と… Betrayal and Revenge and...) is the 66th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Yappy is offered a chance to become famous by Gerubu, but violently declines and runs away.\nGerubu tags Yappy with a tracker.\nHariru and Carola plans their revenge on Fraud, only to find the GG headquarters destroyed by him.\nHariru and Fraud's battle begins."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Yappy\nArcades (fantasy)\nGerubu\nRug \nMiruto\nKaruta\nRyouga\nHariru\nCarola\nFraud\nCitizens"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Fraud's)\n(Hariru's)\n(Carola's)\n(citizen's)\n(citizen's)\n(citizen's)\n(citizen's)\n\n \n \n \n\n \n\nzh:RB66"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB66",
+    "pageType": "chapter",
+    "searchableText": "RB66\nCategory:Pokémon RéBURST chapters\n(Japanese: 裏切りと復讐と… Betrayal and Revenge and...) is the 66th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 653,
+    "sectionCount": 4
+  }
+}

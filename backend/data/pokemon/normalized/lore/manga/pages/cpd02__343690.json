@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "CPD02",
+    "slug": "cpd02",
+    "pageId": 343690,
+    "revisionId": 4398703
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Countdown Pokémon Day chapters",
+    "sourceFileName": "cpd02__343690.json",
+    "revisionTimestamp": "2025-10-12T20:34:42Z",
+    "fetchedAt": "2026-05-14T15:16:18.276Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the second chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 21, 2025 at 8:00 PM JST. It is 16 pages long.",
+  "plainText": "This is the second chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 21, 2025 at 8:00 PM JST. It is 16 pages long.\n\n==Plot==\n \n \n \n\n==Major events==\n \n===Debuts===\n====Pokémon debuts====\n(illustration; fantasy)\n(illustration; fantasy)\n(illustration; fantasy)\n( ; illustration; fantasy)\n(Trainer's)\n\n==Characters==\n===Humans===\n\nCitizens\n\n===Pokémon===\n(Yūsuke's)\n(Daichi's)\n(Tokio's)\n(Yadoyan; Umina's)\n(Run-chan; Yuki's)\n(Trainer's)\n(Trainer's)\n(illustration; fantasy)\n(statue)\n(illustration; fantasy)\n(illustration; fantasy)\n(illustration; fantasy)\n(illustration; fantasy)\n(illustration; fantasy)\n( ; illustration; fantasy)\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the second chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 21, 2025 at 8:00 PM JST. It is 16 pages long."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(illustration; fantasy)\n(illustration; fantasy)\n(illustration; fantasy)\n( ; illustration; fantasy)\n(Trainer's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Citizens"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Yūsuke's)\n(Daichi's)\n(Tokio's)\n(Yadoyan; Umina's)\n(Run-chan; Yuki's)\n(Trainer's)\n(Trainer's)\n(illustration; fantasy)\n(statue)\n(illustration; fantasy)\n(illustration; fantasy)\n(illustration; fantasy)\n(illustration; fantasy)\n(illustration; fantasy)\n( ; illustration; fantasy)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CPD02",
+    "pageType": "chapter",
+    "searchableText": "CPD02\nCategory:Countdown Pokémon Day chapters\nThis is the second chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 21, 2025 at 8:00 PM JST. It is 16 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 684,
+    "sectionCount": 4
+  }
+}

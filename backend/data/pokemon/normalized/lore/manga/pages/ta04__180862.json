@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "TA04",
+    "slug": "ta04",
+    "pageId": 180862,
+    "revisionId": 4549320
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta04__180862.json",
+    "revisionTimestamp": "2026-05-11T01:44:17Z",
+    "fetchedAt": "2026-05-14T15:50:34.652Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 伝説のポケモン登場 The Legendary Pokémon Appears) is the fourth chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 伝説のポケモン登場 The Legendary Pokémon Appears) is the fourth chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\nLocal villager\n\n===Pokémon===\n(Hikoza; Katsuya's)\n(Soro's)\n(Kururu; Toki's)\n\n==In other languages==\n \n \n\n \n \n \n\nes:PTR04",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 伝説のポケモン登場 The Legendary Pokémon Appears) is the fourth chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty\nLocal villager"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hikoza; Katsuya's)\n(Soro's)\n(Kururu; Toki's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:PTR04"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA04",
+    "pageType": "chapter",
+    "searchableText": "TA04\nCategory:Pokémon Try Adventure chapters\n(Japanese: 伝説のポケモン登場 The Legendary Pokémon Appears) is the fourth chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 350,
+    "sectionCount": 4
+  }
+}

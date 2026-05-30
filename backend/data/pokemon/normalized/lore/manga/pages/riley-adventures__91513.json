@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Riley (Adventures)",
+    "slug": "riley-adventures",
+    "pageId": 91513,
+    "revisionId": 4487286
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "riley-adventures__91513.json",
+    "revisionTimestamp": "2026-02-16T01:47:19Z",
+    "fetchedAt": "2026-05-14T15:48:18.150Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Riley (Japanese: リュウジ Ryūji) is Wanda's husband in Pokémon Adventures.\n\nHe first appears in It's Absol-lutely a Bad Omen, as the head of the construction crew in the Rusturf Tunnel, when it unexpectedly collapses on him due to earthquakes. rescues him.\n\nHe and Wanda are later married during the .",
+  "plainText": "Riley (Japanese: リュウジ Ryūji) is Wanda's husband in Pokémon Adventures.\n\nHe first appears in It's Absol-lutely a Bad Omen, as the head of the construction crew in the Rusturf Tunnel, when it unexpectedly collapses on him due to earthquakes. rescues him.\n\nHe and Wanda are later married during the .\n\n==In the games==\nRiley is based on Wanda's nameless boyfriend from , trapped on the west side of the breakable rocks in the Rusturf Tunnel.\n\nHe will give or the Aggronite if the player helps clear the rocks.\n\n==Trivia==\nThe showcases two different characters with the same English name, as Riley of Sinnoh makes a cameo at the end of the chapter.\n\n==Names==\n \n \n\n \n \n \n \n \n\nde:Raul\nes:Riley\nit:Fabrizio\nzh:隆二",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Riley (Japanese: リュウジ Ryūji) is Wanda's husband in Pokémon Adventures.\n\nHe first appears in It's Absol-lutely a Bad Omen, as the head of the construction crew in the Rusturf Tunnel, when it unexpectedly collapses on him due to earthquakes. rescues him.\n\nHe and Wanda are later married during the ."
+    },
+    {
+      "heading": "In the games",
+      "level": 2,
+      "text": "Riley is based on Wanda's nameless boyfriend from , trapped on the west side of the breakable rocks in the Rusturf Tunnel.\n\nHe will give or the Aggronite if the player helps clear the rocks."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The showcases two different characters with the same English name, as Riley of Sinnoh makes a cameo at the end of the chapter."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:Raul\nes:Riley\nit:Fabrizio\nzh:隆二"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Riley (Adventures)",
+    "pageType": "character",
+    "searchableText": "Riley (Adventures)\nCategory:Pokémon Adventures characters\nRiley (Japanese: リュウジ Ryūji) is Wanda's husband in Pokémon Adventures.\n\nHe first appears in It's Absol-lutely a Bad Omen, as the head of the construction crew in the Rusturf Tunnel, when it unexpectedly collapses on him due to earthquakes. rescues him.\n\nHe and Wanda are later married during the .",
+    "sectionHeadings": [
+      "Lead",
+      "In the games",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 707,
+    "sectionCount": 4
+  }
+}

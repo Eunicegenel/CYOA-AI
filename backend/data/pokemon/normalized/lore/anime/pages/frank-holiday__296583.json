@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Frank Holiday",
+    "slug": "frank-holiday",
+    "pageId": 296583,
+    "revisionId": 4544110
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "frank-holiday__296583.json",
+    "revisionTimestamp": "2026-05-04T09:48:20Z",
+    "fetchedAt": "2026-05-14T14:19:34.341Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Frank Holiday is a supporting character in the games and Detective Pikachu Returns. He is a police inspector in Ryme City.",
+  "plainText": "Frank Holiday is a supporting character in the games and Detective Pikachu Returns. He is a police inspector in Ryme City.\n\n==In the games==\n=== ===\n \nFrank is an inspector with the Ryme City police, and he is good friends with Mike Baker and Harry Goodman. He was the one who found after Harry's accident, and he has been searching for Harry since his disappearance. He met Mike at the police academy. Since he is a police inspector, most people address him as Inspector Holiday.\n\nFrank appears for the first time in Chapter 3, visiting the Baker Detective Agency. Mike informs him that Harry's son Tim Goodman has come to town to search for Harry, and he warned Tim against doing it because it could be dangerous. However, Frank says that Tim is Harry's son, so might not listen to Mike. He meets Tim at the end of Chapter 3 while taking Carlos Hernando into custody, and he thanks Tim for making progress on Harry's case when he couldn't.\n\nIn Chapter 4, Frank tells Tim what they learned from Carlos's interrogation: there was a mysterious person who had somehow learned about R and was contracting Carlos to make R for him. This mysterious person was also involved in Harry's accident, so Frank wants to find out who he is. While he investigates that, he gives Tim permission to go to Cappucci Island and look for John Waals, the man who developed R. He also mentions that one of his men, Brad McMaster, is already on the island for an assignment, so he can give Tim backup if needed.\n\nDuring Chapter 9, Frank interrogates Keith Norman at the police station. During the interrogation, he learns that there are four locations in Ryme City's Central Square where Keith and his allies were planning to release R, when they had previously thought there were only three. He hurries to the plaza to inform Tim about it, so Tim is able to find the last machine and shut it down before it can release R.\n\nFrank has several entries in Tim's case list, as Holiday:\n \n\n===Detective Pikachu Returns===\n \nTwo years after the R case was resolved, Holiday is still an inspector with the Ryme City police. When the Aurora Drop is stolen from Sanjeev Denis's residence, he asks Tim to investigate the case—the evidence that the police found points to the culprit being Denis's butler, Brandon Barnes, but Denis insists that Barnes would never do such a thing. Holiday is relieved when Tim proves that Barnes is innocent.\n\nHoliday appears again after Detective Pikachu has been wrongfully detained by the Pokémon Protection Bureau.\n\n==Gallery==\n===Artwork===\n \n \n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n \n\nde:Frank Holiday\nzh:法蘭克‧荷里迪",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Frank Holiday is a supporting character in the games and Detective Pikachu Returns. He is a police inspector in Ryme City."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Frank is an inspector with the Ryme City police, and he is good friends with Mike Baker and Harry Goodman. He was the one who found after Harry's accident, and he has been searching for Harry since his disappearance. He met Mike at the police academy. Since he is a police inspector, most people address him as Inspector Holiday.\n\nFrank appears for the first time in Chapter 3, visiting the Baker Detective Agency. Mike informs him that Harry's son Tim Goodman has come to town to search for Harry, and he warned Tim against doing it because it could be dangerous. However, Frank says that Tim is Harry's son, so might not listen to Mike. He meets Tim at the end of Chapter 3 while taking Carlos Hernando into custody, and he thanks Tim for making progress on Harry's case when he couldn't.\n\nIn Chapter 4, Frank tells Tim what they learned from Carlos's interrogation: there was a mysterious person who had somehow learned about R and was contracting Carlos to make R for him. This mysterious person was also involved in Harry's accident, so Frank wants to find out who he is. While he investigates that, he gives Tim permission to go to Cappucci Island and look for John Waals, the man who developed R. He also mentions that one of his men, Brad McMaster, is already on the island for an assignment, so he can give Tim backup if needed.\n\nDuring Chapter 9, Frank interrogates Keith Norman at the police station. During the interrogation, he learns that there are four locations in Ryme City's Central Square where Keith and his allies were planning to release R, when they had previously thought there were only three. He hurries to the plaza to inform Tim about it, so Tim is able to find the last machine and shut it down before it can release R.\n\nFrank has several entries in Tim's case list, as Holiday:"
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Two years after the R case was resolved, Holiday is still an inspector with the Ryme City police. When the Aurora Drop is stolen from Sanjeev Denis's residence, he asks Tim to investigate the case—the evidence that the police found points to the culprit being Denis's butler, Brandon Barnes, but Denis insists that Barnes would never do such a thing. Holiday is relieved when Tim proves that Barnes is innocent.\n\nHoliday appears again after Detective Pikachu has been wrongfully detained by the Pokémon Protection Bureau."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Frank Holiday\nzh:法蘭克‧荷里迪"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Frank Holiday",
+    "pageType": "character",
+    "searchableText": "Frank Holiday\nCategory:Detective Pikachu Returns characters\nFrank Holiday is a supporting character in the games and Detective Pikachu Returns. He is a police inspector in Ryme City.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Detective Pikachu Returns",
+      "Related articles"
+    ],
+    "characterCount": 2634,
+    "sectionCount": 4
+  }
+}

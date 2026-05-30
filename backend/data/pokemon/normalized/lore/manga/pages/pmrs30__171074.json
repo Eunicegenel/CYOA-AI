@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS30",
+    "slug": "pmrs30",
+    "pageId": 171074,
+    "revisionId": 4264634
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs30__171074.json",
+    "revisionTimestamp": "2025-03-23T18:30:24Z",
+    "fetchedAt": "2026-05-14T15:33:26.590Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Mystery Of A Midsummer's Night (Japanese: 真夏の夜のミステリー The Mystery Of A Midsummer's Night) is the thirtieth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "The Mystery Of A Midsummer's Night (Japanese: 真夏の夜のミステリー The Mystery Of A Midsummer's Night) is the thirtieth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Mystery Of A Midsummer's Night (Japanese: 真夏の夜のミステリー The Mystery Of A Midsummer's Night) is the thirtieth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS30",
+    "pageType": "chapter",
+    "searchableText": "PMRS30\nCategory:Pokémon Ruby-Sapphire chapters\nThe Mystery Of A Midsummer's Night (Japanese: 真夏の夜のミステリー The Mystery Of A Midsummer's Night) is the thirtieth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 277,
+    "sectionCount": 2
+  }
+}

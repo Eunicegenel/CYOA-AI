@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon RéBURST volume 3",
+    "slug": "pokemon-reburst-volume-3",
+    "pageId": 152249,
+    "revisionId": 4132666
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST volumes",
+    "sourceFileName": "pokemon-reburst-volume-3__152249.json",
+    "revisionTimestamp": "2024-09-29T05:25:33Z",
+    "fetchedAt": "2026-05-14T15:37:28.671Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 3 is the third volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+  "plainText": "Volume 3 is the third volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.\n\n==Publications==\n \n \n\n \n==Chapters==\nChapter 01 (18): Ryouga and Zekrom\nChapter 02 (19): Two Burst Hearts\nChapter 03 (20): Many Lights\nChapter 04 (21): Burst Heart Survival Begins!\nChapter 05 (22): Eight Boxes and Two Buttons\nChapter 06 (23): Box Escape Survival\nChapter 07 (24): Add-up-to-10 Survival\nChapter 08 (25): Giant Warrior Dokan\nChapter 09 (26): Battle in the Gas\nChapter 10 (27): Once More, Hariru and...!!\n\n==Important events==\n \nBurst Heart Survival begins.\n\n \n \n\nit:Pokémon RéBURST volume 3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 3 is the third volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 01 (18): Ryouga and Zekrom\nChapter 02 (19): Two Burst Hearts\nChapter 03 (20): Many Lights\nChapter 04 (21): Burst Heart Survival Begins!\nChapter 05 (22): Eight Boxes and Two Buttons\nChapter 06 (23): Box Escape Survival\nChapter 07 (24): Add-up-to-10 Survival\nChapter 08 (25): Giant Warrior Dokan\nChapter 09 (26): Battle in the Gas\nChapter 10 (27): Once More, Hariru and...!!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Burst Heart Survival begins.\n\n \n \n\nit:Pokémon RéBURST volume 3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon RéBURST volume 3",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon RéBURST volume 3\nCategory:Pokémon RéBURST volumes\nVolume 3 is the third volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 622,
+    "sectionCount": 3
+  }
+}

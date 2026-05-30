@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PPP19",
+    "slug": "ppp19",
+    "pageId": 6576,
+    "revisionId": 4131709
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp19__6576.json",
+    "revisionTimestamp": "2024-09-29T04:24:15Z",
+    "fetchedAt": "2026-05-14T15:38:48.441Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Five Sisters of Squirtle (Japanese: ゼニガメ５人姉妹参上 Enter the Five Sisters) is the 19th chapter of the Magical Pokémon Journey manga.",
+  "plainText": "The Five Sisters of Squirtle (Japanese: ゼニガメ５人姉妹参上 Enter the Five Sisters) is the 19th chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \n 's five sisters invite him to come back home. When Almond is invited as well, Hazel, and decide to follow him there. After a brief introduction, the sisters push Almond through a trapdoor, and Hazel, Pikachu, and Clefairy hop down after him. \n\nAfter they all land in the basement, Kamemi, the second-eldest sister, calls down to tell Almond that she and the others are testing to determine whether he is good enough to be Squirtle's friend. If he does not pass, they will make Squirtle move back home.\n\nKamemi gives Almond his first test: he must eat a bowl of noodles in under a minute. Burning his tongue, he passes with five seconds to spare. His next test, from third-eldest Kamena, is to pass a multiple-choice paper test. He answers her questions correctly, but Kamena reveals that she would have actually preferred him to \"be a rebel\" and return the text blank.\n\nAlmond, Hazel, Pikachu, and Clefairy then fall through another trapdoor, where Squirtle's younger sisters, Kamee and Kameyo, begin their test. A spiked wall starts to move toward him and the others. It chases them through rows of hurdles, and through much effort, they manage to escape to the finish line.\n\nThe final test is from Kameko, the eldest sister. She challenges Almond to a one-on-one battle. He is initially cautious, but agrees after being unable to stand the thought of being separated from Squirtle. As Kameko fires a , Squirtle jumps in the way and takes the full force of the attack. Almond runs to Squirtle in tears, yelling at him for risking his life. Realizing that Squirtle has matured, and that Almond is a good friend to him, Squirtle's sisters decide that they should stay together. Kameko then gives Almond a hug, but accidentally crushes him in her grasp, breaking multiple of his bones and leaving him in a coma for three months.\n\n==Major events==\nSquirtle's family is introduced.\nAlmond is hospitalized after being crushed by Kameko's hug.\n \n\n===Debuts===\n====Pokémon====\n(Kamemi and Kameko)\n(Kamena)\n\n==Characters==\n===Humans===\nHazel\nAlmond\n\n===Pokémon===\n( )\n( )\n\n(Kamemi and Kameko)\n(Kamena)\n(Kamee and Kameyo)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Five Sisters of Squirtle (Japanese: ゼニガメ５人姉妹参上 Enter the Five Sisters) is the 19th chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "'s five sisters invite him to come back home. When Almond is invited as well, Hazel, and decide to follow him there. After a brief introduction, the sisters push Almond through a trapdoor, and Hazel, Pikachu, and Clefairy hop down after him. \n\nAfter they all land in the basement, Kamemi, the second-eldest sister, calls down to tell Almond that she and the others are testing to determine whether he is good enough to be Squirtle's friend. If he does not pass, they will make Squirtle move back home.\n\nKamemi gives Almond his first test: he must eat a bowl of noodles in under a minute. Burning his tongue, he passes with five seconds to spare. His next test, from third-eldest Kamena, is to pass a multiple-choice paper test. He answers her questions correctly, but Kamena reveals that she would have actually preferred him to \"be a rebel\" and return the text blank.\n\nAlmond, Hazel, Pikachu, and Clefairy then fall through another trapdoor, where Squirtle's younger sisters, Kamee and Kameyo, begin their test. A spiked wall starts to move toward him and the others. It chases them through rows of hurdles, and through much effort, they manage to escape to the finish line.\n\nThe final test is from Kameko, the eldest sister. She challenges Almond to a one-on-one battle. He is initially cautious, but agrees after being unable to stand the thought of being separated from Squirtle. As Kameko fires a , Squirtle jumps in the way and takes the full force of the attack. Almond runs to Squirtle in tears, yelling at him for risking his life. Realizing that Squirtle has matured, and that Almond is a good friend to him, Squirtle's sisters decide that they should stay together. Kameko then gives Almond a hug, but accidentally crushes him in her grasp, breaking multiple of his bones and leaving him in a coma for three months."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Squirtle's family is introduced.\nAlmond is hospitalized after being crushed by Kameko's hug."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 4,
+      "text": "(Kamemi and Kameko)\n(Kamena)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nAlmond"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n\n(Kamemi and Kameko)\n(Kamena)\n(Kamee and Kameyo)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP19",
+    "pageType": "chapter",
+    "searchableText": "PPP19\nCategory:Magical Pokémon Journey chapters\nThe Five Sisters of Squirtle (Japanese: ゼニガメ５人姉妹参上 Enter the Five Sisters) is the 19th chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Pokémon",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 2258,
+    "sectionCount": 6
+  }
+}

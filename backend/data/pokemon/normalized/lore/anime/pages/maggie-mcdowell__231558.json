@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Maggie McDowell",
+    "slug": "maggie-mcdowell",
+    "pageId": 231558,
+    "revisionId": 4323398
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "maggie-mcdowell__231558.json",
+    "revisionTimestamp": "2025-06-24T03:29:27Z",
+    "fetchedAt": "2026-05-14T14:34:14.961Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Maggie McDowell is an American voice actress for the English-language dub of .",
+  "plainText": "Maggie McDowell is an American voice actress for the English-language dub of .\n\n==Biography==\nMcDowell became a voice actress, with her first role being on . She voiced Miette, 's rival in Pokémon Showcases, during . She also voiced some minor roles in Unlocking Some Respect! and Master Class Is in Session!.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Major=====\nMiette\n\n=====Minor=====\nFemale Staff (XY111)\nWoman (XY112)\n\n==External links==\nOfficial website\n \n\n \n\nit:Maggie McDowell",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Maggie McDowell is an American voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "McDowell became a voice actress, with her first role being on . She voiced Miette, 's rival in Pokémon Showcases, during . She also voiced some minor roles in Unlocking Some Respect! and Master Class Is in Session!."
+    },
+    {
+      "heading": "Major",
+      "level": 5,
+      "text": "Miette"
+    },
+    {
+      "heading": "Minor",
+      "level": 5,
+      "text": "Female Staff (XY111)\nWoman (XY112)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\n \n\n \n\nit:Maggie McDowell"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Maggie McDowell",
+    "pageType": "general-anime-lore",
+    "searchableText": "Maggie McDowell\nCategory:TPCi voice actors\nMaggie McDowell is an American voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "External links"
+    ],
+    "characterCount": 491,
+    "sectionCount": 5
+  }
+}

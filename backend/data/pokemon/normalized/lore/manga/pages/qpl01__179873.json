@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "QPL01",
+    "slug": "qpl01",
+    "pageId": 179873,
+    "revisionId": 4231316
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters",
+    "sourceFileName": "qpl01__179873.json",
+    "revisionTimestamp": "2025-01-31T10:59:39Z",
+    "fetchedAt": "2026-05-14T15:46:59.122Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: Pikachu Exploration Team Dispatch, Pikka!!) is the first chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+  "plainText": "(Japanese: Pikachu Exploration Team Dispatch, Pikka!!) is the first chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n\n==Characters==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: Pikachu Exploration Team Dispatch, Pikka!!) is the first chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "QPL01",
+    "pageType": "chapter",
+    "searchableText": "QPL01\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters\n(Japanese: Pikachu Exploration Team Dispatch, Pikka!!) is the first chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 204,
+    "sectionCount": 1
+  }
+}

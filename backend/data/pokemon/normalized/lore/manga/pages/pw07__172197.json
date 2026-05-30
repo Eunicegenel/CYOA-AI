@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PW07",
+    "slug": "pw07",
+    "pageId": 172197,
+    "revisionId": 4526374
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw07__172197.json",
+    "revisionTimestamp": "2026-04-09T14:40:04Z",
+    "fetchedAt": "2026-05-14T15:46:32.219Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: マンキーとマンキーとオコリザル Mankey and Mankey and ) is the seventh chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. Two cards are featured in this chapter — and .",
+  "plainText": "(Japanese: マンキーとマンキーとオコリザル Mankey and Mankey and ) is the seventh chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. Two cards are featured in this chapter — and .\n\n==Plot==\n \n==Major events==\n\n==Characters==\n===Humans===\nTwo schoolgirls\n\n===Pokémon===\n(×2)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: マンキーとマンキーとオコリザル Mankey and Mankey and ) is the seventh chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. Two cards are featured in this chapter — and ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Two schoolgirls"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(×2)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW07",
+    "pageType": "chapter",
+    "searchableText": "PW07\nCategory:How I Became a Pokémon Card chapters\n(Japanese: マンキーとマンキーとオコリザル Mankey and Mankey and ) is the seventh chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. Two cards are featured in this chapter — and .",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 290,
+    "sectionCount": 3
+  }
+}

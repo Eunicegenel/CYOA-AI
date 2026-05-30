@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM034",
+    "slug": "pm034",
+    "pageId": 160300,
+    "revisionId": 4526896
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm034__160300.json",
+    "revisionTimestamp": "2026-04-09T15:11:10Z",
+    "fetchedAt": "2026-05-14T15:30:50.777Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy's Under Training!! (Japanese: ピッピ、修業を積む！？ 's Under Training!?) is the thirty-fourth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Clefairy's Under Training!! (Japanese: ピッピ、修業を積む！？ 's Under Training!?) is the thirty-fourth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\nBruno's Onix\n\n==Characters==\n===Humans===\n\nBruno\n\n===Pokémon===\n( ) \n( )\n( ; ×2)\n(Bruno's)\n(Bruno's)\n(Bruno's)\n(Bruno's; ×5)\n(Bruno's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 34 (Pokémon Pocket Monsters)\nit:PMM034",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy's Under Training!! (Japanese: ピッピ、修業を積む！？ 's Under Training!?) is the thirty-fourth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "Bruno's Onix"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Bruno"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( ; ×2)\n(Bruno's)\n(Bruno's)\n(Bruno's)\n(Bruno's; ×5)\n(Bruno's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 34 (Pokémon Pocket Monsters)\nit:PMM034"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM034",
+    "pageType": "chapter",
+    "searchableText": "PM034\nCategory:Pokémon Pocket Monsters chapters\nClefairy's Under Training!! (Japanese: ピッピ、修業を積む！？ 's Under Training!?) is the thirty-fourth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 409,
+    "sectionCount": 5
+  }
+}

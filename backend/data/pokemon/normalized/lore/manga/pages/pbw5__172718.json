@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PBW5",
+    "slug": "pbw5",
+    "pageId": 172718,
+    "revisionId": 4549183
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Be the Best! Pokémon B+W",
+    "sourceFileName": "pbw5__172718.json",
+    "revisionTimestamp": "2026-05-11T01:26:04Z",
+    "fetchedAt": "2026-05-14T15:29:31.596Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Let's Master Pokémon Capturing! (Japanese: ポケモン捕獲を究めろ！！ Master the Capture of Pokémon!!) is the fifth chapter of the Be the Best! Pokémon B+W manga.",
+  "plainText": "Let's Master Pokémon Capturing! (Japanese: ポケモン捕獲を究めろ！！ Master the Capture of Pokémon!!) is the fifth chapter of the Be the Best! Pokémon B+W manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nMonta\n\n===Pokémon===\n( )\n(Monta's)\n(Monta's; new)\n\n==Trivia==\n\n==In other languages==\n \n \n\n \n\n \n\nzh:钻研吧!!宝可梦B・W 第5话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Let's Master Pokémon Capturing! (Japanese: ポケモン捕獲を究めろ！！ Master the Capture of Pokémon!!) is the fifth chapter of the Be the Best! Pokémon B+W manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Monta"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Monta's)\n(Monta's; new)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "zh:钻研吧!!宝可梦B・W 第5话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PBW5",
+    "pageType": "pokemon-related",
+    "searchableText": "PBW5\nCategory:Be the Best! Pokémon B+W\nLet's Master Pokémon Capturing! (Japanese: ポケモン捕獲を究めろ！！ Master the Capture of Pokémon!!) is the fifth chapter of the Be the Best! Pokémon B+W manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 359,
+    "sectionCount": 4
+  }
+}

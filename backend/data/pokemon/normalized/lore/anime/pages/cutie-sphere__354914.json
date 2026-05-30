@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CUTIE SPHERE",
+    "slug": "cutie-sphere",
+    "pageId": 354914,
+    "revisionId": 4543432
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese ending themes",
+    "sourceFileName": "cutie-sphere__354914.json",
+    "revisionTimestamp": "2026-05-02T21:45:23Z",
+    "fetchedAt": "2026-05-14T14:10:46.760Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "CUTIE SPHERE (Japanese: キュートなキューたい Kyūto-na Kyū-tai) is the Japanese ending theme for the Wonder Voyage arc, and the seventh of Pokémon Horizons: The Series. It will debut in HZ137, replacing Asleep or Awake.",
+  "plainText": "CUTIE SPHERE (Japanese: キュートなキューたい Kyūto-na Kyū-tai) is the Japanese ending theme for the Wonder Voyage arc, and the seventh of Pokémon Horizons: The Series. It will debut in HZ137, replacing Asleep or Awake.\n\n==Ending animation==\n===Synopsis===\n===Characters===\n====Human====\n====Pokémon====\n\n==Lyrics==\n===TV size===\n\n==Video==\n==Staff==\n==Trivia==\n\n \n\n \n\n \n \n\nzh:可愛球體",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "CUTIE SPHERE (Japanese: キュートなキューたい Kyūto-na Kyū-tai) is the Japanese ending theme for the Wonder Voyage arc, and the seventh of Pokémon Horizons: The Series. It will debut in HZ137, replacing Asleep or Awake."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "zh:可愛球體"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CUTIE SPHERE",
+    "pageType": "general-anime-lore",
+    "searchableText": "CUTIE SPHERE\nCategory:Japanese ending themes\nCUTIE SPHERE (Japanese: キュートなキューたい Kyūto-na Kyū-tai) is the Japanese ending theme for the Wonder Voyage arc, and the seventh of Pokémon Horizons: The Series. It will debut in HZ137, replacing Asleep or Awake.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 370,
+    "sectionCount": 2
+  }
+}

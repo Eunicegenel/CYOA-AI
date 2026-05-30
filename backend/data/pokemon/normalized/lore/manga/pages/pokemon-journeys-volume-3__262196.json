@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Journeys volume 3",
+    "slug": "pokemon-journeys-volume-3",
+    "pageId": 262196,
+    "revisionId": 4124733
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys volumes",
+    "sourceFileName": "pokemon-journeys-volume-3__262196.json",
+    "revisionTimestamp": "2024-09-23T19:16:01Z",
+    "fetchedAt": "2026-05-14T15:36:34.639Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 3 is the third volume of the manga created by Machito Gomi.",
+  "plainText": "Volume 3 is the third volume of the manga created by Machito Gomi.\n\n==Publications==\n \n \n \n \n \n\n==Chapters==\nChapter 13 - Sword and Shield... The Legends Awaken! (Part 1)\nChapter 14 - Sword and Shield... The Legends Awaken! (Part 2)\nChapter 15 - Getting More than You Battled For!\nChapter 16 - Healing the Healer!\nChapter 17 - When a House Is Not a Home!\nChapter 18 - Beyond Chivalry… Aiming to Be a Leek Master!\n\n \n\n \n\n \n\nde:Band 3 (Pokémon Reisen)\nes:Tomo 3 (Pokémon Viaje)\nit:Pokémon Journeys volume 3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 3 is the third volume of the manga created by Machito Gomi."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 13 - Sword and Shield... The Legends Awaken! (Part 1)\nChapter 14 - Sword and Shield... The Legends Awaken! (Part 2)\nChapter 15 - Getting More than You Battled For!\nChapter 16 - Healing the Healer!\nChapter 17 - When a House Is Not a Home!\nChapter 18 - Beyond Chivalry… Aiming to Be a Leek Master!\n\n \n\n \n\n \n\nde:Band 3 (Pokémon Reisen)\nes:Tomo 3 (Pokémon Viaje)\nit:Pokémon Journeys volume 3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Journeys volume 3",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Journeys volume 3\nCategory:Pokémon Journeys volumes\nVolume 3 is the third volume of the manga created by Machito Gomi.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 504,
+    "sectionCount": 2
+  }
+}

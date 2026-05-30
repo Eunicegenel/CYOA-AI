@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pokémon Journeys chapters",
+    "slug": "list-of-pokemon-journeys-chapters",
+    "pageId": 255673,
+    "revisionId": 4131714
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "list-of-pokemon-journeys-chapters__255673.json",
+    "revisionTimestamp": "2024-09-29T04:24:19Z",
+    "fetchedAt": "2026-05-14T15:24:48.996Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The following is a list of chapters from the created by Machito Gomi.",
+  "plainText": "The following is a list of chapters from the created by Machito Gomi.\n\n==Chapters==\n \n\n \n\n \n \n\nde:Liste der Manga-Kapitel (Pokémon Reisen)\nes:Lista de capítulos de Pokémon Journeys: The Series (manga)\nit:Elenco dei capitoli di Pokémon Journeys",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of chapters from the created by Machito Gomi."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "de:Liste der Manga-Kapitel (Pokémon Reisen)\nes:Lista de capítulos de Pokémon Journeys: The Series (manga)\nit:Elenco dei capitoli di Pokémon Journeys"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon Journeys chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Pokémon Journeys chapters\nCategory:Pokémon Journeys chapters\nThe following is a list of chapters from the created by Machito Gomi.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 243,
+    "sectionCount": 2
+  }
+}

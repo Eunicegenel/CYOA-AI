@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters HGSS volume 2",
+    "slug": "pocket-monsters-hgss-volume-2",
+    "pageId": 137968,
+    "revisionId": 4528624
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS volumes",
+    "sourceFileName": "pocket-monsters-hgss-volume-2__137968.json",
+    "revisionTimestamp": "2026-04-09T16:31:14Z",
+    "fetchedAt": "2026-05-14T15:34:22.812Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 2 is the second and final volume of the manga created by Kosaku Anakubo.",
+  "plainText": "Volume 2 is the second and final volume of the manga created by Kosaku Anakubo.\n\n==Publications==\n \n \n\n==Chapters==\nVery Popular!! Black & White Clefairy!?\nPMHGSS14\nPMHGSS15\nPMHGSS16\nPMHGSS17\nPMHGSS18\nPMHGSS19\nPMHGSS20\nNonsense Cooking Battle!!\nTyrogue's Gorgeous Livelihood\nTyrogue, Returning Home!?",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second and final volume of the manga created by Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Very Popular!! Black & White Clefairy!?\nPMHGSS14\nPMHGSS15\nPMHGSS16\nPMHGSS17\nPMHGSS18\nPMHGSS19\nPMHGSS20\nNonsense Cooking Battle!!\nTyrogue's Gorgeous Livelihood\nTyrogue, Returning Home!?"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters HGSS volume 2",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters HGSS volume 2\nCategory:Pocket Monsters HGSS volumes\nVolume 2 is the second and final volume of the manga created by Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 300,
+    "sectionCount": 2
+  }
+}

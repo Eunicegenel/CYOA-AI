@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Lily (Kalos)",
+    "slug": "lily-kalos",
+    "pageId": 207547,
+    "revisionId": 4143547
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Performers",
+    "sourceFileName": "lily-kalos__207547.json",
+    "revisionTimestamp": "2024-10-11T21:00:44Z",
+    "fetchedAt": "2026-05-14T14:31:15.266Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Lily (Japanese: リリー Lily) is a minor recurring character in . She is a Pokémon Performer.",
+  "plainText": "Lily (Japanese: リリー Lily) is a minor recurring character in . She is a Pokémon Performer.\n\n==History==\nLily first appeared in A Performance Pop Quiz!, where she competed in the Anistar City Pokémon Showcase Rookie Class. For the first round, she was placed in a group with and Nini, with the theme of the round being a Pokémon quiz. She and her didn't manage to win, as Serena proceeded to the Freestyle Performance.\n\nIn A Dancing Debut!, Lily competed in the Showcase Rookie Class and lost the Theme Performance.\n\nIn Party Dancecapades!, Lily attended a dance party hosted by Monsieur Pierre.\n\nIn Master Class Is in Session!, Lily competed in the Pokémon Showcase Master Class, but she was eliminated before the semifinals.\n\n==Pokémon==\n \nThis listing is of Lily's known in :\n \n\n \n\n==Showcases==\n===Princess Keys obtained===\nThis listing is of the s Lily has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)\n\n===Master Class ranking===\nLily has achieved the following ranking in the Master Class tournament:\nShowcase - Top 10 / Top 28 (Master Class Is in Session!)\n\n===Other achievements===\nLily has competed in the following Rookie Class tournaments:\nShowcase - Theme Performance (A Performance Pop Quiz!)\nShowcase - Theme Performance (A Dancing Debut!)\n\n==Voice actors==\n \n\n \n\n \n \n \n\nde:Lily (Kalos)\nes:Lily (Kalos)\nfr:Lily (Kalos)\nit:Lily (Kalos)\nja:リリー\nzh:莉莉（卡洛斯）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lily (Japanese: リリー Lily) is a minor recurring character in . She is a Pokémon Performer."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Lily first appeared in A Performance Pop Quiz!, where she competed in the Anistar City Pokémon Showcase Rookie Class. For the first round, she was placed in a group with and Nini, with the theme of the round being a Pokémon quiz. She and her didn't manage to win, as Serena proceeded to the Freestyle Performance.\n\nIn A Dancing Debut!, Lily competed in the Showcase Rookie Class and lost the Theme Performance.\n\nIn Party Dancecapades!, Lily attended a dance party hosted by Monsieur Pierre.\n\nIn Master Class Is in Session!, Lily competed in the Pokémon Showcase Master Class, but she was eliminated before the semifinals."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Lily's known in :"
+    },
+    {
+      "heading": "Princess Keys obtained",
+      "level": 3,
+      "text": "This listing is of the s Lily has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)"
+    },
+    {
+      "heading": "Master Class ranking",
+      "level": 3,
+      "text": "Lily has achieved the following ranking in the Master Class tournament:\nShowcase - Top 10 / Top 28 (Master Class Is in Session!)"
+    },
+    {
+      "heading": "Other achievements",
+      "level": 3,
+      "text": "Lily has competed in the following Rookie Class tournaments:\nShowcase - Theme Performance (A Performance Pop Quiz!)\nShowcase - Theme Performance (A Dancing Debut!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Lily (Kalos)\nes:Lily (Kalos)\nfr:Lily (Kalos)\nit:Lily (Kalos)\nja:リリー\nzh:莉莉（卡洛斯）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lily (Kalos)",
+    "pageType": "general-anime-lore",
+    "searchableText": "Lily (Kalos)\nCategory:Performers\nLily (Japanese: リリー Lily) is a minor recurring character in . She is a Pokémon Performer.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Princess Keys obtained",
+      "Master Class ranking",
+      "Other achievements",
+      "Voice actors"
+    ],
+    "characterCount": 1397,
+    "sectionCount": 7
+  }
+}

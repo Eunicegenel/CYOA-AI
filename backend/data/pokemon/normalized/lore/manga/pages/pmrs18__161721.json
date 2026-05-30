@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS18",
+    "slug": "pmrs18",
+    "pageId": 161721,
+    "revisionId": 4264621
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs18__161721.json",
+    "revisionTimestamp": "2025-03-23T18:28:36Z",
+    "fetchedAt": "2026-05-14T15:33:19.073Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Another Spheal Boom?! (Japanese: タマちゃんブーム、再び到来！？ Another Tama-chan Boom!?) is the eighteenth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Another Spheal Boom?! (Japanese: タマちゃんブーム、再び到来！？ Another Tama-chan Boom!?) is the eighteenth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Another Spheal Boom?! (Japanese: タマちゃんブーム、再び到来！？ Another Tama-chan Boom!?) is the eighteenth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS18",
+    "pageType": "chapter",
+    "searchableText": "PMRS18\nCategory:Pokémon Ruby-Sapphire chapters\nAnother Spheal Boom?! (Japanese: タマちゃんブーム、再び到来！？ Another Tama-chan Boom!?) is the eighteenth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 260,
+    "sectionCount": 2
+  }
+}

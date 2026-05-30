@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "LDK2",
+    "slug": "ldk2",
+    "pageId": 191898,
+    "revisionId": 3997550
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY: The Legend of the Pokémon Dragon King chapters",
+    "sourceFileName": "ldk2__191898.json",
+    "revisionTimestamp": "2024-04-30T13:06:19Z",
+    "fetchedAt": "2026-05-14T15:24:00.838Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 黒いメガリザードンの秘密！！ Secret of the Black Mega !!) is the second chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.",
+  "plainText": "(Japanese: 黒いメガリザードンの秘密！！ Secret of the Black Mega !!) is the second chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.\n\n==Plot==\n \n\n==Major events==\nreceives Charizardite X from the old man.\n\n===Debuts===\n====Pokémon debuts====\n(Mori's)\n\n==Characters==\n===Humans===\n\nMori\nKunio\n\n===Pokémon===\n( 's)\n\n(Mori's)\n\n \n \n \n\nit:LDK2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 黒いメガリザードンの秘密！！ Secret of the Black Mega !!) is the second chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "receives Charizardite X from the old man."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Mori's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Mori\nKunio"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n\n(Mori's)\n\n \n \n \n\nit:LDK2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "LDK2",
+    "pageType": "chapter",
+    "searchableText": "LDK2\nCategory:Pocket Monsters XY: The Legend of the Pokémon Dragon King chapters\n(Japanese: 黒いメガリザードンの秘密！！ Secret of the Black Mega !!) is the second chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 354,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Lori Phillips",
+    "slug": "lori-phillips",
+    "pageId": 232633,
+    "revisionId": 4323558
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "lori-phillips__232633.json",
+    "revisionTimestamp": "2025-06-24T03:32:20Z",
+    "fetchedAt": "2026-05-14T14:33:14.833Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Lori Phillips is a voice actor for the English-language dub of .",
+  "plainText": "Lori Phillips is a voice actor for the English-language dub of .\n\n==Biography==\nNot much is known about Phillips's personal life, other than she became a voice actress as an adult. She started her voice acting work in the during , before gaining her most notable role of Rapp.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nRapp\n\n======Minor======\nGizmo Bilt\n(young)\nGirl X2 (SM088)\nWoman (SM088)\n\n=====Pokémon=====\n======Major======\n(Confined)\nGladion's Umbreon\nMallow's Shaymin\n\n======Minor======\n(SM065)\n\n==Other non-Pokémon roles==\nAriane ( )\nIdrial, Morwen, Caravan Elf ( )\nCheerleader #3 ( )\nBarbecue Guest ( )\n\n==External links==\nAnime News Network\n\n \n\n \n\nit:Lori Phillips",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lori Phillips is a voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Not much is known about Phillips's personal life, other than she became a voice actress as an adult. She started her voice acting work in the during , before gaining her most notable role of Rapp."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Rapp"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Gizmo Bilt\n(young)\nGirl X2 (SM088)\nWoman (SM088)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "(Confined)\nGladion's Umbreon\nMallow's Shaymin"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(SM065)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Ariane ( )\nIdrial, Morwen, Caravan Elf ( )\nCheerleader #3 ( )\nBarbecue Guest ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anime News Network\n\n \n\n \n\nit:Lori Phillips"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lori Phillips",
+    "pageType": "general-anime-lore",
+    "searchableText": "Lori Phillips\nCategory:TPCi voice actors\nLori Phillips is a voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 712,
+    "sectionCount": 8
+  }
+}

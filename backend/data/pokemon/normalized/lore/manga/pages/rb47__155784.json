@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "RB47",
+    "slug": "rb47",
+    "pageId": 155784,
+    "revisionId": 4246114
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb47__155784.json",
+    "revisionTimestamp": "2025-02-23T05:42:34Z",
+    "fetchedAt": "2026-05-14T15:47:45.463Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 帰れぬ理由 Reason Not to Return) is the 47th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 帰れぬ理由 Reason Not to Return) is the 47th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nKaruta reveals his secret to the others.\nKaruta, Ryouga, Miruto, and Yappy arrive at Kūga Village.\nAfter giving the medicine to the villagers, Karuta finds that his mother has died.\n\n===Debuts===\n====Humans====\nKaruta's father\nKaruta's mother\nIroha\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKaruta\nRyouga\nMiruto\nYappy\nKaruta's father (flashback)\nIroha\nVillagers\nKaruta's mother\n\n===Pokémon===\n(Ryouga's)\n(Karuta's)\n(Rūkamu's)\n(Karuta's father's)\n\n \n \n \n\n \n\nzh:RB47",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 帰れぬ理由 Reason Not to Return) is the 47th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Karuta reveals his secret to the others.\nKaruta, Ryouga, Miruto, and Yappy arrive at Kūga Village.\nAfter giving the medicine to the villagers, Karuta finds that his mother has died."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Karuta's father\nKaruta's mother\nIroha"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Karuta\nRyouga\nMiruto\nYappy\nKaruta's father (flashback)\nIroha\nVillagers\nKaruta's mother"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ryouga's)\n(Karuta's)\n(Rūkamu's)\n(Karuta's father's)\n\n \n \n \n\n \n\nzh:RB47"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB47",
+    "pageType": "chapter",
+    "searchableText": "RB47\nCategory:Pokémon RéBURST chapters\n(Japanese: 帰れぬ理由 Reason Not to Return) is the 47th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 594,
+    "sectionCount": 5
+  }
+}

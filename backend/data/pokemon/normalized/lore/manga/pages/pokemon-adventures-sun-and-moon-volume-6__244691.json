@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Adventures Sun & Moon volume 6",
+    "slug": "pokemon-adventures-sun-and-moon-volume-6",
+    "pageId": 244691,
+    "revisionId": 4298494
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-adventures-sun-and-moon-volume-6__244691.json",
+    "revisionTimestamp": "2025-05-11T10:05:19Z",
+    "fetchedAt": "2026-05-14T15:35:00.442Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 6 is the sixth and final volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 6 is the sixth and final volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n \n \n \n \n \n \n \n\n==Chapters==\nPASM32\nPASM33\nPASM34\nPASM35\nPASM36\nPASM37\n\n==Major events==\n\n==Party changes==\n\n \n\n===Evolutions===\nSun's \" \" evolves into (PASM33)\nMoon's into (PASM36)\n\n \n\n \n\nde:Band 6 (Pokémon Sonne und Mond – Der Manga)\nes:Tomo 6 (Pocket Monsters Special Sol y Luna)\nfr:Tome 6 (Pocket Monsters Special Soleil et Lune)\nit:Pokémon Adventures Sun & Moon volume 6\nzh:宝可梦特别篇太阳·月亮6",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 6 is the sixth and final volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "PASM32\nPASM33\nPASM34\nPASM35\nPASM36\nPASM37"
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "Sun's \" \" evolves into (PASM33)\nMoon's into (PASM36)\n\n \n\n \n\nde:Band 6 (Pokémon Sonne und Mond – Der Manga)\nes:Tomo 6 (Pocket Monsters Special Sol y Luna)\nfr:Tome 6 (Pocket Monsters Special Soleil et Lune)\nit:Pokémon Adventures Sun & Moon volume 6\nzh:宝可梦特别篇太阳·月亮6"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Adventures Sun & Moon volume 6",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Adventures Sun & Moon volume 6\nCategory:Pokémon Adventures volumes\nVolume 6 is the sixth and final volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Evolutions"
+    ],
+    "characterCount": 688,
+    "sectionCount": 3
+  }
+}

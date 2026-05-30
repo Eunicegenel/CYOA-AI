@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Gail",
+    "slug": "gail",
+    "pageId": 156363,
+    "revisionId": 4318542
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "gail__156363.json",
+    "revisionTimestamp": "2025-06-11T19:54:24Z",
+    "fetchedAt": "2026-05-14T14:19:51.313Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Gail (Japanese: グレース Grace) is a minor recurring character who first appeared in the episode The Clubsplosion Begins!. Nicknamed \"The Beautiful Crusher\", she appears to be a girl of high class and always uses a fan to cover her face.\n\nIn The Clubsplosion Begins!, Gail registered for the Clubsplosion tournament. In Search for the Clubultimate!, she battled Georgia in the first round. Gail eventually lost after her 's attacks were directly blocked and evaded by Georgia's , who then finished it off with an .",
+  "plainText": "Gail (Japanese: グレース Grace) is a minor recurring character who first appeared in the episode The Clubsplosion Begins!. Nicknamed \"The Beautiful Crusher\", she appears to be a girl of high class and always uses a fan to cover her face.\n\nIn The Clubsplosion Begins!, Gail registered for the Clubsplosion tournament. In Search for the Clubultimate!, she battled Georgia in the first round. Gail eventually lost after her 's attacks were directly blocked and evaded by Georgia's , who then finished it off with an .\n\n==Pokémon==\n \n\n==Pokémon competitions==\nGail has competed in the following :\nClubsplosion - Top 16 (Search for the Clubultimate!)\n\n==Voice actors==\n \n\n \n\n \n \n\nes:Gail\nfr:Grace (Unys)\nit:Gail\nzh:葛瑞絲",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Gail (Japanese: グレース Grace) is a minor recurring character who first appeared in the episode The Clubsplosion Begins!. Nicknamed \"The Beautiful Crusher\", she appears to be a girl of high class and always uses a fan to cover her face.\n\nIn The Clubsplosion Begins!, Gail registered for the Clubsplosion tournament. In Search for the Clubultimate!, she battled Georgia in the first round. Gail eventually lost after her 's attacks were directly blocked and evaded by Georgia's , who then finished it off with an ."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Gail has competed in the following :\nClubsplosion - Top 16 (Search for the Clubultimate!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Gail\nfr:Grace (Unys)\nit:Gail\nzh:葛瑞絲"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Gail",
+    "pageType": "character",
+    "searchableText": "Gail\nCategory:Animation characters\nGail (Japanese: グレース Grace) is a minor recurring character who first appeared in the episode The Clubsplosion Begins!. Nicknamed \"The Beautiful Crusher\", she appears to be a girl of high class and always uses a fan to cover her face.\n\nIn The Clubsplosion Begins!, Gail registered for the Clubsplosion tournament. In Search for the Clubultimate!, she battled Georgia in the first round. Gail eventually lost after her 's attacks were directly blocked and evaded by Georgia's , who then finished it off with an .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 709,
+    "sectionCount": 3
+  }
+}

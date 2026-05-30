@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Greg",
+    "slug": "greg",
+    "pageId": 270206,
+    "revisionId": 4450566
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "greg__270206.json",
+    "revisionTimestamp": "2025-12-19T20:02:35Z",
+    "fetchedAt": "2026-05-14T15:20:52.225Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: グレグ Greg) is a character in the Pokémon Adventures manga. He is in charge of the Super Training Dome.",
+  "plainText": "(Japanese: グレグ Greg) is a character in the Pokémon Adventures manga. He is in charge of the Super Training Dome.\n\n==History==\nGreg appeared in Noibat Stands in the Way, where he was impressed by 's battle a moments prior. However, the quintet were immediately wary of him, where he would then explain about a facility they newly opened, the Super Traning Dome. He then invited the heroes to the dome for a pre-opening, where they were offered a free ticket. \n\nHe would then begin the Super Training Regimen, where he explained the rules to X as he participated. After the training, he rewarded X with a Special Attack bag.\nand his friends encountered a Super Training Dome while running away from Team Flare. X decided to give it a try, but the group was attacked by two s during X's training. Fortunately, X was able to defeat them by popping a Balloon Bot and making the Grunts fly away with it.\n\nAfter X managed to defeat the 2 s that attacked , it was revealed that Greg recorded the battle in video, where he asked for their permission to use it in a commercial. The camera was quickly destroyed by Li'l Kanga however.\n\n==Trivia==\nGreg's Japanese name was revealed by PokéSPedia.\n\n \n\n \n \n \n\nes:Greg\nit:Greg\nzh:格雷格",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: グレグ Greg) is a character in the Pokémon Adventures manga. He is in charge of the Super Training Dome."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Greg appeared in Noibat Stands in the Way, where he was impressed by 's battle a moments prior. However, the quintet were immediately wary of him, where he would then explain about a facility they newly opened, the Super Traning Dome. He then invited the heroes to the dome for a pre-opening, where they were offered a free ticket. \n\nHe would then begin the Super Training Regimen, where he explained the rules to X as he participated. After the training, he rewarded X with a Special Attack bag.\nand his friends encountered a Super Training Dome while running away from Team Flare. X decided to give it a try, but the group was attacked by two s during X's training. Fortunately, X was able to defeat them by popping a Balloon Bot and making the Grunts fly away with it.\n\nAfter X managed to defeat the 2 s that attacked , it was revealed that Greg recorded the battle in video, where he asked for their permission to use it in a commercial. The camera was quickly destroyed by Li'l Kanga however."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Greg's Japanese name was revealed by PokéSPedia.\n\n \n\n \n \n \n\nes:Greg\nit:Greg\nzh:格雷格"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Greg",
+    "pageType": "character",
+    "searchableText": "Greg\nCategory:Pokémon Adventures characters\n(Japanese: グレグ Greg) is a character in the Pokémon Adventures manga. He is in charge of the Super Training Dome.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia"
+    ],
+    "characterCount": 1218,
+    "sectionCount": 3
+  }
+}

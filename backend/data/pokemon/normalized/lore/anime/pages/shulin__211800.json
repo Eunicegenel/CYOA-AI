@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Shulin",
+    "slug": "shulin",
+    "pageId": 211800,
+    "revisionId": 4143397
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Performers",
+    "sourceFileName": "shulin__211800.json",
+    "revisionTimestamp": "2024-10-11T19:40:08Z",
+    "fetchedAt": "2026-05-14T14:49:41.699Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Shulin (Japanese: シュリン Shulin) is a minor recurring character in . She is a Pokémon Performer.",
+  "plainText": "Shulin (Japanese: シュリン Shulin) is a minor recurring character in . She is a Pokémon Performer.\n\n==History==\nShulin first appeared in Master Class Choices!, where she competed in the Fleurrh City Rookie Class Pokémon Showcase. However, she was ranked fourth out of the final five competitors.\n\nShe reappeared in Master Class Is in Session!, where she entered the Gloire City Master Class Pokémon Showcase. She participated in the first round, among the third group of Performers, with her , but was eliminated.\n\n==Pokémon==\nThis listing is of Shulin's known in :\n \n\n \n\n==Showcases==\n===Princess Keys obtained===\nThis listing is of the s Shulin has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)\n\n===Master Class ranking===\nShulin has achieved the following ranking in the Master Class tournament:\nShowcase - Top 28 (Master Class Is in Session!)\n\n===Other achievements===\nShulin has competed in the following Rookie Class tournaments:\nShowcase - Fourth (Master Class Choices!)\n\n==Voice actors==\n \n\n \n \n \n \n\nes:Shulin\nit:Shurin\nja:シュリン\nzh:秀琳",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shulin (Japanese: シュリン Shulin) is a minor recurring character in . She is a Pokémon Performer."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Shulin first appeared in Master Class Choices!, where she competed in the Fleurrh City Rookie Class Pokémon Showcase. However, she was ranked fourth out of the final five competitors.\n\nShe reappeared in Master Class Is in Session!, where she entered the Gloire City Master Class Pokémon Showcase. She participated in the first round, among the third group of Performers, with her , but was eliminated."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Shulin's known in :"
+    },
+    {
+      "heading": "Princess Keys obtained",
+      "level": 3,
+      "text": "This listing is of the s Shulin has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)"
+    },
+    {
+      "heading": "Master Class ranking",
+      "level": 3,
+      "text": "Shulin has achieved the following ranking in the Master Class tournament:\nShowcase - Top 28 (Master Class Is in Session!)"
+    },
+    {
+      "heading": "Other achievements",
+      "level": 3,
+      "text": "Shulin has competed in the following Rookie Class tournaments:\nShowcase - Fourth (Master Class Choices!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Shulin\nit:Shurin\nja:シュリン\nzh:秀琳"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shulin",
+    "pageType": "general-anime-lore",
+    "searchableText": "Shulin\nCategory:Performers\nShulin (Japanese: シュリン Shulin) is a minor recurring character in . She is a Pokémon Performer.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Princess Keys obtained",
+      "Master Class ranking",
+      "Other achievements",
+      "Voice actors"
+    ],
+    "characterCount": 1069,
+    "sectionCount": 7
+  }
+}

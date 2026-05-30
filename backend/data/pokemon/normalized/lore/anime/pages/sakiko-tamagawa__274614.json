@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Sakiko Tamagawa",
+    "slug": "sakiko-tamagawa",
+    "pageId": 274614,
+    "revisionId": 4323699
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "sakiko-tamagawa__274614.json",
+    "revisionTimestamp": "2025-06-24T03:34:40Z",
+    "fetchedAt": "2026-05-14T14:48:00.880Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Sakiko Tamagawa (Japanese: 玉川砂記子 Tamagawa Sakiko) is a Japanese voice actor for .",
+  "plainText": "Sakiko Tamagawa (Japanese: 玉川砂記子 Tamagawa Sakiko) is a Japanese voice actor for .\n\n==Biography==\nTamagawa was born on January 20, 1962 in , . Tamagawa's only role in is that of recurring character .\n\n==Pokémon roles==\n===Animation===\n==== ====\n\n==Other non-Pokémon roles==\nMadonna ( )\nRyoko Tsukumo ( )\nHinagiru ( )\nMeipia Arukimetaria ( )\nCybele Rohan ( )\nSatoko Hayashi ( )\nJasmine ( )\n\n==External links==\nAnime News Network\n\n \n\n \n\nit:Sakiko Tamagawa",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sakiko Tamagawa (Japanese: 玉川砂記子 Tamagawa Sakiko) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Tamagawa was born on January 20, 1962 in , . Tamagawa's only role in is that of recurring character ."
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Madonna ( )\nRyoko Tsukumo ( )\nHinagiru ( )\nMeipia Arukimetaria ( )\nCybele Rohan ( )\nSatoko Hayashi ( )\nJasmine ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anime News Network\n\n \n\n \n\nit:Sakiko Tamagawa"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sakiko Tamagawa",
+    "pageType": "general-anime-lore",
+    "searchableText": "Sakiko Tamagawa\nCategory:Japanese voice actors\nSakiko Tamagawa (Japanese: 玉川砂記子 Tamagawa Sakiko) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 452,
+    "sectionCount": 4
+  }
+}

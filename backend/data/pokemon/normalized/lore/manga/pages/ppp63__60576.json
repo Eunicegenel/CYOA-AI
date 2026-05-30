@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PPP63",
+    "slug": "ppp63",
+    "pageId": 60576,
+    "revisionId": 4526209
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp63__60576.json",
+    "revisionTimestamp": "2026-04-09T14:24:37Z",
+    "fetchedAt": "2026-05-14T15:39:16.153Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Coconut's Love Waltz (Part 1) (Japanese: ココナッツのラブ・ウォーズ (前編) Coconut's Love Wars (Part 1)) is the sixty-third chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Coconut's Love Waltz (Part 1) (Japanese: ココナッツのラブ・ウォーズ (前編) Coconut's Love Wars (Part 1)) is the sixty-third chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nCoconut has received a letter from her parents -- they want her to return home! She sets up a challenge for herself: If she fails in her next experiment, she will obey; if she succeeds, she'll stay where she is. After all, she couldn't possibly bear to be separated from Almond... could she?\n\n==Important characters and Pokémon==\nCoconut\n\nKiaraway\n\n==Character introductions==\nKiaraway\n\n==Important events==\nKiaraway is introduced and Coconut gets her first kiss.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Coconut's Love Waltz (Part 1) (Japanese: ココナッツのラブ・ウォーズ (前編) Coconut's Love Wars (Part 1)) is the sixty-third chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Coconut has received a letter from her parents -- they want her to return home! She sets up a challenge for herself: If she fails in her next experiment, she will obey; if she succeeds, she'll stay where she is. After all, she couldn't possibly bear to be separated from Almond... could she?"
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Coconut\n\nKiaraway"
+    },
+    {
+      "heading": "Character introductions",
+      "level": 2,
+      "text": "Kiaraway"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Kiaraway is introduced and Coconut gets her first kiss."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP63",
+    "pageType": "chapter",
+    "searchableText": "PPP63\nCategory:Magical Pokémon Journey chapters\nCoconut's Love Waltz (Part 1) (Japanese: ココナッツのラブ・ウォーズ (前編) Coconut's Love Wars (Part 1)) is the sixty-third chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon",
+      "Character introductions",
+      "Important events"
+    ],
+    "characterCount": 630,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "MTM03",
+    "slug": "mtm03",
+    "pageId": 305944,
+    "revisionId": 4169318
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mezastar: Aim to Be a Tag Master! chapters",
+    "sourceFileName": "mtm03__305944.json",
+    "revisionTimestamp": "2024-10-27T20:45:03Z",
+    "fetchedAt": "2026-05-14T15:27:14.124Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the third chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the April 2021 issue of CoroCoro Ichiban!, released on February 20, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.",
+  "plainText": "This is the third chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the April 2021 issue of CoroCoro Ichiban!, released on February 20, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.\n\n==Plot==\n ]]\n \n \n\n==Major events==\n===Debuts===\n====Humans====\n\n==Characters==\n===Humans===\nKira Hoshio\nSuguru Tsukino\n\n==Tags featured==\n \nZekrom (3-002)\nReshiram (3-001)\nKyurem (3-003)\nDuraludon (1-015)\nObstagoon (2-015)\nMewtwo (2-001)\nSkwovet (3-035)\nCharizard (Pokémon Dynamax Band)\nFlygon (3-012)\n\n==Trivia==\n \nThis chapter was published in an extra book of the CoroCoro Ichiban! April 2021 issue titled (Japanese: ポケモンメザスタ　大攻略！コミックＢＯＯＫ　Ｖｏｌ．３). \n\n==References==\n \n\n==External links==\nChapter 3 on Weekly CoroCoro Comics\nChapter 3 on CoroCoro Online",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the third chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the April 2021 issue of CoroCoro Ichiban!, released on February 20, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "]]"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kira Hoshio\nSuguru Tsukino"
+    },
+    {
+      "heading": "Tags featured",
+      "level": 2,
+      "text": "Zekrom (3-002)\nReshiram (3-001)\nKyurem (3-003)\nDuraludon (1-015)\nObstagoon (2-015)\nMewtwo (2-001)\nSkwovet (3-035)\nCharizard (Pokémon Dynamax Band)\nFlygon (3-012)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This chapter was published in an extra book of the CoroCoro Ichiban! April 2021 issue titled (Japanese: ポケモンメザスタ　大攻略！コミックＢＯＯＫ　Ｖｏｌ．３)."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 3 on Weekly CoroCoro Comics\nChapter 3 on CoroCoro Online"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MTM03",
+    "pageType": "chapter",
+    "searchableText": "MTM03\nCategory:Pokémon Mezastar: Aim to Be a Tag Master! chapters\nThis is the third chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the April 2021 issue of CoroCoro Ichiban!, released on February 20, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Tags featured",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 868,
+    "sectionCount": 6
+  }
+}

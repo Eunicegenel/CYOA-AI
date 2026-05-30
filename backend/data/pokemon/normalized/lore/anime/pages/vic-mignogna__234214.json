@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Vic Mignogna",
+    "slug": "vic-mignogna",
+    "pageId": 234214,
+    "revisionId": 4323522
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "vic-mignogna__234214.json",
+    "revisionTimestamp": "2025-06-24T03:31:43Z",
+    "fetchedAt": "2026-05-14T14:56:49.212Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Vic Mignogna is a voice actor for the English-language dub of and the I Choose You! trilogy.",
+  "plainText": "Vic Mignogna is a voice actor for the English-language dub of and the I Choose You! trilogy.\n\n==Biography==\nMignogna was born on August 27, 1962 in Greensburg, Pennsylvania. He joined the during , voicing several minor roles before gaining his most notable role of during Kyurem VS. The Sword of Justice. Mignogna then voiced Saizo, Sanpei's mentor, during .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nSaizo\n\n======Minor======\nProfessor Icarus\n\nScooter\n\n=====Pokémon=====\n( )\n\n====Pokémon Generations====\nTabitha\n\n====I Choose You! trilogy====\nMale Researcher Red Goggles (M21)\nResearcher 3 (M21)\nRanger A (M21)\nVendor A (M21)\nVoice A (M21)\nMale Tourist C (M21)\nMale Audience Member (M21)\nVoice C (M21)\nAssistant (M21)\n\n==Other non-Pokémon roles==\n( )\nIkeda ( )\nColonel Ogawa ( )\n( )\nCox, ( )\n( series)\nQrow Branwen ( )\n( series)\n\n==External links==\nTwitter\nOfficial website\nAnime News Network\nBehind the Voice Actors\n\n \n \n\nit:Vic Mignogna",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Vic Mignogna is a voice actor for the English-language dub of and the I Choose You! trilogy."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Mignogna was born on August 27, 1962 in Greensburg, Pennsylvania. He joined the during , voicing several minor roles before gaining his most notable role of during Kyurem VS. The Sword of Justice. Mignogna then voiced Saizo, Sanpei's mentor, during ."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Saizo"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Professor Icarus\n\nScooter"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "( )"
+    },
+    {
+      "heading": "Pokémon Generations",
+      "level": 4,
+      "text": "Tabitha"
+    },
+    {
+      "heading": "I Choose You! trilogy",
+      "level": 4,
+      "text": "Male Researcher Red Goggles (M21)\nResearcher 3 (M21)\nRanger A (M21)\nVendor A (M21)\nVoice A (M21)\nMale Tourist C (M21)\nMale Audience Member (M21)\nVoice C (M21)\nAssistant (M21)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "( )\nIkeda ( )\nColonel Ogawa ( )\n( )\nCox, ( )\n( series)\nQrow Branwen ( )\n( series)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nOfficial website\nAnime News Network\nBehind the Voice Actors\n\n \n \n\nit:Vic Mignogna"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Vic Mignogna",
+    "pageType": "general-anime-lore",
+    "searchableText": "Vic Mignogna\nCategory:TPCi voice actors\nVic Mignogna is a voice actor for the English-language dub of and the I Choose You! trilogy.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Pokémon",
+      "Pokémon Generations",
+      "I Choose You! trilogy",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 976,
+    "sectionCount": 9
+  }
+}

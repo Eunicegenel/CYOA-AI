@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PBW7",
+    "slug": "pbw7",
+    "pageId": 172720,
+    "revisionId": 4549478
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Be the Best! Pokémon B+W",
+    "sourceFileName": "pbw7__172720.json",
+    "revisionTimestamp": "2026-05-11T01:58:51Z",
+    "fetchedAt": "2026-05-14T15:29:32.860Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Victini - A New Friend! (Japanese: 新たな仲間ビクティニ！！ New Companion Victini!!) is the seventh chapter of the Be the Best! Pokémon B+W manga.",
+  "plainText": "Victini - A New Friend! (Japanese: 新たな仲間ビクティニ！！ New Companion Victini!!) is the seventh chapter of the Be the Best! Pokémon B+W manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\nMuteki\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nMonta\nMuteki\n\n===Pokémon===\n( )\n(Monta's; new)\n(Muteki's)\n(Muteki's)\n\n==Trivia==\n\n==In other languages==\n \n \n\n \n\n \n\nzh:钻研吧!!宝可梦B・W 第7话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Victini - A New Friend! (Japanese: 新たな仲間ビクティニ！！ New Companion Victini!!) is the seventh chapter of the Be the Best! Pokémon B+W manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Muteki"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Monta\nMuteki"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Monta's; new)\n(Muteki's)\n(Muteki's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "zh:钻研吧!!宝可梦B・W 第7话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PBW7",
+    "pageType": "pokemon-related",
+    "searchableText": "PBW7\nCategory:Be the Best! Pokémon B+W\nVictini - A New Friend! (Japanese: 新たな仲間ビクティニ！！ New Companion Victini!!) is the seventh chapter of the Be the Best! Pokémon B+W manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 387,
+    "sectionCount": 5
+  }
+}

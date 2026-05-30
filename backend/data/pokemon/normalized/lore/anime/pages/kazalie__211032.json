@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Kazalie",
+    "slug": "kazalie",
+    "pageId": 211032,
+    "revisionId": 4533951
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Performers",
+    "sourceFileName": "kazalie__211032.json",
+    "revisionTimestamp": "2026-04-17T20:30:10Z",
+    "fetchedAt": "2026-05-14T14:28:50.495Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kazalie (Japanese: カザリー Kazarī) is a minor recurring character in . She is a Pokémon Performer.",
+  "plainText": "Kazalie (Japanese: カザリー Kazarī) is a minor recurring character in . She is a Pokémon Performer.\n\n==History==\nKazalie first appeared in Master Class Choices!, where she was first seen competing in the Fleurrh City Rookie Class Pokémon Showcase. In the Theme Performance round, she competed against and Concetta, but was unable to proceed.\n\nShe reappeared in Master Class Is in Session!, where she competed in the Master Class Pokémon Showcase in Gloire City. However, Kazalie was either eliminated in the first round or the second round.\n\n==Pokémon==\n \n \n\n==Showcases==\n===Princess Keys obtained===\nThis listing is of the s Kazalie has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)\n\n===Master Class ranking===\nKazalie has achieved the following ranking in the Master Class tournament:\nShowcase - Top 10 / Top 28 (Master Class Is in Session!)\n\n===Other achievements===\nKazalie has competed in the following Rookie Class tournaments:\nShowcase - Theme Performance (Master Class Choices!)\n\n==Voice actors==\n \n\n \n\n \n \n \n\nes:Kazalie\nfr:Kazaly\nit:Claudia\nja:カザリー\nzh:卡佳麗",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kazalie (Japanese: カザリー Kazarī) is a minor recurring character in . She is a Pokémon Performer."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Kazalie first appeared in Master Class Choices!, where she was first seen competing in the Fleurrh City Rookie Class Pokémon Showcase. In the Theme Performance round, she competed against and Concetta, but was unable to proceed.\n\nShe reappeared in Master Class Is in Session!, where she competed in the Master Class Pokémon Showcase in Gloire City. However, Kazalie was either eliminated in the first round or the second round."
+    },
+    {
+      "heading": "Princess Keys obtained",
+      "level": 3,
+      "text": "This listing is of the s Kazalie has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)"
+    },
+    {
+      "heading": "Master Class ranking",
+      "level": 3,
+      "text": "Kazalie has achieved the following ranking in the Master Class tournament:\nShowcase - Top 10 / Top 28 (Master Class Is in Session!)"
+    },
+    {
+      "heading": "Other achievements",
+      "level": 3,
+      "text": "Kazalie has competed in the following Rookie Class tournaments:\nShowcase - Theme Performance (Master Class Choices!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Kazalie\nfr:Kazaly\nit:Claudia\nja:カザリー\nzh:卡佳麗"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kazalie",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kazalie\nCategory:Performers\nKazalie (Japanese: カザリー Kazarī) is a minor recurring character in . She is a Pokémon Performer.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Princess Keys obtained",
+      "Master Class ranking",
+      "Other achievements",
+      "Voice actors"
+    ],
+    "characterCount": 1093,
+    "sectionCount": 6
+  }
+}

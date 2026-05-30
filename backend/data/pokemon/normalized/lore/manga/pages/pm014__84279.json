@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM014",
+    "slug": "pm014",
+    "pageId": 84279,
+    "revisionId": 4264295
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm014__84279.json",
+    "revisionTimestamp": "2025-03-23T16:52:03Z",
+    "fetchedAt": "2026-05-14T15:30:38.186Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Big Rampage at the Safari Zone!? (Japanese: サファリゾーンで大暴れ！？ Big Rampage at the Safari Zone!?) is the fourteenth chapter of the Pokémon Pocket Monsters manga. It was first published in the May 1997 issue of CoroCoro Comic, on April 15th, 1997.",
+  "plainText": "Big Rampage at the Safari Zone!? (Japanese: サファリゾーンで大暴れ！？ Big Rampage at the Safari Zone!?) is the fourteenth chapter of the Pokémon Pocket Monsters manga. It was first published in the May 1997 issue of CoroCoro Comic, on April 15th, 1997.\n\n==Plot==\n \n\n==Major events==\ndestroys the Safari Zone.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nSafari Zone Ranger\n\n===Pokémon===\n( )\n( )\n( 's; newly caught)\n(evolves)\n(evolves)\n(newly evolved)\n(newly evolved)\n\n==Trivia==\n\n \n \n\nde:Kapitel 14 (Pokémon Pocket Monsters)\nes:PPM014\nit:PMM014\nzh:宝可梦欢乐祭 第14话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Big Rampage at the Safari Zone!? (Japanese: サファリゾーンで大暴れ！？ Big Rampage at the Safari Zone!?) is the fourteenth chapter of the Pokémon Pocket Monsters manga. It was first published in the May 1997 issue of CoroCoro Comic, on April 15th, 1997."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "destroys the Safari Zone."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Safari Zone Ranger"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( 's; newly caught)\n(evolves)\n(evolves)\n(newly evolved)\n(newly evolved)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 14 (Pokémon Pocket Monsters)\nes:PPM014\nit:PMM014\nzh:宝可梦欢乐祭 第14话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM014",
+    "pageType": "chapter",
+    "searchableText": "PM014\nCategory:Pokémon Pocket Monsters chapters\nBig Rampage at the Safari Zone!? (Japanese: サファリゾーンで大暴れ！？ Big Rampage at the Safari Zone!?) is the fourteenth chapter of the Pokémon Pocket Monsters manga. It was first published in the May 1997 issue of CoroCoro Comic, on April 15th, 1997.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 570,
+    "sectionCount": 5
+  }
+}

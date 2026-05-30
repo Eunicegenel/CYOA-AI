@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Tokio",
+    "slug": "tokio",
+    "pageId": 234826,
+    "revisionId": 4532312
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Horizon characters",
+    "sourceFileName": "tokio__234826.json",
+    "revisionTimestamp": "2026-04-14T21:23:21Z",
+    "fetchedAt": "2026-05-14T15:51:53.198Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Tokio (Japanese: トキオ Tokio) is a main character who appeared in Pokémon Horizon as 's rival. His goal is to take over the world after being left alone in the darkness.",
+  "plainText": "Tokio (Japanese: トキオ Tokio) is a main character who appeared in Pokémon Horizon as 's rival. His goal is to take over the world after being left alone in the darkness.\n\n==History==\nTokio debuts in The Power of Teamwork, though he is formally introduced in Traveling Trainer Tokio, where he saves Akira and Mana from a . Combining the attacks of his Type: Null and Jangmo-o, he easily defeats his opponent.\n\nInitially appearing to be a friendly person, Tokio decides to battle with Akira. In the process, he shows his true nature, which also affects his Pokémon during the match. Akira manages to defeat Tokio but not before delivering a violent blow to his own Pokémon. Defeated, he leaves, abandoning Jangmo-o.\n\nIn Rockfuff's Secret, Tokio is seen talking to a mysterious person.\n\nIn Attack on the Headquarters, Tokio watches Akira's battle against Napo from a distance. As soon as Akira wins, Tokio appears, provoking his rival.\n\n==Pokémon==\n===On hand===\n \n\n===Abandoned===\n \n\n===Controlled===\n \n\n==Names==\n \n\n==Related articles==\n \n \n \n \n\n \n \n \n \n \n\nes:Tokio\nfr:Tokio\nit:Tokio\nja:トキオ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tokio (Japanese: トキオ Tokio) is a main character who appeared in Pokémon Horizon as 's rival. His goal is to take over the world after being left alone in the darkness."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Tokio debuts in The Power of Teamwork, though he is formally introduced in Traveling Trainer Tokio, where he saves Akira and Mana from a . Combining the attacks of his Type: Null and Jangmo-o, he easily defeats his opponent.\n\nInitially appearing to be a friendly person, Tokio decides to battle with Akira. In the process, he shows his true nature, which also affects his Pokémon during the match. Akira manages to defeat Tokio but not before delivering a violent blow to his own Pokémon. Defeated, he leaves, abandoning Jangmo-o.\n\nIn Rockfuff's Secret, Tokio is seen talking to a mysterious person.\n\nIn Attack on the Headquarters, Tokio watches Akira's battle against Napo from a distance. As soon as Akira wins, Tokio appears, provoking his rival."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Tokio\nfr:Tokio\nit:Tokio\nja:トキオ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tokio",
+    "pageType": "character",
+    "searchableText": "Tokio\nCategory:Pokémon Horizon characters\nTokio (Japanese: トキオ Tokio) is a main character who appeared in Pokémon Horizon as 's rival. His goal is to take over the world after being left alone in the darkness.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1087,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Bloomingvale",
+    "slug": "bloomingvale",
+    "pageId": 31960,
+    "revisionId": 4261231
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "bloomingvale__31960.json",
+    "revisionTimestamp": "2025-03-19T21:51:39Z",
+    "fetchedAt": "2026-05-14T14:05:33.012Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Bloomingvale (Japanese: ソーラータウン Solar Town) is an -exclusive town in Johto. It is located between Violet City and Azalea Town.\n\nBloomingvale is famous for its , and it hosts the Sunflora Festival every year to showcase the Sun Pokémon in all its glory. Its warm climate and access to mountain fresh waters make it the perfect location to raise Sunflora. The town is spread out over several terraced hills, and locals take pride in keeping their gardens green. Most of the s in Bloomingvale, including the resident Nurse Joy, Sonrisa, and her neighbor , have Sunflora. Locals train their Sunflora all year for the Sunflora Festival in various ways, such as tanning, weight lifting, and keeping them happy.",
+  "plainText": "Bloomingvale (Japanese: ソーラータウン Solar Town) is an -exclusive town in Johto. It is located between Violet City and Azalea Town.\n\nBloomingvale is famous for its , and it hosts the Sunflora Festival every year to showcase the Sun Pokémon in all its glory. Its warm climate and access to mountain fresh waters make it the perfect location to raise Sunflora. The town is spread out over several terraced hills, and locals take pride in keeping their gardens green. Most of the s in Bloomingvale, including the resident Nurse Joy, Sonrisa, and her neighbor , have Sunflora. Locals train their Sunflora all year for the Sunflora Festival in various ways, such as tanning, weight lifting, and keeping them happy.\n\n==Pokémon seen in Bloomingvale==\n \n\n==In other languages==\n \n\n \n \n \n\nde:Bloomingvale\nes:Valle Florido/Bloomingvale\nit:Bloomingvale\nzh:陽光鎮（城都）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bloomingvale (Japanese: ソーラータウン Solar Town) is an -exclusive town in Johto. It is located between Violet City and Azalea Town.\n\nBloomingvale is famous for its , and it hosts the Sunflora Festival every year to showcase the Sun Pokémon in all its glory. Its warm climate and access to mountain fresh waters make it the perfect location to raise Sunflora. The town is spread out over several terraced hills, and locals take pride in keeping their gardens green. Most of the s in Bloomingvale, including the resident Nurse Joy, Sonrisa, and her neighbor , have Sunflora. Locals train their Sunflora all year for the Sunflora Festival in various ways, such as tanning, weight lifting, and keeping them happy."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Bloomingvale\nes:Valle Florido/Bloomingvale\nit:Bloomingvale\nzh:陽光鎮（城都）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bloomingvale",
+    "pageType": "location",
+    "searchableText": "Bloomingvale\nCategory:Animated series-exclusive locations\nBloomingvale (Japanese: ソーラータウン Solar Town) is an -exclusive town in Johto. It is located between Violet City and Azalea Town.\n\nBloomingvale is famous for its , and it hosts the Sunflora Festival every year to showcase the Sun Pokémon in all its glory. Its warm climate and access to mountain fresh waters make it the perfect location to raise Sunflora. The town is spread out over several terraced hills, and locals take pride in keeping their gardens green. Most of the s in Bloomingvale, including the resident Nurse Joy, Sonrisa, and her neighbor , have Sunflora. Locals train their Sunflora all year for the Sunflora Festival in various ways, such as tanning, weight lifting, and keeping them happy.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 847,
+    "sectionCount": 2
+  }
+}

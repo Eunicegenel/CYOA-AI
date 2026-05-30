@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Sword & Shield volume 12",
+    "slug": "pokemon-sword-and-shield-volume-12",
+    "pageId": 323857,
+    "revisionId": 4359988
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-sword-and-shield-volume-12__323857.json",
+    "revisionTimestamp": "2025-08-17T23:26:51Z",
+    "fetchedAt": "2026-05-14T15:37:57.162Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 12 is the twelfth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+  "plainText": "Volume 12 is the twelfth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.\n\n==Blurb==\nHop and the rest of the team chase after a Legendary bird Pokémon while Henry and Casey keep training the Pokémon Kubfu!\n\nIs Kubfu finally trained strong enough to evolve?!\n\n==Publications==\n \n \n\n==Chapters==\nAdventure 35: Bom Bom!! Kubfu and Intense Training\nAdventure 36: Rrmbll!! Serious Tower Battle\nAdventure 37: Crackle!! Retrieve the Sword & Shield\n\n \n\n \n\n \n\nfr:Volume 12 (Pokémon Sword&Shield)\nit:Pokémon Sword & Shield volume 12",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 12 is the twelfth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "Hop and the rest of the team chase after a Legendary bird Pokémon while Henry and Casey keep training the Pokémon Kubfu!\n\nIs Kubfu finally trained strong enough to evolve?!"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 35: Bom Bom!! Kubfu and Intense Training\nAdventure 36: Rrmbll!! Serious Tower Battle\nAdventure 37: Crackle!! Retrieve the Sword & Shield\n\n \n\n \n\n \n\nfr:Volume 12 (Pokémon Sword&Shield)\nit:Pokémon Sword & Shield volume 12"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Sword & Shield volume 12",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Sword & Shield volume 12\nCategory:Pokémon Adventures volumes\nVolume 12 is the twelfth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters"
+    ],
+    "characterCount": 807,
+    "sectionCount": 3
+  }
+}

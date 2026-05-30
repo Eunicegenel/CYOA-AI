@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM074",
+    "slug": "pm074",
+    "pageId": 160632,
+    "revisionId": 4526635
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm074__160632.json",
+    "revisionTimestamp": "2026-04-09T14:59:25Z",
+    "fetchedAt": "2026-05-14T15:31:16.222Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy Becomes a Father...?! (Japanese: ピッピ親になる……！？ Becomes a Father...?!) is the seventy-fourth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Clefairy Becomes a Father...?! (Japanese: ピッピ親になる……！？ Becomes a Father...?!) is the seventy-fourth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 74 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy Becomes a Father...?! (Japanese: ピッピ親になる……！？ Becomes a Father...?!) is the seventy-fourth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 74 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM074",
+    "pageType": "chapter",
+    "searchableText": "PM074\nCategory:Pokémon Pocket Monsters chapters\nClefairy Becomes a Father...?! (Japanese: ピッピ親になる……！？ Becomes a Father...?!) is the seventy-fourth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 327,
+    "sectionCount": 3
+  }
+}

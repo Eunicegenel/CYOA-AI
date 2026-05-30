@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Astin",
+    "slug": "astin",
+    "pageId": 53332,
+    "revisionId": 4095811
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "astin__53332.json",
+    "revisionTimestamp": "2024-09-01T00:42:07Z",
+    "fetchedAt": "2026-05-14T14:04:08.428Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Astin was Jessie's childhood crush and a character of the day who appeared in Crossing Paths. Astin also has a present-day lookalike by the name of Austin. His name is not mentioned in the Japanese version.\n\nAstin used to go to the same school that Jessie was in. He left to become a Pokémon Coordinator and, before leaving, asked Jessie to join him on his . Jessie was torn between traveling with her crush and staying at school for her debut as a dancer. Jessie ultimately decided to stay at school and has not seen him since his departure.",
+  "plainText": "Astin was Jessie's childhood crush and a character of the day who appeared in Crossing Paths. Astin also has a present-day lookalike by the name of Austin. His name is not mentioned in the Japanese version.\n\nAstin used to go to the same school that Jessie was in. He left to become a Pokémon Coordinator and, before leaving, asked Jessie to join him on his . Jessie was torn between traveling with her crush and staying at school for her debut as a dancer. Jessie ultimately decided to stay at school and has not seen him since his departure.\n\n==Voice actors==\n \n\n==Trivia==\nAstin shares the same voice actor as Austin in Japanese, Czech, Finnish and Brazilian Portuguese versions.\n \n\n \n \n \n \n \n\nde:Auf den letzten Drücker! (Staffel 11)#Astin\nes:Astin\nit:Astin",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Astin was Jessie's childhood crush and a character of the day who appeared in Crossing Paths. Astin also has a present-day lookalike by the name of Austin. His name is not mentioned in the Japanese version.\n\nAstin used to go to the same school that Jessie was in. He left to become a Pokémon Coordinator and, before leaving, asked Jessie to join him on his . Jessie was torn between traveling with her crush and staying at school for her debut as a dancer. Jessie ultimately decided to stay at school and has not seen him since his departure."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Astin shares the same voice actor as Austin in Japanese, Czech, Finnish and Brazilian Portuguese versions.\n \n\n \n \n \n \n \n\nde:Auf den letzten Drücker! (Staffel 11)#Astin\nes:Astin\nit:Astin"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Astin",
+    "pageType": "character",
+    "searchableText": "Astin\nCategory:Sinnoh characters of the day\nAstin was Jessie's childhood crush and a character of the day who appeared in Crossing Paths. Astin also has a present-day lookalike by the name of Austin. His name is not mentioned in the Japanese version.\n\nAstin used to go to the same school that Jessie was in. He left to become a Pokémon Coordinator and, before leaving, asked Jessie to join him on his . Jessie was torn between traveling with her crush and staying at school for her debut as a dancer. Jessie ultimately decided to stay at school and has not seen him since his departure.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 760,
+    "sectionCount": 2
+  }
+}

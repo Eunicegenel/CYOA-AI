@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Rhonda Krempa",
+    "slug": "rhonda-krempa",
+    "pageId": 21184,
+    "revisionId": 4191142
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "rhonda-krempa__21184.json",
+    "revisionTimestamp": "2024-11-24T01:52:23Z",
+    "fetchedAt": "2026-05-14T14:46:14.493Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Rhonda Krempa (born Natasha Charles Parker Malinsky) is an American voice actress who worked for the English-language dub of .",
+  "plainText": "Rhonda Krempa (born Natasha Charles Parker Malinsky) is an American voice actress who worked for the English-language dub of .\n\n== Pokémon roles ==\nKrempa joined the series during the ninth season, when and TAJ Productions took over the dubbing and distribution of the series. She left the series in the thirteenth season, with both her main roles of and going to Bella Hudson.\n===Animation===\n==== ====\n===== Major =====\n(DP026-DP161)\n(DP033-DP155)\nSolana\n\n===== Minor =====\nBrianna\nMelodi\nRosebay\nJudy\n\n== Other non-Pokémon roles ==\nNico Robin, Nefertari Vivi (Odex Ltd dub of )\nLivy (Winx Club (4Kids version))\n\n== External links ==\nLinkedIn profile\nFacebook\nYouTube channel\n \n \n \n \n \n\nit:Rhonda Krempa",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Rhonda Krempa (born Natasha Charles Parker Malinsky) is an American voice actress who worked for the English-language dub of ."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Krempa joined the series during the ninth season, when and TAJ Productions took over the dubbing and distribution of the series. She left the series in the thirteenth season, with both her main roles of and going to Bella Hudson."
+    },
+    {
+      "heading": "Major",
+      "level": 5,
+      "text": "(DP026-DP161)\n(DP033-DP155)\nSolana"
+    },
+    {
+      "heading": "Minor",
+      "level": 5,
+      "text": "Brianna\nMelodi\nRosebay\nJudy"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Nico Robin, Nefertari Vivi (Odex Ltd dub of )\nLivy (Winx Club (4Kids version))"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "LinkedIn profile\nFacebook\nYouTube channel\n \n \n \n \n \n\nit:Rhonda Krempa"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rhonda Krempa",
+    "pageType": "general-anime-lore",
+    "searchableText": "Rhonda Krempa\nCategory:TPCi voice actors\nRhonda Krempa (born Natasha Charles Parker Malinsky) is an American voice actress who worked for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 705,
+    "sectionCount": 6
+  }
+}

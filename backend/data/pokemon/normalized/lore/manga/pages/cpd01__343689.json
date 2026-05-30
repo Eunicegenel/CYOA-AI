@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "CPD01",
+    "slug": "cpd01",
+    "pageId": 343689,
+    "revisionId": 4398698
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Countdown Pokémon Day chapters",
+    "sourceFileName": "cpd01__343689.json",
+    "revisionTimestamp": "2025-10-12T20:15:38Z",
+    "fetchedAt": "2026-05-14T15:16:17.652Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the first chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 20, 2025 at 8:00 PM JST. It is 16 pages long.",
+  "plainText": "This is the first chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 20, 2025 at 8:00 PM JST. It is 16 pages long.\n\n==Plot==\n \n \n \n\n==Major events==\n \n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n(illustration)\n(illustration; fantasy; drawing)\n\n(illustration)\n(illustration)\n(illustration)\n(Trainer's)\n(illustration)\n(illustration)\n(Trainer's)\n(illustration)\n(Yūsuke's)\n(Trainer's)\n(Trainer's)\n\n(Trainer's)\n(Daichi's)\n\n(illustration)\n(Tokio's)\n(Trainer's)\n(illustration)\n(Trainer's)\n(Trainer's)\n(Disguised Form; Trainer's)\n(statue)\n(drawing)\n(fantasy)\n(fantasy)\n(Umina's)\n(Yuki's)\n(illustration)\n(illustration)\n(drawing)\n(Trainer's)\n(Trainer's)\n\n==Characters==\n===Humans===\n\nTrainers\nCitizens\n\n===Pokémon===\n(Yūsuke's)\n(Daichi's)\n(Tokio's)\n(Yadoyan; Umina's)\n(Run-chan; Yuki's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's; )\n(Trainer's)\n(Trainer's)\n\n(sculpture)\n(drawing)\n(illustration)\n(illustration; fantasy; drawing)\n(illustration)\n(illustration)\n(illustration)\n(illustration; drawing)\n(statue)\n(drawing)\n(illustration)\n(illustration)\n(illustration)\n(illustration)\n(illustration)\n(illustration)\n(fantasy)\n(illustration)\n(illustration; crossbody bag)\n(fantasy)\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the first chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 20, 2025 at 8:00 PM JST. It is 16 pages long."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(illustration)\n(illustration; fantasy; drawing)\n\n(illustration)\n(illustration)\n(illustration)\n(Trainer's)\n(illustration)\n(illustration)\n(Trainer's)\n(illustration)\n(Yūsuke's)\n(Trainer's)\n(Trainer's)\n\n(Trainer's)\n(Daichi's)\n\n(illustration)\n(Tokio's)\n(Trainer's)\n(illustration)\n(Trainer's)\n(Trainer's)\n(Disguised Form; Trainer's)\n(statue)\n(drawing)\n(fantasy)\n(fantasy)\n(Umina's)\n(Yuki's)\n(illustration)\n(illustration)\n(drawing)\n(Trainer's)\n(Trainer's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Trainers\nCitizens"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Yūsuke's)\n(Daichi's)\n(Tokio's)\n(Yadoyan; Umina's)\n(Run-chan; Yuki's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's; )\n(Trainer's)\n(Trainer's)\n\n(sculpture)\n(drawing)\n(illustration)\n(illustration; fantasy; drawing)\n(illustration)\n(illustration)\n(illustration)\n(illustration; drawing)\n(statue)\n(drawing)\n(illustration)\n(illustration)\n(illustration)\n(illustration)\n(illustration)\n(illustration)\n(fantasy)\n(illustration)\n(illustration; crossbody bag)\n(fantasy)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CPD01",
+    "pageType": "chapter",
+    "searchableText": "CPD01\nCategory:Countdown Pokémon Day chapters\nThis is the first chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 20, 2025 at 8:00 PM JST. It is 16 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1291,
+    "sectionCount": 4
+  }
+}

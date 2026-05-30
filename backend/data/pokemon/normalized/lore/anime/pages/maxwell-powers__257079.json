@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Maxwell Powers",
+    "slug": "maxwell-powers",
+    "pageId": 257079,
+    "revisionId": 4323510
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "maxwell-powers__257079.json",
+    "revisionTimestamp": "2025-06-24T03:31:29Z",
+    "fetchedAt": "2026-05-14T14:35:48.142Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "J. Maxwell Powers, also known as Maxwell Powers (Japanese: マックスウェル・パワーズ Maxwell Powers), is an American voice actor for .",
+  "plainText": "J. Maxwell Powers, also known as Maxwell Powers (Japanese: マックスウェル・パワーズ Maxwell Powers), is an American voice actor for .\n\n==Biography==\nPowers was born on December 27, 1983 in , , and moved to , where he became a voice actor. Powers joined the during , where he gained the recurring role of the Drone Rotom.\n\n==Pokémon roles==\n===Animation===\n==== ====\nDrone Rotom\n\n==Other non-Pokémon roles==\nBattle System Voice ( )\nSuzuki ( )\nGenbu ( )\nEarth Brace Voice ( )\n\n==External links==\nAnimeNewsNetwork\nmyanimelist\nAnime-Planet\nBehind The Voice Actors\ntwitter\nFacebook\n\n \n\n \n\nit:Maxwell Powers",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "J. Maxwell Powers, also known as Maxwell Powers (Japanese: マックスウェル・パワーズ Maxwell Powers), is an American voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Powers was born on December 27, 1983 in , , and moved to , where he became a voice actor. Powers joined the during , where he gained the recurring role of the Drone Rotom."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Drone Rotom"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Battle System Voice ( )\nSuzuki ( )\nGenbu ( )\nEarth Brace Voice ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "AnimeNewsNetwork\nmyanimelist\nAnime-Planet\nBehind The Voice Actors\ntwitter\nFacebook\n\n \n\n \n\nit:Maxwell Powers"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Maxwell Powers",
+    "pageType": "general-anime-lore",
+    "searchableText": "Maxwell Powers\nCategory:Japanese voice actors\nJ. Maxwell Powers, also known as Maxwell Powers (Japanese: マックスウェル・パワーズ Maxwell Powers), is an American voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 589,
+    "sectionCount": 5
+  }
+}

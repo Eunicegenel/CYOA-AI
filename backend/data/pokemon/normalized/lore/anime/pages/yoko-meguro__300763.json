@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Yoko Meguro",
+    "slug": "yoko-meguro",
+    "pageId": 300763,
+    "revisionId": 4324852
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures characters",
+    "sourceFileName": "yoko-meguro__300763.json",
+    "revisionTimestamp": "2025-06-26T21:52:09Z",
+    "fetchedAt": "2026-05-14T14:59:53.887Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Yoko Meguro (Japanese: 目黒洋子 Meguro Yōko) is a supporting character of A Pocketful of Adventures.",
+  "plainText": "Yoko Meguro (Japanese: 目黒洋子 Meguro Yōko) is a supporting character of A Pocketful of Adventures. \n==History==\n===Pre-series===\n===Season One===\n==Character==\n==Names==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yoko Meguro (Japanese: 目黒洋子 Meguro Yōko) is a supporting character of A Pocketful of Adventures."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yoko Meguro",
+    "pageType": "character",
+    "searchableText": "Yoko Meguro\nCategory:A Pocketful of Adventures characters\nYoko Meguro (Japanese: 目黒洋子 Meguro Yōko) is a supporting character of A Pocketful of Adventures.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 167,
+    "sectionCount": 1
+  }
+}

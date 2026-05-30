@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB61",
+    "slug": "rb61",
+    "pageId": 163262,
+    "revisionId": 4252901
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb61__163262.json",
+    "revisionTimestamp": "2025-03-04T04:33:32Z",
+    "fetchedAt": "2026-05-14T15:47:54.367Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 救世主あらわる！ The Saviors Appear!) is the 61st chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 救世主あらわる！ The Saviors Appear!) is the 61st chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nYappy attempts to use Burst to fight back, but fails in the process.\nHariru and Carola return to help fight against Rovy and Ganku.\nHariru and Carola are seemingly defeated by Rovy and Ganku's combination attack.\n===Debuts===\n\n====Pokémon debuts====\n==Characters==\n===Humans===\nRug \nKaruta\nMiruto\nYappy\nRovy\nGanku\nHariru\nCarola\nAmu (flashback)\nGerubu (flashback)\nFraud (flashback)\n\n===Pokémon===\n(Rug's)\n(Karuta's)\n(Rovy's)\n(Ganku's)\n(Amu's; flashback)\n(Hariru's)\n(Carola's)\n\n \n \n \n\n \n\nzh:RB61",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 救世主あらわる！ The Saviors Appear!) is the 61st chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Yappy attempts to use Burst to fight back, but fails in the process.\nHariru and Carola return to help fight against Rovy and Ganku.\nHariru and Carola are seemingly defeated by Rovy and Ganku's combination attack."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Rug \nKaruta\nMiruto\nYappy\nRovy\nGanku\nHariru\nCarola\nAmu (flashback)\nGerubu (flashback)\nFraud (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Rug's)\n(Karuta's)\n(Rovy's)\n(Ganku's)\n(Amu's; flashback)\n(Hariru's)\n(Carola's)\n\n \n \n \n\n \n\nzh:RB61"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB61",
+    "pageType": "chapter",
+    "searchableText": "RB61\nCategory:Pokémon RéBURST chapters\n(Japanese: 救世主あらわる！ The Saviors Appear!) is the 61st chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 614,
+    "sectionCount": 4
+  }
+}

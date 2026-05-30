@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Kaede Hondo",
+    "slug": "kaede-hondo",
+    "pageId": 293655,
+    "revisionId": 4404259
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "kaede-hondo__293655.json",
+    "revisionTimestamp": "2025-10-17T01:40:48Z",
+    "fetchedAt": "2026-05-14T14:28:18.564Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kaede Hondo (Japanese: 本渡楓 Kaede Hondo) is a Japanese voice actor for .",
+  "plainText": "Kaede Hondo (Japanese: 本渡楓 Kaede Hondo) is a Japanese voice actor for .\n\n==Biography==\nKaede was born on March 6, 1996, in Nagoya, Aichi Prefecture, Japan. Kaede became a voice actor in 2015 and joined Pokémon animation during POKÉTOON, voicing Peaches, and is featured in as Iono.\n\n==Pokémon roles==\n===Animation===\n==== ====\nIono\n\n====POKÉTOON====\nPeaches\n\n=== Video Games===\nAkari (Masters)\n\n==Other non-Pokémon roles==\nKokoro Yotsuba, Nicolie ( )\nLammis ( )\nLicorice Mille Hubarek ( )\nMiyako Godai ( )\nSakura Minamoto ( )\nElaina ( )\nMidori Sawatari ( )\nMiku Kenjo ( )\nKirisame ( )\n\n==External links==\nTwitter\n\n \n\n \n\nit:Kaede Hondo",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kaede Hondo (Japanese: 本渡楓 Kaede Hondo) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kaede was born on March 6, 1996, in Nagoya, Aichi Prefecture, Japan. Kaede became a voice actor in 2015 and joined Pokémon animation during POKÉTOON, voicing Peaches, and is featured in as Iono."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Iono"
+    },
+    {
+      "heading": "POKÉTOON",
+      "level": 4,
+      "text": "Peaches"
+    },
+    {
+      "heading": "Video Games",
+      "level": 3,
+      "text": "Akari (Masters)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Kokoro Yotsuba, Nicolie ( )\nLammis ( )\nLicorice Mille Hubarek ( )\nMiyako Godai ( )\nSakura Minamoto ( )\nElaina ( )\nMidori Sawatari ( )\nMiku Kenjo ( )\nKirisame ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\n\n \n\n \n\nit:Kaede Hondo"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kaede Hondo",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kaede Hondo\nCategory:Japanese voice actors\nKaede Hondo (Japanese: 本渡楓 Kaede Hondo) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "POKÉTOON",
+      "Video Games",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 634,
+    "sectionCount": 7
+  }
+}

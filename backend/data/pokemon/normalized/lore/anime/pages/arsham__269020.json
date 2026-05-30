@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Arsham",
+    "slug": "arsham",
+    "pageId": 269020,
+    "revisionId": 4235403
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "arsham__269020.json",
+    "revisionTimestamp": "2025-02-07T00:54:35Z",
+    "fetchedAt": "2026-05-14T14:03:21.645Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Arsham is a character of the day who appeared in A Ripple in Time. He is a who battled Ash in a stadium. During the battle, both Trainers' Pokémon moves collided and hit a observing the battle. As a result of this, Ash and were transported to Future Forest.",
+  "plainText": "Arsham is a character of the day who appeared in A Ripple in Time. He is a who battled Ash in a stadium. During the battle, both Trainers' Pokémon moves collided and hit a observing the battle. As a result of this, Ash and were transported to Future Forest.\n\n==Pokémon==\nThis is listing of Arsham's known in A Ripple in Time.\n \nThe narrator says that both Trainers were using their last Pokémon, which indicates that Arsham has at least one more Pokémon.\n\n==Trivia==\nArsham is based on artist , who collaborated with Pokémon to create art exhibitions in Tokyo. A Ripple in Time is part of this project. \n\n==References==\n \n \n\n \n \n \n\nit:Arsham",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Arsham is a character of the day who appeared in A Ripple in Time. He is a who battled Ash in a stadium. During the battle, both Trainers' Pokémon moves collided and hit a observing the battle. As a result of this, Ash and were transported to Future Forest."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This is listing of Arsham's known in A Ripple in Time.\n \nThe narrator says that both Trainers were using their last Pokémon, which indicates that Arsham has at least one more Pokémon."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Arsham is based on artist , who collaborated with Pokémon to create art exhibitions in Tokyo. A Ripple in Time is part of this project."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:Arsham"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Arsham",
+    "pageType": "character",
+    "searchableText": "Arsham\nCategory:Animation characters\nArsham is a character of the day who appeared in A Ripple in Time. He is a who battled Ash in a stadium. During the battle, both Trainers' Pokémon moves collided and hit a observing the battle. As a result of this, Ash and were transported to Future Forest.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia",
+      "References"
+    ],
+    "characterCount": 641,
+    "sectionCount": 4
+  }
+}

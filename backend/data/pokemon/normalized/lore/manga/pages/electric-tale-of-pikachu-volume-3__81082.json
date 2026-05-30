@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Electric Tale of Pikachu volume 3",
+    "slug": "electric-tale-of-pikachu-volume-3",
+    "pageId": 81082,
+    "revisionId": 4298342
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu volumes",
+    "sourceFileName": "electric-tale-of-pikachu-volume-3__81082.json",
+    "revisionTimestamp": "2025-05-11T10:03:56Z",
+    "fetchedAt": "2026-05-14T15:18:03.033Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 3: Electric Pikachu Boogaloo is the third of four volumes of the manga series The Electric Tale of Pikachu created by 小野 敏洋 Toshihiro Ono.",
+  "plainText": "Volume 3: Electric Pikachu Boogaloo is the third of four volumes of the manga series The Electric Tale of Pikachu created by 小野 敏洋 Toshihiro Ono. \n\n==Publications==\n \n \n \n \n \n \n \n \n\n==Chapters==\nChapter 1: I'm Your Venusaur\nChapter 2: Clefairy in Space\nChapter 3: Days of Gloom and Glory\nChapter 4: Welcome to the Big Leagues\nChapter 5: The Indigo Finals\nChapter 6: The Orange Islands\n\n==Important events==\n \ncompetes in the Indigo Plateau Conference.\nAsh embarks on his journey to the Orange Islands.\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\nAsh's in ET14.\n\n==Monthly releases==\n \nJust like the first two volumes, Electric Pikachu Boogaloo was released by VIZ Media as four monthly issues containing one to two chapters each, comprising the entire volume collectively, which was released separately. These monthly comic book issues were released from July 23, through October 22, 1999. As a bonus, these monthly releases each contained fan letters and fan artwork which were not included in the regular volume releases. \n\nThe following monthly comic book issues were released:\nIssue 1\nIssue 2\nIssue 3\nIssue 4\n\n \n\n \n\nit:The Electric Tale of Pikachu volume 3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 3: Electric Pikachu Boogaloo is the third of four volumes of the manga series The Electric Tale of Pikachu created by 小野 敏洋 Toshihiro Ono."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 1: I'm Your Venusaur\nChapter 2: Clefairy in Space\nChapter 3: Days of Gloom and Glory\nChapter 4: Welcome to the Big Leagues\nChapter 5: The Indigo Finals\nChapter 6: The Orange Islands"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "competes in the Indigo Plateau Conference.\nAsh embarks on his journey to the Orange Islands."
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:\nAsh's in ET14."
+    },
+    {
+      "heading": "Monthly releases",
+      "level": 2,
+      "text": "Just like the first two volumes, Electric Pikachu Boogaloo was released by VIZ Media as four monthly issues containing one to two chapters each, comprising the entire volume collectively, which was released separately. These monthly comic book issues were released from July 23, through October 22, 1999. As a bonus, these monthly releases each contained fan letters and fan artwork which were not included in the regular volume releases. \n\nThe following monthly comic book issues were released:\nIssue 1\nIssue 2\nIssue 3\nIssue 4\n\n \n\n \n\nit:The Electric Tale of Pikachu volume 3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Electric Tale of Pikachu volume 3",
+    "pageType": "general-manga-lore",
+    "searchableText": "Electric Tale of Pikachu volume 3\nCategory:Electric Tale of Pikachu volumes\nVolume 3: Electric Pikachu Boogaloo is the third of four volumes of the manga series The Electric Tale of Pikachu created by 小野 敏洋 Toshihiro Ono.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Additions",
+      "Monthly releases"
+    ],
+    "characterCount": 1187,
+    "sectionCount": 5
+  }
+}

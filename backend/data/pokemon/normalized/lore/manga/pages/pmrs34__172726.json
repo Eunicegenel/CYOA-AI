@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS34",
+    "slug": "pmrs34",
+    "pageId": 172726,
+    "revisionId": 4264638
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs34__172726.json",
+    "revisionTimestamp": "2025-03-23T18:31:01Z",
+    "fetchedAt": "2026-05-14T15:33:29.093Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pokémon Task Force In Action!! (Japanese: 出動！ポケモン警備隊！！ Set Out! Pokémon Task Force!!) is the thirty-fourth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Pokémon Task Force In Action!! (Japanese: 出動！ポケモン警備隊！！ Set Out! Pokémon Task Force!!) is the thirty-fourth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Task Force In Action!! (Japanese: 出動！ポケモン警備隊！！ Set Out! Pokémon Task Force!!) is the thirty-fourth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS34",
+    "pageType": "chapter",
+    "searchableText": "PMRS34\nCategory:Pokémon Ruby-Sapphire chapters\nPokémon Task Force In Action!! (Japanese: 出動！ポケモン警備隊！！ Set Out! Pokémon Task Force!!) is the thirty-fourth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 274,
+    "sectionCount": 2
+  }
+}

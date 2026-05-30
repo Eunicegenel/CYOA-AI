@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Mikuri",
+    "slug": "mikuri",
+    "pageId": 888,
+    "revisionId": 4398491
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "mikuri__888.json",
+    "revisionTimestamp": "2025-10-12T11:59:38Z",
+    "fetchedAt": "2026-05-14T15:26:31.861Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ミクリ Mikuri) is a character who appeared in Pokémon: Yeah! I Got Pokémon!.",
+  "plainText": "(Japanese: ミクリ Mikuri) is a character who appeared in Pokémon: Yeah! I Got Pokémon!.\n\n==Character==\nMikuri is considered to be friendly towards Shu as they both traveled together for a bit.\n\n==History==\n \nMikuri first appeared in a forest where she introduced herself to Shu. She then put on a show with her . After Shu attempted to do so, he continued the act with using and shooting some electricity. Mikuri fell in love with Pikachu and chased after him while watching it.\n\nMikuri traveled with Shu afterwards where they got lost and Mikuri became tired. In the midst of Shu arguing, Mikuri gets snatched by the three turtle siblings. After Pikachu zapped them with , Mikuri became surprised after they changed their personality but was happy to see that they had an interest in her.\n\nThe duo go to another forest where they met a in which Shu wanted to catch. Mikuri watched Shu taking on Heracross but was unsuccessful in battling it. After Shu was knocked back by Heracross, Mikuri battled it with Bellossom and caught it, only for Mikuri to disappear afterwards. A note flew by and Shu read it which came from her.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ミクリ Mikuri) is a character who appeared in Pokémon: Yeah! I Got Pokémon!."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Mikuri is considered to be friendly towards Shu as they both traveled together for a bit."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Mikuri first appeared in a forest where she introduced herself to Shu. She then put on a show with her . After Shu attempted to do so, he continued the act with using and shooting some electricity. Mikuri fell in love with Pikachu and chased after him while watching it.\n\nMikuri traveled with Shu afterwards where they got lost and Mikuri became tired. In the midst of Shu arguing, Mikuri gets snatched by the three turtle siblings. After Pikachu zapped them with , Mikuri became surprised after they changed their personality but was happy to see that they had an interest in her.\n\nThe duo go to another forest where they met a in which Shu wanted to catch. Mikuri watched Shu taking on Heracross but was unsuccessful in battling it. After Shu was knocked back by Heracross, Mikuri battled it with Bellossom and caught it, only for Mikuri to disappear afterwards. A note flew by and Shu read it which came from her."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mikuri",
+    "pageType": "character",
+    "searchableText": "Mikuri\nCategory:Pokémon: Yeah! I Got Pokémon! characters\n(Japanese: ミクリ Mikuri) is a character who appeared in Pokémon: Yeah! I Got Pokémon!.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History"
+    ],
+    "characterCount": 1134,
+    "sectionCount": 3
+  }
+}

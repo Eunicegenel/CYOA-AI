@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS39",
+    "slug": "pmrs39",
+    "pageId": 172730,
+    "revisionId": 4264643
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs39__172730.json",
+    "revisionTimestamp": "2025-03-23T18:31:46Z",
+    "fetchedAt": "2026-05-14T15:33:36.460Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pokémon New Year (Japanese: 大暴れ！ポケモンのお正月 Big Rampage! Pokémon New Year) is the thirty-ninth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Pokémon New Year (Japanese: 大暴れ！ポケモンのお正月 Big Rampage! Pokémon New Year) is the thirty-ninth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon New Year (Japanese: 大暴れ！ポケモンのお正月 Big Rampage! Pokémon New Year) is the thirty-ninth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS39",
+    "pageType": "chapter",
+    "searchableText": "PMRS39\nCategory:Pokémon Ruby-Sapphire chapters\nPokémon New Year (Japanese: 大暴れ！ポケモンのお正月 Big Rampage! Pokémon New Year) is the thirty-ninth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 259,
+    "sectionCount": 2
+  }
+}

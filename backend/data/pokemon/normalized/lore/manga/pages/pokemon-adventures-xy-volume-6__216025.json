@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Adventures XY volume 6",
+    "slug": "pokemon-adventures-xy-volume-6",
+    "pageId": 216025,
+    "revisionId": 4298495
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-adventures-xy-volume-6__216025.json",
+    "revisionTimestamp": "2025-05-11T10:05:19Z",
+    "fetchedAt": "2026-05-14T15:35:45.100Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 6 is the sixth and final volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and were collected in the regular volumes once the had finished.",
+  "plainText": "Volume 6 is the sixth and final volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and were collected in the regular volumes once the had finished.\n\n==Publications==\n \n \n \n \n \n \n \n \n \n \n\n==Chapters==\nCharizard Transforms\nYveltal Steals\nMewtwo Angered\nZygarde Agitated\nXerneas Gives\nEpilogue\n\n==Party changes==\n \n===Additions===\n===Evolutions===\n==Important events==\n\n \n\n \n\nde:Band 6 (Pocket Monsters SPECIAL X und Y)\nes:Tomo 6 (Pokémon XY)\nfr:Tome 6 (Pocket Monsters Special X•Y)\nit:Pokémon Adventures XY volume 6\nzh:宝可梦特别篇Ｘ·Ｙ6",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 6 is the sixth and final volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and were collected in the regular volumes once the had finished."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Charizard Transforms\nYveltal Steals\nMewtwo Angered\nZygarde Agitated\nXerneas Gives\nEpilogue"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "de:Band 6 (Pocket Monsters SPECIAL X und Y)\nes:Tomo 6 (Pokémon XY)\nfr:Tome 6 (Pocket Monsters Special X•Y)\nit:Pokémon Adventures XY volume 6\nzh:宝可梦特别篇Ｘ·Ｙ6"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Adventures XY volume 6",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Adventures XY volume 6\nCategory:Pokémon Adventures volumes\nVolume 6 is the sixth and final volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and were collected in the regular volumes once the had finished.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 719,
+    "sectionCount": 3
+  }
+}

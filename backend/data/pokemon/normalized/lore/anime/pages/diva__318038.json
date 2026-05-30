@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Diva",
+    "slug": "diva",
+    "pageId": 318038,
+    "revisionId": 4523877
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "diva__318038.json",
+    "revisionTimestamp": "2026-04-06T14:07:55Z",
+    "fetchedAt": "2026-05-14T14:12:04.289Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ディバ Diva) is a character of the day who appeared in Dance, Quaxly! The Blue Medali Step!.\n\nShe is a r who met Dot, Liko, and Roy in Medali. After seeing 's enthusiasm, she challenged Dot to a dance competition. After seeing Quaxly's resourcefulness, she revealed to the group where to find Larry in the city.",
+  "plainText": "(Japanese: ディバ Diva) is a character of the day who appeared in Dance, Quaxly! The Blue Medali Step!.\n\nShe is a r who met Dot, Liko, and Roy in Medali. After seeing 's enthusiasm, she challenged Dot to a dance competition. After seeing Quaxly's resourcefulness, she revealed to the group where to find Larry in the city.\n \n\n==Pokémon==\n \n\n==Voice actors==\n \n\n==Trivia==\nShe is left unnamed during the episode. Her Japanese name is known only through the episode's credits.\n \n \n \n\n \n \n \n\nes:Diva\nfr:Diva\nit:Diva\nzh:蒂芭",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ディバ Diva) is a character of the day who appeared in Dance, Quaxly! The Blue Medali Step!.\n\nShe is a r who met Dot, Liko, and Roy in Medali. After seeing 's enthusiasm, she challenged Dot to a dance competition. After seeing Quaxly's resourcefulness, she revealed to the group where to find Larry in the city."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "She is left unnamed during the episode. Her Japanese name is known only through the episode's credits.\n \n \n \n\n \n \n \n\nes:Diva\nfr:Diva\nit:Diva\nzh:蒂芭"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Diva",
+    "pageType": "character",
+    "searchableText": "Diva\nCategory:Horizons characters of the day\n(Japanese: ディバ Diva) is a character of the day who appeared in Dance, Quaxly! The Blue Medali Step!.\n\nShe is a r who met Dot, Liko, and Roy in Medali. After seeing 's enthusiasm, she challenged Dot to a dance competition. After seeing Quaxly's resourcefulness, she revealed to the group where to find Larry in the city.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 515,
+    "sectionCount": 2
+  }
+}

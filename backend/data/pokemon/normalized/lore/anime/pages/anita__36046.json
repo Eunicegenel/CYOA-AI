@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Anita",
+    "slug": "anita",
+    "pageId": 36046,
+    "revisionId": 4475123
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "anita__36046.json",
+    "revisionTimestamp": "2026-01-25T22:54:49Z",
+    "fetchedAt": "2026-05-14T14:02:50.671Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Anita (Japanese: アザミ Azami) is a character of the day who appeared in Gonna Rule the School!.\n\nShe initially found her time at the Pokémon Trainers' School boring, namely because she was forced to attend because of her parents. However, after seeing Max and help save some stolen from , her views about Pokémon changed.\n\nAnita disliked Tommy because he prided himself on being the star student and often bullied the other children. Anita would often leap to her fellow students defense, as she did for during the school trip. Her opinions of Tommy quickly changed after she joned forces with him to take down Team Rocket.",
+  "plainText": "Anita (Japanese: アザミ Azami) is a character of the day who appeared in Gonna Rule the School!.\n\nShe initially found her time at the Pokémon Trainers' School boring, namely because she was forced to attend because of her parents. However, after seeing Max and help save some stolen from , her views about Pokémon changed.\n\nAnita disliked Tommy because he prided himself on being the star student and often bullied the other children. Anita would often leap to her fellow students defense, as she did for during the school trip. Her opinions of Tommy quickly changed after she joned forces with him to take down Team Rocket.\n \n==Pokémon==\n===Borrowed===\n \n\n==Voice actors==\n \n\n \n\n \n \n \n\nes:Anita\nfr:Anita\nit:Anita (RZ015)\nzh:莎美",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Anita (Japanese: アザミ Azami) is a character of the day who appeared in Gonna Rule the School!.\n\nShe initially found her time at the Pokémon Trainers' School boring, namely because she was forced to attend because of her parents. However, after seeing Max and help save some stolen from , her views about Pokémon changed.\n\nAnita disliked Tommy because he prided himself on being the star student and often bullied the other children. Anita would often leap to her fellow students defense, as she did for during the school trip. Her opinions of Tommy quickly changed after she joned forces with him to take down Team Rocket."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Anita\nfr:Anita\nit:Anita (RZ015)\nzh:莎美"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Anita",
+    "pageType": "character",
+    "searchableText": "Anita\nCategory:Hoenn characters of the day\nAnita (Japanese: アザミ Azami) is a character of the day who appeared in Gonna Rule the School!.\n\nShe initially found her time at the Pokémon Trainers' School boring, namely because she was forced to attend because of her parents. However, after seeing Max and help save some stolen from , her views about Pokémon changed.\n\nAnita disliked Tommy because he prided himself on being the star student and often bullied the other children. Anita would often leap to her fellow students defense, as she did for during the school trip. Her opinions of Tommy quickly changed after she joned forces with him to take down Team Rocket.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 724,
+    "sectionCount": 2
+  }
+}

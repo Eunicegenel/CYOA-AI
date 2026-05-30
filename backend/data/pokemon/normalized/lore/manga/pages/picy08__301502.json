@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PICY08",
+    "slug": "picy08",
+    "pageId": 301502,
+    "revisionId": 4526335
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! chapters",
+    "sourceFileName": "picy08__301502.json",
+    "revisionTimestamp": "2026-04-09T14:37:17Z",
+    "fetchedAt": "2026-05-14T15:30:09.084Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Chapter 8 (Japanese: 第８話 Chapter 8) is the eighth chapter of Pokémon the Movie: I Choose You!",
+  "plainText": "Chapter 8 (Japanese: 第８話 Chapter 8) is the eighth chapter of Pokémon the Movie: I Choose You!\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Humans====\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nVerity\nSorrel\nDelia (dream)\nProfessor Oak (dream)\n\n===Pokémon===\n( 's)\n(Verity's)\n(Sorrel's)\n( )\n\n==Differences between the movie and the manga==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chapter 8 (Japanese: 第８話 Chapter 8) is the eighth chapter of Pokémon the Movie: I Choose You!"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Verity\nSorrel\nDelia (dream)\nProfessor Oak (dream)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n(Verity's)\n(Sorrel's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PICY08",
+    "pageType": "chapter",
+    "searchableText": "PICY08\nCategory:Pokémon the Movie: I Choose You! chapters\nChapter 8 (Japanese: 第８話 Chapter 8) is the eighth chapter of Pokémon the Movie: I Choose You!",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 352,
+    "sectionCount": 3
+  }
+}

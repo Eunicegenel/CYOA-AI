@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Exceed Testing Center",
+    "slug": "exceed-testing-center",
+    "pageId": 333788,
+    "revisionId": 4526684
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "exceed-testing-center__333788.json",
+    "revisionTimestamp": "2026-04-09T15:01:53Z",
+    "fetchedAt": "2026-05-14T14:18:41.411Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Exceed Testing Center (Japanese: エクシード社のテストセンター Exceed's Test Center) is an -exclusive location located in Johto. It is located inside the Exceed building near Mochew City.",
+  "plainText": "The Exceed Testing Center (Japanese: エクシード社のテストセンター Exceed's Test Center) is an -exclusive location located in Johto. It is located inside the Exceed building near Mochew City.\n\n==History==\nDuring The Strong Sphere, the Explorers used this facility to test and conduct their new product, the Strong Sphere, using and their who want to take part as testing subjects.\n\n==Gallery==\n \nExceed Testing Center Battlefield.png|Battlefield\nExceed Testing Center Battlefield Shield.png|Battlefield shield\nExceed Testing Center Security Room.png|The security room\n \n\n \n==Related articles==\n\n \n \n \n \n\nes:Centro de pruebas de Excedia\nit:Centro di Collaudo della Exceed",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Exceed Testing Center (Japanese: エクシード社のテストセンター Exceed's Test Center) is an -exclusive location located in Johto. It is located inside the Exceed building near Mochew City."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "During The Strong Sphere, the Explorers used this facility to test and conduct their new product, the Strong Sphere, using and their who want to take part as testing subjects."
+    },
+    {
+      "heading": "Gallery",
+      "level": 2,
+      "text": "Exceed Testing Center Battlefield.png|Battlefield\nExceed Testing Center Battlefield Shield.png|Battlefield shield\nExceed Testing Center Security Room.png|The security room"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Centro de pruebas de Excedia\nit:Centro di Collaudo della Exceed"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Exceed Testing Center",
+    "pageType": "location",
+    "searchableText": "Exceed Testing Center\nCategory:Animated series-exclusive locations\nThe Exceed Testing Center (Japanese: エクシード社のテストセンター Exceed's Test Center) is an -exclusive location located in Johto. It is located inside the Exceed building near Mochew City.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Gallery",
+      "Related articles"
+    ],
+    "characterCount": 655,
+    "sectionCount": 4
+  }
+}

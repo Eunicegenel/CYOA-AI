@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Pokémon 4Koma DX",
+    "slug": "pokemon-4koma-dx",
+    "pageId": 220596,
+    "revisionId": 4527804
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-4koma-dx__220596.json",
+    "revisionTimestamp": "2026-04-09T15:54:43Z",
+    "fetchedAt": "2026-05-14T15:34:42.959Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケットモンスター 4コマDX Pokémon 4Koma DX) is a Pokémon 4Koma authored and illustrated by Satomi Nakamura.\n\n \n \n\n \n\n \n\nit:Pokémon 4Koma DX\nzh:宝可梦4格DX",
+  "plainText": "(Japanese: ポケットモンスター 4コマDX Pokémon 4Koma DX) is a Pokémon 4Koma authored and illustrated by Satomi Nakamura.\n\n \n \n\n \n\n \n\nit:Pokémon 4Koma DX\nzh:宝可梦4格DX",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケットモンスター 4コマDX Pokémon 4Koma DX) is a Pokémon 4Koma authored and illustrated by Satomi Nakamura.\n\n \n \n\n \n\n \n\nit:Pokémon 4Koma DX\nzh:宝可梦4格DX"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 4Koma DX",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 4Koma DX\nCategory:Pokémon 4Koma\n(Japanese: ポケットモンスター 4コマDX Pokémon 4Koma DX) is a Pokémon 4Koma authored and illustrated by Satomi Nakamura.\n\n \n \n\n \n\n \n\nit:Pokémon 4Koma DX\nzh:宝可梦4格DX",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 151,
+    "sectionCount": 1
+  }
+}

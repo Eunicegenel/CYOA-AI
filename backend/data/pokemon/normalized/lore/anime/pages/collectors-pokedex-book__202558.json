@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Collector's Pokédex Book",
+    "slug": "collectors-pokedex-book",
+    "pageId": 202558,
+    "revisionId": 4261921
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation home video",
+    "sourceFileName": "collectors-pokedex-book__202558.json",
+    "revisionTimestamp": "2025-03-20T18:34:57Z",
+    "fetchedAt": "2026-05-14T14:10:11.817Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Collector's Pokédex Books are a type of DVD package that were released by (now known as Beyond Home Entertainment) for .\n\nEach Collector's Pokédex Book contains all of the regular dubbed episodes of that take place in a particular region (or two in the case of Pokémon Kanto and Orange Islands Collection). They are each designed to look like the Pokédex of that particular region.",
+  "plainText": "Collector's Pokédex Books are a type of DVD package that were released by (now known as Beyond Home Entertainment) for .\n\nEach Collector's Pokédex Book contains all of the regular dubbed episodes of that take place in a particular region (or two in the case of Pokémon Kanto and Orange Islands Collection). They are each designed to look like the Pokédex of that particular region.\n\n==Book==\nThe front cover and back cover of each Collector's Pokédex Book together include portraits of all Pokémon introduced. Inside the front cover is an map of the featured region (the Pokémon Kanto and Orange Islands Collection includes a Kanto map here, with a map of the Orange Islands immediately before the discs featuring Orange Islands episodes).\n\nThe book has slots for 2 discs on each side of each page. Next to each disc in the book is an episode listing for that disc as well as a profile of a Pokémon that is featured in at least one of the episodes. This profile includes an original description, its height and weight (in metric units), its types, its , its (but not its Hidden Ability), and its evolutionary line. The episodes are numbered from 1 (regardless of their place in their respective season).\n\nEach Collector's Pokédex Book includes a description of the major characters in that region at the start of the book. The Pokémon Kanto and Orange Islands Collection includes a brief description of the main characters that have not appeared in the previous sections before the Orange Islands and Pokémon the Series: Ruby and Sapphire Kanto sections. The DVDs don't include English closed captioning.\n\n==List of Collector's Pokédex Books==\n \n\n==Trivia==\nDespite them taking place in Kanto, the episodes A Tent Situation and The Rivalry Revival appear in both the Pokémon Kanto and Orange Islands Collection and the Pokémon Johto Collection.\nThe episodes The Scheme Team and The Right Place and the Right Mime appear in both the Pokémon Kanto and Orange Islands Collection and the Pokémon Hoenn Collection. While The Scheme Team includes scenes in both Hoenn and Kanto, The Right Place and the Right Mime exclusively takes place in Kanto.\n\n==External links==\nPokémon Kanto and Orange Islands Collection\nBeyond Home Entertainment's website\nWheelers' website\nPokémon Johto Collection\nBeyond Home Entertainment's website\nJB Hi-Fi New Zealand's website\nPokémon Hoenn Collection\nJB Hi-Fi Australia's website (archive)\nJB Hi-Fi New Zealand's website\nPokémon Sinnoh Collection\nSanity's website\nWheelers' website\nPokémon Unova Collection\nBeyond Home Entertainment's website\nJB Hi-Fi New Zealand's website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Collector's Pokédex Books are a type of DVD package that were released by (now known as Beyond Home Entertainment) for .\n\nEach Collector's Pokédex Book contains all of the regular dubbed episodes of that take place in a particular region (or two in the case of Pokémon Kanto and Orange Islands Collection). They are each designed to look like the Pokédex of that particular region."
+    },
+    {
+      "heading": "Book",
+      "level": 2,
+      "text": "The front cover and back cover of each Collector's Pokédex Book together include portraits of all Pokémon introduced. Inside the front cover is an map of the featured region (the Pokémon Kanto and Orange Islands Collection includes a Kanto map here, with a map of the Orange Islands immediately before the discs featuring Orange Islands episodes).\n\nThe book has slots for 2 discs on each side of each page. Next to each disc in the book is an episode listing for that disc as well as a profile of a Pokémon that is featured in at least one of the episodes. This profile includes an original description, its height and weight (in metric units), its types, its , its (but not its Hidden Ability), and its evolutionary line. The episodes are numbered from 1 (regardless of their place in their respective season).\n\nEach Collector's Pokédex Book includes a description of the major characters in that region at the start of the book. The Pokémon Kanto and Orange Islands Collection includes a brief description of the main characters that have not appeared in the previous sections before the Orange Islands and Pokémon the Series: Ruby and Sapphire Kanto sections. The DVDs don't include English closed captioning."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Despite them taking place in Kanto, the episodes A Tent Situation and The Rivalry Revival appear in both the Pokémon Kanto and Orange Islands Collection and the Pokémon Johto Collection.\nThe episodes The Scheme Team and The Right Place and the Right Mime appear in both the Pokémon Kanto and Orange Islands Collection and the Pokémon Hoenn Collection. While The Scheme Team includes scenes in both Hoenn and Kanto, The Right Place and the Right Mime exclusively takes place in Kanto."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Pokémon Kanto and Orange Islands Collection\nBeyond Home Entertainment's website\nWheelers' website\nPokémon Johto Collection\nBeyond Home Entertainment's website\nJB Hi-Fi New Zealand's website\nPokémon Hoenn Collection\nJB Hi-Fi Australia's website (archive)\nJB Hi-Fi New Zealand's website\nPokémon Sinnoh Collection\nSanity's website\nWheelers' website\nPokémon Unova Collection\nBeyond Home Entertainment's website\nJB Hi-Fi New Zealand's website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Collector's Pokédex Book",
+    "pageType": "general-anime-lore",
+    "searchableText": "Collector's Pokédex Book\nCategory:Animation home video\nCollector's Pokédex Books are a type of DVD package that were released by (now known as Beyond Home Entertainment) for .\n\nEach Collector's Pokédex Book contains all of the regular dubbed episodes of that take place in a particular region (or two in the case of Pokémon Kanto and Orange Islands Collection). They are each designed to look like the Pokédex of that particular region.",
+    "sectionHeadings": [
+      "Lead",
+      "Book",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 2599,
+    "sectionCount": 4
+  }
+}

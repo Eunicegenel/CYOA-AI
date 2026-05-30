@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "I Choose You! Music Collection",
+    "slug": "i-choose-you-music-collection",
+    "pageId": 224315,
+    "revisionId": 4275785
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie soundtracks",
+    "sourceFileName": "i-choose-you-music-collection__224315.json",
+    "revisionTimestamp": "2025-04-03T13:06:13Z",
+    "fetchedAt": "2026-05-14T14:24:39.671Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "----\n \nPokémon the Movie: I Choose You! Music Collection (Japanese: 「劇場版ポケットモンスター　キミにきめた！」ミュージックコレクション) is the Japanese soundtrack for the twentieth movie. It was released in Japan on July 26, 2017.",
+  "plainText": "----\n \nPokémon the Movie: I Choose You! Music Collection (Japanese: 「劇場版ポケットモンスター　キミにきめた！」ミュージックコレクション) is the Japanese soundtrack for the twentieth movie. It was released in Japan on July 26, 2017.\n\n==Tracklist==\n \n\n==Related articles==\n \n \n \n\n \n \n\nit:Kimi ni kimeta! Music Collection\nzh:就決定是你了！ 音樂收藏",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \nPokémon the Movie: I Choose You! Music Collection (Japanese: 「劇場版ポケットモンスター　キミにきめた！」ミュージックコレクション) is the Japanese soundtrack for the twentieth movie. It was released in Japan on July 26, 2017."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Kimi ni kimeta! Music Collection\nzh:就決定是你了！ 音樂收藏"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "I Choose You! Music Collection",
+    "pageType": "movie",
+    "searchableText": "I Choose You! Music Collection\nCategory:Movie soundtracks\n----\n \nPokémon the Movie: I Choose You! Music Collection (Japanese: 「劇場版ポケットモンスター　キミにきめた！」ミュージックコレクション) is the Japanese soundtrack for the twentieth movie. It was released in Japan on July 26, 2017.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 301,
+    "sectionCount": 2
+  }
+}

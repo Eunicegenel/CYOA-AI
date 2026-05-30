@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pokémon RéBURST chapters",
+    "slug": "list-of-pokemon-reburst-chapters",
+    "pageId": 182072,
+    "revisionId": 4131839
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "list-of-pokemon-reburst-chapters__182072.json",
+    "revisionTimestamp": "2024-09-29T04:26:09Z",
+    "fetchedAt": "2026-05-14T15:24:52.815Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The following is a list of chapters from the Pokémon RéBURST illustrated by Mitsuhisa Tamura and written by Jin Kusude.",
+  "plainText": "The following is a list of chapters from the Pokémon RéBURST illustrated by Mitsuhisa Tamura and written by Jin Kusude.\n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n \n\n \n \n\nit:Elenco dei capitoli di Pokémon RéBURST",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of chapters from the Pokémon RéBURST illustrated by Mitsuhisa Tamura and written by Jin Kusude."
+    },
+    {
+      "heading": "",
+      "level": 2,
+      "text": "it:Elenco dei capitoli di Pokémon RéBURST"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon RéBURST chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Pokémon RéBURST chapters\nCategory:Pokémon RéBURST chapters\nThe following is a list of chapters from the Pokémon RéBURST illustrated by Mitsuhisa Tamura and written by Jin Kusude.",
+    "sectionHeadings": [
+      "Lead",
+      ""
+    ],
+    "characterCount": 242,
+    "sectionCount": 2
+  }
+}

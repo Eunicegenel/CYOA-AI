@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CCP39",
+    "slug": "ccp39",
+    "pageId": 175492,
+    "revisionId": 4527162
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp39__175492.json",
+    "revisionTimestamp": "2026-04-09T15:22:15Z",
+    "fetchedAt": "2026-05-14T15:15:31.958Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: サンドパンの恋ちゃも Love (chamo)) is the 39th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: サンドパンの恋ちゃも Love (chamo)) is the 39th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n(debut)\n(debut)\n(debut)\n( )\n( )\n(Chiru-Chiru)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: サンドパンの恋ちゃも Love (chamo)) is the 39th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n(debut)\n(debut)\n(debut)\n( )\n( )\n(Chiru-Chiru)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP39",
+    "pageType": "chapter",
+    "searchableText": "CCP39\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: サンドパンの恋ちゃも Love (chamo)) is the 39th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 294,
+    "sectionCount": 2
+  }
+}

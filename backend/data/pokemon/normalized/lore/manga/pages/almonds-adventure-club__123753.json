@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Almond's Adventure Club",
+    "slug": "almonds-adventure-club",
+    "pageId": 123753,
+    "revisionId": 4168444
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "almonds-adventure-club__123753.json",
+    "revisionTimestamp": "2024-10-26T16:30:46Z",
+    "fetchedAt": "2026-05-14T15:12:32.849Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Almond's Adventure Club is the fifth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the seventh and eighth chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Almond's Adventure Club is the fifth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the seventh and eighth chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n==Blurb==\nPOKéMON ON ICE\n\nMore quirky, hillarious adventures in Magical Pokémon Journey! Almond decides to take the Pokémon on an adventure in an underground cave! Can Clefairy, Jigglypuff, and Pikachu tough it out long enough to get a few XP? \n\nThen, Hazel, Pikachu and their friend go skiing. But are they really wise to enter the territory of the icy Articuno? And, more important, to eat ice cream while it's cold out?\n\n==Publications==\n \n \n\n==Chapters==\nAdventuring the Stone\nThe Legendary Articuno!\n\n==Important events==\nsearches for the Stone of Adventure.\nand search for Hazel, who was lost in the mountains.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Almond's Adventure Club is the fifth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the seventh and eighth chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "POKéMON ON ICE\n\nMore quirky, hillarious adventures in Magical Pokémon Journey! Almond decides to take the Pokémon on an adventure in an underground cave! Can Clefairy, Jigglypuff, and Pikachu tough it out long enough to get a few XP? \n\nThen, Hazel, Pikachu and their friend go skiing. But are they really wise to enter the territory of the icy Articuno? And, more important, to eat ice cream while it's cold out?"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventuring the Stone\nThe Legendary Articuno!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "searches for the Stone of Adventure.\nand search for Hazel, who was lost in the mountains."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Almond's Adventure Club",
+    "pageType": "pokemon-related",
+    "searchableText": "Almond's Adventure Club\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Almond's Adventure Club is the fifth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the seventh and eighth chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 1009,
+    "sectionCount": 4
+  }
+}

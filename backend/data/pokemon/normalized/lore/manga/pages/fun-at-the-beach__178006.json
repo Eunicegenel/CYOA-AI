@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Fun at the Beach",
+    "slug": "fun-at-the-beach",
+    "pageId": 178006,
+    "revisionId": 4168438
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "fun-at-the-beach__178006.json",
+    "revisionTimestamp": "2024-10-26T16:27:47Z",
+    "fetchedAt": "2026-05-14T15:18:59.151Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Fun at the Beach is the fourth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the first three bonus chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Fun at the Beach is the fourth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the first three bonus chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n==Blurb==\nTHE BRINY DEEP\n\n3 stories this issue! Hazel goes to the beach with Almondo, and with the help of a Horsea, learns the wonders of the underwater Pokémon world. \n\nThen, frightening ghost Pokémon await Hazel in the Tunnel of Horrors-but for Hazel, cuteness is in the eye of the beholder!\n\nFinally, Jigglypuff causes trouble at a Pokémon birthday party.\n\n==Publications==\n \n \n\n==Chapters==\nHorsea's Necklace\nWh-Who's Sc-Scared?!\nParty Time!\n\n==Important events==\nHorsea makes his first appearance.\nHazel and Almond take part in Grandpa's \"Test of Courage\".\nThe group celebrates Almond's birthday.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Fun at the Beach is the fourth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the first three bonus chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "THE BRINY DEEP\n\n3 stories this issue! Hazel goes to the beach with Almondo, and with the help of a Horsea, learns the wonders of the underwater Pokémon world. \n\nThen, frightening ghost Pokémon await Hazel in the Tunnel of Horrors-but for Hazel, cuteness is in the eye of the beholder!\n\nFinally, Jigglypuff causes trouble at a Pokémon birthday party."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Horsea's Necklace\nWh-Who's Sc-Scared?!\nParty Time!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Horsea makes his first appearance.\nHazel and Almond take part in Grandpa's \"Test of Courage\".\nThe group celebrates Almond's birthday."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Fun at the Beach",
+    "pageType": "pokemon-related",
+    "searchableText": "Fun at the Beach\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Fun at the Beach is the fourth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the first three bonus chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 987,
+    "sectionCount": 4
+  }
+}

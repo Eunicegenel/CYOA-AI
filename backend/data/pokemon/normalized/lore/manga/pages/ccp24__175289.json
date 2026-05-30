@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "CCP24",
+    "slug": "ccp24",
+    "pageId": 175289,
+    "revisionId": 4528501
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp24__175289.json",
+    "revisionTimestamp": "2026-04-09T16:24:37Z",
+    "fetchedAt": "2026-05-14T15:15:22.560Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 夢見る福引セールちゃも Dream-Seeing Lottery Sale (chamo)) is the 24th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: 夢見る福引セールちゃも Dream-Seeing Lottery Sale (chamo)) is the 24th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nShop clerks\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 夢見る福引セールちゃも Dream-Seeing Lottery Sale (chamo)) is the 24th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shop clerks"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP24",
+    "pageType": "chapter",
+    "searchableText": "CCP24\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: 夢見る福引セールちゃも Dream-Seeing Lottery Sale (chamo)) is the 24th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 258,
+    "sectionCount": 3
+  }
+}

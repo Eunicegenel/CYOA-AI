@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Black and White volume 5 (France)",
+    "slug": "pokemon-black-and-white-volume-5-france",
+    "pageId": 170366,
+    "revisionId": 4527711
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-black-and-white-volume-5-france__170366.json",
+    "revisionTimestamp": "2026-04-09T15:50:41Z",
+    "fetchedAt": "2026-05-14T15:36:03.413Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 5 is the fifth volume published by Kurokawa compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 5 is the fifth volume published by Kurokawa compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n\n==Chapters==\nLe mystère du Galet Noir (« Mystery of the Dark Stone »)\nLa fille de l'air (« The Girl of the Sky »)\nChampions d'Arène à la rescousse (« Gym Leaders to the Rescue »)\nFace au trio des ombres (« Versus the Shadow Triad »)\nGhetis entre en scène (« Ghetsis Enters the Scene »)\nEntraînement glacial (« Glacial Training »)\nEntraînement draconique (« Draconic Training »)\n\n==Major events==\n \n\n==Party changes==\n===Evolutions===\nNite evolves into an in PS496\n\n==Gym battles==\n defeats the following Gym Leaders:\n\nClay in PS493\nSkyla in PS495\n\n \n\n \n\nde:Band 5 (Pokémon Noir et Blanc)\nfr:Tome 5 (Pokémon Noir et Blanc)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 5 is the fifth volume published by Kurokawa compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Le mystère du Galet Noir (« Mystery of the Dark Stone »)\nLa fille de l'air (« The Girl of the Sky »)\nChampions d'Arène à la rescousse (« Gym Leaders to the Rescue »)\nFace au trio des ombres (« Versus the Shadow Triad »)\nGhetis entre en scène (« Ghetsis Enters the Scene »)\nEntraînement glacial (« Glacial Training »)\nEntraînement draconique (« Draconic Training »)"
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "Nite evolves into an in PS496"
+    },
+    {
+      "heading": "Gym battles",
+      "level": 2,
+      "text": "defeats the following Gym Leaders:\n\nClay in PS493\nSkyla in PS495\n\n \n\n \n\nde:Band 5 (Pokémon Noir et Blanc)\nfr:Tome 5 (Pokémon Noir et Blanc)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Black and White volume 5 (France)",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Black and White volume 5 (France)\nCategory:Pokémon Adventures volumes\nVolume 5 is the fifth volume published by Kurokawa compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Evolutions",
+      "Gym battles"
+    ],
+    "characterCount": 1040,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Caster",
+    "slug": "caster",
+    "pageId": 239716,
+    "revisionId": 4365303
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "caster__239716.json",
+    "revisionTimestamp": "2025-08-25T01:43:57Z",
+    "fetchedAt": "2026-05-14T14:08:49.348Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Caster (Japanese: ジーキョー Jīkyō) is a recurring character in Pokémon the Series: Sun & Moon. He is the announcer for the Manalo Conference.",
+  "plainText": "Caster (Japanese: ジーキョー Jīkyō) is a recurring character in Pokémon the Series: Sun & Moon. He is the announcer for the Manalo Conference.\n\n==History==\nCaster first appeared in Battle Royal 151!. During the Battle Royal preliminary round, he explained the rules of the Alola League to the audience and commented on what was happening on the battlefield. He continued to do so from Battling Besties! to Enter the Champion!, commenting on the s and giving the audience information about the competitors and their Pokémon.\n\nFrom Exhibition Unmasked! to From Z to Shining Z!, Caster provided the battle commentary for the between Manalo Conference winner and .\n\n==Voice actors==\n \n\n==Names==\n \n \n\n \n \n \n\nes:Caster\nit:Guido (Alola)\nzh:時曠",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Caster (Japanese: ジーキョー Jīkyō) is a recurring character in Pokémon the Series: Sun & Moon. He is the announcer for the Manalo Conference."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Caster first appeared in Battle Royal 151!. During the Battle Royal preliminary round, he explained the rules of the Alola League to the audience and commented on what was happening on the battlefield. He continued to do so from Battling Besties! to Enter the Champion!, commenting on the s and giving the audience information about the competitors and their Pokémon.\n\nFrom Exhibition Unmasked! to From Z to Shining Z!, Caster provided the battle commentary for the between Manalo Conference winner and ."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Caster\nit:Guido (Alola)\nzh:時曠"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Caster",
+    "pageType": "character",
+    "searchableText": "Caster\nCategory:Animation characters\nCaster (Japanese: ジーキョー Jīkyō) is a recurring character in Pokémon the Series: Sun & Moon. He is the announcer for the Manalo Conference.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Names"
+    ],
+    "characterCount": 731,
+    "sectionCount": 3
+  }
+}

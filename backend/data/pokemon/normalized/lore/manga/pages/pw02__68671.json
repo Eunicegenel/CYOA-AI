@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PW02",
+    "slug": "pw02",
+    "pageId": 68671,
+    "revisionId": 3778121
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw02__68671.json",
+    "revisionTimestamp": "2023-08-22T04:36:38Z",
+    "fetchedAt": "2026-05-14T15:46:29.129Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Team Rocket and Dark Charmeleon (Japanese: ロケット団とわるいリザード and ) is the second chapter of the How I Became a Pokémon Card manga.",
+  "plainText": "Team Rocket and Dark Charmeleon (Japanese: ロケット団とわるいリザード and ) is the second chapter of the How I Became a Pokémon Card manga.\n\n \n\n==Plot==\n \nHitoshi tries to do evil deeds to join Team Rocket, but they keep ending up as good deeds and go to the Olivine City HQ to observe.\n\n==Major events==\nHitoshi's evolves into .\n\n==Characters==\n===Humans===\nHitoshi\nMasaru\ns\ns\n\n===Pokémon===\n(Hitoshi's; evolved)\n(Hitoshi's; evolves)\n(Masaru's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's; ×2; fantasy)\n(multiple)\n\n \n \n\nit:PW02",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Team Rocket and Dark Charmeleon (Japanese: ロケット団とわるいリザード and ) is the second chapter of the How I Became a Pokémon Card manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Hitoshi tries to do evil deeds to join Team Rocket, but they keep ending up as good deeds and go to the Olivine City HQ to observe."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hitoshi's evolves into ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hitoshi\nMasaru\ns\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hitoshi's; evolved)\n(Hitoshi's; evolves)\n(Masaru's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's; ×2; fantasy)\n(multiple)\n\n \n \n\nit:PW02"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW02",
+    "pageType": "chapter",
+    "searchableText": "PW02\nCategory:How I Became a Pokémon Card chapters\nTeam Rocket and Dark Charmeleon (Japanese: ロケット団とわるいリザード and ) is the second chapter of the How I Became a Pokémon Card manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 566,
+    "sectionCount": 5
+  }
+}

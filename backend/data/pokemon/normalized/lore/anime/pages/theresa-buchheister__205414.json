@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Theresa Buchheister",
+    "slug": "theresa-buchheister",
+    "pageId": 205414,
+    "revisionId": 4191178
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "theresa-buchheister__205414.json",
+    "revisionTimestamp": "2024-11-24T01:54:01Z",
+    "fetchedAt": "2026-05-14T14:54:19.664Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Theresa Buchheister is a non-binary voice actor and former voice director for the English-language dub of by DuArt Film & Video. They joined the series in 2015, succeeding the previous voice director, Tom Wayland. They left DuArt in January 2016, and was succeeded as voice director by Lisa Ortiz.",
+  "plainText": "Theresa Buchheister is a non-binary voice actor and former voice director for the English-language dub of by DuArt Film & Video. They joined the series in 2015, succeeding the previous voice director, Tom Wayland. They left DuArt in January 2016, and was succeeded as voice director by Lisa Ortiz.\n\n==Pokémon roles==\n===Animation===\n==== ====\nAliana\n\n==External links==\n \nLinkedIn profile\nInterview with Theresa Buchheister\n\n \n\n \n\n \n \n \n\nit:Theresa Buchheister",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Theresa Buchheister is a non-binary voice actor and former voice director for the English-language dub of by DuArt Film & Video. They joined the series in 2015, succeeding the previous voice director, Tom Wayland. They left DuArt in January 2016, and was succeeded as voice director by Lisa Ortiz."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Aliana"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "LinkedIn profile\nInterview with Theresa Buchheister\n\n \n\n \n\n \n \n \n\nit:Theresa Buchheister"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Theresa Buchheister",
+    "pageType": "general-anime-lore",
+    "searchableText": "Theresa Buchheister\nCategory:TPCi voice actors\nTheresa Buchheister is a non-binary voice actor and former voice director for the English-language dub of by DuArt Film & Video. They joined the series in 2015, succeeding the previous voice director, Tom Wayland. They left DuArt in January 2016, and was succeeded as voice director by Lisa Ortiz.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "External links"
+    ],
+    "characterCount": 460,
+    "sectionCount": 3
+  }
+}

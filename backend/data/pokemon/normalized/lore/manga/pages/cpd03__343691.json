@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "CPD03",
+    "slug": "cpd03",
+    "pageId": 343691,
+    "revisionId": 4398711
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Countdown Pokémon Day chapters",
+    "sourceFileName": "cpd03__343691.json",
+    "revisionTimestamp": "2025-10-12T20:47:47Z",
+    "fetchedAt": "2026-05-14T15:16:18.886Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the third chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 22, 2025 at 8:00 PM JST. It is 16 pages long.",
+  "plainText": "This is the third chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 22, 2025 at 8:00 PM JST. It is 16 pages long.\n\n==Plot==\n \n \n \n\n==Major events==\n \n===Debuts===\n====Pokémon debuts====\n\n( )\n\n==Characters==\n===Humans===\n\nChildren\nTeacher\nCaller (voice)\n\n===Pokémon===\n(Yūsuke's)\n(Daichi's)\n(Tokio's)\n(Yadoyan; Umina's)\n(Run-chan; Yuki's)\n\n( )\n(illustration)\n(illustration)\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the third chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 22, 2025 at 8:00 PM JST. It is 16 pages long."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Children\nTeacher\nCaller (voice)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Yūsuke's)\n(Daichi's)\n(Tokio's)\n(Yadoyan; Umina's)\n(Run-chan; Yuki's)\n\n( )\n(illustration)\n(illustration)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CPD03",
+    "pageType": "chapter",
+    "searchableText": "CPD03\nCategory:Countdown Pokémon Day chapters\nThis is the third chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 22, 2025 at 8:00 PM JST. It is 16 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 431,
+    "sectionCount": 4
+  }
+}

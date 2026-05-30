@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM055",
+    "slug": "pm055",
+    "pageId": 160318,
+    "revisionId": 4527124
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm055__160318.json",
+    "revisionTimestamp": "2026-04-09T15:21:03Z",
+    "fetchedAt": "2026-05-14T15:31:04.299Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Pokémon Banana League (Part 2) (Japanese: ポケモンバナナリーグ（後編） The Pokémon Banana League (Part 2)) is the fifty-fifth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Pokémon Banana League (Part 2) (Japanese: ポケモンバナナリーグ（後編） The Pokémon Banana League (Part 2)) is the fifty-fifth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\nMisty\n\n===Pokémon===\n( ) \n( )\n( 's)\n( 's)\n( 's)\n( )\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n(Blaine's)\n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 55 (Pokémon Pocket Monsters)\nit:PMM055",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Pokémon Banana League (Part 2) (Japanese: ポケモンバナナリーグ（後編） The Pokémon Banana League (Part 2)) is the fifty-fifth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Misty"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( 's)\n( 's)\n( 's)\n( )\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n(Blaine's)\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 55 (Pokémon Pocket Monsters)\nit:PMM055"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM055",
+    "pageType": "chapter",
+    "searchableText": "PM055\nCategory:Pokémon Pocket Monsters chapters\nThe Pokémon Banana League (Part 2) (Japanese: ポケモンバナナリーグ（後編） The Pokémon Banana League (Part 2)) is the fifty-fifth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 444,
+    "sectionCount": 5
+  }
+}

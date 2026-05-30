@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Darley",
+    "slug": "darley",
+    "pageId": 237132,
+    "revisionId": 4094912
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Alola characters of the day",
+    "sourceFileName": "darley__237132.json",
+    "revisionTimestamp": "2024-09-01T00:08:21Z",
+    "fetchedAt": "2026-05-14T14:11:13.540Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Darley (Japanese: ガンモ Ganmo) is a character of the day who appeared in Aiming for the Top Floor!. He is one of the ninjas in the Kantonian Gym, and is in charge of its second floor.\n\nDarley presented and with a banquet of food, which they proceeded to enjoy. After they finished it, Darley declared that they had all completed his task. was surprised that all they had to do was eat, but he explained the task was for participants to truly appreciate all that Malie City has to offer.",
+  "plainText": "Darley (Japanese: ガンモ Ganmo) is a character of the day who appeared in Aiming for the Top Floor!. He is one of the ninjas in the Kantonian Gym, and is in charge of its second floor.\n\nDarley presented and with a banquet of food, which they proceeded to enjoy. After they finished it, Darley declared that they had all completed his task. was surprised that all they had to do was eat, but he explained the task was for participants to truly appreciate all that Malie City has to offer.\n\n==Voice actors==\n \n\n==Trivia==\nIn the original version, Darley, like his fellow ninjas at the Kantonian Gym, usually ends his sentences with a particular phrase or word—in his case, \"de gozaru\" or simply \"gozaru\".\n\n==Names==\n \n \n \n\n \n \n \n \n\nes:Darley\nit:Mobi",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Darley (Japanese: ガンモ Ganmo) is a character of the day who appeared in Aiming for the Top Floor!. He is one of the ninjas in the Kantonian Gym, and is in charge of its second floor.\n\nDarley presented and with a banquet of food, which they proceeded to enjoy. After they finished it, Darley declared that they had all completed his task. was surprised that all they had to do was eat, but he explained the task was for participants to truly appreciate all that Malie City has to offer."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the original version, Darley, like his fellow ninjas at the Kantonian Gym, usually ends his sentences with a particular phrase or word—in his case, \"de gozaru\" or simply \"gozaru\"."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Darley\nit:Mobi"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Darley",
+    "pageType": "character",
+    "searchableText": "Darley\nCategory:Alola characters of the day\nDarley (Japanese: ガンモ Ganmo) is a character of the day who appeared in Aiming for the Top Floor!. He is one of the ninjas in the Kantonian Gym, and is in charge of its second floor.\n\nDarley presented and with a banquet of food, which they proceeded to enjoy. After they finished it, Darley declared that they had all completed his task. was surprised that all they had to do was eat, but he explained the task was for participants to truly appreciate all that Malie City has to offer.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 744,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM050",
+    "slug": "pm050",
+    "pageId": 160477,
+    "revisionId": 4528663
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm050__160477.json",
+    "revisionTimestamp": "2026-04-09T16:33:17Z",
+    "fetchedAt": "2026-05-14T15:31:01.182Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Team Rocket's Downfall!! (Japanese: ロケット団を成敗だ！！ 's Downfall!!) is the fiftieth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Team Rocket's Downfall!! (Japanese: ロケット団を成敗だ！！ 's Downfall!!) is the fiftieth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n( 's)\n\n==Trivia==\n\n}}\n \n \n\nde:Kapitel 50 (Pokémon Pocket Monsters)\nit:PMM050",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Team Rocket's Downfall!! (Japanese: ロケット団を成敗だ！！ 's Downfall!!) is the fiftieth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "}}\n \n \n\nde:Kapitel 50 (Pokémon Pocket Monsters)\nit:PMM050"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM050",
+    "pageType": "chapter",
+    "searchableText": "PM050\nCategory:Pokémon Pocket Monsters chapters\nTeam Rocket's Downfall!! (Japanese: ロケット団を成敗だ！！ 's Downfall!!) is the fiftieth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 330,
+    "sectionCount": 3
+  }
+}

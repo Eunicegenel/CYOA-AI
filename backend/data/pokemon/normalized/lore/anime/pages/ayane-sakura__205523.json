@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Ayane Sakura",
+    "slug": "ayane-sakura",
+    "pageId": 205523,
+    "revisionId": 4486248
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "ayane-sakura__205523.json",
+    "revisionTimestamp": "2026-02-13T12:51:07Z",
+    "fetchedAt": "2026-05-14T14:04:24.920Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Ayane Sakura (Japanese: 佐倉 綾音 Sakura Ayane) is a Japanese voice actress for and .",
+  "plainText": "Ayane Sakura (Japanese: 佐倉 綾音 Sakura Ayane) is a Japanese voice actress for and .\n\n==Biography==\nSakura was born on January 29, 1994, in , , , , and became an actress as an adult. She gained several small roles in before gaining her most notable role during voicing Orla of the Rising Volt Tacklers.\n\n==Pokémon roles==\n===Animation===\n==== ====\nMeray (child)\nNeesha (M22)\n\n==== ====\n=====Humans=====\nOrla\nRob\n\n=====Pokémon=====\nLiko's Charcadet and Armarouge\nRoy's Wattrel\nLucius's Arboliva\nAnn's Oshawott and Dewott\n\nUlt's Sableye\n\n====Pokémon Evolutions====\nZinnia\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\n===In anime===\nOchaco Uraraka ( )\nFutaba Shirayuki ( )\nNatchi ( )\nHijiri Kuina ( )\nRinne ( )\nYuzuki Kurebayashi ( )\nKodachi Kuno ( )\nAira Shiratori ( )\nKō Yaten/Sailor Star Healer ( )\n( )\nToyah Mashima ( )\n\n===Dubbing===\n( )\nLylla ( )\nMs. Chalice ( )\n\n==External links==\nAgency profile\nAnime News Network\n\n \n\n \n\nes:Ayane Sakura\nit:Ayane Sakura\nja:佐倉綾音\nzh:佐仓绫音",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ayane Sakura (Japanese: 佐倉 綾音 Sakura Ayane) is a Japanese voice actress for and ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Sakura was born on January 29, 1994, in , , , , and became an actress as an adult. She gained several small roles in before gaining her most notable role during voicing Orla of the Rising Volt Tacklers."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Meray (child)\nNeesha (M22)"
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Orla\nRob"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "Liko's Charcadet and Armarouge\nRoy's Wattrel\nLucius's Arboliva\nAnn's Oshawott and Dewott\n\nUlt's Sableye"
+    },
+    {
+      "heading": "Pokémon Evolutions",
+      "level": 4,
+      "text": "Zinnia"
+    },
+    {
+      "heading": "In anime",
+      "level": 3,
+      "text": "Ochaco Uraraka ( )\nFutaba Shirayuki ( )\nNatchi ( )\nHijiri Kuina ( )\nRinne ( )\nYuzuki Kurebayashi ( )\nKodachi Kuno ( )\nAira Shiratori ( )\nKō Yaten/Sailor Star Healer ( )\n( )\nToyah Mashima ( )"
+    },
+    {
+      "heading": "Dubbing",
+      "level": 3,
+      "text": "( )\nLylla ( )\nMs. Chalice ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Agency profile\nAnime News Network\n\n \n\n \n\nes:Ayane Sakura\nit:Ayane Sakura\nja:佐倉綾音\nzh:佐仓绫音"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ayane Sakura",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ayane Sakura\nCategory:Japanese voice actors\nAyane Sakura (Japanese: 佐倉 綾音 Sakura Ayane) is a Japanese voice actress for and .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Humans",
+      "Pokémon",
+      "Pokémon Evolutions",
+      "In anime",
+      "Dubbing",
+      "External links"
+    ],
+    "characterCount": 1001,
+    "sectionCount": 9
+  }
+}

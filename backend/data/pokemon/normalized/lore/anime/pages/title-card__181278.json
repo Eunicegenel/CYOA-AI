@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Title card",
+    "slug": "title-card",
+    "pageId": 181278,
+    "revisionId": 4545751
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series segments",
+    "sourceFileName": "title-card__181278.json",
+    "revisionTimestamp": "2026-05-06T16:49:27Z",
+    "fetchedAt": "2026-05-14T14:54:39.372Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "A title card is shown near the beginning of every episode of the . This page contains a list of different title card designs used in different series.",
+  "plainText": "A title card is shown near the beginning of every episode of the . This page contains a list of different title card designs used in different series.\n\n==List of title cards==\n===Animated series===\n====Standard title cards====\n \n\n====Special title cards====\nSome episodes use a specially stylized title card to better match the theme of the episode.\n \n\n===Movies===\n \n \n\n==Related articles==\nEyecatch\nBonus segment\nTitle card images on the Bulbagarden Archives\n\n \n \n \n\nit:Intertitoli",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A title card is shown near the beginning of every episode of the . This page contains a list of different title card designs used in different series."
+    },
+    {
+      "heading": "Special title cards",
+      "level": 4,
+      "text": "Some episodes use a specially stylized title card to better match the theme of the episode."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Eyecatch\nBonus segment\nTitle card images on the Bulbagarden Archives\n\n \n \n \n\nit:Intertitoli"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Title card",
+    "pageType": "general-anime-lore",
+    "searchableText": "Title card\nCategory:Animated series segments\nA title card is shown near the beginning of every episode of the . This page contains a list of different title card designs used in different series.",
+    "sectionHeadings": [
+      "Lead",
+      "Special title cards",
+      "Related articles"
+    ],
+    "characterCount": 483,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Farley",
+    "slug": "farley",
+    "pageId": 237131,
+    "revisionId": 4095972
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Alola characters of the day",
+    "sourceFileName": "farley__237131.json",
+    "revisionTimestamp": "2024-09-01T00:46:47Z",
+    "fetchedAt": "2026-05-14T14:18:53.363Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Farley (Japanese: ハンペン Hanpen) is a character of the day who appeared in Aiming for the Top Floor!. He is one of the ninjas in the Kantonian Gym, and is in charge of its first floor.\n\nFarley gave and the seemingly impossible task of literally crossing the surface of a body of water. and Sandy misinterpreted his directions and swam across, forcing him to clarify. He then presented them with a box of useful tools and revealed that they could use their Pokémon to assist them with the task. With these conditions in mind, ordered Snowy to freeze the pond with a , allowing her and her friends to cross with ease. Farley was impressed and allowed everyone to advance through to the second floor.",
+  "plainText": "Farley (Japanese: ハンペン Hanpen) is a character of the day who appeared in Aiming for the Top Floor!. He is one of the ninjas in the Kantonian Gym, and is in charge of its first floor.\n\nFarley gave and the seemingly impossible task of literally crossing the surface of a body of water. and Sandy misinterpreted his directions and swam across, forcing him to clarify. He then presented them with a box of useful tools and revealed that they could use their Pokémon to assist them with the task. With these conditions in mind, ordered Snowy to freeze the pond with a , allowing her and her friends to cross with ease. Farley was impressed and allowed everyone to advance through to the second floor.\n\n==Voice actors==\n \n\n==Trivia==\nIn the original version, Farley, like his fellow ninjas at the Kantonian Gym, usually ends his sentences with a particular phrase or word—in his case, \"de aru\".\n\n==Names==\n \n \n \n\n \n \n \n \n\nes:Farley\nit:Robi",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Farley (Japanese: ハンペン Hanpen) is a character of the day who appeared in Aiming for the Top Floor!. He is one of the ninjas in the Kantonian Gym, and is in charge of its first floor.\n\nFarley gave and the seemingly impossible task of literally crossing the surface of a body of water. and Sandy misinterpreted his directions and swam across, forcing him to clarify. He then presented them with a box of useful tools and revealed that they could use their Pokémon to assist them with the task. With these conditions in mind, ordered Snowy to freeze the pond with a , allowing her and her friends to cross with ease. Farley was impressed and allowed everyone to advance through to the second floor."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the original version, Farley, like his fellow ninjas at the Kantonian Gym, usually ends his sentences with a particular phrase or word—in his case, \"de aru\"."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Farley\nit:Robi"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Farley",
+    "pageType": "character",
+    "searchableText": "Farley\nCategory:Alola characters of the day\nFarley (Japanese: ハンペン Hanpen) is a character of the day who appeared in Aiming for the Top Floor!. He is one of the ninjas in the Kantonian Gym, and is in charge of its first floor.\n\nFarley gave and the seemingly impossible task of literally crossing the surface of a body of water. and Sandy misinterpreted his directions and swam across, forcing him to clarify. He then presented them with a box of useful tools and revealed that they could use their Pokémon to assist them with the task. With these conditions in mind, ordered Snowy to freeze the pond with a , allowing her and her friends to cross with ease. Farley was impressed and allowed everyone to advance through to the second floor.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 933,
+    "sectionCount": 3
+  }
+}

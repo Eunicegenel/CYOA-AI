@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Maria (Sinnoh)",
+    "slug": "maria-sinnoh",
+    "pageId": 76974,
+    "revisionId": 4541517
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "maria-sinnoh__76974.json",
+    "revisionTimestamp": "2026-04-30T12:41:32Z",
+    "fetchedAt": "2026-05-14T14:34:54.656Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Maria (Japanese: ミコト Mikoto), or Temple Maiden Maria, is a recurring character from . She is the guardian of the Snowpoint Temple.",
+  "plainText": "Maria (Japanese: ミコト Mikoto), or Temple Maiden Maria, is a recurring character from . She is the guardian of the Snowpoint Temple.\n\n==History==\n=== ===\nShe first appeared in A Pyramiding Rage! where she welcomed right after his arrival. She and Samuel left to investigate the Snowpoint Temple and then later warns Brandon that Pokémon Hunter J has attacked the Temple. Maria and Brandon asked her not to disturb , which resides in the Temple, but J ignored their warnings, causing damage to the Temple. Afterward, when J had retreated and Regigigas had gone back to sleep, Maria prepared to rebuild the temple back to its former glory.\n\n==Pokémon==\n===Befriended===\n \n\n==Voice actors==\n \n\n==Trivia==\nHer Japanese name is derived from 巫女 miko, meaning \"shrine maiden\", a woman who tends to a shrine.\nHer English name seems to be derived from Maria, a nun from .\nShe is a reference to the woman that guards the Snowpoint Temple in Snowpoint City in the games.\nHer appearance is similar to popular depictions of priests and priestesses.\n\n \n\n \n \n\nes:María\nfr:Maria (Sinnoh)\nit:Maria",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Maria (Japanese: ミコト Mikoto), or Temple Maiden Maria, is a recurring character from . She is the guardian of the Snowpoint Temple."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "She first appeared in A Pyramiding Rage! where she welcomed right after his arrival. She and Samuel left to investigate the Snowpoint Temple and then later warns Brandon that Pokémon Hunter J has attacked the Temple. Maria and Brandon asked her not to disturb , which resides in the Temple, but J ignored their warnings, causing damage to the Temple. Afterward, when J had retreated and Regigigas had gone back to sleep, Maria prepared to rebuild the temple back to its former glory."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Her Japanese name is derived from 巫女 miko, meaning \"shrine maiden\", a woman who tends to a shrine.\nHer English name seems to be derived from Maria, a nun from .\nShe is a reference to the woman that guards the Snowpoint Temple in Snowpoint City in the games.\nHer appearance is similar to popular depictions of priests and priestesses.\n\n \n\n \n \n\nes:María\nfr:Maria (Sinnoh)\nit:Maria"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Maria (Sinnoh)",
+    "pageType": "character",
+    "searchableText": "Maria (Sinnoh)\nCategory:Animation characters\nMaria (Japanese: ミコト Mikoto), or Temple Maiden Maria, is a recurring character from . She is the guardian of the Snowpoint Temple.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Trivia"
+    ],
+    "characterCount": 1078,
+    "sectionCount": 3
+  }
+}

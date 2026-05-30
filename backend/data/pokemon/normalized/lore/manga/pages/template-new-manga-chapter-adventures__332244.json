@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Template:New manga chapter/Adventures",
+    "slug": "template-new-manga-chapter-adventures",
+    "pageId": 332244,
+    "revisionId": 4283373
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "template-new-manga-chapter-adventures__332244.json",
+    "revisionTimestamp": "2025-04-18T12:25:07Z",
+    "fetchedAt": "2026-05-14T15:51:25.980Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "{{MangaPrevNext/Adventures\n\n \n\n \n\n{{ChapInfobox\n\n \n \n \n \n \n \n\n}}\n\n(Japanese: { } { }) is the {{ subst: #switch: {{ subst: #expr:{ }}}|1=first|2=second|3=third|4=fourth|5=fifth|6=sixth|7=seventh|8=eighth|9=ninth|{{ subst: #expr:{ }}}{{ subst: #switch: {{ subst: #expr: { } mod 100}}|1|21|31|41|51|61|71|81|91=st|2|22|32|42|52|62|72|82|92=nd|3|23|33|43|53|63|73|83|93=rd|th}}}} chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: { } { }).",
+  "plainText": "{{MangaPrevNext/Adventures\n\n \n\n \n\n{{ChapInfobox\n\n \n \n \n \n \n \n\n}}\n\n(Japanese: { } { }) is the {{ subst: #switch: {{ subst: #expr:{ }}}|1=first|2=second|3=third|4=fourth|5=fifth|6=sixth|7=seventh|8=eighth|9=ninth|{{ subst: #expr:{ }}}{{ subst: #switch: {{ subst: #expr: { } mod 100}}|1|21|31|41|51|61|71|81|91=st|2|22|32|42|52|62|72|82|92=nd|3|23|33|43|53|63|73|83|93=rd|th}}}} chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: { } { }).\n\n==Plot==\n \n \n\n==Major events==\n \n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n{{MangaPrevNext/Adventures\n\n \n\n \n\n \n \n\n 2|0}}\nfr:Chapitre { } (Pocket Monsters Special Écarlate et Violet)\nzh:宝可梦特别篇 朱·紫篇 第{ }话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "{{MangaPrevNext/Adventures\n\n \n\n \n\n{{ChapInfobox\n\n \n \n \n \n \n \n\n}}\n\n(Japanese: { } { }) is the {{ subst: #switch: {{ subst: #expr:{ }}}|1=first|2=second|3=third|4=fourth|5=fifth|6=sixth|7=seventh|8=eighth|9=ninth|{{ subst: #expr:{ }}}{{ subst: #switch: {{ subst: #expr: { } mod 100}}|1|21|31|41|51|61|71|81|91=st|2|22|32|42|52|62|72|82|92=nd|3|23|33|43|53|63|73|83|93=rd|th}}}} chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: { } { })."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "{{MangaPrevNext/Adventures\n\n \n\n \n\n \n \n\n 2|0}}\nfr:Chapitre { } (Pocket Monsters Special Écarlate et Violet)\nzh:宝可梦特别篇 朱·紫篇 第{ }话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Template:New manga chapter/Adventures",
+    "pageType": "chapter",
+    "searchableText": "Template:New manga chapter/Adventures\nCategory:Pokémon Adventures chapters\n{{MangaPrevNext/Adventures\n\n \n\n \n\n{{ChapInfobox\n\n \n \n \n \n \n \n\n}}\n\n(Japanese: { } { }) is the {{ subst: #switch: {{ subst: #expr:{ }}}|1=first|2=second|3=third|4=fourth|5=fifth|6=sixth|7=seventh|8=eighth|9=ninth|{{ subst: #expr:{ }}}{{ subst: #switch: {{ subst: #expr: { } mod 100}}|1|21|31|41|51|61|71|81|91=st|2|22|32|42|52|62|72|82|92=nd|3|23|33|43|53|63|73|83|93=rd|th}}}} chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: { } { }).",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 844,
+    "sectionCount": 2
+  }
+}

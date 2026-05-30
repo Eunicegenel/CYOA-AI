@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CCP07",
+    "slug": "ccp07",
+    "pageId": 6665,
+    "revisionId": 4175840
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp07__6665.json",
+    "revisionTimestamp": "2024-11-05T02:44:34Z",
+    "fetchedAt": "2026-05-14T15:15:11.849Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: きもだめしちゃも~ Test of Courage (chamo~)) is the seventh chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: きもだめしちゃも~ Test of Courage (chamo~)) is the seventh chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( ) (fantasy)\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n(multiple)\n\n(×2)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: きもだめしちゃも~ Test of Courage (chamo~)) is the seventh chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( ) (fantasy)\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n(multiple)\n\n(×2)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP07",
+    "pageType": "chapter",
+    "searchableText": "CCP07\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: きもだめしちゃも~ Test of Courage (chamo~)) is the seventh chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 305,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMBW43",
+    "slug": "pmbw43",
+    "pageId": 182840,
+    "revisionId": 4528489
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw43__182840.json",
+    "revisionTimestamp": "2026-04-09T16:23:53Z",
+    "fetchedAt": "2026-05-14T15:32:10.462Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピ、天才になる Becomes a Genius) This is the forty-third chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ピッピ、天才になる Becomes a Genius) This is the forty-third chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Juniper\n\n===Pokémon===\n( )\n( )\n( )\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピ、天才になる Becomes a Genius) This is the forty-third chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Juniper"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW43",
+    "pageType": "chapter",
+    "searchableText": "PMBW43\nCategory:Pocket Monsters BW chapters\n(Japanese: ピッピ、天才になる Becomes a Genius) This is the forty-third chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 263,
+    "sectionCount": 3
+  }
+}

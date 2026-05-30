@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Mako Hyōdō",
+    "slug": "mako-hyodo",
+    "pageId": 24009,
+    "revisionId": 4323494
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "mako-hyodo__24009.json",
+    "revisionTimestamp": "2025-06-24T03:31:14Z",
+    "fetchedAt": "2026-05-14T14:34:27.606Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Mako Hyōdō (Japanese: 兵藤まこ Hyōdō Mako) is a Japanese voice actress for .",
+  "plainText": "Mako Hyōdō (Japanese: 兵藤まこ Hyōdō Mako) is a Japanese voice actress for .\n\n==Biography==\nHyōdō was born on September 7, 1962 in , , and became a voice actress as an adult. Hyōdō provided voices for the since the , starting from a few characters of the day, but her most prominent roles are those of James's and Brock's mothers. She is currently affiliated with the talent agency .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nLola\nMelanie\nJames's mother\nDr. Anna\nMadison\n\n=====Pokémon=====\n\nNurse Joy's Blissey (EP129)\n\n==Other non-Pokémon roles==\nSharon Apple ( )\nQuanzitta Marison ( )\nAyaka Tateyama ( )\nHamushi ( )\nHelena Bähbem ( )\nKōmi Natsuki ( )\nColonel Felme ( )\n\n==External links==\n81 Produce profile\n \n\n \n\nit:Mako Hyōdō\nja:兵藤まこ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mako Hyōdō (Japanese: 兵藤まこ Hyōdō Mako) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hyōdō was born on September 7, 1962 in , , and became a voice actress as an adult. Hyōdō provided voices for the since the , starting from a few characters of the day, but her most prominent roles are those of James's and Brock's mothers. She is currently affiliated with the talent agency ."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Lola\nMelanie\nJames's mother\nDr. Anna\nMadison"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "Nurse Joy's Blissey (EP129)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Sharon Apple ( )\nQuanzitta Marison ( )\nAyaka Tateyama ( )\nHamushi ( )\nHelena Bähbem ( )\nKōmi Natsuki ( )\nColonel Felme ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "81 Produce profile\n \n\n \n\nit:Mako Hyōdō\nja:兵藤まこ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mako Hyōdō",
+    "pageType": "general-anime-lore",
+    "searchableText": "Mako Hyōdō\nCategory:Japanese voice actors\nMako Hyōdō (Japanese: 兵藤まこ Hyōdō Mako) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 753,
+    "sectionCount": 6
+  }
+}

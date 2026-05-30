@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Carol",
+    "slug": "carol",
+    "pageId": 21849,
+    "revisionId": 4487284
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "carol__21849.json",
+    "revisionTimestamp": "2026-02-16T01:47:12Z",
+    "fetchedAt": "2026-05-14T14:08:38.594Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Carol (Japanese: ヨーデル Yodel) is a supporting character who appeared in The Power of One. She is 's older sister and the head of the Legend Festival celebrations on Shamouti Island.",
+  "plainText": "Carol (Japanese: ヨーデル Yodel) is a supporting character who appeared in The Power of One. She is 's older sister and the head of the Legend Festival celebrations on Shamouti Island.\n\n==History==\nCarol greeted and as they arrived on Shamouti Island's shores. She also greeted one of her best friends, Maren, who had been gone for five years.\n\nIt was revealed that Carol was the Festival Maiden, who led the Legend Festival about the and . However, she recently became too old for the role, and Melody had to reluctantly take over. During the night's festivities, Carol sat with Maren and island elder as they enjoyed Melody's musical performance.\n\nAfter Ash and Maren left to retrieve the three elemental orbs from their respective islands, she listened to Melody's concerns about the strong storm and allowed her to follow the pair out on a boat. Carol remained on Shamouti Island and tuned into the breaking weather reports on the television. She grew concerned as the reports showed strong currents and other weather anomalies.\n\nWhen the crisis was averted by Ash and Lugia, Carol was among those stunned to see the weather suddenly back to normal. She was last seen during the ending credits, waving goodbye to Maren as she left the island with Ash and his friends.\n\nCarol briefly reappeared in a montage in The Rise of Darkrai, which chronicled the preceding nine s.\n\n==Voice actors==\n \n\n==Trivia==\nCarol's English name and Japanese name both refer to a type of singing: and .\n\n==Names==\n \n \n\n==Related articles==\n\n \n \n\n \n \n\nde:Carol\nes:Carol\nfr:Carole (film 2)\nit:Carol\nzh:小优（电影系列第2作）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Carol (Japanese: ヨーデル Yodel) is a supporting character who appeared in The Power of One. She is 's older sister and the head of the Legend Festival celebrations on Shamouti Island."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Carol greeted and as they arrived on Shamouti Island's shores. She also greeted one of her best friends, Maren, who had been gone for five years.\n\nIt was revealed that Carol was the Festival Maiden, who led the Legend Festival about the and . However, she recently became too old for the role, and Melody had to reluctantly take over. During the night's festivities, Carol sat with Maren and island elder as they enjoyed Melody's musical performance.\n\nAfter Ash and Maren left to retrieve the three elemental orbs from their respective islands, she listened to Melody's concerns about the strong storm and allowed her to follow the pair out on a boat. Carol remained on Shamouti Island and tuned into the breaking weather reports on the television. She grew concerned as the reports showed strong currents and other weather anomalies.\n\nWhen the crisis was averted by Ash and Lugia, Carol was among those stunned to see the weather suddenly back to normal. She was last seen during the ending credits, waving goodbye to Maren as she left the island with Ash and his friends.\n\nCarol briefly reappeared in a montage in The Rise of Darkrai, which chronicled the preceding nine s."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Carol's English name and Japanese name both refer to a type of singing: and ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Carol\nes:Carol\nfr:Carole (film 2)\nit:Carol\nzh:小优（电影系列第2作）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Carol",
+    "pageType": "movie",
+    "searchableText": "Carol\nCategory:Movie characters\nCarol (Japanese: ヨーデル Yodel) is a supporting character who appeared in The Power of One. She is 's older sister and the head of the Legend Festival celebrations on Shamouti Island.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1588,
+    "sectionCount": 4
+  }
+}

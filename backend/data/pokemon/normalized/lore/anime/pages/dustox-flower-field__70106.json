@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Dustox Flower Field",
+    "slug": "dustox-flower-field",
+    "pageId": 70106,
+    "revisionId": 4519995
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "dustox-flower-field__70106.json",
+    "revisionTimestamp": "2026-03-30T17:40:20Z",
+    "fetchedAt": "2026-05-14T14:14:50.741Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Dustox Flower Field is a field where gather to breed. It was only mentioned in Crossing Paths and is located near Mt. Coronet.\n\nThe Dustox crossing is an annual phenomena that follows a full moon reflecting on a particular glacial lake near Veilstone City. The influx of Dustox creates a mystical golden arc over Mt. Coronet. Jessie's Dustox and Austin's Dustox made the migration in Crossing Paths.",
+  "plainText": "The Dustox Flower Field is a field where gather to breed. It was only mentioned in Crossing Paths and is located near Mt. Coronet.\n\nThe Dustox crossing is an annual phenomena that follows a full moon reflecting on a particular glacial lake near Veilstone City. The influx of Dustox creates a mystical golden arc over Mt. Coronet. Jessie's Dustox and Austin's Dustox made the migration in Crossing Paths. \n\n==In other languages==\n \n\n==Related articles==\n \n\n \n\nes:Paraíso de flores de Dustox\nit:Campo dei fiori dei Dustox\nzh:毒粉蛾花田",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Dustox Flower Field is a field where gather to breed. It was only mentioned in Crossing Paths and is located near Mt. Coronet.\n\nThe Dustox crossing is an annual phenomena that follows a full moon reflecting on a particular glacial lake near Veilstone City. The influx of Dustox creates a mystical golden arc over Mt. Coronet. Jessie's Dustox and Austin's Dustox made the migration in Crossing Paths."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Paraíso de flores de Dustox\nit:Campo dei fiori dei Dustox\nzh:毒粉蛾花田"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dustox Flower Field",
+    "pageType": "location",
+    "searchableText": "Dustox Flower Field\nCategory:Animated series-exclusive locations\nThe Dustox Flower Field is a field where gather to breed. It was only mentioned in Crossing Paths and is located near Mt. Coronet.\n\nThe Dustox crossing is an annual phenomena that follows a full moon reflecting on a particular glacial lake near Veilstone City. The influx of Dustox creates a mystical golden arc over Mt. Coronet. Jessie's Dustox and Austin's Dustox made the migration in Crossing Paths.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 528,
+    "sectionCount": 2
+  }
+}

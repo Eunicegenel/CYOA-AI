@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Vaporeon (MPJ)",
+    "slug": "vaporeon-mpj",
+    "pageId": 65868,
+    "revisionId": 4132294
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga characters (Pokémon)",
+    "sourceFileName": "vaporeon-mpj__65868.json",
+    "revisionTimestamp": "2024-09-29T05:19:40Z",
+    "fetchedAt": "2026-05-14T15:52:21.655Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Vaporeon (Japanese: シャワーズ Showers) is a who appeared in Magical Pokémon Journey.",
+  "plainText": "Vaporeon (Japanese: シャワーズ Showers) is a who appeared in Magical Pokémon Journey.\n\n==History==\nVaporeon debuts in The Master Plan... for Romance! where a falls in love with her. She also loves , but doesn't know that he loves her. Vaporeon later finds out about Machamp's feelings in Loves Me? Loves Me Not? and they go out on a date together.\n \n \n==Related articles==\n \n \n \n \n \n \n \n \n\nit:Vaporeon (MVP)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Vaporeon (Japanese: シャワーズ Showers) is a who appeared in Magical Pokémon Journey."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Vaporeon debuts in The Master Plan... for Romance! where a falls in love with her. She also loves , but doesn't know that he loves her. Vaporeon later finds out about Machamp's feelings in Loves Me? Loves Me Not? and they go out on a date together."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Vaporeon (MVP)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Vaporeon (MPJ)",
+    "pageType": "character",
+    "searchableText": "Vaporeon (MPJ)\nCategory:Manga characters (Pokémon)\nVaporeon (Japanese: シャワーズ Showers) is a who appeared in Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 402,
+    "sectionCount": 3
+  }
+}

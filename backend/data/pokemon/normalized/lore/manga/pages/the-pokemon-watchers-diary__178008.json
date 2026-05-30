@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "The Pokémon-Watcher's Diary",
+    "slug": "the-pokemon-watchers-diary",
+    "pageId": 178008,
+    "revisionId": 4168508
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "the-pokemon-watchers-diary__178008.json",
+    "revisionTimestamp": "2024-10-26T16:49:47Z",
+    "fetchedAt": "2026-05-14T15:51:40.371Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: The Pokémon-Watcher's Diary is the tenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 15th and 16th chapters of the manga. The chapters originally released in this book were later re-released as part of .",
+  "plainText": "Magical Pokémon Journey: The Pokémon-Watcher's Diary is the tenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 15th and 16th chapters of the manga. The chapters originally released in this book were later re-released as part of .\n==Blurb==\nABRACADABRA!\n\nAlmond is writing a spy book documenting all his sightings of Pokemon! But he shouldn't have shown it to his Pokemon friends, because now they all want to help! \n\nThen Walnut the ninja joins our heroes in picking sweet potatoes, but while picking a peck of potatoes they find themselves picked...by Abra?!\n\n==Publications==\n \n \n\n==Chapters==\nA Quest of Life or Death\nFun at the...Potato Dig?\n\n==Important events==\nAlmond and attempt to keep an observation journal featuring .\nThe group participate in a potato-digging contest organised by Grandpa.\nWalnut finds the pink potato, avoiding expulsion from Master Ditto's ninja training.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: The Pokémon-Watcher's Diary is the tenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 15th and 16th chapters of the manga. The chapters originally released in this book were later re-released as part of ."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "ABRACADABRA!\n\nAlmond is writing a spy book documenting all his sightings of Pokemon! But he shouldn't have shown it to his Pokemon friends, because now they all want to help! \n\nThen Walnut the ninja joins our heroes in picking sweet potatoes, but while picking a peck of potatoes they find themselves picked...by Abra?!"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "A Quest of Life or Death\nFun at the...Potato Dig?"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Almond and attempt to keep an observation journal featuring .\nThe group participate in a potato-digging contest organised by Grandpa.\nWalnut finds the pink potato, avoiding expulsion from Master Ditto's ninja training."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Pokémon-Watcher's Diary",
+    "pageType": "pokemon-related",
+    "searchableText": "The Pokémon-Watcher's Diary\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: The Pokémon-Watcher's Diary is the tenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 15th and 16th chapters of the manga. The chapters originally released in this book were later re-released as part of .",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 957,
+    "sectionCount": 4
+  }
+}

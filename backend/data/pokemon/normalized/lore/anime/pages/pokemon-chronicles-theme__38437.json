@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Chronicles theme",
+    "slug": "pokemon-chronicles-theme",
+    "pageId": 38437,
+    "revisionId": 4528544
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:English opening themes",
+    "sourceFileName": "pokemon-chronicles-theme__38437.json",
+    "revisionTimestamp": "2026-04-09T16:26:11Z",
+    "fetchedAt": "2026-05-14T14:42:44.067Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The Pokémon Chronicles theme is an opening and ending theme produced for Pokémon Chronicles. This theme aired as an opening only with the airings of the series. The televised airings instead use the opening theme based on the Pokérap GS. This is currently the only English opening theme in the to have no lyrics.",
+  "plainText": "The Pokémon Chronicles theme is an opening and ending theme produced for Pokémon Chronicles. This theme aired as an opening only with the airings of the series. The televised airings instead use the opening theme based on the Pokérap GS. This is currently the only English opening theme in the to have no lyrics.\n\n==Characters==\n===Humans===\n\nRitchie\n\nEugene\nAttila\n\n===Pokémon===\n( )\n( )\n( ; Little Miss)\n(Ritchie's; Sparky)\n(Eugene's)\n(Attila's)\n( 's)\n( 's)\n\n}}\n \n==Related articles==\n \n \n\n \n \n\nit:Pokémon Chronicles theme",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Pokémon Chronicles theme is an opening and ending theme produced for Pokémon Chronicles. This theme aired as an opening only with the airings of the series. The televised airings instead use the opening theme based on the Pokérap GS. This is currently the only English opening theme in the to have no lyrics."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ritchie\n\nEugene\nAttila"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( ; Little Miss)\n(Ritchie's; Sparky)\n(Eugene's)\n(Attila's)\n( 's)\n( 's)\n\n}}"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Pokémon Chronicles theme"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Chronicles theme",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Chronicles theme\nCategory:English opening themes\nThe Pokémon Chronicles theme is an opening and ending theme produced for Pokémon Chronicles. This theme aired as an opening only with the airings of the series. The televised airings instead use the opening theme based on the Pokérap GS. This is currently the only English opening theme in the to have no lyrics.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Related articles"
+    ],
+    "characterCount": 524,
+    "sectionCount": 4
+  }
+}

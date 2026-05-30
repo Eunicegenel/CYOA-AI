@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPA05",
+    "slug": "ppa05",
+    "pageId": 299789,
+    "revisionId": 4548425
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures episodes",
+    "sourceFileName": "ppa05__299789.json",
+    "revisionTimestamp": "2026-05-11T00:28:01Z",
+    "fetchedAt": "2026-05-14T14:44:20.787Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "Roadblocking of Old Snorlax (Japanese: カビゴンおやじのとおせんぼ KABIGON Geezer used BLOCK) is the fifth episode of A Pocketful of Adventures. It first aired in Japan on November 17, 2023, and in the Middle East and North Africa on May 18, 2024.",
+  "plainText": "Roadblocking of Old Snorlax (Japanese: カビゴンおやじのとおせんぼ KABIGON Geezer used BLOCK) is the fifth episode of A Pocketful of Adventures. It first aired in Japan on November 17, 2023, and in the Middle East and North Africa on May 18, 2024.\n \n\n==Plot==\n==Major events==\n\n==Characters==\n===Humans===\nMadoka Akagi\nKageaki Hiyama\nKoichi Yadoya\nKazuchika Kogusuri\nYoko Meguro\nYuki Koide\nMasako\nSora Karasawa\nKōji Kogusuri\n\n===Pokémon===\n\n==Trivia==\n\n===Errors===\n===Dub edits===\n\n==In other languages==\n \n \n \n \n\n \n\nit:PBT05\nzh:口袋裡的冒險 第5集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Roadblocking of Old Snorlax (Japanese: カビゴンおやじのとおせんぼ KABIGON Geezer used BLOCK) is the fifth episode of A Pocketful of Adventures. It first aired in Japan on November 17, 2023, and in the Middle East and North Africa on May 18, 2024."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Madoka Akagi\nKageaki Hiyama\nKoichi Yadoya\nKazuchika Kogusuri\nYoko Meguro\nYuki Koide\nMasako\nSora Karasawa\nKōji Kogusuri"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:PBT05\nzh:口袋裡的冒險 第5集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPA05",
+    "pageType": "episode",
+    "searchableText": "PPA05\nCategory:A Pocketful of Adventures episodes\nRoadblocking of Old Snorlax (Japanese: カビゴンおやじのとおせんぼ KABIGON Geezer used BLOCK) is the fifth episode of A Pocketful of Adventures. It first aired in Japan on November 17, 2023, and in the Middle East and North Africa on May 18, 2024.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "In other languages"
+    ],
+    "characterCount": 526,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Alex Haynes",
+    "slug": "alex-haynes",
+    "pageId": 234570,
+    "revisionId": 4323442
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "alex-haynes__234570.json",
+    "revisionTimestamp": "2025-06-24T03:30:15Z",
+    "fetchedAt": "2026-05-14T14:00:32.339Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Alex Haynes is a voice actor for the English-language dub of .",
+  "plainText": "Alex Haynes is a voice actor for the English-language dub of .\n\n==Biography==\nHaynes was born in Manhattan, a borough in New York City, New York. He joined the during , where he gained several roles, most notably that of Ash's Talonflame and other members of the same species. Haynes left the series towards the end of , having returned to voice a Talonflame and during the Manalo Conference.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n(XY134)\nTrainer (XY096)\nMan B (XY109)\nMan (XY110)\nReferee (Snowbelle Gym)\nCustomer (XY140)\n\n=====Pokémon=====\n======Major======\nAsh's Talonflame (XY086-XY140)\n\n======Minor======\n\n(XY104, XY129)\n\n==Other non-Pokémon roles==\nCedric/Others (Puffs)\nRanger South (Campfire)\nMorten (Public Enemy)\nTrevor (Neighborhood 3)\nHoratio (Hamlet the Hip-Hopera)\nTod (Just to Get Married (Reading))\nVarious roles (Serials @ The Flea)\nJustin/Andrew (The Mysteries)\nVarious roles (One Minute Play Festival)\nFaulkner (Or What She Will)\nJudge Caiaphus (The Last Days of Judas Iscariot)\n\n==External links==\nWebsite\nInstagram\nTwitter\nFacebook\n\n \n \n\nit:Alex Haynes",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Alex Haynes is a voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Haynes was born in Manhattan, a borough in New York City, New York. He joined the during , where he gained several roles, most notably that of Ash's Talonflame and other members of the same species. Haynes left the series towards the end of , having returned to voice a Talonflame and during the Manalo Conference."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "(XY134)\nTrainer (XY096)\nMan B (XY109)\nMan (XY110)\nReferee (Snowbelle Gym)\nCustomer (XY140)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Ash's Talonflame (XY086-XY140)"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(XY104, XY129)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Cedric/Others (Puffs)\nRanger South (Campfire)\nMorten (Public Enemy)\nTrevor (Neighborhood 3)\nHoratio (Hamlet the Hip-Hopera)\nTod (Just to Get Married (Reading))\nVarious roles (Serials @ The Flea)\nJustin/Andrew (The Mysteries)\nVarious roles (One Minute Play Festival)\nFaulkner (Or What She Will)\nJudge Caiaphus (The Last Days of Judas Iscariot)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Website\nInstagram\nTwitter\nFacebook\n\n \n \n\nit:Alex Haynes"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Alex Haynes",
+    "pageType": "general-anime-lore",
+    "searchableText": "Alex Haynes\nCategory:TPCi voice actors\nAlex Haynes is a voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1096,
+    "sectionCount": 7
+  }
+}

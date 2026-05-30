@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB59",
+    "slug": "rb59",
+    "pageId": 162441,
+    "revisionId": 4252899
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb59__162441.json",
+    "revisionTimestamp": "2025-03-04T04:24:52Z",
+    "fetchedAt": "2026-05-14T15:47:53.129Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 三闘将 The Three Generals) is the 59th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 三闘将 The Three Generals) is the 59th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nAmu, Rovy, and Ganku face against Kigyan, Lukov, and Toga, emerging victorious in the process.\nGerubu sends the Three Generals after Ryouga's group.\nRyouga prepares to activate the Compass of Light before being interrupted by Amu.\nAmu sends Ryouga flying to personally fight him while Rovy and Ganku stay to fight Karuta and Rug.\n\n===Debuts===\n\n====Pokémon debuts====\n==Characters==\n===Humans===\nToga\nKigyan\nLukov\nRovy\nAmu\nGanku\nGerubu\nGreat Gavel members\nMiruto\nYappy\nRyouga \nRug \nKaruta \n\n===Pokémon===\n(Toga's)\n(Kigyan's)\n(Lukov's)\n(Rovy's)\n(Amu's)\n(Ganku's)\n(Rug's)\n(Ryouga's)\n(Karuta's)\n\n \n \n \n\n \n\nzh:RB59",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 三闘将 The Three Generals) is the 59th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Amu, Rovy, and Ganku face against Kigyan, Lukov, and Toga, emerging victorious in the process.\nGerubu sends the Three Generals after Ryouga's group.\nRyouga prepares to activate the Compass of Light before being interrupted by Amu.\nAmu sends Ryouga flying to personally fight him while Rovy and Ganku stay to fight Karuta and Rug."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Toga\nKigyan\nLukov\nRovy\nAmu\nGanku\nGerubu\nGreat Gavel members\nMiruto\nYappy\nRyouga \nRug \nKaruta"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Toga's)\n(Kigyan's)\n(Lukov's)\n(Rovy's)\n(Amu's)\n(Ganku's)\n(Rug's)\n(Ryouga's)\n(Karuta's)\n\n \n \n \n\n \n\nzh:RB59"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB59",
+    "pageType": "chapter",
+    "searchableText": "RB59\nCategory:Pokémon RéBURST chapters\n(Japanese: 三闘将 The Three Generals) is the 59th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 725,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM077",
+    "slug": "pm077",
+    "pageId": 160635,
+    "revisionId": 4527637
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm077__160635.json",
+    "revisionTimestamp": "2026-04-09T15:44:56Z",
+    "fetchedAt": "2026-05-14T15:31:18.091Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pokémon Hair Salon Opens!! (Japanese: 開店！！　ポケモン美容院 Grand Opening!! The Pokémon Beauty Parlor) is the seventy-seventh chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Pokémon Hair Salon Opens!! (Japanese: 開店！！　ポケモン美容院 Grand Opening!! The Pokémon Beauty Parlor) is the seventy-seventh chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n( 's)\n( 's; ×2)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 77 (Pokémon Pocket Monsters)\nit:PMM077",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Hair Salon Opens!! (Japanese: 開店！！　ポケモン美容院 Grand Opening!! The Pokémon Beauty Parlor) is the seventy-seventh chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( 's)\n( 's; ×2)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 77 (Pokémon Pocket Monsters)\nit:PMM077"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM077",
+    "pageType": "chapter",
+    "searchableText": "PM077\nCategory:Pokémon Pocket Monsters chapters\nPokémon Hair Salon Opens!! (Japanese: 開店！！　ポケモン美容院 Grand Opening!! The Pokémon Beauty Parlor) is the seventy-seventh chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 413,
+    "sectionCount": 3
+  }
+}

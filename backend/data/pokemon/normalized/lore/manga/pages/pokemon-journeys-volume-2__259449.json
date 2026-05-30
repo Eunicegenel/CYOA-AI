@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Journeys volume 2",
+    "slug": "pokemon-journeys-volume-2",
+    "pageId": 259449,
+    "revisionId": 4124732
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys volumes",
+    "sourceFileName": "pokemon-journeys-volume-2__259449.json",
+    "revisionTimestamp": "2024-09-23T19:15:55Z",
+    "fetchedAt": "2026-05-14T15:36:34.025Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 2 is the second volume of the manga created by Machito Gomi.",
+  "plainText": "Volume 2 is the second volume of the manga created by Machito Gomi.\n\n==Publications==\n \n \n \n \n \n\n==Chapters==\nChapter 7 - Goodbye, Friend!\nChapter 8 - Caring for a Mystery!\nChapter 9 - Destination: Coronation!\nChapter 10 - Toughing It Out!\nChapter 11 - Solitary and Menacing!\nChapter 12 - A Crackling Raid Battle!\n\n \n\n \n\n \n\nde:Band 2 (Pokémon Reisen)\nes:Tomo 2 (Pokémon Viaje)\nit:Pokémon Journeys volume 2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume of the manga created by Machito Gomi."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 7 - Goodbye, Friend!\nChapter 8 - Caring for a Mystery!\nChapter 9 - Destination: Coronation!\nChapter 10 - Toughing It Out!\nChapter 11 - Solitary and Menacing!\nChapter 12 - A Crackling Raid Battle!\n\n \n\n \n\n \n\nde:Band 2 (Pokémon Reisen)\nes:Tomo 2 (Pokémon Viaje)\nit:Pokémon Journeys volume 2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Journeys volume 2",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Journeys volume 2\nCategory:Pokémon Journeys volumes\nVolume 2 is the second volume of the manga created by Machito Gomi.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 405,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PDP26",
+    "slug": "pdp26",
+    "pageId": 179713,
+    "revisionId": 4527895
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp26__179713.json",
+    "revisionTimestamp": "2026-04-09T15:58:40Z",
+    "fetchedAt": "2026-05-14T15:29:51.760Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: くいしんぼポッチャマ Gluttonous ) is the twenty-sixth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: くいしんぼポッチャマ Gluttonous ) is the twenty-sixth chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: くいしんぼポッチャマ Gluttonous ) is the twenty-sixth chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP26",
+    "pageType": "chapter",
+    "searchableText": "PDP26\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: くいしんぼポッチャマ Gluttonous ) is the twenty-sixth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 236,
+    "sectionCount": 2
+  }
+}

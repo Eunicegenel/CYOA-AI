@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Daniel (DP160)",
+    "slug": "daniel-dp160",
+    "pageId": 94382,
+    "revisionId": 4168055
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "daniel-dp160__94382.json",
+    "revisionTimestamp": "2024-10-26T09:28:12Z",
+    "fetchedAt": "2026-05-14T14:11:06.409Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Daniel (Japanese: ユウタ Yūta) is a character of the day who appeared in A Marathon Rivalry!. He is a boy with glasses who wears a lab-coat and always carries a laptop, which he uses to analyze his Pokémon's condition.\n\nDaniel lives in Camellia Town and trains a as his main Pokémon. Daniel believes that the best way to train his Pokémon is a \"scientific\" approach; therefore, he uses high-tech machines to train them. Some of these machines were seen when Daniel demonstrated his training style to and in his training lab. He also believes that the Pokéathlon better compares two Trainers' levels of synchronicity with their Pokémon than does a Pokémon battle.\n\nDaniel eventually won the Sinnoh Pokéathlon, which qualified him for the Johto competition.",
+  "plainText": "Daniel (Japanese: ユウタ Yūta) is a character of the day who appeared in A Marathon Rivalry!. He is a boy with glasses who wears a lab-coat and always carries a laptop, which he uses to analyze his Pokémon's condition.\n\nDaniel lives in Camellia Town and trains a as his main Pokémon. Daniel believes that the best way to train his Pokémon is a \"scientific\" approach; therefore, he uses high-tech machines to train them. Some of these machines were seen when Daniel demonstrated his training style to and in his training lab. He also believes that the Pokéathlon better compares two Trainers' levels of synchronicity with their Pokémon than does a Pokémon battle.\n\nDaniel eventually won the Sinnoh Pokéathlon, which qualified him for the Johto competition.\n\n==Pokémon==\n \n \n\n \n\n==Pokémon competitions==\nDaniel has competed in the following :\nPokéathlon - Winner (A Marathon Rivalry!)\n\n==Voice actors==\n \n \n \n \n \n \n \n\nes:Daniel\nfr:Sammy\nit:Daniel (DP160)\nja:ユウタ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Daniel (Japanese: ユウタ Yūta) is a character of the day who appeared in A Marathon Rivalry!. He is a boy with glasses who wears a lab-coat and always carries a laptop, which he uses to analyze his Pokémon's condition.\n\nDaniel lives in Camellia Town and trains a as his main Pokémon. Daniel believes that the best way to train his Pokémon is a \"scientific\" approach; therefore, he uses high-tech machines to train them. Some of these machines were seen when Daniel demonstrated his training style to and in his training lab. He also believes that the Pokéathlon better compares two Trainers' levels of synchronicity with their Pokémon than does a Pokémon battle.\n\nDaniel eventually won the Sinnoh Pokéathlon, which qualified him for the Johto competition."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Daniel has competed in the following :\nPokéathlon - Winner (A Marathon Rivalry!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Daniel\nfr:Sammy\nit:Daniel (DP160)\nja:ユウタ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Daniel (DP160)",
+    "pageType": "character",
+    "searchableText": "Daniel (DP160)\nCategory:Sinnoh characters of the day\nDaniel (Japanese: ユウタ Yūta) is a character of the day who appeared in A Marathon Rivalry!. He is a boy with glasses who wears a lab-coat and always carries a laptop, which he uses to analyze his Pokémon's condition.\n\nDaniel lives in Camellia Town and trains a as his main Pokémon. Daniel believes that the best way to train his Pokémon is a \"scientific\" approach; therefore, he uses high-tech machines to train them. Some of these machines were seen when Daniel demonstrated his training style to and in his training lab. He also believes that the Pokéathlon better compares two Trainers' levels of synchronicity with their Pokémon than does a Pokémon battle.\n\nDaniel eventually won the Sinnoh Pokéathlon, which qualified him for the Johto competition.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 956,
+    "sectionCount": 3
+  }
+}

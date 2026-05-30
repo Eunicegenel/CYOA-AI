@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Grandpa",
+    "slug": "grandpa",
+    "pageId": 1002,
+    "revisionId": 4246730
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey characters",
+    "sourceFileName": "grandpa__1002.json",
+    "revisionTimestamp": "2025-02-24T00:02:45Z",
+    "fetchedAt": "2026-05-14T15:20:46.627Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n \nGrandpa (Japanese: じーちゃん Grandpa) is a creepy mad scientist in Magical Pokémon Journey. He is a genius at making all sorts of things, such as love potions, magic mirrors, and a magical suit that will protect its wearer from harm.",
+  "plainText": "----\n \nGrandpa (Japanese: じーちゃん Grandpa) is a creepy mad scientist in Magical Pokémon Journey. He is a genius at making all sorts of things, such as love potions, magic mirrors, and a magical suit that will protect its wearer from harm.\n\n== History ==\nHe sent Hazel out to catch for him so that he could impress girls, but she has not yet caught any.\n \n== Personality and characteristics ==\nGrandpa is married to Ginger and is the grandfather of Coconut. He is apparently the president of Pog, Inc, but does not want to return because running the company isn't fun.\n\nMost of his inventions don't work.\n\n==In other languages==\n \n\n==Related articles==\n \n\n \n \n\n \n \n\nde:Großvater (Magical Pokémon Journey)\nit:Nonno\nja:おじーちゃん",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \nGrandpa (Japanese: じーちゃん Grandpa) is a creepy mad scientist in Magical Pokémon Journey. He is a genius at making all sorts of things, such as love potions, magic mirrors, and a magical suit that will protect its wearer from harm."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "He sent Hazel out to catch for him so that he could impress girls, but she has not yet caught any."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 2,
+      "text": "Grandpa is married to Ginger and is the grandfather of Coconut. He is apparently the president of Pog, Inc, but does not want to return because running the company isn't fun.\n\nMost of his inventions don't work."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Großvater (Magical Pokémon Journey)\nit:Nonno\nja:おじーちゃん"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Grandpa",
+    "pageType": "character",
+    "searchableText": "Grandpa\nCategory:Magical Pokémon Journey characters\n----\n \nGrandpa (Japanese: じーちゃん Grandpa) is a creepy mad scientist in Magical Pokémon Journey. He is a genius at making all sorts of things, such as love potions, magic mirrors, and a magical suit that will protect its wearer from harm.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Personality and characteristics",
+      "Related articles"
+    ],
+    "characterCount": 720,
+    "sectionCount": 4
+  }
+}

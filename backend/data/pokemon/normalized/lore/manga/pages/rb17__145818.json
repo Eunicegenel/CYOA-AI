@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "RB17",
+    "slug": "rb17",
+    "pageId": 145818,
+    "revisionId": 4242872
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb17__145818.json",
+    "revisionTimestamp": "2025-02-19T14:57:00Z",
+    "fetchedAt": "2026-05-14T15:47:26.638Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 門番の少年 The Gatekeeper Boy) is the seventeenth chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 門番の少年 The Gatekeeper Boy) is the seventeenth chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n==Major events==\nRyouga battles the Gatekeeper boy and wins, allowing him to open the door that leads to Zekrom.\nRyouga meets Zekrom.\n\n===Debuts===\n\n====Pokémon debuts====\n(Ryouga's; in person)\n==Characters==\n===Humans===\nRyouga\nGatekeeper Boy\nMiruto\nYappy\nRend\nVillagers\n===Pokémon===\n(Ryouga's)\n\n \n\n \n \n\n \n\nit:RB17\nzh:RB17",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 門番の少年 The Gatekeeper Boy) is the seventeenth chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga battles the Gatekeeper boy and wins, allowing him to open the door that leads to Zekrom.\nRyouga meets Zekrom."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Ryouga's; in person)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nGatekeeper Boy\nMiruto\nYappy\nRend\nVillagers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ryouga's)\n\n \n\n \n \n\n \n\nit:RB17\nzh:RB17"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB17",
+    "pageType": "chapter",
+    "searchableText": "RB17\nCategory:Pokémon RéBURST chapters\n(Japanese: 門番の少年 The Gatekeeper Boy) is the seventeenth chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 430,
+    "sectionCount": 5
+  }
+}

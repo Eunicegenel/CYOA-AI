@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ27",
+    "slug": "gdz27",
+    "pageId": 168632,
+    "revisionId": 4528337
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz27__168632.json",
+    "revisionTimestamp": "2026-04-09T16:16:07Z",
+    "fetchedAt": "2026-05-14T15:19:38.544Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ポケモン撮影(ショット)だぜ！ Get a Pokémon Shot!) is the twenty-seventh chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ポケモン撮影(ショット)だぜ！ Get a Pokémon Shot!) is the twenty-seventh chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nTownsperson\nPhotographers\n\n===Pokémon===\n( )\n(Shu's)\n(multiple)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン撮影(ショット)だぜ！ Get a Pokémon Shot!) is the twenty-seventh chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nTownsperson\nPhotographers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(multiple)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ27",
+    "pageType": "chapter",
+    "searchableText": "GDZ27\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ポケモン撮影(ショット)だぜ！ Get a Pokémon Shot!) is the twenty-seventh chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 307,
+    "sectionCount": 3
+  }
+}

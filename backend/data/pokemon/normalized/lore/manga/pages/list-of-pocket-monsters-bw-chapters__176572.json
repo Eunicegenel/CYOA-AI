@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pocket Monsters BW chapters",
+    "slug": "list-of-pocket-monsters-bw-chapters",
+    "pageId": 176572,
+    "revisionId": 4345749
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "list-of-pocket-monsters-bw-chapters__176572.json",
+    "revisionTimestamp": "2025-07-28T07:02:03Z",
+    "fetchedAt": "2026-05-14T15:24:32.684Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is a list of chapters from the manga created by 穴久保幸作 Kosaku Anakubo. In total, there are 47 chapters.",
+  "plainText": "This is a list of chapters from the manga created by 穴久保幸作 Kosaku Anakubo. In total, there are 47 chapters.\n\n== ==\n \n \n\n== ==\n \n \n\n== ==\n \n \n\n== ==\n \n\n \n\n \n \n\nit:Elenco dei capitoli di Pocket Monsters BW",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of chapters from the manga created by 穴久保幸作 Kosaku Anakubo. In total, there are 47 chapters."
+    },
+    {
+      "heading": "",
+      "level": 2,
+      "text": "it:Elenco dei capitoli di Pocket Monsters BW"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pocket Monsters BW chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Pocket Monsters BW chapters\nCategory:Pocket Monsters BW chapters\nThis is a list of chapters from the manga created by 穴久保幸作 Kosaku Anakubo. In total, there are 47 chapters.",
+    "sectionHeadings": [
+      "Lead",
+      ""
+    ],
+    "characterCount": 203,
+    "sectionCount": 2
+  }
+}

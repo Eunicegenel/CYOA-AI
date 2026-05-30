@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Kylan",
+    "slug": "kylan",
+    "pageId": 161170,
+    "revisionId": 4318561
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "kylan__161170.json",
+    "revisionTimestamp": "2025-06-11T20:13:46Z",
+    "fetchedAt": "2026-05-14T14:30:04.998Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kylan (Japanese: ケンソー Kensō) is a character of the day who appeared in Evolution by Fire!. He was first seen in a Battle Club in Astilbe Town, battling in a Double Battle with Shamus. After he lost, Kylan was later cornered by Shamus, who told him that he had to give him his Pokémon. and intervened and kept Shamus busy long enough for Don George to walk by, deterring him from taking Kylan's Pokémon. Kylan explained to the group that he was forced to battle Shamus because he was afraid of his Pokémon.",
+  "plainText": "Kylan (Japanese: ケンソー Kensō) is a character of the day who appeared in Evolution by Fire!. He was first seen in a Battle Club in Astilbe Town, battling in a Double Battle with Shamus. After he lost, Kylan was later cornered by Shamus, who told him that he had to give him his Pokémon. and intervened and kept Shamus busy long enough for Don George to walk by, deterring him from taking Kylan's Pokémon. Kylan explained to the group that he was forced to battle Shamus because he was afraid of his Pokémon.\n \n==Pokémon==\n \n \n\n \n\n==Voice actors==\n \n\n==Trivia==\nKylan is the first character introduced in Pokémon the Series: Black & White whose English name was not revealed in the dub itself; instead, it was given in the closed captioning.\n\n \n\n \n \n \n\nfr:Frédérique\nit:Kylan\nzh:健奏",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kylan (Japanese: ケンソー Kensō) is a character of the day who appeared in Evolution by Fire!. He was first seen in a Battle Club in Astilbe Town, battling in a Double Battle with Shamus. After he lost, Kylan was later cornered by Shamus, who told him that he had to give him his Pokémon. and intervened and kept Shamus busy long enough for Don George to walk by, deterring him from taking Kylan's Pokémon. Kylan explained to the group that he was forced to battle Shamus because he was afraid of his Pokémon."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Kylan is the first character introduced in Pokémon the Series: Black & White whose English name was not revealed in the dub itself; instead, it was given in the closed captioning.\n\n \n\n \n \n \n\nfr:Frédérique\nit:Kylan\nzh:健奏"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kylan",
+    "pageType": "character",
+    "searchableText": "Kylan\nCategory:Unova characters of the day\nKylan (Japanese: ケンソー Kensō) is a character of the day who appeared in Evolution by Fire!. He was first seen in a Battle Club in Astilbe Town, battling in a Double Battle with Shamus. After he lost, Kylan was later cornered by Shamus, who told him that he had to give him his Pokémon. and intervened and kept Shamus busy long enough for Don George to walk by, deterring him from taking Kylan's Pokémon. Kylan explained to the group that he was forced to battle Shamus because he was afraid of his Pokémon.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 778,
+    "sectionCount": 2
+  }
+}

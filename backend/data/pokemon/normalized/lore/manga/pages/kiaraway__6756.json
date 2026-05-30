@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Kiaraway",
+    "slug": "kiaraway",
+    "pageId": 6756,
+    "revisionId": 4134415
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey characters",
+    "sourceFileName": "kiaraway__6756.json",
+    "revisionTimestamp": "2024-09-30T04:03:04Z",
+    "fetchedAt": "2026-05-14T15:23:24.859Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kiaraway, or Kiara for short (Japanese: キャラウエー Caraway) is a Pokémon Trainer from the manga series Magical Pokémon Journey.",
+  "plainText": "Kiaraway, or Kiara for short (Japanese: キャラウエー Caraway) is a Pokémon Trainer from the manga series Magical Pokémon Journey.\n\n==Character==\nKiaraway specializes in collecting Pokémon. He is a cocky, arrogant, goofy boy who has a big crush on Coconut.\n\n==History==\nKiaraway is first mentioned in Vulpix and Cyndaquil as and 's Trainer, or \"Big Bro\", shown in silhouette only. He is fully introduced later in Coconut's Love Waltz (Part 1), where he comes to meet Coconut on the recommendation of Vulpix and Cyndaquil and immediately gets a huge crush on Coconut, stealing her first kiss.\n\nDespite Coconut's resistance, he continues to pursue her until the end of the manga. In the \"Thank You Page\", where author Yumi Tsukirino describes what happens to each character after the end of the story, she states that Kiaraway and Coconut will begin dating within a few years.\n\n==Pokémon==\n \n\n \n\n \n\n \n\n \n\n \n\n==Trivia==\nIn the Japanese version, he speaks in a Kansai dialect, as well as his Pokémon which have speaking parts, Vulpix and Cyndaquil. However, in the English translation by Chuang Yi, while Vulpix and Cyndaquil keep their accents, Kiaraway does not.\n\n==Related articles==\n \n \n\n \n \n\nit:Kiaraway",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kiaraway, or Kiara for short (Japanese: キャラウエー Caraway) is a Pokémon Trainer from the manga series Magical Pokémon Journey."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Kiaraway specializes in collecting Pokémon. He is a cocky, arrogant, goofy boy who has a big crush on Coconut."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Kiaraway is first mentioned in Vulpix and Cyndaquil as and 's Trainer, or \"Big Bro\", shown in silhouette only. He is fully introduced later in Coconut's Love Waltz (Part 1), where he comes to meet Coconut on the recommendation of Vulpix and Cyndaquil and immediately gets a huge crush on Coconut, stealing her first kiss.\n\nDespite Coconut's resistance, he continues to pursue her until the end of the manga. In the \"Thank You Page\", where author Yumi Tsukirino describes what happens to each character after the end of the story, she states that Kiaraway and Coconut will begin dating within a few years."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the Japanese version, he speaks in a Kansai dialect, as well as his Pokémon which have speaking parts, Vulpix and Cyndaquil. However, in the English translation by Chuang Yi, while Vulpix and Cyndaquil keep their accents, Kiaraway does not."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Kiaraway"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kiaraway",
+    "pageType": "character",
+    "searchableText": "Kiaraway\nCategory:Magical Pokémon Journey characters\nKiaraway, or Kiara for short (Japanese: キャラウエー Caraway) is a Pokémon Trainer from the manga series Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1197,
+    "sectionCount": 5
+  }
+}

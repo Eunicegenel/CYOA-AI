@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Boy (PT10)",
+    "slug": "boy-pt10",
+    "pageId": 320723,
+    "revisionId": 4251229
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:POKÉTOON characters",
+    "sourceFileName": "boy-pt10__320723.json",
+    "revisionTimestamp": "2025-03-01T14:41:42Z",
+    "fetchedAt": "2026-05-14T14:05:53.928Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "This unnamed boy (Japanese: 少年 boy) is the protagonist of PT10.\n\nThe boy decided to do an observation report on his partner and discover what Primeape looked like when it wasn't angry. He tried various activities, such as food, meditation, and vacations, but all of them only served to fuel Primeape's rage. Eventually he realized Primeape enjoyed battling and the two began challenging everyone they could. This led to them winning over and over until they ended up fighting the Champion. A hard-fought battle ended in their victory, which the boy thought had to be enough to satisfy Primeape. However, it evolved into and continued to rage. Ever determined, the boy announced his next observation report would be on Annihilape.",
+  "plainText": "This unnamed boy (Japanese: 少年 boy) is the protagonist of PT10.\n\nThe boy decided to do an observation report on his partner and discover what Primeape looked like when it wasn't angry. He tried various activities, such as food, meditation, and vacations, but all of them only served to fuel Primeape's rage. Eventually he realized Primeape enjoyed battling and the two began challenging everyone they could. This led to them winning over and over until they ended up fighting the Champion. A hard-fought battle ended in their victory, which the boy thought had to be enough to satisfy Primeape. However, it evolved into and continued to rage. Ever determined, the boy announced his next observation report would be on Annihilape.\n\n==Pokémon==\nThis listing is of Boy's known in POKÉTOON:\n \n \n\n==Achievements==\n===Gyms===\nUnnamed Gym\n\n===Pokémon League===\nUnknown Pokémon League - (PT10)\n\n==Voice actors==\n \n\n==Artwork==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This unnamed boy (Japanese: 少年 boy) is the protagonist of PT10.\n\nThe boy decided to do an observation report on his partner and discover what Primeape looked like when it wasn't angry. He tried various activities, such as food, meditation, and vacations, but all of them only served to fuel Primeape's rage. Eventually he realized Primeape enjoyed battling and the two began challenging everyone they could. This led to them winning over and over until they ended up fighting the Champion. A hard-fought battle ended in their victory, which the boy thought had to be enough to satisfy Primeape. However, it evolved into and continued to rage. Ever determined, the boy announced his next observation report would be on Annihilape."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Boy's known in POKÉTOON:"
+    },
+    {
+      "heading": "Gyms",
+      "level": 3,
+      "text": "Unnamed Gym"
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Unknown Pokémon League - (PT10)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Boy (PT10)",
+    "pageType": "character",
+    "searchableText": "Boy (PT10)\nCategory:POKÉTOON characters\nThis unnamed boy (Japanese: 少年 boy) is the protagonist of PT10.\n\nThe boy decided to do an observation report on his partner and discover what Primeape looked like when it wasn't angry. He tried various activities, such as food, meditation, and vacations, but all of them only served to fuel Primeape's rage. Eventually he realized Primeape enjoyed battling and the two began challenging everyone they could. This led to them winning over and over until they ended up fighting the Champion. A hard-fought battle ended in their victory, which the boy thought had to be enough to satisfy Primeape. However, it evolved into and continued to rage. Ever determined, the boy announced his next observation report would be on Annihilape.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Gyms",
+      "Pokémon League"
+    ],
+    "characterCount": 942,
+    "sectionCount": 4
+  }
+}

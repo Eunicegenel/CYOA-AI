@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "GDZ18",
+    "slug": "gdz18",
+    "pageId": 168623,
+    "revisionId": 4130698
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz18__168623.json",
+    "revisionTimestamp": "2024-09-29T03:51:01Z",
+    "fetchedAt": "2026-05-14T15:19:32.829Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ギャグで勝負だ、つっこみニャース A Gag Battle with the Comedian) is the eighteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ギャグで勝負だ、つっこみニャース A Gag Battle with the Comedian) is the eighteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\nShu and are traveling in a forest when they come across a playing a , a Japanese stringed instrument. After its performance is finished, a boy appears, introducing himself as , Meowth's Trainer. He demands money from Shu for enjoying Meowth's performance . When Shu refuses to pay up, Masatoshi starts physically attacking Shu.\n\nAs the boys fight, Masatoshi starts carrying on dramatically, accusing Shu of being elitist because he favours Pikachu. He further asserts that many Trainers favour Pikachu and nobody wants to understand him or his Meowth. At this point, he reveals that he has a device known as a \"Cat Cap\" which he can use to communicate with his Meowth, just like Shu can communicate with Pikachu using the Income. Now wearing the Cat Cap, Masatoshi commands Meowth to attack against Pikachu with , scattering Shu's coins all over the place. Masatoshi and Shu run around grabbing all the coins. Upset, Shu commands Pikachu to retaliate, but Masatoshi himself jumps in the way, taking the hit for Meowth.\n\nMeowth and Pikachu continue to battle while Masatoshi continues to brag and gloat to Shu that his Meowth is so great and that his Pikachu is a weak Pokémon. Shu shouts that his Pikachu is not a weak Pokémon and commands it to use against Masatoshi and Meowth. Masatoshi accepts defeat, and much to Shu's disdain, promises to make it up to him by teaching him some of his favourite practical jokes.\n\n==Major events==\nShu meets for the first time.\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n( 's)\n\n==Characters==\n===Humans===\nShu\n\n===Pokémon===\n( )\n( 's)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ギャグで勝負だ、つっこみニャース A Gag Battle with the Comedian) is the eighteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Shu and are traveling in a forest when they come across a playing a , a Japanese stringed instrument. After its performance is finished, a boy appears, introducing himself as , Meowth's Trainer. He demands money from Shu for enjoying Meowth's performance . When Shu refuses to pay up, Masatoshi starts physically attacking Shu.\n\nAs the boys fight, Masatoshi starts carrying on dramatically, accusing Shu of being elitist because he favours Pikachu. He further asserts that many Trainers favour Pikachu and nobody wants to understand him or his Meowth. At this point, he reveals that he has a device known as a \"Cat Cap\" which he can use to communicate with his Meowth, just like Shu can communicate with Pikachu using the Income. Now wearing the Cat Cap, Masatoshi commands Meowth to attack against Pikachu with , scattering Shu's coins all over the place. Masatoshi and Shu run around grabbing all the coins. Upset, Shu commands Pikachu to retaliate, but Masatoshi himself jumps in the way, taking the hit for Meowth.\n\nMeowth and Pikachu continue to battle while Masatoshi continues to brag and gloat to Shu that his Meowth is so great and that his Pikachu is a weak Pokémon. Shu shouts that his Pikachu is not a weak Pokémon and commands it to use against Masatoshi and Meowth. Masatoshi accepts defeat, and much to Shu's disdain, promises to make it up to him by teaching him some of his favourite practical jokes."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Shu meets for the first time."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( 's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ18",
+    "pageType": "chapter",
+    "searchableText": "GDZ18\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ギャグで勝負だ、つっこみニャース A Gag Battle with the Comedian) is the eighteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1746,
+    "sectionCount": 6
+  }
+}

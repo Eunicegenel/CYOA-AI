@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Summit Ruins",
+    "slug": "summit-ruins",
+    "pageId": 68690,
+    "revisionId": 4284955
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "summit-ruins__68690.json",
+    "revisionTimestamp": "2025-04-21T13:06:56Z",
+    "fetchedAt": "2026-05-14T14:52:36.829Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Summit Ruins (Japanese: 山の遺跡 Mountain Ruins) are -exclusive ruins located near the Pokémon Summer Academy and Mt. Coronet. They were featured in Ghoul Daze!, in which one of the activities of the academy included the students pairing off in teams and retrieving a medal hidden in the ruins. \n\nA recent construction accident at the ruins revealed a secret cave believed to be an entrance to the Ghost World. A ghost girl emerged from the open portal and tried to lure people into the Ghost World, but was fortunately prevented from doing so by a . After it pushed the ghost back into the portal, the ruins collapsed, sealing the portal.",
+  "plainText": "The Summit Ruins (Japanese: 山の遺跡 Mountain Ruins) are -exclusive ruins located near the Pokémon Summer Academy and Mt. Coronet. They were featured in Ghoul Daze!, in which one of the activities of the academy included the students pairing off in teams and retrieving a medal hidden in the ruins. \n\nA recent construction accident at the ruins revealed a secret cave believed to be an entrance to the Ghost World. A ghost girl emerged from the open portal and tried to lure people into the Ghost World, but was fortunately prevented from doing so by a . After it pushed the ghost back into the portal, the ruins collapsed, sealing the portal.\n\n==Pokémon seen around the Summit Ruins==\n \n\n==In other languages==\n \n\n \n \n\n \n\nes:Ruinas Cumbre\nit:Rovine della Vetta\nzh:山頂遺跡",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Summit Ruins (Japanese: 山の遺跡 Mountain Ruins) are -exclusive ruins located near the Pokémon Summer Academy and Mt. Coronet. They were featured in Ghoul Daze!, in which one of the activities of the academy included the students pairing off in teams and retrieving a medal hidden in the ruins. \n\nA recent construction accident at the ruins revealed a secret cave believed to be an entrance to the Ghost World. A ghost girl emerged from the open portal and tried to lure people into the Ghost World, but was fortunately prevented from doing so by a . After it pushed the ghost back into the portal, the ruins collapsed, sealing the portal."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Ruinas Cumbre\nit:Rovine della Vetta\nzh:山頂遺跡"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Summit Ruins",
+    "pageType": "location",
+    "searchableText": "Summit Ruins\nCategory:Animated series-exclusive locations\nThe Summit Ruins (Japanese: 山の遺跡 Mountain Ruins) are -exclusive ruins located near the Pokémon Summer Academy and Mt. Coronet. They were featured in Ghoul Daze!, in which one of the activities of the academy included the students pairing off in teams and retrieving a medal hidden in the ruins. \n\nA recent construction accident at the ruins revealed a secret cave believed to be an entrance to the Ghost World. A ghost girl emerged from the open portal and tried to lure people into the Ghost World, but was fortunately prevented from doing so by a . After it pushed the ghost back into the portal, the ruins collapsed, sealing the portal.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 765,
+    "sectionCount": 2
+  }
+}

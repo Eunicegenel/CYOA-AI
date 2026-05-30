@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Queen Rin",
+    "slug": "queen-rin",
+    "pageId": 50033,
+    "revisionId": 4514997
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "queen-rin__50033.json",
+    "revisionTimestamp": "2026-03-23T02:30:54Z",
+    "fetchedAt": "2026-05-14T14:45:25.289Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Queen Rin (Japanese: リーン Rin) is a minor character who appeared in Lucario and the Mystery of Mew.",
+  "plainText": "Queen Rin (Japanese: リーン Rin) is a minor character who appeared in Lucario and the Mystery of Mew.\n\n==History==\n \nRin was the Queen of Rota during the time of Sir Aaron. However, times were not peaceful while she resided over the kingdom. Two unnamed armies were about to face each other in combat. Rin refused to back down, and remained at the castle, even though the situation looked grim.\n\nRin was unsure of what Aaron's plan to stop the fighting would be, until his returned his staff to her. When she realized that he had sacrificed himself for the kingdom, she broke down.\n\nShe is the ancestor of Rota's current queen, Ilene.\n\n==Artwork==\n \n\n==Voice actors==\n \n\n==Names==\n \n\n==Related articles==\n \n \n\n \n \n\nde:Lady Rin\nes:Reina Rin\nfr:Dame Florinne\nit:Regina Rin\nja:リーン",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Queen Rin (Japanese: リーン Rin) is a minor character who appeared in Lucario and the Mystery of Mew."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Rin was the Queen of Rota during the time of Sir Aaron. However, times were not peaceful while she resided over the kingdom. Two unnamed armies were about to face each other in combat. Rin refused to back down, and remained at the castle, even though the situation looked grim.\n\nRin was unsure of what Aaron's plan to stop the fighting would be, until his returned his staff to her. When she realized that he had sacrificed himself for the kingdom, she broke down.\n\nShe is the ancestor of Rota's current queen, Ilene."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Lady Rin\nes:Reina Rin\nfr:Dame Florinne\nit:Regina Rin\nja:リーン"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Queen Rin",
+    "pageType": "movie",
+    "searchableText": "Queen Rin\nCategory:Movie characters\nQueen Rin (Japanese: リーン Rin) is a minor character who appeared in Lucario and the Mystery of Mew.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 774,
+    "sectionCount": 3
+  }
+}

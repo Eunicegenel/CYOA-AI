@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PNA2",
+    "slug": "pna2",
+    "pageId": 165173,
+    "revisionId": 4527672
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ chapters",
+    "sourceFileName": "pna2__165173.json",
+    "revisionTimestamp": "2026-04-09T15:46:37Z",
+    "fetchedAt": "2026-05-14T15:34:02.169Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 緑の巻：ケンシンの冒険 The Green Scroll: Kenshin's Adventure) is the second chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga.",
+  "plainText": "(Japanese: 緑の巻：ケンシンの冒険 The Green Scroll: Kenshin's Adventure) is the second chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\n\nUjiyasu\nKenshin\nShingen\n\nKanetsugu\nNobunaga\nIeyasu\nMitsuhide\nNō\nGinchiyo\nMuneshige\nYoshihiro\nMotochika\nYoshimoto\nHeroine\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nUjiyasu\nKenshin\nShingen\n\nKanetsugu\nNobunaga\nIeyasu\nMitsuhide\nNō\nGinchiyo\nMuneshige\nYoshihiro\nMotochika\nYoshimoto\nHeroine\nTownspeople\n\n===Pokémon===\n( 's)\n(Ujiyasu's)\n(Kenshin's)\n(Shingen's)\n(Muneshige's)\n(Ginchiyo's)\n(Yoshihiro's)\n(Motochika's)\n(Yoshimoto's)\n(Heroine's)\n(Motonari's)\n( 's)\n(Kanetsugu's)\n\n==Trivia==\n\n \n \n \n\nde:Midori no Maki: Kenshin no Bōken\nes:PNA02\nzh:PNA2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 緑の巻：ケンシンの冒険 The Green Scroll: Kenshin's Adventure) is the second chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Ujiyasu\nKenshin\nShingen\n\nKanetsugu\nNobunaga\nIeyasu\nMitsuhide\nNō\nGinchiyo\nMuneshige\nYoshihiro\nMotochika\nYoshimoto\nHeroine"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ujiyasu\nKenshin\nShingen\n\nKanetsugu\nNobunaga\nIeyasu\nMitsuhide\nNō\nGinchiyo\nMuneshige\nYoshihiro\nMotochika\nYoshimoto\nHeroine\nTownspeople"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n(Ujiyasu's)\n(Kenshin's)\n(Shingen's)\n(Muneshige's)\n(Ginchiyo's)\n(Yoshihiro's)\n(Motochika's)\n(Yoshimoto's)\n(Heroine's)\n(Motonari's)\n( 's)\n(Kanetsugu's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Midori no Maki: Kenshin no Bōken\nes:PNA02\nzh:PNA2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PNA2",
+    "pageType": "chapter",
+    "searchableText": "PNA2\nCategory:Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ chapters\n(Japanese: 緑の巻：ケンシンの冒険 The Green Scroll: Kenshin's Adventure) is the second chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 772,
+    "sectionCount": 5
+  }
+}

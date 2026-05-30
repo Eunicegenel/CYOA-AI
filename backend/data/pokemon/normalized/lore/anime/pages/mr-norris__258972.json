@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Mr. Norris",
+    "slug": "mr-norris",
+    "pageId": 258972,
+    "revisionId": 4470346
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "mr-norris__258972.json",
+    "revisionTimestamp": "2026-01-18T12:20:48Z",
+    "fetchedAt": "2026-05-14T14:38:22.794Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mr. Norris is a character of the day who appeared in Time After Time!. He did not receive a name in the Japanese version.\n\nMr. Norris is the caretaker of a cottage in Azalea Town. Mr. Norris was working with when Walker and Camille arrived with Goh for a holiday. Mr. Norris greeted them, having met them three years earlier when they had used the same cottage. Mr. Norris gave them the key to the cottage and wished them a good time.",
+  "plainText": "Mr. Norris is a character of the day who appeared in Time After Time!. He did not receive a name in the Japanese version.\n\nMr. Norris is the caretaker of a cottage in Azalea Town. Mr. Norris was working with when Walker and Camille arrived with Goh for a holiday. Mr. Norris greeted them, having met them three years earlier when they had used the same cottage. Mr. Norris gave them the key to the cottage and wished them a good time.\n\n==Pokémon==\nThis listing is of Mr. Norris's known in :\n \n \n\n==Voice actors==\n \n\n \n \n\n \n \n \n\nes:Señor Norris\nit:Sig. Norris\nzh:管理人（桧皮镇）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mr. Norris is a character of the day who appeared in Time After Time!. He did not receive a name in the Japanese version.\n\nMr. Norris is the caretaker of a cottage in Azalea Town. Mr. Norris was working with when Walker and Camille arrived with Goh for a holiday. Mr. Norris greeted them, having met them three years earlier when they had used the same cottage. Mr. Norris gave them the key to the cottage and wished them a good time."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Mr. Norris's known in :"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Señor Norris\nit:Sig. Norris\nzh:管理人（桧皮镇）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mr. Norris",
+    "pageType": "character",
+    "searchableText": "Mr. Norris\nCategory:Journeys characters of the day\nMr. Norris is a character of the day who appeared in Time After Time!. He did not receive a name in the Japanese version.\n\nMr. Norris is the caretaker of a cottage in Azalea Town. Mr. Norris was working with when Walker and Camille arrived with Goh for a holiday. Mr. Norris greeted them, having met them three years earlier when they had used the same cottage. Mr. Norris gave them the key to the cottage and wished them a good time.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Voice actors"
+    ],
+    "characterCount": 570,
+    "sectionCount": 3
+  }
+}

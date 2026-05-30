@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "North Pole",
+    "slug": "north-pole",
+    "pageId": 172470,
+    "revisionId": 4261123
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "north-pole__172470.json",
+    "revisionTimestamp": "2025-03-19T21:50:27Z",
+    "fetchedAt": "2026-05-14T14:39:43.051Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The North Pole (Japanese: Santa's Island) is an -exclusive location that is the location of Santa Claus's home and workshop. It appeared in Holiday Hi-Jynx. The island is made primarily of ice structures.\n\n \n\nIn Holiday Hi-Jynx, after finding one of Santa's lost , and headed for the North Pole to take it home. Due to the long journey there, a helping Santa find his lost Jynx escorted them to the island.\n\nSanta's workshop is the main feature of the island, resembling a gigantic icy Christmas tree from the outside. Inside is a factory-like environment full of Jynx workers making toys.",
+  "plainText": "The North Pole (Japanese: Santa's Island) is an -exclusive location that is the location of Santa Claus's home and workshop. It appeared in Holiday Hi-Jynx. The island is made primarily of ice structures.\n\n \n\nIn Holiday Hi-Jynx, after finding one of Santa's lost , and headed for the North Pole to take it home. Due to the long journey there, a helping Santa find his lost Jynx escorted them to the island.\n\nSanta's workshop is the main feature of the island, resembling a gigantic icy Christmas tree from the outside. Inside is a factory-like environment full of Jynx workers making toys.\n \n==Pokémon seen on the North Pole==\n \n\n==Trivia==\nDespite the dub referring to this location as the North Pole, the Japanese version simply calls it Santa's Island, giving no indication of its geographical location.\nThe North Pole is mentioned in the English language song \"I'm Giving Santa a Pikachu for Christmas\".\n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n \n\nes:Polo Norte\nit:Polo Nord",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The North Pole (Japanese: Santa's Island) is an -exclusive location that is the location of Santa Claus's home and workshop. It appeared in Holiday Hi-Jynx. The island is made primarily of ice structures.\n\n \n\nIn Holiday Hi-Jynx, after finding one of Santa's lost , and headed for the North Pole to take it home. Due to the long journey there, a helping Santa find his lost Jynx escorted them to the island.\n\nSanta's workshop is the main feature of the island, resembling a gigantic icy Christmas tree from the outside. Inside is a factory-like environment full of Jynx workers making toys."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Despite the dub referring to this location as the North Pole, the Japanese version simply calls it Santa's Island, giving no indication of its geographical location.\nThe North Pole is mentioned in the English language song \"I'm Giving Santa a Pikachu for Christmas\"."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Polo Norte\nit:Polo Nord"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "North Pole",
+    "pageType": "location",
+    "searchableText": "North Pole\nCategory:Animated series-exclusive locations\nThe North Pole (Japanese: Santa's Island) is an -exclusive location that is the location of Santa Claus's home and workshop. It appeared in Holiday Hi-Jynx. The island is made primarily of ice structures.\n\n \n\nIn Holiday Hi-Jynx, after finding one of Santa's lost , and headed for the North Pole to take it home. Due to the long journey there, a helping Santa find his lost Jynx escorted them to the island.\n\nSanta's workshop is the main feature of the island, resembling a gigantic icy Christmas tree from the outside. Inside is a factory-like environment full of Jynx workers making toys.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 992,
+    "sectionCount": 3
+  }
+}

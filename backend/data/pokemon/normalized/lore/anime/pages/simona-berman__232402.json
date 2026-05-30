@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Simona Berman",
+    "slug": "simona-berman",
+    "pageId": 232402,
+    "revisionId": 4191249
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "simona-berman__232402.json",
+    "revisionTimestamp": "2024-11-24T01:55:08Z",
+    "fetchedAt": "2026-05-14T14:49:57.390Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Simona Berman, also credited as Rebecca Becker, is a voice actress for the English-language dub of . She is currently affiliated with Stewart Talent Agency.",
+  "plainText": "Simona Berman, also credited as Rebecca Becker, is a voice actress for the English-language dub of . She is currently affiliated with Stewart Talent Agency.\n\n==Biography==\nLittle is known about Berman's early life, other than she became a voice actress as an adult. She started her career with the during . She played Mimo, 's younger sister; and the species, most notably Sophocles's Charjabug.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nMimo\n\n======Minor======\nIlima girl\nC (SM083)\nDaughter (SM090)\n(SM090)\n\n=====Pokémon=====\n======Major======\nSophocles's Charjabug and Vikavolt\n\n======Minor======\n\n(SM035)\n(SM041)\nYellow (SM041)\n\n====I Choose You! trilogy====\n( )\n\n==Other non-Pokémon roles==\nCara ( )\nStripper 3 ( )\n\n==External links==\nAnime News Network\nOfficial website\nInstagram\n\n \n \n \n \n\nit:Simona Berman",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Simona Berman, also credited as Rebecca Becker, is a voice actress for the English-language dub of . She is currently affiliated with Stewart Talent Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Little is known about Berman's early life, other than she became a voice actress as an adult. She started her career with the during . She played Mimo, 's younger sister; and the species, most notably Sophocles's Charjabug."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Mimo"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Ilima girl\nC (SM083)\nDaughter (SM090)\n(SM090)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Sophocles's Charjabug and Vikavolt"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(SM035)\n(SM041)\nYellow (SM041)"
+    },
+    {
+      "heading": "I Choose You! trilogy",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Cara ( )\nStripper 3 ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anime News Network\nOfficial website\nInstagram\n\n \n \n \n \n\nit:Simona Berman"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Simona Berman",
+    "pageType": "general-anime-lore",
+    "searchableText": "Simona Berman\nCategory:TPCi voice actors\nSimona Berman, also credited as Rebecca Becker, is a voice actress for the English-language dub of . She is currently affiliated with Stewart Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "I Choose You! trilogy",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 849,
+    "sectionCount": 9
+  }
+}

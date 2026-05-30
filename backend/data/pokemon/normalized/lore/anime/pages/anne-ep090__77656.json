@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Anne (EP090)",
+    "slug": "anne-ep090",
+    "pageId": 77656,
+    "revisionId": 4289588
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands characters of the day",
+    "sourceFileName": "anne-ep090__77656.json",
+    "revisionTimestamp": "2025-04-29T07:13:09Z",
+    "fetchedAt": "2026-05-14T14:02:55.145Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Anne (Japanese: アンヌ Anne) is a character of the day who appeared in Stage Fight.\n\nAnne was a member of the Pokémon Showboat Crew along with Roger, Kay, and Len. One of her most popular voice overs for the Pokémon show was that of . When boarded their boat and held their Pokémon captive, Anne helped trick Team Rocket into believing all of the Pokémon knew how to talk.",
+  "plainText": "Anne (Japanese: アンヌ Anne) is a character of the day who appeared in Stage Fight.\n\nAnne was a member of the Pokémon Showboat Crew along with Roger, Kay, and Len. One of her most popular voice overs for the Pokémon show was that of . When boarded their boat and held their Pokémon captive, Anne helped trick Team Rocket into believing all of the Pokémon knew how to talk.\n \n==Pokémon==\n \n===Status unknown===\nThese Pokémon, along with Kay's , are present on the Pokémon Showboat. However, it is uncertain which of these Pokémon belonged to Anne.\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n==Voice actors==\n \n\n \n\n \n \n \n\nde:Theater, Theater...#Anne\nes:Anne (Kanto)\nit:Anne (GA090)\nja:アンヌ\nzh:安诺",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Anne (Japanese: アンヌ Anne) is a character of the day who appeared in Stage Fight.\n\nAnne was a member of the Pokémon Showboat Crew along with Roger, Kay, and Len. One of her most popular voice overs for the Pokémon show was that of . When boarded their boat and held their Pokémon captive, Anne helped trick Team Rocket into believing all of the Pokémon knew how to talk."
+    },
+    {
+      "heading": "Status unknown",
+      "level": 3,
+      "text": "These Pokémon, along with Kay's , are present on the Pokémon Showboat. However, it is uncertain which of these Pokémon belonged to Anne."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Theater, Theater...#Anne\nes:Anne (Kanto)\nit:Anne (GA090)\nja:アンヌ\nzh:安诺"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Anne (EP090)",
+    "pageType": "character",
+    "searchableText": "Anne (EP090)\nCategory:Orange Islands characters of the day\nAnne (Japanese: アンヌ Anne) is a character of the day who appeared in Stage Fight.\n\nAnne was a member of the Pokémon Showboat Crew along with Roger, Kay, and Len. One of her most popular voice overs for the Pokémon show was that of . When boarded their boat and held their Pokémon captive, Anne helped trick Team Rocket into believing all of the Pokémon knew how to talk.",
+    "sectionHeadings": [
+      "Lead",
+      "Status unknown",
+      "Voice actors"
+    ],
+    "characterCount": 667,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Ryo Takamisaki",
+    "slug": "ryo-takamisaki",
+    "pageId": 79201,
+    "revisionId": 4298728
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga crew",
+    "sourceFileName": "ryo-takamisaki__79201.json",
+    "revisionTimestamp": "2025-05-11T11:06:12Z",
+    "fetchedAt": "2026-05-14T15:48:41.699Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Ryo Takamisaki (鷹岬 諒 Takamisaki Ryō) is a Japanese manga artist born on August 14, 1963. Ryo grew up in Ibaraki, Japan, and graduated from Nagoya University. Aside from Pokémon, he is known for series such as King of Fighters G, Godzilla vs. Megaguirus and the popular series MegaMan NT Warrior. He frequently uses in his works.",
+  "plainText": "Ryo Takamisaki (鷹岬 諒 Takamisaki Ryō) is a Japanese manga artist born on August 14, 1963. Ryo grew up in Ibaraki, Japan, and graduated from Nagoya University. Aside from Pokémon, he is known for series such as King of Fighters G, Godzilla vs. Megaguirus and the popular series MegaMan NT Warrior. He frequently uses in his works.\n\n==Pokémon manga by Ryo Takamisaki==\n\n \n \n\nes:Ryo Takamisaki\nit:Ryo Takamisaki",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ryo Takamisaki (鷹岬 諒 Takamisaki Ryō) is a Japanese manga artist born on August 14, 1963. Ryo grew up in Ibaraki, Japan, and graduated from Nagoya University. Aside from Pokémon, he is known for series such as King of Fighters G, Godzilla vs. Megaguirus and the popular series MegaMan NT Warrior. He frequently uses in his works."
+    },
+    {
+      "heading": "Pokémon manga by Ryo Takamisaki",
+      "level": 2,
+      "text": "es:Ryo Takamisaki\nit:Ryo Takamisaki"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ryo Takamisaki",
+    "pageType": "manga-series",
+    "searchableText": "Ryo Takamisaki\nCategory:Manga crew\nRyo Takamisaki (鷹岬 諒 Takamisaki Ryō) is a Japanese manga artist born on August 14, 1963. Ryo grew up in Ibaraki, Japan, and graduated from Nagoya University. Aside from Pokémon, he is known for series such as King of Fighters G, Godzilla vs. Megaguirus and the popular series MegaMan NT Warrior. He frequently uses in his works.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon manga by Ryo Takamisaki"
+    ],
+    "characterCount": 407,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Jack (Galar)",
+    "slug": "jack-galar",
+    "pageId": 247644,
+    "revisionId": 4295046
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Twilight Wings characters",
+    "sourceFileName": "jack-galar__247644.json",
+    "revisionTimestamp": "2025-05-06T20:14:34Z",
+    "fetchedAt": "2026-05-14T14:25:25.005Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Jack (Japanese: ポケモンセンターの Pokémon Center Staff) is a character in who can be found behind the left counter in every Pokémon Center in Galar. He offers the services of the Name Rater, Memory Girl, Move Reminder, and Move Deleter from previous games, being able to change a Pokémon's nickname, check a Pokémon's memories (after the player has obtained three Badges), have a Pokémon remember a move, and have a Pokémon forget a move. All of Jack's services are free of charge.\n\nHis name is derived from the term 'jack-of-all-trades', referring to the multiple different services he can provide. He shares his model with the Trainer class. He is always accompanied by an , the gender of which varies depending on the specific Pokémon Center.",
+  "plainText": "Jack (Japanese: ポケモンセンターの Pokémon Center Staff) is a character in who can be found behind the left counter in every Pokémon Center in Galar. He offers the services of the Name Rater, Memory Girl, Move Reminder, and Move Deleter from previous games, being able to change a Pokémon's nickname, check a Pokémon's memories (after the player has obtained three Badges), have a Pokémon remember a move, and have a Pokémon forget a move. All of Jack's services are free of charge.\n\nHis name is derived from the term 'jack-of-all-trades', referring to the multiple different services he can provide. He shares his model with the Trainer class. He is always accompanied by an , the gender of which varies depending on the specific Pokémon Center.\n\n==Pokémon==\n \n\n==Gallery==\n===Models===\n \n\n==Quotes==\n \n===Pokémon Sword and Shield===\nAny Pokémon Center\n\"Got some Pokémon questions? Feel free to ask away.\"\nRate a nickname: \"Which Pokémon's nickname should I rate for you?\"'\nIf an Egg is selected\n\"Now, now... That is merely an Egg.\"\nIf a nicknamed outsider Pokémon is selected\n\"Hmmm. ! That is a truly impeccable nickname! I can't say anything bad about it! Take good care of !\"\nIf a Pokémon whose Original Trainer is the player or an outsider Pokémon without a nickname is selected\n\"Hmmm. , is it? That is quite a fine nickname. But I think we could give it something even better. What do you think?\"\nNo: \"All right. Let me know if you change your mind.\"\nYes: \"I see! What would you like the new nickname to be?\"\nAfter a name is inputted for an outsider Pokémon that didn't have a nickname\n\"For a Pokémon you got from another Trainer, you only get one go at changing its name. It'll be from now on and forever. So you're sure that's the name you want?\"\nAfter a name is inputted (or confirmed for an outsider Pokémon)\n\"Done! From now on, this Pokémon shall be known as !\"\nIf different from old name\n\"You're right—that does seem to fit it better. Nicely done!\"\nIf the same as old name\n\"It looks no different from before, but we both know this name is much better! How fortunate for you!\"\n\"Shall I rate another Pokémon's name?\"\n\nCheck a Pokémon's memories:\nFirst time\n\"Somehow I can tell what Pokémon remember.\"\n\"Which Pokémon's memories are you interested in?\"\n\" \"\nIf there are two memories, followed by\n\" seems to have memories from its time with another Trainer. \"\n\"Do you want to hear about the memories of any other Pokémon?\"\n\nRemember a move:\nFirst time\n\"I can have your Pokémon remember any move they should've had the chance to learn up until where they are now.\"\n\"Which Pokémon should I have remember a move?\"\nIf the selected Pokémon cannot be taught a move\n\"It doesn't seem like that Pokémon has any moves that it can remember.\"\nIf the selected Pokémon can be taught a move\n\"Which move should it remember?\"\n\"Is there another Pokémon you'd like me to help remember some moves?\"\n\nForget a move:\nFirst time\n\"You want one of your Pokémon to forget a move? If you want your Pokémon to use a move it's forgotten, it'll have to relearn the move first. So be careful.\"\n\"Which Pokémon should I have forget a move?\"\nIf the selected Pokémon cannot forget a move\n\"It doesn't seem like that Pokémon has any moves that it can forget.\"\nIf the selected Pokémon can forget a move\n\"Which move should it forget?\"\n\"Would you like me to have your Pokémon forget any other moves?\"\n\n\"Well, come back anytime.\"\n\n==In animation==\n ]]\n===Pokémon: Twilight Wings===\nJack briefly appeared in Buddy, where he was among the people Hop approached while searching for his runaway .\n\n====Pokémon====\n \n\n===Pokémon Evolutions===\nJack made a cameo in The Champion.\n\n==Trivia==\nJack is the first Move Reminder in the core series games to not charge for the service.\n\n==Names==\n \n\n==References==\n \n\n==Related articles==\nName Rater\nMove Reminder\nMove Deleter\nMemory (game mechanic)\n\n \n \n\n \n \n \n\nde:Jack (Galar)\nfr:Jack (Galar)\nit:Jack (Galar)\nzh:寶可夢中心的職員",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jack (Japanese: ポケモンセンターの Pokémon Center Staff) is a character in who can be found behind the left counter in every Pokémon Center in Galar. He offers the services of the Name Rater, Memory Girl, Move Reminder, and Move Deleter from previous games, being able to change a Pokémon's nickname, check a Pokémon's memories (after the player has obtained three Badges), have a Pokémon remember a move, and have a Pokémon forget a move. All of Jack's services are free of charge.\n\nHis name is derived from the term 'jack-of-all-trades', referring to the multiple different services he can provide. He shares his model with the Trainer class. He is always accompanied by an , the gender of which varies depending on the specific Pokémon Center."
+    },
+    {
+      "heading": "Pokémon Sword and Shield",
+      "level": 3,
+      "text": "Any Pokémon Center\n\"Got some Pokémon questions? Feel free to ask away.\"\nRate a nickname: \"Which Pokémon's nickname should I rate for you?\"'\nIf an Egg is selected\n\"Now, now... That is merely an Egg.\"\nIf a nicknamed outsider Pokémon is selected\n\"Hmmm. ! That is a truly impeccable nickname! I can't say anything bad about it! Take good care of !\"\nIf a Pokémon whose Original Trainer is the player or an outsider Pokémon without a nickname is selected\n\"Hmmm. , is it? That is quite a fine nickname. But I think we could give it something even better. What do you think?\"\nNo: \"All right. Let me know if you change your mind.\"\nYes: \"I see! What would you like the new nickname to be?\"\nAfter a name is inputted for an outsider Pokémon that didn't have a nickname\n\"For a Pokémon you got from another Trainer, you only get one go at changing its name. It'll be from now on and forever. So you're sure that's the name you want?\"\nAfter a name is inputted (or confirmed for an outsider Pokémon)\n\"Done! From now on, this Pokémon shall be known as !\"\nIf different from old name\n\"You're right—that does seem to fit it better. Nicely done!\"\nIf the same as old name\n\"It looks no different from before, but we both know this name is much better! How fortunate for you!\"\n\"Shall I rate another Pokémon's name?\"\n\nCheck a Pokémon's memories:\nFirst time\n\"Somehow I can tell what Pokémon remember.\"\n\"Which Pokémon's memories are you interested in?\"\n\" \"\nIf there are two memories, followed by\n\" seems to have memories from its time with another Trainer. \"\n\"Do you want to hear about the memories of any other Pokémon?\"\n\nRemember a move:\nFirst time\n\"I can have your Pokémon remember any move they should've had the chance to learn up until where they are now.\"\n\"Which Pokémon should I have remember a move?\"\nIf the selected Pokémon cannot be taught a move\n\"It doesn't seem like that Pokémon has any moves that it can remember.\"\nIf the selected Pokémon can be taught a move\n\"Which move should it remember?\"\n\"Is there another Pokémon you'd like me to help remember some moves?\"\n\nForget a move:\nFirst time\n\"You want one of your Pokémon to forget a move? If you want your Pokémon to use a move it's forgotten, it'll have to relearn the move first. So be careful.\"\n\"Which Pokémon should I have forget a move?\"\nIf the selected Pokémon cannot forget a move\n\"It doesn't seem like that Pokémon has any moves that it can forget.\"\nIf the selected Pokémon can forget a move\n\"Which move should it forget?\"\n\"Would you like me to have your Pokémon forget any other moves?\"\n\n\"Well, come back anytime.\""
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "]]"
+    },
+    {
+      "heading": "Pokémon: Twilight Wings",
+      "level": 3,
+      "text": "Jack briefly appeared in Buddy, where he was among the people Hop approached while searching for his runaway ."
+    },
+    {
+      "heading": "Pokémon Evolutions",
+      "level": 3,
+      "text": "Jack made a cameo in The Champion."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Jack is the first Move Reminder in the core series games to not charge for the service."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Name Rater\nMove Reminder\nMove Deleter\nMemory (game mechanic)\n\n \n \n\n \n \n \n\nde:Jack (Galar)\nfr:Jack (Galar)\nit:Jack (Galar)\nzh:寶可夢中心的職員"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jack (Galar)",
+    "pageType": "character",
+    "searchableText": "Jack (Galar)\nCategory:Pokémon: Twilight Wings characters\nJack (Japanese: ポケモンセンターの Pokémon Center Staff) is a character in who can be found behind the left counter in every Pokémon Center in Galar. He offers the services of the Name Rater, Memory Girl, Move Reminder, and Move Deleter from previous games, being able to change a Pokémon's nickname, check a Pokémon's memories (after the player has obtained three Badges), have a Pokémon remember a move, and have a Pokémon forget a move. All of Jack's services are free of charge.\n\nHis name is derived from the term 'jack-of-all-trades', referring to the multiple different services he can provide. He shares his model with the Trainer class. He is always accompanied by an , the gender of which varies depending on the specific Pokémon Center.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon Sword and Shield",
+      "In animation",
+      "Pokémon: Twilight Wings",
+      "Pokémon Evolutions",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 3916,
+    "sectionCount": 7
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS52",
+    "slug": "pmrs52",
+    "pageId": 172746,
+    "revisionId": 4296721
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs52__172746.json",
+    "revisionTimestamp": "2025-05-09T03:14:55Z",
+    "fetchedAt": "2026-05-14T15:33:45.053Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "It's A Crazy Festival! And There're No Rules! (Japanese: ルールなし！あばれ競争祭り！？ No Rules! The Rampaging Contest Festival!?) is the fifty-second chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "It's A Crazy Festival! And There're No Rules! (Japanese: ルールなし！あばれ競争祭り！？ No Rules! The Rampaging Contest Festival!?) is the fifty-second chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "It's A Crazy Festival! And There're No Rules! (Japanese: ルールなし！あばれ競争祭り！？ No Rules! The Rampaging Contest Festival!?) is the fifty-second chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS52",
+    "pageType": "chapter",
+    "searchableText": "PMRS52\nCategory:Pokémon Ruby-Sapphire chapters\nIt's A Crazy Festival! And There're No Rules! (Japanese: ルールなし！あばれ競争祭り！？ No Rules! The Rampaging Contest Festival!?) is the fifty-second chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 304,
+    "sectionCount": 2
+  }
+}

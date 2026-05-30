@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Lizzy",
+    "slug": "lizzy",
+    "pageId": 199928,
+    "revisionId": 4096060
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "lizzy__199928.json",
+    "revisionTimestamp": "2024-09-01T00:49:12Z",
+    "fetchedAt": "2026-05-14T14:33:03.439Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Lizzy (Japanese: ユカリ Yukari) is a character of the day who appeared in A Bout With Sprout. She is a student at Earl's Pokémon academy.\n\nLizzy was first seen approaching Ash's Pikachu, wanting to play with him, but this quickly erupted into an argument with Zackie, who also wanted to play. In class, she sat next to Zackie and showed a keen interest in 's stories about his Pokémon battles. She was later seen with the other students at the Sprout Tower before they evacuated due to a sudden build-up of smoke.",
+  "plainText": "Lizzy (Japanese: ユカリ Yukari) is a character of the day who appeared in A Bout With Sprout. She is a student at Earl's Pokémon academy.\n\nLizzy was first seen approaching Ash's Pikachu, wanting to play with him, but this quickly erupted into an argument with Zackie, who also wanted to play. In class, she sat next to Zackie and showed a keen interest in 's stories about his Pokémon battles. She was later seen with the other students at the Sprout Tower before they evacuated due to a sudden build-up of smoke.\n\n==Voice actor==\n \n \n \n\n \n \n \n\nit:Lizzy",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lizzy (Japanese: ユカリ Yukari) is a character of the day who appeared in A Bout With Sprout. She is a student at Earl's Pokémon academy.\n\nLizzy was first seen approaching Ash's Pikachu, wanting to play with him, but this quickly erupted into an argument with Zackie, who also wanted to play. In class, she sat next to Zackie and showed a keen interest in 's stories about his Pokémon battles. She was later seen with the other students at the Sprout Tower before they evacuated due to a sudden build-up of smoke."
+    },
+    {
+      "heading": "Voice actor",
+      "level": 2,
+      "text": "it:Lizzy"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lizzy",
+    "pageType": "character",
+    "searchableText": "Lizzy\nCategory:Johto characters of the day\nLizzy (Japanese: ユカリ Yukari) is a character of the day who appeared in A Bout With Sprout. She is a student at Earl's Pokémon academy.\n\nLizzy was first seen approaching Ash's Pikachu, wanting to play with him, but this quickly erupted into an argument with Zackie, who also wanted to play. In class, she sat next to Zackie and showed a keen interest in 's stories about his Pokémon battles. She was later seen with the other students at the Sprout Tower before they evacuated due to a sudden build-up of smoke.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actor"
+    ],
+    "characterCount": 550,
+    "sectionCount": 2
+  }
+}

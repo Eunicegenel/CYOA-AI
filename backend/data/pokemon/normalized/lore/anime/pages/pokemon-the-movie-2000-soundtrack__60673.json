@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon the Movie 2000 (soundtrack)",
+    "slug": "pokemon-the-movie-2000-soundtrack",
+    "pageId": 60673,
+    "revisionId": 4285851
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie soundtracks",
+    "sourceFileName": "pokemon-the-movie-2000-soundtrack__60673.json",
+    "revisionTimestamp": "2025-04-23T00:10:54Z",
+    "fetchedAt": "2026-05-14T14:43:40.728Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Pokémon the Movie 2000 is the English soundtrack to the second Pokémon movie, The Power of One. It was released in the United States on July 18, 2000 by .\n\nIt is one of the few English Pokémon soundtracks not available in the iTunes Store, possibly due to difficulty with licensing as many contemporary pop stars performed on the album.\n\nThe soundtrack, along with the movie, were promoted with a television special titled The Power of One: The Pokémon 2000 Movie Special, which featured live performances of the songs on the soundtrack.",
+  "plainText": "Pokémon the Movie 2000 is the English soundtrack to the second Pokémon movie, The Power of One. It was released in the United States on July 18, 2000 by .\n\nIt is one of the few English Pokémon soundtracks not available in the iTunes Store, possibly due to difficulty with licensing as many contemporary pop stars performed on the album.\n\nThe soundtrack, along with the movie, were promoted with a television special titled The Power of One: The Pokémon 2000 Movie Special, which featured live performances of the songs on the soundtrack.\n\n==Tracklist==\n \n\n==Trivia==\nThe album is a Hyper CD, containing \"bonus film footage\" as data. This data consisted of a to a hidden website that hosted the footage.\n\n==Related articles==\n \n \n \n \n \n\nde:Pokémon the Movie 2000: The Power of One (CD)\nit:Pokémon the Movie 2000 (album)\nzh:Pokémon the Movie 2000 The Power of One",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon the Movie 2000 is the English soundtrack to the second Pokémon movie, The Power of One. It was released in the United States on July 18, 2000 by .\n\nIt is one of the few English Pokémon soundtracks not available in the iTunes Store, possibly due to difficulty with licensing as many contemporary pop stars performed on the album.\n\nThe soundtrack, along with the movie, were promoted with a television special titled The Power of One: The Pokémon 2000 Movie Special, which featured live performances of the songs on the soundtrack."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The album is a Hyper CD, containing \"bonus film footage\" as data. This data consisted of a to a hidden website that hosted the footage."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Pokémon the Movie 2000: The Power of One (CD)\nit:Pokémon the Movie 2000 (album)\nzh:Pokémon the Movie 2000 The Power of One"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon the Movie 2000 (soundtrack)",
+    "pageType": "movie",
+    "searchableText": "Pokémon the Movie 2000 (soundtrack)\nCategory:Movie soundtracks\nPokémon the Movie 2000 is the English soundtrack to the second Pokémon movie, The Power of One. It was released in the United States on July 18, 2000 by .\n\nIt is one of the few English Pokémon soundtracks not available in the iTunes Store, possibly due to difficulty with licensing as many contemporary pop stars performed on the album.\n\nThe soundtrack, along with the movie, were promoted with a television special titled The Power of One: The Pokémon 2000 Movie Special, which featured live performances of the songs on the soundtrack.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 861,
+    "sectionCount": 3
+  }
+}

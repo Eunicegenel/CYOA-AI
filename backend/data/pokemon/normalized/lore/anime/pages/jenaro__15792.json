@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Jenaro",
+    "slug": "jenaro",
+    "pageId": 15792,
+    "revisionId": 4095329
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "jenaro__15792.json",
+    "revisionTimestamp": "2024-09-01T00:23:42Z",
+    "fetchedAt": "2026-05-14T14:25:53.361Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Jenaro (Japanese: シンタロー Shintarō) is a character of the day who appeared in Hi Ho Silver...Away!. He lives near Kasado City on Silver Rock Isle.\n\nJenaro is a silver rock craftsman who makes jewelry with his . He was constantly getting yelled at by Ariene, who thought he was going to hurt himself at the rate he was working on silver rock sculptures. In reality, Jenaro really loved Ariene, and he wanted to make her a new Silver Wing pin to replace her old and worn one.\n\n appeared with a giant vacuum and tried to steal all of the silver rock jewelry on the island. With the help of and his friends, Jenaro successfully retrieved Ariene's Silver Wing pin. Using it, he proposed to Ariene, who happily accepted.",
+  "plainText": "Jenaro (Japanese: シンタロー Shintarō) is a character of the day who appeared in Hi Ho Silver...Away!. He lives near Kasado City on Silver Rock Isle.\n\nJenaro is a silver rock craftsman who makes jewelry with his . He was constantly getting yelled at by Ariene, who thought he was going to hurt himself at the rate he was working on silver rock sculptures. In reality, Jenaro really loved Ariene, and he wanted to make her a new Silver Wing pin to replace her old and worn one.\n\n appeared with a giant vacuum and tried to steal all of the silver rock jewelry on the island. With the help of and his friends, Jenaro successfully retrieved Ariene's Silver Wing pin. Using it, he proposed to Ariene, who happily accepted.\n\n==Pokémon==\n \n \n\n==Voice actors==\n \n \n \n\n \n \n \n\nes:Jenaro\nfr:Jenaro\nit:Jano",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jenaro (Japanese: シンタロー Shintarō) is a character of the day who appeared in Hi Ho Silver...Away!. He lives near Kasado City on Silver Rock Isle.\n\nJenaro is a silver rock craftsman who makes jewelry with his . He was constantly getting yelled at by Ariene, who thought he was going to hurt himself at the rate he was working on silver rock sculptures. In reality, Jenaro really loved Ariene, and he wanted to make her a new Silver Wing pin to replace her old and worn one.\n\n appeared with a giant vacuum and tried to steal all of the silver rock jewelry on the island. With the help of and his friends, Jenaro successfully retrieved Ariene's Silver Wing pin. Using it, he proposed to Ariene, who happily accepted."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Jenaro\nfr:Jenaro\nit:Jano"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jenaro",
+    "pageType": "character",
+    "searchableText": "Jenaro\nCategory:Johto characters of the day\nJenaro (Japanese: シンタロー Shintarō) is a character of the day who appeared in Hi Ho Silver...Away!. He lives near Kasado City on Silver Rock Isle.\n\nJenaro is a silver rock craftsman who makes jewelry with his . He was constantly getting yelled at by Ariene, who thought he was going to hurt himself at the rate he was working on silver rock sculptures. In reality, Jenaro really loved Ariene, and he wanted to make her a new Silver Wing pin to replace her old and worn one.\n\n appeared with a giant vacuum and tried to steal all of the silver rock jewelry on the island. With the help of and his friends, Jenaro successfully retrieved Ariene's Silver Wing pin. Using it, he proposed to Ariene, who happily accepted.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 789,
+    "sectionCount": 2
+  }
+}

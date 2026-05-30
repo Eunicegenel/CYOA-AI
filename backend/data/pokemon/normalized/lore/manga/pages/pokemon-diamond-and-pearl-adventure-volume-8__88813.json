@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Diamond and Pearl Adventure! volume 8",
+    "slug": "pokemon-diamond-and-pearl-adventure-volume-8",
+    "pageId": 88813,
+    "revisionId": 4298288
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Diamond and Pearl Adventure! volumes",
+    "sourceFileName": "pokemon-diamond-and-pearl-adventure-volume-8__88813.json",
+    "revisionTimestamp": "2025-05-11T10:03:38Z",
+    "fetchedAt": "2026-05-14T15:36:23.430Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 8 is the eighth and final volume of the Pokémon Diamond and Pearl Adventure! manga created by 伊原しげかつ Shigekatsu Ihara.",
+  "plainText": "Volume 8 is the eighth and final volume of the Pokémon Diamond and Pearl Adventure! manga created by 伊原しげかつ Shigekatsu Ihara.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\nChapter 1: The Birth of the Greatest Tag Team?!\nChapter 2: Koya's Sad Reunion\nChapter 3: Enter the Distortion World!\nChapter 4: Hareta's Fierce Battle!\nFinal Chapter: Gathering of the Legendary Pokémon!\nSpecial Chapter: Hareta's Future\n\n==Trivia==\nThis volume was published in the United States by VIZ Media on the same day that of Pokémon Adventures was published in Singapore by Chuang Yi.\n\n===Errors===\nWhen B-2 is talking to Jupiter, their word bubbles are in the wrong places.\n \n\n \n\nes:Tomo 8 (Pokémon Diamond and Pearl Adventure!)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 8 is the eighth and final volume of the Pokémon Diamond and Pearl Adventure! manga created by 伊原しげかつ Shigekatsu Ihara."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 1: The Birth of the Greatest Tag Team?!\nChapter 2: Koya's Sad Reunion\nChapter 3: Enter the Distortion World!\nChapter 4: Hareta's Fierce Battle!\nFinal Chapter: Gathering of the Legendary Pokémon!\nSpecial Chapter: Hareta's Future"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This volume was published in the United States by VIZ Media on the same day that of Pokémon Adventures was published in Singapore by Chuang Yi."
+    },
+    {
+      "heading": "Errors",
+      "level": 3,
+      "text": "When B-2 is talking to Jupiter, their word bubbles are in the wrong places.\n \n\n \n\nes:Tomo 8 (Pokémon Diamond and Pearl Adventure!)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Diamond and Pearl Adventure! volume 8",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Diamond and Pearl Adventure! volume 8\nCategory:Pokémon Diamond and Pearl Adventure! volumes\nVolume 8 is the eighth and final volume of the Pokémon Diamond and Pearl Adventure! manga created by 伊原しげかつ Shigekatsu Ihara.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Trivia",
+      "Errors"
+    ],
+    "characterCount": 708,
+    "sectionCount": 4
+  }
+}

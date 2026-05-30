@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Iyori",
+    "slug": "iyori",
+    "pageId": 172954,
+    "revisionId": 4487250
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "iyori__172954.json",
+    "revisionTimestamp": "2026-02-16T01:45:27Z",
+    "fetchedAt": "2026-05-14T15:22:12.056Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Iyori (Japanese: イヨリ Iyori) is a character who appeared in Pokémon Ranger the Comic: Double Mission. She is a young girl who lives in Fall City, having moved to Fiore from the Sinnoh region.",
+  "plainText": "Iyori (Japanese: イヨリ Iyori) is a character who appeared in Pokémon Ranger the Comic: Double Mission. She is a young girl who lives in Fall City, having moved to Fiore from the Sinnoh region.\n\n==History==\nIyori first appears in her apartment after a fire had set it ablaze. She was rescued by Lunick, a , with the help of the Pokémon he had found in the area. Because she had only been in Fiore for a short time, Iyori was initially confused about the Rangers' work. As he saved her from the burning building, Lunick explained everything to her in detail. After the fire was put out, Iyori felt bad for Lunick having to risk his life to save her. Lunick cheers her up by stating that he has no problem with doing so because he loves protecting nature. \n\nLater, Iyori was taken to the Ranger Base for temporary shelter. Because no one had the time to look after her, Solana forces Professor Hastings to do the job and cheer her up. When Lunick and Solana battle the Go-Rock Quads, a worried Iyori watches the battle with Professor Hastings. When Solana and Lunick return from their mission successful, they are shocked to see that Iyori has been made Professor Hastings' assistant after she cleaned his very messy office.\n\nBecause no one in Fiore knows how to hatch Pokémon, they ask Iyori if she knows of a place where the Egg that was taken from the Quads can be hatched. Iyori recommends that they should send the Egg to a Trainer from her home region, Sinnoh. While they wait for a Trainer to answer their request, Iyori takes care of the Egg by singing to it. In The Final Dimensional Duel XI of Pokémon Adventures, it was revealed that the Egg was given to Looker, who then proceeded to hand it to , , and so that they can hatch it.\n\nIn Pokémon Ranger: The Comic – Shadows of Almia, Iyori makes a cameo with Professor Hastings where they see off after the defeat of Team Dim Sun.\n\n==Names==\n \n \n\n \n \n \n \n\nit:Iyori\nja:イヨリ\nzh:依和",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Iyori (Japanese: イヨリ Iyori) is a character who appeared in Pokémon Ranger the Comic: Double Mission. She is a young girl who lives in Fall City, having moved to Fiore from the Sinnoh region."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Iyori first appears in her apartment after a fire had set it ablaze. She was rescued by Lunick, a , with the help of the Pokémon he had found in the area. Because she had only been in Fiore for a short time, Iyori was initially confused about the Rangers' work. As he saved her from the burning building, Lunick explained everything to her in detail. After the fire was put out, Iyori felt bad for Lunick having to risk his life to save her. Lunick cheers her up by stating that he has no problem with doing so because he loves protecting nature. \n\nLater, Iyori was taken to the Ranger Base for temporary shelter. Because no one had the time to look after her, Solana forces Professor Hastings to do the job and cheer her up. When Lunick and Solana battle the Go-Rock Quads, a worried Iyori watches the battle with Professor Hastings. When Solana and Lunick return from their mission successful, they are shocked to see that Iyori has been made Professor Hastings' assistant after she cleaned his very messy office.\n\nBecause no one in Fiore knows how to hatch Pokémon, they ask Iyori if she knows of a place where the Egg that was taken from the Quads can be hatched. Iyori recommends that they should send the Egg to a Trainer from her home region, Sinnoh. While they wait for a Trainer to answer their request, Iyori takes care of the Egg by singing to it. In The Final Dimensional Duel XI of Pokémon Adventures, it was revealed that the Egg was given to Looker, who then proceeded to hand it to , , and so that they can hatch it.\n\nIn Pokémon Ranger: The Comic – Shadows of Almia, Iyori makes a cameo with Professor Hastings where they see off after the defeat of Team Dim Sun."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "it:Iyori\nja:イヨリ\nzh:依和"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Iyori",
+    "pageType": "character",
+    "searchableText": "Iyori\nCategory:Pokémon Adventures characters\nIyori (Japanese: イヨリ Iyori) is a character who appeared in Pokémon Ranger the Comic: Double Mission. She is a young girl who lives in Fall City, having moved to Fiore from the Sinnoh region.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Names"
+    ],
+    "characterCount": 1930,
+    "sectionCount": 3
+  }
+}

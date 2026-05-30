@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Mirage Berry",
+    "slug": "mirage-berry",
+    "pageId": 230483,
+    "revisionId": 4132128
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures",
+    "sourceFileName": "mirage-berry__230483.json",
+    "revisionTimestamp": "2024-09-29T04:30:22Z",
+    "fetchedAt": "2026-05-14T15:26:36.162Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "A (Japanese: の Mirage Berry) is a type of Berry that has only appeared in the Pokémon Adventures . They are Berries liked by the guardian deities of the Alola region.",
+  "plainText": "A (Japanese: の Mirage Berry) is a type of Berry that has only appeared in the Pokémon Adventures . They are Berries liked by the guardian deities of the Alola region.\n\n==History==\nIn Going Ashore and Neighboring Akala Island, Hala gave the task of delivering a Mirage Berry to each of the four guardian deities of Alola. Due to his need to quickly gather a large amount of money, Sun initially refused the task until Hala revealed he fully intended on paying him for the mission.\n\nIn True Identity and the Totem Pokémon of Brooklet Hill, Sun realized that he was never given any Mirage Berries to deliver and would have to find them on his own. Worried that searching would interfere with his first trial at Brooklet Hill, Sun asked to help search for the Mirage Berries, which she agreed to. Together, Moon and Mallow traveled to Lush Jungle to search for a Mirage Berry.\n\nIn Homecoming and the Brilliant Professional Golfer, after several failed attempts at finding what they were looking for, Mallow had her and Moon's Pokémon communicate with the wild Pokémon in the area and ask for their assistance. The wild Pokémon agreed to help and found as many Berries as they could and gathered them into a large pile. After a quick search, Moon successfully acquired a Mirage Berry.\n\nIn Unleashing the Incredible Z-Move, Sun successfully delivered a Mirage Berry to .\n\nIn An Urgent Task and the Capture of an Ultra Beast, Professor Kukui delivered Sun one of the Mirage Berry packages he had accidentally left behind on his boat, allowing him to give the Berry to .\n\nWhen Sun later arrived on Poni Island with the Mirage Berry meant for , the Berry was stolen by a group of . Sun was eventually able to recover the Berry with Hapu's help and gave it to Tapu Fini in The Truth and Island Kahuna Hapu.\n\n==See also==\nMelody Berry\nPinkan Berry\nRinka Berry\n\n \n\n \n \n \n\nes:Baya Espejismo\nit:Bacca Miraggio",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A (Japanese: の Mirage Berry) is a type of Berry that has only appeared in the Pokémon Adventures . They are Berries liked by the guardian deities of the Alola region."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "In Going Ashore and Neighboring Akala Island, Hala gave the task of delivering a Mirage Berry to each of the four guardian deities of Alola. Due to his need to quickly gather a large amount of money, Sun initially refused the task until Hala revealed he fully intended on paying him for the mission.\n\nIn True Identity and the Totem Pokémon of Brooklet Hill, Sun realized that he was never given any Mirage Berries to deliver and would have to find them on his own. Worried that searching would interfere with his first trial at Brooklet Hill, Sun asked to help search for the Mirage Berries, which she agreed to. Together, Moon and Mallow traveled to Lush Jungle to search for a Mirage Berry.\n\nIn Homecoming and the Brilliant Professional Golfer, after several failed attempts at finding what they were looking for, Mallow had her and Moon's Pokémon communicate with the wild Pokémon in the area and ask for their assistance. The wild Pokémon agreed to help and found as many Berries as they could and gathered them into a large pile. After a quick search, Moon successfully acquired a Mirage Berry.\n\nIn Unleashing the Incredible Z-Move, Sun successfully delivered a Mirage Berry to .\n\nIn An Urgent Task and the Capture of an Ultra Beast, Professor Kukui delivered Sun one of the Mirage Berry packages he had accidentally left behind on his boat, allowing him to give the Berry to .\n\nWhen Sun later arrived on Poni Island with the Mirage Berry meant for , the Berry was stolen by a group of . Sun was eventually able to recover the Berry with Hapu's help and gave it to Tapu Fini in The Truth and Island Kahuna Hapu."
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "Melody Berry\nPinkan Berry\nRinka Berry\n\n \n\n \n \n \n\nes:Baya Espejismo\nit:Bacca Miraggio"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mirage Berry",
+    "pageType": "pokemon-related",
+    "searchableText": "Mirage Berry\nCategory:Pokémon Adventures\nA (Japanese: の Mirage Berry) is a type of Berry that has only appeared in the Pokémon Adventures . They are Berries liked by the guardian deities of the Alola region.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "See also"
+    ],
+    "characterCount": 1895,
+    "sectionCount": 3
+  }
+}

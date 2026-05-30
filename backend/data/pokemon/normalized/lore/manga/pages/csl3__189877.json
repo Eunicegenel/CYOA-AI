@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "CSL3",
+    "slug": "csl3",
+    "pageId": 189877,
+    "revisionId": 4528533
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Colosseum Snatcher Leo chapters",
+    "sourceFileName": "csl3__189877.json",
+    "revisionTimestamp": "2026-04-09T16:25:39Z",
+    "fetchedAt": "2026-05-14T15:16:30.050Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: バトルの始まりだッ！ The Battle Begins!) This is the third and final chapter of the Pokémon Colosseum Snatcher Leo manga created by 大内 水軍 Oouchi Suigun. It was released in the March 2003 issue of Shogaku Ninensei.",
+  "plainText": "(Japanese: バトルの始まりだッ！ The Battle Begins!) This is the third and final chapter of the Pokémon Colosseum Snatcher Leo manga created by 大内 水軍 Oouchi Suigun. It was released in the March 2003 issue of Shogaku Ninensei.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nEin\n\n====Pokémon debuts====\n( , Leo's)\n( , Ein's)\n(Ein's)\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n(Duking's)\n\n==Characters==\n===Humans===\nLeo\nRui\nDuking\nDakim\nEin\n\n===Pokémon===\n(Leo's)\n(Leo's)\n( , Leo's)\n( , Leo's)\n( , Ein's)\n(Ein's)\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n(Duking's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: バトルの始まりだッ！ The Battle Begins!) This is the third and final chapter of the Pokémon Colosseum Snatcher Leo manga created by 大内 水軍 Oouchi Suigun. It was released in the March 2003 issue of Shogaku Ninensei."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Ein"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( , Leo's)\n( , Ein's)\n(Ein's)\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n(Duking's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Leo\nRui\nDuking\nDakim\nEin"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Leo's)\n(Leo's)\n( , Leo's)\n( , Leo's)\n( , Ein's)\n(Ein's)\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n(Duking's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CSL3",
+    "pageType": "chapter",
+    "searchableText": "CSL3\nCategory:Pokémon Colosseum Snatcher Leo chapters\n(Japanese: バトルの始まりだッ！ The Battle Begins!) This is the third and final chapter of the Pokémon Colosseum Snatcher Leo manga created by 大内 水軍 Oouchi Suigun. It was released in the March 2003 issue of Shogaku Ninensei.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 631,
+    "sectionCount": 5
+  }
+}

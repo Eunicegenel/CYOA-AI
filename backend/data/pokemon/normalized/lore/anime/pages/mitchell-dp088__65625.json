@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Mitchell (DP088)",
+    "slug": "mitchell-dp088",
+    "pageId": 65625,
+    "revisionId": 4300142
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "mitchell-dp088__65625.json",
+    "revisionTimestamp": "2025-05-13T11:16:00Z",
+    "fetchedAt": "2026-05-14T14:37:39.746Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mitchell (Japanese: ミツキ Mitsuki) is a minor recurring character in . He attended Professor Rowan's Pokémon Summer Academy and was on the Red Team alongside and .",
+  "plainText": "Mitchell (Japanese: ミツキ Mitsuki) is a minor recurring character in . He attended Professor Rowan's Pokémon Summer Academy and was on the Red Team alongside and . \n\n==History==\nWhile his first appearance was in Camping It Up!, he didn't receive a speaking role until Ghoul Daze!. He paired up with for the fourth day activity, in which students had to find the Summit Medal in the Summit Ruins at night. As the path leading to the ruins is inhabited by many , Mitchell was afraid though Brock taught him how to befriend any type of Pokémon by giving them .\n\n==Pokémon==\n===On hand===\nThis listing is of Mitchell's known Pokémon:\n \n\n===Temporary===\n \n\n \n\n==Pokémon competitions==\nMitchell has competed in the following :\nPokémon Summer Academy - Winner ( ; One Team, Two Team, Red Team, Blue Team!)\nPokémon Triathlon - N/A (One Team, Two Team, Red Team, Blue Team!)\n\n==Voice actors==\n \n \n \n \n\nes:Mitchell (Sinnoh)\nfr:Mitchell (Sinnoh)\nit:Mitchell (DP088)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mitchell (Japanese: ミツキ Mitsuki) is a minor recurring character in . He attended Professor Rowan's Pokémon Summer Academy and was on the Red Team alongside and ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "While his first appearance was in Camping It Up!, he didn't receive a speaking role until Ghoul Daze!. He paired up with for the fourth day activity, in which students had to find the Summit Medal in the Summit Ruins at night. As the path leading to the ruins is inhabited by many , Mitchell was afraid though Brock taught him how to befriend any type of Pokémon by giving them ."
+    },
+    {
+      "heading": "On hand",
+      "level": 3,
+      "text": "This listing is of Mitchell's known Pokémon:"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Mitchell has competed in the following :\nPokémon Summer Academy - Winner ( ; One Team, Two Team, Red Team, Blue Team!)\nPokémon Triathlon - N/A (One Team, Two Team, Red Team, Blue Team!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Mitchell (Sinnoh)\nfr:Mitchell (Sinnoh)\nit:Mitchell (DP088)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mitchell (DP088)",
+    "pageType": "character",
+    "searchableText": "Mitchell (DP088)\nCategory:Animation characters\nMitchell (Japanese: ミツキ Mitsuki) is a minor recurring character in . He attended Professor Rowan's Pokémon Summer Academy and was on the Red Team alongside and .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "On hand",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 952,
+    "sectionCount": 5
+  }
+}

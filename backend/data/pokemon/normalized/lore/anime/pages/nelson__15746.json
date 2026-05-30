@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Nelson",
+    "slug": "nelson",
+    "pageId": 15746,
+    "revisionId": 4289094
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "nelson__15746.json",
+    "revisionTimestamp": "2025-04-28T19:47:57Z",
+    "fetchedAt": "2026-05-14T14:39:07.297Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Nelson (Japanese: ナオヤ Naoya) is a character of the day who appeared in Entei at Your Own Risk. He is a young Pokémon Trainer from Johto who dreams of catching .\n\nNelson set up a complicated series of tripwires and alarms to detect where Entei would appear, then used his laptop to monitor them. However, the traps were set off by and instead of Entei. \n\nEventually, Entei appeared when nearly destroyed the hot springs. Nelson's strategy was to use to trap Entei so he could capture it, but didn't realize that Entei's would cancel out his Mean Look. After discovering this, it only added to Nelson's desire to capture the Legendary Pokémon.",
+  "plainText": "Nelson (Japanese: ナオヤ Naoya) is a character of the day who appeared in Entei at Your Own Risk. He is a young Pokémon Trainer from Johto who dreams of catching .\n\nNelson set up a complicated series of tripwires and alarms to detect where Entei would appear, then used his laptop to monitor them. However, the traps were set off by and instead of Entei. \n\nEventually, Entei appeared when nearly destroyed the hot springs. Nelson's strategy was to use to trap Entei so he could capture it, but didn't realize that Entei's would cancel out his Mean Look. After discovering this, it only added to Nelson's desire to capture the Legendary Pokémon.\n\n==Pokémon==\n \n \n\nNelson has at least one more Pokémon that was going to be used for the 2-on-2 battle.\n\n==Voice actors==\n \n\n==Trivia==\nNelson is very similar to Eusine, who also has an obsession with the legendary beasts. Additionally, both of their attempts to catch their encountered legendary beast failed because of the move .\n\n \n \n \n \n \n\nde:Das legendäre Entei#Nelson\nes:Nelson\nfr:Nelson\nit:Nelson\nja:ナオヤ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Nelson (Japanese: ナオヤ Naoya) is a character of the day who appeared in Entei at Your Own Risk. He is a young Pokémon Trainer from Johto who dreams of catching .\n\nNelson set up a complicated series of tripwires and alarms to detect where Entei would appear, then used his laptop to monitor them. However, the traps were set off by and instead of Entei. \n\nEventually, Entei appeared when nearly destroyed the hot springs. Nelson's strategy was to use to trap Entei so he could capture it, but didn't realize that Entei's would cancel out his Mean Look. After discovering this, it only added to Nelson's desire to capture the Legendary Pokémon."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "Nelson has at least one more Pokémon that was going to be used for the 2-on-2 battle."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Nelson is very similar to Eusine, who also has an obsession with the legendary beasts. Additionally, both of their attempts to catch their encountered legendary beast failed because of the move .\n\n \n \n \n \n \n\nde:Das legendäre Entei#Nelson\nes:Nelson\nfr:Nelson\nit:Nelson\nja:ナオヤ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Nelson",
+    "pageType": "character",
+    "searchableText": "Nelson\nCategory:Johto characters of the day\nNelson (Japanese: ナオヤ Naoya) is a character of the day who appeared in Entei at Your Own Risk. He is a young Pokémon Trainer from Johto who dreams of catching .\n\nNelson set up a complicated series of tripwires and alarms to detect where Entei would appear, then used his laptop to monitor them. However, the traps were set off by and instead of Entei. \n\nEventually, Entei appeared when nearly destroyed the hot springs. Nelson's strategy was to use to trap Entei so he could capture it, but didn't realize that Entei's would cancel out his Mean Look. After discovering this, it only added to Nelson's desire to capture the Legendary Pokémon.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1052,
+    "sectionCount": 3
+  }
+}

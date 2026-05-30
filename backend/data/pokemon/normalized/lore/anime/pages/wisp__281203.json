@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Wisp",
+    "slug": "wisp",
+    "pageId": 281203,
+    "revisionId": 4370219
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ghosts",
+    "sourceFileName": "wisp__281203.json",
+    "revisionTimestamp": "2025-08-31T07:17:32Z",
+    "fetchedAt": "2026-05-14T14:57:52.654Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "A wisp (Japanese: ともしび light) is an overworld entity that exists in . They are scattered throughout the Hisui region. They play an important role in 22: \"Eerie Apparitions in the Night\".",
+  "plainText": "A wisp (Japanese: ともしび light) is an overworld entity that exists in . They are scattered throughout the Hisui region. They play an important role in 22: \"Eerie Apparitions in the Night\".\n\n==In the core series games==\nWisps are first introduced to the after the completion of 7: \"The Frenzy of the Lord of the Woods\". On the night following the end of the mission, a mysterious child named Vessa approaches the player in front of their quarters in Jubilife Village to warn them of a great danger that threatens Hisui. They retell the story of an incident regarding an unknown entity that existed hundreds of years ago which was sealed for its terrible powers. The seal eventually broke, releasing wisps across the region. They then give the player the Odd Keystone, which allows the holder to see and contain the wisps. A total of 107 wisps can be found across Hisui: 7 in Jubilife Village and 20 throughout each of the five major areas of Hisui. Each time a wisp is collected, the number count on the Odd Keystone, which can be seen from the satchel, increases by one. The player will be notified with the number of wisps remaining in the area after collecting one; Vessa will also inform the player of their remaining wisp count if spoken to in Jubilife Village. Upon bringing 107 wisps to the Shrouded Ruins per Vessa's request, they mysteriously depart and leave behind one last wisp, bringing the total to 108. Once all the wisps have been contained, the Odd Keystone disappears and a appears.\n\nWisps take the form of a small, purple, ghostly orb that levitates slightly off of the ground. They emit a purple light that can be seen from a long distance (about 100 meters) away at night. Wisps disappear from sight at long ranges from day through evening, but will reappear once the player gets within 10 meters of it. They make a faint ghostly noise when the player stands close to them. Interacting with a wisp will cause it to gravitate toward the player and enter the Odd Keystone. Wisps can be collected while on . Wisps cannot be removed from the Odd Keystone once obtained.\n\n===Locations===\n====Jubilife Village====\n \n\n====Obsidian Fieldlands====\n \n\n====Crimson Mirelands====\n \n\n====Cobalt Coastlands====\n \n\n====Coronet Highlands====\n \n\n====Alabaster Icelands====\n \n\n==See also==\nVessa\n\n==In other languages==\n \n\n \n\n \n \n\nde:Geisterlichter\nit:Fiammelle\nzh:幽火",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A wisp (Japanese: ともしび light) is an overworld entity that exists in . They are scattered throughout the Hisui region. They play an important role in 22: \"Eerie Apparitions in the Night\"."
+    },
+    {
+      "heading": "In the core series games",
+      "level": 2,
+      "text": "Wisps are first introduced to the after the completion of 7: \"The Frenzy of the Lord of the Woods\". On the night following the end of the mission, a mysterious child named Vessa approaches the player in front of their quarters in Jubilife Village to warn them of a great danger that threatens Hisui. They retell the story of an incident regarding an unknown entity that existed hundreds of years ago which was sealed for its terrible powers. The seal eventually broke, releasing wisps across the region. They then give the player the Odd Keystone, which allows the holder to see and contain the wisps. A total of 107 wisps can be found across Hisui: 7 in Jubilife Village and 20 throughout each of the five major areas of Hisui. Each time a wisp is collected, the number count on the Odd Keystone, which can be seen from the satchel, increases by one. The player will be notified with the number of wisps remaining in the area after collecting one; Vessa will also inform the player of their remaining wisp count if spoken to in Jubilife Village. Upon bringing 107 wisps to the Shrouded Ruins per Vessa's request, they mysteriously depart and leave behind one last wisp, bringing the total to 108. Once all the wisps have been contained, the Odd Keystone disappears and a appears.\n\nWisps take the form of a small, purple, ghostly orb that levitates slightly off of the ground. They emit a purple light that can be seen from a long distance (about 100 meters) away at night. Wisps disappear from sight at long ranges from day through evening, but will reappear once the player gets within 10 meters of it. They make a faint ghostly noise when the player stands close to them. Interacting with a wisp will cause it to gravitate toward the player and enter the Odd Keystone. Wisps can be collected while on . Wisps cannot be removed from the Odd Keystone once obtained."
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "Vessa"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Geisterlichter\nit:Fiammelle\nzh:幽火"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Wisp",
+    "pageType": "general-anime-lore",
+    "searchableText": "Wisp\nCategory:Ghosts\nA wisp (Japanese: ともしび light) is an overworld entity that exists in . They are scattered throughout the Hisui region. They play an important role in 22: \"Eerie Apparitions in the Night\".",
+    "sectionHeadings": [
+      "Lead",
+      "In the core series games",
+      "See also",
+      "In other languages"
+    ],
+    "characterCount": 2367,
+    "sectionCount": 4
+  }
+}

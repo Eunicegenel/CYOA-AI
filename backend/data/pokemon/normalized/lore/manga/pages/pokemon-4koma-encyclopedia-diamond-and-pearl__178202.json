@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon 4Koma Encyclopedia Diamond and Pearl",
+    "slug": "pokemon-4koma-encyclopedia-diamond-and-pearl",
+    "pageId": 178202,
+    "revisionId": 4527893
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-4koma-encyclopedia-diamond-and-pearl__178202.json",
+    "revisionTimestamp": "2026-04-09T15:58:19Z",
+    "fetchedAt": "2026-05-14T15:34:44.826Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモン4コマ大百科 ダイヤモンド・パール Pokémon 4Koma Encyclopedia: Diamond and Pearl) is a one-volume Pokémon manga created by Takahiro Yamashita. It is based on the series.",
+  "plainText": "(Japanese: ポケモン4コマ大百科 ダイヤモンド・パール Pokémon 4Koma Encyclopedia: Diamond and Pearl) is a one-volume Pokémon manga created by Takahiro Yamashita. It is based on the series.\n\n==Publications==\n \n \n\n \n\n \n\nit:Pokémon 4Koma Encyclopedia Diamond and Pearl\nzh:宝可梦4格大百科 钻石・珍珠",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン4コマ大百科 ダイヤモンド・パール Pokémon 4Koma Encyclopedia: Diamond and Pearl) is a one-volume Pokémon manga created by Takahiro Yamashita. It is based on the series."
+    },
+    {
+      "heading": "Publications",
+      "level": 2,
+      "text": "it:Pokémon 4Koma Encyclopedia Diamond and Pearl\nzh:宝可梦4格大百科 钻石・珍珠"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 4Koma Encyclopedia Diamond and Pearl",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 4Koma Encyclopedia Diamond and Pearl\nCategory:Pokémon 4Koma\n(Japanese: ポケモン4コマ大百科 ダイヤモンド・パール Pokémon 4Koma Encyclopedia: Diamond and Pearl) is a one-volume Pokémon manga created by Takahiro Yamashita. It is based on the series.",
+    "sectionHeadings": [
+      "Lead",
+      "Publications"
+    ],
+    "characterCount": 262,
+    "sectionCount": 2
+  }
+}

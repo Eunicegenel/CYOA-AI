@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Eggseter",
+    "slug": "eggseter",
+    "pageId": 20912,
+    "revisionId": 4463384
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "eggseter__20912.json",
+    "revisionTimestamp": "2026-01-06T19:30:48Z",
+    "fetchedAt": "2026-05-14T14:15:00.592Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Eggseter (Japanese: ライズタウン Rise Town) is an -exclusive town located in Johto. The township is nestled in the Eggseter Valley located between Ecruteak City and Mahogany Town.\n\n s flock to the town to compete in its annual Extreme Pokémon Race. Ash competed in the race featured in Extreme Pokémon!, where he narrowly claimed victory over his rival .\n\nEggseter is renowned for its clean air and open space. Many Pokémon Day Care Centers operate in the area, which raise Pokémon Eggs until they hatch, and then take care of the baby Pokémon. Mr. Shellby and his wife Kimie run the Shellby Ranch, and they gave Ash an Egg after he stopped from stealing baskets of their Eggs. Ash's Egg eventually hatched into a .",
+  "plainText": "Eggseter (Japanese: ライズタウン Rise Town) is an -exclusive town located in Johto. The township is nestled in the Eggseter Valley located between Ecruteak City and Mahogany Town.\n\n s flock to the town to compete in its annual Extreme Pokémon Race. Ash competed in the race featured in Extreme Pokémon!, where he narrowly claimed victory over his rival .\n\nEggseter is renowned for its clean air and open space. Many Pokémon Day Care Centers operate in the area, which raise Pokémon Eggs until they hatch, and then take care of the baby Pokémon. Mr. Shellby and his wife Kimie run the Shellby Ranch, and they gave Ash an Egg after he stopped from stealing baskets of their Eggs. Ash's Egg eventually hatched into a .\n\n==Trivia==\nIts English name appears to be a play on the English city of .\n\n==In other languages==\n \n\n \n \n\n \n\nde:Eiskirchen\nes:Eggseter\nfr:Noeunoeufville\nit:Eggseter\nzh:迅雷鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Eggseter (Japanese: ライズタウン Rise Town) is an -exclusive town located in Johto. The township is nestled in the Eggseter Valley located between Ecruteak City and Mahogany Town.\n\n s flock to the town to compete in its annual Extreme Pokémon Race. Ash competed in the race featured in Extreme Pokémon!, where he narrowly claimed victory over his rival .\n\nEggseter is renowned for its clean air and open space. Many Pokémon Day Care Centers operate in the area, which raise Pokémon Eggs until they hatch, and then take care of the baby Pokémon. Mr. Shellby and his wife Kimie run the Shellby Ranch, and they gave Ash an Egg after he stopped from stealing baskets of their Eggs. Ash's Egg eventually hatched into a ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Its English name appears to be a play on the English city of ."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Eiskirchen\nes:Eggseter\nfr:Noeunoeufville\nit:Eggseter\nzh:迅雷鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Eggseter",
+    "pageType": "location",
+    "searchableText": "Eggseter\nCategory:Animated series-exclusive locations\nEggseter (Japanese: ライズタウン Rise Town) is an -exclusive town located in Johto. The township is nestled in the Eggseter Valley located between Ecruteak City and Mahogany Town.\n\n s flock to the town to compete in its annual Extreme Pokémon Race. Ash competed in the race featured in Extreme Pokémon!, where he narrowly claimed victory over his rival .\n\nEggseter is renowned for its clean air and open space. Many Pokémon Day Care Centers operate in the area, which raise Pokémon Eggs until they hatch, and then take care of the baby Pokémon. Mr. Shellby and his wife Kimie run the Shellby Ranch, and they gave Ash an Egg after he stopped from stealing baskets of their Eggs. Ash's Egg eventually hatched into a .",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 882,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Funji Shishi",
+    "slug": "funji-shishi",
+    "pageId": 188893,
+    "revisionId": 4461879
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! characters",
+    "sourceFileName": "funji-shishi__188893.json",
+    "revisionTimestamp": "2026-01-03T23:56:13Z",
+    "fetchedAt": "2026-05-14T15:18:59.778Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: 獅子フンジ Funji Shishi) is a recurring character in Pokémon Battrio: Aim to be Battrio Master!.",
+  "plainText": "(Japanese: 獅子フンジ Funji Shishi) is a recurring character in Pokémon Battrio: Aim to be Battrio Master!.\n\n==Character==\nWhen Funji debuted, she was considered to be a rival towards Ryū, as she was the first opponent to have defeated him.\n\n==History==\nFunji first appeared in ABM04 where she interrupted Ryū and his friends when they were celebrating Ryū getting a puck. Seeing Ryū's progress, she decided to challenge Ryū to a Battrio game. During the match, both sides were neck to neck but in the end, Funji defeated Ryū, giving Ryū his first loss in the series. After Funji won, she was about to walk away until Ryū got into a fight with her.\n\nFunji reappeared in ABM09 where she greeted Ryū after slapping him on the head while he was having a lunch break. Funji offered Ryū a rematch which fired him up. During the rematch, Funji overwhelmed Ryū's team similar to last time. In the middle of the match, Funji sent out her temporarily which surprised the people watching their match due to its power. Later, Ryū managed to defeat her with 's . After losing, Dr. Yoshimura pointed out some of the flaws that happened in the match.\n\nIn ABM11, she stayed with Ryū and Masato while they were in a Battrio tournament hosted by Tommy Takara.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 獅子フンジ Funji Shishi) is a recurring character in Pokémon Battrio: Aim to be Battrio Master!."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "When Funji debuted, she was considered to be a rival towards Ryū, as she was the first opponent to have defeated him."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Funji first appeared in ABM04 where she interrupted Ryū and his friends when they were celebrating Ryū getting a puck. Seeing Ryū's progress, she decided to challenge Ryū to a Battrio game. During the match, both sides were neck to neck but in the end, Funji defeated Ryū, giving Ryū his first loss in the series. After Funji won, she was about to walk away until Ryū got into a fight with her.\n\nFunji reappeared in ABM09 where she greeted Ryū after slapping him on the head while he was having a lunch break. Funji offered Ryū a rematch which fired him up. During the rematch, Funji overwhelmed Ryū's team similar to last time. In the middle of the match, Funji sent out her temporarily which surprised the people watching their match due to its power. Later, Ryū managed to defeat her with 's . After losing, Dr. Yoshimura pointed out some of the flaws that happened in the match.\n\nIn ABM11, she stayed with Ryū and Masato while they were in a Battrio tournament hosted by Tommy Takara."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Funji Shishi",
+    "pageType": "character",
+    "searchableText": "Funji Shishi\nCategory:Pokémon Battrio: Aim to be Battrio Master! characters\n(Japanese: 獅子フンジ Funji Shishi) is a recurring character in Pokémon Battrio: Aim to be Battrio Master!.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History"
+    ],
+    "characterCount": 1250,
+    "sectionCount": 3
+  }
+}

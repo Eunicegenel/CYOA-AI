@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Eevee-Lu-tion",
+    "slug": "eevee-lu-tion",
+    "pageId": 202811,
+    "revisionId": 4168541
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "eevee-lu-tion__202811.json",
+    "revisionTimestamp": "2024-10-26T18:47:01Z",
+    "fetchedAt": "2026-05-14T15:17:51.868Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Eevee-Lu-tion is the twenty-first monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 31st and 32nd chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Eevee-Lu-tion is the twenty-first monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 31st and 32nd chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n==Blurb==\nFIRST LOVE\n\nEevee has a major crush on another Eevee, but the target of its affection is way too shy to introduce itself. Can Hazel and Coconut make love bloom between the two Eevee? \n\nThen, Ditto is good at mimicking Pokémon, but can it do a human?\n\n==Publications==\n \n \n\n==Chapters==\nEevee-Lu-Tion\nThe Ditto Test\n\n==Important events==\nAn Eevee named Lu, joins the cast.\nLu confesses her love to Eevee.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Eevee-Lu-tion is the twenty-first monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 31st and 32nd chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "FIRST LOVE\n\nEevee has a major crush on another Eevee, but the target of its affection is way too shy to introduce itself. Can Hazel and Coconut make love bloom between the two Eevee? \n\nThen, Ditto is good at mimicking Pokémon, but can it do a human?"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Eevee-Lu-Tion\nThe Ditto Test"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "An Eevee named Lu, joins the cast.\nLu confesses her love to Eevee."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Eevee-Lu-tion",
+    "pageType": "pokemon-related",
+    "searchableText": "Eevee-Lu-tion\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Eevee-Lu-tion is the twenty-first monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 31st and 32nd chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 798,
+    "sectionCount": 4
+  }
+}

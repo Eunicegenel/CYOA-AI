@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS12",
+    "slug": "pmrs12",
+    "pageId": 161636,
+    "revisionId": 4264615
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs12__161636.json",
+    "revisionTimestamp": "2025-03-23T18:27:41Z",
+    "fetchedAt": "2026-05-14T15:33:15.285Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Save Wailmer! (Japanese: ホエルコ救出大作戦！！ Rescue Tactics!!) is the twelfth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Save Wailmer! (Japanese: ホエルコ救出大作戦！！ Rescue Tactics!!) is the twelfth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Save Wailmer! (Japanese: ホエルコ救出大作戦！！ Rescue Tactics!!) is the twelfth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS12",
+    "pageType": "chapter",
+    "searchableText": "PMRS12\nCategory:Pokémon Ruby-Sapphire chapters\nSave Wailmer! (Japanese: ホエルコ救出大作戦！！ Rescue Tactics!!) is the twelfth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 237,
+    "sectionCount": 2
+  }
+}

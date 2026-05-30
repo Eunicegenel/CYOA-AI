@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PICY07",
+    "slug": "picy07",
+    "pageId": 301501,
+    "revisionId": 4527905
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! chapters",
+    "sourceFileName": "picy07__301501.json",
+    "revisionTimestamp": "2026-04-09T15:59:17Z",
+    "fetchedAt": "2026-05-14T14:41:33.039Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Chapter 7 (Japanese: 第７話 Chapter 7) is the seventh chapter of Pokémon the Movie: I Choose You!",
+  "plainText": "Chapter 7 (Japanese: 第７話 Chapter 7) is the seventh chapter of Pokémon the Movie: I Choose You!\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Humans====\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nCross\nVerity\nSorrel\n\n===Pokémon===\n( 's)\n( 's)\n(Cross's)\n(Verity's)\n( )\n\n==Differences between the movie and the manga==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chapter 7 (Japanese: 第７話 Chapter 7) is the seventh chapter of Pokémon the Movie: I Choose You!"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Cross\nVerity\nSorrel"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( 's)\n(Cross's)\n(Verity's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PICY07",
+    "pageType": "movie",
+    "searchableText": "PICY07\nCategory:Pokémon the Movie: I Choose You! chapters\nChapter 7 (Japanese: 第７話 Chapter 7) is the seventh chapter of Pokémon the Movie: I Choose You!",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 328,
+    "sectionCount": 3
+  }
+}

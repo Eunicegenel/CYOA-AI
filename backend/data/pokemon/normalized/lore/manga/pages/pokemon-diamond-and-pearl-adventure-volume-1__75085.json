@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Pokémon Diamond and Pearl Adventure! volume 1",
+    "slug": "pokemon-diamond-and-pearl-adventure-volume-1",
+    "pageId": 75085,
+    "revisionId": 4298656
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Diamond and Pearl Adventure! volumes",
+    "sourceFileName": "pokemon-diamond-and-pearl-adventure-volume-1__75085.json",
+    "revisionTimestamp": "2025-05-11T10:40:18Z",
+    "fetchedAt": "2026-05-14T15:36:19.096Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume of the Pokémon Diamond and Pearl Adventure! manga. Authored and illustrated by 伊原しげかつ Shigekatsu Ihara.",
+  "plainText": "Volume 1 is the first volume of the Pokémon Diamond and Pearl Adventure! manga. Authored and illustrated by 伊原しげかつ Shigekatsu Ihara.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\nChapter 1: In Search of the Legendary Pokémon Dialga!!\nChapter 2: Hareta's Very First Pokémon Battle!!\nChapter 3: The Mystery Boy, Jun!!\nChapter 4: Win with Teamwork!!\nChapter 5: Find Munchlax!!\n\n==Important events==\nHareta meets Mitsumi.\nProfessor Rowan sends them on a quest to find .\nHareta meets Team Galactic for the first time.\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\nHareta's in DPA01\nHareta's in DPA03\nHareta's in DPA04\n\n===Evolutions===\nThe following Pokémon evolve:\n\n==Gym Battles==\nHareta defeats the following Gym Leaders:\nRoark in DPA02\nGardenia in DPA04\n\n==D・P Snapshots==\nSneaking a Bite (ぬすみ食い)\nRock the Target's World! (ターゲット、　ロックオン！)\nMisdreavus, rocking the world of its victim! (ムウマ、　おどろかす相手をロックオン！)\nPiplup, rocking the world of its victim! (ポッチャマ、　つつく相手をロックオン！)\nChase (かけっこ)\nFrom the front (前)\nFrom the back (後ろ)\n\n==Character summary==\n===Hareta's party===\n \n\n==Trivia==\n \nAs the English volumes do not have dust covers like the Japanese ones, part two of the back cover gag is lost in the English release. The front cover image is moved to the end of the volume and changed into an explanation of the direction the book reads in.\n===Errors===\nIn the D・P Snapshots section, \"ターゲット、　ロックオン！\" (Target: Lock on!) is mistranslated as \"Rock the Target's World!\".\n\n \n\n \n\nzh:宝可梦钻石・珍珠篇1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the Pokémon Diamond and Pearl Adventure! manga. Authored and illustrated by 伊原しげかつ Shigekatsu Ihara."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 1: In Search of the Legendary Pokémon Dialga!!\nChapter 2: Hareta's Very First Pokémon Battle!!\nChapter 3: The Mystery Boy, Jun!!\nChapter 4: Win with Teamwork!!\nChapter 5: Find Munchlax!!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Hareta meets Mitsumi.\nProfessor Rowan sends them on a quest to find .\nHareta meets Team Galactic for the first time."
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:\nHareta's in DPA01\nHareta's in DPA03\nHareta's in DPA04"
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "The following Pokémon evolve:"
+    },
+    {
+      "heading": "Gym Battles",
+      "level": 2,
+      "text": "Hareta defeats the following Gym Leaders:\nRoark in DPA02\nGardenia in DPA04"
+    },
+    {
+      "heading": "D・P Snapshots",
+      "level": 2,
+      "text": "Sneaking a Bite (ぬすみ食い)\nRock the Target's World! (ターゲット、　ロックオン！)\nMisdreavus, rocking the world of its victim! (ムウマ、　おどろかす相手をロックオン！)\nPiplup, rocking the world of its victim! (ポッチャマ、　つつく相手をロックオン！)\nChase (かけっこ)\nFrom the front (前)\nFrom the back (後ろ)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "As the English volumes do not have dust covers like the Japanese ones, part two of the back cover gag is lost in the English release. The front cover image is moved to the end of the volume and changed into an explanation of the direction the book reads in."
+    },
+    {
+      "heading": "Errors",
+      "level": 3,
+      "text": "In the D・P Snapshots section, \"ターゲット、　ロックオン！\" (Target: Lock on!) is mistranslated as \"Rock the Target's World!\".\n\n \n\n \n\nzh:宝可梦钻石・珍珠篇1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Diamond and Pearl Adventure! volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Diamond and Pearl Adventure! volume 1\nCategory:Pokémon Diamond and Pearl Adventure! volumes\nVolume 1 is the first volume of the Pokémon Diamond and Pearl Adventure! manga. Authored and illustrated by 伊原しげかつ Shigekatsu Ihara.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Additions",
+      "Evolutions",
+      "Gym Battles",
+      "D・P Snapshots",
+      "Trivia",
+      "Errors"
+    ],
+    "characterCount": 1507,
+    "sectionCount": 9
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Russell Velázquez",
+    "slug": "russell-velazquez",
+    "pageId": 8444,
+    "revisionId": 4275766
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation cast and crew",
+    "sourceFileName": "russell-velazquez__8444.json",
+    "revisionTimestamp": "2025-04-03T13:05:58Z",
+    "fetchedAt": "2026-05-14T14:47:19.414Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Russell Velázquez (sometimes credited as Russel or Russell Velazques) is a singer/songwriter who has worked on much of the music for the English dub of the Pokémon animated series. He is credited primarily for work on the album Pokémon 2.B.A. Master and various Pikachu's Jukebox songs. Since 2009, Velázquez has been a composer for Sesame Workshop.",
+  "plainText": "Russell Velázquez (sometimes credited as Russel or Russell Velazques) is a singer/songwriter who has worked on much of the music for the English dub of the Pokémon animated series. He is credited primarily for work on the album Pokémon 2.B.A. Master and various Pikachu's Jukebox songs. Since 2009, Velázquez has been a composer for Sesame Workshop.\n\n==Lead vocals==\nHe has provided lead vocals for:\n2.B.A. Master\n\nCele-B-R-A-T-E (Celebi: The Voice of the Forest)\nTwo Perfect Girls (with Eric Stuart)\n\n==Writing credits==\n2.B.A. Master (with Tamara Loeffler)\n\n==Other musical works==\nGotta Go Fast (English theme of )\n\n==External links==\nRussell Velázquez on Muppet Wiki",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Russell Velázquez (sometimes credited as Russel or Russell Velazques) is a singer/songwriter who has worked on much of the music for the English dub of the Pokémon animated series. He is credited primarily for work on the album Pokémon 2.B.A. Master and various Pikachu's Jukebox songs. Since 2009, Velázquez has been a composer for Sesame Workshop."
+    },
+    {
+      "heading": "Lead vocals",
+      "level": 2,
+      "text": "He has provided lead vocals for:\n2.B.A. Master\n\nCele-B-R-A-T-E (Celebi: The Voice of the Forest)\nTwo Perfect Girls (with Eric Stuart)"
+    },
+    {
+      "heading": "Writing credits",
+      "level": 2,
+      "text": "2.B.A. Master (with Tamara Loeffler)"
+    },
+    {
+      "heading": "Other musical works",
+      "level": 2,
+      "text": "Gotta Go Fast (English theme of )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Russell Velázquez on Muppet Wiki"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Russell Velázquez",
+    "pageType": "general-anime-lore",
+    "searchableText": "Russell Velázquez\nCategory:Animation cast and crew\nRussell Velázquez (sometimes credited as Russel or Russell Velazques) is a singer/songwriter who has worked on much of the music for the English dub of the Pokémon animated series. He is credited primarily for work on the album Pokémon 2.B.A. Master and various Pikachu's Jukebox songs. Since 2009, Velázquez has been a composer for Sesame Workshop.",
+    "sectionHeadings": [
+      "Lead",
+      "Lead vocals",
+      "Writing credits",
+      "Other musical works",
+      "External links"
+    ],
+    "characterCount": 670,
+    "sectionCount": 5
+  }
+}

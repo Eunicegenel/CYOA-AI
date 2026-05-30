@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "JNM22",
+    "slug": "jnm22",
+    "pageId": 264194,
+    "revisionId": 4526950
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm22__264194.json",
+    "revisionTimestamp": "2026-04-09T15:13:03Z",
+    "fetchedAt": "2026-05-14T15:22:54.216Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Detective Drizzile! (Japanese: 狙われたサクラギ研究所！ The Targeted !) is the twenty-second chapter of the manga. It is based on the animated series episode by the same name.",
+  "plainText": "Detective Drizzile! (Japanese: 狙われたサクラギ研究所！ The Targeted !) is the twenty-second chapter of the manga. It is based on the animated series episode by the same name.\n\n==Plot==\n \n\n==Major events==\nGoh is revealed to have a and a .\nGoh's is revealed to have evolved into a .\nGoh's Drizzile evolves into and learns .\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nGoh\nProfessor Cerise\nChrysa\nRen\nGizmo Bilt\n\n===Pokémon===\n( )\n( ; )\n( )\n( )\n( ; fantasy)\n( ; evolves)\n( ; newly evolved)\n( )\n(Professor Cerise's; Rotom Phone)\n(Gizmo's)\n\n==Differences between the animated series and the manga==\nAs the events of Dreams Are Made of These! and Not Too Close for Comfort! were skipped, Goh's , , and debut here.\nThis chapter was released before Detective Drizzile! first aired in Japan, spoiling Drizzile's Evolution.\n\n \n \n \n\nde:Meisterdetektiv Phlegleon! (Pokémon Reisen)\nes:PV022\nit:JNM22",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Detective Drizzile! (Japanese: 狙われたサクラギ研究所！ The Targeted !) is the twenty-second chapter of the manga. It is based on the animated series episode by the same name."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Goh is revealed to have a and a .\nGoh's is revealed to have evolved into a .\nGoh's Drizzile evolves into and learns ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nProfessor Cerise\nChrysa\nRen\nGizmo Bilt"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( ; )\n( )\n( )\n( ; fantasy)\n( ; evolves)\n( ; newly evolved)\n( )\n(Professor Cerise's; Rotom Phone)\n(Gizmo's)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "As the events of Dreams Are Made of These! and Not Too Close for Comfort! were skipped, Goh's , , and debut here.\nThis chapter was released before Detective Drizzile! first aired in Japan, spoiling Drizzile's Evolution.\n\n \n \n \n\nde:Meisterdetektiv Phlegleon! (Pokémon Reisen)\nes:PV022\nit:JNM22"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM22",
+    "pageType": "chapter",
+    "searchableText": "JNM22\nCategory:Pokémon Journeys chapters\nDetective Drizzile! (Japanese: 狙われたサクラギ研究所！ The Targeted !) is the twenty-second chapter of the manga. It is based on the animated series episode by the same name.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 899,
+    "sectionCount": 5
+  }
+}

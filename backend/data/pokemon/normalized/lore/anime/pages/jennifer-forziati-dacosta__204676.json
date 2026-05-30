@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Jennifer Forziati-DaCosta",
+    "slug": "jennifer-forziati-dacosta",
+    "pageId": 204676,
+    "revisionId": 4528748
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "jennifer-forziati-dacosta__204676.json",
+    "revisionTimestamp": "2026-04-09T17:14:14Z",
+    "fetchedAt": "2026-05-14T14:25:53.972Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Jennifer Foraziati-DaCosta is an American voice actress for the English-language dub of . She is sometimes credited as Jen DaCosta.",
+  "plainText": "Jennifer Foraziati-DaCosta is an American voice actress for the English-language dub of . She is sometimes credited as Jen DaCosta.\n\n==Pokémon roles==\nDaCosta began her work during . Her major role was Nurse Joy, before she was replaced by Kate Bristol.\n===Animation===\n==== ====\n=====Humans=====\nNurse Joy (XY003-XY064)\nRandall\n\n=====Pokémon=====\n(XY011)\n \n\n \n \n\n \n\nit:Jennifer Forziati-DaCosta",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jennifer Foraziati-DaCosta is an American voice actress for the English-language dub of . She is sometimes credited as Jen DaCosta."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "DaCosta began her work during . Her major role was Nurse Joy, before she was replaced by Kate Bristol."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Nurse Joy (XY003-XY064)\nRandall"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(XY011)\n \n\n \n \n\n \n\nit:Jennifer Forziati-DaCosta"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jennifer Forziati-DaCosta",
+    "pageType": "general-anime-lore",
+    "searchableText": "Jennifer Forziati-DaCosta\nCategory:TPCi voice actors\nJennifer Foraziati-DaCosta is an American voice actress for the English-language dub of . She is sometimes credited as Jen DaCosta.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 395,
+    "sectionCount": 4
+  }
+}

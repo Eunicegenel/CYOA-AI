@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASM37",
+    "slug": "pasm37",
+    "pageId": 246126,
+    "revisionId": 4549357
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasm37__246126.json",
+    "revisionTimestamp": "2026-05-11T01:47:35Z",
+    "fetchedAt": "2026-05-14T15:28:39.351Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Finale!! The Battle Against the Other Dimension! (Japanese: 終焉！！異世界との戦い！ Conclusion!! The Battle with a Parallel World!) is the 37th and final chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Finale!! The Battle Against the Other Dimension! (Japanese: 終焉！！異世界との戦い！ Conclusion!! The Battle with a Parallel World!) is the 37th and final chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n==Major events==\n\n \n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Kukui\nProfessor Burnet (flashback)\nKiawe \nMallow\nAnabel\nLillie\nGladion\nHau\nLusamine\nGuzma\nSamson Oak\nRyuki\nSina \nDexio\nFaba\nWicke\nZossie\nDulse\nSoliera\nPhyco\ns\ns\n\n===Pokémon===\n(Alolan form; Cent; 's)\n(Rotom Pokédex; )\n( )\n( ; Ride Pokémon)\n( )\n( ; )\n(Ryuki's)\n(Ryuki's)\n(Ryuki's)\n( ; )\n( )\n( )\n( ; Ultra Recon Squad's; ; new)\n(multiple)\n\n(multiple)\n\n==Trivia==\nIn the epilogue, Professor Kukui can be found wearing Kommo-o helm, Kommo-o breastplate, Kommo-o tassets, Kommo-o Greaves, and Kommo-o sollerets. Professor Burnet can be found wearing Luran headband, Luran tank, Luran shorts, and Luran shoes. Lastly, Moon can be found wearing halter top white with the long and straight sideswept bangs.\n\n==In other languages==\n \n\n \n \n \n\nde:Kampf der Dimensionen\nes:PMSSM37\nit:PASM37\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第37话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Finale!! The Battle Against the Other Dimension! (Japanese: 終焉！！異世界との戦い！ Conclusion!! The Battle with a Parallel World!) is the 37th and final chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Kukui\nProfessor Burnet (flashback)\nKiawe \nMallow\nAnabel\nLillie\nGladion\nHau\nLusamine\nGuzma\nSamson Oak\nRyuki\nSina \nDexio\nFaba\nWicke\nZossie\nDulse\nSoliera\nPhyco\ns\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Alolan form; Cent; 's)\n(Rotom Pokédex; )\n( )\n( ; Ride Pokémon)\n( )\n( ; )\n(Ryuki's)\n(Ryuki's)\n(Ryuki's)\n( ; )\n( )\n( )\n( ; Ultra Recon Squad's; ; new)\n(multiple)\n\n(multiple)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the epilogue, Professor Kukui can be found wearing Kommo-o helm, Kommo-o breastplate, Kommo-o tassets, Kommo-o Greaves, and Kommo-o sollerets. Professor Burnet can be found wearing Luran headband, Luran tank, Luran shorts, and Luran shoes. Lastly, Moon can be found wearing halter top white with the long and straight sideswept bangs."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Kampf der Dimensionen\nes:PMSSM37\nit:PASM37\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第37话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASM37",
+    "pageType": "chapter",
+    "searchableText": "PASM37\nCategory:Pokémon Adventures chapters\nFinale!! The Battle Against the Other Dimension! (Japanese: 終焉！！異世界との戦い！ Conclusion!! The Battle with a Parallel World!) is the 37th and final chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1111,
+    "sectionCount": 5
+  }
+}

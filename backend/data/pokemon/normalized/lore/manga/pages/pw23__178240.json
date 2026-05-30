@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PW23",
+    "slug": "pw23",
+    "pageId": 178240,
+    "revisionId": 4527907
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw23__178240.json",
+    "revisionTimestamp": "2026-04-09T15:59:27Z",
+    "fetchedAt": "2026-05-14T15:46:42.281Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 真の冒険家！？わるいダグトリオ The True Treasure Hunter?! ) is the twenty-third chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+  "plainText": "(Japanese: 真の冒険家！？わるいダグトリオ The True Treasure Hunter?! ) is the twenty-third chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .\n\n==Plot==\n \n\n==Major events==\n\n==Characters==\n===Humans===\nJunk\nYurika\ns\n\n===Pokémon===\n(Dark)\n(Junk's)\n(Yurika's)\n( 's)\n( 's)\n( 's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 真の冒険家！？わるいダグトリオ The True Treasure Hunter?! ) is the twenty-third chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Junk\nYurika\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Dark)\n(Junk's)\n(Yurika's)\n( 's)\n( 's)\n( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW23",
+    "pageType": "chapter",
+    "searchableText": "PW23\nCategory:How I Became a Pokémon Card chapters\n(Japanese: 真の冒険家！？わるいダグトリオ The True Treasure Hunter?! ) is the twenty-third chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 331,
+    "sectionCount": 3
+  }
+}

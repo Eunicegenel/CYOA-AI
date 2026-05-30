@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Akemi Okamura",
+    "slug": "akemi-okamura",
+    "pageId": 35095,
+    "revisionId": 4527393
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "akemi-okamura__35095.json",
+    "revisionTimestamp": "2026-04-09T15:36:21Z",
+    "fetchedAt": "2026-05-14T14:00:20.110Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Akemi Okamura (Japanese: 岡村明美 Okamura Akemi) is a Japanese voice actress for . She was born on March 12, 1969 in , .",
+  "plainText": "Akemi Okamura (Japanese: 岡村明美 Okamura Akemi) is a Japanese voice actress for . She was born on March 12, 1969 in , .\n\n== Pokémon roles ==\n===Animation===\n==== ====\nSaturn\nLilian Meridian\nFlorinda Showers\nMichelle\nLindsey\nSue\n\n== Other non-Pokémon roles ==\n( )\nShuzo Matsutani ( ) \nRisa Koizumi ( )\nNokoru Imonoyama ( )\nSheena Fujibayashi ( )\n, ( )\n\n== External links ==\nMausu Promotion profile\n\n \n \n \n\nit:Akemi Okamura\nja:岡村明美\nzh:冈村明美",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Akemi Okamura (Japanese: 岡村明美 Okamura Akemi) is a Japanese voice actress for . She was born on March 12, 1969 in , ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Saturn\nLilian Meridian\nFlorinda Showers\nMichelle\nLindsey\nSue"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "( )\nShuzo Matsutani ( ) \nRisa Koizumi ( )\nNokoru Imonoyama ( )\nSheena Fujibayashi ( )\n, ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Mausu Promotion profile\n\n \n \n \n\nit:Akemi Okamura\nja:岡村明美\nzh:冈村明美"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Akemi Okamura",
+    "pageType": "general-anime-lore",
+    "searchableText": "Akemi Okamura\nCategory:Japanese voice actors\nAkemi Okamura (Japanese: 岡村明美 Okamura Akemi) is a Japanese voice actress for . She was born on March 12, 1969 in , .",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 434,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PPPB02",
+    "slug": "pppb02",
+    "pageId": 6540,
+    "revisionId": 4535051
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "pppb02__6540.json",
+    "revisionTimestamp": "2026-04-20T01:46:53Z",
+    "fetchedAt": "2026-05-14T15:39:22.350Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Wh-Who's Sc-Scared?! (Japanese: きもだめしでドッキドキ The Suspense of the Test of Courage) is the second bonus chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Wh-Who's Sc-Scared?! (Japanese: きもだめしでドッキドキ The Suspense of the Test of Courage) is the second bonus chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nGrandpa hosts a \"test of courage,\" a challenge in which pairs compete to be the first one to finish a course filled with spooky decorations. While Hazel is initially annoyed with Grandpa for charging participants, she is happy to learn she can go through it with Almond. The two are partnered up, as are and . \n\nThe pairs begin the course, and while Almond is mostly annoyed with Grandpa's jump scares and other decorations, Hazel gleefully pretends to be scared in an attempt to make him protect her. Meanwhile, Pikachu and Clefairy are genuinely terrified and cling to each other throughout the course.\n\nAs they carry onward, a dark shadow appears over the four, followed by an eerie sound. Everyone is frightened for a brief moment, but their fear dissolves when Grandpa appears, holding a tape deck. Angered, Pikachu shocks him. When the group continues toward the goal, Pikachu and Clefairy suddenly find themselves surrounded by and , and Almond and Hazel see a behind them. Terrified, Almond takes Hazel's arm and tries to get away from the Gengar. Hazel, however, runs up to hug it.\n\nThe four make it to the end and receive Grandpa's grand prize, which consists of candid photos of the pairs' reactions during the challenge. While Almond, Pikachu, and Clefairy are utterly terrified in theirs, Hazel merely looks slightly surprised. Angry with Grandpa for giving them such a cheap grand prize, she and Pikachu chase after him.\n\n==Major events==\nHazel and Almond take a trip through Grandpa's \"test of courage.\"\n \n\n==Characters==\n===Humans===\nHazel\nAlmond\nGrandpa\n\n===Pokémon===\n( )\n( )\n\n \n==In other languages==\n \n\n \n \n \n \n\nes:MPJB02\nit:PPPB02",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Wh-Who's Sc-Scared?! (Japanese: きもだめしでドッキドキ The Suspense of the Test of Courage) is the second bonus chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Grandpa hosts a \"test of courage,\" a challenge in which pairs compete to be the first one to finish a course filled with spooky decorations. While Hazel is initially annoyed with Grandpa for charging participants, she is happy to learn she can go through it with Almond. The two are partnered up, as are and . \n\nThe pairs begin the course, and while Almond is mostly annoyed with Grandpa's jump scares and other decorations, Hazel gleefully pretends to be scared in an attempt to make him protect her. Meanwhile, Pikachu and Clefairy are genuinely terrified and cling to each other throughout the course.\n\nAs they carry onward, a dark shadow appears over the four, followed by an eerie sound. Everyone is frightened for a brief moment, but their fear dissolves when Grandpa appears, holding a tape deck. Angered, Pikachu shocks him. When the group continues toward the goal, Pikachu and Clefairy suddenly find themselves surrounded by and , and Almond and Hazel see a behind them. Terrified, Almond takes Hazel's arm and tries to get away from the Gengar. Hazel, however, runs up to hug it.\n\nThe four make it to the end and receive Grandpa's grand prize, which consists of candid photos of the pairs' reactions during the challenge. While Almond, Pikachu, and Clefairy are utterly terrified in theirs, Hazel merely looks slightly surprised. Angry with Grandpa for giving them such a cheap grand prize, she and Pikachu chase after him."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hazel and Almond take a trip through Grandpa's \"test of courage.\""
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nAlmond\nGrandpa"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:MPJB02\nit:PPPB02"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPPB02",
+    "pageType": "chapter",
+    "searchableText": "PPPB02\nCategory:Magical Pokémon Journey chapters\nWh-Who's Sc-Scared?! (Japanese: きもだめしでドッキドキ The Suspense of the Test of Courage) is the second bonus chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1810,
+    "sectionCount": 6
+  }
+}

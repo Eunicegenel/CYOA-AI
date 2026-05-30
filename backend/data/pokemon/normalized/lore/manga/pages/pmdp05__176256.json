@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP05",
+    "slug": "pmdp05",
+    "pageId": 176256,
+    "revisionId": 4526927
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp05__176256.json",
+    "revisionTimestamp": "2026-04-09T15:11:57Z",
+    "fetchedAt": "2026-05-14T15:32:16.211Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: うわさのアレを ゲットせよ！ Get What Everyone Has Been Talking About!) is the fifth chapter of the manga.",
+  "plainText": "(Japanese: うわさのアレを ゲットせよ！ Get What Everyone Has Been Talking About!) is the fifth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: うわさのアレを ゲットせよ！ Get What Everyone Has Been Talking About!) is the fifth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP05",
+    "pageType": "chapter",
+    "searchableText": "PMDP05\nCategory:Pocket Monsters DP chapters\n(Japanese: うわさのアレを ゲットせよ！ Get What Everyone Has Been Talking About!) is the fifth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 227,
+    "sectionCount": 2
+  }
+}

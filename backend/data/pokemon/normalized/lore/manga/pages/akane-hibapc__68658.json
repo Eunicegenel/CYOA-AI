@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Akane (HIBAPC)",
+    "slug": "akane-hibapc",
+    "pageId": 68658,
+    "revisionId": 4193423
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card characters",
+    "sourceFileName": "akane-hibapc__68658.json",
+    "revisionTimestamp": "2024-11-26T15:36:10Z",
+    "fetchedAt": "2026-05-14T15:12:24.870Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Akane (Japanese: アカネ Akane) is a recurring character in How I Became a Pokémon Card.",
+  "plainText": "Akane (Japanese: アカネ Akane) is a recurring character in How I Became a Pokémon Card.\n\n==History==\nWhen her parents died shortly after her birth, Akane was raised by her grandfather. She loves flowers a lot and will often scold her whenever it plays in the flower garden. Even though she owns an Eevee, she actually dislikes Pokémon and thinks that they are only good for fighting. When her Eevee is later rescued from Team Rocket, she learns from her grandfather that she loved Pokémon when she was a baby. It was also the reason her grandfather decided to research Pokémon and was given an Eevee.\n\n==Pokémon==\n===On hand===\n \n\n=== Borrowed===\n \n\n \n\n \n\n==Trivia==\nAkane shares the same Japanese name with the Gym Leader Whitney.\nAll of Akane's Pokémon (except for Nidoran♂) are Normal type, which is Whitney's specialty. However, the Gym Leader also owns a in and in the Ash & Pikachu manga.\n\n \n \n \n\n \n \n\nit:Akane",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Akane (Japanese: アカネ Akane) is a recurring character in How I Became a Pokémon Card."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "When her parents died shortly after her birth, Akane was raised by her grandfather. She loves flowers a lot and will often scold her whenever it plays in the flower garden. Even though she owns an Eevee, she actually dislikes Pokémon and thinks that they are only good for fighting. When her Eevee is later rescued from Team Rocket, she learns from her grandfather that she loved Pokémon when she was a baby. It was also the reason her grandfather decided to research Pokémon and was given an Eevee."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Akane shares the same Japanese name with the Gym Leader Whitney.\nAll of Akane's Pokémon (except for Nidoran♂) are Normal type, which is Whitney's specialty. However, the Gym Leader also owns a in and in the Ash & Pikachu manga.\n\n \n \n \n\n \n \n\nit:Akane"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Akane (HIBAPC)",
+    "pageType": "character",
+    "searchableText": "Akane (HIBAPC)\nCategory:How I Became a Pokémon Card characters\nAkane (Japanese: アカネ Akane) is a recurring character in How I Became a Pokémon Card.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia"
+    ],
+    "characterCount": 913,
+    "sectionCount": 3
+  }
+}

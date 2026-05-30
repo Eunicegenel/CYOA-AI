@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Mewtwo Returns (manga)",
+    "slug": "mewtwo-returns-manga",
+    "pageId": 239593,
+    "revisionId": 4136229
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga",
+    "sourceFileName": "mewtwo-returns-manga__239593.json",
+    "revisionTimestamp": "2024-09-30T14:09:01Z",
+    "fetchedAt": "2026-05-14T15:26:27.623Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "(Japanese: ミュウツー！我ハココニ在リ Mewtwo! I Am Here) is a adaptation of the animated series special of the same name. It was released to coincide with the release of the twenty-second movie and . It is adapted by Machito Gomi.",
+  "plainText": "(Japanese: ミュウツー！我ハココニ在リ Mewtwo! I Am Here) is a adaptation of the animated series special of the same name. It was released to coincide with the release of the twenty-second movie and . It is adapted by Machito Gomi.\n\n==Chapters==\nMRM01\nMRM02\nMRM03\nMRM04\nMRM05\nMRM06\n\n==Publications==\n \n \n\n==Differences between the animated series and the manga==\n's balloon doesn't have rockets attached to it for a getaway, unlike in the special.\nInstead of a pair of force-field machines, uses the armor from Mewtwo Strikes Back to restrain .\n\n==Related articles==\nMewtwo Returns\nM22\nMewtwo Strikes Back—Evolution (manga)\n\n \n\n \n\nit:Mewtwo Returns (manga)\nzh:超梦重现 风云再起（漫画）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ミュウツー！我ハココニ在リ Mewtwo! I Am Here) is a adaptation of the animated series special of the same name. It was released to coincide with the release of the twenty-second movie and . It is adapted by Machito Gomi."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "MRM01\nMRM02\nMRM03\nMRM04\nMRM05\nMRM06"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "'s balloon doesn't have rockets attached to it for a getaway, unlike in the special.\nInstead of a pair of force-field machines, uses the armor from Mewtwo Strikes Back to restrain ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Mewtwo Returns\nM22\nMewtwo Strikes Back—Evolution (manga)\n\n \n\n \n\nit:Mewtwo Returns (manga)\nzh:超梦重现 风云再起（漫画）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mewtwo Returns (manga)",
+    "pageType": "manga-series",
+    "searchableText": "Mewtwo Returns (manga)\nCategory:Manga\n(Japanese: ミュウツー！我ハココニ在リ Mewtwo! I Am Here) is a adaptation of the animated series special of the same name. It was released to coincide with the release of the twenty-second movie and . It is adapted by Machito Gomi.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Differences between the animated series and the manga",
+      "Related articles"
+    ],
+    "characterCount": 659,
+    "sectionCount": 4
+  }
+}

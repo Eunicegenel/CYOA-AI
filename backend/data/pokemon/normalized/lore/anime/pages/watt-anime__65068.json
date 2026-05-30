@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Watt (anime)",
+    "slug": "watt-anime",
+    "pageId": 65068,
+    "revisionId": 4455619
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Gym assistants",
+    "sourceFileName": "watt-anime__65068.json",
+    "revisionTimestamp": "2025-12-27T17:07:14Z",
+    "fetchedAt": "2026-05-14T14:57:20.596Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Watt (Japanese: ワット Watt) is a minor recurring character in . He is the assistant to Wattson at the Mauville Gym.",
+  "plainText": "Watt (Japanese: ワット Watt) is a minor recurring character in . He is the assistant to Wattson at the Mauville Gym.\n\n==History==\nWatt debuted in Watt's with Wattson?. He tended to stand aside and let Wattson do everything, but he served as the referee in 's Gym for the . Watt realized something was amiss when Wattson fled following his defeat, and he later led the group to a nearby abandoned power plant. After 's defeat, Watt was relieved that Wattson decided to resume his role as Gym Leader.\n\nWhen Ash and returned in Manectric Charge, Watt battled and her with his . Skitty proved to be stronger and defeated Ampharos. Watt later informed May that a Pokémon Contest was taking place in Verdanturf Town.\n\n==Pokémon==\n \nThis listing is of Watt's known Pokémon in :\n \n\n==Voice actors==\n \n\n==Trivia==\nWatt's name comes from \" \", which is the measurement of power.\n \n \n \n \n \n\nes:Watt\nfr:Watt (Hoenn)\nit:Watt (Hoenn)\nja:ワット (AG編第40話)\nzh:华特",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Watt (Japanese: ワット Watt) is a minor recurring character in . He is the assistant to Wattson at the Mauville Gym."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Watt debuted in Watt's with Wattson?. He tended to stand aside and let Wattson do everything, but he served as the referee in 's Gym for the . Watt realized something was amiss when Wattson fled following his defeat, and he later led the group to a nearby abandoned power plant. After 's defeat, Watt was relieved that Wattson decided to resume his role as Gym Leader.\n\nWhen Ash and returned in Manectric Charge, Watt battled and her with his . Skitty proved to be stronger and defeated Ampharos. Watt later informed May that a Pokémon Contest was taking place in Verdanturf Town."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Watt's known Pokémon in :"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Watt's name comes from \" \", which is the measurement of power.\n \n \n \n \n \n\nes:Watt\nfr:Watt (Hoenn)\nit:Watt (Hoenn)\nja:ワット (AG編第40話)\nzh:华特"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Watt (anime)",
+    "pageType": "general-anime-lore",
+    "searchableText": "Watt (anime)\nCategory:Gym assistants\nWatt (Japanese: ワット Watt) is a minor recurring character in . He is the assistant to Wattson at the Mauville Gym.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 938,
+    "sectionCount": 4
+  }
+}

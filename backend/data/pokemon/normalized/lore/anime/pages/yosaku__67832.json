@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Yosaku",
+    "slug": "yosaku",
+    "pageId": 67832,
+    "revisionId": 4289179
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "yosaku__67832.json",
+    "revisionTimestamp": "2025-04-28T19:49:24Z",
+    "fetchedAt": "2026-05-14T14:59:55.162Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ヨサク Yosaku) is a character of the day who appeared in A Farfetch'd Tale.\n\nLiving in the Ilex Forest, Yosaku makes Charcoal and provides it to s who are passing through. He is helped out by (his employee in the Japanese version, his son in the English dub), who attempted to seek Yosaku's help when his refused to listen to him. However, Yosaku simply told Sylvester that he should find and train the Farfetch'd on his own.\n\nHe was also seen giving a large amount of Charcoal to and after they had saved Sylvester's Farfetch'd and helped Sylvester to command it correctly.",
+  "plainText": "(Japanese: ヨサク Yosaku) is a character of the day who appeared in A Farfetch'd Tale.\n\nLiving in the Ilex Forest, Yosaku makes Charcoal and provides it to s who are passing through. He is helped out by (his employee in the Japanese version, his son in the English dub), who attempted to seek Yosaku's help when his refused to listen to him. However, Yosaku simply told Sylvester that he should find and train the Farfetch'd on his own.\n\nHe was also seen giving a large amount of Charcoal to and after they had saved Sylvester's Farfetch'd and helped Sylvester to command it correctly.\n\n==Pokémon==\n \nThis listing is of Yosaku's known in :\n \n\n==Voice actors==\n \n\n==Trivia==\nIn the original, Yosaku was simply Sylvester's boss. In the English dub, however, he was changed to Sylvester's father.\nYosaku is based on the man from Azalea Town's Charcoal kiln.\n \n \n\n \n \n \n \n\nde:Yosaku\nes:Yosaku\nfr:Père de Benoît\nit:Yosaku",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ヨサク Yosaku) is a character of the day who appeared in A Farfetch'd Tale.\n\nLiving in the Ilex Forest, Yosaku makes Charcoal and provides it to s who are passing through. He is helped out by (his employee in the Japanese version, his son in the English dub), who attempted to seek Yosaku's help when his refused to listen to him. However, Yosaku simply told Sylvester that he should find and train the Farfetch'd on his own.\n\nHe was also seen giving a large amount of Charcoal to and after they had saved Sylvester's Farfetch'd and helped Sylvester to command it correctly."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Yosaku's known in :"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the original, Yosaku was simply Sylvester's boss. In the English dub, however, he was changed to Sylvester's father.\nYosaku is based on the man from Azalea Town's Charcoal kiln.\n \n \n\n \n \n \n \n\nde:Yosaku\nes:Yosaku\nfr:Père de Benoît\nit:Yosaku"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yosaku",
+    "pageType": "character",
+    "searchableText": "Yosaku\nCategory:Johto characters of the day\n(Japanese: ヨサク Yosaku) is a character of the day who appeared in A Farfetch'd Tale.\n\nLiving in the Ilex Forest, Yosaku makes Charcoal and provides it to s who are passing through. He is helped out by (his employee in the Japanese version, his son in the English dub), who attempted to seek Yosaku's help when his refused to listen to him. However, Yosaku simply told Sylvester that he should find and train the Farfetch'd on his own.\n\nHe was also seen giving a large amount of Charcoal to and after they had saved Sylvester's Farfetch'd and helped Sylvester to command it correctly.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 913,
+    "sectionCount": 3
+  }
+}

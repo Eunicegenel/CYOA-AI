@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Ryme City Police Station",
+    "slug": "ryme-city-police-station",
+    "pageId": 320892,
+    "revisionId": 4272920
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns",
+    "sourceFileName": "ryme-city-police-station__320892.json",
+    "revisionTimestamp": "2025-03-29T23:56:25Z",
+    "fetchedAt": "2026-05-14T14:47:26.333Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "The Ryme City Police Station (Japanese: ライム警察署 Ryme Police Station) is a location in the game Detective Pikachu Returns. Pikachu is wrongfully detained here after being arrested for destruction of a statue in Fountain Plaza.",
+  "plainText": "The Ryme City Police Station (Japanese: ライム警察署 Ryme Police Station) is a location in the game Detective Pikachu Returns. Pikachu is wrongfully detained here after being arrested for destruction of a statue in Fountain Plaza.\n\n==Geography==\n \nThe police station is situated on the west side of Ryme City, and houses the offices of local police officers as well as detained Pokémon suspects. The building consists of three floors which are connected by stairs. Ventilation ducts also connect all rooms, which are used by Pikachu to access different parts of the building. A carpark is located behind the building for police cars.\n\n===B1===\nDetained Pokémon suspects are located on the basement floor, with a guardroom located on the left which contains a machine that can lock and unlock all detainment rooms with a passcode. \n\n===1F===\nThe station lobby is located on the first floor, and provides the access point for the general public to enter the police station. Those with headquarter permission can also access the visiting room to visit detained suspects in the afternoons. \n\nThe first floor also contains a reference room, meeting room, and large office room which are generally restricted to public access. The reference room houses all evidence data for police incidents.\n\n===2F===\nWill Butler's office is located on the second floor, which he is currently borrowing while the Pokémon Protection Bureau's official operations commence. The office contains a safe with information about Ryme City's Pokémon-related incidents, as well as evidence that implicates Butler's ties with Unitas and fabrication of these incidents.\n\n===Roof===\nThe roof of the building is primarily used as a place for detained Pokémon to exercise.\n\n==Pokémon==\n===B1===\n \n\n===1F===\n \n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Ryme City Police Station (Japanese: ライム警察署 Ryme Police Station) is a location in the game Detective Pikachu Returns. Pikachu is wrongfully detained here after being arrested for destruction of a statue in Fountain Plaza."
+    },
+    {
+      "heading": "Geography",
+      "level": 2,
+      "text": "The police station is situated on the west side of Ryme City, and houses the offices of local police officers as well as detained Pokémon suspects. The building consists of three floors which are connected by stairs. Ventilation ducts also connect all rooms, which are used by Pikachu to access different parts of the building. A carpark is located behind the building for police cars."
+    },
+    {
+      "heading": "B1",
+      "level": 3,
+      "text": "Detained Pokémon suspects are located on the basement floor, with a guardroom located on the left which contains a machine that can lock and unlock all detainment rooms with a passcode."
+    },
+    {
+      "heading": "1F",
+      "level": 3,
+      "text": "The station lobby is located on the first floor, and provides the access point for the general public to enter the police station. Those with headquarter permission can also access the visiting room to visit detained suspects in the afternoons. \n\nThe first floor also contains a reference room, meeting room, and large office room which are generally restricted to public access. The reference room houses all evidence data for police incidents."
+    },
+    {
+      "heading": "2F",
+      "level": 3,
+      "text": "Will Butler's office is located on the second floor, which he is currently borrowing while the Pokémon Protection Bureau's official operations commence. The office contains a safe with information about Ryme City's Pokémon-related incidents, as well as evidence that implicates Butler's ties with Unitas and fabrication of these incidents."
+    },
+    {
+      "heading": "Roof",
+      "level": 3,
+      "text": "The roof of the building is primarily used as a place for detained Pokémon to exercise."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ryme City Police Station",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ryme City Police Station\nCategory:Detective Pikachu Returns\nThe Ryme City Police Station (Japanese: ライム警察署 Ryme Police Station) is a location in the game Detective Pikachu Returns. Pikachu is wrongfully detained here after being arrested for destruction of a statue in Fountain Plaza.",
+    "sectionHeadings": [
+      "Lead",
+      "Geography",
+      "B1",
+      "1F",
+      "2F",
+      "Roof"
+    ],
+    "characterCount": 1790,
+    "sectionCount": 6
+  }
+}

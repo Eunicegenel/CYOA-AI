@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Takaya",
+    "slug": "takaya",
+    "pageId": 40688,
+    "revisionId": 4525933
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card characters",
+    "sourceFileName": "takaya__40688.json",
+    "revisionTimestamp": "2026-04-09T14:07:00Z",
+    "fetchedAt": "2026-05-14T15:51:06.536Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: タカヤ Takaya) is a character in How I Became a Pokémon Card. He lives in a small village which holds a contest to determine which villager shall be awarded the title of \"Air Master\"; Takaya competes with his against the story's hero, .",
+  "plainText": "(Japanese: タカヤ Takaya) is a character in How I Became a Pokémon Card. He lives in a small village which holds a contest to determine which villager shall be awarded the title of \"Air Master\"; Takaya competes with his against the story's hero, .\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: タカヤ Takaya) is a character in How I Became a Pokémon Card. He lives in a small village which holds a contest to determine which villager shall be awarded the title of \"Air Master\"; Takaya competes with his against the story's hero, ."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Takaya",
+    "pageType": "character",
+    "searchableText": "Takaya\nCategory:How I Became a Pokémon Card characters\n(Japanese: タカヤ Takaya) is a character in How I Became a Pokémon Card. He lives in a small village which holds a contest to determine which villager shall be awarded the title of \"Air Master\"; Takaya competes with his against the story's hero, .",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 257,
+    "sectionCount": 1
+  }
+}

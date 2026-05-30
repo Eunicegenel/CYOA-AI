@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "I'm Home and Welcome Back",
+    "slug": "im-home-and-welcome-back",
+    "pageId": 258551,
+    "revisionId": 4275672
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese movie ending themes",
+    "sourceFileName": "im-home-and-welcome-back__258551.json",
+    "revisionTimestamp": "2025-04-03T13:04:54Z",
+    "fetchedAt": "2026-05-14T14:24:43.475Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "I'm Home and Welcome Back (Japanese: ただいまとおかえり Tadaima to Okaeri) is the Japanese ending theme for M23. It was produced by Taiiku Okazaki.",
+  "plainText": "I'm Home and Welcome Back (Japanese: ただいまとおかえり Tadaima to Okaeri) is the Japanese ending theme for M23. It was produced by Taiiku Okazaki.\n\n==Lyrics==\n \n! Japanese\n! English\n\n \n\n \n \n\n \n \n \n \n\n \n \n\n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n\nHey, unravel my voice as you're embraced by the moonlight\n\nI run my fingers through your hair as you sleep\nI wonder how many more times I'll be able to touch you\n\nMay you always have joy\nMay you never feel lonely\nMay you make friends who are dear to you\nWe'll always be connected by \"I'm home\" and \"welcome back\"\n\nHey, let's prepare our lunch early tomorrow and head on for a trip\nHey, I'm sure we'll make up before we know it\n\nI take you by the shoulder as you cry\nI wonder how many more times I'll be able to hug you\n\nMay you always be happy\nMay you never be sad\nMay you meet someone wonderful\nWe'll always be connected by \"I'm home\" and \"welcome back\"\n\nSomeday, you'll set off to pursue your dreams\nI'll see you off until you're out of my sight\nYou can always come back\nWe'll always be connected by \"I'm home\" and \"welcome back\"\n\nHey, when was this picture taken? It feels so warm\nNever fading even as the time flies, I'll welcome you back with all my heart \n\n==Related articles==\nThe Rule Song\n\nShow Window\nThe Hum of the Forest\nStrange and Wonderful Creatures\n \n \n \n \n\nes:EDJP23\nja:ただいまとおかえり\nzh:我回來了，歡迎回家",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "I'm Home and Welcome Back (Japanese: ただいまとおかえり Tadaima to Okaeri) is the Japanese ending theme for M23. It was produced by Taiiku Okazaki."
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "! Japanese\n! English\n\n \n\n \n \n\n \n \n \n \n\n \n \n\n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n\nHey, unravel my voice as you're embraced by the moonlight\n\nI run my fingers through your hair as you sleep\nI wonder how many more times I'll be able to touch you\n\nMay you always have joy\nMay you never feel lonely\nMay you make friends who are dear to you\nWe'll always be connected by \"I'm home\" and \"welcome back\"\n\nHey, let's prepare our lunch early tomorrow and head on for a trip\nHey, I'm sure we'll make up before we know it\n\nI take you by the shoulder as you cry\nI wonder how many more times I'll be able to hug you\n\nMay you always be happy\nMay you never be sad\nMay you meet someone wonderful\nWe'll always be connected by \"I'm home\" and \"welcome back\"\n\nSomeday, you'll set off to pursue your dreams\nI'll see you off until you're out of my sight\nYou can always come back\nWe'll always be connected by \"I'm home\" and \"welcome back\"\n\nHey, when was this picture taken? It feels so warm\nNever fading even as the time flies, I'll welcome you back with all my heart"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "The Rule Song\n\nShow Window\nThe Hum of the Forest\nStrange and Wonderful Creatures\n \n \n \n \n\nes:EDJP23\nja:ただいまとおかえり\nzh:我回來了，歡迎回家"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "I'm Home and Welcome Back",
+    "pageType": "movie",
+    "searchableText": "I'm Home and Welcome Back\nCategory:Japanese movie ending themes\nI'm Home and Welcome Back (Japanese: ただいまとおかえり Tadaima to Okaeri) is the Japanese ending theme for M23. It was produced by Taiiku Okazaki.",
+    "sectionHeadings": [
+      "Lead",
+      "Lyrics",
+      "Related articles"
+    ],
+    "characterCount": 1334,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PDP14",
+    "slug": "pdp14",
+    "pageId": 179374,
+    "revisionId": 4528386
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp14__179374.json",
+    "revisionTimestamp": "2026-04-09T16:18:53Z",
+    "fetchedAt": "2026-05-14T15:29:44.224Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 命がけの雪下ろし Risky Snow Removal) is the fourteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: 命がけの雪下ろし Risky Snow Removal) is the fourteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n\n \n \n \n\nit:PDP14",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 命がけの雪下ろし Risky Snow Removal) is the fourteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n \n \n \n\nit:PDP14"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP14",
+    "pageType": "chapter",
+    "searchableText": "PDP14\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: 命がけの雪下ろし Risky Snow Removal) is the fourteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 256,
+    "sectionCount": 3
+  }
+}

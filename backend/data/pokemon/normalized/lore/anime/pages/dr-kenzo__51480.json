@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Dr. Kenzo",
+    "slug": "dr-kenzo",
+    "pageId": 51480,
+    "revisionId": 4167221
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "dr-kenzo__51480.json",
+    "revisionTimestamp": "2024-10-25T09:55:27Z",
+    "fetchedAt": "2026-05-14T14:14:27.702Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Dr. Kenzo (Japanese: ケンゾウ Kenzō) is a recurring character in .",
+  "plainText": "Dr. Kenzo (Japanese: ケンゾウ Kenzō) is a recurring character in .\n\n==History==\nDr. Kenzo first appeared in A Gruff Act to Follow!, where he saw gazing at some coal in the Oreburgh Mining Museum. He asked the trio what they wanted to see and they chose the Fossil restorer. While going to the Fossil restorer, Dr. Kenzo told them how the museum is split into two parts. As they arrived, Dr. Kenzo told them that the restoration process once the Fossil was in the machine would take 24 hours to complete.\n\nIn Wild in the Streets!, Dr. Kenzo discovered that the museum's Fossil-reviving machine was missing. He was then shown standing next to Officer Jenny, watching an destroy part of Oreburgh City. As Roark battled an and a with , Dr. Kenzo found out that Team Rocket were responsible for stealing the Fossil-reviving machine. After Aerodactyl damaged part of Team Rocket's mecha, Dr. Kenzo recalled both Armaldo and Kabutops to their s. He was also able to capture Aerodactyl after Dawn's Piplup and battled it.\n\n==Character==\nHe is seen to be the director of the Oreburgh Mining Museum, specifically its Fossil-restoration program.\n\nThe Pokémon in the museum's controlled environment may belong to him in some degree, as he was seen recalling a rampaging , and also capturing the revived when stole the museum's Fossil-reviving machine.\n\n==Pokémon==\n \n===Revived===\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n==Voice actors==\n \n\n==Trivia==\nDr. Kenzo shares the same Japanese and English voice actors as Dr. Yung.\n\n \n\n \n \n\nes:Doctor Kenzo\nfr:Professeur Kenzo\nit:Dr. Kenzo\nzh:研三博士",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Dr. Kenzo (Japanese: ケンゾウ Kenzō) is a recurring character in ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Dr. Kenzo first appeared in A Gruff Act to Follow!, where he saw gazing at some coal in the Oreburgh Mining Museum. He asked the trio what they wanted to see and they chose the Fossil restorer. While going to the Fossil restorer, Dr. Kenzo told them how the museum is split into two parts. As they arrived, Dr. Kenzo told them that the restoration process once the Fossil was in the machine would take 24 hours to complete.\n\nIn Wild in the Streets!, Dr. Kenzo discovered that the museum's Fossil-reviving machine was missing. He was then shown standing next to Officer Jenny, watching an destroy part of Oreburgh City. As Roark battled an and a with , Dr. Kenzo found out that Team Rocket were responsible for stealing the Fossil-reviving machine. After Aerodactyl damaged part of Team Rocket's mecha, Dr. Kenzo recalled both Armaldo and Kabutops to their s. He was also able to capture Aerodactyl after Dawn's Piplup and battled it."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "He is seen to be the director of the Oreburgh Mining Museum, specifically its Fossil-restoration program.\n\nThe Pokémon in the museum's controlled environment may belong to him in some degree, as he was seen recalling a rampaging , and also capturing the revived when stole the museum's Fossil-reviving machine."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Dr. Kenzo shares the same Japanese and English voice actors as Dr. Yung.\n\n \n\n \n \n\nes:Doctor Kenzo\nfr:Professeur Kenzo\nit:Dr. Kenzo\nzh:研三博士"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dr. Kenzo",
+    "pageType": "character",
+    "searchableText": "Dr. Kenzo\nCategory:Animation characters\nDr. Kenzo (Japanese: ケンゾウ Kenzō) is a recurring character in .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Trivia"
+    ],
+    "characterCount": 1555,
+    "sectionCount": 4
+  }
+}

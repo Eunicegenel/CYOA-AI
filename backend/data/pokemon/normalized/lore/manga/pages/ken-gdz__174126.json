@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Ken (GDZ)",
+    "slug": "ken-gdz",
+    "pageId": 174126,
+    "revisionId": 4398478
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "ken-gdz__174126.json",
+    "revisionTimestamp": "2025-10-12T11:59:32Z",
+    "fetchedAt": "2026-05-14T15:23:22.356Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ken (Japanese: ケン Ken) is a character who appears in Pokémon: Yeah! I Got Pokémon!. He is one of Shu's many rivals.",
+  "plainText": "Ken (Japanese: ケン Ken) is a character who appears in Pokémon: Yeah! I Got Pokémon!. He is one of Shu's many rivals.\n\n==History==\nShu meets Ken for the first time in Battle in the Smokescreen. Though Shu had never met Ken before, Ken knew exactly who he was and claims that Shu is very famous among Pokémon Trainers. Shu challenges Ken to a battle and eventually defeats him. As a prize for winning, Ken gives Shu a guitar which he autographed, claiming that it is a very valuable item. Unknown to Ken, Shu finds the item totally useless.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ken (Japanese: ケン Ken) is a character who appears in Pokémon: Yeah! I Got Pokémon!. He is one of Shu's many rivals."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Shu meets Ken for the first time in Battle in the Smokescreen. Though Shu had never met Ken before, Ken knew exactly who he was and claims that Shu is very famous among Pokémon Trainers. Shu challenges Ken to a battle and eventually defeats him. As a prize for winning, Ken gives Shu a guitar which he autographed, claiming that it is a very valuable item. Unknown to Ken, Shu finds the item totally useless."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ken (GDZ)",
+    "pageType": "character",
+    "searchableText": "Ken (GDZ)\nCategory:Pokémon: Yeah! I Got Pokémon! characters\nKen (Japanese: ケン Ken) is a character who appears in Pokémon: Yeah! I Got Pokémon!. He is one of Shu's many rivals.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 550,
+    "sectionCount": 2
+  }
+}

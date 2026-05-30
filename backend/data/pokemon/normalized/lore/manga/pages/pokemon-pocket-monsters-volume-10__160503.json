@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon Pocket Monsters volume 10",
+    "slug": "pokemon-pocket-monsters-volume-10",
+    "pageId": 160503,
+    "revisionId": 4354759
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters volumes",
+    "sourceFileName": "pokemon-pocket-monsters-volume-10__160503.json",
+    "revisionTimestamp": "2025-08-08T19:04:29Z",
+    "fetchedAt": "2026-05-14T15:36:52.195Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 10 is the tenth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 10 is the tenth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\n\nClefairy Rangers to the Rescue!!\nRampage at the Ruins of Alph!!\nEscape from Magma?!\nClefairy Becomes a Father...?!\nPichu and Pichu's Big Fight\nClefairy's Dream Comes True\nPokémon Hair Salon Opens!!\nFind Slowpoke!!\nThe Hardest Insect Pokémon Wins?!\n\n==Important events==\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\n\n===Evolutions===\n\n==Gym Battles==\nRed defeats the following Gym Leaders:\n\n==Character summary==\n\n===Red's Party===\n \n \n\n \n\nde:Band 10 (Pokémon Pocket Monsters)\nit:Pokémon Pocket Monsters volume 10\nzh:宝可梦欢乐祭10",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 10 is the tenth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Clefairy Rangers to the Rescue!!\nRampage at the Ruins of Alph!!\nEscape from Magma?!\nClefairy Becomes a Father...?!\nPichu and Pichu's Big Fight\nClefairy's Dream Comes True\nPokémon Hair Salon Opens!!\nFind Slowpoke!!\nThe Hardest Insect Pokémon Wins?!"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:"
+    },
+    {
+      "heading": "Gym Battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:"
+    },
+    {
+      "heading": "Red's Party",
+      "level": 3,
+      "text": "de:Band 10 (Pokémon Pocket Monsters)\nit:Pokémon Pocket Monsters volume 10\nzh:宝可梦欢乐祭10"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pocket Monsters volume 10",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pocket Monsters volume 10\nCategory:Pokémon Pocket Monsters volumes\nVolume 10 is the tenth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions",
+      "Gym Battles",
+      "Red's Party"
+    ],
+    "characterCount": 697,
+    "sectionCount": 5
+  }
+}

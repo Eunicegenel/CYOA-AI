@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PASS14",
+    "slug": "pass14",
+    "pageId": 262841,
+    "revisionId": 4528464
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass14__262841.json",
+    "revisionTimestamp": "2026-04-09T16:23:01Z",
+    "fetchedAt": "2026-05-14T15:28:48.278Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Teary!! The Voice of the Master (Japanese: ウルウル！！師の呼び声 Misty-eyed!! The Master's Call) is the 14th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Teary!! The Voice of the Master (Japanese: ウルウル！！師の呼び声 Misty-eyed!! The Master's Call) is the 14th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nearns the .\nBede destroys a Stow-on-Side mural, and is disqualified from the Gym Challenge by Rose.\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHenry\nCasey\nProfessor Magnolia\nBede\nAllister\nRose\nOleana\nMarvin\nHenry's father (flashback)\nAnnouncer\n\n===Pokémon===\n(Fanguru; Henry's)\n(Gigantamax; Allister's)\n(Bede's)\n(Sniffler; Marvin's)\n(Professor Magnolia's)\n(Professor Magnolia's)\n(Rose's)\n\n \n \n \n \n\nde:Die Stimme des Lehrmeisters\nes:PMSSwSh14\nfr:Chapitre 14 (Pocket Monsters Special Épée et Bouclier)\nit:PASS14\nzh:宝可梦特别篇 剑·盾篇 第14话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Teary!! The Voice of the Master (Japanese: ウルウル！！師の呼び声 Misty-eyed!! The Master's Call) is the 14th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "earns the .\nBede destroys a Stow-on-Side mural, and is disqualified from the Gym Challenge by Rose."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nProfessor Magnolia\nBede\nAllister\nRose\nOleana\nMarvin\nHenry's father (flashback)\nAnnouncer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Fanguru; Henry's)\n(Gigantamax; Allister's)\n(Bede's)\n(Sniffler; Marvin's)\n(Professor Magnolia's)\n(Professor Magnolia's)\n(Rose's)\n\n \n \n \n \n\nde:Die Stimme des Lehrmeisters\nes:PMSSwSh14\nfr:Chapitre 14 (Pocket Monsters Special Épée et Bouclier)\nit:PASS14\nzh:宝可梦特别篇 剑·盾篇 第14话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS14",
+    "pageType": "chapter",
+    "searchableText": "PASS14\nCategory:Pokémon Adventures chapters\nTeary!! The Voice of the Master (Japanese: ウルウル！！師の呼び声 Misty-eyed!! The Master's Call) is the 14th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 752,
+    "sectionCount": 4
+  }
+}

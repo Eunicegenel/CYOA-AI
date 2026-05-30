@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Lily (EP241)",
+    "slug": "lily-ep241",
+    "pageId": 15648,
+    "revisionId": 4289274
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "lily-ep241__15648.json",
+    "revisionTimestamp": "2025-04-28T19:50:57Z",
+    "fetchedAt": "2026-05-14T14:31:14.648Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Lily (Japanese: リリー Lily) is a magician who appeared as a character of the day in Hocus Pokémon. She also appeared in the Ash & Pikachu .",
+  "plainText": "Lily (Japanese: リリー Lily) is a magician who appeared as a character of the day in Hocus Pokémon. She also appeared in the Ash & Pikachu .\n\n==In animation==\nLily recruited and to search for the ingredients she needed for a spell that would let humans understand the speech of Pokémon. Her ancient spell book is a family heirloom passed down for hundreds of years. Lily is able to read the ancient script inside her book which dates back to the third King of Pokémania. However, when she actually got to perform that spell, she accidentally transformed Ash into a Pikachu. Ash wasn't too concerned after learning that the magic was only temporary, and he returned to his human form in As Clear as Crystal.\n\nIn the dub, Lily speaks with a Cockney accent.\n\n===Pokémon===\n \n \n\n===Voice actors===\n \n\n==In the manga==\n \n===Ash & Pikachu===\nLily appeared in The Dream Potion Recipe!!.\n \n====Pokémon====\n \n\n \n==Related articles==\n \n \n \n\n \n \n \n \n \n\nde:Lily (Johto)\nes:Lily (Johto)\nfr:Lily (Johto)\nit:Lily (OA125)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lily (Japanese: リリー Lily) is a magician who appeared as a character of the day in Hocus Pokémon. She also appeared in the Ash & Pikachu ."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "Lily recruited and to search for the ingredients she needed for a spell that would let humans understand the speech of Pokémon. Her ancient spell book is a family heirloom passed down for hundreds of years. Lily is able to read the ancient script inside her book which dates back to the third King of Pokémania. However, when she actually got to perform that spell, she accidentally transformed Ash into a Pikachu. Ash wasn't too concerned after learning that the magic was only temporary, and he returned to his human form in As Clear as Crystal.\n\nIn the dub, Lily speaks with a Cockney accent."
+    },
+    {
+      "heading": "Ash & Pikachu",
+      "level": 3,
+      "text": "Lily appeared in The Dream Potion Recipe!!."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Lily (Johto)\nes:Lily (Johto)\nfr:Lily (Johto)\nit:Lily (OA125)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lily (EP241)",
+    "pageType": "character",
+    "searchableText": "Lily (EP241)\nCategory:Johto characters of the day\nLily (Japanese: リリー Lily) is a magician who appeared as a character of the day in Hocus Pokémon. She also appeared in the Ash & Pikachu .",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "Ash & Pikachu",
+      "Related articles"
+    ],
+    "characterCount": 1002,
+    "sectionCount": 4
+  }
+}

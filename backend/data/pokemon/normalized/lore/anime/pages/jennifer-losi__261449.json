@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Jennifer Losi",
+    "slug": "jennifer-losi",
+    "pageId": 261449,
+    "revisionId": 4527745
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "jennifer-losi__261449.json",
+    "revisionTimestamp": "2026-04-09T15:51:39Z",
+    "fetchedAt": "2026-05-14T14:25:54.590Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Jennifer Losi is an American voice actress for the English-language dub of .",
+  "plainText": "Jennifer Losi is an American voice actress for the English-language dub of .\n\n==Biography==\nLosi is an American voice actress, born on February 10. Losi joined the series, voicing in Pokémon Masters EX. She joined the during , where she voiced Oleana.\n\n==Pokémon roles==\n===Animation===\n==== ====\nOleana\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nKomainu (White), Yosuzume (In/Spectre)\nTerano Totobami (Kakegurui)\nCustomer, Female Students (Mob Psycho 100)\nTamara (Sirius the Jaeger)\nRinko Kojiro (Sword Art Online)\nKonatsu, Smoke (Welcome to Demon School! Iruma-kun)\nGanyu (Genshin Impact)\n\n==External links==\nMy Anime List\nAnime Planet\nOfficial website\nTwitter\nBehind the Voice Actors\nIMDb\nTwitch\n\n \n \n \n\nit:Jennifer Losi",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jennifer Losi is an American voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Losi is an American voice actress, born on February 10. Losi joined the series, voicing in Pokémon Masters EX. She joined the during , where she voiced Oleana."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Oleana"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Komainu (White), Yosuzume (In/Spectre)\nTerano Totobami (Kakegurui)\nCustomer, Female Students (Mob Psycho 100)\nTamara (Sirius the Jaeger)\nRinko Kojiro (Sword Art Online)\nKonatsu, Smoke (Welcome to Demon School! Iruma-kun)\nGanyu (Genshin Impact)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "My Anime List\nAnime Planet\nOfficial website\nTwitter\nBehind the Voice Actors\nIMDb\nTwitch\n\n \n \n \n\nit:Jennifer Losi"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jennifer Losi",
+    "pageType": "general-anime-lore",
+    "searchableText": "Jennifer Losi\nCategory:TPCi voice actors\nJennifer Losi is an American voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 755,
+    "sectionCount": 5
+  }
+}

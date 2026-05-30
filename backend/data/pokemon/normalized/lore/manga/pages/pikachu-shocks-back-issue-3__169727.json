@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pikachu Shocks Back issue 3",
+    "slug": "pikachu-shocks-back-issue-3",
+    "pageId": 169727,
+    "revisionId": 4131447
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu monthly issues",
+    "sourceFileName": "pikachu-shocks-back-issue-3__169727.json",
+    "revisionTimestamp": "2024-09-29T04:19:45Z",
+    "fetchedAt": "2026-05-14T15:30:20.314Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Pikachu Shocks Back issue 3 is the seventh monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the seventh chapter of the manga, Pikachu's Excellent Adventure. \n\nThe contents of this issue were included as part of along with ET05, ET06, and ET08.",
+  "plainText": "Pikachu Shocks Back issue 3 is the seventh monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the seventh chapter of the manga, Pikachu's Excellent Adventure. \n\nThe contents of this issue were included as part of along with ET05, ET06, and ET08.\n\n==Publications==\n \n \n\n==Chapters==\nPikachu's Excellent Adventure\n\n==Important events==\nTeam Rocket appears for the first time.\ngets lost, finds the Hidden Village, and is later reunited with Ash.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pikachu Shocks Back issue 3 is the seventh monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the seventh chapter of the manga, Pikachu's Excellent Adventure. \n\nThe contents of this issue were included as part of along with ET05, ET06, and ET08."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Pikachu's Excellent Adventure"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Team Rocket appears for the first time.\ngets lost, finds the Hidden Village, and is later reunited with Ash."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pikachu Shocks Back issue 3",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pikachu Shocks Back issue 3\nCategory:Electric Tale of Pikachu monthly issues\nPikachu Shocks Back issue 3 is the seventh monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the seventh chapter of the manga, Pikachu's Excellent Adventure. \n\nThe contents of this issue were included as part of along with ET05, ET06, and ET08.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 495,
+    "sectionCount": 3
+  }
+}

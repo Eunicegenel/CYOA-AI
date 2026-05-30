@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters DP volume 3",
+    "slug": "pocket-monsters-dp-volume-3",
+    "pageId": 139422,
+    "revisionId": 4528407
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP volumes",
+    "sourceFileName": "pocket-monsters-dp-volume-3__139422.json",
+    "revisionTimestamp": "2026-04-09T16:19:33Z",
+    "fetchedAt": "2026-05-14T15:34:17.763Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 3 is the third volume of the manga created by Kosaku Anakubo.",
+  "plainText": "Volume 3 is the third volume of the manga created by Kosaku Anakubo.\n\n==Publications==\n \n \n \n\n==Chapters==\nClefairy, the Sumo World's Messiah!?\nLearning a Special Move!!\nTurmoil Through the Ages!!\nClefairy's Story of Friendship!!\nNew Pokémon Gag Movie!?\nChristmas Party Laughter!!\nStrange Rapid-Fire Solutions! Clefairy's Test-Taking!! \nClefairy in Danger! The Entrance of Popular Pokémon\nAim to be a Best-Selling Author!!\nLet's Bloom Wonderful Flowers!!\nShockingly Common Hair!?\nTime-Honored Nightmare! The Big Year-End Cleaning!!\n\n \n\n \n\nzh:宝可梦欢乐祭 钻石・珍珠篇3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 3 is the third volume of the manga created by Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Clefairy, the Sumo World's Messiah!?\nLearning a Special Move!!\nTurmoil Through the Ages!!\nClefairy's Story of Friendship!!\nNew Pokémon Gag Movie!?\nChristmas Party Laughter!!\nStrange Rapid-Fire Solutions! Clefairy's Test-Taking!! \nClefairy in Danger! The Entrance of Popular Pokémon\nAim to be a Best-Selling Author!!\nLet's Bloom Wonderful Flowers!!\nShockingly Common Hair!?\nTime-Honored Nightmare! The Big Year-End Cleaning!!\n\n \n\n \n\nzh:宝可梦欢乐祭 钻石・珍珠篇3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters DP volume 3",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters DP volume 3\nCategory:Pocket Monsters DP volumes\nVolume 3 is the third volume of the manga created by Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 556,
+    "sectionCount": 2
+  }
+}

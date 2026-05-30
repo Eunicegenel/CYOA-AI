@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Pokémon 4Koma Gag Theater",
+    "slug": "pokemon-4koma-gag-theater",
+    "pageId": 220580,
+    "revisionId": 4526841
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-4koma-gag-theater__220580.json",
+    "revisionTimestamp": "2026-04-09T15:08:21Z",
+    "fetchedAt": "2026-05-14T15:34:48.559Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモン4コマギャグ劇場 Pokémon 4Koma Gag Theater) is a Pokémon 4Koma created by 姫野かげまる Kagemaru Himeno. It was originally published in Bessatsu CoroCoro Comic Special from August 1997 to June 1999.\n\n \n \n\n \n\n \n\nzh:宝可梦四格爆笑剧场",
+  "plainText": "(Japanese: ポケモン4コマギャグ劇場 Pokémon 4Koma Gag Theater) is a Pokémon 4Koma created by 姫野かげまる Kagemaru Himeno. It was originally published in Bessatsu CoroCoro Comic Special from August 1997 to June 1999.\n\n \n \n\n \n\n \n\nzh:宝可梦四格爆笑剧场",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン4コマギャグ劇場 Pokémon 4Koma Gag Theater) is a Pokémon 4Koma created by 姫野かげまる Kagemaru Himeno. It was originally published in Bessatsu CoroCoro Comic Special from August 1997 to June 1999.\n\n \n \n\n \n\n \n\nzh:宝可梦四格爆笑剧场"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 4Koma Gag Theater",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 4Koma Gag Theater\nCategory:Pokémon 4Koma\n(Japanese: ポケモン4コマギャグ劇場 Pokémon 4Koma Gag Theater) is a Pokémon 4Koma created by 姫野かげまる Kagemaru Himeno. It was originally published in Bessatsu CoroCoro Comic Special from August 1997 to June 1999.\n\n \n \n\n \n\n \n\nzh:宝可梦四格爆笑剧场",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 223,
+    "sectionCount": 1
+  }
+}

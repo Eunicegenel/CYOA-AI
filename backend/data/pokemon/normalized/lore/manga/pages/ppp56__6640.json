@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP56",
+    "slug": "ppp56",
+    "pageId": 6640,
+    "revisionId": 4527068
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp56__6640.json",
+    "revisionTimestamp": "2026-04-09T15:18:06Z",
+    "fetchedAt": "2026-05-14T15:39:11.773Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Happiness Clover (Japanese: 幸せのクローバー Clover of Happiness) is the fifty-sixth chapter of the Magical Pokémon Journey manga.",
+  "plainText": "The Happiness Clover (Japanese: 幸せのクローバー Clover of Happiness) is the fifty-sixth chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nHazel wants a four-leaf clover, so and find her one. But a tricks them into giving it to him, since he bet his friends he could find one. Can the two scatterbrains possibly find another?\n\n==Important characters and Pokémon==\nHazel\nAlmond\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Happiness Clover (Japanese: 幸せのクローバー Clover of Happiness) is the fifty-sixth chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Hazel wants a four-leaf clover, so and find her one. But a tricks them into giving it to him, since he bet his friends he could find one. Can the two scatterbrains possibly find another?"
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Hazel\nAlmond"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP56",
+    "pageType": "chapter",
+    "searchableText": "PPP56\nCategory:Magical Pokémon Journey chapters\nThe Happiness Clover (Japanese: 幸せのクローバー Clover of Happiness) is the fifty-sixth chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon"
+    ],
+    "characterCount": 427,
+    "sectionCount": 3
+  }
+}

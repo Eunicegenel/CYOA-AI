@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Hiro",
+    "slug": "hiro",
+    "pageId": 22149,
+    "revisionId": 4487186
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters B2 W2 ~ A New Legend ~",
+    "sourceFileName": "hiro__22149.json",
+    "revisionTimestamp": "2026-02-16T01:41:11Z",
+    "fetchedAt": "2026-05-14T15:21:33.009Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Hiro (Japanese: ヒロ Hiro) is a minor character from Pocket Monsters B2 W2 ~ A New Legend ~, who only appeared in ANL1.",
+  "plainText": "Hiro (Japanese: ヒロ Hiro) is a minor character from Pocket Monsters B2 W2 ~ A New Legend ~, who only appeared in ANL1.\n\n==Character==\nHiro is laid back in contrast to his friend, Cheren. He was also shown to not take things seriously, which was also opposite to Cheren.\n\n==History==\nSometime before Arata started on his Pokémon journey, Hiro battled the original Team Plasma and managed to win, disbanding them. However, it wasn't long until a newer version of Team Plasma arrived. Later, after the two grunts defeated Cheren and Arata, Hiro returned, riding on his . The sight of Hiro caused the two Team Plasma grunts to leave, empty handed. Cheren then gives Hiro a hard time for not keeping in touch but Hiro didn't mind Cheren's actions. Hiro then introduced himself to Arata and told him that he should become a strong Trainer someday.\n\n==Pokémon==\n \n\n \n\n==Names==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hiro (Japanese: ヒロ Hiro) is a minor character from Pocket Monsters B2 W2 ~ A New Legend ~, who only appeared in ANL1."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Hiro is laid back in contrast to his friend, Cheren. He was also shown to not take things seriously, which was also opposite to Cheren."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Sometime before Arata started on his Pokémon journey, Hiro battled the original Team Plasma and managed to win, disbanding them. However, it wasn't long until a newer version of Team Plasma arrived. Later, after the two grunts defeated Cheren and Arata, Hiro returned, riding on his . The sight of Hiro caused the two Team Plasma grunts to leave, empty handed. Cheren then gives Hiro a hard time for not keeping in touch but Hiro didn't mind Cheren's actions. Hiro then introduced himself to Arata and told him that he should become a strong Trainer someday."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hiro",
+    "pageType": "general-manga-lore",
+    "searchableText": "Hiro\nCategory:Pocket Monsters B2 W2 ~ A New Legend ~\nHiro (Japanese: ヒロ Hiro) is a minor character from Pocket Monsters B2 W2 ~ A New Legend ~, who only appeared in ANL1.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History"
+    ],
+    "characterCount": 869,
+    "sectionCount": 3
+  }
+}

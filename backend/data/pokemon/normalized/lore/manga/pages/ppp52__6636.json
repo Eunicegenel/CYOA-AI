@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "PPP52",
+    "slug": "ppp52",
+    "pageId": 6636,
+    "revisionId": 4083204
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp52__6636.json",
+    "revisionTimestamp": "2024-08-16T15:56:42Z",
+    "fetchedAt": "2026-05-14T15:39:09.263Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Go, Go, Apricot! (Part 2) (Japanese: 燃えよ、小梅！ (後編), Burn on, ! (Part 2)) is the fifty-second chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Go, Go, Apricot! (Part 2) (Japanese: 燃えよ、小梅！ (後編), Burn on, ! (Part 2)) is the fifty-second chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \n\n==Important characters and Pokémon==\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Go, Go, Apricot! (Part 2) (Japanese: 燃えよ、小梅！ (後編), Burn on, ! (Part 2)) is the fifty-second chapter of the Magical Pokémon Journey manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP52",
+    "pageType": "chapter",
+    "searchableText": "PPP52\nCategory:Magical Pokémon Journey chapters\nGo, Go, Apricot! (Part 2) (Japanese: 燃えよ、小梅！ (後編), Burn on, ! (Part 2)) is the fifty-second chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 238,
+    "sectionCount": 1
+  }
+}

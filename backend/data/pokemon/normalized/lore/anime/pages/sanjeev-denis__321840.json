@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Sanjeev Denis",
+    "slug": "sanjeev-denis",
+    "pageId": 321840,
+    "revisionId": 4544111
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "sanjeev-denis__321840.json",
+    "revisionTimestamp": "2026-05-04T09:49:05Z",
+    "fetchedAt": "2026-05-14T14:48:18.454Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Sanjeev Denis (Japanese: サンジーヴ・デニス Sanjeev Denis) is a jeweler and owner of the Aurora Drop in the game Detective Pikachu Returns. He is considered one of the wealthiest men in Ryme City.",
+  "plainText": "Sanjeev Denis (Japanese: サンジーヴ・デニス Sanjeev Denis) is a jeweler and owner of the Aurora Drop in the game Detective Pikachu Returns. He is considered one of the wealthiest men in Ryme City. \n\n==In the games==\n===Detective Pikachu Returns===\nSanjeev is introduced at the start of the game during Tim's first major case investigating the theft of the Aurora Drop. Sanjeev is a jeweler and owner of the Aurora Drop which had been stored securely at his mansion. He hires Tim to investigate the case as Sanjeev believes that the crime had not been performed by his trusted butler Barnes who the police and Brad believe is the culprit.\n\nDuring Tim's investigation, Sanjeev reveals that he had intended to donate the Aurora Drop to Ryme City as a symbol of the city's revival. This had been a cause of contention with his wife Claudia. Sanjeev is present when Tim reveals that the real culprit is one of Sanjeev's newly hired staff Larry Turner.\n\n===Personality and characteristics===\nSanjeev appears to be a good natured man as seen by his wishes to donate the precious Aurora Drop as a symbol for Ryme City's revival. He also has complete confidence in his butler Barnes, such that he asks Tim to investigate the incident to hopefully prove his innocence. \n\n===Pokémon===\n \nThis listing is of Sanjeev's known in the games:\n\n \n\n===Voice actors===\n \n\n==Gallery==\n===Artwork===\n \n \n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sanjeev Denis (Japanese: サンジーヴ・デニス Sanjeev Denis) is a jeweler and owner of the Aurora Drop in the game Detective Pikachu Returns. He is considered one of the wealthiest men in Ryme City."
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Sanjeev is introduced at the start of the game during Tim's first major case investigating the theft of the Aurora Drop. Sanjeev is a jeweler and owner of the Aurora Drop which had been stored securely at his mansion. He hires Tim to investigate the case as Sanjeev believes that the crime had not been performed by his trusted butler Barnes who the police and Brad believe is the culprit.\n\nDuring Tim's investigation, Sanjeev reveals that he had intended to donate the Aurora Drop to Ryme City as a symbol of the city's revival. This had been a cause of contention with his wife Claudia. Sanjeev is present when Tim reveals that the real culprit is one of Sanjeev's newly hired staff Larry Turner."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "Sanjeev appears to be a good natured man as seen by his wishes to donate the precious Aurora Drop as a symbol for Ryme City's revival. He also has complete confidence in his butler Barnes, such that he asks Tim to investigate the incident to hopefully prove his innocence."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Sanjeev's known in the games:"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sanjeev Denis",
+    "pageType": "character",
+    "searchableText": "Sanjeev Denis\nCategory:Detective Pikachu Returns characters\nSanjeev Denis (Japanese: サンジーヴ・デニス Sanjeev Denis) is a jeweler and owner of the Aurora Drop in the game Detective Pikachu Returns. He is considered one of the wealthiest men in Ryme City.",
+    "sectionHeadings": [
+      "Lead",
+      "Detective Pikachu Returns",
+      "Personality and characteristics",
+      "Pokémon"
+    ],
+    "characterCount": 1420,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Megi City",
+    "slug": "megi-city",
+    "pageId": 7065,
+    "revisionId": 4261153
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "megi-city__7065.json",
+    "revisionTimestamp": "2025-03-19T21:50:46Z",
+    "fetchedAt": "2026-05-14T14:36:13.240Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Megi City (Japanese: メギシティ Megi City) is an -exclusive location in Johto, found on the southern end of Yellow Rock Isle. It appeared in A Corsola Caper!.\n\nThe city is surrounded by the isle's famous yellow rock cliffs, and also features yellow paved streets. Its buildings tend to be pastel-colored, with rounded doors and windows.\n\nMuch of Megi City is densely built and lies close to the port. Several houses, including Corsola horn artisans like Mika and Andrea's father, sit on nest foundations by a beach. This gives residents access to a steady supply of shed Corsola horn to sell as carvings and jewelry in local shops.\n\n her there.",
+  "plainText": "Megi City (Japanese: メギシティ Megi City) is an -exclusive location in Johto, found on the southern end of Yellow Rock Isle. It appeared in A Corsola Caper!.\n\nThe city is surrounded by the isle's famous yellow rock cliffs, and also features yellow paved streets. Its buildings tend to be pastel-colored, with rounded doors and windows.\n\nMuch of Megi City is densely built and lies close to the port. Several houses, including Corsola horn artisans like Mika and Andrea's father, sit on nest foundations by a beach. This gives residents access to a steady supply of shed Corsola horn to sell as carvings and jewelry in local shops.\n\n her there.\n\n==Pokémon Seen in Megi City==\n \n\n===Caught Pokémon===\n \n\n==In other languages==\n \n\n \n\n \n \n\n \n \n\nde:Megie City\nes:Ciudad Megi\nit:Megi City\nzh:美奇市",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Megi City (Japanese: メギシティ Megi City) is an -exclusive location in Johto, found on the southern end of Yellow Rock Isle. It appeared in A Corsola Caper!.\n\nThe city is surrounded by the isle's famous yellow rock cliffs, and also features yellow paved streets. Its buildings tend to be pastel-colored, with rounded doors and windows.\n\nMuch of Megi City is densely built and lies close to the port. Several houses, including Corsola horn artisans like Mika and Andrea's father, sit on nest foundations by a beach. This gives residents access to a steady supply of shed Corsola horn to sell as carvings and jewelry in local shops.\n\n her there."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Megie City\nes:Ciudad Megi\nit:Megi City\nzh:美奇市"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Megi City",
+    "pageType": "location",
+    "searchableText": "Megi City\nCategory:Animated series-exclusive locations\nMegi City (Japanese: メギシティ Megi City) is an -exclusive location in Johto, found on the southern end of Yellow Rock Isle. It appeared in A Corsola Caper!.\n\nThe city is surrounded by the isle's famous yellow rock cliffs, and also features yellow paved streets. Its buildings tend to be pastel-colored, with rounded doors and windows.\n\nMuch of Megi City is densely built and lies close to the port. Several houses, including Corsola horn artisans like Mika and Andrea's father, sit on nest foundations by a beach. This gives residents access to a steady supply of shed Corsola horn to sell as carvings and jewelry in local shops.\n\n her there.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 785,
+    "sectionCount": 2
+  }
+}

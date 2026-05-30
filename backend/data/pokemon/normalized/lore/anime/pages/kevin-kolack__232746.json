@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Kevin Kolack",
+    "slug": "kevin-kolack",
+    "pageId": 232746,
+    "revisionId": 4323464
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:4Kids voice actors",
+    "sourceFileName": "kevin-kolack__232746.json",
+    "revisionTimestamp": "2025-06-24T03:30:36Z",
+    "fetchedAt": "2026-05-14T14:29:21.785Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kevin Kolack is an American voice actor for the English dub of The Legend of Thunder!.",
+  "plainText": "Kevin Kolack is an American voice actor for the English dub of The Legend of Thunder!.\n\n==Biography==\nKolack was born on October 25, 1969, in Austin, Texas. He became a voice actor as an adult and was primarily affiliated with 4Kids Entertainment until sometime before they filed for bankruptcy. He also acted on live-action productions. Kolack voiced Vincent in the special The Legend of Thunder!, which aired internationally as the first three episodes of Pokémon Chronicles.\n\n==Pokémon roles==\n===Animation===\n==== ====\nVincent\n\n==Other non-Pokémon roles==\n===Animation===\nTokkori ( )\nPepper, Mr. 2/Bon Clay ( )\nKhybon, additional voices ( )\n\n===Live-action roles===\nEMT Butler ( )\nHarry Cohen ( )\nEMT ( )\n\n===Video game roles===\nMr. 2/Bon Clay ( , )\n\n==External links==\nOfficial website\nIMDb\nYouTube\nTwitter\nFacebook\n\n \n \n\nit:Kevin Kolack",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kevin Kolack is an American voice actor for the English dub of The Legend of Thunder!."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kolack was born on October 25, 1969, in Austin, Texas. He became a voice actor as an adult and was primarily affiliated with 4Kids Entertainment until sometime before they filed for bankruptcy. He also acted on live-action productions. Kolack voiced Vincent in the special The Legend of Thunder!, which aired internationally as the first three episodes of Pokémon Chronicles."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Vincent"
+    },
+    {
+      "heading": "Animation",
+      "level": 3,
+      "text": "Tokkori ( )\nPepper, Mr. 2/Bon Clay ( )\nKhybon, additional voices ( )"
+    },
+    {
+      "heading": "Live-action roles",
+      "level": 3,
+      "text": "EMT Butler ( )\nHarry Cohen ( )\nEMT ( )"
+    },
+    {
+      "heading": "Video game roles",
+      "level": 3,
+      "text": "Mr. 2/Bon Clay ( , )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nIMDb\nYouTube\nTwitter\nFacebook\n\n \n \n\nit:Kevin Kolack"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kevin Kolack",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kevin Kolack\nCategory:4Kids voice actors\nKevin Kolack is an American voice actor for the English dub of The Legend of Thunder!.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Animation",
+      "Live-action roles",
+      "Video game roles",
+      "External links"
+    ],
+    "characterCount": 842,
+    "sectionCount": 7
+  }
+}

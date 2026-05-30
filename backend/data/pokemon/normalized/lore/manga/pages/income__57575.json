@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Income",
+    "slug": "income",
+    "pageId": 57575,
+    "revisionId": 4526873
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon!",
+    "sourceFileName": "income__57575.json",
+    "revisionTimestamp": "2026-04-09T15:09:57Z",
+    "fetchedAt": "2026-05-14T15:22:05.866Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The Income (Japanese: インカム Income) is a headset device that allows Shu to talk to his . It is only seen in the Pokémon: Yeah! I Got Pokémon!.\n\nIn the manga, the main character Shu is the only character to own an Income. It was invented by his and he himself does not know how well it works.\n\nSimilarly, the character is able to communicate with his through a \"Cat Cap\", a hood with two Meowth ears.\n \n\n \n \n\nit:In-Com",
+  "plainText": "The Income (Japanese: インカム Income) is a headset device that allows Shu to talk to his . It is only seen in the Pokémon: Yeah! I Got Pokémon!.\n\nIn the manga, the main character Shu is the only character to own an Income. It was invented by his and he himself does not know how well it works.\n\nSimilarly, the character is able to communicate with his through a \"Cat Cap\", a hood with two Meowth ears.\n \n\n \n \n\nit:In-Com",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Income (Japanese: インカム Income) is a headset device that allows Shu to talk to his . It is only seen in the Pokémon: Yeah! I Got Pokémon!.\n\nIn the manga, the main character Shu is the only character to own an Income. It was invented by his and he himself does not know how well it works.\n\nSimilarly, the character is able to communicate with his through a \"Cat Cap\", a hood with two Meowth ears.\n \n\n \n \n\nit:In-Com"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Income",
+    "pageType": "pokemon-related",
+    "searchableText": "Income\nCategory:Pokémon: Yeah! I Got Pokémon!\nThe Income (Japanese: インカム Income) is a headset device that allows Shu to talk to his . It is only seen in the Pokémon: Yeah! I Got Pokémon!.\n\nIn the manga, the main character Shu is the only character to own an Income. It was invented by his and he himself does not know how well it works.\n\nSimilarly, the character is able to communicate with his through a \"Cat Cap\", a hood with two Meowth ears.\n \n\n \n \n\nit:In-Com",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 416,
+    "sectionCount": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Mariah (EP137)",
+    "slug": "mariah-ep137",
+    "pageId": 15818,
+    "revisionId": 4512588
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "mariah-ep137__15818.json",
+    "revisionTimestamp": "2026-03-19T08:30:57Z",
+    "fetchedAt": "2026-05-14T14:34:57.179Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mariah (Japanese: アズサ Azusa) is a character of the day who appeared in Foul Weather Friends. She also appeared in Ash & Pikachu.",
+  "plainText": "Mariah (Japanese: アズサ Azusa) is a character of the day who appeared in Foul Weather Friends. She also appeared in Ash & Pikachu.\n\n==In animation==\nA young meteorologist, Mariah has a weather station between Violet City and Azalea Town. She also keeps a cluster of in a cage so she can study their behavior and movement to predict wind patterns. She believes Hoppip have some sort of sixth sense that lets them predict weather patterns early.\n\nShe also befriended an that believes itself to be a Hoppip and is trained to track down her seven Hoppip whenever they're blown away.\n\n===Pokémon===\n \n====Studied====\n \n\n \n\n===Voice actors===\n \n\n==In the manga==\n===Ash & Pikachu===\n \nMariah appears in Hoppip, the Wind Calls! and is the first character of the day from the animated series to appear in Ash & Pikachu. In Chuang Yi's English translation, she is still known by her Japanese name, Azusa.\n\nMariah lives in a log house in the forest. She takes care of several and uses them to study the weather. She also takes care of an who made friends with the Hoppip.\n\n====Pokémon====\n \n\n \n\n==Trivia==\nHer name is likely a reference to the song \"They Call the Wind Mariah\" from the musical given that she is a weather researcher.\n\n==Related articles==\n \n \n \n \n \n \n \n \n\nde:Maria\nes:Mariah (Johto)\nfr:Maria (Johto)\nit:Mariah (OA021)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mariah (Japanese: アズサ Azusa) is a character of the day who appeared in Foul Weather Friends. She also appeared in Ash & Pikachu."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "A young meteorologist, Mariah has a weather station between Violet City and Azalea Town. She also keeps a cluster of in a cage so she can study their behavior and movement to predict wind patterns. She believes Hoppip have some sort of sixth sense that lets them predict weather patterns early.\n\nShe also befriended an that believes itself to be a Hoppip and is trained to track down her seven Hoppip whenever they're blown away."
+    },
+    {
+      "heading": "Ash & Pikachu",
+      "level": 3,
+      "text": "Mariah appears in Hoppip, the Wind Calls! and is the first character of the day from the animated series to appear in Ash & Pikachu. In Chuang Yi's English translation, she is still known by her Japanese name, Azusa.\n\nMariah lives in a log house in the forest. She takes care of several and uses them to study the weather. She also takes care of an who made friends with the Hoppip."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Her name is likely a reference to the song \"They Call the Wind Mariah\" from the musical given that she is a weather researcher."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Maria\nes:Mariah (Johto)\nfr:Maria (Johto)\nit:Mariah (OA021)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mariah (EP137)",
+    "pageType": "character",
+    "searchableText": "Mariah (EP137)\nCategory:Johto characters of the day\nMariah (Japanese: アズサ Azusa) is a character of the day who appeared in Foul Weather Friends. She also appeared in Ash & Pikachu.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "Ash & Pikachu",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1322,
+    "sectionCount": 5
+  }
+}

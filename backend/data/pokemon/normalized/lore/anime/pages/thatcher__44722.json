@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Thatcher",
+    "slug": "thatcher",
+    "pageId": 44722,
+    "revisionId": 4466018
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "thatcher__44722.json",
+    "revisionTimestamp": "2026-01-12T21:58:47Z",
+    "fetchedAt": "2026-05-14T14:53:52.826Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Thatcher (Japanese: カズチ Kazuchi) is a minor recurring character in . He is the younger brother of Alyssa.",
+  "plainText": "Thatcher (Japanese: カズチ Kazuchi) is a minor recurring character in . He is the younger brother of Alyssa.\n\n==History==\n ]]\nThatcher debuted in A Different Kind of Misty!. He and Alyssa operate the Misty Village Lighthouse using a special rock called the light stone. Thatcher's grandfather gave him a and to help charge the light stone, but Thatcher was unsure of whether or not he could properly train them. Having very little trust and confidence in his , all Thatcher could do was cheer for others using his Pokémon's . , who Thatcher sees as a \"hero\", helped Thatcher protect the light stone from and taught him to believe in his Pokémon.\n\nThatcher soon left on his own to become a like Ash. During a day of training, Sheridan noticed Plusle and Minun's powerful Helping Hand attacks and recruited Thatcher to become a member of his traveling pep squad.\n\nEn route to Lavaridge Town, in Cheer Pressure, Ash and encountered Thatcher again as he was training to becoming a pep master. Max later exposed Sheridan and his power of pep as a fraud, leading to the end of his elite cheer school. Thatcher, with a Helping Hand from his Pokémon, then helped Ash's Pikachu escape from Team Rocket. With a renewed faith in his own abilities, Thatcher said goodbye to Ash and his friends, and set his sights on continuing his own journey towards becoming a Trainer.\n \n\n==Character==\nThatcher is ambitious and enthusiastic, and he also has a deep understanding of teamwork. He actively seeks out a master to help teach him new things in order to prove himself. This, however, causes Thatcher to feel lost, making him vulnerable to fraudsters like Sheridan.\n\nThatcher continues to admire for his courage, and even considers him a great mentor. In his second appearance, Thatcher was shown to have developed some sense of independence.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n==Trivia==\nThatcher is misnamed as \"Batcher\" on Pokémon.com.\n\n==Names==\n \n\n \n \n \n\nes:Thatcher\nfr:Benjamin\nit:Thatcher\nzh:和智",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Thatcher (Japanese: カズチ Kazuchi) is a minor recurring character in . He is the younger brother of Alyssa."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "]]\nThatcher debuted in A Different Kind of Misty!. He and Alyssa operate the Misty Village Lighthouse using a special rock called the light stone. Thatcher's grandfather gave him a and to help charge the light stone, but Thatcher was unsure of whether or not he could properly train them. Having very little trust and confidence in his , all Thatcher could do was cheer for others using his Pokémon's . , who Thatcher sees as a \"hero\", helped Thatcher protect the light stone from and taught him to believe in his Pokémon.\n\nThatcher soon left on his own to become a like Ash. During a day of training, Sheridan noticed Plusle and Minun's powerful Helping Hand attacks and recruited Thatcher to become a member of his traveling pep squad.\n\nEn route to Lavaridge Town, in Cheer Pressure, Ash and encountered Thatcher again as he was training to becoming a pep master. Max later exposed Sheridan and his power of pep as a fraud, leading to the end of his elite cheer school. Thatcher, with a Helping Hand from his Pokémon, then helped Ash's Pikachu escape from Team Rocket. With a renewed faith in his own abilities, Thatcher said goodbye to Ash and his friends, and set his sights on continuing his own journey towards becoming a Trainer."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Thatcher is ambitious and enthusiastic, and he also has a deep understanding of teamwork. He actively seeks out a master to help teach him new things in order to prove himself. This, however, causes Thatcher to feel lost, making him vulnerable to fraudsters like Sheridan.\n\nThatcher continues to admire for his courage, and even considers him a great mentor. In his second appearance, Thatcher was shown to have developed some sense of independence."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Thatcher is misnamed as \"Batcher\" on Pokémon.com."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Thatcher\nfr:Benjamin\nit:Thatcher\nzh:和智"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Thatcher",
+    "pageType": "character",
+    "searchableText": "Thatcher\nCategory:Animation characters\nThatcher (Japanese: カズチ Kazuchi) is a minor recurring character in . He is the younger brother of Alyssa.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 1983,
+    "sectionCount": 5
+  }
+}

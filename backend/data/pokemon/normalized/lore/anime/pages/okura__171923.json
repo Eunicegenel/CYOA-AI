@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Okura",
+    "slug": "okura",
+    "pageId": 171923,
+    "revisionId": 4095425
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "okura__171923.json",
+    "revisionTimestamp": "2024-09-01T00:27:22Z",
+    "fetchedAt": "2026-05-14T14:40:00.095Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: オクラ Okura) is a character of the day who appeared in Lost at the League!. She was not given an official name in the English dub.\n\nShe was one of the people who accompanied the Fan Club President from Inakano Town to Vertress City in order to celebrate Russet's current progress in the Vertress Conference. However, it was unclear if she was a friend or a family member.\n\nOkura was happy that Russet was the first from their hometown to have gotten past the first round. The group enjoyed a lakeside picnic followed by watching the nighttime fireworks.",
+  "plainText": "(Japanese: オクラ Okura) is a character of the day who appeared in Lost at the League!. She was not given an official name in the English dub.\n\nShe was one of the people who accompanied the Fan Club President from Inakano Town to Vertress City in order to celebrate Russet's current progress in the Vertress Conference. However, it was unclear if she was a friend or a family member.\n\nOkura was happy that Russet was the first from their hometown to have gotten past the first round. The group enjoyed a lakeside picnic followed by watching the nighttime fireworks.\n\n==Pokémon==\n===Taken care of===\n \n\n==Voice actors==\n \n \n\n \n\n \n \n \n\nit:Okura\nzh:秋葵",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: オクラ Okura) is a character of the day who appeared in Lost at the League!. She was not given an official name in the English dub.\n\nShe was one of the people who accompanied the Fan Club President from Inakano Town to Vertress City in order to celebrate Russet's current progress in the Vertress Conference. However, it was unclear if she was a friend or a family member.\n\nOkura was happy that Russet was the first from their hometown to have gotten past the first round. The group enjoyed a lakeside picnic followed by watching the nighttime fireworks."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Okura\nzh:秋葵"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Okura",
+    "pageType": "character",
+    "searchableText": "Okura\nCategory:Unova characters of the day\n(Japanese: オクラ Okura) is a character of the day who appeared in Lost at the League!. She was not given an official name in the English dub.\n\nShe was one of the people who accompanied the Fan Club President from Inakano Town to Vertress City in order to celebrate Russet's current progress in the Vertress Conference. However, it was unclear if she was a friend or a family member.\n\nOkura was happy that Russet was the first from their hometown to have gotten past the first round. The group enjoyed a lakeside picnic followed by watching the nighttime fireworks.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 645,
+    "sectionCount": 2
+  }
+}

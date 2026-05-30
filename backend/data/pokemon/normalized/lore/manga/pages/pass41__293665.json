@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASS41",
+    "slug": "pass41",
+    "pageId": 293665,
+    "revisionId": 4528025
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass41__293665.json",
+    "revisionTimestamp": "2026-04-09T16:04:02Z",
+    "fetchedAt": "2026-05-14T15:29:05.531Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Shing!! Final Form (Japanese: パシパシ！！最強形態 Snap!! Ultimate Form) is the 41st chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Shing!! Final Form (Japanese: パシパシ！！最強形態 Snap!! Ultimate Form) is the 41st chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\n, , Marvin, Hop, Bede, and Marnie head back to Galar and prepare to fight .\nHenry returns the Rusted Sword and Shield to and , who turn into their forms.\nMarvin trades Sniffler to Hop.\nTwiggy, Bit, and Sniffler are revealed to be able to Gigantamax.\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n\n==Characters==\n===Humans===\nHenry\nCasey\nHop\nBede\nMarnie \nMilo (fantasy)\nNessa (fantasy)\nKabu (fantasy)\nBea\nAllister (fantasy)\nGordie (fantasy)\nMelony\nOpal\nPiers\nRaihan\nKlara\nAvery\nLeon\nMustard\n\nHyde\nPeony\nPeonia\nOleana\nMarvin\nMayor of Freezington\n\n===Pokémon===\n(Twiggy; Gigantamax; Henry's; silhouette)\n(Bit; Gigantamax; 's; silhouette)\n(Hop's)\n(Hop's; flashback)\n(Marnie's)\n(Raihan's)\n( )\n(Sniffler; Gigantamax; Marvin's; silhouette)\n(Dynamax)\n(Dynamax)\n(Dynamax)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n\n( ; Adventures)\n\n( )\n( )\n\n==Trivia==\n \n \n \n\nde:Die stärkste Form\nes:PMSSwSh41\nfr:Chapitre 41 (Pocket Monsters Special Épée et Bouclier)\nit:PASS41\nzh:宝可梦特别篇 剑·盾篇 第41话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shing!! Final Form (Japanese: パシパシ！！最強形態 Snap!! Ultimate Form) is the 41st chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": ", , Marvin, Hop, Bede, and Marnie head back to Galar and prepare to fight .\nHenry returns the Rusted Sword and Shield to and , who turn into their forms.\nMarvin trades Sniffler to Hop.\nTwiggy, Bit, and Sniffler are revealed to be able to Gigantamax."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nHop\nBede\nMarnie \nMilo (fantasy)\nNessa (fantasy)\nKabu (fantasy)\nBea\nAllister (fantasy)\nGordie (fantasy)\nMelony\nOpal\nPiers\nRaihan\nKlara\nAvery\nLeon\nMustard\n\nHyde\nPeony\nPeonia\nOleana\nMarvin\nMayor of Freezington"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Twiggy; Gigantamax; Henry's; silhouette)\n(Bit; Gigantamax; 's; silhouette)\n(Hop's)\n(Hop's; flashback)\n(Marnie's)\n(Raihan's)\n( )\n(Sniffler; Gigantamax; Marvin's; silhouette)\n(Dynamax)\n(Dynamax)\n(Dynamax)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n\n( ; Adventures)\n\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Die stärkste Form\nes:PMSSwSh41\nfr:Chapitre 41 (Pocket Monsters Special Épée et Bouclier)\nit:PASS41\nzh:宝可梦特别篇 剑·盾篇 第41话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS41",
+    "pageType": "chapter",
+    "searchableText": "PASS41\nCategory:Pokémon Adventures chapters\nShing!! Final Form (Japanese: パシパシ！！最強形態 Snap!! Ultimate Form) is the 41st chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1226,
+    "sectionCount": 6
+  }
+}

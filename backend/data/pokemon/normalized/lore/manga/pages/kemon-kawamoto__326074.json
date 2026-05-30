@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Kemon Kawamoto",
+    "slug": "kemon-kawamoto",
+    "pageId": 326074,
+    "revisionId": 4527842
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga crew",
+    "sourceFileName": "kemon-kawamoto__326074.json",
+    "revisionTimestamp": "2026-04-09T15:55:51Z",
+    "fetchedAt": "2026-05-14T15:23:21.739Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Kemon Kawamoto (Japanese: Kawamoto Kemon) is a Japanese . He has worked on several Pokémon manga.",
+  "plainText": "Kemon Kawamoto (Japanese: Kawamoto Kemon) is a Japanese . He has worked on several Pokémon manga.\n\n==Works==\n(2016)\nPokémon Sun Moon Z-Move Full Power 4Koma Illustrated Book (2017) \nPocket Monsters the Movie: I Choose You! Remix (2017)\nPokémon the Movie: The Power of Us: Zeraora's Story (2018)\nPocket Monsters Let's Go! Pikachu Let's Go! Eievui Adventure Start Comic (2018)\nPokémon Quiz Puzzle Land: Pikachu Exploration Team (2019-2022)\nPokémon Mezastar: Aim to Be a Tag Master! (2020-2023)\nPokémon Quiz Puzzle Land: Pikachu's Treasure Hunt (2023-present)\nPokémon Frienda: Teach Me, Friender-Man! (2024-present)\n\n==Artwork==\n \nM19 manga art.png|Art for \nM20 manga Remix art.png|Art for Pocket Monsters the Movie: I Choose You! Remix\nLet's Go Pikachu Let's Go Eevee Adventure Start Comic art.png|Art for Pocket Monsters Let's Go! Pikachu Let's Go! Eievui Adventure Start Comic\n \n\n==Trivia==\nKemon Kawamoto's favorite Pokémon is . \n\n==References==\n \n\n==External links==\nKemon Kawamoto on X (Twitter)\n\n \n \n\n \n\nes:Kemon Kawamoto\nja:河本けもん",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kemon Kawamoto (Japanese: Kawamoto Kemon) is a Japanese . He has worked on several Pokémon manga."
+    },
+    {
+      "heading": "Works",
+      "level": 2,
+      "text": "(2016)\nPokémon Sun Moon Z-Move Full Power 4Koma Illustrated Book (2017) \nPocket Monsters the Movie: I Choose You! Remix (2017)\nPokémon the Movie: The Power of Us: Zeraora's Story (2018)\nPocket Monsters Let's Go! Pikachu Let's Go! Eievui Adventure Start Comic (2018)\nPokémon Quiz Puzzle Land: Pikachu Exploration Team (2019-2022)\nPokémon Mezastar: Aim to Be a Tag Master! (2020-2023)\nPokémon Quiz Puzzle Land: Pikachu's Treasure Hunt (2023-present)\nPokémon Frienda: Teach Me, Friender-Man! (2024-present)"
+    },
+    {
+      "heading": "Artwork",
+      "level": 2,
+      "text": "M19 manga art.png|Art for \nM20 manga Remix art.png|Art for Pocket Monsters the Movie: I Choose You! Remix\nLet's Go Pikachu Let's Go Eevee Adventure Start Comic art.png|Art for Pocket Monsters Let's Go! Pikachu Let's Go! Eievui Adventure Start Comic"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Kemon Kawamoto's favorite Pokémon is ."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Kemon Kawamoto on X (Twitter)\n\n \n \n\n \n\nes:Kemon Kawamoto\nja:河本けもん"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kemon Kawamoto",
+    "pageType": "manga-series",
+    "searchableText": "Kemon Kawamoto\nCategory:Manga crew\nKemon Kawamoto (Japanese: Kawamoto Kemon) is a Japanese . He has worked on several Pokémon manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Works",
+      "Artwork",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 1034,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB72",
+    "slug": "rb72",
+    "pageId": 167801,
+    "revisionId": 4256257
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb72__167801.json",
+    "revisionTimestamp": "2025-03-10T00:04:24Z",
+    "fetchedAt": "2026-05-14T15:48:01.167Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: アルカデスになる者 The One Who Would Become Arcades) is the 72nd chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: アルカデスになる者 The One Who Would Become Arcades) is the 72nd chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nFraud easily defeats Rug and Karuta.\nFraud reveals that Gerubu is not a part of his plans and proceeds to kill him.\nRyouga finally succeeds in the caretaker's trial.\nFraud arrives to the Ryouga's location right when Ryouga is about to touch the statue. \n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nFraud\nGerubu\nKaruta\nRug\nRyouga\nArcades' caretaker\nGaryū (statue)\nMiruto\nYappy\n\n===Pokémon===\n(Karuta's)\n(Rug's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB72",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: アルカデスになる者 The One Who Would Become Arcades) is the 72nd chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Fraud easily defeats Rug and Karuta.\nFraud reveals that Gerubu is not a part of his plans and proceeds to kill him.\nRyouga finally succeeds in the caretaker's trial.\nFraud arrives to the Ryouga's location right when Ryouga is about to touch the statue."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Fraud\nGerubu\nKaruta\nRug\nRyouga\nArcades' caretaker\nGaryū (statue)\nMiruto\nYappy"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Karuta's)\n(Rug's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB72"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB72",
+    "pageType": "chapter",
+    "searchableText": "RB72\nCategory:Pokémon RéBURST chapters\n(Japanese: アルカデスになる者 The One Who Would Become Arcades) is the 72nd chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 594,
+    "sectionCount": 4
+  }
+}

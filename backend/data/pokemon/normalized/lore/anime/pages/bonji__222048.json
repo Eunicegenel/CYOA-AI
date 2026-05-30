@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Bonji",
+    "slug": "bonji",
+    "pageId": 222048,
+    "revisionId": 4519233
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "bonji__222048.json",
+    "revisionTimestamp": "2026-03-29T23:06:04Z",
+    "fetchedAt": "2026-05-14T14:05:48.907Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Bonji (Japanese: ボンジイ Bonjī) is a character who appeared in I Choose You!. He is a who spent many years of his life chasing after the . He is known to have written a book titled Ho-Oh is My Life.",
+  "plainText": "Bonji (Japanese: ボンジイ Bonjī) is a character who appeared in I Choose You!. He is a who spent many years of his life chasing after the . He is known to have written a book titled Ho-Oh is My Life.\n\n==In the movies==\nDuring the movie, he helped , Verity, and Sorrel on their adventure towards Mount Tensei, where Ho-Oh lives.\n\n===Character===\n\n===Artwork===\n \n \n\n===Voice actors===\n \n\n==In the manga==\n \n===Movie adaptations===\nBonji appeared in . After Ash, Verity, and Sorrel arrived at the Raizen Mountains, Bonji appeared and told them about the wild Pokémon residing there. He was searching for for 20 years and saw that Ash had the Rainbow Wing. As such, he went with the group to where Ho-Oh was going to be.\n\nAfter was freed from the evil in the tainted Rainbow Wing and Ash was able to get a new one, Bonji advised Ash to place the Rainbow Wing on the rainbow rock. As a result, a rainbow formed and Ho-Oh appeared. After Ash battled Ho-Oh, Bonji bade Ash his farewells.\n \n==Trivia==\nBonji's getup is similar to the one wears in the Generation I , particularly the hat.\nBonji is referred to as Bonjii on the Pokémon official site for Asia.\n\n==Names==\n \n \n\n==Related articles==\n \n \n\nes:Bonji\nit:Bonji\nja:ボンジイ\nzh:梵爺",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bonji (Japanese: ボンジイ Bonjī) is a character who appeared in I Choose You!. He is a who spent many years of his life chasing after the . He is known to have written a book titled Ho-Oh is My Life."
+    },
+    {
+      "heading": "In the movies",
+      "level": 2,
+      "text": "During the movie, he helped , Verity, and Sorrel on their adventure towards Mount Tensei, where Ho-Oh lives."
+    },
+    {
+      "heading": "Movie adaptations",
+      "level": 3,
+      "text": "Bonji appeared in . After Ash, Verity, and Sorrel arrived at the Raizen Mountains, Bonji appeared and told them about the wild Pokémon residing there. He was searching for for 20 years and saw that Ash had the Rainbow Wing. As such, he went with the group to where Ho-Oh was going to be.\n\nAfter was freed from the evil in the tainted Rainbow Wing and Ash was able to get a new one, Bonji advised Ash to place the Rainbow Wing on the rainbow rock. As a result, a rainbow formed and Ho-Oh appeared. After Ash battled Ho-Oh, Bonji bade Ash his farewells."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Bonji's getup is similar to the one wears in the Generation I , particularly the hat.\nBonji is referred to as Bonjii on the Pokémon official site for Asia."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Bonji\nit:Bonji\nja:ボンジイ\nzh:梵爺"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bonji",
+    "pageType": "movie",
+    "searchableText": "Bonji\nCategory:Movie characters\nBonji (Japanese: ボンジイ Bonjī) is a character who appeared in I Choose You!. He is a who spent many years of his life chasing after the . He is known to have written a book titled Ho-Oh is My Life.",
+    "sectionHeadings": [
+      "Lead",
+      "In the movies",
+      "Movie adaptations",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1220,
+    "sectionCount": 5
+  }
+}

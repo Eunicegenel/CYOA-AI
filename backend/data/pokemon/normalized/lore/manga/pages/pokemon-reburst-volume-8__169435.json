@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon RéBURST volume 8",
+    "slug": "pokemon-reburst-volume-8",
+    "pageId": 169435,
+    "revisionId": 3406534
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST volumes",
+    "sourceFileName": "pokemon-reburst-volume-8__169435.json",
+    "revisionTimestamp": "2021-10-01T19:03:32Z",
+    "fetchedAt": "2026-05-14T15:37:31.798Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 8 is the eighth and final volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+  "plainText": "Volume 8 is the eighth and final volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 01 (68): A Warrior's Tears\nChapter 02 (69): Father and Arcades\nChapter 03 (70): Trial\nChapter 04 (71): Fraud's Past\nChapter 05 (72): The One who would Become Arcades\nChapter 06 (73): The Birth of the New Arcades\nChapter 07 (74): The Course of the World\nChapter 08 (75): The Eternal Tower\nChapter 09 (76): The Power of One and the Power of the World\nChapter 10 (77): Endless Adventure\n \n\n \n \n \n\nit:Pokémon RéBURST volume 8",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 8 is the eighth and final volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 01 (68): A Warrior's Tears\nChapter 02 (69): Father and Arcades\nChapter 03 (70): Trial\nChapter 04 (71): Fraud's Past\nChapter 05 (72): The One who would Become Arcades\nChapter 06 (73): The Birth of the New Arcades\nChapter 07 (74): The Course of the World\nChapter 08 (75): The Eternal Tower\nChapter 09 (76): The Power of One and the Power of the World\nChapter 10 (77): Endless Adventure\n \n\n \n \n \n\nit:Pokémon RéBURST volume 8"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon RéBURST volume 8",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon RéBURST volume 8\nCategory:Pokémon RéBURST volumes\nVolume 8 is the eighth and final volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 593,
+    "sectionCount": 2
+  }
+}

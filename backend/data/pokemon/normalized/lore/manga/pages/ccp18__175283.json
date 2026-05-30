@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CCP18",
+    "slug": "ccp18",
+    "pageId": 175283,
+    "revisionId": 4527367
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp18__175283.json",
+    "revisionTimestamp": "2026-04-09T15:34:42Z",
+    "fetchedAt": "2026-05-14T15:15:18.858Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ドジョッチ釣り大会ちゃも Fishing Rally (chamo)) is the 18th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: ドジョッチ釣り大会ちゃも Fishing Rally (chamo)) is the 18th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n(multiple; shiny)\n( )\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ドジョッチ釣り大会ちゃも Fishing Rally (chamo)) is the 18th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(multiple; shiny)\n( )\n( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP18",
+    "pageType": "chapter",
+    "searchableText": "CCP18\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: ドジョッチ釣り大会ちゃも Fishing Rally (chamo)) is the 18th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 256,
+    "sectionCount": 2
+  }
+}

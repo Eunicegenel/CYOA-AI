@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMXY11",
+    "slug": "pmxy11",
+    "pageId": 203029,
+    "revisionId": 4528562
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY chapters",
+    "sourceFileName": "pmxy11__203029.json",
+    "revisionTimestamp": "2026-04-09T16:26:50Z",
+    "fetchedAt": "2026-05-14T15:34:00.238Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 正しい懸賞の当たり方! How to Win the Sweepstakes!) is the eleventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 正しい懸賞の当たり方! How to Win the Sweepstakes!) is the eleventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 正しい懸賞の当たり方! How to Win the Sweepstakes!) is the eleventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMXY11",
+    "pageType": "chapter",
+    "searchableText": "PMXY11\nCategory:Pocket Monsters XY chapters\n(Japanese: 正しい懸賞の当たり方! How to Win the Sweepstakes!) is the eleventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 241,
+    "sectionCount": 2
+  }
+}

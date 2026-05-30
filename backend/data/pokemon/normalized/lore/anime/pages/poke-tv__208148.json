@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Poké TV",
+    "slug": "poke-tv",
+    "pageId": 208148,
+    "revisionId": 4380923
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series segments",
+    "sourceFileName": "poke-tv__208148.json",
+    "revisionTimestamp": "2025-09-16T21:38:34Z",
+    "fetchedAt": "2026-05-14T14:42:30.880Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Poké TV (Japanese: ポケTV POKéTV) is a segment that occurs after the ending of episodes belonging to the XY&Z saga of , featuring programs about . It was featured from XY094 to XY139, and was preceded by Professor Oak's Pokémon Holo Caster and was succeeded by Poké Problem.\n\nThe segment starts off by switching through channels until one is chosen for the episode. Each segment features a Pokémon from the selected program. Some episodes also feature extra scenes from the episode and clips from previous series.",
+  "plainText": "Poké TV (Japanese: ポケTV POKéTV) is a segment that occurs after the ending of episodes belonging to the XY&Z saga of , featuring programs about . It was featured from XY094 to XY139, and was preceded by Professor Oak's Pokémon Holo Caster and was succeeded by Poké Problem.\n\nThe segment starts off by switching through channels until one is chosen for the episode. Each segment features a Pokémon from the selected program. Some episodes also feature extra scenes from the episode and clips from previous series.\n\n==List of programs==\n \n \n\n==Related articles==\n \n \n\n \n\nit:Poké TV\nja:ポケTV\nzh:宝可TV",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Poké TV (Japanese: ポケTV POKéTV) is a segment that occurs after the ending of episodes belonging to the XY&Z saga of , featuring programs about . It was featured from XY094 to XY139, and was preceded by Professor Oak's Pokémon Holo Caster and was succeeded by Poké Problem.\n\nThe segment starts off by switching through channels until one is chosen for the episode. Each segment features a Pokémon from the selected program. Some episodes also feature extra scenes from the episode and clips from previous series."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Poké TV\nja:ポケTV\nzh:宝可TV"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Poké TV",
+    "pageType": "general-anime-lore",
+    "searchableText": "Poké TV\nCategory:Animated series segments\nPoké TV (Japanese: ポケTV POKéTV) is a segment that occurs after the ending of episodes belonging to the XY&Z saga of , featuring programs about . It was featured from XY094 to XY139, and was preceded by Professor Oak's Pokémon Holo Caster and was succeeded by Poké Problem.\n\nThe segment starts off by switching through channels until one is chosen for the episode. Each segment features a Pokémon from the selected program. Some episodes also feature extra scenes from the episode and clips from previous series.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 594,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Soul (PCC)",
+    "slug": "soul-pcc",
+    "pageId": 228534,
+    "revisionId": 4352597
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon HeartGold SoulSilver: Pokédex Completion Comic",
+    "sourceFileName": "soul-pcc__228534.json",
+    "revisionTimestamp": "2025-08-04T19:43:26Z",
+    "fetchedAt": "2026-05-14T15:49:50.824Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ソウル Soul) is the main character in Pokémon HeartGold SoulSilver: Pokédex Completion Comic.",
+  "plainText": "(Japanese: ソウル Soul) is the main character in Pokémon HeartGold SoulSilver: Pokédex Completion Comic.\n\n==Character==\nSoul is reckless and often does things without thinking. He is also a bit mischievous, having stolen the female Trainer's Apricorn Box and ran off with it.\n\n==History==\nSomewhere in the Johto region, Soul encountered a . He attempted to catch it, but failed as it dodged the thrown . A then questioned Soul as to what he was doing. She then taught Soul how to properly catch a Pokémon by battling it after he failed to catch another Sentret. Soul then decided to catch a using the Trainer's advice, but he accidentally defeated it. When Soul encountered a , Soul tried again and succeeded in weakening Growlithe, and then caught it.\n\nAfter catching Growlithe, Soul saw that there wasn't anymore wild Pokémon but the female Trainer told him other methods of finding some. In the process, Soul and the female Trainer encountered a wild . Soul had a hard time with Steelix since it was huge. The female Trainer gave Soul a Heavy Ball to use on Steelix. With using , Soul threw the Heavy Ball and caught Steelix. Afterwards, he and the Trainer went off to continue completing the rest of the Pokédex.\n\n==Pokémon==\n \n\n \n\n \n\n==Names==\n \n\n \n\n \n \n \n\nit:Soul (PCC)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ソウル Soul) is the main character in Pokémon HeartGold SoulSilver: Pokédex Completion Comic."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Soul is reckless and often does things without thinking. He is also a bit mischievous, having stolen the female Trainer's Apricorn Box and ran off with it."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Somewhere in the Johto region, Soul encountered a . He attempted to catch it, but failed as it dodged the thrown . A then questioned Soul as to what he was doing. She then taught Soul how to properly catch a Pokémon by battling it after he failed to catch another Sentret. Soul then decided to catch a using the Trainer's advice, but he accidentally defeated it. When Soul encountered a , Soul tried again and succeeded in weakening Growlithe, and then caught it.\n\nAfter catching Growlithe, Soul saw that there wasn't anymore wild Pokémon but the female Trainer told him other methods of finding some. In the process, Soul and the female Trainer encountered a wild . Soul had a hard time with Steelix since it was huge. The female Trainer gave Soul a Heavy Ball to use on Steelix. With using , Soul threw the Heavy Ball and caught Steelix. Afterwards, he and the Trainer went off to continue completing the rest of the Pokédex."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "it:Soul (PCC)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Soul (PCC)",
+    "pageType": "pokemon-related",
+    "searchableText": "Soul (PCC)\nCategory:Pokémon HeartGold SoulSilver: Pokédex Completion Comic\n(Japanese: ソウル Soul) is the main character in Pokémon HeartGold SoulSilver: Pokédex Completion Comic.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History",
+      "Names"
+    ],
+    "characterCount": 1272,
+    "sectionCount": 4
+  }
+}

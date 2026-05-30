@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Annie Silver",
+    "slug": "annie-silver",
+    "pageId": 21451,
+    "revisionId": 4527127
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:PUSA voice actors",
+    "sourceFileName": "annie-silver__21451.json",
+    "revisionTimestamp": "2026-04-09T15:21:08Z",
+    "fetchedAt": "2026-05-14T14:02:57.652Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Annie Silver is an American voice actress for the English-language dub of .",
+  "plainText": "Annie Silver is an American voice actress for the English-language dub of .\n\n==Pokémon roles==\nSilver joined when Pokémon USA took over the dubbing and distribution of it. She has not voiced after season 10.\n\n===Animation===\n==== ====\nLola (AG177)\nMeredith\n\nEdna\n\nClara\n\n \n \n \n\nit:Annie Silver",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Annie Silver is an American voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Silver joined when Pokémon USA took over the dubbing and distribution of it. She has not voiced after season 10."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Lola (AG177)\nMeredith\n\nEdna\n\nClara\n\n \n \n \n\nit:Annie Silver"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Annie Silver",
+    "pageType": "general-anime-lore",
+    "searchableText": "Annie Silver\nCategory:PUSA voice actors\nAnnie Silver is an American voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      ""
+    ],
+    "characterCount": 293,
+    "sectionCount": 3
+  }
+}

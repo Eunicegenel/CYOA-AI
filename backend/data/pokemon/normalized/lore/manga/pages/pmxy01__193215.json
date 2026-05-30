@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMXY01",
+    "slug": "pmxy01",
+    "pageId": 193215,
+    "revisionId": 4528136
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY chapters",
+    "sourceFileName": "pmxy01__193215.json",
+    "revisionTimestamp": "2026-04-09T16:08:25Z",
+    "fetchedAt": "2026-05-14T15:33:53.927Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 新たら仲間ポケモン登場！！ New Pokémon Friends Appear!!) is the first chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 新たら仲間ポケモン登場！！ New Pokémon Friends Appear!!) is the first chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nShauna\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nShauna\n\n===Pokémon===\n( )\n( )\n( )\n\n \n \n\nit:PMXY01",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 新たら仲間ポケモン登場！！ New Pokémon Friends Appear!!) is the first chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Shauna"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shauna"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n \n \n\nit:PMXY01"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMXY01",
+    "pageType": "chapter",
+    "searchableText": "PMXY01\nCategory:Pocket Monsters XY chapters\n(Japanese: 新たら仲間ポケモン登場！！ New Pokémon Friends Appear!!) is the first chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 291,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Litwick Cave",
+    "slug": "litwick-cave",
+    "pageId": 235982,
+    "revisionId": 4545674
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu locations",
+    "sourceFileName": "litwick-cave__235982.json",
+    "revisionTimestamp": "2026-05-06T11:30:39Z",
+    "fetchedAt": "2026-05-14T14:32:58.913Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "]]\nLitwick Cave (Japanese: ヒトモシ Cave) is a cave located in the North End disctrict of Ryme City in the game . It is a damp cave with underground water flowing through it , and is one of the city's famous spots, being popular with tourists as well as with couples. Most of Chapter 2 in Detective Pikachu takes place here.",
+  "plainText": "]]\nLitwick Cave (Japanese: ヒトモシ Cave) is a cave located in the North End disctrict of Ryme City in the game . It is a damp cave with underground water flowing through it , and is one of the city's famous spots, being popular with tourists as well as with couples. Most of Chapter 2 in Detective Pikachu takes place here.\n\n==Pokémon==\n \n\n==Trivia==\nImages of various caves including from in Iceland are used in Detective Pikachu Ryme City Guide for Litwick Cave, and may have served as inspiration for this location.\n\n==In other languages==\n \n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "]]\nLitwick Cave (Japanese: ヒトモシ Cave) is a cave located in the North End disctrict of Ryme City in the game . It is a damp cave with underground water flowing through it , and is one of the city's famous spots, being popular with tourists as well as with couples. Most of Chapter 2 in Detective Pikachu takes place here."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Images of various caves including from in Iceland are used in Detective Pikachu Ryme City Guide for Litwick Cave, and may have served as inspiration for this location."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Litwick Cave",
+    "pageType": "location",
+    "searchableText": "Litwick Cave\nCategory:Detective Pikachu locations\n]]\nLitwick Cave (Japanese: ヒトモシ Cave) is a cave located in the North End disctrict of Ryme City in the game . It is a damp cave with underground water flowing through it , and is one of the city's famous spots, being popular with tourists as well as with couples. Most of Chapter 2 in Detective Pikachu takes place here.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 557,
+    "sectionCount": 2
+  }
+}

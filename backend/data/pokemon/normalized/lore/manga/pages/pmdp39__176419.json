@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMDP39",
+    "slug": "pmdp39",
+    "pageId": 176419,
+    "revisionId": 4527957
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp39__176419.json",
+    "revisionTimestamp": "2026-04-09T16:01:43Z",
+    "fetchedAt": "2026-05-14T15:32:37.474Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: にげろ！ピッピの大逃走劇！！ Run! 's Great Escape Theatrics!!) is the thirty-ninth chapter of the manga.",
+  "plainText": "(Japanese: にげろ！ピッピの大逃走劇！！ Run! 's Great Escape Theatrics!!) is the thirty-ninth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nLooker\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nLooker\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: にげろ！ピッピの大逃走劇！！ Run! 's Great Escape Theatrics!!) is the thirty-ninth chapter of the manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Looker"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Looker"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP39",
+    "pageType": "chapter",
+    "searchableText": "PMDP39\nCategory:Pocket Monsters DP chapters\n(Japanese: にげろ！ピッピの大逃走劇！！ Run! 's Great Escape Theatrics!!) is the thirty-ninth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 259,
+    "sectionCount": 4
+  }
+}

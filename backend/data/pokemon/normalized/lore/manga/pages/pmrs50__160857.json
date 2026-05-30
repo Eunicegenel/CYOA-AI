@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMRS50",
+    "slug": "pmrs50",
+    "pageId": 160857,
+    "revisionId": 4264654
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs50__160857.json",
+    "revisionTimestamp": "2025-03-23T18:33:25Z",
+    "fetchedAt": "2026-05-14T15:33:43.670Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Showdown! Clefairy VS Mew!! (Japanese: 対決！ピッピVSミュウ！？ Showdown! VS !?) is the fiftieth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Showdown! Clefairy VS Mew!! (Japanese: 対決！ピッピVSミュウ！？ Showdown! VS !?) is the fiftieth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\nencounters a on Faraway Island.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Showdown! Clefairy VS Mew!! (Japanese: 対決！ピッピVSミュウ！？ Showdown! VS !?) is the fiftieth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "encounters a on Faraway Island."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS50",
+    "pageType": "chapter",
+    "searchableText": "PMRS50\nCategory:Pokémon Ruby-Sapphire chapters\nShowdown! Clefairy VS Mew!! (Japanese: 対決！ピッピVSミュウ！？ Showdown! VS !?) is the fiftieth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon"
+    ],
+    "characterCount": 284,
+    "sectionCount": 3
+  }
+}

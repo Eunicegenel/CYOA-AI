@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Oswald",
+    "slug": "oswald",
+    "pageId": 21198,
+    "revisionId": 4246407
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kanto characters of the day",
+    "sourceFileName": "oswald__21198.json",
+    "revisionTimestamp": "2025-02-23T16:52:17Z",
+    "fetchedAt": "2026-05-14T14:40:34.467Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Oswald (Japanese: ヒラタ Hirata) is a character of the day who appeared in Clefairy Tales, as well as in The Electric Tale of Pikachu.",
+  "plainText": "Oswald (Japanese: ヒラタ Hirata) is a character of the day who appeared in Clefairy Tales, as well as in The Electric Tale of Pikachu.\n\n==In animation==\nOswald is a space enthusiast residing in a small town in Kanto, though his technology, which he purchased via comic books, failed to work. When the townspeople were puzzled by several stealing all of their items, Oswald proposed the Clefairy were actually aliens who were using the belongings to help build their spaceship. However, nobody believed his theory except for and .\n\nAlong with , Oswald and the others searched for the Fairy Pokémon and discovered they were indeed making a spaceship with the stolen items. Just as the ship was about to take off, Ash and his friends fled. However, Oswald stayed with the Clefairy, wanting to learn more about them as aliens.\n\nThough the Clefairy and their UFO reappeared in Wish Upon a Star Shape, Oswald was not physically seen and only reappeared in a flashback.\n\n===Voice actors===\n \n\n==In the manga==\n===The Electric Tale of Pikachu===\n \nOswald appeared in Clefairy in Space. In VIZ Media's English translation, he has the name Professor Orville. His role in the manga is nearly the same as in the animated series, as he is a scientist who believes that the Pokémon Clefairy come from outer space.\n\n==Related articles==\n \n \n \n \n \n \n\nde:Oswald\nes:Oswald\nit:Oswald\nzh:平田",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Oswald (Japanese: ヒラタ Hirata) is a character of the day who appeared in Clefairy Tales, as well as in The Electric Tale of Pikachu."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "Oswald is a space enthusiast residing in a small town in Kanto, though his technology, which he purchased via comic books, failed to work. When the townspeople were puzzled by several stealing all of their items, Oswald proposed the Clefairy were actually aliens who were using the belongings to help build their spaceship. However, nobody believed his theory except for and .\n\nAlong with , Oswald and the others searched for the Fairy Pokémon and discovered they were indeed making a spaceship with the stolen items. Just as the ship was about to take off, Ash and his friends fled. However, Oswald stayed with the Clefairy, wanting to learn more about them as aliens.\n\nThough the Clefairy and their UFO reappeared in Wish Upon a Star Shape, Oswald was not physically seen and only reappeared in a flashback."
+    },
+    {
+      "heading": "The Electric Tale of Pikachu",
+      "level": 3,
+      "text": "Oswald appeared in Clefairy in Space. In VIZ Media's English translation, he has the name Professor Orville. His role in the manga is nearly the same as in the animated series, as he is a scientist who believes that the Pokémon Clefairy come from outer space."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Oswald\nes:Oswald\nit:Oswald\nzh:平田"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Oswald",
+    "pageType": "character",
+    "searchableText": "Oswald\nCategory:Kanto characters of the day\nOswald (Japanese: ヒラタ Hirata) is a character of the day who appeared in Clefairy Tales, as well as in The Electric Tale of Pikachu.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "The Electric Tale of Pikachu",
+      "Related articles"
+    ],
+    "characterCount": 1367,
+    "sectionCount": 4
+  }
+}

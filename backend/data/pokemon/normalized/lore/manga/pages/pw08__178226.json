@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PW08",
+    "slug": "pw08",
+    "pageId": 178226,
+    "revisionId": 4528612
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw08__178226.json",
+    "revisionTimestamp": "2026-04-09T16:30:14Z",
+    "fetchedAt": "2026-05-14T15:46:32.834Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: エリカとカエデと……わるいクサイハナ Erika and Kaede... and ) is the eighth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+  "plainText": "(Japanese: エリカとカエデと……わるいクサイハナ Erika and Kaede... and ) is the eighth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .\n\n==Plot==\n \n==Major events==\n\n==Characters==\n===Humans===\nErika\nKaede\n\n===Pokémon===\n(Kaede's, shown in a flashback)\n(Kaede's)\n( 's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: エリカとカエデと……わるいクサイハナ Erika and Kaede... and ) is the eighth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Erika\nKaede"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Kaede's, shown in a flashback)\n(Kaede's)\n( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW08",
+    "pageType": "chapter",
+    "searchableText": "PW08\nCategory:How I Became a Pokémon Card chapters\n(Japanese: エリカとカエデと……わるいクサイハナ Erika and Kaede... and ) is the eighth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 324,
+    "sectionCount": 3
+  }
+}

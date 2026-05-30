@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon Pocket Monsters volume 11",
+    "slug": "pokemon-pocket-monsters-volume-11",
+    "pageId": 160504,
+    "revisionId": 4354761
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters volumes",
+    "sourceFileName": "pokemon-pocket-monsters-volume-11__160504.json",
+    "revisionTimestamp": "2025-08-08T19:04:36Z",
+    "fetchedAt": "2026-05-14T15:36:52.831Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 11 is the eleventh volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 11 is the eleventh volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\n\nClefairy is a Mama!\nShowdown at the Radio Tower!!\nDon't Accuse Me!!\nPokémon Snowball Fight\nFierce Battle Between Clefairy and Clefable\nTogepi's Determination\nOperation: Capture Vileplume\nSudowoodo's Toll Charges\nFind the Legendary Pokémon!!\nTyrogue the Artist!!\n\n==Important events==\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\n\n===Evolutions===\n\n==Gym Battles==\nRed defeats the following Gym Leaders:\n\n==Character summary==\n\n===Red's Party===\n \n \n\n \n\nit:Pokémon Pocket Monsters volume 11\nzh:宝可梦欢乐祭11",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 11 is the eleventh volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Clefairy is a Mama!\nShowdown at the Radio Tower!!\nDon't Accuse Me!!\nPokémon Snowball Fight\nFierce Battle Between Clefairy and Clefable\nTogepi's Determination\nOperation: Capture Vileplume\nSudowoodo's Toll Charges\nFind the Legendary Pokémon!!\nTyrogue the Artist!!"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:"
+    },
+    {
+      "heading": "Gym Battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:"
+    },
+    {
+      "heading": "Red's Party",
+      "level": 3,
+      "text": "it:Pokémon Pocket Monsters volume 11\nzh:宝可梦欢乐祭11"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pocket Monsters volume 11",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pocket Monsters volume 11\nCategory:Pokémon Pocket Monsters volumes\nVolume 11 is the eleventh volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions",
+      "Gym Battles",
+      "Red's Party"
+    ],
+    "characterCount": 677,
+    "sectionCount": 5
+  }
+}

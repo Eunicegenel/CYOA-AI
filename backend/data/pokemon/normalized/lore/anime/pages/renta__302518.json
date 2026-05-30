@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Renta",
+    "slug": "renta",
+    "pageId": 302518,
+    "revisionId": 4297872
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "renta__302518.json",
+    "revisionTimestamp": "2025-05-10T22:21:01Z",
+    "fetchedAt": "2026-05-14T14:46:07.609Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Renta (Japanese: レンタ Renta) is a character of the day who appeared in Mission: Find Oinkologne's Partner!.",
+  "plainText": "Renta (Japanese: レンタ Renta) is a character of the day who appeared in Mission: Find Oinkologne's Partner!.\n\n==History==\nRenta lived in Pigton Town and was a childhood friend and a rival of Yuno. When the girl's , nicknamed Twirly, fell in love with his male specimen, Prince, Yuno tried to ask Renta to team up with them for the upcoming Pigton Town Multi Battle Tournament, but he and his Pokémon laughed at her, saying that the female was no match for him. Yuno and Twirly decided, with the help of Liko and Roy, to bathe Twirly and teach her some etiquette, so that the Pokémon could awaken Prince's feelings. After being snubbed again, Twirly managed to hit Prince with the help of Dot's Quaxly and peace returned between their s. However, before leaving, Renta asked Liko and Roy to train together for the competition and, in perfect harmony, the Renta-Yuno duo managed to stand up to the two members of the Rising Volt Tacklers.\n\nDuring the competition, Renta and Yuno managed to beat all the challengers and thus reach the final, defeating a huge and thus being the winners of the Pigton Town Multi Battle Tournament.\n\n==Pokémon==\n \n\n==Achievements==\n \nRenta has competed in the following :\nPigton Town Multi Battle Tournament - Winner (with Yuno)\n \n==Artwork==\n \n\n==Voice actors==\n \n \n\n==References==\n \n \n \n\n \n \n \n\nes:Renato\nfr:Renta\nit:Enrico (OP036)\nzh:蓮太",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Renta (Japanese: レンタ Renta) is a character of the day who appeared in Mission: Find Oinkologne's Partner!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Renta lived in Pigton Town and was a childhood friend and a rival of Yuno. When the girl's , nicknamed Twirly, fell in love with his male specimen, Prince, Yuno tried to ask Renta to team up with them for the upcoming Pigton Town Multi Battle Tournament, but he and his Pokémon laughed at her, saying that the female was no match for him. Yuno and Twirly decided, with the help of Liko and Roy, to bathe Twirly and teach her some etiquette, so that the Pokémon could awaken Prince's feelings. After being snubbed again, Twirly managed to hit Prince with the help of Dot's Quaxly and peace returned between their s. However, before leaving, Renta asked Liko and Roy to train together for the competition and, in perfect harmony, the Renta-Yuno duo managed to stand up to the two members of the Rising Volt Tacklers.\n\nDuring the competition, Renta and Yuno managed to beat all the challengers and thus reach the final, defeating a huge and thus being the winners of the Pigton Town Multi Battle Tournament."
+    },
+    {
+      "heading": "Achievements",
+      "level": 2,
+      "text": "Renta has competed in the following :\nPigton Town Multi Battle Tournament - Winner (with Yuno)"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "es:Renato\nfr:Renta\nit:Enrico (OP036)\nzh:蓮太"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Renta",
+    "pageType": "character",
+    "searchableText": "Renta\nCategory:Horizons characters of the day\nRenta (Japanese: レンタ Renta) is a character of the day who appeared in Mission: Find Oinkologne's Partner!.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Achievements",
+      "References"
+    ],
+    "characterCount": 1365,
+    "sectionCount": 4
+  }
+}

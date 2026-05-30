@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASS26",
+    "slug": "pass26",
+    "pageId": 273349,
+    "revisionId": 4528015
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass26__273349.json",
+    "revisionTimestamp": "2026-04-09T16:03:19Z",
+    "fetchedAt": "2026-05-14T15:28:55.807Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Cracked!! The Rusted Sword and Shield (Japanese: バキバキ！！くちた剣と盾 Crack!! The Rusted Sword and Shield) is the 26th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Cracked!! The Rusted Sword and Shield (Japanese: バキバキ！！くちた剣と盾 Crack!! The Rusted Sword and Shield) is the 26th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nLeon and the Gym Leaders fight against the rampaging Dynamax Pokémon.\nSordward and Shielbert prepare to control .\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n(Gigantamax; )\n(Gigantamax)\n(Gigantamax)\n\n==Characters==\n===Humans===\nHenry\nCasey\nProfessor Magnolia\nHop\nBede\nMarnie\nSonia \nMilo\nNessa\nKabu\nBea\nAllister\nOpal\nGordie\nMelony\nPiers\nRaihan \nLeon \nRose \nSordward\nShielbert\nMarvin\nDemura\nTrainers\nAnnouncer\n\n===Pokémon===\n(Rotom Phone; Kabu's)\n(Allister's)\n(Gigantamax; Raihan's)\n(Raihan's)\n(Rotom Phone; Raihan's)\n(Gigantamax; )\n(Dynamax)\n(Dynamax)\n(Dynamax)\n(Dynamax)\n(Gigantamax)\n\n==Trivia==\n \n \n \n\nde:Das rostige Schwert und der rostige Schild\nes:PMSSwSh26\nfr:Chapitre 26 (Pocket Monsters Special Épée et Bouclier)\nit:PASS26\nzh:宝可梦特别篇 剑·盾篇 第26话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Cracked!! The Rusted Sword and Shield (Japanese: バキバキ！！くちた剣と盾 Crack!! The Rusted Sword and Shield) is the 26th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Leon and the Gym Leaders fight against the rampaging Dynamax Pokémon.\nSordward and Shielbert prepare to control ."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Gigantamax; )\n(Gigantamax)\n(Gigantamax)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nProfessor Magnolia\nHop\nBede\nMarnie\nSonia \nMilo\nNessa\nKabu\nBea\nAllister\nOpal\nGordie\nMelony\nPiers\nRaihan \nLeon \nRose \nSordward\nShielbert\nMarvin\nDemura\nTrainers\nAnnouncer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Rotom Phone; Kabu's)\n(Allister's)\n(Gigantamax; Raihan's)\n(Raihan's)\n(Rotom Phone; Raihan's)\n(Gigantamax; )\n(Dynamax)\n(Dynamax)\n(Dynamax)\n(Dynamax)\n(Gigantamax)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Das rostige Schwert und der rostige Schild\nes:PMSSwSh26\nfr:Chapitre 26 (Pocket Monsters Special Épée et Bouclier)\nit:PASS26\nzh:宝可梦特别篇 剑·盾篇 第26话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS26",
+    "pageType": "chapter",
+    "searchableText": "PASS26\nCategory:Pokémon Adventures chapters\nCracked!! The Rusted Sword and Shield (Japanese: バキバキ！！くちた剣と盾 Crack!! The Rusted Sword and Shield) is the 26th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 954,
+    "sectionCount": 6
+  }
+}

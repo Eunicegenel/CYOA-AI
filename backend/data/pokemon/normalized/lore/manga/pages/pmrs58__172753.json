@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS58",
+    "slug": "pmrs58",
+    "pageId": 172753,
+    "revisionId": 4264662
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs58__172753.json",
+    "revisionTimestamp": "2025-03-23T18:34:37Z",
+    "fetchedAt": "2026-05-14T15:33:48.907Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy In The Match Of The Century! (Japanese: ピッピ、世紀の一戦に臨む！！ in the Battle of the Century!!) is the fifty-eighth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Clefairy In The Match Of The Century! (Japanese: ピッピ、世紀の一戦に臨む！！ in the Battle of the Century!!) is the fifty-eighth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy In The Match Of The Century! (Japanese: ピッピ、世紀の一戦に臨む！！ in the Battle of the Century!!) is the fifty-eighth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS58",
+    "pageType": "chapter",
+    "searchableText": "PMRS58\nCategory:Pokémon Ruby-Sapphire chapters\nClefairy In The Match Of The Century! (Japanese: ピッピ、世紀の一戦に臨む！！ in the Battle of the Century!!) is the fifty-eighth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 283,
+    "sectionCount": 2
+  }
+}

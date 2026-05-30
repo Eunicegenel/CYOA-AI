@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "David Wills",
+    "slug": "david-wills",
+    "pageId": 202222,
+    "revisionId": 4323435
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "david-wills__202222.json",
+    "revisionTimestamp": "2025-06-24T03:30:12Z",
+    "fetchedAt": "2026-05-14T14:11:19.856Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "David Wills is an American voice actor for the English-language dub of . He is sometimes credited as Dave Wills.",
+  "plainText": "David Wills is an American voice actor for the English-language dub of . He is sometimes credited as Dave Wills.\n\n==Biography==\nWills first began to provide voices for during the sixth season. As with most other voice actors who worked with 4Kids Entertainment, he left when and TAJ Productions took over the dubbing and distribution of the series. Years later, he provided the voice of Dolan in To Catch a Pokémon Smuggler!, making him the first former 4Kids voice actor to return to the in .\n\nHe is also a radio talk show host by the name of \"Ghosty\" on WFDU.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Major=====\nNoland\nCaptain Stern\n\nDolan\n\nMerrick\nKeaton\nEd\nHunter D\n\n=====Minor=====\nGuard B (XY111)\nPharmacist (XY115)\n\n==Other non-Pokémon roles==\n( )\nEspio the Chameleon ( , (2005-2009))\nDuke of Soleanna ( )\nNezbitt, Roland ( )\nTyranno Hassleberry, Chancellor Sheppard, Lucien Grimley ( )\nTank, Mr. Armstrong, Dragan ( )\nRoscoe, Don Thousand ( )\nStainless Steel Steve ( )\nCoco ( )\nSasuke, Devil, Mr. Shiranui ( )\nFergy Fudgehog ( )\n\n==External links==\nThe Vintage Rock & Pop Shop\n \n \n \n\nit:David Wills",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "David Wills is an American voice actor for the English-language dub of . He is sometimes credited as Dave Wills."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Wills first began to provide voices for during the sixth season. As with most other voice actors who worked with 4Kids Entertainment, he left when and TAJ Productions took over the dubbing and distribution of the series. Years later, he provided the voice of Dolan in To Catch a Pokémon Smuggler!, making him the first former 4Kids voice actor to return to the in .\n\nHe is also a radio talk show host by the name of \"Ghosty\" on WFDU."
+    },
+    {
+      "heading": "Major",
+      "level": 5,
+      "text": "Noland\nCaptain Stern\n\nDolan\n\nMerrick\nKeaton\nEd\nHunter D"
+    },
+    {
+      "heading": "Minor",
+      "level": 5,
+      "text": "Guard B (XY111)\nPharmacist (XY115)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "( )\nEspio the Chameleon ( , (2005-2009))\nDuke of Soleanna ( )\nNezbitt, Roland ( )\nTyranno Hassleberry, Chancellor Sheppard, Lucien Grimley ( )\nTank, Mr. Armstrong, Dragan ( )\nRoscoe, Don Thousand ( )\nStainless Steel Steve ( )\nCoco ( )\nSasuke, Devil, Mr. Shiranui ( )\nFergy Fudgehog ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "The Vintage Rock & Pop Shop\n \n \n \n\nit:David Wills"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "David Wills",
+    "pageType": "general-anime-lore",
+    "searchableText": "David Wills\nCategory:TPCi voice actors\nDavid Wills is an American voice actor for the English-language dub of . He is sometimes credited as Dave Wills.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1115,
+    "sectionCount": 6
+  }
+}

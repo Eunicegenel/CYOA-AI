@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PT13",
+    "slug": "pt13",
+    "pageId": 321750,
+    "revisionId": 4455627
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Undubbed episodes",
+    "sourceFileName": "pt13__321750.json",
+    "revisionTimestamp": "2025-12-27T17:14:22Z",
+    "fetchedAt": "2026-05-14T14:45:13.428Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "(Japanese: コアルヒーだいすき！ I Love !) is the fifth episode of the second season of POKÉTOON and thirteenth overall. It was first released in Japan on the official Pokémon YouTube channel on October 16, 2024.",
+  "plainText": "(Japanese: コアルヒーだいすき！ I Love !) is the fifth episode of the second season of POKÉTOON and thirteenth overall. It was first released in Japan on the official Pokémon YouTube channel on October 16, 2024.\n\n==Blurb==\n\n==Plot==\nA young man recreates a photo from his childhood with his , who has been together with him since they were babies. The two's first photo was of them in a laundry basket, with the kid chewing on the tufts on Ducklett's forehead. They reminisce on other parts of their childhood, such as them playing in the same crib, dancing in a store, having a joint birthday party, and discovering their love of skateboarding. They have been skateboarding together since then and reminisce about more memories: playing with a substitute doll, the kid using potato chips to mimic Ducklett's beak, and Ducklett waiting for the kid as he gets home from the school bus. They practice skateboarding together, and in the present, the Ducklett sits on top of the young man's head. Due to a tuft of hair, Ducklett sneezes, which causes it to use a water move that completely wets the guy. They both look at each other and laugh.\n\n==Major events==\n\n==Characters==\n===Humans===\nYoung Man\n\n===Pokémon===\n(Young Man's)\n\n==Cast==\n \n \n \n\n===Staff===\n \n\n==Video==\n \n\n \n==In other languages==\n \n\n \n \n \n\n \n\nde:Koaruhie Daisuki\nes:TOON13\nja:コアルヒーだいすき!\nzh:最喜欢鸭宝宝了",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: コアルヒーだいすき！ I Love !) is the fifth episode of the second season of POKÉTOON and thirteenth overall. It was first released in Japan on the official Pokémon YouTube channel on October 16, 2024."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "A young man recreates a photo from his childhood with his , who has been together with him since they were babies. The two's first photo was of them in a laundry basket, with the kid chewing on the tufts on Ducklett's forehead. They reminisce on other parts of their childhood, such as them playing in the same crib, dancing in a store, having a joint birthday party, and discovering their love of skateboarding. They have been skateboarding together since then and reminisce about more memories: playing with a substitute doll, the kid using potato chips to mimic Ducklett's beak, and Ducklett waiting for the kid as he gets home from the school bus. They practice skateboarding together, and in the present, the Ducklett sits on top of the young man's head. Due to a tuft of hair, Ducklett sneezes, which causes it to use a water move that completely wets the guy. They both look at each other and laugh."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Young Man"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Young Man's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Koaruhie Daisuki\nes:TOON13\nja:コアルヒーだいすき!\nzh:最喜欢鸭宝宝了"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PT13",
+    "pageType": "episode",
+    "searchableText": "PT13\nCategory:Undubbed episodes\n(Japanese: コアルヒーだいすき！ I Love !) is the fifth episode of the second season of POKÉTOON and thirteenth overall. It was first released in Japan on the official Pokémon YouTube channel on October 16, 2024.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1353,
+    "sectionCount": 5
+  }
+}

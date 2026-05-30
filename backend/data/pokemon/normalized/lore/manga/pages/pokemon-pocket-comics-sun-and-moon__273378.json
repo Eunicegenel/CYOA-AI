@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Pocket Comics: Sun & Moon",
+    "slug": "pokemon-pocket-comics-sun-and-moon",
+    "pageId": 273378,
+    "revisionId": 4130961
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-pocket-comics-sun-and-moon__273378.json",
+    "revisionTimestamp": "2024-09-29T03:56:31Z",
+    "fetchedAt": "2026-05-14T15:36:49.456Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Pocket Comics: Sun & Moon (Japanese: ポケモン　レッツゴー！　だじゃれクラブ Pokémon: Let's Go! Pun Club) is a Pokémon 4Koma created by 春風邪三太 Santa Harukaze. It was serialized in the Pokémon Fan magazine as (Japanese: ポケモン超だじゃれクラブ Pokémon Super Pun Club). It is 192 pages long.",
+  "plainText": "Pokémon Pocket Comics: Sun & Moon (Japanese: ポケモン　レッツゴー！　だじゃれクラブ Pokémon: Let's Go! Pun Club) is a Pokémon 4Koma created by 春風邪三太 Santa Harukaze. It was serialized in the Pokémon Fan magazine as (Japanese: ポケモン超だじゃれクラブ Pokémon Super Pun Club). It is 192 pages long.\n\n==Publications==\n \n \n \n\n==Related articles==\nPokémon Pocket Comics: Black & White\nPokémon Pocket Comics: Legendary Pokémon\nPokémon Pocket Comics: XY\nPokémon Pocket Comics: Classic\n\n==External links==\nShogakukan's website\nVIZ Media's website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Pocket Comics: Sun & Moon (Japanese: ポケモン　レッツゴー！　だじゃれクラブ Pokémon: Let's Go! Pun Club) is a Pokémon 4Koma created by 春風邪三太 Santa Harukaze. It was serialized in the Pokémon Fan magazine as (Japanese: ポケモン超だじゃれクラブ Pokémon Super Pun Club). It is 192 pages long."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Pokémon Pocket Comics: Black & White\nPokémon Pocket Comics: Legendary Pokémon\nPokémon Pocket Comics: XY\nPokémon Pocket Comics: Classic"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Shogakukan's website\nVIZ Media's website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pocket Comics: Sun & Moon",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pocket Comics: Sun & Moon\nCategory:Pokémon 4Koma\nPokémon Pocket Comics: Sun & Moon (Japanese: ポケモン　レッツゴー！　だじゃれクラブ Pokémon: Let's Go! Pun Club) is a Pokémon 4Koma created by 春風邪三太 Santa Harukaze. It was serialized in the Pokémon Fan magazine as (Japanese: ポケモン超だじゃれクラブ Pokémon Super Pun Club). It is 192 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles",
+      "External links"
+    ],
+    "characterCount": 507,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "How I Became a Pokémon Card volume 1",
+    "slug": "how-i-became-a-pokemon-card-volume-1",
+    "pageId": 78534,
+    "revisionId": 4527312
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card volumes",
+    "sourceFileName": "how-i-became-a-pokemon-card-volume-1__78534.json",
+    "revisionTimestamp": "2026-04-09T15:32:35Z",
+    "fetchedAt": "2026-05-14T15:21:49.985Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first of six volumes in the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The promo card included with this volume is .",
+  "plainText": "Volume 1 is the first of six volumes in the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The promo card included with this volume is .\n\n==Publications==\n \n \n\n==Chapters==\nThe Day Dratini Grew Up\nTeam Rocket and Dark Charmeleon\nThe Newborn Grimer\nAkane-Colored Eevee\nThe Wind, Tsubasa, and Pidgeot\nJigglypuff and the Clock Tower\nMankey and Mankey and Primeape\n \n \n \n\nit:Pokémon Card Ni Natta Wake volume 1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first of six volumes in the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The promo card included with this volume is ."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The Day Dratini Grew Up\nTeam Rocket and Dark Charmeleon\nThe Newborn Grimer\nAkane-Colored Eevee\nThe Wind, Tsubasa, and Pidgeot\nJigglypuff and the Clock Tower\nMankey and Mankey and Primeape\n \n \n \n\nit:Pokémon Card Ni Natta Wake volume 1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "How I Became a Pokémon Card volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "How I Became a Pokémon Card volume 1\nCategory:How I Became a Pokémon Card volumes\nVolume 1 is the first of six volumes in the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The promo card included with this volume is .",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 428,
+    "sectionCount": 2
+  }
+}

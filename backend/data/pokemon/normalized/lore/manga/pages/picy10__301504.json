@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PICY10",
+    "slug": "picy10",
+    "pageId": 301504,
+    "revisionId": 4528380
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! chapters",
+    "sourceFileName": "picy10__301504.json",
+    "revisionTimestamp": "2026-04-09T16:18:49Z",
+    "fetchedAt": "2026-05-14T15:30:10.267Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Chapter 10 (Japanese: 第１０話 Chapter 10) is the 10th chapter of Pokémon the Movie: I Choose You!",
+  "plainText": "Chapter 10 (Japanese: 第１０話 Chapter 10) is the 10th chapter of Pokémon the Movie: I Choose You!\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Humans====\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nVerity\nSorrel\nJessie\nJames\n\n===Pokémon===\n( 's)\n( 's; released)\n( )\n(Verity's)\n(Sorrel's)\n(multiple)\n\n( 's; flashback)\n( 's; flashback)\n\n==Differences between the movie and the manga==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chapter 10 (Japanese: 第１０話 Chapter 10) is the 10th chapter of Pokémon the Movie: I Choose You!"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Verity\nSorrel\nJessie\nJames"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( 's; released)\n( )\n(Verity's)\n(Sorrel's)\n(multiple)\n\n( 's; flashback)\n( 's; flashback)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PICY10",
+    "pageType": "chapter",
+    "searchableText": "PICY10\nCategory:Pokémon the Movie: I Choose You! chapters\nChapter 10 (Japanese: 第１０話 Chapter 10) is the 10th chapter of Pokémon the Movie: I Choose You!",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 392,
+    "sectionCount": 3
+  }
+}

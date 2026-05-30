@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PS535",
+    "slug": "ps535",
+    "pageId": 220275,
+    "revisionId": 4210489
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps535__220275.json",
+    "revisionTimestamp": "2024-12-26T02:05:25Z",
+    "fetchedAt": "2026-05-14T15:45:35.339Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Angry Boy (Japanese: VSオーベム VS ), titled VS Beheeyem in the Shogakukan Asia translation, is the 535th chapter of the Pokémon Adventures manga, and the 11th chapter of the .\n\nIt is subtitled Beheeyem (Japanese: アングリー・ボーイ Angry Boy) in the VIZ Media translation and Angry Boy in the Shogakukan Asia translation.",
+  "plainText": "Angry Boy (Japanese: VSオーベム VS ), titled VS Beheeyem in the Shogakukan Asia translation, is the 535th chapter of the Pokémon Adventures manga, and the 11th chapter of the .\n\nIt is subtitled Beheeyem (Japanese: アングリー・ボーイ Angry Boy) in the VIZ Media translation and Angry Boy in the Shogakukan Asia translation.\n\n==Plot==\n \n\n==Major events==\nHugh finds that his sister managed to sneak onto Pop Roxie's boat.\nLeo befriends Hugh's sister and promises to help Hugh keep her out of sight from everyone else.\nAfter arriving at Castelia City, Roxie discovers an injured man that was attacked by a group of villains who \"liberated\" his .\n, , Hugh, and Roxie travel to the Castelia Sewers, where they find the culprits were Team Plasma, including Bronius and Ryoku.\nHugh attacks the s, but is swarmed by their Pokémon, forcing the group to scatter.\ncontacts Hugh via his , but Hugh mistakenly believes that Croagunk is the one who is talking.\nAt the Cold Storage, Colress confronts Zinzolin about information about .\n\n \n \n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nRoxie\nColress\nBronius\nRyoku\nZinzolin\nHugh\nLeo\n\nHugh's sister\nPop Roxie\ns\nStudents\n\n===Pokémon===\n( )\n(Foongy; 's)\n( )\n(Roxie's)\n(Colress's)\n(Leo's)\n(Hugh's)\n( s'; multiple)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(mecha; flashback)\n\n==Trivia==\n==In other languages==\n \n \n \n \n\nde:VS. Megalon (Schwarz 2 und Weiß 2 Arc)\nes:PMS535\nfr:Chapitre 535 (Pocket Monsters Special)\nit:LGA535\nja:ポケットモンスターSPECIAL 第535話\nzh:宝可梦特别篇 第535话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Angry Boy (Japanese: VSオーベム VS ), titled VS Beheeyem in the Shogakukan Asia translation, is the 535th chapter of the Pokémon Adventures manga, and the 11th chapter of the .\n\nIt is subtitled Beheeyem (Japanese: アングリー・ボーイ Angry Boy) in the VIZ Media translation and Angry Boy in the Shogakukan Asia translation."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hugh finds that his sister managed to sneak onto Pop Roxie's boat.\nLeo befriends Hugh's sister and promises to help Hugh keep her out of sight from everyone else.\nAfter arriving at Castelia City, Roxie discovers an injured man that was attacked by a group of villains who \"liberated\" his .\n, , Hugh, and Roxie travel to the Castelia Sewers, where they find the culprits were Team Plasma, including Bronius and Ryoku.\nHugh attacks the s, but is swarmed by their Pokémon, forcing the group to scatter.\ncontacts Hugh via his , but Hugh mistakenly believes that Croagunk is the one who is talking.\nAt the Cold Storage, Colress confronts Zinzolin about information about ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Roxie\nColress\nBronius\nRyoku\nZinzolin\nHugh\nLeo\n\nHugh's sister\nPop Roxie\ns\nStudents"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Foongy; 's)\n( )\n(Roxie's)\n(Colress's)\n(Leo's)\n(Hugh's)\n( s'; multiple)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(mecha; flashback)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Megalon (Schwarz 2 und Weiß 2 Arc)\nes:PMS535\nfr:Chapitre 535 (Pocket Monsters Special)\nit:LGA535\nja:ポケットモンスターSPECIAL 第535話\nzh:宝可梦特别篇 第535话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS535",
+    "pageType": "chapter",
+    "searchableText": "PS535\nCategory:Pokémon Adventures chapters\nAngry Boy (Japanese: VSオーベム VS ), titled VS Beheeyem in the Shogakukan Asia translation, is the 535th chapter of the Pokémon Adventures manga, and the 11th chapter of the .\n\nIt is subtitled Beheeyem (Japanese: アングリー・ボーイ Angry Boy) in the VIZ Media translation and Angry Boy in the Shogakukan Asia translation.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1534,
+    "sectionCount": 5
+  }
+}

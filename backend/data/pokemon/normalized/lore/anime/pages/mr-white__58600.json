@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Mr. White",
+    "slug": "mr-white",
+    "pageId": 58600,
+    "revisionId": 4514950
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "mr-white__58600.json",
+    "revisionTimestamp": "2026-03-23T01:48:38Z",
+    "fetchedAt": "2026-05-14T14:38:27.240Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Mr. White (Japanese: ホワイト White) is a supporting character who appeared in Celebi: The Voice of the Forest. He is a resident of Arborville in Johto.",
+  "plainText": "Mr. White (Japanese: ホワイト White) is a supporting character who appeared in Celebi: The Voice of the Forest. He is a resident of Arborville in Johto.\n\n==History==\n and first met White when Ash was about to miss the and had already boarded. White was the one to catch Ash right before he hit the water, pulling him aboard to safety with Brock's help. When he found out their interest in Pokémon, he suggested taking them to his hometown, Arborville, a treetop town much like one location in Hoenn. His personal watercraft is also a flying boat, the foils becoming inflated and capable of lifting the boat, and at least seven average-weight passengers into the air. With this vehicle, he took them to Arborville.\n\nHe was seen again later when and Towa asked him to take them to the area of the forest wracked with explosions. By the time they found Ash, his friends, and Sammy, the Iron-Masked Marauder was already beginning his rampage on the forest, with under his control. In consequence of following them, White's boat was destroyed in the confrontation with the wooden monster created by Celebi.\n\nWhite was a witness to the remaining events of the movie. He later appeared during the credits, flying Ash and his friends back to another town in a seemingly new boat.\n\n==Character==\nMr. White is a well-regarded person in his community. He readily offers his assistance to those in need and will happily escort people in his personal flying boat. He is also not above the use of violence, as he was shown to be threatening the unmasked Iron-Masked Marauder by cracking his knuckles.\n\n==Voice actors==\n \n\n==Names==\n \n\n==Related articles==\n \n \n\n \n\nde:Mr. White\nes:Señor White\nit:Mr. White\nja:ホワイト (映画)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mr. White (Japanese: ホワイト White) is a supporting character who appeared in Celebi: The Voice of the Forest. He is a resident of Arborville in Johto."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "and first met White when Ash was about to miss the and had already boarded. White was the one to catch Ash right before he hit the water, pulling him aboard to safety with Brock's help. When he found out their interest in Pokémon, he suggested taking them to his hometown, Arborville, a treetop town much like one location in Hoenn. His personal watercraft is also a flying boat, the foils becoming inflated and capable of lifting the boat, and at least seven average-weight passengers into the air. With this vehicle, he took them to Arborville.\n\nHe was seen again later when and Towa asked him to take them to the area of the forest wracked with explosions. By the time they found Ash, his friends, and Sammy, the Iron-Masked Marauder was already beginning his rampage on the forest, with under his control. In consequence of following them, White's boat was destroyed in the confrontation with the wooden monster created by Celebi.\n\nWhite was a witness to the remaining events of the movie. He later appeared during the credits, flying Ash and his friends back to another town in a seemingly new boat."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Mr. White is a well-regarded person in his community. He readily offers his assistance to those in need and will happily escort people in his personal flying boat. He is also not above the use of violence, as he was shown to be threatening the unmasked Iron-Masked Marauder by cracking his knuckles."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Mr. White\nes:Señor White\nit:Mr. White\nja:ホワイト (映画)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mr. White",
+    "pageType": "movie",
+    "searchableText": "Mr. White\nCategory:Movie characters\nMr. White (Japanese: ホワイト White) is a supporting character who appeared in Celebi: The Voice of the Forest. He is a resident of Arborville in Johto.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Related articles"
+    ],
+    "characterCount": 1699,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Fine Park",
+    "slug": "fine-park",
+    "pageId": 235985,
+    "revisionId": 4545670
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu locations",
+    "sourceFileName": "fine-park__235985.json",
+    "revisionTimestamp": "2026-05-06T11:28:26Z",
+    "fetchedAt": "2026-05-14T14:19:00.819Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "]]\nFine Park (Japanese: ファインパーク Fine Park) is an abandoned amusement park in the game . It is located west of central Ryme in the Fork Hand district . It was closed down a year ago after an incident involving a ; however, a few Pokémon still remain there. It lies opposite (Japanese: ショータイムアベニュー Showtime Avenue) which had previously been lined with many popular theaters and cafés. Most of Chapter 5 takes place here.",
+  "plainText": "]]\nFine Park (Japanese: ファインパーク Fine Park) is an abandoned amusement park in the game . It is located west of central Ryme in the Fork Hand district . It was closed down a year ago after an incident involving a ; however, a few Pokémon still remain there. It lies opposite (Japanese: ショータイムアベニュー Showtime Avenue) which had previously been lined with many popular theaters and cafés. Most of Chapter 5 takes place here.\n\n==Pokémon==\n \n\n===Formerly===\n \n\n==In other languages==\n \n\n==References==\n \n\n \n \n\nzh:法茵乐园",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "]]\nFine Park (Japanese: ファインパーク Fine Park) is an abandoned amusement park in the game . It is located west of central Ryme in the Fork Hand district . It was closed down a year ago after an incident involving a ; however, a few Pokémon still remain there. It lies opposite (Japanese: ショータイムアベニュー Showtime Avenue) which had previously been lined with many popular theaters and cafés. Most of Chapter 5 takes place here."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "zh:法茵乐园"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Fine Park",
+    "pageType": "location",
+    "searchableText": "Fine Park\nCategory:Detective Pikachu locations\n]]\nFine Park (Japanese: ファインパーク Fine Park) is an abandoned amusement park in the game . It is located west of central Ryme in the Fork Hand district . It was closed down a year ago after an incident involving a ; however, a few Pokémon still remain there. It lies opposite (Japanese: ショータイムアベニュー Showtime Avenue) which had previously been lined with many popular theaters and cafés. Most of Chapter 5 takes place here.",
+    "sectionHeadings": [
+      "Lead",
+      "References"
+    ],
+    "characterCount": 509,
+    "sectionCount": 2
+  }
+}

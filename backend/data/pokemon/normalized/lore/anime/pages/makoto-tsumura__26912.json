@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Makoto Tsumura",
+    "slug": "makoto-tsumura",
+    "pageId": 26912,
+    "revisionId": 4323338
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "makoto-tsumura__26912.json",
+    "revisionTimestamp": "2025-06-24T03:28:26Z",
+    "fetchedAt": "2026-05-14T14:34:29.505Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Makoto Tsumura (Japanese: 津村まこと Tsumura Makoto) is a Japanese voice actress for . She was born on July 22, 1965 in , .",
+  "plainText": "Makoto Tsumura (Japanese: 津村まこと Tsumura Makoto) is a Japanese voice actress for . She was born on July 22, 1965 in , .\n\n==Pokémon roles==\nTsumura began to provide voices for Pokémon in . Her most important role in is that of Johanna in .\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nJohanna\nSalvadore (HS01, DPS02)\n\n======Minor======\nKim\nKrystal\n\nForrest Franklin\nForrester Franklin\nBryan\nChester\n\n=====Pokémon=====\n\n==Other non-Pokémon roles==\nAtom ( )\nTakato Matsuda ( )\nShoukichi Hitotsubashi ( )\nKakeru Sakamaki ( )\nKimihiro Tsutsui ( )\nShogo Ushiyama ( )\nRatchet ( )\n\n===Dubbing roles===\nMac ( )\n\n==External links==\nAksent profile\n \n \n\nit:Makoto Tsumura\nja:津村まこと",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Makoto Tsumura (Japanese: 津村まこと Tsumura Makoto) is a Japanese voice actress for . She was born on July 22, 1965 in , ."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Tsumura began to provide voices for Pokémon in . Her most important role in is that of Johanna in ."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Johanna\nSalvadore (HS01, DPS02)"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Kim\nKrystal\n\nForrest Franklin\nForrester Franklin\nBryan\nChester"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Atom ( )\nTakato Matsuda ( )\nShoukichi Hitotsubashi ( )\nKakeru Sakamaki ( )\nKimihiro Tsutsui ( )\nShogo Ushiyama ( )\nRatchet ( )"
+    },
+    {
+      "heading": "Dubbing roles",
+      "level": 3,
+      "text": "Mac ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Aksent profile\n \n \n\nit:Makoto Tsumura\nja:津村まこと"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Makoto Tsumura",
+    "pageType": "general-anime-lore",
+    "searchableText": "Makoto Tsumura\nCategory:Japanese voice actors\nMakoto Tsumura (Japanese: 津村まこと Tsumura Makoto) is a Japanese voice actress for . She was born on July 22, 1965 in , .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "Dubbing roles",
+      "External links"
+    ],
+    "characterCount": 683,
+    "sectionCount": 7
+  }
+}

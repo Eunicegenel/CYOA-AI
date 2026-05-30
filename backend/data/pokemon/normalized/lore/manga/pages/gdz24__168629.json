@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ24",
+    "slug": "gdz24",
+    "pageId": 168629,
+    "revisionId": 4528151
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz24__168629.json",
+    "revisionTimestamp": "2026-04-09T16:08:44Z",
+    "fetchedAt": "2026-05-14T15:19:36.591Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 氷の王者・フリーザー Ruler of Ice, ) is the twenty-fourth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 氷の王者・フリーザー Ruler of Ice, ) is the twenty-fourth chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 氷の王者・フリーザー Ruler of Ice, ) is the twenty-fourth chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ24",
+    "pageType": "chapter",
+    "searchableText": "GDZ24\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 氷の王者・フリーザー Ruler of Ice, ) is the twenty-fourth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 269,
+    "sectionCount": 3
+  }
+}

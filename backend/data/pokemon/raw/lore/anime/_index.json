@@ -1,0 +1,68 @@
+[
+  {
+    "canon": "anime",
+    "requestedTitle": "Pokémon the Series",
+    "resolvedTitle": "Pokémon the Series",
+    "fileName": "pokemon-the-series.json",
+    "pageId": 281803,
+    "revisionId": 4534101,
+    "revisionTimestamp": "2026-04-18T06:27:32Z",
+    "fetchedAt": "2026-05-14T13:44:44.993Z",
+    "status": "downloaded"
+  },
+  {
+    "canon": "anime",
+    "requestedTitle": "Pokémon Horizons: The Series",
+    "resolvedTitle": "Pokémon Horizons: The Series",
+    "fileName": "pokemon-horizons-the-series.json",
+    "pageId": 279117,
+    "revisionId": 4549834,
+    "revisionTimestamp": "2026-05-11T13:12:28Z",
+    "fetchedAt": "2026-05-14T13:44:45.665Z",
+    "status": "downloaded"
+  },
+  {
+    "canon": "anime",
+    "requestedTitle": "Ash Ketchum",
+    "resolvedTitle": "Ash Ketchum",
+    "fileName": "ash-ketchum.json",
+    "pageId": 60644,
+    "revisionId": 4539085,
+    "revisionTimestamp": "2026-04-27T23:18:23Z",
+    "fetchedAt": "2026-05-14T13:44:46.345Z",
+    "status": "downloaded"
+  },
+  {
+    "canon": "anime",
+    "requestedTitle": "Ash's Pikachu",
+    "resolvedTitle": "Ash's Pikachu",
+    "fileName": "ashs-pikachu.json",
+    "pageId": 827,
+    "revisionId": 4543885,
+    "revisionTimestamp": "2026-05-03T18:58:04Z",
+    "fetchedAt": "2026-05-14T13:44:47.070Z",
+    "status": "downloaded"
+  },
+  {
+    "canon": "anime",
+    "requestedTitle": "Gary Oak",
+    "resolvedTitle": "Gary Oak",
+    "fileName": "gary-oak.json",
+    "pageId": 61618,
+    "revisionId": 4539651,
+    "revisionTimestamp": "2026-04-28T14:05:15Z",
+    "fetchedAt": "2026-05-14T13:44:47.735Z",
+    "status": "downloaded"
+  },
+  {
+    "canon": "anime",
+    "requestedTitle": "Team Rocket trio",
+    "resolvedTitle": "Team Rocket trio",
+    "fileName": "team-rocket-trio.json",
+    "pageId": 130680,
+    "revisionId": 4545978,
+    "revisionTimestamp": "2026-05-06T22:21:39Z",
+    "fetchedAt": "2026-05-14T13:44:48.412Z",
+    "status": "downloaded"
+  }
+]

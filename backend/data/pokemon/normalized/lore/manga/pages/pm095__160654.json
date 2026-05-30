@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PM095",
+    "slug": "pm095",
+    "pageId": 160654,
+    "revisionId": 4527678
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm095__160654.json",
+    "revisionTimestamp": "2026-04-09T15:47:09Z",
+    "fetchedAt": "2026-05-14T15:31:29.406Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy, the Pop Star?! (Japanese: 大スター·ピッピ！？ Big Star, !?) is the ninety-fifth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Clefairy, the Pop Star?! (Japanese: 大スター·ピッピ！？ Big Star, !?) is the ninety-fifth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy, the Pop Star?! (Japanese: 大スター·ピッピ！？ Big Star, !?) is the ninety-fifth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM095",
+    "pageType": "chapter",
+    "searchableText": "PM095\nCategory:Pokémon Pocket Monsters chapters\nClefairy, the Pop Star?! (Japanese: 大スター·ピッピ！？ Big Star, !?) is the ninety-fifth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 263,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP48",
+    "slug": "pmdp48",
+    "pageId": 176428,
+    "revisionId": 4527781
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp48__176428.json",
+    "revisionTimestamp": "2026-04-09T15:53:18Z",
+    "fetchedAt": "2026-05-14T15:32:43.108Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 激突！？ピッピVSギラテイナ Clash!? VS Giratina) is the forty-eighth chapter of the manga.",
+  "plainText": "(Japanese: 激突！？ピッピVSギラテイナ Clash!? VS Giratina) is the forty-eighth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 激突！？ピッピVSギラテイナ Clash!? VS Giratina) is the forty-eighth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP48",
+    "pageType": "chapter",
+    "searchableText": "PMDP48\nCategory:Pocket Monsters DP chapters\n(Japanese: 激突！？ピッピVSギラテイナ Clash!? VS Giratina) is the forty-eighth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 212,
+    "sectionCount": 2
+  }
+}

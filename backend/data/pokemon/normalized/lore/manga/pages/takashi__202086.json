@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Takashi",
+    "slug": "takashi",
+    "pageId": 202086,
+    "revisionId": 4531598
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon characters",
+    "sourceFileName": "takashi__202086.json",
+    "revisionTimestamp": "2026-04-14T00:29:43Z",
+    "fetchedAt": "2026-05-14T15:51:05.303Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n \n\nTakashi (Japanese: タカシ Takashi) is the main character of Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon. He is based on the .",
+  "plainText": "----\n \n\nTakashi (Japanese: タカシ Takashi) is the main character of Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon. He is based on the .\n\n==Character==\nTakashi is upbeat and determined, though also reckless. He is a bit airheaded at times. He has a strong bond with his Pokémon.\n\n==History==\nTakashi is the protagonist of Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon, with other characters playing only minor roles. \n\nHe competes in the Pokéathlon and loses all the games he competes in, causing him to mope. He is reassured by and given Aprijuice to use in the next competition. When the next day comes, it is revealed that instead of giving the Aprijuice to his , he had drank it, showing his impulsiveness. He ended up winning the match however, and is excited for the rest of the competition to come.\n\n==Pokémon==\n===Currently owned===\n \n\n \n\n \n\n==Names==\n \n\n \n \n \n \n\nit:Takashi\nzh:贵志",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \n\nTakashi (Japanese: タカシ Takashi) is the main character of Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon. He is based on the ."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Takashi is upbeat and determined, though also reckless. He is a bit airheaded at times. He has a strong bond with his Pokémon."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Takashi is the protagonist of Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon, with other characters playing only minor roles. \n\nHe competes in the Pokéathlon and loses all the games he competes in, causing him to mope. He is reassured by and given Aprijuice to use in the next competition. When the next day comes, it is revealed that instead of giving the Aprijuice to his , he had drank it, showing his impulsiveness. He ended up winning the match however, and is excited for the rest of the competition to come."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "it:Takashi\nzh:贵志"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Takashi",
+    "pageType": "character",
+    "searchableText": "Takashi\nCategory:Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon characters\n----\n \n\nTakashi (Japanese: タカシ Takashi) is the main character of Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon. He is based on the .",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History",
+      "Names"
+    ],
+    "characterCount": 908,
+    "sectionCount": 4
+  }
+}

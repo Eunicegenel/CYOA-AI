@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PICY05",
+    "slug": "picy05",
+    "pageId": 301499,
+    "revisionId": 4528621
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! chapters",
+    "sourceFileName": "picy05__301499.json",
+    "revisionTimestamp": "2026-04-09T16:31:03Z",
+    "fetchedAt": "2026-05-14T15:30:07.270Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Chapter 5 (Japanese: 第５話 Chapter 5) is the fifth chapter of Pokémon the Movie: I Choose You!",
+  "plainText": "Chapter 5 (Japanese: 第５話 Chapter 5) is the fifth chapter of Pokémon the Movie: I Choose You!\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Humans====\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nVerity\nSorrel\n\n===Pokémon===\n( 's)\n( 's; new)\n(Verity's)\n(Sorrel's)\n( )\n\n( ; fantasy)\n(fantasy)\n(fantasy)\n\n==Differences between the movie and the manga==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chapter 5 (Japanese: 第５話 Chapter 5) is the fifth chapter of Pokémon the Movie: I Choose You!"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Verity\nSorrel"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( 's; new)\n(Verity's)\n(Sorrel's)\n( )\n\n( ; fantasy)\n(fantasy)\n(fantasy)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PICY05",
+    "pageType": "chapter",
+    "searchableText": "PICY05\nCategory:Pokémon the Movie: I Choose You! chapters\nChapter 5 (Japanese: 第５話 Chapter 5) is the fifth chapter of Pokémon the Movie: I Choose You!",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 360,
+    "sectionCount": 3
+  }
+}

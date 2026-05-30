@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMXY10",
+    "slug": "pmxy10",
+    "pageId": 203028,
+    "revisionId": 4527840
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY chapters",
+    "sourceFileName": "pmxy10__203028.json",
+    "revisionTimestamp": "2026-04-09T15:55:50Z",
+    "fetchedAt": "2026-05-14T15:33:59.619Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: クサ~イピッピは大めいわく!! Stinky Clefairy is a Total Nuisance!!) is the 10th chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: クサ~イピッピは大めいわく!! Stinky Clefairy is a Total Nuisance!!) is the 10th chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nDedenne's Trainer\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nDedenne's Trainer\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: クサ~イピッピは大めいわく!! Stinky Clefairy is a Total Nuisance!!) is the 10th chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Dedenne's Trainer"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Dedenne's Trainer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMXY10",
+    "pageType": "chapter",
+    "searchableText": "PMXY10\nCategory:Pocket Monsters XY chapters\n(Japanese: クサ~イピッピは大めいわく!! Stinky Clefairy is a Total Nuisance!!) is the 10th chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 307,
+    "sectionCount": 4
+  }
+}

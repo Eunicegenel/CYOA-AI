@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PICY12",
+    "slug": "picy12",
+    "pageId": 301507,
+    "revisionId": 4527141
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! chapters",
+    "sourceFileName": "picy12__301507.json",
+    "revisionTimestamp": "2026-04-09T15:21:27Z",
+    "fetchedAt": "2026-05-14T14:41:36.190Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Chapter 12 (Japanese: 第１２話 Chapter 12) is the 12th chapter of Pokémon the Movie: I Choose You!",
+  "plainText": "Chapter 12 (Japanese: 第１２話 Chapter 12) is the 12th chapter of Pokémon the Movie: I Choose You!\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Humans====\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nVerity\nSorrel\nCross\nBonji\n\n===Pokémon===\n( 's)\n( 's; evolves)\n( 's; newly evolved)\n(Verity's)\n(Sorrel's)\n(Cross's)\n(Cross's; )\n( )\n\n==Differences between the movie and the manga==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chapter 12 (Japanese: 第１２話 Chapter 12) is the 12th chapter of Pokémon the Movie: I Choose You!"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Verity\nSorrel\nCross\nBonji"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( 's; evolves)\n( 's; newly evolved)\n(Verity's)\n(Sorrel's)\n(Cross's)\n(Cross's; )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PICY12",
+    "pageType": "movie",
+    "searchableText": "PICY12\nCategory:Pokémon the Movie: I Choose You! chapters\nChapter 12 (Japanese: 第１２話 Chapter 12) is the 12th chapter of Pokémon the Movie: I Choose You!",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 387,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PS538",
+    "slug": "ps538",
+    "pageId": 221985,
+    "revisionId": 4134730
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps538__221985.json",
+    "revisionTimestamp": "2024-09-30T12:01:04Z",
+    "fetchedAt": "2026-05-14T15:45:37.188Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Therian Forme III (Japanese: VSボルトロスれいじゅうフォルム VS ), titled VS Thundurus Therian Forme in the Shogakukan Asia translation, is the 538th chapter of the Pokémon Adventures manga, and the 14th chapter of the .\n\nIt is subtitled Thundurus: Therian Forme (Japanese: テリアン・フォーム Therian Forme) in the VIZ Media translation and Therian Forme in the Shogakukan Asia translation.",
+  "plainText": "Therian Forme III (Japanese: VSボルトロスれいじゅうフォルム VS ), titled VS Thundurus Therian Forme in the Shogakukan Asia translation, is the 538th chapter of the Pokémon Adventures manga, and the 14th chapter of the .\n\nIt is subtitled Thundurus: Therian Forme (Japanese: テリアン・フォーム Therian Forme) in the VIZ Media translation and Therian Forme in the Shogakukan Asia translation.\n\n==Plot==\n \n\n==Major events==\nHugh meets up with his class and reveals that one of the female students is a member of Team Plasma.\nHugh decides to leave the school to confront Team Plasma, but stops him.\nFinding her behavior suspicious, the class begins to piece together Whitley's true identity, but Foongy puts them to sleep with the exception of Hugh.\nHugh realizes that Whitley is a member of Team Plasma.\ncontinues battling Colress.\nBlake attempts to arrest Zinzolin, but he is taken away by Colress.\nGhetsis reveals himself and the Plasma Frigate.\nBlake attempts to stop Ghetsis, but is attacked by the Shadow Triad.\nColress takes control of and puts it in the Plasma Frigate.\nThe Plasma Frigate is activated and takes to the skies.\n \n \n\n===Debuts===\n\n====Pokémon debuts====\n==Characters==\n===Humans===\n\n(photo)\nRoxie\nGhetsis\nColress\nZinzolin\nHugh\n\nShadow Triad\ns \nStudents\n\n===Pokémon===\n( )\n(Kelden; 's)\n(Kabutott; 's)\n(Glisott; 's)\n(Foongy; 's)\n(Colress's)\n(Colress's)\n( )\n( ; Therian Forme)\n( ; Therian Forme)\n( ; Therian Forme)\n( ; flashback)\n( ; flashback)\n( ; flashback)\n\n==Trivia==\n \n \n \n\nde:VS. Voltolos (Tiergeistform)\nes:PMS538\nfr:Chapitre 538 (Pocket Monsters Special)\nit:LGA538\nzh:宝可梦特别篇 第538话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Therian Forme III (Japanese: VSボルトロスれいじゅうフォルム VS ), titled VS Thundurus Therian Forme in the Shogakukan Asia translation, is the 538th chapter of the Pokémon Adventures manga, and the 14th chapter of the .\n\nIt is subtitled Thundurus: Therian Forme (Japanese: テリアン・フォーム Therian Forme) in the VIZ Media translation and Therian Forme in the Shogakukan Asia translation."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hugh meets up with his class and reveals that one of the female students is a member of Team Plasma.\nHugh decides to leave the school to confront Team Plasma, but stops him.\nFinding her behavior suspicious, the class begins to piece together Whitley's true identity, but Foongy puts them to sleep with the exception of Hugh.\nHugh realizes that Whitley is a member of Team Plasma.\ncontinues battling Colress.\nBlake attempts to arrest Zinzolin, but he is taken away by Colress.\nGhetsis reveals himself and the Plasma Frigate.\nBlake attempts to stop Ghetsis, but is attacked by the Shadow Triad.\nColress takes control of and puts it in the Plasma Frigate.\nThe Plasma Frigate is activated and takes to the skies."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(photo)\nRoxie\nGhetsis\nColress\nZinzolin\nHugh\n\nShadow Triad\ns \nStudents"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Kelden; 's)\n(Kabutott; 's)\n(Glisott; 's)\n(Foongy; 's)\n(Colress's)\n(Colress's)\n( )\n( ; Therian Forme)\n( ; Therian Forme)\n( ; Therian Forme)\n( ; flashback)\n( ; flashback)\n( ; flashback)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:VS. Voltolos (Tiergeistform)\nes:PMS538\nfr:Chapitre 538 (Pocket Monsters Special)\nit:LGA538\nzh:宝可梦特别篇 第538话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS538",
+    "pageType": "chapter",
+    "searchableText": "PS538\nCategory:Pokémon Adventures chapters\nTherian Forme III (Japanese: VSボルトロスれいじゅうフォルム VS ), titled VS Thundurus Therian Forme in the Shogakukan Asia translation, is the 538th chapter of the Pokémon Adventures manga, and the 14th chapter of the .\n\nIt is subtitled Thundurus: Therian Forme (Japanese: テリアン・フォーム Therian Forme) in the VIZ Media translation and Therian Forme in the Shogakukan Asia translation.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1579,
+    "sectionCount": 5
+  }
+}

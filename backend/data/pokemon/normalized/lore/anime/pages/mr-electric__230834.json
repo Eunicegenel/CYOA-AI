@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Mr. Electric",
+    "slug": "mr-electric",
+    "pageId": 230834,
+    "revisionId": 4289246
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:League Conference participants",
+    "sourceFileName": "mr-electric__230834.json",
+    "revisionTimestamp": "2025-04-28T19:50:32Z",
+    "fetchedAt": "2026-05-14T14:38:16.393Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Mr. Electric (Japanese: ミスターエレク Mr. Elec) is a minor recurring character in Pokémon the Series: Sun & Moon. He is a member of the Revengers.",
+  "plainText": "Mr. Electric (Japanese: ミスターエレク Mr. Elec) is a minor recurring character in Pokémon the Series: Sun & Moon. He is a member of the Revengers.\n\n==History==\nMr. Electric debuted in A Young Royal Flame Ignites!, where he battled the and his with his . During the battle, Mr. Electric grabbed a hold of Incineroar's leg to prevent it from moving whilst Electivire prepared to attack. Despite Mr. Electric's interference, Incineroar was able to attack Electivire, only for Mad Magmar and his to interfere, resulting in them being disqualified. The next day, Mr. Electric teamed up with Mad Magmar in a Battle Royal tag battle. They went up against Masked Royal and and battled Incineroar and , only to be defeated.\n\nMr. Electric reappeared in Battle Royal 151!, where he was among the 151 Trainers taking part in the Battle Royal preliminary round of the Manalo Conference. He teamed up with Mad Magmar and battled and his with Electivire, only to be defeated.\n\n==Character==\nMr. Electric is a menacing man who likes to follow the Revengers' playbook, resorting to relentless attacks and cheating in order to win at the Battle Royal Dome.\n\n==Pokémon==\n \n \n\n==Achievements==\n===Pokémon League===\nMr. Electric has competed in the following Pokémon League Conferences:\nManalo Conference - Top 151 (Battle Royal 151!)\n\n==Voice actors==\n \n\n==Names==\n \n\n==Related articles==\n \n \n\n \n \n\nde:Mr. Elek\nes:Señor Eléctrico/Míster Eléctrico\nfr:M. Électrique\nit:Eléc\nzh:电击先生",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mr. Electric (Japanese: ミスターエレク Mr. Elec) is a minor recurring character in Pokémon the Series: Sun & Moon. He is a member of the Revengers."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Mr. Electric debuted in A Young Royal Flame Ignites!, where he battled the and his with his . During the battle, Mr. Electric grabbed a hold of Incineroar's leg to prevent it from moving whilst Electivire prepared to attack. Despite Mr. Electric's interference, Incineroar was able to attack Electivire, only for Mad Magmar and his to interfere, resulting in them being disqualified. The next day, Mr. Electric teamed up with Mad Magmar in a Battle Royal tag battle. They went up against Masked Royal and and battled Incineroar and , only to be defeated.\n\nMr. Electric reappeared in Battle Royal 151!, where he was among the 151 Trainers taking part in the Battle Royal preliminary round of the Manalo Conference. He teamed up with Mad Magmar and battled and his with Electivire, only to be defeated."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Mr. Electric is a menacing man who likes to follow the Revengers' playbook, resorting to relentless attacks and cheating in order to win at the Battle Royal Dome."
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Mr. Electric has competed in the following Pokémon League Conferences:\nManalo Conference - Top 151 (Battle Royal 151!)"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Mr. Elek\nes:Señor Eléctrico/Míster Eléctrico\nfr:M. Électrique\nit:Eléc\nzh:电击先生"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mr. Electric",
+    "pageType": "general-anime-lore",
+    "searchableText": "Mr. Electric\nCategory:League Conference participants\nMr. Electric (Japanese: ミスターエレク Mr. Elec) is a minor recurring character in Pokémon the Series: Sun & Moon. He is a member of the Revengers.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Pokémon League",
+      "Related articles"
+    ],
+    "characterCount": 1453,
+    "sectionCount": 5
+  }
+}

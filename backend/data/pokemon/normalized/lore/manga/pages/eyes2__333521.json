@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "EYES2",
+    "slug": "eyes2",
+    "pageId": 333521,
+    "revisionId": 4528105
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:I Can't Choose, Eevee chapters",
+    "sourceFileName": "eyes2__333521.json",
+    "revisionTimestamp": "2026-04-09T16:07:08Z",
+    "fetchedAt": "2026-05-14T15:18:42.064Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the second special chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on January 21, 2025 at 8:01 PM JST. It is 8 pages long.\n\nThis is one of three possible endings to the manga. It would've been the final chapter if the fourth chapter had garnered more reposts than the second and third chapters.",
+  "plainText": "This is the second special chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on January 21, 2025 at 8:01 PM JST. It is 8 pages long.\n\nThis is one of three possible endings to the manga. It would've been the final chapter if the fourth chapter had garnered more reposts than the second and third chapters.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n(Kantonian form; Galarian form; rocking horses)\n\n(photo)\n(photo)\n(photo)\n(photo)\n(photo)\n(photo)\n(photo)\n(photo)\n(photo)\n(Riku's family's)\n\n==Characters==\n===Humans===\n\nRiku's sister\nBoys\nGirl\nWoman (photo)\nBaby (photo)\n\n===Pokémon===\n(Riku's)\n(Naka's; Don-chan)\n(Riku's family's)\n(Kantonian form; Galarian form; rocking horses)\n(photo)\n\n(×2; photo)\n(×6; photo)\n(×3; photo)\n(photo)\n(photo)\n(photo)\n(photo)\n\n(photo)\n(multiple; photo)\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the second special chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on January 21, 2025 at 8:01 PM JST. It is 8 pages long.\n\nThis is one of three possible endings to the manga. It would've been the final chapter if the fourth chapter had garnered more reposts than the second and third chapters."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Kantonian form; Galarian form; rocking horses)\n\n(photo)\n(photo)\n(photo)\n(photo)\n(photo)\n(photo)\n(photo)\n(photo)\n(photo)\n(Riku's family's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Riku's sister\nBoys\nGirl\nWoman (photo)\nBaby (photo)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Riku's)\n(Naka's; Don-chan)\n(Riku's family's)\n(Kantonian form; Galarian form; rocking horses)\n(photo)\n\n(×2; photo)\n(×6; photo)\n(×3; photo)\n(photo)\n(photo)\n(photo)\n(photo)\n\n(photo)\n(multiple; photo)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "EYES2",
+    "pageType": "chapter",
+    "searchableText": "EYES2\nCategory:I Can't Choose, Eevee chapters\nThis is the second special chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on January 21, 2025 at 8:01 PM JST. It is 8 pages long.\n\nThis is one of three possible endings to the manga. It would've been the final chapter if the fourth chapter had garnered more reposts than the second and third chapters.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 866,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Is It Summer?",
+    "slug": "is-it-summer",
+    "pageId": 35439,
+    "revisionId": 4275549
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese movie ending themes",
+    "sourceFileName": "is-it-summer__35439.json",
+    "revisionTimestamp": "2025-04-03T13:03:22Z",
+    "fetchedAt": "2026-05-14T14:25:09.876Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "----\nIs It Summer? (Japanese: 夏でSUKA? Natsu deSUKA?) is a song whose vocals are performed by Grin, with instrumentals by the band Asakusa Jinta for use in the Japanese version of Dialga vs. Palkia vs. Darkrai. It is the last song used in the movie during the annual Illustration Contest presentation. The movie version is featured in the movie, and on the soundtrack. There is also a full version that has appeared on various websites and was included as a track on the Together 2007 single. It was recorded in summer 2007.",
+  "plainText": "----\nIs It Summer? (Japanese: 夏でSUKA? Natsu deSUKA?) is a song whose vocals are performed by Grin, with instrumentals by the band Asakusa Jinta for use in the Japanese version of Dialga vs. Palkia vs. Darkrai. It is the last song used in the movie during the annual Illustration Contest presentation. The movie version is featured in the movie, and on the soundtrack. There is also a full version that has appeared on various websites and was included as a track on the Together 2007 single. It was recorded in summer 2007. \n\n==Lyrics==\n \n\n==References==\n \n\n \n \n \n\nja:夏でSUKA?\nzh:是夏天吗？",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\nIs It Summer? (Japanese: 夏でSUKA? Natsu deSUKA?) is a song whose vocals are performed by Grin, with instrumentals by the band Asakusa Jinta for use in the Japanese version of Dialga vs. Palkia vs. Darkrai. It is the last song used in the movie during the annual Illustration Contest presentation. The movie version is featured in the movie, and on the soundtrack. There is also a full version that has appeared on various websites and was included as a track on the Together 2007 single. It was recorded in summer 2007."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "ja:夏でSUKA?\nzh:是夏天吗？"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Is It Summer?",
+    "pageType": "movie",
+    "searchableText": "Is It Summer?\nCategory:Japanese movie ending themes\n----\nIs It Summer? (Japanese: 夏でSUKA? Natsu deSUKA?) is a song whose vocals are performed by Grin, with instrumentals by the band Asakusa Jinta for use in the Japanese version of Dialga vs. Palkia vs. Darkrai. It is the last song used in the movie during the annual Illustration Contest presentation. The movie version is featured in the movie, and on the soundtrack. There is also a full version that has appeared on various websites and was included as a track on the Together 2007 single. It was recorded in summer 2007.",
+    "sectionHeadings": [
+      "Lead",
+      "References"
+    ],
+    "characterCount": 584,
+    "sectionCount": 2
+  }
+}

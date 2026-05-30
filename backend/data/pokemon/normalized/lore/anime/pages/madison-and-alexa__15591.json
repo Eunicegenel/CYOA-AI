@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Madison and Alexa",
+    "slug": "madison-and-alexa",
+    "pageId": 15591,
+    "revisionId": 4538264
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "madison-and-alexa__15591.json",
+    "revisionTimestamp": "2026-04-26T16:56:36Z",
+    "fetchedAt": "2026-05-14T14:34:11.740Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Madison (Japanese: エル Elle) and Alexa (Japanese: リサ Lisa) are characters of the day who appeared in the episode The Kecleon Caper. \n\nThey are a pair of rich young sisters who are traveling the world in the massive \"Leviathan Two\", a luxury blimp. They dress in fur coats and each have a . helped their Kecleon recover from motion sickness.",
+  "plainText": "Madison (Japanese: エル Elle) and Alexa (Japanese: リサ Lisa) are characters of the day who appeared in the episode The Kecleon Caper. \n\nThey are a pair of rich young sisters who are traveling the world in the massive \"Leviathan Two\", a luxury blimp. They dress in fur coats and each have a . helped their Kecleon recover from motion sickness.\n\n==Pokémon==\n \n\n==Voice actors==\n \n \n\n==Trivia==\nReddy's Japanese name comes from the , which are used to make yōkan, referring to its red color. Greeny's Japanese name is merely the Japanese word for green.\nTheir Kecleon marked the first appearance of a Pokémon from Generation III. \n\n \n \n \n \n\nes:Madison y Alexa\nit:Madison e Alexa",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Madison (Japanese: エル Elle) and Alexa (Japanese: リサ Lisa) are characters of the day who appeared in the episode The Kecleon Caper. \n\nThey are a pair of rich young sisters who are traveling the world in the massive \"Leviathan Two\", a luxury blimp. They dress in fur coats and each have a . helped their Kecleon recover from motion sickness."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Reddy's Japanese name comes from the , which are used to make yōkan, referring to its red color. Greeny's Japanese name is merely the Japanese word for green.\nTheir Kecleon marked the first appearance of a Pokémon from Generation III. \n\n \n \n \n \n\nes:Madison y Alexa\nit:Madison e Alexa"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Madison and Alexa",
+    "pageType": "character",
+    "searchableText": "Madison and Alexa\nCategory:Johto characters of the day\nMadison (Japanese: エル Elle) and Alexa (Japanese: リサ Lisa) are characters of the day who appeared in the episode The Kecleon Caper. \n\nThey are a pair of rich young sisters who are traveling the world in the massive \"Leviathan Two\", a luxury blimp. They dress in fur coats and each have a . helped their Kecleon recover from motion sickness.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 672,
+    "sectionCount": 2
+  }
+}

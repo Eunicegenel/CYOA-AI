@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "PS499",
+    "slug": "ps499",
+    "pageId": 173472,
+    "revisionId": 4548955
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps499__173472.json",
+    "revisionTimestamp": "2026-05-11T00:50:45Z",
+    "fetchedAt": "2026-05-14T15:45:12.467Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "School of Hard Knocks (Japanese: VS プロトーガ VS Tirtouga), titled VS Tirtouga in the Shogakukan Asia translation, is the 499th chapter of the Pokémon Adventures manga, and the 39th chapter of the .\n\nIt is subtitled Tirtouga (Japanese: 暴走 Wild-riding) in the VIZ Media translation and School of Hard Knocks in the Shogakukan Asia translation.",
+  "plainText": "School of Hard Knocks (Japanese: VS プロトーガ VS Tirtouga), titled VS Tirtouga in the Shogakukan Asia translation, is the 499th chapter of the Pokémon Adventures manga, and the 39th chapter of the .\n\nIt is subtitled Tirtouga (Japanese: 暴走 Wild-riding) in the VIZ Media translation and School of Hard Knocks in the Shogakukan Asia translation.\n\n==Plot==\n \n\n==Major events==\nBrycen discovers that has been awakened.\nmeets the Gym Leader, Drayden.\nBlack discovers that Iris is being trained by Drayden.\nIris has a quick battle with Drayden, but loses.\nBlack faces the and defeats them.\n\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n(fantasy) \nLenora (fantasy)\nBurgh (fantasy)\nElesa (fantasy)\nClay (fantasy)\nSkyla (fantasy)\nBrycen\nDrayden\nIris\nLogan\nJeremy\n\n===Pokémon===\n(Musha; 's)\n(Bo; 's)\n(Tula; 's)\n(Costa; 's)\n(Brycen's)\n(Brycen's)\n(Drayden's)\n( )\n( 's)\n\n==Trivia==\nThe VIZ English title is nearly identical to the English title of the ninth episode of . \nWhen this chapter was collected into , the scene of beginning his Gym battle against Brycen was moved to Tooth and Claw and an extra scene was added in its place.\n\n===Errors===\nMusha is revealed to know , a move his species cannot learn legally.\n\n==In other languages==\n \n \n \n \n\nde:VS. Galapaflos\nes:PMS499\nfr:Chapitre 499 (Pocket Monsters Special)\nit:LGA499\nzh:宝可梦特别篇 第499话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "School of Hard Knocks (Japanese: VS プロトーガ VS Tirtouga), titled VS Tirtouga in the Shogakukan Asia translation, is the 499th chapter of the Pokémon Adventures manga, and the 39th chapter of the .\n\nIt is subtitled Tirtouga (Japanese: 暴走 Wild-riding) in the VIZ Media translation and School of Hard Knocks in the Shogakukan Asia translation."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Brycen discovers that has been awakened.\nmeets the Gym Leader, Drayden.\nBlack discovers that Iris is being trained by Drayden.\nIris has a quick battle with Drayden, but loses.\nBlack faces the and defeats them."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(fantasy) \nLenora (fantasy)\nBurgh (fantasy)\nElesa (fantasy)\nClay (fantasy)\nSkyla (fantasy)\nBrycen\nDrayden\nIris\nLogan\nJeremy"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Musha; 's)\n(Bo; 's)\n(Tula; 's)\n(Costa; 's)\n(Brycen's)\n(Brycen's)\n(Drayden's)\n( )\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The VIZ English title is nearly identical to the English title of the ninth episode of . \nWhen this chapter was collected into , the scene of beginning his Gym battle against Brycen was moved to Tooth and Claw and an extra scene was added in its place."
+    },
+    {
+      "heading": "Errors",
+      "level": 3,
+      "text": "Musha is revealed to know , a move his species cannot learn legally."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Galapaflos\nes:PMS499\nfr:Chapitre 499 (Pocket Monsters Special)\nit:LGA499\nzh:宝可梦特别篇 第499话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS499",
+    "pageType": "chapter",
+    "searchableText": "PS499\nCategory:Pokémon Adventures chapters\nSchool of Hard Knocks (Japanese: VS プロトーガ VS Tirtouga), titled VS Tirtouga in the Shogakukan Asia translation, is the 499th chapter of the Pokémon Adventures manga, and the 39th chapter of the .\n\nIt is subtitled Tirtouga (Japanese: 暴走 Wild-riding) in the VIZ Media translation and School of Hard Knocks in the Shogakukan Asia translation.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia",
+      "Errors",
+      "In other languages"
+    ],
+    "characterCount": 1354,
+    "sectionCount": 7
+  }
+}

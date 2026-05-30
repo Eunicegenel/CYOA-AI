@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Danny Kramer",
+    "slug": "danny-kramer",
+    "pageId": 271378,
+    "revisionId": 4323565
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "danny-kramer__271378.json",
+    "revisionTimestamp": "2025-06-24T03:32:31Z",
+    "fetchedAt": "2026-05-14T14:11:09.632Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Danny Kramer is an American actor for the English dub of . He is currently affiliated with DDO Artists Agency.",
+  "plainText": "Danny Kramer is an American actor for the English dub of . He is currently affiliated with DDO Artists Agency.\n\n==Biography==\nKramer is an American voice actor born on April 3, 1990. After working on TV and film, Kramer became a voice actor and was heard in several commercials before working on Pokémon. Kramer's most notable role so far is that of Hammerlocke Gym Leader Raihan.\n\n==Pokémon roles==\n====Humans====\nRaihan\nOne of Nito's henchmen\n\n==Other non-Pokémon roles==\nNico ( )\nKaboom ( )\nOni ( )\nThe Shepherd/Kenneth Drayden ( )\n\n==External links==\nOfficial website\nTwitter\nYoutube\nFacebook\nInstagram\n\n \n \n\nit:Danny Kramer",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Danny Kramer is an American actor for the English dub of . He is currently affiliated with DDO Artists Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kramer is an American voice actor born on April 3, 1990. After working on TV and film, Kramer became a voice actor and was heard in several commercials before working on Pokémon. Kramer's most notable role so far is that of Hammerlocke Gym Leader Raihan."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Raihan\nOne of Nito's henchmen"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Nico ( )\nKaboom ( )\nOni ( )\nThe Shepherd/Kenneth Drayden ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTwitter\nYoutube\nFacebook\nInstagram\n\n \n \n\nit:Danny Kramer"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Danny Kramer",
+    "pageType": "general-anime-lore",
+    "searchableText": "Danny Kramer\nCategory:TPCi voice actors\nDanny Kramer is an American actor for the English dub of . He is currently affiliated with DDO Artists Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 628,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Colosseum Snatchers",
+    "slug": "pokemon-colosseum-snatchers",
+    "pageId": 189222,
+    "revisionId": 4528512
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Colosseum Snatchers",
+    "sourceFileName": "pokemon-colosseum-snatchers__189222.json",
+    "revisionTimestamp": "2026-04-09T16:24:52Z",
+    "fetchedAt": "2026-05-14T15:36:15.986Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモンコロシアム スナッチャーズ Pokémon Colosseum Snatchers) is a Pokémon manga created by Oouchi Suigun. It is an adaptation of Pokémon Colosseum. It is not to be confused with Pokémon Colosseum Snatcher Leo, another manga by Suigun based on the same game, which ran in a different magazine.",
+  "plainText": "(Japanese: ポケモンコロシアム スナッチャーズ Pokémon Colosseum Snatchers) is a Pokémon manga created by Oouchi Suigun. It is an adaptation of Pokémon Colosseum. It is not to be confused with Pokémon Colosseum Snatcher Leo, another manga by Suigun based on the same game, which ran in a different magazine.\n\n==Publications==\nPokémon Colosseum Snatchers was originally serialized over three CoroCoro Comic issues, from December 2003 to February 2004. Since the completion of its original magazine run, the manga has not been republished in volume format anywhere in the world.\n\n==Differences between the manga and the game==\nThe trainer with the two at the start looks like a rather than Willie .\nRui is kidnapped at Outskirt Stand rather than Phenac City.\n, and are owned by a thug rather than Verde, Rosso and Bluno.\nWes captures at Outskirt Stand rather than at Phenac City, Snagem Hideout or Shadow PKMN Lab.\nWes owns a pair of , two Pokémon that are unobtainable in Pokémon Colosseum without trading.\n\n==List of chapters==\nPCS1\nPCS2\nPCS3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンコロシアム スナッチャーズ Pokémon Colosseum Snatchers) is a Pokémon manga created by Oouchi Suigun. It is an adaptation of Pokémon Colosseum. It is not to be confused with Pokémon Colosseum Snatcher Leo, another manga by Suigun based on the same game, which ran in a different magazine."
+    },
+    {
+      "heading": "Publications",
+      "level": 2,
+      "text": "Pokémon Colosseum Snatchers was originally serialized over three CoroCoro Comic issues, from December 2003 to February 2004. Since the completion of its original magazine run, the manga has not been republished in volume format anywhere in the world."
+    },
+    {
+      "heading": "Differences between the manga and the game",
+      "level": 2,
+      "text": "The trainer with the two at the start looks like a rather than Willie .\nRui is kidnapped at Outskirt Stand rather than Phenac City.\n, and are owned by a thug rather than Verde, Rosso and Bluno.\nWes captures at Outskirt Stand rather than at Phenac City, Snagem Hideout or Shadow PKMN Lab.\nWes owns a pair of , two Pokémon that are unobtainable in Pokémon Colosseum without trading."
+    },
+    {
+      "heading": "List of chapters",
+      "level": 2,
+      "text": "PCS1\nPCS2\nPCS3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Colosseum Snatchers",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Colosseum Snatchers\nCategory:Pokémon Colosseum Snatchers\n(Japanese: ポケモンコロシアム スナッチャーズ Pokémon Colosseum Snatchers) is a Pokémon manga created by Oouchi Suigun. It is an adaptation of Pokémon Colosseum. It is not to be confused with Pokémon Colosseum Snatcher Leo, another manga by Suigun based on the same game, which ran in a different magazine.",
+    "sectionHeadings": [
+      "Lead",
+      "Publications",
+      "Differences between the manga and the game",
+      "List of chapters"
+    ],
+    "characterCount": 1024,
+    "sectionCount": 4
+  }
+}

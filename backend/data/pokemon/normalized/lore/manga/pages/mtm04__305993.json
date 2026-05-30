@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "MTM04",
+    "slug": "mtm04",
+    "pageId": 305993,
+    "revisionId": 4169319
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mezastar: Aim to Be a Tag Master! chapters",
+    "sourceFileName": "mtm04__305993.json",
+    "revisionTimestamp": "2024-10-27T20:45:53Z",
+    "fetchedAt": "2026-05-14T15:27:14.747Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the fourth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the May 2021 issue of CoroCoro Ichiban!, released on March 19, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.",
+  "plainText": "This is the fourth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the May 2021 issue of CoroCoro Ichiban!, released on March 19, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.\n\n==Plot==\n ]]\n \n \n\n==Major events==\n===Debuts===\n====Humans====\n\n==Characters==\n===Humans===\nKira Hoshio\nSuguru Tsukino\n\n==Tags featured==\n \nFlygon (3-012)\nKrookodile (3-052)\nGolurk (2-063)\nMetagross (3-009)\n\n==References==\n \n\n==External links==\nChapter 4 on Weekly CoroCoro Comics\nChapter 4 on CoroCoro Online",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the fourth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the May 2021 issue of CoroCoro Ichiban!, released on March 19, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "]]"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kira Hoshio\nSuguru Tsukino"
+    },
+    {
+      "heading": "Tags featured",
+      "level": 2,
+      "text": "Flygon (3-012)\nKrookodile (3-052)\nGolurk (2-063)\nMetagross (3-009)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 4 on Weekly CoroCoro Comics\nChapter 4 on CoroCoro Online"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MTM04",
+    "pageType": "chapter",
+    "searchableText": "MTM04\nCategory:Pokémon Mezastar: Aim to Be a Tag Master! chapters\nThis is the fourth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the May 2021 issue of CoroCoro Ichiban!, released on March 19, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Tags featured",
+      "External links"
+    ],
+    "characterCount": 620,
+    "sectionCount": 5
+  }
+}

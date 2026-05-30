@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Google Play",
+    "slug": "google-play",
+    "pageId": 223880,
+    "revisionId": 4359423
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TV and VOD",
+    "sourceFileName": "google-play__223880.json",
+    "revisionTimestamp": "2025-08-16T21:07:10Z",
+    "fetchedAt": "2026-05-14T14:21:08.178Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Google Play (formerly Android Market) is a digital distribution service owned and operated by and is the official app store for the operating system. Along with Android apps, the service also sells movies, TV shows and books. The service is linked to Google's online video-sharing platform YouTube; movies and TV shows purchased on Google Play are watchable on YouTube.",
+  "plainText": "Google Play (formerly Android Market) is a digital distribution service owned and operated by and is the official app store for the operating system. Along with Android apps, the service also sells movies, TV shows and books. The service is linked to Google's online video-sharing platform YouTube; movies and TV shows purchased on Google Play are watchable on YouTube.\n\n==Games & apps==\nThe Android Market launched on October 22, 2008 . It is the official app store of Android, and as of March 2020, it had 2,870,000 apps available for download .\n\n===Available Pokémon games & apps===\n \n\n==Movies & TV==\nGoogle TV launched in May 2011 as Google Movies , and rebranded with the rest of Google Play in March 2012 as Google Play Movies It is possible to purchase or rent movies in over 110 countries, and TV shows are available to purchase in , Austria, , , , Japan, Switzerland, the , and the . Purchases and rentals are viewable via the Google Play Movies & TV app, the Google Play website, the YouTube app or the YouTube website.\n\n===Available Pokémon anime===\n \n\n===Available Pokémon movies===\n \n\n==Music==\nGoogle Music launched publicly on November 16, 2011, after a six-month closed beta , and rebranded to Google Play Music in March 2012 , and between September and October of 2020 the Google Play Music service and store permanently shut down . At time of closure, Google Play Music was available in 63 countries \nPokémon 2.B.A. Master (Spanish version) \nPokémon the First Movie (score) \nPokémon 3: The Ultimate Soundtrack \nTotally Pokémon \nPokémon X \nPokémon Movie Music Collection \nPokémon Detective Pikachu Original Motion Picture Soundtrack \nCarry On \nThe Journey Starts Today \n\n==Books==\nGoogle eBooks launched on December 6, 2010 , and rebranded to Google Play Books in March 2012 \nPokémon movie manga adaptions:\n\nPokémon the Movie: The Power of Us: Zeraora's Story \nPokémon Theme - Easy Piano \n==External links==\non Wikipedia\nGoogle Play\nWebsite\nGoogle TV\nAndroid app\niOS app\nGoogle Play Books\nWeb app\nAndroid app\niOS app\n\n==References==\n \n\n===Item links===\n \n\n==Related articles==\niTunes Store\nSpotify\n\n \n\n \n\n \n\nit:Google Play",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Google Play (formerly Android Market) is a digital distribution service owned and operated by and is the official app store for the operating system. Along with Android apps, the service also sells movies, TV shows and books. The service is linked to Google's online video-sharing platform YouTube; movies and TV shows purchased on Google Play are watchable on YouTube."
+    },
+    {
+      "heading": "Games & apps",
+      "level": 2,
+      "text": "The Android Market launched on October 22, 2008 . It is the official app store of Android, and as of March 2020, it had 2,870,000 apps available for download ."
+    },
+    {
+      "heading": "Movies & TV",
+      "level": 2,
+      "text": "Google TV launched in May 2011 as Google Movies , and rebranded with the rest of Google Play in March 2012 as Google Play Movies It is possible to purchase or rent movies in over 110 countries, and TV shows are available to purchase in , Austria, , , , Japan, Switzerland, the , and the . Purchases and rentals are viewable via the Google Play Movies & TV app, the Google Play website, the YouTube app or the YouTube website."
+    },
+    {
+      "heading": "Music",
+      "level": 2,
+      "text": "Google Music launched publicly on November 16, 2011, after a six-month closed beta , and rebranded to Google Play Music in March 2012 , and between September and October of 2020 the Google Play Music service and store permanently shut down . At time of closure, Google Play Music was available in 63 countries \nPokémon 2.B.A. Master (Spanish version) \nPokémon the First Movie (score) \nPokémon 3: The Ultimate Soundtrack \nTotally Pokémon \nPokémon X \nPokémon Movie Music Collection \nPokémon Detective Pikachu Original Motion Picture Soundtrack \nCarry On \nThe Journey Starts Today"
+    },
+    {
+      "heading": "Books",
+      "level": 2,
+      "text": "Google eBooks launched on December 6, 2010 , and rebranded to Google Play Books in March 2012 \nPokémon movie manga adaptions:\n\nPokémon the Movie: The Power of Us: Zeraora's Story \nPokémon Theme - Easy Piano"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "on Wikipedia\nGoogle Play\nWebsite\nGoogle TV\nAndroid app\niOS app\nGoogle Play Books\nWeb app\nAndroid app\niOS app"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "iTunes Store\nSpotify\n\n \n\n \n\n \n\nit:Google Play"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Google Play",
+    "pageType": "general-anime-lore",
+    "searchableText": "Google Play\nCategory:TV and VOD\nGoogle Play (formerly Android Market) is a digital distribution service owned and operated by and is the official app store for the operating system. Along with Android apps, the service also sells movies, TV shows and books. The service is linked to Google's online video-sharing platform YouTube; movies and TV shows purchased on Google Play are watchable on YouTube.",
+    "sectionHeadings": [
+      "Lead",
+      "Games & apps",
+      "Movies & TV",
+      "Music",
+      "Books",
+      "External links",
+      "Related articles"
+    ],
+    "characterCount": 2140,
+    "sectionCount": 7
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mistralton Tower",
+    "slug": "mistralton-tower",
+    "pageId": 158037,
+    "revisionId": 4261082
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "mistralton-tower__158037.json",
+    "revisionTimestamp": "2025-03-19T21:50:01Z",
+    "fetchedAt": "2026-05-14T14:37:29.014Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Mistralton Tower (Japanese: フキヨセタワー Tower) is an -exclusive landmark in the Unova region. It is located along . A festival is held in its honor as well as a contest. Those who win the contest will have a chance to ring the bell at the top of the tower and make their potential wishes come true.\n\nIn Climbing the Tower of Success, , Stephan, and Ricky race to the top of the tower holding -shaped candles to win the grand prize in the Wishing Bell Festival. The tower itself has an extremely long spiral staircase inside, and several Pokémon inside, such as Litwick and . It is unknown, however, whether these Pokémon are wild or belonging to a .\n\nIt is nearly identical to the Celestial Tower in design and location. However, it is not a cemetery for as it is in the games.",
+  "plainText": "Mistralton Tower (Japanese: フキヨセタワー Tower) is an -exclusive landmark in the Unova region. It is located along . A festival is held in its honor as well as a contest. Those who win the contest will have a chance to ring the bell at the top of the tower and make their potential wishes come true.\n\nIn Climbing the Tower of Success, , Stephan, and Ricky race to the top of the tower holding -shaped candles to win the grand prize in the Wishing Bell Festival. The tower itself has an extremely long spiral staircase inside, and several Pokémon inside, such as Litwick and . It is unknown, however, whether these Pokémon are wild or belonging to a .\n\nIt is nearly identical to the Celestial Tower in design and location. However, it is not a cemetery for as it is in the games.\n\n==In other languages==\n \n \n\n \n \n\n \n\nit:Torre di Ponentopoli\nzh:吹寄塔",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mistralton Tower (Japanese: フキヨセタワー Tower) is an -exclusive landmark in the Unova region. It is located along . A festival is held in its honor as well as a contest. Those who win the contest will have a chance to ring the bell at the top of the tower and make their potential wishes come true.\n\nIn Climbing the Tower of Success, , Stephan, and Ricky race to the top of the tower holding -shaped candles to win the grand prize in the Wishing Bell Festival. The tower itself has an extremely long spiral staircase inside, and several Pokémon inside, such as Litwick and . It is unknown, however, whether these Pokémon are wild or belonging to a .\n\nIt is nearly identical to the Celestial Tower in design and location. However, it is not a cemetery for as it is in the games."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Torre di Ponentopoli\nzh:吹寄塔"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mistralton Tower",
+    "pageType": "location",
+    "searchableText": "Mistralton Tower\nCategory:Animated series-exclusive locations\nMistralton Tower (Japanese: フキヨセタワー Tower) is an -exclusive landmark in the Unova region. It is located along . A festival is held in its honor as well as a contest. Those who win the contest will have a chance to ring the bell at the top of the tower and make their potential wishes come true.\n\nIn Climbing the Tower of Success, , Stephan, and Ricky race to the top of the tower holding -shaped candles to win the grand prize in the Wishing Bell Festival. The tower itself has an extremely long spiral staircase inside, and several Pokémon inside, such as Litwick and . It is unknown, however, whether these Pokémon are wild or belonging to a .\n\nIt is nearly identical to the Celestial Tower in design and location. However, it is not a cemetery for as it is in the games.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 841,
+    "sectionCount": 2
+  }
+}

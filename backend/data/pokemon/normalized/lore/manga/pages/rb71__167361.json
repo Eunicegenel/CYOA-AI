@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB71",
+    "slug": "rb71",
+    "pageId": 167361,
+    "revisionId": 4256253
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb71__167361.json",
+    "revisionTimestamp": "2025-03-09T23:56:38Z",
+    "fetchedAt": "2026-05-14T15:48:00.549Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: フロードの過去 Fraud's Past) is the 71st chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: フロードの過去 Fraud's Past) is the 71st chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nWhile Ryouga faces off against Arcades' caretaker, Rug discovers the tracer on Yappy's bag.\nFraud arrives on the island.\nFraud's past as a young man is revealed.\nFraud is confronted by Rug and Karuta.\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRug\nMiruto\nYappy\nArcades' caretaker\nRyouga\nKaruta\nGerubu\nFraud\nKared\nFraud's sister\nDeron\nDeron's son\nBurst Warrior\n\n===Pokémon===\n(Fraud's)\n(Burst Warrior's)\n\n(×2)\n\n \n \n \n\n \n\nzh:RB71",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: フロードの過去 Fraud's Past) is the 71st chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "While Ryouga faces off against Arcades' caretaker, Rug discovers the tracer on Yappy's bag.\nFraud arrives on the island.\nFraud's past as a young man is revealed.\nFraud is confronted by Rug and Karuta."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Rug\nMiruto\nYappy\nArcades' caretaker\nRyouga\nKaruta\nGerubu\nFraud\nKared\nFraud's sister\nDeron\nDeron's son\nBurst Warrior"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Fraud's)\n(Burst Warrior's)\n\n(×2)\n\n \n \n \n\n \n\nzh:RB71"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB71",
+    "pageType": "chapter",
+    "searchableText": "RB71\nCategory:Pokémon RéBURST chapters\n(Japanese: フロードの過去 Fraud's Past) is the 71st chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 562,
+    "sectionCount": 4
+  }
+}

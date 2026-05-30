@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Jacore Town",
+    "slug": "jacore-town",
+    "pageId": 211592,
+    "revisionId": 4319908
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "jacore-town__211592.json",
+    "revisionTimestamp": "2025-06-14T15:48:30Z",
+    "fetchedAt": "2026-05-14T14:25:28.136Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Jacore Town (Japanese: ジャコールタウン Jackal Town) is an -exclusive location in Kalos, which appeared in Unlocking Some Respect!. It is located between Couriway Town and Snowbelle City. It has a jewelry exhibit. \n\n and were walking through Jacore Town when came across an advertisement for a jewelry exhibit that was being held in the town. After Serena told the others about it, became excited about it along with Serena. Ash, seeing how eager the two girls were to go and see the exhibit, told them that they should all go and see the exhibit, as a detour on their trip to Gloire City.",
+  "plainText": "Jacore Town (Japanese: ジャコールタウン Jackal Town) is an -exclusive location in Kalos, which appeared in Unlocking Some Respect!. It is located between Couriway Town and Snowbelle City. It has a jewelry exhibit. \n\n and were walking through Jacore Town when came across an advertisement for a jewelry exhibit that was being held in the town. After Serena told the others about it, became excited about it along with Serena. Ash, seeing how eager the two girls were to go and see the exhibit, told them that they should all go and see the exhibit, as a detour on their trip to Gloire City.\n\n==Names==\n \n\n \n \n\n \n\nes:Pueblo Jacore\nit:Gemmopoli\nzh:加克烏魯鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jacore Town (Japanese: ジャコールタウン Jackal Town) is an -exclusive location in Kalos, which appeared in Unlocking Some Respect!. It is located between Couriway Town and Snowbelle City. It has a jewelry exhibit. \n\n and were walking through Jacore Town when came across an advertisement for a jewelry exhibit that was being held in the town. After Serena told the others about it, became excited about it along with Serena. Ash, seeing how eager the two girls were to go and see the exhibit, told them that they should all go and see the exhibit, as a detour on their trip to Gloire City."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Pueblo Jacore\nit:Gemmopoli\nzh:加克烏魯鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jacore Town",
+    "pageType": "location",
+    "searchableText": "Jacore Town\nCategory:Animated series-exclusive locations\nJacore Town (Japanese: ジャコールタウン Jackal Town) is an -exclusive location in Kalos, which appeared in Unlocking Some Respect!. It is located between Couriway Town and Snowbelle City. It has a jewelry exhibit. \n\n and were walking through Jacore Town when came across an advertisement for a jewelry exhibit that was being held in the town. After Serena told the others about it, became excited about it along with Serena. Ash, seeing how eager the two girls were to go and see the exhibit, told them that they should all go and see the exhibit, as a detour on their trip to Gloire City.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 642,
+    "sectionCount": 2
+  }
+}

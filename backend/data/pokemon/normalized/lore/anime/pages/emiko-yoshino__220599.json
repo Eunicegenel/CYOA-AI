@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Emiko Yoshino",
+    "slug": "emiko-yoshino",
+    "pageId": 220599,
+    "revisionId": 4354811
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation cast and crew",
+    "sourceFileName": "emiko-yoshino__220599.json",
+    "revisionTimestamp": "2025-08-08T19:30:27Z",
+    "fetchedAt": "2026-05-14T14:15:14.246Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Emiko Yoshino (Japanese: よしのえみこ / 吉野恵美子) is a manga illustrator that has created artwork for Pokémon and regularly works on official Pokémon-related media.",
+  "plainText": "Emiko Yoshino (Japanese: よしのえみこ / 吉野恵美子) is a manga illustrator that has created artwork for Pokémon and regularly works on official Pokémon-related media.\n\n==Credits==\n===Manga===\nPokémon XD: Whirlwind of Darkness, Dark Lugia\nPokémon Ranger: The Road to a \"Capture\" Master\nPokémon Ranger Vatonage: Mission Clear\nPokémon Stories Together with Pikachu!\nLucario and the Mystery of Mew\nPokemon Ruby & Sapphire Special Capture Comic!\n3 Friends Pokémon Story\nPokémon Diamond & Pearl Quiz Encyclopedia\nPokémon HeartGold & SoulSilver Complete Quiz Encyclopedia\nPokémon Black & White Quiz Encyclopedia\nPokémon Black 2 & White 2 Quiz Encyclopedia\nPokémon X & Y Quiz Encyclopedia\nSearch for Pokémon! Sun & Moon\nPokémon Sun & Moon - Let's Play With Pokémon!\n\n===Games===\nDetective Pikachu - Pokémon Graphic Supervisor\nPokémon Quest - Pokémon Graphic Supervisor\nPokémon Picross - Pokémon Graphic Supervisor\nPokémon Rumble World - Pokémon Graphic Supervisor\nPokémon Duel - Pokémon Brand Management\nPokémon Sword and Shield - Special Thanks\nPokémon: Let's Go, Pikachu! and Let's Go, Eevee! - Special Thanks\nPokémon Sun and Moon - Special Thanks\nPokémon Omega Ruby and Alpha Sapphire - Special Thanks\nPokémon Battle Trozei - Special Thanks\n\n===Animation===\nPokémon the Movie: The Power of Us - Production Committee\nPokémon: Mewtwo Strikes Back—Evolution - Production Committee\n\n==Other==\nEmiko Yoshino created a special set of illustrations for the Pokémon Daisuki Club . \n\n \n \n\n \n \n \n \n\nit:Emiko Yoshino\nja:吉野恵美子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Emiko Yoshino (Japanese: よしのえみこ / 吉野恵美子) is a manga illustrator that has created artwork for Pokémon and regularly works on official Pokémon-related media."
+    },
+    {
+      "heading": "Manga",
+      "level": 3,
+      "text": "Pokémon XD: Whirlwind of Darkness, Dark Lugia\nPokémon Ranger: The Road to a \"Capture\" Master\nPokémon Ranger Vatonage: Mission Clear\nPokémon Stories Together with Pikachu!\nLucario and the Mystery of Mew\nPokemon Ruby & Sapphire Special Capture Comic!\n3 Friends Pokémon Story\nPokémon Diamond & Pearl Quiz Encyclopedia\nPokémon HeartGold & SoulSilver Complete Quiz Encyclopedia\nPokémon Black & White Quiz Encyclopedia\nPokémon Black 2 & White 2 Quiz Encyclopedia\nPokémon X & Y Quiz Encyclopedia\nSearch for Pokémon! Sun & Moon\nPokémon Sun & Moon - Let's Play With Pokémon!"
+    },
+    {
+      "heading": "Games",
+      "level": 3,
+      "text": "Detective Pikachu - Pokémon Graphic Supervisor\nPokémon Quest - Pokémon Graphic Supervisor\nPokémon Picross - Pokémon Graphic Supervisor\nPokémon Rumble World - Pokémon Graphic Supervisor\nPokémon Duel - Pokémon Brand Management\nPokémon Sword and Shield - Special Thanks\nPokémon: Let's Go, Pikachu! and Let's Go, Eevee! - Special Thanks\nPokémon Sun and Moon - Special Thanks\nPokémon Omega Ruby and Alpha Sapphire - Special Thanks\nPokémon Battle Trozei - Special Thanks"
+    },
+    {
+      "heading": "Animation",
+      "level": 3,
+      "text": "Pokémon the Movie: The Power of Us - Production Committee\nPokémon: Mewtwo Strikes Back—Evolution - Production Committee"
+    },
+    {
+      "heading": "Other",
+      "level": 2,
+      "text": "Emiko Yoshino created a special set of illustrations for the Pokémon Daisuki Club . \n\n \n \n\n \n \n \n \n\nit:Emiko Yoshino\nja:吉野恵美子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Emiko Yoshino",
+    "pageType": "general-anime-lore",
+    "searchableText": "Emiko Yoshino\nCategory:Animation cast and crew\nEmiko Yoshino (Japanese: よしのえみこ / 吉野恵美子) is a manga illustrator that has created artwork for Pokémon and regularly works on official Pokémon-related media.",
+    "sectionHeadings": [
+      "Lead",
+      "Manga",
+      "Games",
+      "Animation",
+      "Other"
+    ],
+    "characterCount": 1498,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "TA09",
+    "slug": "ta09",
+    "pageId": 180868,
+    "revisionId": 4549658
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta09__180868.json",
+    "revisionTimestamp": "2026-05-11T02:10:50Z",
+    "fetchedAt": "2026-05-14T15:50:37.742Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: イーブイ救出 Rescue Eevee) is the ninth chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: イーブイ救出 Rescue Eevee) is the ninth chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\nLittle girl\n\n===Pokémon===\n(Soro's; newly obtained)\n(Kamaru; Toki's)\n(Absō; Toki's)\n(Kachuna; Toki's)\n(costume)\n(Little girl's)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: イーブイ救出 Rescue Eevee) is the ninth chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty\nLittle girl"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Soro's; newly obtained)\n(Kamaru; Toki's)\n(Absō; Toki's)\n(Kachuna; Toki's)\n(costume)\n(Little girl's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA09",
+    "pageType": "chapter",
+    "searchableText": "TA09\nCategory:Pokémon Try Adventure chapters\n(Japanese: イーブイ救出 Rescue Eevee) is the ninth chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 360,
+    "sectionCount": 3
+  }
+}

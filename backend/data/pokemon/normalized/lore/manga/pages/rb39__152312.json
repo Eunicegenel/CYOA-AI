@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB39",
+    "slug": "rb39",
+    "pageId": 152312,
+    "revisionId": 4246079
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb39__152312.json",
+    "revisionTimestamp": "2025-02-23T02:39:39Z",
+    "fetchedAt": "2026-05-14T15:47:40.389Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 決勝戦開始！ Final Match Starts!) is the 39th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 決勝戦開始！ Final Match Starts!) is the 39th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nThe final round of Burst Heart Survival begins.\n\n===Debuts===\n====Pokémon debuts====\n\n==Character ==\n===Humans===\nHariru\nFraud\nRyouga\nMiruto\nYappy\nRush\nLoren\nEurou\nPikke\nRurimaru\nDokan\nRabine\nAfron\nKaruta\nCarola\nPlayers\n\n===Pokémon===\n(Ryouga's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB39",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 決勝戦開始！ Final Match Starts!) is the 39th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "The final round of Burst Heart Survival begins."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hariru\nFraud\nRyouga\nMiruto\nYappy\nRush\nLoren\nEurou\nPikke\nRurimaru\nDokan\nRabine\nAfron\nKaruta\nCarola\nPlayers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ryouga's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB39"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB39",
+    "pageType": "chapter",
+    "searchableText": "RB39\nCategory:Pokémon RéBURST chapters\n(Japanese: 決勝戦開始！ Final Match Starts!) is the 39th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 393,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "identity": {
+    "title": "Team Falinks",
+    "slug": "team-falinks",
+    "pageId": 295068,
+    "revisionId": 4095957
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Path to the Peak characters",
+    "sourceFileName": "team-falinks__295068.json",
+    "revisionTimestamp": "2024-09-01T00:46:24Z",
+    "fetchedAt": "2026-05-14T14:53:20.243Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Team Falinks (Japanese: タイレーツ団 Tairetsu-dan) is a team shown in Pokémon: Path to the Peak. It is made up of the best Pokémon TCG players in the world and is led by current World Champion Edgar Troy.",
+  "plainText": "Team Falinks (Japanese: タイレーツ団 Tairetsu-dan) is a team shown in Pokémon: Path to the Peak. It is made up of the best Pokémon TCG players in the world and is led by current World Champion Edgar Troy.\n==History==\n \n \n\n==Members==\n \n\n==Decks==\nAll Team Falinks members use a -based deck.\n\nAccording to Celestine, their deck borders on \"perfection\", being able to easily beat veteran players. As the team's name suggests, one of the mainstays of the members' deck is , the focus of at least three of the five team members' decks.\n===Edgar Troy's deck===\n \nUnlike the other members of his team, Edgar used a deck with a strategy of his own and focused on luring his opponents into a \"trap\".\n===Unnamed girl===\nThe following list is incomplete due to the entire deck not being shown.\n \n \n \n \n \n===Left member===\nThe following list is incomplete due to the entire deck not being shown.\n \n \n \n\n===Middle member===\nThe following list is incomplete due to the entire deck not being shown.\n \n \n \n\n===Right member===\nThe following list is incomplete due to the entire deck not being shown.\n \n \n \n\n==Achievements==\n \n===Edgar Troy===\n===Achievements===\n====World Championships====\nWorld Champion- (prior to Internationals to Worlds)\n\n====Pokémon competitions====\nPokémon International Championships- Winner (Internationals)\nNote:It was revealed during Internationals and Worlds that Team Falinks won several tournaments around the world, some of the Team's achievements are shown in flashbacks during the series, however the specific tournament was not revealed.\n \n\n==Names==\n \n\n \n\n \n \n \n\nes:Equipo Falinks\nit:Squadra Falinks",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Team Falinks (Japanese: タイレーツ団 Tairetsu-dan) is a team shown in Pokémon: Path to the Peak. It is made up of the best Pokémon TCG players in the world and is led by current World Champion Edgar Troy."
+    },
+    {
+      "heading": "Decks",
+      "level": 2,
+      "text": "All Team Falinks members use a -based deck.\n\nAccording to Celestine, their deck borders on \"perfection\", being able to easily beat veteran players. As the team's name suggests, one of the mainstays of the members' deck is , the focus of at least three of the five team members' decks."
+    },
+    {
+      "heading": "Edgar Troy's deck",
+      "level": 3,
+      "text": "Unlike the other members of his team, Edgar used a deck with a strategy of his own and focused on luring his opponents into a \"trap\"."
+    },
+    {
+      "heading": "Unnamed girl",
+      "level": 3,
+      "text": "The following list is incomplete due to the entire deck not being shown."
+    },
+    {
+      "heading": "Left member",
+      "level": 3,
+      "text": "The following list is incomplete due to the entire deck not being shown."
+    },
+    {
+      "heading": "Middle member",
+      "level": 3,
+      "text": "The following list is incomplete due to the entire deck not being shown."
+    },
+    {
+      "heading": "Right member",
+      "level": 3,
+      "text": "The following list is incomplete due to the entire deck not being shown."
+    },
+    {
+      "heading": "World Championships",
+      "level": 4,
+      "text": "World Champion- (prior to Internationals to Worlds)"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 4,
+      "text": "Pokémon International Championships- Winner (Internationals)\nNote:It was revealed during Internationals and Worlds that Team Falinks won several tournaments around the world, some of the Team's achievements are shown in flashbacks during the series, however the specific tournament was not revealed."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Equipo Falinks\nit:Squadra Falinks"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Team Falinks",
+    "pageType": "character",
+    "searchableText": "Team Falinks\nCategory:Pokémon: Path to the Peak characters\nTeam Falinks (Japanese: タイレーツ団 Tairetsu-dan) is a team shown in Pokémon: Path to the Peak. It is made up of the best Pokémon TCG players in the world and is led by current World Champion Edgar Troy.",
+    "sectionHeadings": [
+      "Lead",
+      "Decks",
+      "Edgar Troy's deck",
+      "Unnamed girl",
+      "Left member",
+      "Middle member",
+      "Right member",
+      "World Championships",
+      "Pokémon competitions",
+      "Names"
+    ],
+    "characterCount": 1612,
+    "sectionCount": 10
+  }
+}

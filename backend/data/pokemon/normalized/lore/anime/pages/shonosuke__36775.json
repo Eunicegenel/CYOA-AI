@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Shonosuke",
+    "slug": "shonosuke",
+    "pageId": 36775,
+    "revisionId": 4335833
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "shonosuke__36775.json",
+    "revisionTimestamp": "2025-07-13T16:49:40Z",
+    "fetchedAt": "2026-05-14T14:49:37.686Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Shonosuke (Japanese: ショーノスケ親方 Master Shonosuke) is a character of the day who appeared in Ring Masters. He is the host of the annual Sumo Conference.\n\n and first met him after walking through Rikishii Town and noticing Raiden and his training at a local facility. His knowledge and passion for the sport inspired Ash to compete. He watched over the entire tournament, and used his high-ranking position to protest the referee's ruling that \"Jessiyaki\" and her , disguised as a , won against an . 's cover was blown after Shonosuke disqualified them for using the move . After their defeat, the tournament continued on, and he later presented Ash with the Sumo Conference title and winning prizes.",
+  "plainText": "Shonosuke (Japanese: ショーノスケ親方 Master Shonosuke) is a character of the day who appeared in Ring Masters. He is the host of the annual Sumo Conference.\n\n and first met him after walking through Rikishii Town and noticing Raiden and his training at a local facility. His knowledge and passion for the sport inspired Ash to compete. He watched over the entire tournament, and used his high-ranking position to protest the referee's ruling that \"Jessiyaki\" and her , disguised as a , won against an . 's cover was blown after Shonosuke disqualified them for using the move . After their defeat, the tournament continued on, and he later presented Ash with the Sumo Conference title and winning prizes.\n\n==Trivia==\nShonosuke's name comes from the famous Japanese sumo wrestler Shonosuke Kimura.\n\n==Voice actors==\n \n\n \n\n \n \n \n\nde:Pokémon Sumo (Episode)#Shonosuke\nes:Shonosuke\nit:Shonosuke",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shonosuke (Japanese: ショーノスケ親方 Master Shonosuke) is a character of the day who appeared in Ring Masters. He is the host of the annual Sumo Conference.\n\n and first met him after walking through Rikishii Town and noticing Raiden and his training at a local facility. His knowledge and passion for the sport inspired Ash to compete. He watched over the entire tournament, and used his high-ranking position to protest the referee's ruling that \"Jessiyaki\" and her , disguised as a , won against an . 's cover was blown after Shonosuke disqualified them for using the move . After their defeat, the tournament continued on, and he later presented Ash with the Sumo Conference title and winning prizes."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Shonosuke's name comes from the famous Japanese sumo wrestler Shonosuke Kimura."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Pokémon Sumo (Episode)#Shonosuke\nes:Shonosuke\nit:Shonosuke"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shonosuke",
+    "pageType": "character",
+    "searchableText": "Shonosuke\nCategory:Johto characters of the day\nShonosuke (Japanese: ショーノスケ親方 Master Shonosuke) is a character of the day who appeared in Ring Masters. He is the host of the annual Sumo Conference.\n\n and first met him after walking through Rikishii Town and noticing Raiden and his training at a local facility. His knowledge and passion for the sport inspired Ash to compete. He watched over the entire tournament, and used his high-ranking position to protest the referee's ruling that \"Jessiyaki\" and her , disguised as a , won against an . 's cover was blown after Shonosuke disqualified them for using the move . After their defeat, the tournament continued on, and he later presented Ash with the Sumo Conference title and winning prizes.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Voice actors"
+    ],
+    "characterCount": 881,
+    "sectionCount": 3
+  }
+}

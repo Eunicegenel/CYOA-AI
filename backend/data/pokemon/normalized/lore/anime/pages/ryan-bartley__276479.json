@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Ryan Bartley",
+    "slug": "ryan-bartley",
+    "pageId": 276479,
+    "revisionId": 4323610
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "ryan-bartley__276479.json",
+    "revisionTimestamp": "2025-06-24T03:33:17Z",
+    "fetchedAt": "2026-05-14T14:47:23.196Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Ryan Bartley is a voice actress for the English dub of and Pokémon Masters EX. She is currently affiliated with AVO Talent Agency.",
+  "plainText": "Ryan Bartley is a voice actress for the English dub of and Pokémon Masters EX. She is currently affiliated with AVO Talent Agency.\n\n==Biography==\nBartley was born on February 3, 1998, in Forth Worth, Texas, USA, and became a voice actress as a child. She joined the during Pokémon Journeys: The Series, where she voiced several characters and Pokémon, her most notable being that of Allister and Goh's .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nAllister\n\n=====Pokémon=====\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nNaho Shimada ( )\nMisa Nishimori, Yusa Nishimori ( )\nOsamu ( )\nRei Ayanami ( ) (Netflix dub)\nSage ( )\nSatomi Niiyama ( )\n\n==External links==\nTwitter\nInstagram\nOfficial website\nAnime News Network\n\n==References==\n \n\n \n \n\nit:Ryan Bartley",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ryan Bartley is a voice actress for the English dub of and Pokémon Masters EX. She is currently affiliated with AVO Talent Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Bartley was born on February 3, 1998, in Forth Worth, Texas, USA, and became a voice actress as a child. She joined the during Pokémon Journeys: The Series, where she voiced several characters and Pokémon, her most notable being that of Allister and Goh's ."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Allister"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Naho Shimada ( )\nMisa Nishimori, Yusa Nishimori ( )\nOsamu ( )\nRei Ayanami ( ) (Netflix dub)\nSage ( )\nSatomi Niiyama ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nInstagram\nOfficial website\nAnime News Network"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:Ryan Bartley"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ryan Bartley",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ryan Bartley\nCategory:TPCi voice actors\nRyan Bartley is a voice actress for the English dub of and Pokémon Masters EX. She is currently affiliated with AVO Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Other non-Pokémon roles",
+      "External links",
+      "References"
+    ],
+    "characterCount": 802,
+    "sectionCount": 6
+  }
+}

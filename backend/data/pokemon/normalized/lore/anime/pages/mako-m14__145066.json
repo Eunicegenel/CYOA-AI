@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Mako (M14)",
+    "slug": "mako-m14",
+    "pageId": 145066,
+    "revisionId": 4252700
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "mako-m14__145066.json",
+    "revisionTimestamp": "2025-03-03T17:21:04Z",
+    "fetchedAt": "2026-05-14T14:34:26.986Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "(Japanese: マコ Mako) is a Pokémon Trainer and a minor character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram.",
+  "plainText": "(Japanese: マコ Mako) is a Pokémon Trainer and a minor character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram.\n\n==In the movies==\nShe battled in a tournament in Eindoak Town with her . Eventually, Ash's Pikachu managed to defeat Serperior, causing her to be eliminated from the tournament.\n\n===Pokémon===\n \n\n===Pokémon competitions===\nMako has competed in the following :\nEindoak Harvest Festival Battle Competition - Unknown (Pokémon the Movie: White—Victini and Zekrom, Black—Victini and Reshiram)\n\n===Artwork===\n \n\n==In the manga==\nMako appears in the of the movie, where she participates in a tournament held in Eindoak Town.\n\n===Pokémon===\n \n\n==Related articles==\n \n \n\n \n\nde:Mako\nes:Mako\nfr:Mako\nit:Mako (F14)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: マコ Mako) is a Pokémon Trainer and a minor character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram."
+    },
+    {
+      "heading": "In the movies",
+      "level": 2,
+      "text": "She battled in a tournament in Eindoak Town with her . Eventually, Ash's Pikachu managed to defeat Serperior, causing her to be eliminated from the tournament."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 3,
+      "text": "Mako has competed in the following :\nEindoak Harvest Festival Battle Competition - Unknown (Pokémon the Movie: White—Victini and Zekrom, Black—Victini and Reshiram)"
+    },
+    {
+      "heading": "In the manga",
+      "level": 2,
+      "text": "Mako appears in the of the movie, where she participates in a tournament held in Eindoak Town."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Mako\nes:Mako\nfr:Mako\nit:Mako (F14)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mako (M14)",
+    "pageType": "movie",
+    "searchableText": "Mako (M14)\nCategory:Movie characters\n(Japanese: マコ Mako) is a Pokémon Trainer and a minor character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram.",
+    "sectionHeadings": [
+      "Lead",
+      "In the movies",
+      "Pokémon competitions",
+      "In the manga",
+      "Related articles"
+    ],
+    "characterCount": 739,
+    "sectionCount": 5
+  }
+}

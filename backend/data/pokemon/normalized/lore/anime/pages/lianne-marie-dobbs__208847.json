@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Lianne Marie Dobbs",
+    "slug": "lianne-marie-dobbs",
+    "pageId": 208847,
+    "revisionId": 4398123
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "lianne-marie-dobbs__208847.json",
+    "revisionTimestamp": "2025-10-11T15:50:07Z",
+    "fetchedAt": "2026-05-14T14:31:05.064Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Lianne Marie Dobbs is an American actress, voice actress, and vocalist for the English-language dub of .",
+  "plainText": "Lianne Marie Dobbs is an American actress, voice actress, and vocalist for the English-language dub of .\n\n==Biography==\nAs an adult, Dobbs became an actress and a voice actress, getting only a few minor roles. She joined the during . Her best-known roles in the series are Anthea, 's foster sister; and Merilyn, a thief.\n\n==Pokémon roles==\n===Animation===\n==== ====\nMoira\nAnthea\nElise\nMerilyn\nAlvin\n\n==== ====\nYuha\n\n====I Choose You! trilogy====\n\n==Other non-Pokémon roles==\nFemale Warmage (Dungeon Hunter 4)\nHenrietta Akaba ( )\n\n==External links==\nOfficial website\nFacebook\n\n \n\n \n\nit:Lianne Marie Dobbs",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lianne Marie Dobbs is an American actress, voice actress, and vocalist for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "As an adult, Dobbs became an actress and a voice actress, getting only a few minor roles. She joined the during . Her best-known roles in the series are Anthea, 's foster sister; and Merilyn, a thief."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Moira\nAnthea\nElise\nMerilyn\nAlvin"
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Yuha"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Female Warmage (Dungeon Hunter 4)\nHenrietta Akaba ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nFacebook\n\n \n\n \n\nit:Lianne Marie Dobbs"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lianne Marie Dobbs",
+    "pageType": "general-anime-lore",
+    "searchableText": "Lianne Marie Dobbs\nCategory:TPCi voice actors\nLianne Marie Dobbs is an American actress, voice actress, and vocalist for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 603,
+    "sectionCount": 6
+  }
+}

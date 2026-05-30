@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Houko Kuwashima",
+    "slug": "houko-kuwashima",
+    "pageId": 293590,
+    "revisionId": 4323403
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "houko-kuwashima__293590.json",
+    "revisionTimestamp": "2025-06-24T03:29:31Z",
+    "fetchedAt": "2026-05-14T14:22:51.862Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Houko Kuwashima (Japanese: 桑島法子 Houko Kuwashima) is a Japanese voice actor for and .",
+  "plainText": "Houko Kuwashima (Japanese: 桑島法子 Houko Kuwashima) is a Japanese voice actor for and .\n\n==Biography==\nHouko was born on Dec 12, 1975 Iwate, Japan. Houko became a voice actor in 1988 and voiced characters of the day during and . She has also voiced Lucca, Liko's mother, in .\n\n==Pokémon roles==\n===Animation===\n==== ====\nBucky\nRosebay\n\n==== ====\nLucca\n\n==Other non-Pokémon roles==\nCharlotte, Pudding ( )\nSakagami, Tomoyo ( )\nMyoudouin, Itsuki ( )\n\n==External links==\nTwitter\n\n \n\n \n\nit:Hōko Kuwashima",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Houko Kuwashima (Japanese: 桑島法子 Houko Kuwashima) is a Japanese voice actor for and ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Houko was born on Dec 12, 1975 Iwate, Japan. Houko became a voice actor in 1988 and voiced characters of the day during and . She has also voiced Lucca, Liko's mother, in ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Bucky\nRosebay"
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Lucca"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Charlotte, Pudding ( )\nSakagami, Tomoyo ( )\nMyoudouin, Itsuki ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\n\n \n\n \n\nit:Hōko Kuwashima"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Houko Kuwashima",
+    "pageType": "general-anime-lore",
+    "searchableText": "Houko Kuwashima\nCategory:Japanese voice actors\nHouko Kuwashima (Japanese: 桑島法子 Houko Kuwashima) is a Japanese voice actor for and .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 496,
+    "sectionCount": 6
+  }
+}

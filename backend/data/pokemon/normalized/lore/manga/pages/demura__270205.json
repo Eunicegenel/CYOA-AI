@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Demura",
+    "slug": "demura",
+    "pageId": 270205,
+    "revisionId": 4129517
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "demura__270205.json",
+    "revisionTimestamp": "2024-09-28T03:36:37Z",
+    "fetchedAt": "2026-05-14T15:16:53.051Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: デムラ Demura) is a character in the Pokémon Adventures manga. He is an assistant director working under .",
+  "plainText": "(Japanese: デムラ Demura) is a character in the Pokémon Adventures manga. He is an assistant director working under .\n\n==History==\n=== ===\nDemura first appeared in Lights, Camera...Action!. When the filming crew were being interrupted by , Makoto yelled at his assistant to remove him. However, the boy refused until he was done shouting his dreams to the skies.\n\nSoon after, they learned that the filming crew were attacked, where Demura and his director blamed Black due to him being the only outsider. However, Black would go on to save the day, revealing the culprit to be a wild Galvantula.\n\nIn Wheeling and Dealing, Demura was seen again with Makoto in Nacrene City, where Demura would watch over an accordionist's accordion while the musician was getting dressed up. However, the accordion was stolen by a wild and while Demura was out for a drink, where Black stepped in once again to figure out the culprit as Makoto was suspecting him once more.\n\n=== ===\nIn Movie Panic, Demura was seen helping the director film the Brycen-Man Series. However, it was revealed that Demura had forgotten to turn off a prop named Mecha Tyranitar which was meant for Big Monster 2.\n\n=== ===\nIn Cracked!! The Rusted Sword and Shield, Demura was seen at the tower summit of the Energy Plant, providing lines to as she interviewed Sordward and Shielbert.\n\n==Trivia==\nDemura's Japanese name was revealed by PokéSPedia.\n\n \n\n \n \n \n\nzh:出村",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: デムラ Demura) is a character in the Pokémon Adventures manga. He is an assistant director working under ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Demura first appeared in Lights, Camera...Action!. When the filming crew were being interrupted by , Makoto yelled at his assistant to remove him. However, the boy refused until he was done shouting his dreams to the skies.\n\nSoon after, they learned that the filming crew were attacked, where Demura and his director blamed Black due to him being the only outsider. However, Black would go on to save the day, revealing the culprit to be a wild Galvantula.\n\nIn Wheeling and Dealing, Demura was seen again with Makoto in Nacrene City, where Demura would watch over an accordionist's accordion while the musician was getting dressed up. However, the accordion was stolen by a wild and while Demura was out for a drink, where Black stepped in once again to figure out the culprit as Makoto was suspecting him once more."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "In Movie Panic, Demura was seen helping the director film the Brycen-Man Series. However, it was revealed that Demura had forgotten to turn off a prop named Mecha Tyranitar which was meant for Big Monster 2."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "In Cracked!! The Rusted Sword and Shield, Demura was seen at the tower summit of the Energy Plant, providing lines to as she interviewed Sordward and Shielbert."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Demura's Japanese name was revealed by PokéSPedia.\n\n \n\n \n \n \n\nzh:出村"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Demura",
+    "pageType": "character",
+    "searchableText": "Demura\nCategory:Pokémon Adventures characters\n(Japanese: デムラ Demura) is a character in the Pokémon Adventures manga. He is an assistant director working under .",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "",
+      "",
+      "Trivia"
+    ],
+    "characterCount": 1419,
+    "sectionCount": 5
+  }
+}

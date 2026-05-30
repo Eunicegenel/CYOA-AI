@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ39",
+    "slug": "gdz39",
+    "pageId": 188418,
+    "revisionId": 4527780
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz39__188418.json",
+    "revisionTimestamp": "2026-04-09T15:53:16Z",
+    "fetchedAt": "2026-05-14T15:19:46.381Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: さよなら、ミクリ Goodbye, Mikuri) is the 39th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: さよなら、ミクリ Goodbye, Mikuri) is the 39th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nMikuri\n\n===Pokémon===\n( )\n(Mikuri's)\n(Mikuri's; new)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: さよなら、ミクリ Goodbye, Mikuri) is the 39th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nMikuri"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Mikuri's)\n(Mikuri's; new)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ39",
+    "pageType": "chapter",
+    "searchableText": "GDZ39\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: さよなら、ミクリ Goodbye, Mikuri) is the 39th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 254,
+    "sectionCount": 3
+  }
+}

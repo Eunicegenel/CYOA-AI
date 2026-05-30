@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Victory",
+    "slug": "victory",
+    "pageId": 188798,
+    "revisionId": 3986724
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Korean opening themes",
+    "sourceFileName": "victory__188798.json",
+    "revisionTimestamp": "2024-04-11T18:18:24Z",
+    "fetchedAt": "2026-05-14T14:56:53.555Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Victory is an unused opening theme for the Korean dub of the original series. Although it was originally intended to be used during the Johto saga in season 3, it was ultimately scrapped in favor of . Despite this, it was still included on the album Pocket Monsters AG (New & Best).",
+  "plainText": "Victory is an unused opening theme for the Korean dub of the original series. Although it was originally intended to be used during the Johto saga in season 3, it was ultimately scrapped in favor of . Despite this, it was still included on the album Pocket Monsters AG (New & Best).\n\n==Lyrics==\n \n! Korean\n! English\n\n \n \n \n \n \n \n \n\n \n \n \n \n \n\n \n \n\n \n \n \n\n \n\n \n \n\n \n \n\n \n \n\nAlways stay by me\n(Totodile)\nI'll never forget you\n(Chikorita)\nIt's nice to meet you\n(Cyndaquil)\nMy fun and cute friend\n\nBy my side, I always have a friend\nWho wipes my tears away\nIn times of trouble\nCan't block it,\nThe journey that has restarted\n\nNow just wait a little longer\nFor the day when the adventure ends\n\nEndlessly run\nTowards the new tomorrow\nThat shines to me\n\nVictory!\n\nTomorrow, a new world\nBeckons me from afar\n\nTo my dream in my heart\nThat grows every day\n\nRun powerfully\nFor a new myself \n\n \n \n\n \n\nzh:寶可夢 韓語片頭曲3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Victory is an unused opening theme for the Korean dub of the original series. Although it was originally intended to be used during the Johto saga in season 3, it was ultimately scrapped in favor of . Despite this, it was still included on the album Pocket Monsters AG (New & Best)."
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "! Korean\n! English\n\n \n \n \n \n \n \n \n\n \n \n \n \n \n\n \n \n\n \n \n \n\n \n\n \n \n\n \n \n\n \n \n\nAlways stay by me\n(Totodile)\nI'll never forget you\n(Chikorita)\nIt's nice to meet you\n(Cyndaquil)\nMy fun and cute friend\n\nBy my side, I always have a friend\nWho wipes my tears away\nIn times of trouble\nCan't block it,\nThe journey that has restarted\n\nNow just wait a little longer\nFor the day when the adventure ends\n\nEndlessly run\nTowards the new tomorrow\nThat shines to me\n\nVictory!\n\nTomorrow, a new world\nBeckons me from afar\n\nTo my dream in my heart\nThat grows every day\n\nRun powerfully\nFor a new myself \n\n \n \n\n \n\nzh:寶可夢 韓語片頭曲3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Victory",
+    "pageType": "general-anime-lore",
+    "searchableText": "Victory\nCategory:Korean opening themes\nVictory is an unused opening theme for the Korean dub of the original series. Although it was originally intended to be used during the Johto saga in season 3, it was ultimately scrapped in favor of . Despite this, it was still included on the album Pocket Monsters AG (New & Best).",
+    "sectionHeadings": [
+      "Lead",
+      "Lyrics"
+    ],
+    "characterCount": 901,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Yukka",
+    "slug": "yukka",
+    "pageId": 193868,
+    "revisionId": 4208777
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ characters",
+    "sourceFileName": "yukka__193868.json",
+    "revisionTimestamp": "2024-12-22T19:36:23Z",
+    "fetchedAt": "2026-05-14T15:53:06.619Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ユッカ Yukka) is a character in Pokémon Chamo-Chamo ☆ Pretty ♪ who appeared in CCP05.",
+  "plainText": "(Japanese: ユッカ Yukka) is a character in Pokémon Chamo-Chamo ☆ Pretty ♪ who appeared in CCP05.\n\n==History==\nYukka first appeared in the chapter where he was looking for his after she ran off. and her friends helped Yukka look for his Spinda. They went in a forest and started there first. found a swarm of Spinda. There were too many of them and Yukka held out a photograph so the group can compare which one was his.\n\n found a Spinda sneaking in some bushes and Yukka recognized it as his Spinda. Yukka at first was reluctant to get Spinda back but Torchic's word made Yukka want to get Spinda back. Yukka apologized to his Pokémon and explained to the group the cause behind Spinda running away from her.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ユッカ Yukka) is a character in Pokémon Chamo-Chamo ☆ Pretty ♪ who appeared in CCP05."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Yukka first appeared in the chapter where he was looking for his after she ran off. and her friends helped Yukka look for his Spinda. They went in a forest and started there first. found a swarm of Spinda. There were too many of them and Yukka held out a photograph so the group can compare which one was his.\n\n found a Spinda sneaking in some bushes and Yukka recognized it as his Spinda. Yukka at first was reluctant to get Spinda back but Torchic's word made Yukka want to get Spinda back. Yukka apologized to his Pokémon and explained to the group the cause behind Spinda running away from her."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yukka",
+    "pageType": "character",
+    "searchableText": "Yukka\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ characters\n(Japanese: ユッカ Yukka) is a character in Pokémon Chamo-Chamo ☆ Pretty ♪ who appeared in CCP05.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 718,
+    "sectionCount": 2
+  }
+}

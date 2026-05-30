@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Torom Island",
+    "slug": "torom-island",
+    "pageId": 178225,
+    "revisionId": 4318475
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Decolore Islands",
+    "sourceFileName": "torom-island__178225.json",
+    "revisionTimestamp": "2025-06-11T18:43:32Z",
+    "fetchedAt": "2026-05-14T14:55:07.533Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Torom Island (Japanese: ムトロ島 Mutoro Island) is the fifth island , , and visited during their travels through the Decolore Islands. It was featured in To Catch a Rotom!.\n\nA large settlement borders Torom Island's coastline and extends up several cliffs. The townspeople have built a special appliance playground to prevent the island's unusually high population from scaring people inside their homes. The island's large transmission towers also offer the Rotom a home.\n\nThere, and met up with , who came to the island to catch a Rotom for his thesis. With their help, Professor Oak was able to capture a after defeating .",
+  "plainText": "Torom Island (Japanese: ムトロ島 Mutoro Island) is the fifth island , , and visited during their travels through the Decolore Islands. It was featured in To Catch a Rotom!.\n\nA large settlement borders Torom Island's coastline and extends up several cliffs. The townspeople have built a special appliance playground to prevent the island's unusually high population from scaring people inside their homes. The island's large transmission towers also offer the Rotom a home.\n\nThere, and met up with , who came to the island to catch a Rotom for his thesis. With their help, Professor Oak was able to capture a after defeating .\n\n==Pokémon seen on Torom Island==\n \n\n===Caught Pokémon===\n \n\n==Trivia==\n\"Torom\" is an anagram of both \"motor\" and . ムトロ Mutoro is ロトム Rotom written backwards.\n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n\nde:Rotmot-Insel\nes:Isla Torom/Isla Motorrotom\nit:Isola di Torom\nja:ムトロ島\nzh:姆托洛島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Torom Island (Japanese: ムトロ島 Mutoro Island) is the fifth island , , and visited during their travels through the Decolore Islands. It was featured in To Catch a Rotom!.\n\nA large settlement borders Torom Island's coastline and extends up several cliffs. The townspeople have built a special appliance playground to prevent the island's unusually high population from scaring people inside their homes. The island's large transmission towers also offer the Rotom a home.\n\nThere, and met up with , who came to the island to catch a Rotom for his thesis. With their help, Professor Oak was able to capture a after defeating ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "\"Torom\" is an anagram of both \"motor\" and . ムトロ Mutoro is ロトム Rotom written backwards."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Rotmot-Insel\nes:Isla Torom/Isla Motorrotom\nit:Isola di Torom\nja:ムトロ島\nzh:姆托洛島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Torom Island",
+    "pageType": "general-anime-lore",
+    "searchableText": "Torom Island\nCategory:Decolore Islands\nTorom Island (Japanese: ムトロ島 Mutoro Island) is the fifth island , , and visited during their travels through the Decolore Islands. It was featured in To Catch a Rotom!.\n\nA large settlement borders Torom Island's coastline and extends up several cliffs. The townspeople have built a special appliance playground to prevent the island's unusually high population from scaring people inside their homes. The island's large transmission towers also offer the Rotom a home.\n\nThere, and met up with , who came to the island to catch a Rotom for his thesis. With their help, Professor Oak was able to capture a after defeating .",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 916,
+    "sectionCount": 3
+  }
+}

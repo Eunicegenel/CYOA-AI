@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS38",
+    "slug": "pmrs38",
+    "pageId": 171064,
+    "revisionId": 4264642
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs38__171064.json",
+    "revisionTimestamp": "2025-03-23T18:31:37Z",
+    "fetchedAt": "2026-05-14T15:33:35.744Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Annual Big Cleaning Operation!! (Japanese: 年末大掃除大作戦！！ Year-End Big Cleaning Operation!!) is the thirty-eighth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Annual Big Cleaning Operation!! (Japanese: 年末大掃除大作戦！！ Year-End Big Cleaning Operation!!) is the thirty-eighth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Annual Big Cleaning Operation!! (Japanese: 年末大掃除大作戦！！ Year-End Big Cleaning Operation!!) is the thirty-eighth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS38",
+    "pageType": "chapter",
+    "searchableText": "PMRS38\nCategory:Pokémon Ruby-Sapphire chapters\nAnnual Big Cleaning Operation!! (Japanese: 年末大掃除大作戦！！ Year-End Big Cleaning Operation!!) is the thirty-eighth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 313,
+    "sectionCount": 2
+  }
+}

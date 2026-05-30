@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "KKAB3",
+    "slug": "kkab3",
+    "pageId": 301399,
+    "revisionId": 4527062
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Secrets of the Jungle—Another Beginning chapters",
+    "sourceFileName": "kkab3__301399.json",
+    "revisionTimestamp": "2026-04-09T15:17:43Z",
+    "fetchedAt": "2026-05-14T15:23:36.616Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Koko Starts His Adventure (Japanese: ココ、新たな旅立ちへ Koko, Starting a New Journey) is the third and final chapter of Pokémon the Movie: Secrets of the Jungle—Another Beginning.",
+  "plainText": "Koko Starts His Adventure (Japanese: ココ、新たな旅立ちへ Koko, Starting a New Journey) is the third and final chapter of Pokémon the Movie: Secrets of the Jungle—Another Beginning.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n==Characters==\n===Humans===\n\n===Pokémon===\n(Ash's)\n(Dada; )\n( )\n(multiple)\n\n(multiple)\n\n \n\n \n\nes:MP23-01\nzh:M23M01",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Koko Starts His Adventure (Japanese: ココ、新たな旅立ちへ Koko, Starting a New Journey) is the third and final chapter of Pokémon the Movie: Secrets of the Jungle—Another Beginning."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ash's)\n(Dada; )\n( )\n(multiple)\n\n(multiple)\n\n \n\n \n\nes:MP23-01\nzh:M23M01"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "KKAB3",
+    "pageType": "chapter",
+    "searchableText": "KKAB3\nCategory:Secrets of the Jungle—Another Beginning chapters\nKoko Starts His Adventure (Japanese: ココ、新たな旅立ちへ Koko, Starting a New Journey) is the third and final chapter of Pokémon the Movie: Secrets of the Jungle—Another Beginning.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 353,
+    "sectionCount": 2
+  }
+}

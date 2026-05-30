@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "All That Pikachu!",
+    "slug": "all-that-pikachu",
+    "pageId": 81905,
+    "revisionId": 4208756
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ani-Manga",
+    "sourceFileName": "all-that-pikachu__81905.json",
+    "revisionTimestamp": "2024-12-22T19:19:28Z",
+    "fetchedAt": "2026-05-14T15:12:31.000Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "All That Pikachu! is a graphic novel published by VIZ Media in North America. It is a manga-style book (branded as \"Ani-Manga\" by VIZ) which retells the stories of Pikachu's Vacation and Pikachu's Rescue Adventure using screenshots from both films. Both stories were previously released in the and graphic novels, which were out of print at the time of this book's publication. Hideki Sonoda and Takeshi Shudō are credited as the authors.",
+  "plainText": "All That Pikachu! is a graphic novel published by VIZ Media in North America. It is a manga-style book (branded as \"Ani-Manga\" by VIZ) which retells the stories of Pikachu's Vacation and Pikachu's Rescue Adventure using screenshots from both films. Both stories were previously released in the and graphic novels, which were out of print at the time of this book's publication. Hideki Sonoda and Takeshi Shudō are credited as the authors.\n\n==Publications==\n \n \n\n==Synopsis==\nThe contents of this book are adapted from the Pikachu shorts Pikachu's Vacation and Pikachu's Rescue Adventure. At the end of each chapter are \"Pokédex\" sections with data about the main characters appearing in each story.\n\n===Chapters===\nPikachu's Vacation\nPikachu's Rescue Adventure\n\n==Characters==\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n( )\n\n( )\n( )\n( )\n\n==Trivia==\nof the Ani-Manga was included with the DVD release of Lucario and the Mystery of Mew.\n\n===Errors===\nA blank speech bubble appears on page 12.\n\n \n \n\n \n\nit:All That Pikachu!",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "All That Pikachu! is a graphic novel published by VIZ Media in North America. It is a manga-style book (branded as \"Ani-Manga\" by VIZ) which retells the stories of Pikachu's Vacation and Pikachu's Rescue Adventure using screenshots from both films. Both stories were previously released in the and graphic novels, which were out of print at the time of this book's publication. Hideki Sonoda and Takeshi Shudō are credited as the authors."
+    },
+    {
+      "heading": "Synopsis",
+      "level": 2,
+      "text": "The contents of this book are adapted from the Pikachu shorts Pikachu's Vacation and Pikachu's Rescue Adventure. At the end of each chapter are \"Pokédex\" sections with data about the main characters appearing in each story."
+    },
+    {
+      "heading": "Chapters",
+      "level": 3,
+      "text": "Pikachu's Vacation\nPikachu's Rescue Adventure"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )\n\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "of the Ani-Manga was included with the DVD release of Lucario and the Mystery of Mew."
+    },
+    {
+      "heading": "Errors",
+      "level": 3,
+      "text": "A blank speech bubble appears on page 12.\n\n \n \n\n \n\nit:All That Pikachu!"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "All That Pikachu!",
+    "pageType": "manga-series",
+    "searchableText": "All That Pikachu!\nCategory:Ani-Manga\nAll That Pikachu! is a graphic novel published by VIZ Media in North America. It is a manga-style book (branded as \"Ani-Manga\" by VIZ) which retells the stories of Pikachu's Vacation and Pikachu's Rescue Adventure using screenshots from both films. Both stories were previously released in the and graphic novels, which were out of print at the time of this book's publication. Hideki Sonoda and Takeshi Shudō are credited as the authors.",
+    "sectionHeadings": [
+      "Lead",
+      "Synopsis",
+      "Chapters",
+      "Pokémon",
+      "Trivia",
+      "Errors"
+    ],
+    "characterCount": 1011,
+    "sectionCount": 6
+  }
+}

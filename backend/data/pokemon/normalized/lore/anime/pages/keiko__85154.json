@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Keiko",
+    "slug": "keiko",
+    "pageId": 85154,
+    "revisionId": 4095148
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "keiko__85154.json",
+    "revisionTimestamp": "2024-09-01T00:16:55Z",
+    "fetchedAt": "2026-05-14T14:28:58.618Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ケイコ Keiko) is a character of the day who appeared in Hassle In The Castle. She is a nurse that works at the castle clinic run by Dr. Anna which uses Pokémon to treat medical issues in humans such as muscle pain and wounds.\n\nKeiko escorted and to the castle maze's only exit located in the nearby forest, after and Dr. Anna fell into the strange maze below Dr. Anna's clinic.",
+  "plainText": "(Japanese: ケイコ Keiko) is a character of the day who appeared in Hassle In The Castle. She is a nurse that works at the castle clinic run by Dr. Anna which uses Pokémon to treat medical issues in humans such as muscle pain and wounds.\n\nKeiko escorted and to the castle maze's only exit located in the nearby forest, after and Dr. Anna fell into the strange maze below Dr. Anna's clinic.\n\n==Voice actors==\n \n \n \n\n \n \n \n\nes:Keiko\nit:Keiko",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ケイコ Keiko) is a character of the day who appeared in Hassle In The Castle. She is a nurse that works at the castle clinic run by Dr. Anna which uses Pokémon to treat medical issues in humans such as muscle pain and wounds.\n\nKeiko escorted and to the castle maze's only exit located in the nearby forest, after and Dr. Anna fell into the strange maze below Dr. Anna's clinic."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Keiko\nit:Keiko"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Keiko",
+    "pageType": "character",
+    "searchableText": "Keiko\nCategory:Johto characters of the day\n(Japanese: ケイコ Keiko) is a character of the day who appeared in Hassle In The Castle. She is a nurse that works at the castle clinic run by Dr. Anna which uses Pokémon to treat medical issues in humans such as muscle pain and wounds.\n\nKeiko escorted and to the castle maze's only exit located in the nearby forest, after and Dr. Anna fell into the strange maze below Dr. Anna's clinic.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 435,
+    "sectionCount": 2
+  }
+}

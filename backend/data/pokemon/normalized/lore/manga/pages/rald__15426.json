@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Rald",
+    "slug": "rald",
+    "pageId": 15426,
+    "revisionId": 4131373
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battle Frontier characters",
+    "sourceFileName": "rald__15426.json",
+    "revisionTimestamp": "2024-09-29T04:18:03Z",
+    "fetchedAt": "2026-05-14T15:47:12.005Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n \n\nRald (Japanese: ラルド Rald) is an experienced young Pokémon Trainer who appeared in Pokémon Battle Frontier.",
+  "plainText": "----\n \n\nRald (Japanese: ラルド Rald) is an experienced young Pokémon Trainer who appeared in Pokémon Battle Frontier.\n\n==History==\n \nRald first appears in Enta Arrives at the Battle Frontier! when notices his . He meets Enta and ends up becoming the energetic young boy's teacher, but refuses to go easy on him in s. He tells Enta to participate in the Multi Battle challenge in which Enta does. Rald witnesses this and has a practice battle with Enta using his Gyarados. The next day, Scott reveals to Enta that Rald was a who made it in the Hall of Fame.\n\nIn Battle Between Student and Master!, Rald goes to the Battle Dome where he battles . Rald manages to defeat him without any of his Pokémon taking damage. Later, he becomes Enta's opponent. They fight extremely hard and they are left with Sceptile and Vulpix respectively. Sceptile manages to survive the battle despite having a type-disadvantage. During the battle, Rald wins by forfeit as Enta did not want to see his Vulpix get hurt. In Introducing the Frontier Brains, it is revealed that Rald lost a match with one of the Frontier Brains which motivated Enta to find the one who was responsible for this. In Final Battle: Versus The Salon Maiden, Rald has one last battle with Enta before Enta challenges Anabel as his last Frontier challenge. Rald comes out on the top, but rewards Enta with a Fire Stone for his Vulpix. Rald was last seen when he waves Enta goodbye, promising the young Trainer that he will battle him again one day.\n\n==Character==\nIn contrast to Enta, Rald is calm and collected. He doesn't take Enta's headbutting habit too seriously and moves away every time Enta tries it. As Enta's teacher, Rald would give advice whenever Enta has trouble with something or doesn't know what to do.\n\n==Pokémon==\nThis listing is of Rald's known Pokémon in the manga:\n \n\n \n\n \n\n \n\n==Trivia==\nRald is based on and his name is a shortening of \"Emerald\". \"Rald\" is also one of the default names for Brendan in the Japanese version of .\n\n==Related articles==\n \n \n\n \n \n\nes:Rald\nzh:拉特",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \n\nRald (Japanese: ラルド Rald) is an experienced young Pokémon Trainer who appeared in Pokémon Battle Frontier."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Rald first appears in Enta Arrives at the Battle Frontier! when notices his . He meets Enta and ends up becoming the energetic young boy's teacher, but refuses to go easy on him in s. He tells Enta to participate in the Multi Battle challenge in which Enta does. Rald witnesses this and has a practice battle with Enta using his Gyarados. The next day, Scott reveals to Enta that Rald was a who made it in the Hall of Fame.\n\nIn Battle Between Student and Master!, Rald goes to the Battle Dome where he battles . Rald manages to defeat him without any of his Pokémon taking damage. Later, he becomes Enta's opponent. They fight extremely hard and they are left with Sceptile and Vulpix respectively. Sceptile manages to survive the battle despite having a type-disadvantage. During the battle, Rald wins by forfeit as Enta did not want to see his Vulpix get hurt. In Introducing the Frontier Brains, it is revealed that Rald lost a match with one of the Frontier Brains which motivated Enta to find the one who was responsible for this. In Final Battle: Versus The Salon Maiden, Rald has one last battle with Enta before Enta challenges Anabel as his last Frontier challenge. Rald comes out on the top, but rewards Enta with a Fire Stone for his Vulpix. Rald was last seen when he waves Enta goodbye, promising the young Trainer that he will battle him again one day."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "In contrast to Enta, Rald is calm and collected. He doesn't take Enta's headbutting habit too seriously and moves away every time Enta tries it. As Enta's teacher, Rald would give advice whenever Enta has trouble with something or doesn't know what to do."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Rald's known Pokémon in the manga:"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Rald is based on and his name is a shortening of \"Emerald\". \"Rald\" is also one of the default names for Brendan in the Japanese version of ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Rald\nzh:拉特"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rald",
+    "pageType": "character",
+    "searchableText": "Rald\nCategory:Pokémon Battle Frontier characters\n----\n \n\nRald (Japanese: ラルド Rald) is an experienced young Pokémon Trainer who appeared in Pokémon Battle Frontier.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Pokémon",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 2044,
+    "sectionCount": 6
+  }
+}

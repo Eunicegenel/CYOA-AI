@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Sandy's Raichu",
+    "slug": "sandys-raichu",
+    "pageId": 57786,
+    "revisionId": 4132704
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ghosts",
+    "sourceFileName": "sandys-raichu__57786.json",
+    "revisionTimestamp": "2024-09-29T05:26:02Z",
+    "fetchedAt": "2026-05-14T14:48:17.826Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Sandy's Raichu (Japanese: ナギサのライチュウ Nagisa's Raichu) is a ghost Pokémon owned by , likewise a ghost, in Magical Pokémon Journey.",
+  "plainText": "Sandy's Raichu (Japanese: ナギサのライチュウ Nagisa's Raichu) is a ghost Pokémon owned by , likewise a ghost, in Magical Pokémon Journey.\n\n==History==\nRaichu was friends with Sandy 150 years ago when they were both alive. He had a tendency to shock people, and after a particularly nasty incident Sandy's parents left him in a box by the ocean. Sandy promised to meet him there, but they were both killed by a tidal wave before they could meet.\n\nRaichu then became a ghost and, because he thought Sandy had abandoned him, became quite bitter and belligerent. It wasn't until Pikachu and his friends stepped in to help that Raichu understood what really happened and reconciled with Sandy. He and Sandy then departed to the afterlife.\n \nRaichu and Sandy appear again when Eevee gets possessed by a Golduck ghost. They are shown not to have crossed over to the afterlife yet, remaining still in limbo. They then help Eevee regain control of his body.\n\nLater he and Sandy appear, reincarnated as a little girl and . They meet and become friends once again.\n\n==Related articles==\n \n\n \n \n \n \n \n\n \n \n \n \n \n\nit:Raichu di Sandy",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sandy's Raichu (Japanese: ナギサのライチュウ Nagisa's Raichu) is a ghost Pokémon owned by , likewise a ghost, in Magical Pokémon Journey."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Raichu was friends with Sandy 150 years ago when they were both alive. He had a tendency to shock people, and after a particularly nasty incident Sandy's parents left him in a box by the ocean. Sandy promised to meet him there, but they were both killed by a tidal wave before they could meet.\n\nRaichu then became a ghost and, because he thought Sandy had abandoned him, became quite bitter and belligerent. It wasn't until Pikachu and his friends stepped in to help that Raichu understood what really happened and reconciled with Sandy. He and Sandy then departed to the afterlife.\n \nRaichu and Sandy appear again when Eevee gets possessed by a Golduck ghost. They are shown not to have crossed over to the afterlife yet, remaining still in limbo. They then help Eevee regain control of his body.\n\nLater he and Sandy appear, reincarnated as a little girl and . They meet and become friends once again."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Raichu di Sandy"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sandy's Raichu",
+    "pageType": "general-anime-lore",
+    "searchableText": "Sandy's Raichu\nCategory:Ghosts\nSandy's Raichu (Japanese: ナギサのライチュウ Nagisa's Raichu) is a ghost Pokémon owned by , likewise a ghost, in Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1110,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "ABM06",
+    "slug": "abm06",
+    "pageId": 191808,
+    "revisionId": 4526879
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abm06__191808.json",
+    "revisionTimestamp": "2026-04-09T15:10:34Z",
+    "fetchedAt": "2026-05-14T15:12:09.246Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 開催！バトリオマスターカップ！！ Begin! Battrio Master Cup!!) is the sixth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: 開催！バトリオマスターカップ！！ Begin! Battrio Master Cup!!) is the sixth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 開催！バトリオマスターカップ！！ Begin! Battrio Master Cup!!) is the sixth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABM06",
+    "pageType": "chapter",
+    "searchableText": "ABM06\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: 開催！バトリオマスターカップ！！ Begin! Battrio Master Cup!!) is the sixth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 244,
+    "sectionCount": 1
+  }
+}

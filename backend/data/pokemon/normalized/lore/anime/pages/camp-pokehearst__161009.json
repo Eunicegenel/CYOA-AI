@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Camp Pokéhearst",
+    "slug": "camp-pokehearst",
+    "pageId": 161009,
+    "revisionId": 4261129
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "camp-pokehearst__161009.json",
+    "revisionTimestamp": "2025-03-19T21:50:30Z",
+    "fetchedAt": "2026-05-14T14:08:21.640Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Camp Pokéhearst is an -exclusive location in the Kanto region that appeared in Go West Young Meowth. It is located east of Hollywood. It was unnamed in the Japanese version.\n\nThere is a baseball pitch where the campers practice. The campsite has a projector and large sheet, allowing them to show outdoor movies to the campers.\n \n 's earliest memory is waking up alone in the rain in a basket here. He was all alone, and was so hungry that he tried to eat a basket of baseballs. He ended up just knocking it over, causing the baseball coach to string him up from a tree as punishment. From this position, that evening he was able to watch the movie , which was being shown as a special treat for the campers, direct from Hollywood. He then grabbed onto the next truck heading towards Hollywood.",
+  "plainText": "Camp Pokéhearst is an -exclusive location in the Kanto region that appeared in Go West Young Meowth. It is located east of Hollywood. It was unnamed in the Japanese version.\n\nThere is a baseball pitch where the campers practice. The campsite has a projector and large sheet, allowing them to show outdoor movies to the campers.\n \n 's earliest memory is waking up alone in the rain in a basket here. He was all alone, and was so hungry that he tried to eat a basket of baseballs. He ended up just knocking it over, causing the baseball coach to string him up from a tree as punishment. From this position, that evening he was able to watch the movie , which was being shown as a special treat for the campers, direct from Hollywood. He then grabbed onto the next truck heading towards Hollywood.\n\n \n==Related articles==\n \n \n\nit:Campo Pokéhearst\nzh:宝可梦露营学校",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Camp Pokéhearst is an -exclusive location in the Kanto region that appeared in Go West Young Meowth. It is located east of Hollywood. It was unnamed in the Japanese version.\n\nThere is a baseball pitch where the campers practice. The campsite has a projector and large sheet, allowing them to show outdoor movies to the campers.\n \n 's earliest memory is waking up alone in the rain in a basket here. He was all alone, and was so hungry that he tried to eat a basket of baseballs. He ended up just knocking it over, causing the baseball coach to string him up from a tree as punishment. From this position, that evening he was able to watch the movie , which was being shown as a special treat for the campers, direct from Hollywood. He then grabbed onto the next truck heading towards Hollywood."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Campo Pokéhearst\nzh:宝可梦露营学校"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Camp Pokéhearst",
+    "pageType": "location",
+    "searchableText": "Camp Pokéhearst\nCategory:Animated series-exclusive locations\nCamp Pokéhearst is an -exclusive location in the Kanto region that appeared in Go West Young Meowth. It is located east of Hollywood. It was unnamed in the Japanese version.\n\nThere is a baseball pitch where the campers practice. The campsite has a projector and large sheet, allowing them to show outdoor movies to the campers.\n \n 's earliest memory is waking up alone in the rain in a basket here. He was all alone, and was so hungry that he tried to eat a basket of baseballs. He ended up just knocking it over, causing the baseball coach to string him up from a tree as punishment. From this position, that evening he was able to watch the movie , which was being shown as a special treat for the campers, direct from Hollywood. He then grabbed onto the next truck heading towards Hollywood.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 854,
+    "sectionCount": 2
+  }
+}

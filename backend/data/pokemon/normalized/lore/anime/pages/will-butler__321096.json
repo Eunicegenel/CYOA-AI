@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Will Butler",
+    "slug": "will-butler",
+    "pageId": 321096,
+    "revisionId": 4544029
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "will-butler__321096.json",
+    "revisionTimestamp": "2026-05-04T06:00:04Z",
+    "fetchedAt": "2026-05-14T14:57:46.362Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Will Butler (Japanese: ウィル・バトラー Will Butler) is the Chief of the Pokémon Protection Bureau in Detective Pikachu Returns.",
+  "plainText": "Will Butler (Japanese: ウィル・バトラー Will Butler) is the Chief of the Pokémon Protection Bureau in Detective Pikachu Returns. \n\n==In the games==\n===Detective Pikachu Returns===\n \nWill Butler is first seen providing security for the ceremony to commemorate the efforts of Tim Goodman and . When the ceremony is interrupted by a rampaging , Tim and Pikachu meet Butler who unsuccessfully tries to get to heal a which appears unconscious, only for Tim and Pikachu to find out that the Pidove is simply napping. \n\nButler introduces himself as the Chief of the Pokémon Protection Bureau, which was formed two years ago in response to the R incident. He claims that this was created to help protect Pokémon due to a concerning rise in incidents and accidents. When the Corviknight flies past again, he runs off to track down the Corviknight. \n\nLater, when Pikachu is arrested as the possible suspect for damaging a statue in Fountain Plaza, Chief Butler explains the situation to a worried Tim. While detained at the police station, Pikachu secretly enters Butler's office and finds documents that reveal Butler is being paid by an organization called Unitas to wrongfully capture and transfer Pokémon to another location. Pikachu determines that Butler has been controlling using Control Cubes to transform into other Pokémon and create fake incidents to arrest many Pokémon. While still in the office, Chief Butler enters the room with Charles Merloch, and Pikachu eavesdrops on their conversation which further incriminates Butler. This conversation also reveals that Butler provided information about the Aurora Drop which allowed for its successful theft by Unitas. \n\nUsing this information, Tim confronts Butler at the police station the next day. With escalating evidence of his wrongdoing, Butler admits to his involvement and Brad McMaster arrests Butler for questioning. The following day's newspaper reveals that Butler was stood down from his position due to misconduct. \n\n===Personality and characteristics===\nAs the Chief of the Pokémon Protection Bureau, Will Butler initially intended to work for the cause of the coexistence of humans and Pokémon, but was easily tempted by the money offered to wrongfully capture Pokémon. \n \n\n===Voice actors===\n \n\n==Gallery==\n===Artwork===\n \n \n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Will Butler (Japanese: ウィル・バトラー Will Butler) is the Chief of the Pokémon Protection Bureau in Detective Pikachu Returns."
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Will Butler is first seen providing security for the ceremony to commemorate the efforts of Tim Goodman and . When the ceremony is interrupted by a rampaging , Tim and Pikachu meet Butler who unsuccessfully tries to get to heal a which appears unconscious, only for Tim and Pikachu to find out that the Pidove is simply napping. \n\nButler introduces himself as the Chief of the Pokémon Protection Bureau, which was formed two years ago in response to the R incident. He claims that this was created to help protect Pokémon due to a concerning rise in incidents and accidents. When the Corviknight flies past again, he runs off to track down the Corviknight. \n\nLater, when Pikachu is arrested as the possible suspect for damaging a statue in Fountain Plaza, Chief Butler explains the situation to a worried Tim. While detained at the police station, Pikachu secretly enters Butler's office and finds documents that reveal Butler is being paid by an organization called Unitas to wrongfully capture and transfer Pokémon to another location. Pikachu determines that Butler has been controlling using Control Cubes to transform into other Pokémon and create fake incidents to arrest many Pokémon. While still in the office, Chief Butler enters the room with Charles Merloch, and Pikachu eavesdrops on their conversation which further incriminates Butler. This conversation also reveals that Butler provided information about the Aurora Drop which allowed for its successful theft by Unitas. \n\nUsing this information, Tim confronts Butler at the police station the next day. With escalating evidence of his wrongdoing, Butler admits to his involvement and Brad McMaster arrests Butler for questioning. The following day's newspaper reveals that Butler was stood down from his position due to misconduct."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "As the Chief of the Pokémon Protection Bureau, Will Butler initially intended to work for the cause of the coexistence of humans and Pokémon, but was easily tempted by the money offered to wrongfully capture Pokémon."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Will Butler",
+    "pageType": "character",
+    "searchableText": "Will Butler\nCategory:Detective Pikachu Returns characters\nWill Butler (Japanese: ウィル・バトラー Will Butler) is the Chief of the Pokémon Protection Bureau in Detective Pikachu Returns.",
+    "sectionHeadings": [
+      "Lead",
+      "Detective Pikachu Returns",
+      "Personality and characteristics"
+    ],
+    "characterCount": 2332,
+    "sectionCount": 3
+  }
+}

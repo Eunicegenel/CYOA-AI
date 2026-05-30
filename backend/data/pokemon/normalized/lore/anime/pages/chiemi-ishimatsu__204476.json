@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Chiemi Ishimatsu",
+    "slug": "chiemi-ishimatsu",
+    "pageId": 204476,
+    "revisionId": 4527089
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "chiemi-ishimatsu__204476.json",
+    "revisionTimestamp": "2026-04-09T15:19:16Z",
+    "fetchedAt": "2026-05-14T14:09:29.151Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Chiemi Ishimatsu (Japanese: 石松千恵美 Ishimatsu Chiemi) is a Japanese voice actress for .",
+  "plainText": "Chiemi Ishimatsu (Japanese: 石松千恵美 Ishimatsu Chiemi) is a Japanese voice actress for .\n\n==Biography==\nIshimatsu was born on May 5, 1976 in , , and became a voice actress as an adult. She started her work in the during the beginning of ' , voicing the Officer Jennys of Kalos. Ishimatsu is currently affiliated with the talent agency Ken Production.\n\n==Pokémon roles==\n===Animation===\n==== ====\nOfficer Jenny (Kalos)\n\n==Other non-Pokémon roles==\nYasuko Sugimoto ( )\nHazuki Shinonome ( )\n\n==External links==\nKen Production profile\n\n \n \n\n \nja:石松千恵美",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chiemi Ishimatsu (Japanese: 石松千恵美 Ishimatsu Chiemi) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Ishimatsu was born on May 5, 1976 in , , and became a voice actress as an adult. She started her work in the during the beginning of ' , voicing the Officer Jennys of Kalos. Ishimatsu is currently affiliated with the talent agency Ken Production."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Officer Jenny (Kalos)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Yasuko Sugimoto ( )\nHazuki Shinonome ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Ken Production profile\n\n \n \n\n \nja:石松千恵美"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Chiemi Ishimatsu",
+    "pageType": "general-anime-lore",
+    "searchableText": "Chiemi Ishimatsu\nCategory:Japanese voice actors\nChiemi Ishimatsu (Japanese: 石松千恵美 Ishimatsu Chiemi) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 544,
+    "sectionCount": 5
+  }
+}

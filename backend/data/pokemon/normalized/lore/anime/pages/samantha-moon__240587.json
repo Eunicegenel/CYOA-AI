@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Samantha Moon",
+    "slug": "samantha-moon",
+    "pageId": 240587,
+    "revisionId": 4191212
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "samantha-moon__240587.json",
+    "revisionTimestamp": "2024-11-24T01:54:30Z",
+    "fetchedAt": "2026-05-14T14:48:09.694Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Samantha Moon is a voice actress for the English-language dub of .",
+  "plainText": "Samantha Moon is a voice actress for the English-language dub of .\n\n==Biography==\nLittle is known about Moon's life, other than she became a voice actress as an adult. She joined the during , where she voiced several minor characters. She gained her most notable role during where she voiced Officer Jenny. Moon eventually left the series with her role of Officer Jenny going to Martha Harms.\n\n==Pokémon roles==\n===Animation===\n==== ====\nOfficer Jenny (SM009-SM039)\nElma\nFemale Doctor (XY112)\nLilia\n\n==Other non-Pokémon roles==\nQueen Canaby, Mao, Gichan, Lyla (Flowering Heart)\n\n \n \n \n \n\nit:Samantha Moon",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Samantha Moon is a voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Little is known about Moon's life, other than she became a voice actress as an adult. She joined the during , where she voiced several minor characters. She gained her most notable role during where she voiced Officer Jenny. Moon eventually left the series with her role of Officer Jenny going to Martha Harms."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Officer Jenny (SM009-SM039)\nElma\nFemale Doctor (XY112)\nLilia"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Queen Canaby, Mao, Gichan, Lyla (Flowering Heart)\n\n \n \n \n \n\nit:Samantha Moon"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Samantha Moon",
+    "pageType": "general-anime-lore",
+    "searchableText": "Samantha Moon\nCategory:TPCi voice actors\nSamantha Moon is a voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 604,
+    "sectionCount": 4
+  }
+}

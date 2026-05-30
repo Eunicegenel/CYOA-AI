@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "ET14",
+    "slug": "et14",
+    "pageId": 120112,
+    "revisionId": 4526503
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu chapters",
+    "sourceFileName": "et14__120112.json",
+    "revisionTimestamp": "2026-04-09T14:52:09Z",
+    "fetchedAt": "2026-05-14T15:18:28.997Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Orange Islands (Japanese: オレンジ諸島 Orange Islands) is the fourteenth chapter of the manga The Electric Tale of Pikachu. It is based on the events of the episode The Lost Lapras.",
+  "plainText": "The Orange Islands (Japanese: オレンジ諸島 Orange Islands) is the fourteenth chapter of the manga The Electric Tale of Pikachu. It is based on the events of the episode The Lost Lapras.\n\n==Plot==\n \n\n==Major events==\narrives in the Orange Islands. \nAsh catches a .\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nThree punks\n\n===Pokémon===\n(Ash's)\n( )\n( ; new)\n(punk #1's)\n(punk #2's)\n(punk #3's)\n\n(multiple)\n\n==Trivia==\n\n \n \n\n \n\nes:ETP15\nit:ET14",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Orange Islands (Japanese: オレンジ諸島 Orange Islands) is the fourteenth chapter of the manga The Electric Tale of Pikachu. It is based on the events of the episode The Lost Lapras."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "arrives in the Orange Islands. \nAsh catches a ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Three punks"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ash's)\n( )\n( ; new)\n(punk #1's)\n(punk #2's)\n(punk #3's)\n\n(multiple)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "es:ETP15\nit:ET14"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ET14",
+    "pageType": "chapter",
+    "searchableText": "ET14\nCategory:Electric Tale of Pikachu chapters\nThe Orange Islands (Japanese: オレンジ諸島 Orange Islands) is the fourteenth chapter of the manga The Electric Tale of Pikachu. It is based on the events of the episode The Lost Lapras.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 459,
+    "sectionCount": 5
+  }
+}

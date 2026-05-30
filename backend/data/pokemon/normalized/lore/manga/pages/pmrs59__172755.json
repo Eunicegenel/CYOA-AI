@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS59",
+    "slug": "pmrs59",
+    "pageId": 172755,
+    "revisionId": 4264663
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs59__172755.json",
+    "revisionTimestamp": "2025-03-23T18:34:46Z",
+    "fetchedAt": "2026-05-14T15:33:49.549Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Enter The World Of Sumo! (Japanese: 相撲界に大乱入！！ Bursting into the World of Sumo!!) is the fifty-ninth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Enter The World Of Sumo! (Japanese: 相撲界に大乱入！！ Bursting into the World of Sumo!!) is the fifty-ninth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Enter The World Of Sumo! (Japanese: 相撲界に大乱入！！ Bursting into the World of Sumo!!) is the fifty-ninth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS59",
+    "pageType": "chapter",
+    "searchableText": "PMRS59\nCategory:Pokémon Ruby-Sapphire chapters\nEnter The World Of Sumo! (Japanese: 相撲界に大乱入！！ Bursting into the World of Sumo!!) is the fifty-ninth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 267,
+    "sectionCount": 2
+  }
+}

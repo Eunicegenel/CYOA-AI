@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Sunnytown",
+    "slug": "sunnytown",
+    "pageId": 28258,
+    "revisionId": 4261043
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "sunnytown__28258.json",
+    "revisionTimestamp": "2025-03-19T21:49:31Z",
+    "fetchedAt": "2026-05-14T14:52:41.936Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Sunnytown (Japanese: サニータウン Sunny Town) is an -exclusive location at the end of the Cycling Road in Kanto. It appeared in The Bridge Bike Gang.\n\nAsh and tried to cross the bridge as a shortcut to Sunnytown but were stopped because Bicycles are needed to travel across the bridge as the footpath was not yet completed. Later, Nurse Joy asked the group to deliver medicine to Sunnytown's Pokémon Center to save a sick . She also lent the group some bikes for the crossing.\n\nAsh and his friends soon encountered into a bicycle gang led by Chopper and Tyra, who were stopping them from crossing. 's Jessie and James arrived, revealing that they once were bicycle gang members, and ordered Chopper and the others to attack the group. However, the bicycle gang learned that Ash and his friends were on their way to help a sick Pokémon, so they helped the group cross the bridge to save Shellder and deliver the medicine in time.",
+  "plainText": "Sunnytown (Japanese: サニータウン Sunny Town) is an -exclusive location at the end of the Cycling Road in Kanto. It appeared in The Bridge Bike Gang.\n\nAsh and tried to cross the bridge as a shortcut to Sunnytown but were stopped because Bicycles are needed to travel across the bridge as the footpath was not yet completed. Later, Nurse Joy asked the group to deliver medicine to Sunnytown's Pokémon Center to save a sick . She also lent the group some bikes for the crossing.\n\nAsh and his friends soon encountered into a bicycle gang led by Chopper and Tyra, who were stopping them from crossing. 's Jessie and James arrived, revealing that they once were bicycle gang members, and ordered Chopper and the others to attack the group. However, the bicycle gang learned that Ash and his friends were on their way to help a sick Pokémon, so they helped the group cross the bridge to save Shellder and deliver the medicine in time.\n\n==In other languages==\n \n \n \n \n\n \n\nde:Sunny Town\nes:Ciudad Soleada\nfr:Soleilville\nit:Sunny Town\nzh:陽光鎮（關都）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sunnytown (Japanese: サニータウン Sunny Town) is an -exclusive location at the end of the Cycling Road in Kanto. It appeared in The Bridge Bike Gang.\n\nAsh and tried to cross the bridge as a shortcut to Sunnytown but were stopped because Bicycles are needed to travel across the bridge as the footpath was not yet completed. Later, Nurse Joy asked the group to deliver medicine to Sunnytown's Pokémon Center to save a sick . She also lent the group some bikes for the crossing.\n\nAsh and his friends soon encountered into a bicycle gang led by Chopper and Tyra, who were stopping them from crossing. 's Jessie and James arrived, revealing that they once were bicycle gang members, and ordered Chopper and the others to attack the group. However, the bicycle gang learned that Ash and his friends were on their way to help a sick Pokémon, so they helped the group cross the bridge to save Shellder and deliver the medicine in time."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Sunny Town\nes:Ciudad Soleada\nfr:Soleilville\nit:Sunny Town\nzh:陽光鎮（關都）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sunnytown",
+    "pageType": "location",
+    "searchableText": "Sunnytown\nCategory:Animated series-exclusive locations\nSunnytown (Japanese: サニータウン Sunny Town) is an -exclusive location at the end of the Cycling Road in Kanto. It appeared in The Bridge Bike Gang.\n\nAsh and tried to cross the bridge as a shortcut to Sunnytown but were stopped because Bicycles are needed to travel across the bridge as the footpath was not yet completed. Later, Nurse Joy asked the group to deliver medicine to Sunnytown's Pokémon Center to save a sick . She also lent the group some bikes for the crossing.\n\nAsh and his friends soon encountered into a bicycle gang led by Chopper and Tyra, who were stopping them from crossing. 's Jessie and James arrived, revealing that they once were bicycle gang members, and ordered Chopper and the others to attack the group. However, the bicycle gang learned that Ash and his friends were on their way to help a sick Pokémon, so they helped the group cross the bridge to save Shellder and deliver the medicine in time.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 1030,
+    "sectionCount": 2
+  }
+}

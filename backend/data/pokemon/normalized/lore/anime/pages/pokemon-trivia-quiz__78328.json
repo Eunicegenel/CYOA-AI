@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Trivia Quiz",
+    "slug": "pokemon-trivia-quiz",
+    "pageId": 78328,
+    "revisionId": 4498580
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series segments",
+    "sourceFileName": "pokemon-trivia-quiz__78328.json",
+    "revisionTimestamp": "2026-03-02T15:05:42Z",
+    "fetchedAt": "2026-05-14T14:43:53.892Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The Pokémon Trivia Quiz (Japanese: ポケモントリビアクイズ Pokémon Trivia Quiz) is a segment featured at the end of some episodes in Japan. The segment, for the most part, replaced Professor Oak's Pokémon Lecture. However, held special lectures about the Grand Festival, the Hoenn League, and upcoming s during this time, as well as an ordinary lecture about a . The segment debuted in AG105 and ended in AG192, and was succeeded by Professor Oak's Big Pokémon Encyclopedia.\n\nThe segment consists of minigames, one for each episode in which Pokémon Trivia Quiz is featured in, about the animated series and individual Pokémon species. Before the series format change accompanying AG146, the quizzes focused exclusively on questions that are quite difficult to understand without basic knowledge of the Japanese language and Japanese Pokémon names, involving plays on words. Afterward, various other types of quizzes were featured as well.\n\nThe hosts for the segment rotated among , , , Max, and Oak. and appeared in the background, while and cheered the viewer on.",
+  "plainText": "The Pokémon Trivia Quiz (Japanese: ポケモントリビアクイズ Pokémon Trivia Quiz) is a segment featured at the end of some episodes in Japan. The segment, for the most part, replaced Professor Oak's Pokémon Lecture. However, held special lectures about the Grand Festival, the Hoenn League, and upcoming s during this time, as well as an ordinary lecture about a . The segment debuted in AG105 and ended in AG192, and was succeeded by Professor Oak's Big Pokémon Encyclopedia.\n\nThe segment consists of minigames, one for each episode in which Pokémon Trivia Quiz is featured in, about the animated series and individual Pokémon species. Before the series format change accompanying AG146, the quizzes focused exclusively on questions that are quite difficult to understand without basic knowledge of the Japanese language and Japanese Pokémon names, involving plays on words. Afterward, various other types of quizzes were featured as well.\n\nThe hosts for the segment rotated among , , , Max, and Oak. and appeared in the background, while and cheered the viewer on.\n\n==Types of Pokémon Trivia Quizzes==\nVarious kinds of puzzles were featured on this segment and each one had its own set of rules.\n \n\n==List of Pokémon Trivia Quizzes==\n \n \n\n==Related articles==\n \n\n \n\n \n\nzh:宝可梦益智问答",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Pokémon Trivia Quiz (Japanese: ポケモントリビアクイズ Pokémon Trivia Quiz) is a segment featured at the end of some episodes in Japan. The segment, for the most part, replaced Professor Oak's Pokémon Lecture. However, held special lectures about the Grand Festival, the Hoenn League, and upcoming s during this time, as well as an ordinary lecture about a . The segment debuted in AG105 and ended in AG192, and was succeeded by Professor Oak's Big Pokémon Encyclopedia.\n\nThe segment consists of minigames, one for each episode in which Pokémon Trivia Quiz is featured in, about the animated series and individual Pokémon species. Before the series format change accompanying AG146, the quizzes focused exclusively on questions that are quite difficult to understand without basic knowledge of the Japanese language and Japanese Pokémon names, involving plays on words. Afterward, various other types of quizzes were featured as well.\n\nThe hosts for the segment rotated among , , , Max, and Oak. and appeared in the background, while and cheered the viewer on."
+    },
+    {
+      "heading": "Types of Pokémon Trivia Quizzes",
+      "level": 2,
+      "text": "Various kinds of puzzles were featured on this segment and each one had its own set of rules."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "zh:宝可梦益智问答"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Trivia Quiz",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Trivia Quiz\nCategory:Animated series segments\nThe Pokémon Trivia Quiz (Japanese: ポケモントリビアクイズ Pokémon Trivia Quiz) is a segment featured at the end of some episodes in Japan. The segment, for the most part, replaced Professor Oak's Pokémon Lecture. However, held special lectures about the Grand Festival, the Hoenn League, and upcoming s during this time, as well as an ordinary lecture about a . The segment debuted in AG105 and ended in AG192, and was succeeded by Professor Oak's Big Pokémon Encyclopedia.\n\nThe segment consists of minigames, one for each episode in which Pokémon Trivia Quiz is featured in, about the animated series and individual Pokémon species. Before the series format change accompanying AG146, the quizzes focused exclusively on questions that are quite difficult to understand without basic knowledge of the Japanese language and Japanese Pokémon names, involving plays on words. Afterward, various other types of quizzes were featured as well.\n\nThe hosts for the segment rotated among , , , Max, and Oak. and appeared in the background, while and cheered the viewer on.",
+    "sectionHeadings": [
+      "Lead",
+      "Types of Pokémon Trivia Quizzes",
+      "Related articles"
+    ],
+    "characterCount": 1267,
+    "sectionCount": 3
+  }
+}

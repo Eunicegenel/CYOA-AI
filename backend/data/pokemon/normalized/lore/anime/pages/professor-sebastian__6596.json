@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Professor Sebastian",
+    "slug": "professor-sebastian",
+    "pageId": 6596,
+    "revisionId": 4487246
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:The Legend of Thunder characters",
+    "sourceFileName": "professor-sebastian__6596.json",
+    "revisionTimestamp": "2026-02-16T01:45:19Z",
+    "fetchedAt": "2026-05-14T14:44:55.862Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Professor Sebastian (Japanese: シラヌイ博士 Dr. Shiranui) is a recurring character in the Pokémon animated series. He is a Team Rocket scientist.",
+  "plainText": "Professor Sebastian (Japanese: シラヌイ博士 Dr. Shiranui) is a recurring character in the Pokémon animated series. He is a Team Rocket scientist. \n\n==History==\n===The Legend of Thunder!===\nProfessor Sebastian gave Attila and Hun the Miracle Crystal weapon, which could attract, absorb and reflect electricity, to aid them in capturing . \n\n=== ===\nProfessor Sebastian was the mastermind behind Team Rocket's scheme, Project R. He had designed the Evolution-Inducement Wave which causes one of Lake of Rage to evolve into a . He succeeded in capturing the rare specimen for further study in Talkin' 'Bout an Evolution. Professor Sebastian later transported the Red Gyarados to a secret meeting point near Mahogany Town in Rage of Innocence. While he left aboard a helicopter without any disruptions, Project R was later foiled. His main support, , was intercepted by and arrested by Officer Jenny. The Red Gyarados was later captured by Lance.\n\n=== ===\nDuring the opening sequence of Pokémon Ranger and the Temple of the Sea, Professor Sebastian was seen alongside Attila and Hun while admiring their latest catch, a .\n\n==Character==\nProfessor Sebastian is a calculated individual who often speaks in a steady even tone. He is particularly cold towards Pokémon, only valuing them as tools and specimens of study and believing that they should serve humanity. He invests his knowledge into creating weaponry and operates alongside high-ranking individuals like Attila and Hun to achieve his utilitarian ideal.\n\n==Voice actors==\n \n\n==Trivia==\nThe origin of his Japanese name is probably after the sword style (不知火流). Humorously, Jessie refers to him as \"pointy\" when she meets him.\n\n==Names==\n \n \n==Related articles==\n \n \n\n \n \n \n \n\nde:Professor Sebastian\nes:Profesor Sebastian\nfr:Professeur Sébastian\nit:Professor Sebastian\nja:シラヌイ博士\nzh:席拉奴博士",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Professor Sebastian (Japanese: シラヌイ博士 Dr. Shiranui) is a recurring character in the Pokémon animated series. He is a Team Rocket scientist."
+    },
+    {
+      "heading": "The Legend of Thunder!",
+      "level": 3,
+      "text": "Professor Sebastian gave Attila and Hun the Miracle Crystal weapon, which could attract, absorb and reflect electricity, to aid them in capturing ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Professor Sebastian was the mastermind behind Team Rocket's scheme, Project R. He had designed the Evolution-Inducement Wave which causes one of Lake of Rage to evolve into a . He succeeded in capturing the rare specimen for further study in Talkin' 'Bout an Evolution. Professor Sebastian later transported the Red Gyarados to a secret meeting point near Mahogany Town in Rage of Innocence. While he left aboard a helicopter without any disruptions, Project R was later foiled. His main support, , was intercepted by and arrested by Officer Jenny. The Red Gyarados was later captured by Lance."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "During the opening sequence of Pokémon Ranger and the Temple of the Sea, Professor Sebastian was seen alongside Attila and Hun while admiring their latest catch, a ."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Professor Sebastian is a calculated individual who often speaks in a steady even tone. He is particularly cold towards Pokémon, only valuing them as tools and specimens of study and believing that they should serve humanity. He invests his knowledge into creating weaponry and operates alongside high-ranking individuals like Attila and Hun to achieve his utilitarian ideal."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The origin of his Japanese name is probably after the sword style (不知火流). Humorously, Jessie refers to him as \"pointy\" when she meets him."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Professor Sebastian\nes:Profesor Sebastian\nfr:Professeur Sébastian\nit:Professor Sebastian\nja:シラヌイ博士\nzh:席拉奴博士"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Professor Sebastian",
+    "pageType": "character",
+    "searchableText": "Professor Sebastian\nCategory:The Legend of Thunder characters\nProfessor Sebastian (Japanese: シラヌイ博士 Dr. Shiranui) is a recurring character in the Pokémon animated series. He is a Team Rocket scientist.",
+    "sectionHeadings": [
+      "Lead",
+      "The Legend of Thunder!",
+      "",
+      "",
+      "Character",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1832,
+    "sectionCount": 7
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Charla",
+    "slug": "charla",
+    "pageId": 16309,
+    "revisionId": 4167092
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters (Pokémon)",
+    "sourceFileName": "charla__16309.json",
+    "revisionTimestamp": "2024-10-25T02:01:51Z",
+    "fetchedAt": "2026-05-14T14:09:12.182Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Charla (Japanese: リサ Lisa) is a belonging to who lives in the Charicific Valley.",
+  "plainText": "Charla (Japanese: リサ Lisa) is a belonging to who lives in the Charicific Valley.\n\n==History==\n=== ===\n \nCharla is the only non-wild Pokémon in the Charicific Valley, as she belongs to , who maintains the valley. She is Liza's only Pokémon, and her greatest partner, seeing as she travels with her to places outside the valley.\n\nIn Charizard's Burning Ambitions, when and were going through a mountain path near the Charicific Valley, they had the opportunity to meet Charla. Liza called upon her to help take Ash's friends to the Charicific Valley, with Ash having to take a ride on his own to get there. When Ash's Charizard demanded to fight one more Charizard to prove that he was worthy of living in the valley, Charla was allowed to fight him, and promptly chucked him into a lake.\n\nCharla made a brief cameo appearance in Spell of the Unown: Entei with Liza and other Charizard from the Charicific Valley. She and Liza were watching a live news report about the incident in Greenfield.\n\nIn Great Bowls of Fire!, it was revealed that Ash's Charizard became Charla's bodyguard and that Charla has apparently fallen for him.\n\n=== ===\nCharla appeared alongside Liza in a flashback in The Fires of a Red-Hot Reunion!.\n\n==Personality and characteristics==\nCharla was considered to be Liza's most trusted Pokémon out of the other Charizard in the Charicific Valley. During her debut episode, Charla had very little trouble in showing her flying skills in contrast to Ash's Charizard when they first arrived in the Valley. Charla started to bond with Ash's Charizard during its stay at the Valley.\n\n==Moves used==\n \n \n \n\n==Trivia==\nCharla's Japanese name, リサ Lisa, comes from Charizard's Japanese name, リザードン Lizardon, and is also a girl's name. Likewise, her English name is a portmanteau of Carla, a girl's name, and Char, part of the species name.\nIn her first appearance, she was much larger than Ash's Charizard. The next time the two were seen, she was the same size as it.\n\n==Related articles==\n \n \n\n \n \n \n\nes:Charla\nfr:Charla\nit:Charla\nja:リサ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Charla (Japanese: リサ Lisa) is a belonging to who lives in the Charicific Valley."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Charla is the only non-wild Pokémon in the Charicific Valley, as she belongs to , who maintains the valley. She is Liza's only Pokémon, and her greatest partner, seeing as she travels with her to places outside the valley.\n\nIn Charizard's Burning Ambitions, when and were going through a mountain path near the Charicific Valley, they had the opportunity to meet Charla. Liza called upon her to help take Ash's friends to the Charicific Valley, with Ash having to take a ride on his own to get there. When Ash's Charizard demanded to fight one more Charizard to prove that he was worthy of living in the valley, Charla was allowed to fight him, and promptly chucked him into a lake.\n\nCharla made a brief cameo appearance in Spell of the Unown: Entei with Liza and other Charizard from the Charicific Valley. She and Liza were watching a live news report about the incident in Greenfield.\n\nIn Great Bowls of Fire!, it was revealed that Ash's Charizard became Charla's bodyguard and that Charla has apparently fallen for him."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Charla appeared alongside Liza in a flashback in The Fires of a Red-Hot Reunion!."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 2,
+      "text": "Charla was considered to be Liza's most trusted Pokémon out of the other Charizard in the Charicific Valley. During her debut episode, Charla had very little trouble in showing her flying skills in contrast to Ash's Charizard when they first arrived in the Valley. Charla started to bond with Ash's Charizard during its stay at the Valley."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Charla's Japanese name, リサ Lisa, comes from Charizard's Japanese name, リザードン Lizardon, and is also a girl's name. Likewise, her English name is a portmanteau of Carla, a girl's name, and Char, part of the species name.\nIn her first appearance, she was much larger than Ash's Charizard. The next time the two were seen, she was the same size as it."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Charla\nfr:Charla\nit:Charla\nja:リサ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Charla",
+    "pageType": "character",
+    "searchableText": "Charla\nCategory:Animation characters (Pokémon)\nCharla (Japanese: リサ Lisa) is a belonging to who lives in the Charicific Valley.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "",
+      "Personality and characteristics",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 2047,
+    "sectionCount": 6
+  }
+}

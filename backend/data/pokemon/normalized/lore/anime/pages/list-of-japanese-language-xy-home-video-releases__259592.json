@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "List of Japanese language XY home video releases",
+    "slug": "list-of-japanese-language-xy-home-video-releases",
+    "pageId": 259592,
+    "revisionId": 4261481
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Lists of animation home video releases",
+    "sourceFileName": "list-of-japanese-language-xy-home-video-releases__259592.json",
+    "revisionTimestamp": "2025-03-20T01:11:06Z",
+    "fetchedAt": "2026-05-14T14:32:32.861Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "The following is a list of all of the Japanese language home video releases of Pocket Monsters XY of the Pokémon animated series. All the DVDs were released for rental only.",
+  "plainText": "The following is a list of all of the Japanese language home video releases of Pocket Monsters XY of the Pokémon animated series. All the DVDs were released for rental only.\n\n==Volume releases==\nPocket Monsters XY was divided into two sets that were released by Shogakukan from 2014 to 2017. It contains all the 146 episodes between them.\n\n===Pocket Monsters XY===\nPocket Monsters XY was released by Shogakukan from 2014 to 2016. It consists of 32 volumes with 96 episodes across them combined.\n\nSpecial Episode: The Strongest Mega Evolution ~Act IV~ was released in the following set.\n\n \n\n===Pocket Monsters XY&Z===\nPocket Monsters XY&Z was released by Shogakukan from 2016 to 2017. It consists of 16 volumes with 50 episodes across them combined.\n\nSpecial Episode: The Strongest Mega Evolution ~Act IV~ was included in the first volume.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of all of the Japanese language home video releases of Pocket Monsters XY of the Pokémon animated series. All the DVDs were released for rental only."
+    },
+    {
+      "heading": "Volume releases",
+      "level": 2,
+      "text": "Pocket Monsters XY was divided into two sets that were released by Shogakukan from 2014 to 2017. It contains all the 146 episodes between them."
+    },
+    {
+      "heading": "Pocket Monsters XY",
+      "level": 3,
+      "text": "Pocket Monsters XY was released by Shogakukan from 2014 to 2016. It consists of 32 volumes with 96 episodes across them combined.\n\nSpecial Episode: The Strongest Mega Evolution ~Act IV~ was released in the following set."
+    },
+    {
+      "heading": "Pocket Monsters XY&Z",
+      "level": 3,
+      "text": "Pocket Monsters XY&Z was released by Shogakukan from 2016 to 2017. It consists of 16 volumes with 50 episodes across them combined.\n\nSpecial Episode: The Strongest Mega Evolution ~Act IV~ was included in the first volume."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Japanese language XY home video releases",
+    "pageType": "general-anime-lore",
+    "searchableText": "List of Japanese language XY home video releases\nCategory:Lists of animation home video releases\nThe following is a list of all of the Japanese language home video releases of Pocket Monsters XY of the Pokémon animated series. All the DVDs were released for rental only.",
+    "sectionHeadings": [
+      "Lead",
+      "Volume releases",
+      "Pocket Monsters XY",
+      "Pocket Monsters XY&Z"
+    ],
+    "characterCount": 838,
+    "sectionCount": 4
+  }
+}

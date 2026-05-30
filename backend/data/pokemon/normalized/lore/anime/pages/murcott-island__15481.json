@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Murcott Island",
+    "slug": "murcott-island",
+    "pageId": 15481,
+    "revisionId": 4487142
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands",
+    "sourceFileName": "murcott-island__15481.json",
+    "revisionTimestamp": "2026-02-16T01:39:28Z",
+    "fetchedAt": "2026-05-14T14:38:35.973Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Murcott Island (Japanese: マーコット島 Murcott Island) is one of the Orange Islands. It featured in the episode Tracey Gets Bugged. It is famous for being home to many rare Pokémon, leading some to compare it to a Safari Zone. On the island a was attacked and badly injured by its own swarm. Because of this, it. The majority of Murcott Island is covered in dense forest, and a lake is also present. A fairly large town with tall buildings exists some distance away from the beachfront.",
+  "plainText": "Murcott Island (Japanese: マーコット島 Murcott Island) is one of the Orange Islands. It featured in the episode Tracey Gets Bugged. It is famous for being home to many rare Pokémon, leading some to compare it to a Safari Zone. On the island a was attacked and badly injured by its own swarm. Because of this, it. The majority of Murcott Island is covered in dense forest, and a lake is also present. A fairly large town with tall buildings exists some distance away from the beachfront.\n\n==Places of interest==\n===Pokémon Center===\n \n \nThe Pokémon Center on Murcott Island is located in the town area. The building is white with columns and an orange domed roof. The Center almost looks like a giant Town Hall with a \"P\" on its front. Inside, it is run by Nurse Joy and .\n \n\n==Pokémon seen on Murcott Island==\n \n\n===Caught Pokémon===\n \n\n==Trivia==\n==Names==\n \n\n==Related articles==\n \n \n \n\nde:Murcott Insel\nes:Isla Murcott\nfr:Île Cachou\nit:Isola Murcott\nja:マーコット島\nzh:馬科特島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Murcott Island (Japanese: マーコット島 Murcott Island) is one of the Orange Islands. It featured in the episode Tracey Gets Bugged. It is famous for being home to many rare Pokémon, leading some to compare it to a Safari Zone. On the island a was attacked and badly injured by its own swarm. Because of this, it. The majority of Murcott Island is covered in dense forest, and a lake is also present. A fairly large town with tall buildings exists some distance away from the beachfront."
+    },
+    {
+      "heading": "Pokémon Center",
+      "level": 3,
+      "text": "The Pokémon Center on Murcott Island is located in the town area. The building is white with columns and an orange domed roof. The Center almost looks like a giant Town Hall with a \"P\" on its front. Inside, it is run by Nurse Joy and ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Murcott Insel\nes:Isla Murcott\nfr:Île Cachou\nit:Isola Murcott\nja:マーコット島\nzh:馬科特島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Murcott Island",
+    "pageType": "general-anime-lore",
+    "searchableText": "Murcott Island\nCategory:Orange Islands\nMurcott Island (Japanese: マーコット島 Murcott Island) is one of the Orange Islands. It featured in the episode Tracey Gets Bugged. It is famous for being home to many rare Pokémon, leading some to compare it to a Safari Zone. On the island a was attacked and badly injured by its own swarm. Because of this, it. The majority of Murcott Island is covered in dense forest, and a lake is also present. A fairly large town with tall buildings exists some distance away from the beachfront.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon Center",
+      "Related articles"
+    ],
+    "characterCount": 964,
+    "sectionCount": 3
+  }
+}

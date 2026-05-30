@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volume 2 (Big Korotan)",
+    "slug": "pokemon-quiz-puzzle-land-pikachu-is-a-famous-detective-volume-2-big-korotan",
+    "pageId": 327243,
+    "revisionId": 4231532
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volumes",
+    "sourceFileName": "pokemon-quiz-puzzle-land-pikachu-is-a-famous-detective-volume-2-big-korotan__327243.json",
+    "revisionTimestamp": "2025-01-31T14:19:18Z",
+    "fetchedAt": "2026-05-14T15:37:13.937Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 2 is the second volume of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga under the label. It is composed by Hiroshi Takase and illustrated by Yumiko Sudo.",
+  "plainText": "Volume 2 is the second volume of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga under the label. It is composed by Hiroshi Takase and illustrated by Yumiko Sudo.\n\n==Publications==\n \n \n\n==Chapters==\n \n \n\n==External links==\nShogakukan's website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga under the label. It is composed by Hiroshi Takase and illustrated by Yumiko Sudo."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Shogakukan's website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volume 2 (Big Korotan)",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volume 2 (Big Korotan)\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volumes\nVolume 2 is the second volume of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga under the label. It is composed by Hiroshi Takase and illustrated by Yumiko Sudo.",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 261,
+    "sectionCount": 2
+  }
+}

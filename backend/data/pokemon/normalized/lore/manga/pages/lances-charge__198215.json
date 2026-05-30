@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Lance's Charge",
+    "slug": "lances-charge",
+    "pageId": 198215,
+    "revisionId": 4130672
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "lances-charge__198215.json",
+    "revisionTimestamp": "2024-09-29T03:50:21Z",
+    "fetchedAt": "2026-05-14T15:23:52.643Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Lance's Charge is the thirty-eighth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 46, 47, and 48 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Lance's Charge is the thirty-eighth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 46, 47, and 48 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 86: Double Dragonair\nChapter 87: Rhyhorn Rising\nChapter 88: The Beedrill All and End All\n\n==Important events==\n\n \n \n \n\nfr:Volume 35 (Pokémon Adventures)\nit:Lance's Charge",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Lance's Charge is the thirty-eighth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 46, 47, and 48 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 86: Double Dragonair\nChapter 87: Rhyhorn Rising\nChapter 88: The Beedrill All and End All"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "fr:Volume 35 (Pokémon Adventures)\nit:Lance's Charge"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lance's Charge",
+    "pageType": "pokemon-related",
+    "searchableText": "Lance's Charge\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Lance's Charge is the thirty-eighth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 46, 47, and 48 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 613,
+    "sectionCount": 3
+  }
+}

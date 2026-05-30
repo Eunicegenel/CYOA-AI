@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PDP02",
+    "slug": "pdp02",
+    "pageId": 179193,
+    "revisionId": 4528139
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp02__179193.json",
+    "revisionTimestamp": "2026-04-09T16:08:28Z",
+    "fetchedAt": "2026-05-14T15:29:36.621Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ポッチャマのとっくん Special Training) is the second chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: ポッチャマのとっくん Special Training) is the second chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n\n \n \n \n\nit:PDP02",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポッチャマのとっくん Special Training) is the second chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n\n \n \n \n\nit:PDP02"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP02",
+    "pageType": "chapter",
+    "searchableText": "PDP02\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: ポッチャマのとっくん Special Training) is the second chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 248,
+    "sectionCount": 3
+  }
+}

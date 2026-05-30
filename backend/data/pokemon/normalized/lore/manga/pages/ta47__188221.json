@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "TA47",
+    "slug": "ta47",
+    "pageId": 188221,
+    "revisionId": 2805093
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta47__188221.json",
+    "revisionTimestamp": "2018-06-09T06:16:03Z",
+    "fetchedAt": "2026-05-14T15:51:01.447Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 最後の戦い！！ The Final Battle!!) is the 47th chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 最後の戦い！！ The Final Battle!!) is the 47th chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\nManami\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 最後の戦い！！ The Final Battle!!) is the 47th chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty\nManami"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA47",
+    "pageType": "chapter",
+    "searchableText": "TA47\nCategory:Pokémon Try Adventure chapters\n(Japanese: 最後の戦い！！ The Final Battle!!) is the 47th chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 236,
+    "sectionCount": 2
+  }
+}

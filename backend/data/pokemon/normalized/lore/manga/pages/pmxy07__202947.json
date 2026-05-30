@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMXY07",
+    "slug": "pmxy07",
+    "pageId": 202947,
+    "revisionId": 4528503
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY chapters",
+    "sourceFileName": "pmxy07__202947.json",
+    "revisionTimestamp": "2026-04-09T16:24:40Z",
+    "fetchedAt": "2026-05-14T15:33:57.758Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 声であの子を元気にしたい!! I Want to Cheer that Kid!!) is the seventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 声であの子を元気にしたい!! I Want to Cheer that Kid!!) is the seventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nMei\nMei's parents\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMei\nMei's parents\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 声であの子を元気にしたい!! I Want to Cheer that Kid!!) is the seventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Mei\nMei's parents"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Mei\nMei's parents"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMXY07",
+    "pageType": "chapter",
+    "searchableText": "PMXY07\nCategory:Pocket Monsters XY chapters\n(Japanese: 声であの子を元気にしたい!! I Want to Cheer that Kid!!) is the seventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 298,
+    "sectionCount": 4
+  }
+}

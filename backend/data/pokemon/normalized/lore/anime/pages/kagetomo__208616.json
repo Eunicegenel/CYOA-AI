@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Kagetomo",
+    "slug": "kagetomo",
+    "pageId": 208616,
+    "revisionId": 4143647
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "kagetomo__208616.json",
+    "revisionTimestamp": "2024-10-11T21:33:45Z",
+    "fetchedAt": "2026-05-14T14:28:19.816Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kagetomo (Japanese: カゲトモ Kagetomo) is a recurring character in .",
+  "plainText": "Kagetomo (Japanese: カゲトモ Kagetomo) is a recurring character in .\n\n==History==\n \nKagetomo was a former member of Ninja Village, having been an extremely competent ninja who was marked the most eligible to be crowned chief after . However, due to his excessive thirst of power and self-assertion, he disagreed with Hanzo's ideas of using one's ninja power for the welfare of people and Pokémon. He was estranged from Hanzo and trained rigorously in exile on Otori Mountain, forming the Ninja Corps with his subordinate Heidayu.\n\nHe returned, after some years, in The Legend of the Ninja Hero!, in order to become chief. His Ninja Corps overwhelmed Ninja Village with their army of . Together they managed to abduct Hanzo, holding him hostage so Kagetomo could take his position as the village chief. However his rival Ippei led the counter attack in A Festival of Decisions!, defeating Kagetomo's in a fierce battle. The Ninja Corp was disbanded thanks to and .\n\nRealizing his mistake after receiving some words of wisdom from Hanzo, Kagetomo decided to leave the Ninja Village in order to train harder, and focused his attention on exploring the true meaning of a ninja's life. Heidayu followed him, while Ippei, who became the new chief, agreed to wait for his return.\n\n==Character==\nHanzo still recognizes Kagetomo's power and precise tactics, however his prodigy was misguided and determined to use his ninja skills to rule the world. Kagetomo continued on a ruthless path and was determined to use force to become the chief over Ninja Village. This approach ultimately led to his downfall.\n\n==Pokémon==\nThis listing is of Kagetomo's known in :\n \n\n==Voice actors==\n \n\n==Trivia==\nKagetomo's appearance resembles that of Nobunaga from Pokémon Conquest.\n \n\n \n\n \n \n \n\nes:Kagetomo\nfr:Kagetomo\nit:Kagetomo\nja:カゲトモ\nzh:景友",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kagetomo (Japanese: カゲトモ Kagetomo) is a recurring character in ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Kagetomo was a former member of Ninja Village, having been an extremely competent ninja who was marked the most eligible to be crowned chief after . However, due to his excessive thirst of power and self-assertion, he disagreed with Hanzo's ideas of using one's ninja power for the welfare of people and Pokémon. He was estranged from Hanzo and trained rigorously in exile on Otori Mountain, forming the Ninja Corps with his subordinate Heidayu.\n\nHe returned, after some years, in The Legend of the Ninja Hero!, in order to become chief. His Ninja Corps overwhelmed Ninja Village with their army of . Together they managed to abduct Hanzo, holding him hostage so Kagetomo could take his position as the village chief. However his rival Ippei led the counter attack in A Festival of Decisions!, defeating Kagetomo's in a fierce battle. The Ninja Corp was disbanded thanks to and .\n\nRealizing his mistake after receiving some words of wisdom from Hanzo, Kagetomo decided to leave the Ninja Village in order to train harder, and focused his attention on exploring the true meaning of a ninja's life. Heidayu followed him, while Ippei, who became the new chief, agreed to wait for his return."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Hanzo still recognizes Kagetomo's power and precise tactics, however his prodigy was misguided and determined to use his ninja skills to rule the world. Kagetomo continued on a ruthless path and was determined to use force to become the chief over Ninja Village. This approach ultimately led to his downfall."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Kagetomo's known in :"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Kagetomo's appearance resembles that of Nobunaga from Pokémon Conquest.\n \n\n \n\n \n \n \n\nes:Kagetomo\nfr:Kagetomo\nit:Kagetomo\nja:カゲトモ\nzh:景友"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kagetomo",
+    "pageType": "character",
+    "searchableText": "Kagetomo\nCategory:Animation characters\nKagetomo (Japanese: カゲトモ Kagetomo) is a recurring character in .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1815,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Forest of Okoya",
+    "slug": "forest-of-okoya",
+    "pageId": 258599,
+    "revisionId": 4535082
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie locations",
+    "sourceFileName": "forest-of-okoya__258599.json",
+    "revisionTimestamp": "2026-04-20T05:05:55Z",
+    "fetchedAt": "2026-05-14T14:19:26.896Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "The Forest of Okoya (Japanese: オコヤの Forest of Okoya) is an -exclusive location and one of the settings for Secrets of the Jungle.",
+  "plainText": "The Forest of Okoya (Japanese: オコヤの Forest of Okoya) is an -exclusive location and one of the settings for Secrets of the Jungle.\n\n==History==\nThe Forest of Okoya, which bordered Milyfa Town, was home to a great many varieties of Pokémon including those that normally wouldn't be found in a forest like . However the forest was also the home to a group of that would go about intimidating the other Pokémon and stealing their food. It was rumoured that a previously lived in the forest too but hadn't been seen for many many years. It was also said that Celebi had brought an back from the future.\n\nHidden in the forest was a giant tree which housed a spring where the Zarude lived. The water had amazing healing properties, rapidly repairing many injuries and illnesses in seconds. This caused it to be brought to the attention of the Biotope Company, which focused on therapeutic springs, where it was researched by the Company's leaders Chrom and Phossa Molybdenum. Although they found the spring, they learned how it was revered by the Zarude and decided to suspend the project of harvesting the water and its properties until they could find a way to do so without destroying the tree and the Zarude who lived there. Unfortunately, one of their scientists, Doctor Zed, was determined to deliver the healing properties of the water to the public and refuses to let a single group of Pokémon stand in his way. He tried to forcibly take the research, however Chrom and Phossa fled with their infant son Al. Doctor Zed ran them off the road and left them to die in the ensuing explosion, not realizing the couple's final act was to send Al to safety down the river. Al was found by a single Zarude who raised him as a son in the jungle and named him Koko.\n\n==Trivia==\nForest of Okoya was used as the OT of Japanese , Japanese Dada Zarude, and Japanese event distribution for , a reference to the twenty-third movie Zarude, Dada Zarude, and Shiny Celebi in Forest of Okoya.\n\n===Origin===\n \nThe Forest of Okoya is likely based on the in the in northeastern , where the site is considered as the world's oldest continuously surviving tropical rainforest.\n\nDirector Tetsuo Yajima had revealed that the production team went to in search for its jungles with the Daintree Rainforest located just around a hundred kilometers north of the city.\n\n==Names==\n \n \n\n==References==\n \n\n==Related articles==\n \n \n \n\n \n \n\nes:Bosque de Okoya\nit:Foresta di Okoya\nja:オコヤの森\nzh:奥可雅森林",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Forest of Okoya (Japanese: オコヤの Forest of Okoya) is an -exclusive location and one of the settings for Secrets of the Jungle."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "The Forest of Okoya, which bordered Milyfa Town, was home to a great many varieties of Pokémon including those that normally wouldn't be found in a forest like . However the forest was also the home to a group of that would go about intimidating the other Pokémon and stealing their food. It was rumoured that a previously lived in the forest too but hadn't been seen for many many years. It was also said that Celebi had brought an back from the future.\n\nHidden in the forest was a giant tree which housed a spring where the Zarude lived. The water had amazing healing properties, rapidly repairing many injuries and illnesses in seconds. This caused it to be brought to the attention of the Biotope Company, which focused on therapeutic springs, where it was researched by the Company's leaders Chrom and Phossa Molybdenum. Although they found the spring, they learned how it was revered by the Zarude and decided to suspend the project of harvesting the water and its properties until they could find a way to do so without destroying the tree and the Zarude who lived there. Unfortunately, one of their scientists, Doctor Zed, was determined to deliver the healing properties of the water to the public and refuses to let a single group of Pokémon stand in his way. He tried to forcibly take the research, however Chrom and Phossa fled with their infant son Al. Doctor Zed ran them off the road and left them to die in the ensuing explosion, not realizing the couple's final act was to send Al to safety down the river. Al was found by a single Zarude who raised him as a son in the jungle and named him Koko."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Forest of Okoya was used as the OT of Japanese , Japanese Dada Zarude, and Japanese event distribution for , a reference to the twenty-third movie Zarude, Dada Zarude, and Shiny Celebi in Forest of Okoya."
+    },
+    {
+      "heading": "Origin",
+      "level": 3,
+      "text": "The Forest of Okoya is likely based on the in the in northeastern , where the site is considered as the world's oldest continuously surviving tropical rainforest.\n\nDirector Tetsuo Yajima had revealed that the production team went to in search for its jungles with the Daintree Rainforest located just around a hundred kilometers north of the city."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Bosque de Okoya\nit:Foresta di Okoya\nja:オコヤの森\nzh:奥可雅森林"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Forest of Okoya",
+    "pageType": "movie",
+    "searchableText": "Forest of Okoya\nCategory:Movie locations\nThe Forest of Okoya (Japanese: オコヤの Forest of Okoya) is an -exclusive location and one of the settings for Secrets of the Jungle.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia",
+      "Origin",
+      "Related articles"
+    ],
+    "characterCount": 2461,
+    "sectionCount": 5
+  }
+}

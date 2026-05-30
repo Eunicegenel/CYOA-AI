@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Evian",
+    "slug": "evian",
+    "pageId": 58913,
+    "revisionId": 4199477
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Battle Frontier characters of the day",
+    "sourceFileName": "evian__58913.json",
+    "revisionTimestamp": "2024-12-09T22:18:03Z",
+    "fetchedAt": "2026-05-14T14:18:38.777Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Evian (Japanese: コロク Koroku) is a character of the day who appeared in the episode From Cradle to Save. He is a student of Angela's in a Pokémon Ninja School deep in the forest.\n\nAfter being assigned to keep an eye on and , he later took them to the school, seeing they weren't the thieves that he was looking for. As part of the ninja training, Evian and Ash were assigned to find and capture Angela's , which he almost did. He later helped defeat , as they were the actual thieves who were stealing from them.",
+  "plainText": "Evian (Japanese: コロク Koroku) is a character of the day who appeared in the episode From Cradle to Save. He is a student of Angela's in a Pokémon Ninja School deep in the forest.\n\nAfter being assigned to keep an eye on and , he later took them to the school, seeing they weren't the thieves that he was looking for. As part of the ninja training, Evian and Ash were assigned to find and capture Angela's , which he almost did. He later helped defeat , as they were the actual thieves who were stealing from them.\n\n==Pokémon==\n \nThis listing is of Evian's in .\n \n\n==Voice actors==\n \n\n \n \n \n \n \n\nde:Stolz und Tapferkeit#Evian\nes:Evian\nfr:Florent (Kanto)\nit:Evian\nja:コロク",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Evian (Japanese: コロク Koroku) is a character of the day who appeared in the episode From Cradle to Save. He is a student of Angela's in a Pokémon Ninja School deep in the forest.\n\nAfter being assigned to keep an eye on and , he later took them to the school, seeing they weren't the thieves that he was looking for. As part of the ninja training, Evian and Ash were assigned to find and capture Angela's , which he almost did. He later helped defeat , as they were the actual thieves who were stealing from them."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Evian's in ."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Stolz und Tapferkeit#Evian\nes:Evian\nfr:Florent (Kanto)\nit:Evian\nja:コロク"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Evian",
+    "pageType": "character",
+    "searchableText": "Evian\nCategory:Battle Frontier characters of the day\nEvian (Japanese: コロク Koroku) is a character of the day who appeared in the episode From Cradle to Save. He is a student of Angela's in a Pokémon Ninja School deep in the forest.\n\nAfter being assigned to keep an eye on and , he later took them to the school, seeing they weren't the thieves that he was looking for. As part of the ninja training, Evian and Ash were assigned to find and capture Angela's , which he almost did. He later helped defeat , as they were the actual thieves who were stealing from them.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Voice actors"
+    ],
+    "characterCount": 666,
+    "sectionCount": 3
+  }
+}

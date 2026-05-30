@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "ABM09",
+    "slug": "abm09",
+    "pageId": 191811,
+    "revisionId": 4527082
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abm09__191811.json",
+    "revisionTimestamp": "2026-04-09T15:18:48Z",
+    "fetchedAt": "2026-05-14T15:12:11.158Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ライバル対決ふたたび！！ Rival Showdown Again!!) is the ninth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: ライバル対決ふたたび！！ Rival Showdown Again!!) is the ninth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyū Tendō\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ライバル対決ふたたび！！ Rival Showdown Again!!) is the ninth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryū Tendō"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABM09",
+    "pageType": "chapter",
+    "searchableText": "ABM09\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: ライバル対決ふたたび！！ Rival Showdown Again!!) is the ninth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 245,
+    "sectionCount": 2
+  }
+}

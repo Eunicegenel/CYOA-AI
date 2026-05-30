@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PBW6",
+    "slug": "pbw6",
+    "pageId": 172719,
+    "revisionId": 4549645
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Be the Best! Pokémon B+W",
+    "sourceFileName": "pbw6__172719.json",
+    "revisionTimestamp": "2026-05-11T02:09:21Z",
+    "fetchedAt": "2026-05-14T15:29:32.235Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokédex Complete! (Japanese: 完成！？ポケモン図鑑！！ Completion!? The Pokédex!!) is the sixth chapter of the Be the Best! Pokémon B+W manga.",
+  "plainText": "Pokédex Complete! (Japanese: 完成！？ポケモン図鑑！！ Completion!? The Pokédex!!) is the sixth chapter of the Be the Best! Pokémon B+W manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nMonta\nCheren\nBianca\n\n===Pokémon===\n( )\n(Monta's; new)\n\n==Trivia==\n\n==In other languages==\n \n \n\n \n\n \n\nzh:钻研吧!!宝可梦B・W 第6话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokédex Complete! (Japanese: 完成！？ポケモン図鑑！！ Completion!? The Pokédex!!) is the sixth chapter of the Be the Best! Pokémon B+W manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Monta\nCheren\nBianca"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Monta's; new)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "zh:钻研吧!!宝可梦B・W 第6话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PBW6",
+    "pageType": "pokemon-related",
+    "searchableText": "PBW6\nCategory:Be the Best! Pokémon B+W\nPokédex Complete! (Japanese: 完成！？ポケモン図鑑！！ Completion!? The Pokédex!!) is the sixth chapter of the Be the Best! Pokémon B+W manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 344,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Sento Cherry Town",
+    "slug": "sento-cherry-town",
+    "pageId": 5016,
+    "revisionId": 4261320
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "sento-cherry-town__5016.json",
+    "revisionTimestamp": "2025-03-19T21:52:41Z",
+    "fetchedAt": "2026-05-14T14:48:58.428Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Sento Cherry Town (Japanese: セントチェリータウン St. Cherry Town) is an -exclusive location that was mentioned in Johto Photo Finish. It is the hometown of Jon Dickson, the winner of the Silver Conference. It is unknown where it is located, but it is thought to be in Johto.\n\n \n \n \n\n \n\nit:Sento Cherry Town\nzh:櫻桃鎮",
+  "plainText": "Sento Cherry Town (Japanese: セントチェリータウン St. Cherry Town) is an -exclusive location that was mentioned in Johto Photo Finish. It is the hometown of Jon Dickson, the winner of the Silver Conference. It is unknown where it is located, but it is thought to be in Johto.\n\n \n \n \n\n \n\nit:Sento Cherry Town\nzh:櫻桃鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sento Cherry Town (Japanese: セントチェリータウン St. Cherry Town) is an -exclusive location that was mentioned in Johto Photo Finish. It is the hometown of Jon Dickson, the winner of the Silver Conference. It is unknown where it is located, but it is thought to be in Johto.\n\n \n \n \n\n \n\nit:Sento Cherry Town\nzh:櫻桃鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sento Cherry Town",
+    "pageType": "location",
+    "searchableText": "Sento Cherry Town\nCategory:Animated series-exclusive locations\nSento Cherry Town (Japanese: セントチェリータウン St. Cherry Town) is an -exclusive location that was mentioned in Johto Photo Finish. It is the hometown of Jon Dickson, the winner of the Silver Conference. It is unknown where it is located, but it is thought to be in Johto.\n\n \n \n \n\n \n\nit:Sento Cherry Town\nzh:櫻桃鎮",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 304,
+    "sectionCount": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Palmpona",
+    "slug": "palmpona",
+    "pageId": 17437,
+    "revisionId": 4261220
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "palmpona__17437.json",
+    "revisionTimestamp": "2025-03-19T21:51:32Z",
+    "fetchedAt": "2026-05-14T14:40:43.276Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Palmpona (Japanese: リーフタウン Leaf Town) is an -exclusive location in Johto. It is located between Azalea Town and Goldenrod City. It was featured in Tricks of the Trade.\n\nThe town's biggest attraction is the Pokémon Swap Meet, where hundreds of s come to trade Pokémon with others. attended in the hopes of trading his for another Pokémon. He reached his goal when Jessie accidentally traded her for the Pokémon.\n\nAnother big attraction is the \"Run of the Tauros\" tournament to see who has the strongest . had his sent to him from in order to compete in the competition. He was able to defeat the champion, and afterwards many people offered to trade him their Pokémon for his Tauros. Ash declined all the offers.",
+  "plainText": "Palmpona (Japanese: リーフタウン Leaf Town) is an -exclusive location in Johto. It is located between Azalea Town and Goldenrod City. It was featured in Tricks of the Trade.\n\nThe town's biggest attraction is the Pokémon Swap Meet, where hundreds of s come to trade Pokémon with others. attended in the hopes of trading his for another Pokémon. He reached his goal when Jessie accidentally traded her for the Pokémon.\n\nAnother big attraction is the \"Run of the Tauros\" tournament to see who has the strongest . had his sent to him from in order to compete in the competition. He was able to defeat the champion, and afterwards many people offered to trade him their Pokémon for his Tauros. Ash declined all the offers.\n\n==Trivia==\n===Origin===\nPalmpona appears to be named after in Spain, which is famous for its annual competition. There is also a town in southern California called , where a large swap meet is held several times a year. \n\n==References==\n \n\n \n \n\n \n\nde:Palmpona\nes:Palmpona\nit:Palmpona\nzh:葉之鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Palmpona (Japanese: リーフタウン Leaf Town) is an -exclusive location in Johto. It is located between Azalea Town and Goldenrod City. It was featured in Tricks of the Trade.\n\nThe town's biggest attraction is the Pokémon Swap Meet, where hundreds of s come to trade Pokémon with others. attended in the hopes of trading his for another Pokémon. He reached his goal when Jessie accidentally traded her for the Pokémon.\n\nAnother big attraction is the \"Run of the Tauros\" tournament to see who has the strongest . had his sent to him from in order to compete in the competition. He was able to defeat the champion, and afterwards many people offered to trade him their Pokémon for his Tauros. Ash declined all the offers."
+    },
+    {
+      "heading": "Origin",
+      "level": 3,
+      "text": "Palmpona appears to be named after in Spain, which is famous for its annual competition. There is also a town in southern California called , where a large swap meet is held several times a year."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "de:Palmpona\nes:Palmpona\nit:Palmpona\nzh:葉之鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Palmpona",
+    "pageType": "location",
+    "searchableText": "Palmpona\nCategory:Animated series-exclusive locations\nPalmpona (Japanese: リーフタウン Leaf Town) is an -exclusive location in Johto. It is located between Azalea Town and Goldenrod City. It was featured in Tricks of the Trade.\n\nThe town's biggest attraction is the Pokémon Swap Meet, where hundreds of s come to trade Pokémon with others. attended in the hopes of trading his for another Pokémon. He reached his goal when Jessie accidentally traded her for the Pokémon.\n\nAnother big attraction is the \"Run of the Tauros\" tournament to see who has the strongest . had his sent to him from in order to compete in the competition. He was able to defeat the champion, and afterwards many people offered to trade him their Pokémon for his Tauros. Ash declined all the offers.",
+    "sectionHeadings": [
+      "Lead",
+      "Origin",
+      "References"
+    ],
+    "characterCount": 1003,
+    "sectionCount": 3
+  }
+}

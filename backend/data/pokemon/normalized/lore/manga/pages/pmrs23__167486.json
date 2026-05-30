@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMRS23",
+    "slug": "pmrs23",
+    "pageId": 167486,
+    "revisionId": 4264627
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs23__167486.json",
+    "revisionTimestamp": "2025-03-23T18:29:21Z",
+    "fetchedAt": "2026-05-14T15:33:22.224Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "A Formidable Rival! (Japanese: 油断大敵！？強力ライバル登場 Unpreparedness is the Greatest Enemy!? A Formidable Rival Appears) is the twenty-third chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "A Formidable Rival! (Japanese: 油断大敵！？強力ライバル登場 Unpreparedness is the Greatest Enemy!? A Formidable Rival Appears) is the twenty-third chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nRed (Ruby-Sapphire)\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRed (Pocket Monsters)\nRed (Ruby-Sapphire)\n\n===Pokémon===\n( ; both of them)\n( )\n( )\n\n \n\n \n \n\nit:PMRS23",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Formidable Rival! (Japanese: 油断大敵！？強力ライバル登場 Unpreparedness is the Greatest Enemy!? A Formidable Rival Appears) is the twenty-third chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Red (Ruby-Sapphire)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Red (Pocket Monsters)\nRed (Ruby-Sapphire)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; both of them)\n( )\n( )\n\n \n\n \n \n\nit:PMRS23"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS23",
+    "pageType": "chapter",
+    "searchableText": "PMRS23\nCategory:Pokémon Ruby-Sapphire chapters\nA Formidable Rival! (Japanese: 油断大敵！？強力ライバル登場 Unpreparedness is the Greatest Enemy!? A Formidable Rival Appears) is the twenty-third chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 410,
+    "sectionCount": 4
+  }
+}

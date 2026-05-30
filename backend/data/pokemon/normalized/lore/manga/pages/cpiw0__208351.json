@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "CPIW0",
+    "slug": "cpiw0",
+    "pageId": 208351,
+    "revisionId": 4526432
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom chapters",
+    "sourceFileName": "cpiw0__208351.json",
+    "revisionTimestamp": "2026-04-09T14:45:48Z",
+    "fetchedAt": "2026-05-14T15:16:22.681Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "An unnamed seven-page prologue is the debut chapter of the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga created by 秦槙吾 Shingo Hatha. It first appeared as a sneak preview in the October 2014 issue of CoroCoro Comics magazine and later appeared in the collected volume release.",
+  "plainText": "An unnamed seven-page prologue is the debut chapter of the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga created by 秦槙吾 Shingo Hatha. It first appeared as a sneak preview in the October 2014 issue of CoroCoro Comics magazine and later appeared in the collected volume release.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\n\nSteven Stone\nMaxie\nTabitha\nArchie\nMatt\n\n====Pokémon debuts====\n(Alpha's)\n(Alpha's)\n(Omega's)\n(Omega's)\n(mentioned)\n(mentioned)\n\n==Characters==\n===Humans===\n\nSteven Stone\nMaxie\nTabitha\nArchie\nMatt\n\n===Pokémon===\n( 's)\n(Alpha's)\n( 's)\n(Omega's)\n\n \n \n \n \n\nit:CPIW0",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "An unnamed seven-page prologue is the debut chapter of the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga created by 秦槙吾 Shingo Hatha. It first appeared as a sneak preview in the October 2014 issue of CoroCoro Comics magazine and later appeared in the collected volume release."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Steven Stone\nMaxie\nTabitha\nArchie\nMatt"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Alpha's)\n(Alpha's)\n(Omega's)\n(Omega's)\n(mentioned)\n(mentioned)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Steven Stone\nMaxie\nTabitha\nArchie\nMatt"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n(Alpha's)\n( 's)\n(Omega's)\n\n \n \n \n \n\nit:CPIW0"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CPIW0",
+    "pageType": "chapter",
+    "searchableText": "CPIW0\nCategory:Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom chapters\nAn unnamed seven-page prologue is the debut chapter of the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga created by 秦槙吾 Shingo Hatha. It first appeared as a sneak preview in the October 2014 issue of CoroCoro Comics magazine and later appeared in the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 634,
+    "sectionCount": 5
+  }
+}

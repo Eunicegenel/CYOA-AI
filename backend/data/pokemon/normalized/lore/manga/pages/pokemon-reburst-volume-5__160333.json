@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon RéBURST volume 5",
+    "slug": "pokemon-reburst-volume-5",
+    "pageId": 160333,
+    "revisionId": 3405615
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST volumes",
+    "sourceFileName": "pokemon-reburst-volume-5__160333.json",
+    "revisionTimestamp": "2021-09-28T19:03:44Z",
+    "fetchedAt": "2026-05-14T15:37:29.911Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 5 is the fifth volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+  "plainText": "Volume 5 is the fifth volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 01 (38): Mastermind\nChapter 02 (39): Final Match Starts!\nChapter 03 (40): Left Arm\nChapter 04 (41): Unyielding Heart\nChapter 05 (42): Ray of Hope\nChapter 06 (43): The Power of Two\nChapter 07 (44): A Billion Yen and a New Journey\nChapter 08 (45): To Karuta's Village!\nChapter 09 (46): Battle on the Bridge\nChapter 10 (47): Reason Not to Return\n\n==Important events==\n \nBurst Heart Survival concludes with a tie between Ryouga and Fraud.\n\n \n \n \n\nit:Pokémon RéBURST volume 5",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 5 is the fifth volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 01 (38): Mastermind\nChapter 02 (39): Final Match Starts!\nChapter 03 (40): Left Arm\nChapter 04 (41): Unyielding Heart\nChapter 05 (42): Ray of Hope\nChapter 06 (43): The Power of Two\nChapter 07 (44): A Billion Yen and a New Journey\nChapter 08 (45): To Karuta's Village!\nChapter 09 (46): Battle on the Bridge\nChapter 10 (47): Reason Not to Return"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Burst Heart Survival concludes with a tie between Ryouga and Fraud.\n\n \n \n \n\nit:Pokémon RéBURST volume 5"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon RéBURST volume 5",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon RéBURST volume 5\nCategory:Pokémon RéBURST volumes\nVolume 5 is the fifth volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 631,
+    "sectionCount": 3
+  }
+}

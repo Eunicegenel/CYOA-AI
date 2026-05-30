@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM021",
+    "slug": "pm021",
+    "pageId": 158822,
+    "revisionId": 4528435
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm021__158822.json",
+    "revisionTimestamp": "2026-04-09T16:20:16Z",
+    "fetchedAt": "2026-05-14T15:30:42.623Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pokémon Baseball Tournament!! (Japanese: 激闘、ポケモン野球大会！！ Fierce Competition at the Pokémon Baseball Tournament!!) is the twenty-first chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Pokémon Baseball Tournament!! (Japanese: 激闘、ポケモン野球大会！！ Fierce Competition at the Pokémon Baseball Tournament!!) is the twenty-first chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\nand participate in a baseball match, with Red winning.\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMisty\n\n===Pokémon===\n( ) \n( )\n( 's)\n( 's)\n( 's)\n\n==Trivia==\nThe jerseys worn by Red and his team say \"Reds\" on the front, which is an actual .\n\n \n \n\nde:Kapitel 21 (Pokémon Pocket Monsters)\nit:PMM021",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Baseball Tournament!! (Japanese: 激闘、ポケモン野球大会！！ Fierce Competition at the Pokémon Baseball Tournament!!) is the twenty-first chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and participate in a baseball match, with Red winning."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Misty"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( 's)\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The jerseys worn by Red and his team say \"Reds\" on the front, which is an actual .\n\n \n \n\nde:Kapitel 21 (Pokémon Pocket Monsters)\nit:PMM021"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM021",
+    "pageType": "chapter",
+    "searchableText": "PM021\nCategory:Pokémon Pocket Monsters chapters\nPokémon Baseball Tournament!! (Japanese: 激闘、ポケモン野球大会！！ Fierce Competition at the Pokémon Baseball Tournament!!) is the twenty-first chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 529,
+    "sectionCount": 5
+  }
+}

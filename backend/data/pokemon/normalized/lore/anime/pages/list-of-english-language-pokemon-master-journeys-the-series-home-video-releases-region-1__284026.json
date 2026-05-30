@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "List of English language Pokémon Master Journeys: The Series home video releases (Region 1)",
+    "slug": "list-of-english-language-pokemon-master-journeys-the-series-home-video-releases-region-1",
+    "pageId": 284026,
+    "revisionId": 4261455
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Lists of animation home video releases",
+    "sourceFileName": "list-of-english-language-pokemon-master-journeys-the-series-home-video-releases-region-1__284026.json",
+    "revisionTimestamp": "2025-03-20T01:10:49Z",
+    "fetchedAt": "2026-05-14T14:32:01.787Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The following is a list of all of the English language home video releases of the twenty-fourth season of , Pokémon Master Journeys, in and ( ).",
+  "plainText": "The following is a list of all of the English language home video releases of the twenty-fourth season of , Pokémon Master Journeys, in and ( ).\n\n==The Complete Collection==\n \nPokémon Master Journeys - The Complete Collection was released on May 23, 2023 by VIZ Media and distributed through . This Complete Collection contains five discs with 42 episodes across them combined. Its catalogue number is 3000093531. Optional English closed captioning is included.\n\nClean versions of the opening and ending themes are included as a special feature.\n\n \n\n==External links==\nVIZ Media's website\nPokémon Master Journeys - The Complete Collection",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of all of the English language home video releases of the twenty-fourth season of , Pokémon Master Journeys, in and ( )."
+    },
+    {
+      "heading": "The Complete Collection",
+      "level": 2,
+      "text": "Pokémon Master Journeys - The Complete Collection was released on May 23, 2023 by VIZ Media and distributed through . This Complete Collection contains five discs with 42 episodes across them combined. Its catalogue number is 3000093531. Optional English closed captioning is included.\n\nClean versions of the opening and ending themes are included as a special feature."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "VIZ Media's website\nPokémon Master Journeys - The Complete Collection"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of English language Pokémon Master Journeys: The Series home video releases (Region 1)",
+    "pageType": "pokemon-related",
+    "searchableText": "List of English language Pokémon Master Journeys: The Series home video releases (Region 1)\nCategory:Lists of animation home video releases\nThe following is a list of all of the English language home video releases of the twenty-fourth season of , Pokémon Master Journeys, in and ( ).",
+    "sectionHeadings": [
+      "Lead",
+      "The Complete Collection",
+      "External links"
+    ],
+    "characterCount": 638,
+    "sectionCount": 3
+  }
+}

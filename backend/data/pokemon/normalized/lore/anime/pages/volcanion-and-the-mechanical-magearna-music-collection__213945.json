@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Volcanion and the Mechanical Magearna Music Collection",
+    "slug": "volcanion-and-the-mechanical-magearna-music-collection",
+    "pageId": 213945,
+    "revisionId": 4275484
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie soundtracks",
+    "sourceFileName": "volcanion-and-the-mechanical-magearna-music-collection__213945.json",
+    "revisionTimestamp": "2025-04-03T13:02:26Z",
+    "fetchedAt": "2026-05-14T14:57:07.280Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "----\n \nPokémon the Movie XY&Z: Volcanion and the Mechanical Magearna Music Collection (Japanese: ポケモン・ザ・ムービーXY＆Z「ボルケニオンと機巧のマギアナ」ミュージックコレクション) is the Japanese soundtrack for the nineteenth movie. It was released in Japan on July 27, 2016.",
+  "plainText": "----\n \nPokémon the Movie XY&Z: Volcanion and the Mechanical Magearna Music Collection (Japanese: ポケモン・ザ・ムービーXY＆Z「ボルケニオンと機巧のマギアナ」ミュージックコレクション) is the Japanese soundtrack for the nineteenth movie. It was released in Japan on July 27, 2016.\n\n==Tracklist==\n \n\n==Related articles==\n \n \n \n\n \n \n\nit:Pokémon the movie XY&Z: Volcanion to karakuri Magearna Music Collection\nzh:波爾凱尼恩與機關人偶瑪機雅娜 音樂收藏",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \nPokémon the Movie XY&Z: Volcanion and the Mechanical Magearna Music Collection (Japanese: ポケモン・ザ・ムービーXY＆Z「ボルケニオンと機巧のマギアナ」ミュージックコレクション) is the Japanese soundtrack for the nineteenth movie. It was released in Japan on July 27, 2016."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Pokémon the movie XY&Z: Volcanion to karakuri Magearna Music Collection\nzh:波爾凱尼恩與機關人偶瑪機雅娜 音樂收藏"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Volcanion and the Mechanical Magearna Music Collection",
+    "pageType": "movie",
+    "searchableText": "Volcanion and the Mechanical Magearna Music Collection\nCategory:Movie soundtracks\n----\n \nPokémon the Movie XY&Z: Volcanion and the Mechanical Magearna Music Collection (Japanese: ポケモン・ザ・ムービーXY＆Z「ボルケニオンと機巧のマギアナ」ミュージックコレクション) is the Japanese soundtrack for the nineteenth movie. It was released in Japan on July 27, 2016.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 386,
+    "sectionCount": 2
+  }
+}

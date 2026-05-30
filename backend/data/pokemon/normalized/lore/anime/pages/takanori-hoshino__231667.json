@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Takanori Hoshino",
+    "slug": "takanori-hoshino",
+    "pageId": 231667,
+    "revisionId": 4323484
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "takanori-hoshino__231667.json",
+    "revisionTimestamp": "2025-06-24T03:31:03Z",
+    "fetchedAt": "2026-05-14T14:52:58.097Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Takanori Hoshino (Japanese: 星野貴紀 Hoshino Takanori) is a Japanese voice actor for .",
+  "plainText": "Takanori Hoshino (Japanese: 星野貴紀 Hoshino Takanori) is a Japanese voice actor for .\n\n==Biography==\nHoshino was born on May 8, 1980, in , , and became a voice actor as an adult. He was affiliated with Office PAC. Hoshino became involved with during , voicing two characters: Jervis, 's butler in Undella Town; and Dirk's . He also voiced Bruno, a member of the Kanto Elite Four, in Pokémon Generations.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nJervis\n\n=====Pokémon=====\n\n====Pokémon Generations====\nBruno\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nFuyuki Shido ( )\nGunnery Officer Masayuki Kikuchi ( )\nVan ( )\nHonest ( )\nJack Atlas ( , , and )\nGustav ( )\nRaul/Alan ( )\nKatsunori Harasawa ( )\nMitabi Jarnach ( , )\nNobuyuki Kai ( )\nHenry Seigi ( )\nMr. Astro ( )\nTsukuyo (Male) ( )\nLester MacPhail ( )\nTaro Kagiyama ( )\nFujiwara no Yasumasa ( )\n\n===Video game roles===\nErnest ( )\nLucas ( )\nIori Yagami ( )\n( )\nAshikaga Yoshiteru ( )\nPantalone/Regrator ( ) \nGolbez/Althyk ( )\n\n===Dubbing roles===\nMitchell Hayworth ( )\nThomas Grace ( )\nPhillip ( )\nClark Kent/Superman ( , , )\nNapoleon Solo ( )\nBarry ( )\nCaptain Syverson ( )\n\n==External links==\nOffice PAC profile\nOfficial blog\n \n\n \n\nit:Takanori Hoshino",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Takanori Hoshino (Japanese: 星野貴紀 Hoshino Takanori) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hoshino was born on May 8, 1980, in , , and became a voice actor as an adult. He was affiliated with Office PAC. Hoshino became involved with during , voicing two characters: Jervis, 's butler in Undella Town; and Dirk's . He also voiced Bruno, a member of the Kanto Elite Four, in Pokémon Generations."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Jervis"
+    },
+    {
+      "heading": "Pokémon Generations",
+      "level": 4,
+      "text": "Bruno"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Fuyuki Shido ( )\nGunnery Officer Masayuki Kikuchi ( )\nVan ( )\nHonest ( )\nJack Atlas ( , , and )\nGustav ( )\nRaul/Alan ( )\nKatsunori Harasawa ( )\nMitabi Jarnach ( , )\nNobuyuki Kai ( )\nHenry Seigi ( )\nMr. Astro ( )\nTsukuyo (Male) ( )\nLester MacPhail ( )\nTaro Kagiyama ( )\nFujiwara no Yasumasa ( )"
+    },
+    {
+      "heading": "Video game roles",
+      "level": 3,
+      "text": "Ernest ( )\nLucas ( )\nIori Yagami ( )\n( )\nAshikaga Yoshiteru ( )\nPantalone/Regrator ( ) \nGolbez/Althyk ( )"
+    },
+    {
+      "heading": "Dubbing roles",
+      "level": 3,
+      "text": "Mitchell Hayworth ( )\nThomas Grace ( )\nPhillip ( )\nClark Kent/Superman ( , , )\nNapoleon Solo ( )\nBarry ( )\nCaptain Syverson ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Office PAC profile\nOfficial blog\n \n\n \n\nit:Takanori Hoshino"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Takanori Hoshino",
+    "pageType": "general-anime-lore",
+    "searchableText": "Takanori Hoshino\nCategory:Japanese voice actors\nTakanori Hoshino (Japanese: 星野貴紀 Hoshino Takanori) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon Generations",
+      "Other non-Pokémon roles",
+      "Video game roles",
+      "Dubbing roles",
+      "External links"
+    ],
+    "characterCount": 1250,
+    "sectionCount": 8
+  }
+}

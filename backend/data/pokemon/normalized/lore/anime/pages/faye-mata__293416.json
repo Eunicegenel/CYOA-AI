@@ -1,0 +1,93 @@
+{
+  "identity": {
+    "title": "Faye Mata",
+    "slug": "faye-mata",
+    "pageId": 293416,
+    "revisionId": 4495525
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "faye-mata__293416.json",
+    "revisionTimestamp": "2026-02-27T23:11:58Z",
+    "fetchedAt": "2026-05-14T14:18:54.622Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Faye Mata is an American actor for the English-language dub of and .",
+  "plainText": "Faye Mata is an American actor for the English-language dub of and .\n\n==Biography==\nFaye’s first role in the was in , where she voiced a character of the day, Multa. She eventually got the role of Dot for .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nMulta\n\n=====Pokémon=====\n\n==== ====\n=====Humans=====\nDot/Nidothing\n\n=====Pokémon=====\nPagogo\n\n===Video games===\n====Pokémon Masters EX====\nTrinnia\nTricia\nTrista\n\n==== ====\nRose's Snubbull\nSimon's Pansage\n\n==Other non-Pokémon roles==\nA.K.I ( )\nAqua ( )\nAstolfo/Rider of Black ( )\nKagami Tsurugi/Ryuko ( )\n( )\nRin Hoshizora ( )\n\n==Artwork==\n \nFan-Art Faye Mata Nidothing.jpg|Fanart of Nidothing from Faye Mata\n \n\n==External links==\nTwitter\nIMDB\nYouTube\nInstagram\nTikTok\n\n \n \n \n\nit:Faye Mata",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Faye Mata is an American actor for the English-language dub of and ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Faye’s first role in the was in , where she voiced a character of the day, Multa. She eventually got the role of Dot for ."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Multa"
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Dot/Nidothing"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "Pagogo"
+    },
+    {
+      "heading": "Pokémon Masters EX",
+      "level": 4,
+      "text": "Trinnia\nTricia\nTrista"
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Rose's Snubbull\nSimon's Pansage"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "A.K.I ( )\nAqua ( )\nAstolfo/Rider of Black ( )\nKagami Tsurugi/Ryuko ( )\n( )\nRin Hoshizora ( )"
+    },
+    {
+      "heading": "Artwork",
+      "level": 2,
+      "text": "Fan-Art Faye Mata Nidothing.jpg|Fanart of Nidothing from Faye Mata"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nIMDB\nYouTube\nInstagram\nTikTok\n\n \n \n \n\nit:Faye Mata"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Faye Mata",
+    "pageType": "general-anime-lore",
+    "searchableText": "Faye Mata\nCategory:TPCi voice actors\nFaye Mata is an American actor for the English-language dub of and .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Pokémon Masters EX",
+      "",
+      "Other non-Pokémon roles",
+      "Artwork",
+      "External links"
+    ],
+    "characterCount": 757,
+    "sectionCount": 10
+  }
+}

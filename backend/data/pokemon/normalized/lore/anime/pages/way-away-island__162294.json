@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Way Away Island",
+    "slug": "way-away-island",
+    "pageId": 162294,
+    "revisionId": 4316730
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "way-away-island__162294.json",
+    "revisionTimestamp": "2025-06-06T14:16:12Z",
+    "fetchedAt": "2026-05-14T14:57:22.447Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Way Away Island (Japanese: オキノ島 Okino Island) is a small, -exclusive island located off the coast of Johto, between Goldenrod City and Ecruteak City. \n\nIn Carrying On!, Denjirō received an urgent call from the Way Away Island Pokémon Center that the medicine for the sick Pokémon had not yet arrived, even though Denjirō had sent a few to deliver the medicine. Worried, Denjirō's grandson Malachi along with , , and decided to go and investigate the matter. \n\nOn their way, they found out that was stealing the Pidgey that Denjirō sent to deliver the medicine. They fought Team Rocket and managed to free the Pidgey. After that, they safely landed on Way Away Island and delivered the medicine to Nurse Joy.",
+  "plainText": "Way Away Island (Japanese: オキノ島 Okino Island) is a small, -exclusive island located off the coast of Johto, between Goldenrod City and Ecruteak City. \n\nIn Carrying On!, Denjirō received an urgent call from the Way Away Island Pokémon Center that the medicine for the sick Pokémon had not yet arrived, even though Denjirō had sent a few to deliver the medicine. Worried, Denjirō's grandson Malachi along with , , and decided to go and investigate the matter. \n\nOn their way, they found out that was stealing the Pidgey that Denjirō sent to deliver the medicine. They fought Team Rocket and managed to free the Pidgey. After that, they safely landed on Way Away Island and delivered the medicine to Nurse Joy.\n \n\n==Pokémon seen on Way Away Island==\n \n\n==In other languages==\n \n \n \n \n\n \n\nde:Way Away-Insel\nit:Isola di Way Away\nzh:沖野島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Way Away Island (Japanese: オキノ島 Okino Island) is a small, -exclusive island located off the coast of Johto, between Goldenrod City and Ecruteak City. \n\nIn Carrying On!, Denjirō received an urgent call from the Way Away Island Pokémon Center that the medicine for the sick Pokémon had not yet arrived, even though Denjirō had sent a few to deliver the medicine. Worried, Denjirō's grandson Malachi along with , , and decided to go and investigate the matter. \n\nOn their way, they found out that was stealing the Pidgey that Denjirō sent to deliver the medicine. They fought Team Rocket and managed to free the Pidgey. After that, they safely landed on Way Away Island and delivered the medicine to Nurse Joy."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Way Away-Insel\nit:Isola di Way Away\nzh:沖野島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Way Away Island",
+    "pageType": "location",
+    "searchableText": "Way Away Island\nCategory:Animated series-exclusive locations\nWay Away Island (Japanese: オキノ島 Okino Island) is a small, -exclusive island located off the coast of Johto, between Goldenrod City and Ecruteak City. \n\nIn Carrying On!, Denjirō received an urgent call from the Way Away Island Pokémon Center that the medicine for the sick Pokémon had not yet arrived, even though Denjirō had sent a few to deliver the medicine. Worried, Denjirō's grandson Malachi along with , , and decided to go and investigate the matter. \n\nOn their way, they found out that was stealing the Pidgey that Denjirō sent to deliver the medicine. They fought Team Rocket and managed to free the Pidgey. After that, they safely landed on Way Away Island and delivered the medicine to Nurse Joy.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 830,
+    "sectionCount": 2
+  }
+}

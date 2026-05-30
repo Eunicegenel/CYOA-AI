@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Universal Pictures Home Entertainment",
+    "slug": "universal-pictures-home-entertainment",
+    "pageId": 85605,
+    "revisionId": 4493524
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Distributors of the English dub of the Pokémon animated series",
+    "sourceFileName": "universal-pictures-home-entertainment__85605.json",
+    "revisionTimestamp": "2026-02-26T02:25:59Z",
+    "fetchedAt": "2026-05-14T14:56:10.270Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Universal Pictures Home Entertainment (formerly Universal Studios Home Entertainment) is the home video distribution division of , a subsidiary of which is a subsidiary of .\n\nIt has released various Pokémon movies on DVD in Northern Europe and Scandivanian territories such as the United Kingdom, Germany, Norway and Sweden. Giratina and the Sky Warrior was released by them in North America as well. In France, they also released DVDs of Pokémon: DP Battle Dimension and Pokémon: DP Galactic Battles.",
+  "plainText": "Universal Pictures Home Entertainment (formerly Universal Studios Home Entertainment) is the home video distribution division of , a subsidiary of which is a subsidiary of .\n\nIt has released various Pokémon movies on DVD in Northern Europe and Scandivanian territories such as the United Kingdom, Germany, Norway and Sweden. Giratina and the Sky Warrior was released by them in North America as well. In France, they also released DVDs of Pokémon: DP Battle Dimension and Pokémon: DP Galactic Battles.\n==External links==\nOfficial website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Universal Pictures Home Entertainment (formerly Universal Studios Home Entertainment) is the home video distribution division of , a subsidiary of which is a subsidiary of .\n\nIt has released various Pokémon movies on DVD in Northern Europe and Scandivanian territories such as the United Kingdom, Germany, Norway and Sweden. Giratina and the Sky Warrior was released by them in North America as well. In France, they also released DVDs of Pokémon: DP Battle Dimension and Pokémon: DP Galactic Battles."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Universal Pictures Home Entertainment",
+    "pageType": "pokemon-related",
+    "searchableText": "Universal Pictures Home Entertainment\nCategory:Distributors of the English dub of the Pokémon animated series\nUniversal Pictures Home Entertainment (formerly Universal Studios Home Entertainment) is the home video distribution division of , a subsidiary of which is a subsidiary of .\n\nIt has released various Pokémon movies on DVD in Northern Europe and Scandivanian territories such as the United Kingdom, Germany, Norway and Sweden. Giratina and the Sky Warrior was released by them in North America as well. In France, they also released DVDs of Pokémon: DP Battle Dimension and Pokémon: DP Galactic Battles.",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 537,
+    "sectionCount": 2
+  }
+}

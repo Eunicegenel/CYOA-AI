@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon 4Koma Theater",
+    "slug": "pokemon-4koma-theater",
+    "pageId": 220597,
+    "revisionId": 4527820
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-4koma-theater__220597.json",
+    "revisionTimestamp": "2026-04-09T15:55:09Z",
+    "fetchedAt": "2026-05-14T15:34:50.460Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケットモンスター 4コママンガ劇場 Pokémon 4Koma Theater) is a Pokémon 4Koma series.",
+  "plainText": "(Japanese: ポケットモンスター 4コママンガ劇場 Pokémon 4Koma Theater) is a Pokémon 4Koma series.\n\n==List of volumes==\n \n\n \n\n \n\nja:ポケットモンスター4コママンガ劇場\nzh:宝可梦4格漫画剧场",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケットモンスター 4コママンガ劇場 Pokémon 4Koma Theater) is a Pokémon 4Koma series."
+    },
+    {
+      "heading": "List of volumes",
+      "level": 2,
+      "text": "ja:ポケットモンスター4コママンガ劇場\nzh:宝可梦4格漫画剧场"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 4Koma Theater",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 4Koma Theater\nCategory:Pokémon 4Koma\n(Japanese: ポケットモンスター 4コママンガ劇場 Pokémon 4Koma Theater) is a Pokémon 4Koma series.",
+    "sectionHeadings": [
+      "Lead",
+      "List of volumes"
+    ],
+    "characterCount": 143,
+    "sectionCount": 2
+  }
+}

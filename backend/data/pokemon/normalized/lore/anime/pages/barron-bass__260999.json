@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Barron Bass",
+    "slug": "barron-bass",
+    "pageId": 260999,
+    "revisionId": 4323446
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "barron-bass__260999.json",
+    "revisionTimestamp": "2025-06-24T03:30:19Z",
+    "fetchedAt": "2026-05-14T14:04:41.170Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Barron Bass is an American actor for the English-language dub of . He is currently affiliated with Abrams Artists in New York and In Both Ears in West Coast.",
+  "plainText": "Barron Bass is an American actor for the English-language dub of . He is currently affiliated with Abrams Artists in New York and In Both Ears in West Coast.\n\n==Biography==\nBass was born in America and is based in New York. As an adult, he became a voice actor. Bass joined the during , gaining several roles with his most notable being that of Rose.\n\n==Pokémon roles==\n===Animation===\n==== ====\nRose\nDoug\nTrain Conductor (JN042)\n\n==Other non-Pokémon roles==\nMan (Luke Cage)\nNigel Anderson Cole (The Great Vanishing (I-III))\nMalcolm X (Saving Malcolm)\nLeroy Legend (Shampagne)\nMacbeth (Bits of the Bard)\nIsiah Mustafa Lookalike (Old Spice \"Lingerer\" Parody)\nMarlon (New Heights)\nBrian (Press Break)\nMike (I Don't Want A Boyfriend)\n\n==External links==\nOfficial website\nInstagram\nBehind Youtube\nFacebook\n\n \n \n\nit:Barron Bass",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Barron Bass is an American actor for the English-language dub of . He is currently affiliated with Abrams Artists in New York and In Both Ears in West Coast."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Bass was born in America and is based in New York. As an adult, he became a voice actor. Bass joined the during , gaining several roles with his most notable being that of Rose."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Rose\nDoug\nTrain Conductor (JN042)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Man (Luke Cage)\nNigel Anderson Cole (The Great Vanishing (I-III))\nMalcolm X (Saving Malcolm)\nLeroy Legend (Shampagne)\nMacbeth (Bits of the Bard)\nIsiah Mustafa Lookalike (Old Spice \"Lingerer\" Parody)\nMarlon (New Heights)\nBrian (Press Break)\nMike (I Don't Want A Boyfriend)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nInstagram\nBehind Youtube\nFacebook\n\n \n \n\nit:Barron Bass"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Barron Bass",
+    "pageType": "general-anime-lore",
+    "searchableText": "Barron Bass\nCategory:TPCi voice actors\nBarron Bass is an American actor for the English-language dub of . He is currently affiliated with Abrams Artists in New York and In Both Ears in West Coast.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 822,
+    "sectionCount": 5
+  }
+}

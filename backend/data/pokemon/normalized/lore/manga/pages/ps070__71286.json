@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PS070",
+    "slug": "ps070",
+    "pageId": 71286,
+    "revisionId": 4336623
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps070__71286.json",
+    "revisionTimestamp": "2025-07-15T21:40:06Z",
+    "fetchedAt": "2026-05-14T15:40:42.250Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Allied by Alakazam! (Japanese: VSフーディン VS ) is the 70th chapter of the Pokémon Adventures manga, and the 30th chapter of the .",
+  "plainText": "Allied by Alakazam! (Japanese: VSフーディン VS ) is the 70th chapter of the Pokémon Adventures manga, and the 30th chapter of the .\n\n==Plot==\n \n , , and meet , , Lt. Surge, Koga, and Sabrina inside Cerise Island. When Yellow, Green, Bill, Blue, and Blaine, wonder why Team Rocket is there, they respond by saying to defeat the Elite Four. Blue confesses that he only came to defeat Agatha.\n\nSabrina's then hands out Spoons of Destiny to pick battle partners. The battle plan is to face each of the Elite Four in groups of two. The first pair is Yellow and Blaine, the second is Koga and Blue, the third pair is Sabrina and Green, and the fourth pair, both with unmoving Spoons of Destiny, is Lt. Surge and Bill. Afterwards, the groups split up. Blue then gives Koga back his .\n\n==Major events==\nSabrina uses the Spoons of Destiny so the group can fight the Elite Four in different groups.\nreturns Koga's Golbat.\n\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nBrock\nLt. Surge\nErika\nKoga\nSabrina\nLorelei\nBruno\nAgatha\nLance\n\n===Pokémon===\n( )\n(Jiggly; 's)\n(Pika; 's)\n(Lt. Surge's)\n( )\n(Koga's)\n(Sabrina's)\n\n==Trivia==\n\n===Errors===\n\n==In other languages==\n \n \n \n \n\nde:VS. Simsala\nes:PMS070\nfr:Chapitre 70 (Pocket Monsters Special)\nit:LGA070\nzh:宝可梦特别篇 第70话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Allied by Alakazam! (Japanese: VSフーディン VS ) is the 70th chapter of the Pokémon Adventures manga, and the 30th chapter of the ."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": ", , and meet , , Lt. Surge, Koga, and Sabrina inside Cerise Island. When Yellow, Green, Bill, Blue, and Blaine, wonder why Team Rocket is there, they respond by saying to defeat the Elite Four. Blue confesses that he only came to defeat Agatha.\n\nSabrina's then hands out Spoons of Destiny to pick battle partners. The battle plan is to face each of the Elite Four in groups of two. The first pair is Yellow and Blaine, the second is Koga and Blue, the third pair is Sabrina and Green, and the fourth pair, both with unmoving Spoons of Destiny, is Lt. Surge and Bill. Afterwards, the groups split up. Blue then gives Koga back his ."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Sabrina uses the Spoons of Destiny so the group can fight the Elite Four in different groups.\nreturns Koga's Golbat."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Brock\nLt. Surge\nErika\nKoga\nSabrina\nLorelei\nBruno\nAgatha\nLance"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Jiggly; 's)\n(Pika; 's)\n(Lt. Surge's)\n( )\n(Koga's)\n(Sabrina's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Simsala\nes:PMS070\nfr:Chapitre 70 (Pocket Monsters Special)\nit:LGA070\nzh:宝可梦特别篇 第70话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS070",
+    "pageType": "chapter",
+    "searchableText": "PS070\nCategory:Pokémon Adventures chapters\nAllied by Alakazam! (Japanese: VSフーディン VS ) is the 70th chapter of the Pokémon Adventures manga, and the 30th chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1272,
+    "sectionCount": 6
+  }
+}

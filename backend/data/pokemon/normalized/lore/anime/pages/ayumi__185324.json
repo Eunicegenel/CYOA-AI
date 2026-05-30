@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Ayumi",
+    "slug": "ayumi",
+    "pageId": 185324,
+    "revisionId": 4094962
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "ayumi__185324.json",
+    "revisionTimestamp": "2024-09-01T00:09:48Z",
+    "fetchedAt": "2026-05-14T14:04:26.183Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: アユミ Ayumi) is a character of the day who appeared in BWS01.\n\nAyumi first appeared when she ran into the Pokémon Center, worried about her . She told Nurse Joy that her Pikachu wasn't able to use properly, and she was concerned something may be wrong with her. asked Ayumi how long ago Pikachu learned Thunderbolt, to which she responded that she learned the move about a week ago. Cilan explained to Ayumi that she just needed to practice the move with Pikachu and offered to be her partner; she happily accepted his offer.\n\nOutside, Ayumi and Pikachu battled Cilan and . The first Thunderbolt didn't work, but after Ayumi calmed down, Pikachu successfully used the move. She appeared later on when she wished Officer Jenny and Cilan good luck in calming a rampaging . Afterwards, she ran into the Pokémon Center once again to warn Nurse Joy and that Gyarados was in trouble.",
+  "plainText": "(Japanese: アユミ Ayumi) is a character of the day who appeared in BWS01.\n\nAyumi first appeared when she ran into the Pokémon Center, worried about her . She told Nurse Joy that her Pikachu wasn't able to use properly, and she was concerned something may be wrong with her. asked Ayumi how long ago Pikachu learned Thunderbolt, to which she responded that she learned the move about a week ago. Cilan explained to Ayumi that she just needed to practice the move with Pikachu and offered to be her partner; she happily accepted his offer.\n\nOutside, Ayumi and Pikachu battled Cilan and . The first Thunderbolt didn't work, but after Ayumi calmed down, Pikachu successfully used the move. She appeared later on when she wished Officer Jenny and Cilan good luck in calming a rampaging . Afterwards, she ran into the Pokémon Center once again to warn Nurse Joy and that Gyarados was in trouble.\n\n==Pokémon==\n \n\n==Voice actors==\n \n \n \n\n \n \n \n\nes:Ayumi\nit:Ayumi\nzh:亞由美",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: アユミ Ayumi) is a character of the day who appeared in BWS01.\n\nAyumi first appeared when she ran into the Pokémon Center, worried about her . She told Nurse Joy that her Pikachu wasn't able to use properly, and she was concerned something may be wrong with her. asked Ayumi how long ago Pikachu learned Thunderbolt, to which she responded that she learned the move about a week ago. Cilan explained to Ayumi that she just needed to practice the move with Pikachu and offered to be her partner; she happily accepted his offer.\n\nOutside, Ayumi and Pikachu battled Cilan and . The first Thunderbolt didn't work, but after Ayumi calmed down, Pikachu successfully used the move. She appeared later on when she wished Officer Jenny and Cilan good luck in calming a rampaging . Afterwards, she ran into the Pokémon Center once again to warn Nurse Joy and that Gyarados was in trouble."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Ayumi\nit:Ayumi\nzh:亞由美"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ayumi",
+    "pageType": "character",
+    "searchableText": "Ayumi\nCategory:Unova characters of the day\n(Japanese: アユミ Ayumi) is a character of the day who appeared in BWS01.\n\nAyumi first appeared when she ran into the Pokémon Center, worried about her . She told Nurse Joy that her Pikachu wasn't able to use properly, and she was concerned something may be wrong with her. asked Ayumi how long ago Pikachu learned Thunderbolt, to which she responded that she learned the move about a week ago. Cilan explained to Ayumi that she just needed to practice the move with Pikachu and offered to be her partner; she happily accepted his offer.\n\nOutside, Ayumi and Pikachu battled Cilan and . The first Thunderbolt didn't work, but after Ayumi calmed down, Pikachu successfully used the move. She appeared later on when she wished Officer Jenny and Cilan good luck in calming a rampaging . Afterwards, she ran into the Pokémon Center once again to warn Nurse Joy and that Gyarados was in trouble.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 958,
+    "sectionCount": 2
+  }
+}

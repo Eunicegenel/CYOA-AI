@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Orson",
+    "slug": "orson",
+    "pageId": 205142,
+    "revisionId": 4095180
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kalos characters of the day",
+    "sourceFileName": "orson__205142.json",
+    "revisionTimestamp": "2024-09-01T00:18:07Z",
+    "fetchedAt": "2026-05-14T14:40:30.749Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Orson (Japanese: オルニス Ornis) is a character of the day who appeared in A Relay in the Sky!. \n\nOrson entered the Pokémon Sky Relay to retain his title as the defending winner. He entered with his male , , and . During the competition, he had his Pokémon stay mostly in second position.\n\nBy the third leg, only Orson's Starly and Ash's Noibat were in the running following 's sabotage attempts. The Pokémon passed through a valley with strong wind currents, and while Noibat was blown away, Orson and Starly were fully prepared for this. Orson had Starly fold his wings, so that he could nosedive through the valley. Noibat was able to recover however, and a head-to-head race to the finish unfolded between him and Starly. Starly was ultimately victorious as he finished by a noselength, giving Orson the win.",
+  "plainText": "Orson (Japanese: オルニス Ornis) is a character of the day who appeared in A Relay in the Sky!. \n\nOrson entered the Pokémon Sky Relay to retain his title as the defending winner. He entered with his male , , and . During the competition, he had his Pokémon stay mostly in second position.\n\nBy the third leg, only Orson's Starly and Ash's Noibat were in the running following 's sabotage attempts. The Pokémon passed through a valley with strong wind currents, and while Noibat was blown away, Orson and Starly were fully prepared for this. Orson had Starly fold his wings, so that he could nosedive through the valley. Noibat was able to recover however, and a head-to-head race to the finish unfolded between him and Starly. Starly was ultimately victorious as he finished by a noselength, giving Orson the win.\n\n==Pokémon==\n \n\n \n\n \n\n==Pokémon competitions==\nOrson has competed in the following :\nPokémon Sky Relay - Winner (two-time winner; A Relay in the Sky!)\n\n==Voice actors==\n \n\n==Names==\n \n \n \n\n \n \n \n \n\nes:Orson\nfr:Auderick\nit:Avian\nja:オルニス\nzh:奧尼司",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Orson (Japanese: オルニス Ornis) is a character of the day who appeared in A Relay in the Sky!. \n\nOrson entered the Pokémon Sky Relay to retain his title as the defending winner. He entered with his male , , and . During the competition, he had his Pokémon stay mostly in second position.\n\nBy the third leg, only Orson's Starly and Ash's Noibat were in the running following 's sabotage attempts. The Pokémon passed through a valley with strong wind currents, and while Noibat was blown away, Orson and Starly were fully prepared for this. Orson had Starly fold his wings, so that he could nosedive through the valley. Noibat was able to recover however, and a head-to-head race to the finish unfolded between him and Starly. Starly was ultimately victorious as he finished by a noselength, giving Orson the win."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Orson has competed in the following :\nPokémon Sky Relay - Winner (two-time winner; A Relay in the Sky!)"
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Orson\nfr:Auderick\nit:Avian\nja:オルニス\nzh:奧尼司"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Orson",
+    "pageType": "character",
+    "searchableText": "Orson\nCategory:Kalos characters of the day\nOrson (Japanese: オルニス Ornis) is a character of the day who appeared in A Relay in the Sky!. \n\nOrson entered the Pokémon Sky Relay to retain his title as the defending winner. He entered with his male , , and . During the competition, he had his Pokémon stay mostly in second position.\n\nBy the third leg, only Orson's Starly and Ash's Noibat were in the running following 's sabotage attempts. The Pokémon passed through a valley with strong wind currents, and while Noibat was blown away, Orson and Starly were fully prepared for this. Orson had Starly fold his wings, so that he could nosedive through the valley. Noibat was able to recover however, and a head-to-head race to the finish unfolded between him and Starly. Starly was ultimately victorious as he finished by a noselength, giving Orson the win.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Names"
+    ],
+    "characterCount": 1051,
+    "sectionCount": 3
+  }
+}

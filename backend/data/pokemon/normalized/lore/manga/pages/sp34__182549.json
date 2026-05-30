@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP34",
+    "slug": "sp34",
+    "pageId": 182549,
+    "revisionId": 4114567
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp34__182549.json",
+    "revisionTimestamp": "2024-09-16T20:30:35Z",
+    "fetchedAt": "2026-05-14T15:50:12.723Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "An Awesome Showdown!! (Japanese: 超絶気合い対決!! Intensely Spirited Showdown!!) is the thirty fourth chapter of the Ash & Pikachu manga.",
+  "plainText": "An Awesome Showdown!! (Japanese: 超絶気合い対決!! Intensely Spirited Showdown!!) is the thirty fourth chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMax\nGreta\n\n===Pokémon===\n( )\n( )\n(Greta's)\n\n \n \n\n \n\nit:SP34",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "An Awesome Showdown!! (Japanese: 超絶気合い対決!! Intensely Spirited Showdown!!) is the thirty fourth chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max\nGreta"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Greta's)\n\n \n \n\n \n\nit:SP34"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP34",
+    "pageType": "chapter",
+    "searchableText": "SP34\nCategory:Ash & Pikachu chapters\nAn Awesome Showdown!! (Japanese: 超絶気合い対決!! Intensely Spirited Showdown!!) is the thirty fourth chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 288,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Sportscaster",
+    "slug": "sportscaster",
+    "pageId": 231417,
+    "revisionId": 4095512
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Alola characters of the day",
+    "sourceFileName": "sportscaster__231417.json",
+    "revisionTimestamp": "2024-09-01T00:30:41Z",
+    "fetchedAt": "2026-05-14T14:52:10.199Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The unnamed sportscaster (Japanese: Announcer) is a character of the day who appeared in Getting a Jump on the Competition!. He was one of the hosts for the Pokémon Sled Jump Games on Mount Lanakila, the other being the Pokémon Sled Jump master.\n\nDuring the games, he introduced all of the contestants, and later Cerah during her exhibition jump. At the end, he announced that the winner was Hala and .",
+  "plainText": "The unnamed sportscaster (Japanese: Announcer) is a character of the day who appeared in Getting a Jump on the Competition!. He was one of the hosts for the Pokémon Sled Jump Games on Mount Lanakila, the other being the Pokémon Sled Jump master.\n\nDuring the games, he introduced all of the contestants, and later Cerah during her exhibition jump. At the end, he announced that the winner was Hala and .\n\n==Voice actors==\n \n\n \n \n\n \n \n \n\nit:Commentatore sportivo",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The unnamed sportscaster (Japanese: Announcer) is a character of the day who appeared in Getting a Jump on the Competition!. He was one of the hosts for the Pokémon Sled Jump Games on Mount Lanakila, the other being the Pokémon Sled Jump master.\n\nDuring the games, he introduced all of the contestants, and later Cerah during her exhibition jump. At the end, he announced that the winner was Hala and ."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Commentatore sportivo"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sportscaster",
+    "pageType": "character",
+    "searchableText": "Sportscaster\nCategory:Alola characters of the day\nThe unnamed sportscaster (Japanese: Announcer) is a character of the day who appeared in Getting a Jump on the Competition!. He was one of the hosts for the Pokémon Sled Jump Games on Mount Lanakila, the other being the Pokémon Sled Jump master.\n\nDuring the games, he introduced all of the contestants, and later Cerah during her exhibition jump. At the end, he announced that the winner was Hala and .",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 460,
+    "sectionCount": 2
+  }
+}

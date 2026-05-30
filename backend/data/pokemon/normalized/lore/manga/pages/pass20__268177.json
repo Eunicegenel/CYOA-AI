@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PASS20",
+    "slug": "pass20",
+    "pageId": 268177,
+    "revisionId": 4528515
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass20__268177.json",
+    "revisionTimestamp": "2026-04-09T16:24:53Z",
+    "fetchedAt": "2026-05-14T15:28:52.043Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Cracking!! Brilliant Tap-Dancing (Japanese: パキパキ！！華麗のタップダンス Crack!! A Gorgeous Tap Dance) is the 20th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Cracking!! Brilliant Tap-Dancing (Japanese: パキパキ！！華麗のタップダンス Crack!! A Gorgeous Tap Dance) is the 20th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nfinds her , Peta.\nrepairs 's cane.\nHenry is given Mr. Rime from Melony.\nSonia explains that she found a statue depicting two Pokémon behind the Stow-on-Side mural.\nBede meets with Opal.\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHenry\nCasey\nBede\nProfessor Magnolia\nSonia \nOpal\nGordie\nMelony \nMarvin\n\n===Pokémon===\n(Steeler; Henry's)\n(Fanguru; Henry's)\n(Henry's; received from Melony)\n( )\n(Peta; ; Casey's)\n(Rotom Phone; Casey's)\n(Sonia's)\n(Rose's; flashback)\n(Sniffler; Marvin's)\n(multiple)\n(Galarian Form; multiple)\n(Galarian Form; multiple)\n\n \n}}\n \n \n \n\nde:Der elegante Stepptänzer\nes:PMSSwSh20\nfr:Chapitre 20 (Pocket Monsters Special Épée et Bouclier)\nit:PASS20\nzh:宝可梦特别篇 剑·盾篇 第20话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Cracking!! Brilliant Tap-Dancing (Japanese: パキパキ！！華麗のタップダンス Crack!! A Gorgeous Tap Dance) is the 20th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "finds her , Peta.\nrepairs 's cane.\nHenry is given Mr. Rime from Melony.\nSonia explains that she found a statue depicting two Pokémon behind the Stow-on-Side mural.\nBede meets with Opal."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nBede\nProfessor Magnolia\nSonia \nOpal\nGordie\nMelony \nMarvin"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Steeler; Henry's)\n(Fanguru; Henry's)\n(Henry's; received from Melony)\n( )\n(Peta; ; Casey's)\n(Rotom Phone; Casey's)\n(Sonia's)\n(Rose's; flashback)\n(Sniffler; Marvin's)\n(multiple)\n(Galarian Form; multiple)\n(Galarian Form; multiple)\n\n \n}}\n \n \n \n\nde:Der elegante Stepptänzer\nes:PMSSwSh20\nfr:Chapitre 20 (Pocket Monsters Special Épée et Bouclier)\nit:PASS20\nzh:宝可梦特别篇 剑·盾篇 第20话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS20",
+    "pageType": "chapter",
+    "searchableText": "PASS20\nCategory:Pokémon Adventures chapters\nCracking!! Brilliant Tap-Dancing (Japanese: パキパキ！！華麗のタップダンス Crack!! A Gorgeous Tap Dance) is the 20th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 910,
+    "sectionCount": 4
+  }
+}

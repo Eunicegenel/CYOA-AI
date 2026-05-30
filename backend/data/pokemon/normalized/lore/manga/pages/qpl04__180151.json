@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "QPL04",
+    "slug": "qpl04",
+    "pageId": 180151,
+    "revisionId": 4231322
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters",
+    "sourceFileName": "qpl04__180151.json",
+    "revisionTimestamp": "2025-01-31T11:02:21Z",
+    "fetchedAt": "2026-05-14T15:47:01.010Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: Protect Mew's Image, Pikka!!) is the fourth chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+  "plainText": "(Japanese: Protect Mew's Image, Pikka!!) is the fourth chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n\n==Characters==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: Protect Mew's Image, Pikka!!) is the fourth chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "QPL04",
+    "pageType": "chapter",
+    "searchableText": "QPL04\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters\n(Japanese: Protect Mew's Image, Pikka!!) is the fourth chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 191,
+    "sectionCount": 1
+  }
+}

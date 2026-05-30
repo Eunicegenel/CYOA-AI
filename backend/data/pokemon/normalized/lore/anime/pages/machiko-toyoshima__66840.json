@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Machiko Toyoshima",
+    "slug": "machiko-toyoshima",
+    "pageId": 66840,
+    "revisionId": 4323548
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "machiko-toyoshima__66840.json",
+    "revisionTimestamp": "2025-06-24T03:32:07Z",
+    "fetchedAt": "2026-05-14T14:34:04.477Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Machiko Toyoshima (Japanese: 豊嶋真千子 Toyoshima Machiko) is a Japanese voice actress for .",
+  "plainText": "Machiko Toyoshima (Japanese: 豊嶋真千子 Toyoshima Machiko) is a Japanese voice actress for .\n\n==Biography==\nToyoshima was born on December 28, 1971 in , , and became a voice actress as an adult. She joined during and provided the voices for a few Pokémon such as Misty's Horsea. Toyoshima is currently affiliated with .\n\n==Pokémon roles==\n===Animation===\n==== ====\nMisty's Horsea\n\n==Other non-Pokémon roles==\nAsami-sensei ( )\nKuina ( )\nPallaPalla ( )\nShion Hibiki ( )\nYoung Phoenix Ikki ( )\n\n===Video games===\nMisha ( , )\n\n==External links==\nTwitter\n\n \n\n \n\nit:Machiko Toyoshima\nja:豊嶋真千子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Machiko Toyoshima (Japanese: 豊嶋真千子 Toyoshima Machiko) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Toyoshima was born on December 28, 1971 in , , and became a voice actress as an adult. She joined during and provided the voices for a few Pokémon such as Misty's Horsea. Toyoshima is currently affiliated with ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Misty's Horsea"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Asami-sensei ( )\nKuina ( )\nPallaPalla ( )\nShion Hibiki ( )\nYoung Phoenix Ikki ( )"
+    },
+    {
+      "heading": "Video games",
+      "level": 3,
+      "text": "Misha ( , )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\n\n \n\n \n\nit:Machiko Toyoshima\nja:豊嶋真千子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Machiko Toyoshima",
+    "pageType": "general-anime-lore",
+    "searchableText": "Machiko Toyoshima\nCategory:Japanese voice actors\nMachiko Toyoshima (Japanese: 豊嶋真千子 Toyoshima Machiko) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "Video games",
+      "External links"
+    ],
+    "characterCount": 581,
+    "sectionCount": 6
+  }
+}

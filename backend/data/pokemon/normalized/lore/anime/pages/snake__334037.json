@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Snake",
+    "slug": "snake",
+    "pageId": 334037,
+    "revisionId": 4522737
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "snake__334037.json",
+    "revisionTimestamp": "2026-04-03T20:20:47Z",
+    "fetchedAt": "2026-05-14T14:51:40.405Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Snake (Japanese: スネーク Snake) is a character of the day who appeared in Crash! Team Dragon Rampage!. He is a Pokémon poacher who has an interest in capturing wriggly and serpent-like Pokémon. He is a member of Team Wriggle (Japanese: Kunekune-dan, literally Wriggling Gang).",
+  "plainText": "Snake (Japanese: スネーク Snake) is a character of the day who appeared in Crash! Team Dragon Rampage!. He is a Pokémon poacher who has an interest in capturing wriggly and serpent-like Pokémon. He is a member of Team Wriggle (Japanese: Kunekune-dan, literally Wriggling Gang).\n\n==Pokémon==\n \n\n \n\n==Voice actors==\n \n\n==Trivia==\nSnake's name is never said aloud in dialogue and only known through credits and closed captions.\nSnake shares both of his Pokémon, an and a , with Jessie from .\n\n==Names==\n \n \n\nTeam Wriggle\n \n\n \n \n\n \n \n \n \n \n\nes:Snake\nfr:Snake\nit:Snake\nzh:斯内克",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Snake (Japanese: スネーク Snake) is a character of the day who appeared in Crash! Team Dragon Rampage!. He is a Pokémon poacher who has an interest in capturing wriggly and serpent-like Pokémon. He is a member of Team Wriggle (Japanese: Kunekune-dan, literally Wriggling Gang)."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Snake's name is never said aloud in dialogue and only known through credits and closed captions.\nSnake shares both of his Pokémon, an and a , with Jessie from ."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "Team Wriggle\n \n\n \n \n\n \n \n \n \n \n\nes:Snake\nfr:Snake\nit:Snake\nzh:斯内克"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Snake",
+    "pageType": "character",
+    "searchableText": "Snake\nCategory:Horizons characters of the day\nSnake (Japanese: スネーク Snake) is a character of the day who appeared in Crash! Team Dragon Rampage!. He is a Pokémon poacher who has an interest in capturing wriggly and serpent-like Pokémon. He is a member of Team Wriggle (Japanese: Kunekune-dan, literally Wriggling Gang).",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 566,
+    "sectionCount": 3
+  }
+}

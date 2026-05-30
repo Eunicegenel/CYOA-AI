@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMRS11",
+    "slug": "pmrs11",
+    "pageId": 161635,
+    "revisionId": 4264614
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs11__161635.json",
+    "revisionTimestamp": "2025-03-23T18:27:31Z",
+    "fetchedAt": "2026-05-14T15:33:14.661Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Haunted Gym (Japanese: 潜入！恐怖の幽霊ジム Infiltrate! The Scary Ghost Gym) is the eleventh chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "The Haunted Gym (Japanese: 潜入！恐怖の幽霊ジム Infiltrate! The Scary Ghost Gym) is the eleventh chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nBrawly\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nBrawly\n\n===Pokémon===\n( )\n( )\n( )\n(Brawly's)\n\n \n\n \n \n \n\nit:PMRS11",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Haunted Gym (Japanese: 潜入！恐怖の幽霊ジム Infiltrate! The Scary Ghost Gym) is the eleventh chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Brawly"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Brawly"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Brawly's)\n\n \n\n \n \n \n\nit:PMRS11"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS11",
+    "pageType": "chapter",
+    "searchableText": "PMRS11\nCategory:Pokémon Ruby-Sapphire chapters\nThe Haunted Gym (Japanese: 潜入！恐怖の幽霊ジム Infiltrate! The Scary Ghost Gym) is the eleventh chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 316,
+    "sectionCount": 4
+  }
+}

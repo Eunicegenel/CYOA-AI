@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Kōzō Mito",
+    "slug": "kozo-mito",
+    "pageId": 68822,
+    "revisionId": 4323603
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "kozo-mito__68822.json",
+    "revisionTimestamp": "2025-06-24T03:33:12Z",
+    "fetchedAt": "2026-05-14T14:29:58.410Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kōzō Mito (Japanese: 三戸耕三 Mito Kōzō) is a Japanese voice actor for .",
+  "plainText": "Kōzō Mito (Japanese: 三戸耕三 Mito Kōzō) is a Japanese voice actor for .\n\n==Biography==\nMito was born on June 8, 1979, in , , and became a voice actor as an adult. He joined the during , voicing Samuel, the assistant to . Then, during , he voiced his best-known role in the animated series, Conway, one of 's secondary rivals in the Sinnoh region. Mito is currently affiliated with the talent agency .\n\n==Pokémon roles==\n===Animation===\n==== ====\nSamuel\nConway\n\n====Pokémon Mystery Dungeon: Team Go-Getters Out of the Gate!====\n\n==Other non-Pokémon roles==\nAl Da Flaga ( (ep. 45))\nDobin-sensei ( )\nGiuseppe ( )\nTakeshi Jinno ( )\nPierrot ( )\nRGO Yamanaka ( )\nKanon Maldini/The Red Queen ( )\nSmile/Number Four ( )\nGunther Schultz ( , )\nHikaru Narita ( )\n\n==External links==\nProduction Baobab profile\n\n \n\n \n\nit:Kōzō Mito\nja:三戸耕三",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kōzō Mito (Japanese: 三戸耕三 Mito Kōzō) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Mito was born on June 8, 1979, in , , and became a voice actor as an adult. He joined the during , voicing Samuel, the assistant to . Then, during , he voiced his best-known role in the animated series, Conway, one of 's secondary rivals in the Sinnoh region. Mito is currently affiliated with the talent agency ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Samuel\nConway"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Al Da Flaga ( (ep. 45))\nDobin-sensei ( )\nGiuseppe ( )\nTakeshi Jinno ( )\nPierrot ( )\nRGO Yamanaka ( )\nKanon Maldini/The Red Queen ( )\nSmile/Number Four ( )\nGunther Schultz ( , )\nHikaru Narita ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Production Baobab profile\n\n \n\n \n\nit:Kōzō Mito\nja:三戸耕三"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kōzō Mito",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kōzō Mito\nCategory:Japanese voice actors\nKōzō Mito (Japanese: 三戸耕三 Mito Kōzō) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 821,
+    "sectionCount": 5
+  }
+}

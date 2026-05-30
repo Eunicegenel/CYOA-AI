@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Yumi Touma",
+    "slug": "yumi-touma",
+    "pageId": 36546,
+    "revisionId": 4323498
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "yumi-touma__36546.json",
+    "revisionTimestamp": "2025-06-24T03:31:18Z",
+    "fetchedAt": "2026-05-14T15:00:19.225Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yumi Touma (Japanese: 冬馬由美 Tōma Yumi) is a Japanese voice actress for .",
+  "plainText": "Yumi Touma (Japanese: 冬馬由美 Tōma Yumi) is a Japanese voice actress for .\n\n==Biography==\nTouma was born as Yumi Nakagawa (Japanese: 中川由美 Nakagawa Yumi) on December 20, 1966, in , , , and became a voice actress and singer as an adult. She is often typecast as strong, beautiful women due to her mature voice. Touma has provided the voices of several and characters of the day since . Her most notable roles in are that of Caroline and Pichu Big. Touma was once affiliated with , but she left and has since founded her own agency, ALLURE&Y. She is currently married to Tatsuya Yoshida, a producer from .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nCaroline\n\n======Minor======\nGiselle\n\nMikey\nPietra\n\nLila\n\nLuka Carson\n\n=====Pokémon=====\n======Major======\nPichu Big\n\n(M02)\n\n======Minor======\n\n(EP035)\n(EP035)\n(AG087)\n(PK13)\n\n===Radio drama===\nMiyamoto (The Birth of Mewtwo)\n\n==Other non-Pokémon roles==\n( , , )\nYui Hongo ( )\nSapphire ( )\nUrd ( )\nYao Fei Lun ( )\nAn ( )\nToran ( )\nRefill (Raine) Sage ( )\nLia (Liavelt von Neuestein) ( )\nRose (Japanese dub of )\n\n==External links==\nOfficial website\n \n \n\nit:Yumi Tōma\nja:冬馬由美\nzh:冬马由美",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yumi Touma (Japanese: 冬馬由美 Tōma Yumi) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Touma was born as Yumi Nakagawa (Japanese: 中川由美 Nakagawa Yumi) on December 20, 1966, in , , , and became a voice actress and singer as an adult. She is often typecast as strong, beautiful women due to her mature voice. Touma has provided the voices of several and characters of the day since . Her most notable roles in are that of Caroline and Pichu Big. Touma was once affiliated with , but she left and has since founded her own agency, ALLURE&Y. She is currently married to Tatsuya Yoshida, a producer from ."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Caroline"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Giselle\n\nMikey\nPietra\n\nLila\n\nLuka Carson"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Pichu Big\n\n(M02)"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(EP035)\n(EP035)\n(AG087)\n(PK13)"
+    },
+    {
+      "heading": "Radio drama",
+      "level": 3,
+      "text": "Miyamoto (The Birth of Mewtwo)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "( , , )\nYui Hongo ( )\nSapphire ( )\nUrd ( )\nYao Fei Lun ( )\nAn ( )\nToran ( )\nRefill (Raine) Sage ( )\nLia (Liavelt von Neuestein) ( )\nRose (Japanese dub of )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\n \n \n\nit:Yumi Tōma\nja:冬馬由美\nzh:冬马由美"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yumi Touma",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yumi Touma\nCategory:Japanese voice actors\nYumi Touma (Japanese: 冬馬由美 Tōma Yumi) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Radio drama",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1159,
+    "sectionCount": 9
+  }
+}

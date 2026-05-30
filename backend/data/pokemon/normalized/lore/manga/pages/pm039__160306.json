@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM039",
+    "slug": "pm039",
+    "pageId": 160306,
+    "revisionId": 4526359
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm039__160306.json",
+    "revisionTimestamp": "2026-04-09T14:39:15Z",
+    "fetchedAt": "2026-05-14T15:30:53.970Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Revenge of Mewtwo!! (Japanese: ミュウツーのリベンジ！ The Revenge of Mewtwo!!) is the thirty-ninth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Revenge of Mewtwo!! (Japanese: ミュウツーのリベンジ！ The Revenge of Mewtwo!!) is the thirty-ninth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n(recurring)\n\n==Trivia==\n\n \n \n \n\nde:Kapitel 39 (Pokémon Pocket Monsters)\nit:PMM039",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Revenge of Mewtwo!! (Japanese: ミュウツーのリベンジ！ The Revenge of Mewtwo!!) is the thirty-ninth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n(recurring)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 39 (Pokémon Pocket Monsters)\nit:PMM039"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM039",
+    "pageType": "chapter",
+    "searchableText": "PM039\nCategory:Pokémon Pocket Monsters chapters\nThe Revenge of Mewtwo!! (Japanese: ミュウツーのリベンジ！ The Revenge of Mewtwo!!) is the thirty-ninth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 340,
+    "sectionCount": 3
+  }
+}

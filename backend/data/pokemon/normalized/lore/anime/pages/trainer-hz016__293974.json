@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Trainer (HZ016)",
+    "slug": "trainer-hz016",
+    "pageId": 293974,
+    "revisionId": 4377611
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "trainer-hz016__293974.json",
+    "revisionTimestamp": "2025-09-12T10:21:11Z",
+    "fetchedAt": "2026-05-14T14:55:22.524Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "This Trainer was a character of the day that appeared in Quaxly, We Can Do It. He was a mercenary paid by Spinel to delay Friede while the latter looked for Liko's pendant. During the search, Friede boarded a ship where he believed Spinel was, only to be challenged by this Trainer, who was there instead. After Friede defeated him, the Trainer admitted he had no information to provide for the search.",
+  "plainText": "This Trainer was a character of the day that appeared in Quaxly, We Can Do It. He was a mercenary paid by Spinel to delay Friede while the latter looked for Liko's pendant. During the search, Friede boarded a ship where he believed Spinel was, only to be challenged by this Trainer, who was there instead. After Friede defeated him, the Trainer admitted he had no information to provide for the search.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n==Trivia==\nThis character was the first character of the day to appear in Pokémon Horizons: The Series and the first in the since Ash and Latios.\n \n\n \n \n \n\nit:Allenatore (OP016)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This Trainer was a character of the day that appeared in Quaxly, We Can Do It. He was a mercenary paid by Spinel to delay Friede while the latter looked for Liko's pendant. During the search, Friede boarded a ship where he believed Spinel was, only to be challenged by this Trainer, who was there instead. After Friede defeated him, the Trainer admitted he had no information to provide for the search."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This character was the first character of the day to appear in Pokémon Horizons: The Series and the first in the since Ash and Latios.\n \n\n \n \n \n\nit:Allenatore (OP016)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Trainer (HZ016)",
+    "pageType": "character",
+    "searchableText": "Trainer (HZ016)\nCategory:Horizons characters of the day\nThis Trainer was a character of the day that appeared in Quaxly, We Can Do It. He was a mercenary paid by Spinel to delay Friede while the latter looked for Liko's pendant. During the search, Friede boarded a ship where he believed Spinel was, only to be challenged by this Trainer, who was there instead. After Friede defeated him, the Trainer admitted he had no information to provide for the search.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 616,
+    "sectionCount": 2
+  }
+}

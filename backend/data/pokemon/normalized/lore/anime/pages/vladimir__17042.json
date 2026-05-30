@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Vladimir",
+    "slug": "vladimir",
+    "pageId": 17042,
+    "revisionId": 4143926
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "vladimir__17042.json",
+    "revisionTimestamp": "2024-10-12T01:18:56Z",
+    "fetchedAt": "2026-05-14T14:57:06.011Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Vladimir the Attacker (Japanese: ジンベイ Jinbei), who is also known as Ralph, is a minor recurring character in . He resides in Lilycove City.",
+  "plainText": "Vladimir the Attacker (Japanese: ジンベイ Jinbei), who is also known as Ralph, is a minor recurring character in . He resides in Lilycove City.\n\n==History==\nVladimir debuted in Pokéblock, Stock and Berry, where he escorted and Max to his impressive course in a bid to teach Ash's Swellow how to master . Using his , Vladimir demonstrated the correct way to use the move. He set up a bunch of targets and told Ash that he had to try and get Swellow to hit them. Ash had Swellow try this multiple times, without much success. By Lessons in Lilycove, however, Swellow got the move down perfectly. Ash thanked Vladimir for his assistance and continued on with towards Mossdeep City.\n\n==Character==\nVladimir was a strong Pokémon Trainer in the past, though little is known about this. In his debut, and Max bowed down to him out of respect. He quickly spotted the flaws in 's technique and was able to assist Ash in perfecting the move's accuracy and timing.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n==Trivia==\nHis English name comes from the posthumous moniker of Vlad III: .\nHis Japanese name may derive from , a famous samurai, as Aerial Ace's Japanese name (つばめがえし Swallow Return) is based on a sword technique used by , another famous swordsman.\n\n \n \n \n \n\nes:Vladimir\nfr:Ralph (Hoenn)\nit:Vladimir\nzh:甚平",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Vladimir the Attacker (Japanese: ジンベイ Jinbei), who is also known as Ralph, is a minor recurring character in . He resides in Lilycove City."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Vladimir debuted in Pokéblock, Stock and Berry, where he escorted and Max to his impressive course in a bid to teach Ash's Swellow how to master . Using his , Vladimir demonstrated the correct way to use the move. He set up a bunch of targets and told Ash that he had to try and get Swellow to hit them. Ash had Swellow try this multiple times, without much success. By Lessons in Lilycove, however, Swellow got the move down perfectly. Ash thanked Vladimir for his assistance and continued on with towards Mossdeep City."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Vladimir was a strong Pokémon Trainer in the past, though little is known about this. In his debut, and Max bowed down to him out of respect. He quickly spotted the flaws in 's technique and was able to assist Ash in perfecting the move's accuracy and timing."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "His English name comes from the posthumous moniker of Vlad III: .\nHis Japanese name may derive from , a famous samurai, as Aerial Ace's Japanese name (つばめがえし Swallow Return) is based on a sword technique used by , another famous swordsman.\n\n \n \n \n \n\nes:Vladimir\nfr:Ralph (Hoenn)\nit:Vladimir\nzh:甚平"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Vladimir",
+    "pageType": "character",
+    "searchableText": "Vladimir\nCategory:Animation characters\nVladimir the Attacker (Japanese: ジンベイ Jinbei), who is also known as Ralph, is a minor recurring character in . He resides in Lilycove City.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Trivia"
+    ],
+    "characterCount": 1293,
+    "sectionCount": 4
+  }
+}

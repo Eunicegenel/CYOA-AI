@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Bang Zoom! Studios",
+    "slug": "bang-zoom-studios",
+    "pageId": 295570,
+    "revisionId": 4526619
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Anime stubs",
+    "sourceFileName": "bang-zoom-studios__295570.json",
+    "revisionTimestamp": "2026-04-09T14:58:34Z",
+    "fetchedAt": "2026-05-14T14:04:35.576Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Bang Zoom! Studios (formerly Bang Zoom! Entertainment) is a production company and recording studio founded in 1993 by Eric P. Sherman that produces the English dubs of Pokémon animation and game projects through their office in .",
+  "plainText": "Bang Zoom! Studios (formerly Bang Zoom! Entertainment) is a production company and recording studio founded in 1993 by Eric P. Sherman that produces the English dubs of Pokémon animation and game projects through their office in . \n\n==English projects==\nDetective Pikachu (video game)\nPokémon Masters Animated Trailer\nPokémon Masters EX\nNew Pokémon Snap\nPokémon Evolutions\nBidoof's Big Stand\nPokémon: Path to the Peak\nDetective Pikachu Returns\n\n==English voice directors==\nTony Oliver (Pokémon Evolutions, Bidoof's Big Stand)\nJamie Mortellaro (Pokémon Evolutions (PE01 - PE04, PE06 - PE08), Detective Pikachu (video game))\nKathy Pilon (Pokémon: Path to the Peak, Pokémon Masters Animated Trailer, Detective Pikachu Returns, Pokémon Masters EX)\nPhilip Bache (New Pokémon Snap}\n\n==External links==\nOfficial website\nOfficial Twitter account\non Wikipedia",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bang Zoom! Studios (formerly Bang Zoom! Entertainment) is a production company and recording studio founded in 1993 by Eric P. Sherman that produces the English dubs of Pokémon animation and game projects through their office in ."
+    },
+    {
+      "heading": "English projects",
+      "level": 2,
+      "text": "Detective Pikachu (video game)\nPokémon Masters Animated Trailer\nPokémon Masters EX\nNew Pokémon Snap\nPokémon Evolutions\nBidoof's Big Stand\nPokémon: Path to the Peak\nDetective Pikachu Returns"
+    },
+    {
+      "heading": "English voice directors",
+      "level": 2,
+      "text": "Tony Oliver (Pokémon Evolutions, Bidoof's Big Stand)\nJamie Mortellaro (Pokémon Evolutions (PE01 - PE04, PE06 - PE08), Detective Pikachu (video game))\nKathy Pilon (Pokémon: Path to the Peak, Pokémon Masters Animated Trailer, Detective Pikachu Returns, Pokémon Masters EX)\nPhilip Bache (New Pokémon Snap}"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nOfficial Twitter account\non Wikipedia"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bang Zoom! Studios",
+    "pageType": "general-anime-lore",
+    "searchableText": "Bang Zoom! Studios\nCategory:Anime stubs\nBang Zoom! Studios (formerly Bang Zoom! Entertainment) is a production company and recording studio founded in 1993 by Eric P. Sherman that produces the English dubs of Pokémon animation and game projects through their office in .",
+    "sectionHeadings": [
+      "Lead",
+      "English projects",
+      "English voice directors",
+      "External links"
+    ],
+    "characterCount": 850,
+    "sectionCount": 4
+  }
+}

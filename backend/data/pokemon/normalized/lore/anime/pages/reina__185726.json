@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Reina",
+    "slug": "reina",
+    "pageId": 185726,
+    "revisionId": 4289232
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Origins characters",
+    "sourceFileName": "reina__185726.json",
+    "revisionTimestamp": "2025-04-28T19:50:16Z",
+    "fetchedAt": "2026-05-14T14:46:03.217Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Reina (Japanese: レイナ Reina) is a recurring character in Pokémon Origins and a volunteer at the Lavender Volunteer Pokémon House.",
+  "plainText": "Reina (Japanese: レイナ Reina) is a recurring character in Pokémon Origins and a volunteer at the Lavender Volunteer Pokémon House.\n\n==History==\nReina first appeared in File 2: Cubone, where she met at Mr. Fuji's Pokémon House. She explained to Red who Mr. Fuji is and what the Pokémon House is for. She also told him about an orphaned whose mother was killed by Team Rocket. After finding out that Mr. Fuji was being held captive in the Pokémon Tower, she tried to think of a way to rescue him. When the townspeople stated that they are too scared of Team Rocket, as well as the ghosts living inside the tower, to rescue Mr. Fuji, she berated them for being too cowardly. \n\nLater, she heard going crazy inside its playpen and went over to check it. However, once she unlocked the door, Cubone escaped and ran off into the Pokémon Tower. She followed Cubone and helped keep it calm when it confronted Team Rocket. After Team Rocket was defeated, she saw Red off alongside the other townspeople.\n\nIn File 4: Charizard, she worriedly informed Mr. Fuji that Red had gone to face inside Cerulean Cave. When Mr. Fuji said that Red might not be able to win, she became fearful for her friend.\n\n==Pokémon==\n===Befriended===\n \n \n\n==In the games==\nReina appears in the Generation I and Generation II games and their remakes as a nameless NPC in Mr. Fuji's house. She is apparently Mr. Fuji's granddaughter.\n\n===Quotes===\n \nBefore defeating Team Rocket at Pokémon Tower\n\"This is really Mr.Fuji 's house. He's really kind! He looks after abandoned and orphaned !\"\nAfter defeating Team Rocket at Pokémon Tower\n\"It's so warm! are so nice to hug!\"\n \n\"Some cold-hearted people stop caring for their . Grandpa takes in the poor homeless and takes care of them.\"\n \n\"This is really Mr. Fuji 's house. He's really kind. He looks after abandoned and orphaned .\"\n \n\"Can you believe it? Some people get bored with taking care of Pokémon. Grandpa takes in such poor homeless Pokémon and takes care of them.\"\n\n===Sprites===\n \n\n==Voice actors==\n \n \n\n \n \n \n \n \n \n \n\nes:Reina\nit:Reina\nzh:丽奈",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Reina (Japanese: レイナ Reina) is a recurring character in Pokémon Origins and a volunteer at the Lavender Volunteer Pokémon House."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Reina first appeared in File 2: Cubone, where she met at Mr. Fuji's Pokémon House. She explained to Red who Mr. Fuji is and what the Pokémon House is for. She also told him about an orphaned whose mother was killed by Team Rocket. After finding out that Mr. Fuji was being held captive in the Pokémon Tower, she tried to think of a way to rescue him. When the townspeople stated that they are too scared of Team Rocket, as well as the ghosts living inside the tower, to rescue Mr. Fuji, she berated them for being too cowardly. \n\nLater, she heard going crazy inside its playpen and went over to check it. However, once she unlocked the door, Cubone escaped and ran off into the Pokémon Tower. She followed Cubone and helped keep it calm when it confronted Team Rocket. After Team Rocket was defeated, she saw Red off alongside the other townspeople.\n\nIn File 4: Charizard, she worriedly informed Mr. Fuji that Red had gone to face inside Cerulean Cave. When Mr. Fuji said that Red might not be able to win, she became fearful for her friend."
+    },
+    {
+      "heading": "In the games",
+      "level": 2,
+      "text": "Reina appears in the Generation I and Generation II games and their remakes as a nameless NPC in Mr. Fuji's house. She is apparently Mr. Fuji's granddaughter."
+    },
+    {
+      "heading": "Quotes",
+      "level": 3,
+      "text": "Before defeating Team Rocket at Pokémon Tower\n\"This is really Mr.Fuji 's house. He's really kind! He looks after abandoned and orphaned !\"\nAfter defeating Team Rocket at Pokémon Tower\n\"It's so warm! are so nice to hug!\"\n \n\"Some cold-hearted people stop caring for their . Grandpa takes in the poor homeless and takes care of them.\"\n \n\"This is really Mr. Fuji 's house. He's really kind. He looks after abandoned and orphaned .\"\n \n\"Can you believe it? Some people get bored with taking care of Pokémon. Grandpa takes in such poor homeless Pokémon and takes care of them.\""
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Reina\nit:Reina\nzh:丽奈"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Reina",
+    "pageType": "character",
+    "searchableText": "Reina\nCategory:Pokémon Origins characters\nReina (Japanese: レイナ Reina) is a recurring character in Pokémon Origins and a volunteer at the Lavender Volunteer Pokémon House.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "In the games",
+      "Quotes",
+      "Voice actors"
+    ],
+    "characterCount": 2060,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Mika (DPM)",
+    "slug": "mika-dpm",
+    "pageId": 251923,
+    "revisionId": 4131245
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga characters",
+    "sourceFileName": "mika-dpm__251923.json",
+    "revisionTimestamp": "2024-09-29T04:15:25Z",
+    "fetchedAt": "2026-05-14T15:26:30.648Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n(Japanese: ミカ Mika) is a main character who appeared in Daisuki ♥ Pocket Monsters. She is a friend of Chloe and goes to the same school as her. Mika aims to become a and catch all cute in the , though her attempts to befriend them often get her in trouble.\n\n \n \n \n\nit:Mika (DPM)\nzh:美香",
+  "plainText": "----\n(Japanese: ミカ Mika) is a main character who appeared in Daisuki ♥ Pocket Monsters. She is a friend of Chloe and goes to the same school as her. Mika aims to become a and catch all cute in the , though her attempts to befriend them often get her in trouble.\n\n \n \n \n\nit:Mika (DPM)\nzh:美香",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n(Japanese: ミカ Mika) is a main character who appeared in Daisuki ♥ Pocket Monsters. She is a friend of Chloe and goes to the same school as her. Mika aims to become a and catch all cute in the , though her attempts to befriend them often get her in trouble.\n\n \n \n \n\nit:Mika (DPM)\nzh:美香"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mika (DPM)",
+    "pageType": "character",
+    "searchableText": "Mika (DPM)\nCategory:Manga characters\n----\n(Japanese: ミカ Mika) is a main character who appeared in Daisuki ♥ Pocket Monsters. She is a friend of Chloe and goes to the same school as her. Mika aims to become a and catch all cute in the , though her attempts to befriend them often get her in trouble.\n\n \n \n \n\nit:Mika (DPM)\nzh:美香",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 289,
+    "sectionCount": 1
+  }
+}

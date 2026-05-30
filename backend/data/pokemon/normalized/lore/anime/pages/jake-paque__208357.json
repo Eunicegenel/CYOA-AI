@@ -1,0 +1,111 @@
+{
+  "identity": {
+    "title": "Jake Paque",
+    "slug": "jake-paque",
+    "pageId": 208357,
+    "revisionId": 4323350
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "jake-paque__208357.json",
+    "revisionTimestamp": "2025-06-24T03:28:36Z",
+    "fetchedAt": "2026-05-14T14:25:30.636Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Jacob \"Jake\" Paque is an American voice actor for the English-language dub of .",
+  "plainText": "Jacob \"Jake\" Paque is an American voice actor for the English-language dub of .\n\n==Biography==\nAs an adult, Paque became a voice actor and mostly got minor roles in the beginning. He usually provided his voice for English-dubbed versions of international shows. He first voiced Eric in Genesect and the Legend Awakened and formally joined the in the beginning of . Paque's most prominent role in the Pokémon franchise is .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\n\nZipp\n\n======Minor======\nEric\nOrson\nStan\nLevi\nCount Pumpka's steward\nVillager A (XY119)\nPokémon Base Announcer\n(SM081)\nCrowd (SM028)\n\n=====Pokémon=====\n======Major======\nOfficer Jenny's Manectric\n\n======Minor======\n\n(Pikachu Rock Star)\n\nand \n\n(SM001, SM031)\n(XY099, XY100)\n\n=====Other=====\nDrone Rotom\n\n====I Choose You! trilogy====\nJason\n\n==Other non-Pokémon roles==\nBoyz/Byse ( )\nDumon, Devin Knox ( )\nBrandon ( )\nBirdman ( )\nBrian ( )\nRatmir ( )\nYusaku Fujiki/Playmaker ( )\n\n===Video game roles===\nCaydan Phoenix ( )\nMathieu Chaput ( )\nSoldier ( )\nDragon Voices ( )\n\n==Trivia==\nPaque is a member of Voices for Fosters alongside fellow Pokémon voice actresses Sarah Natochenny and Lisa Ortiz.\n\n==External links==\nOfficial website\nTwitter\nIMDb\nInstagram\n\n==References==\n \n\n \n\n \n\nit:Jake Paque",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jacob \"Jake\" Paque is an American voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "As an adult, Paque became a voice actor and mostly got minor roles in the beginning. He usually provided his voice for English-dubbed versions of international shows. He first voiced Eric in Genesect and the Legend Awakened and formally joined the in the beginning of . Paque's most prominent role in the Pokémon franchise is ."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Zipp"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Eric\nOrson\nStan\nLevi\nCount Pumpka's steward\nVillager A (XY119)\nPokémon Base Announcer\n(SM081)\nCrowd (SM028)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Officer Jenny's Manectric"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(Pikachu Rock Star)\n\nand \n\n(SM001, SM031)\n(XY099, XY100)"
+    },
+    {
+      "heading": "Other",
+      "level": 5,
+      "text": "Drone Rotom"
+    },
+    {
+      "heading": "I Choose You! trilogy",
+      "level": 4,
+      "text": "Jason"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Boyz/Byse ( )\nDumon, Devin Knox ( )\nBrandon ( )\nBirdman ( )\nBrian ( )\nRatmir ( )\nYusaku Fujiki/Playmaker ( )"
+    },
+    {
+      "heading": "Video game roles",
+      "level": 3,
+      "text": "Caydan Phoenix ( )\nMathieu Chaput ( )\nSoldier ( )\nDragon Voices ( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Paque is a member of Voices for Fosters alongside fellow Pokémon voice actresses Sarah Natochenny and Lisa Ortiz."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTwitter\nIMDb\nInstagram"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:Jake Paque"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jake Paque",
+    "pageType": "general-anime-lore",
+    "searchableText": "Jake Paque\nCategory:TPCi voice actors\nJacob \"Jake\" Paque is an American voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Other",
+      "I Choose You! trilogy",
+      "Other non-Pokémon roles",
+      "Video game roles",
+      "Trivia",
+      "External links",
+      "References"
+    ],
+    "characterCount": 1296,
+    "sectionCount": 13
+  }
+}

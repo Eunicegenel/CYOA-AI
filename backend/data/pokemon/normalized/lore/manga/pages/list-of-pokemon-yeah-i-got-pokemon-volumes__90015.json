@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pokémon: Yeah! I Got Pokémon! volumes",
+    "slug": "list-of-pokemon-yeah-i-got-pokemon-volumes",
+    "pageId": 90015,
+    "revisionId": 4131084
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! volumes",
+    "sourceFileName": "list-of-pokemon-yeah-i-got-pokemon-volumes__90015.json",
+    "revisionTimestamp": "2024-09-29T03:58:56Z",
+    "fetchedAt": "2026-05-14T15:25:00.917Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "This is a list of volumes of the Pokémon: Yeah! I Got Pokémon! created by Miho Asada. There are five volumes in total. The first volume was officially translated into English by Chuang Yi across three different magazine releases.",
+  "plainText": "This is a list of volumes of the Pokémon: Yeah! I Got Pokémon! created by Miho Asada. There are five volumes in total. The first volume was officially translated into English by Chuang Yi across three different magazine releases.\n\n==List of volumes==\n \n\n \n\n \n \n\nit:Elenco dei volumi di Pokémon\nzh:宝可梦大搜捕单行本列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of volumes of the Pokémon: Yeah! I Got Pokémon! created by Miho Asada. There are five volumes in total. The first volume was officially translated into English by Chuang Yi across three different magazine releases."
+    },
+    {
+      "heading": "List of volumes",
+      "level": 2,
+      "text": "it:Elenco dei volumi di Pokémon\nzh:宝可梦大搜捕单行本列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon: Yeah! I Got Pokémon! volumes",
+    "pageType": "pokemon-related",
+    "searchableText": "List of Pokémon: Yeah! I Got Pokémon! volumes\nCategory:Pokémon: Yeah! I Got Pokémon! volumes\nThis is a list of volumes of the Pokémon: Yeah! I Got Pokémon! created by Miho Asada. There are five volumes in total. The first volume was officially translated into English by Chuang Yi across three different magazine releases.",
+    "sectionHeadings": [
+      "Lead",
+      "List of volumes"
+    ],
+    "characterCount": 308,
+    "sectionCount": 2
+  }
+}

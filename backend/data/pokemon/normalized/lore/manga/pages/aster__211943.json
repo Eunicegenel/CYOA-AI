@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Aster",
+    "slug": "aster",
+    "pageId": 211943,
+    "revisionId": 4545714
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "aster__211943.json",
+    "revisionTimestamp": "2026-05-06T13:27:06Z",
+    "fetchedAt": "2026-05-14T15:13:39.277Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Aster (Japanese: シガナ Shigana) is a character mentioned in . She was a person with special powers who held the position of Lorekeeper before Zinnia. She is never seen in any media and is implied to be deceased.",
+  "plainText": "Aster (Japanese: シガナ Shigana) is a character mentioned in . She was a person with special powers who held the position of Lorekeeper before Zinnia. She is never seen in any media and is implied to be deceased.\n\n==In the core series games==\n\n=== History ===\n\n==== Pokémon Omega Ruby and Alpha Sapphire ====\n\n===== Delta Episode =====\nAster is first mentioned at the beginning of the Delta Episode by Zinnia, who swears to Aster that she will protect the world from an incoming meteoroid. Near the end of the Delta Episode, Zinnia reveals to the that she and Aster used to be together all the time before the latter was lost.\n\n==In the manga==\n===Pokémon Adventures===\n==== ====\nAster debuts in this chapter. She was one of the Draconids and was given the title of Lorekeeper due to possessing special powers. She had also befriended , the Legendary Pokémon revered by the Draconids, and was the only known member of the clan to have permission to ride on top of it.\n\nWhen the Devon Corporation came to the Embedded Tower in hopes of capturing Rayquaza so that the Pokémon Association could study it, Aster fought alongside Rayquaza in order to stop them. Though the battle went unseen, Rayquaza was successfully captured and taken away along with several Key Stones that Aster had collected. When Zinnia arrived at the tower, she found the area in flames and that Aster had died during the battle. Traumatized by Aster's death, Zinnia began to cry so much that her voice eventually gave out. She also took a partially burnt cloak belonging to Aster as a memento.\n\nWith Aster dead, the title of Lorekeeper was passed down to Zinnia. Despite this, some Draconids were opposed to Zinnia becoming the next Lorekeeper, as she was not as strong as Aster and did not possess the abilities needed to stop the meteoroid that was foreseen to crash into the planet.\n\n====Pokémon====\n \n\n=====Befriended=====\n \n\n==Trivia==\nAlthough Aster is never physically seen in any media, in the Pokémon Evolutions episode The Wish, young Zinnia is seen with another Lorekeeper, who is probably Aster.\n\n==Names==\n \n\n==References==\n \n\n \n\n \n \n \n \n \n\nde:Avelina\nit:Siryl\nja:シガナ\nzh:汐嘉娜",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Aster (Japanese: シガナ Shigana) is a character mentioned in . She was a person with special powers who held the position of Lorekeeper before Zinnia. She is never seen in any media and is implied to be deceased."
+    },
+    {
+      "heading": "Delta Episode",
+      "level": 5,
+      "text": "Aster is first mentioned at the beginning of the Delta Episode by Zinnia, who swears to Aster that she will protect the world from an incoming meteoroid. Near the end of the Delta Episode, Zinnia reveals to the that she and Aster used to be together all the time before the latter was lost."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Aster debuts in this chapter. She was one of the Draconids and was given the title of Lorekeeper due to possessing special powers. She had also befriended , the Legendary Pokémon revered by the Draconids, and was the only known member of the clan to have permission to ride on top of it.\n\nWhen the Devon Corporation came to the Embedded Tower in hopes of capturing Rayquaza so that the Pokémon Association could study it, Aster fought alongside Rayquaza in order to stop them. Though the battle went unseen, Rayquaza was successfully captured and taken away along with several Key Stones that Aster had collected. When Zinnia arrived at the tower, she found the area in flames and that Aster had died during the battle. Traumatized by Aster's death, Zinnia began to cry so much that her voice eventually gave out. She also took a partially burnt cloak belonging to Aster as a memento.\n\nWith Aster dead, the title of Lorekeeper was passed down to Zinnia. Despite this, some Draconids were opposed to Zinnia becoming the next Lorekeeper, as she was not as strong as Aster and did not possess the abilities needed to stop the meteoroid that was foreseen to crash into the planet."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Although Aster is never physically seen in any media, in the Pokémon Evolutions episode The Wish, young Zinnia is seen with another Lorekeeper, who is probably Aster."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "de:Avelina\nit:Siryl\nja:シガナ\nzh:汐嘉娜"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Aster",
+    "pageType": "character",
+    "searchableText": "Aster\nCategory:Pokémon Adventures characters\nAster (Japanese: シガナ Shigana) is a character mentioned in . She was a person with special powers who held the position of Lorekeeper before Zinnia. She is never seen in any media and is implied to be deceased.",
+    "sectionHeadings": [
+      "Lead",
+      "Delta Episode",
+      "",
+      "Trivia",
+      "References"
+    ],
+    "characterCount": 2155,
+    "sectionCount": 5
+  }
+}

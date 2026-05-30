@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Message from the Aurora",
+    "slug": "message-from-the-aurora",
+    "pageId": 255404,
+    "revisionId": 4528301
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Planetarium specials",
+    "sourceFileName": "message-from-the-aurora__255404.json",
+    "revisionTimestamp": "2026-04-09T16:14:38Z",
+    "fetchedAt": "2026-05-14T14:36:29.412Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "(Japanese: ポケットモンスター　オーロラからのメッセージ : Message from the Aurora) is an animated series special that was shown at various planetariums and museums in Japan, being the seventh of such specials. It debuted at an advance special screening at the Toyohashi Planetarium on August 29, 2020. It was initially intended to debut in summer 2020, but was rescheduled due to the COVID-19 pandemic. It is 27 minutes long, and is sometimes shown with a 15-minute presentation about the sky.",
+  "plainText": "(Japanese: ポケットモンスター　オーロラからのメッセージ : Message from the Aurora) is an animated series special that was shown at various planetariums and museums in Japan, being the seventh of such specials. It debuted at an advance special screening at the Toyohashi Planetarium on August 29, 2020. It was initially intended to debut in summer 2020, but was rescheduled due to the COVID-19 pandemic. It is 27 minutes long, and is sometimes shown with a 15-minute presentation about the sky.\n\n==Blurb==\n \n \n \n\n==Airings==\n \n\n==Plot==\n \n \n \n\n==Characters==\n===Humans===\n\nGoh\nJessie\nJames\nProfessor Cerise\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( 's)\n( )\n( )\n\n==External links==\nKonica Minolta page\nOfficial trailer\nDogasu's Backpack\n\n}}\n \n \n\n \n\nes:PL07\nit:Planetarium Pocket Monsters Aurora kara no message\nja:ポケットモンスター オーロラからのメッセージ\nzh:宝可梦 天文馆 第7集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケットモンスター　オーロラからのメッセージ : Message from the Aurora) is an animated series special that was shown at various planetariums and museums in Japan, being the seventh of such specials. It debuted at an advance special screening at the Toyohashi Planetarium on August 29, 2020. It was initially intended to debut in summer 2020, but was rescheduled due to the COVID-19 pandemic. It is 27 minutes long, and is sometimes shown with a 15-minute presentation about the sky."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nJessie\nJames\nProfessor Cerise"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( 's)\n( )\n( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Konica Minolta page\nOfficial trailer\nDogasu's Backpack\n\n}}\n \n \n\n \n\nes:PL07\nit:Planetarium Pocket Monsters Aurora kara no message\nja:ポケットモンスター オーロラからのメッセージ\nzh:宝可梦 天文馆 第7集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Message from the Aurora",
+    "pageType": "general-anime-lore",
+    "searchableText": "Message from the Aurora\nCategory:Planetarium specials\n(Japanese: ポケットモンスター　オーロラからのメッセージ : Message from the Aurora) is an animated series special that was shown at various planetariums and museums in Japan, being the seventh of such specials. It debuted at an advance special screening at the Toyohashi Planetarium on August 29, 2020. It was initially intended to debut in summer 2020, but was rescheduled due to the COVID-19 pandemic. It is 27 minutes long, and is sometimes shown with a 15-minute presentation about the sky.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "External links"
+    ],
+    "characterCount": 818,
+    "sectionCount": 4
+  }
+}

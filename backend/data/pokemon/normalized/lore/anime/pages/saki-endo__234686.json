@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Saki Endo",
+    "slug": "saki-endo",
+    "pageId": 234686,
+    "revisionId": 4323388
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "saki-endo__234686.json",
+    "revisionTimestamp": "2025-06-24T03:29:16Z",
+    "fetchedAt": "2026-05-14T14:47:59.571Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Saki Endo (Japanese: 遠藤沙季 Endō Saki) is a Japanese voice actress for .",
+  "plainText": "Saki Endo (Japanese: 遠藤沙季 Endō Saki) is a Japanese voice actress for .\n\n==Biography==\nEndo was born on March 7, 1986 in , , and became a voice actress as an adult. She joined during , where she voiced Team Skull Admin Plumeria. Endo is currently affiliated with New Walkers.\n\n==Pokémon roles==\n===Animation===\n==== ====\nPlumeria\nChrysa's mother\n\n====Pokémon Masters Animated Trailer====\n\n==Other non-Pokémon roles==\nTakami ( )\nMarlene ( )\nMayama, Sumika ( )\n\n==External links==\nMy Anime List\nNew Walkers profile\nTwitter\nOfficial blog",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Saki Endo (Japanese: 遠藤沙季 Endō Saki) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Endo was born on March 7, 1986 in , , and became a voice actress as an adult. She joined during , where she voiced Team Skull Admin Plumeria. Endo is currently affiliated with New Walkers."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Plumeria\nChrysa's mother"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Takami ( )\nMarlene ( )\nMayama, Sumika ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "My Anime List\nNew Walkers profile\nTwitter\nOfficial blog"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Saki Endo",
+    "pageType": "general-anime-lore",
+    "searchableText": "Saki Endo\nCategory:Japanese voice actors\nSaki Endo (Japanese: 遠藤沙季 Endō Saki) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 533,
+    "sectionCount": 5
+  }
+}

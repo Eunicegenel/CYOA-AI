@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pokémon Pocket Monsters chapters",
+    "slug": "list-of-pokemon-pocket-monsters-chapters",
+    "pageId": 181415,
+    "revisionId": 4131206
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "list-of-pokemon-pocket-monsters-chapters__181415.json",
+    "revisionTimestamp": "2024-09-29T04:14:46Z",
+    "fetchedAt": "2026-05-14T15:24:50.875Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The following is a list of chapters from the Pokémon Pocket Monsters created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "The following is a list of chapters from the Pokémon Pocket Monsters created by 穴久保幸作 Kosaku Anakubo.\n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n== ==\n \n\n \n\n \n \n\nit:Elenco dei capitoli di Pokémon Pocket Monsters",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of chapters from the Pokémon Pocket Monsters created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "",
+      "level": 2,
+      "text": "it:Elenco dei capitoli di Pokémon Pocket Monsters"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon Pocket Monsters chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Pokémon Pocket Monsters chapters\nCategory:Pokémon Pocket Monsters chapters\nThe following is a list of chapters from the Pokémon Pocket Monsters created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      ""
+    ],
+    "characterCount": 286,
+    "sectionCount": 2
+  }
+}

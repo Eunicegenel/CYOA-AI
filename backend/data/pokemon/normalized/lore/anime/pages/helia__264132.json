@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Helia",
+    "slug": "helia",
+    "pageId": 264132,
+    "revisionId": 4541063
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "helia__264132.json",
+    "revisionTimestamp": "2026-04-29T21:07:56Z",
+    "fetchedAt": "2026-05-14T14:22:11.144Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Helia (Japanese: ヒマリ Himari) is a character of the day who appeared in Night and Day, You are the Ones!. She is the grandmother of Soleil and a descendant of Sorin, the first liege of Eclipse Castle. Helia was the present day liege, until she passed down the title to Soleil.\n\nHelia met and Goh outside Eclipse Castle and told them about the Eclipse Festival before they realized that Chloe and her were missing. Helia met Chloe when she returned with Soleil, having switched clothes. Helia was present with Soleil as she was about to become the liege of Eclipse Castle, only for the ceremony to be interrupted by Ilunas who had kidnapped Chloe, believing her to be Soleil. Helia watched Chloe and Soleil battle Ilunas, which saw Ilunas get defeated.\n\nShe reappeared in a flashback in Infinite Possibilities!.",
+  "plainText": "Helia (Japanese: ヒマリ Himari) is a character of the day who appeared in Night and Day, You are the Ones!. She is the grandmother of Soleil and a descendant of Sorin, the first liege of Eclipse Castle. Helia was the present day liege, until she passed down the title to Soleil.\n\nHelia met and Goh outside Eclipse Castle and told them about the Eclipse Festival before they realized that Chloe and her were missing. Helia met Chloe when she returned with Soleil, having switched clothes. Helia was present with Soleil as she was about to become the liege of Eclipse Castle, only for the ceremony to be interrupted by Ilunas who had kidnapped Chloe, believing her to be Soleil. Helia watched Chloe and Soleil battle Ilunas, which saw Ilunas get defeated.\n\nShe reappeared in a flashback in Infinite Possibilities!.\n\n==Voice actors==\n \n\n==Names==\n \n \n \n\n \n \n \n\nes:Helia\nit:Helia\nzh:日鞠",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Helia (Japanese: ヒマリ Himari) is a character of the day who appeared in Night and Day, You are the Ones!. She is the grandmother of Soleil and a descendant of Sorin, the first liege of Eclipse Castle. Helia was the present day liege, until she passed down the title to Soleil.\n\nHelia met and Goh outside Eclipse Castle and told them about the Eclipse Festival before they realized that Chloe and her were missing. Helia met Chloe when she returned with Soleil, having switched clothes. Helia was present with Soleil as she was about to become the liege of Eclipse Castle, only for the ceremony to be interrupted by Ilunas who had kidnapped Chloe, believing her to be Soleil. Helia watched Chloe and Soleil battle Ilunas, which saw Ilunas get defeated.\n\nShe reappeared in a flashback in Infinite Possibilities!."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Helia\nit:Helia\nzh:日鞠"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Helia",
+    "pageType": "character",
+    "searchableText": "Helia\nCategory:Journeys characters of the day\nHelia (Japanese: ヒマリ Himari) is a character of the day who appeared in Night and Day, You are the Ones!. She is the grandmother of Soleil and a descendant of Sorin, the first liege of Eclipse Castle. Helia was the present day liege, until she passed down the title to Soleil.\n\nHelia met and Goh outside Eclipse Castle and told them about the Eclipse Festival before they realized that Chloe and her were missing. Helia met Chloe when she returned with Soleil, having switched clothes. Helia was present with Soleil as she was about to become the liege of Eclipse Castle, only for the ceremony to be interrupted by Ilunas who had kidnapped Chloe, believing her to be Soleil. Helia watched Chloe and Soleil battle Ilunas, which saw Ilunas get defeated.\n\nShe reappeared in a flashback in Infinite Possibilities!.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 878,
+    "sectionCount": 2
+  }
+}

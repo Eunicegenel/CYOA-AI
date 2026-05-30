@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Volley Town",
+    "slug": "volley-town",
+    "pageId": 28252,
+    "revisionId": 4261267
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "volley-town__28252.json",
+    "revisionTimestamp": "2025-03-19T21:52:13Z",
+    "fetchedAt": "2026-05-14T14:57:09.189Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Volley Town (Japanese: バレータウン Valley Town) is an -exclusive location in Hoenn, found between Fortree City and Lilycove City. It was featured in Crazy as a Lunatone.\n\nVolley Town appears to be based on a classic town, with dirt roads and wooden buildings. It is surrounded by steep cliffs on all sides and accessible only through narrow passes.\n\n , , , and Max were on their way to Lilycove City for May's next and decided to take a rest at Volley Town, only to discover that the town was deserted. They located its Pokémon Center, though the town's Nurse Joy seemed a little odd.\n\nLater, it was discovered that the townspeople, including Nurse Joy, were under the control of a that had crash-landed nearby from outer space. Lunatone began to run out energy and lost its hold on the locals, which allowed Nurse Joy to heal it. She accompanied Ash and to nearby Camerupt Point to help Lunatone return to its home.",
+  "plainText": "Volley Town (Japanese: バレータウン Valley Town) is an -exclusive location in Hoenn, found between Fortree City and Lilycove City. It was featured in Crazy as a Lunatone.\n\nVolley Town appears to be based on a classic town, with dirt roads and wooden buildings. It is surrounded by steep cliffs on all sides and accessible only through narrow passes.\n\n , , , and Max were on their way to Lilycove City for May's next and decided to take a rest at Volley Town, only to discover that the town was deserted. They located its Pokémon Center, though the town's Nurse Joy seemed a little odd.\n\nLater, it was discovered that the townspeople, including Nurse Joy, were under the control of a that had crash-landed nearby from outer space. Lunatone began to run out energy and lost its hold on the locals, which allowed Nurse Joy to heal it. She accompanied Ash and to nearby Camerupt Point to help Lunatone return to its home.\n\n==Places of interest==\n===Camerupt Point===\n \nCamerupt Point (Japanese: バクーダの丘 Hill) is a nearby mountain range. It got its name because of its distinct shape, which resembles a 's humps. Its clear view of the sky makes it a perfect location for people to enjoy stargazing.\n\nAfter Nurse Joy's recommendation, Ash and his friends headed towards Camerupt Point to help a Lunatone being chased by both and the Pokémon Mystery Club. With both Team Rocket and the Pokémon Mystery Club out of the way, Lunatone was able to absorb some moonlight to regain its energy and fly back into space.\n \n====Pokémon seen at Camerupt Point====\n \n\n \n \n \n\n \n \n\nes:Pueblo/Ciudad Volley\nit:Volley Town\nzh:溪谷鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volley Town (Japanese: バレータウン Valley Town) is an -exclusive location in Hoenn, found between Fortree City and Lilycove City. It was featured in Crazy as a Lunatone.\n\nVolley Town appears to be based on a classic town, with dirt roads and wooden buildings. It is surrounded by steep cliffs on all sides and accessible only through narrow passes.\n\n , , , and Max were on their way to Lilycove City for May's next and decided to take a rest at Volley Town, only to discover that the town was deserted. They located its Pokémon Center, though the town's Nurse Joy seemed a little odd.\n\nLater, it was discovered that the townspeople, including Nurse Joy, were under the control of a that had crash-landed nearby from outer space. Lunatone began to run out energy and lost its hold on the locals, which allowed Nurse Joy to heal it. She accompanied Ash and to nearby Camerupt Point to help Lunatone return to its home."
+    },
+    {
+      "heading": "Camerupt Point",
+      "level": 3,
+      "text": "Camerupt Point (Japanese: バクーダの丘 Hill) is a nearby mountain range. It got its name because of its distinct shape, which resembles a 's humps. Its clear view of the sky makes it a perfect location for people to enjoy stargazing.\n\nAfter Nurse Joy's recommendation, Ash and his friends headed towards Camerupt Point to help a Lunatone being chased by both and the Pokémon Mystery Club. With both Team Rocket and the Pokémon Mystery Club out of the way, Lunatone was able to absorb some moonlight to regain its energy and fly back into space."
+    },
+    {
+      "heading": "Pokémon seen at Camerupt Point",
+      "level": 4,
+      "text": "es:Pueblo/Ciudad Volley\nit:Volley Town\nzh:溪谷鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Volley Town",
+    "pageType": "location",
+    "searchableText": "Volley Town\nCategory:Animated series-exclusive locations\nVolley Town (Japanese: バレータウン Valley Town) is an -exclusive location in Hoenn, found between Fortree City and Lilycove City. It was featured in Crazy as a Lunatone.\n\nVolley Town appears to be based on a classic town, with dirt roads and wooden buildings. It is surrounded by steep cliffs on all sides and accessible only through narrow passes.\n\n , , , and Max were on their way to Lilycove City for May's next and decided to take a rest at Volley Town, only to discover that the town was deserted. They located its Pokémon Center, though the town's Nurse Joy seemed a little odd.\n\nLater, it was discovered that the townspeople, including Nurse Joy, were under the control of a that had crash-landed nearby from outer space. Lunatone began to run out energy and lost its hold on the locals, which allowed Nurse Joy to heal it. She accompanied Ash and to nearby Camerupt Point to help Lunatone return to its home.",
+    "sectionHeadings": [
+      "Lead",
+      "Camerupt Point",
+      "Pokémon seen at Camerupt Point"
+    ],
+    "characterCount": 1599,
+    "sectionCount": 3
+  }
+}

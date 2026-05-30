@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Goh's Grimer",
+    "slug": "gohs-grimer",
+    "pageId": 270989,
+    "revisionId": 4208949
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Goh's Pokémon",
+    "sourceFileName": "gohs-grimer__270989.json",
+    "revisionTimestamp": "2024-12-22T20:10:37Z",
+    "fetchedAt": "2026-05-14T14:20:54.398Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Goh's Grimer (Japanese: ゴウのベトベター Go's Betbeter) is the twenty-third that Goh in the Kanto region, and his thirty-sixth overall.",
+  "plainText": "Goh's Grimer (Japanese: ゴウのベトベター Go's Betbeter) is the twenty-third that Goh in the Kanto region, and his thirty-sixth overall.\n\n==History==\n=== ===\n \nGoh in Dreams Are Made of These! while he was participating in a Pokémon Orienteering competition.\n\nIn Panic in the Park!, when Cerise Park was experiencing an unexplained food shortage, Grimer was one of the Pokémon affected by the hunger and driven into fighting the other Pokémon. When Goh's Golurk went out of control due to the seal on its chest being removed, Grimer helped protect the from the flood caused by Golurk's rampage, allowing them to evolve into .\n\nIn Big Brother to the Rescue!, Grimer caused Cerise Park's water stream to be polluted by bathing in its water source, as it had given its previous cave home for to inhabit. As such, Goh, decided to help build Grimer a new home in the form of a pond that it could bathe in without polluting the stream. The pond was quickly completed, with helping to clean up the polluted stream afterwards.\n\nIn This Could be the Start of Something Big!, Grimer attended a surprise party hosted by the Lab members commemorating Goh and Ash's departure.\n\n==Personality and characteristics==\nGrimer is a friendly Pokémon who doesn't intend to cause harm to anyone, but can end up inadvertently causing problem to others around it, as seen by it polluting Cerise Park's water stream without meaning to. It also was considerate enough to offer its old home to a newcomer, having made friends with soon after its arrival in Cerise Park.\n\n==Moves used==\n \n \n \n\n==Related articles==\n \n\n \n \n\n \n\nes:Grimer de Goh\nit:Grimer di Goh",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Goh's Grimer (Japanese: ゴウのベトベター Go's Betbeter) is the twenty-third that Goh in the Kanto region, and his thirty-sixth overall."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Goh in Dreams Are Made of These! while he was participating in a Pokémon Orienteering competition.\n\nIn Panic in the Park!, when Cerise Park was experiencing an unexplained food shortage, Grimer was one of the Pokémon affected by the hunger and driven into fighting the other Pokémon. When Goh's Golurk went out of control due to the seal on its chest being removed, Grimer helped protect the from the flood caused by Golurk's rampage, allowing them to evolve into .\n\nIn Big Brother to the Rescue!, Grimer caused Cerise Park's water stream to be polluted by bathing in its water source, as it had given its previous cave home for to inhabit. As such, Goh, decided to help build Grimer a new home in the form of a pond that it could bathe in without polluting the stream. The pond was quickly completed, with helping to clean up the polluted stream afterwards.\n\nIn This Could be the Start of Something Big!, Grimer attended a surprise party hosted by the Lab members commemorating Goh and Ash's departure."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 2,
+      "text": "Grimer is a friendly Pokémon who doesn't intend to cause harm to anyone, but can end up inadvertently causing problem to others around it, as seen by it polluting Cerise Park's water stream without meaning to. It also was considerate enough to offer its old home to a newcomer, having made friends with soon after its arrival in Cerise Park."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Grimer de Goh\nit:Grimer di Goh"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Goh's Grimer",
+    "pageType": "pokemon-related",
+    "searchableText": "Goh's Grimer\nCategory:Goh's Pokémon\nGoh's Grimer (Japanese: ゴウのベトベター Go's Betbeter) is the twenty-third that Goh in the Kanto region, and his thirty-sixth overall.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Personality and characteristics",
+      "Related articles"
+    ],
+    "characterCount": 1622,
+    "sectionCount": 4
+  }
+}

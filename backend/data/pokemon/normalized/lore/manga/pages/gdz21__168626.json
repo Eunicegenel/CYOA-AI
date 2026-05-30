@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GDZ21",
+    "slug": "gdz21",
+    "pageId": 168626,
+    "revisionId": 4528708
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz21__168626.json",
+    "revisionTimestamp": "2026-04-09T16:48:35Z",
+    "fetchedAt": "2026-05-14T15:19:34.699Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ポケモン温泉、熱き熱きたたかい Pokémon Hot Springs, Hot-Hot Battle) is the twenty-first chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ポケモン温泉、熱き熱きたたかい Pokémon Hot Springs, Hot-Hot Battle) is the twenty-first chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's)\n(Shu's)\n( 's)\n\n==In other languages==\n \n\n \n \n \n\nit:GDZ21",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン温泉、熱き熱きたたかい Pokémon Hot Springs, Hot-Hot Battle) is the twenty-first chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's)\n(Shu's)\n( 's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:GDZ21"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ21",
+    "pageType": "chapter",
+    "searchableText": "GDZ21\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ポケモン温泉、熱き熱きたたかい Pokémon Hot Springs, Hot-Hot Battle) is the twenty-first chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 342,
+    "sectionCount": 4
+  }
+}

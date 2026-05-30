@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PMRS09",
+    "slug": "pmrs09",
+    "pageId": 155689,
+    "revisionId": 4264612
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs09__155689.json",
+    "revisionTimestamp": "2025-03-23T18:27:13Z",
+    "fetchedAt": "2026-05-14T15:33:13.420Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy's Training Camp!! (Japanese: はばたけ！　ピッピ男塾 Swing Your Arms! 's Private Lessons!!) is the ninth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Clefairy's Training Camp!! (Japanese: はばたけ！　ピッピ男塾 Swing Your Arms! 's Private Lessons!!) is the ninth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n has arrived in Petalburg City. He meets Roxanne the Gym leader, while she is carrying groceries back to the Gym. She invites Red inside and they find Roxanne's Nosepass studying.\n\n==Major events==\nRoxanne meets Red and shows him and his Pokémon to her Gym which is also a school.\n\n===Debuts===\n====Humans====\nRoxanne\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nRoxanne\n\n===Pokémon===\n( )\n( )\n( )\n( )\n\n \n\n \n \n \n\nit:PMRS09",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy's Training Camp!! (Japanese: はばたけ！　ピッピ男塾 Swing Your Arms! 's Private Lessons!!) is the ninth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "has arrived in Petalburg City. He meets Roxanne the Gym leader, while she is carrying groceries back to the Gym. She invites Red inside and they find Roxanne's Nosepass studying."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Roxanne meets Red and shows him and his Pokémon to her Gym which is also a school."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Roxanne"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Roxanne"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n\n \n\n \n \n \n\nit:PMRS09"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS09",
+    "pageType": "chapter",
+    "searchableText": "PMRS09\nCategory:Pokémon Ruby-Sapphire chapters\nClefairy's Training Camp!! (Japanese: はばたけ！　ピッピ男塾 Swing Your Arms! 's Private Lessons!!) is the ninth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 589,
+    "sectionCount": 6
+  }
+}

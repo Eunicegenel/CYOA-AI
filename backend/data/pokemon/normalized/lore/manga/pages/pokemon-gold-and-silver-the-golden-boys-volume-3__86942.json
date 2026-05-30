@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Gold & Silver: The Golden Boys volume 3",
+    "slug": "pokemon-gold-and-silver-the-golden-boys-volume-3",
+    "pageId": 86942,
+    "revisionId": 4298508
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys volumes",
+    "sourceFileName": "pokemon-gold-and-silver-the-golden-boys-volume-3__86942.json",
+    "revisionTimestamp": "2025-05-11T10:05:23Z",
+    "fetchedAt": "2026-05-14T15:36:28.400Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 3 is the third and final volume in the Pokémon Gold & Silver: The Golden Boys manga series authored and illustrated by Muneo Saitō.",
+  "plainText": "Volume 3 is the third and final volume in the Pokémon Gold & Silver: The Golden Boys manga series authored and illustrated by Muneo Saitō.\n\n==Publications==\n \n \n \n \n \n \n\n==Chapters==\nChapter 17: A Spectacular Battle to save Ampharos!!\nChapter 18: Let's Survive this Sea Battle\nChapter 19: The Truth About The Mysterious Whirl Islands!!\nChapter 20: A Serious Crisis!! The Battle With The Lugia\nChapter 21: The Secret of the Fighting Type Pokémon\nChapter 22: Farewell To Pikachu?!\nChapter 23: Let's Fight for the Future!!\n\n==Important events==\n\n==Party changes==\n===Additions===\n===Evolutions===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 3 is the third and final volume in the Pokémon Gold & Silver: The Golden Boys manga series authored and illustrated by Muneo Saitō."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 17: A Spectacular Battle to save Ampharos!!\nChapter 18: Let's Survive this Sea Battle\nChapter 19: The Truth About The Mysterious Whirl Islands!!\nChapter 20: A Serious Crisis!! The Battle With The Lugia\nChapter 21: The Secret of the Fighting Type Pokémon\nChapter 22: Farewell To Pikachu?!\nChapter 23: Let's Fight for the Future!!"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Gold & Silver: The Golden Boys volume 3",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Gold & Silver: The Golden Boys volume 3\nCategory:Pokémon Gold & Silver: The Golden Boys volumes\nVolume 3 is the third and final volume in the Pokémon Gold & Silver: The Golden Boys manga series authored and illustrated by Muneo Saitō.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 593,
+    "sectionCount": 2
+  }
+}

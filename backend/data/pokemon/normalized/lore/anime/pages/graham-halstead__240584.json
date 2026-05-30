@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Graham Halstead",
+    "slug": "graham-halstead",
+    "pageId": 240584,
+    "revisionId": 4323679
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "graham-halstead__240584.json",
+    "revisionTimestamp": "2025-06-24T03:34:26Z",
+    "fetchedAt": "2026-05-14T14:21:16.213Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Graham Halstead is a voice actor for the English-language dub of . He is currently affiliated with Ann Wright Representatives.",
+  "plainText": "Graham Halstead is a voice actor for the English-language dub of . He is currently affiliated with Ann Wright Representatives.\n\n==Biography==\nHalstead was born and raised in Virginia and became a voice actor as an adult. He joined the during where he voiced Character of the day Locke. He later gained a more notable role in the form of recurring character Kanoa. Halstead is now living and working in Brooklyn, New York City.\n\n==Pokémon roles==\n===Animation===\n==== ====\nLocke\n(XY116)\n\nKanoa\n\n==Other non-Pokémon roles==\nFitch ( )\nNed (Tippet)\nKevin (Kevin and Phoebe)\nMalcolm (Manhattan Confessionals)\nDavid (Shuttle)\nCorky (Duckporte)\nKenji ( )\nHydron (Atomicron)\nAlto (Bubble Marin)\nShinji ( )\nDuper ( )\n\n==External links==\nOfficial website\nTantor\nbehindthevoiceactors\n\n \n \n\nit:Graham Halstead",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Graham Halstead is a voice actor for the English-language dub of . He is currently affiliated with Ann Wright Representatives."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Halstead was born and raised in Virginia and became a voice actor as an adult. He joined the during where he voiced Character of the day Locke. He later gained a more notable role in the form of recurring character Kanoa. Halstead is now living and working in Brooklyn, New York City."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Locke\n(XY116)\n\nKanoa"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Fitch ( )\nNed (Tippet)\nKevin (Kevin and Phoebe)\nMalcolm (Manhattan Confessionals)\nDavid (Shuttle)\nCorky (Duckporte)\nKenji ( )\nHydron (Atomicron)\nAlto (Bubble Marin)\nShinji ( )\nDuper ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTantor\nbehindthevoiceactors\n\n \n \n\nit:Graham Halstead"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Graham Halstead",
+    "pageType": "general-anime-lore",
+    "searchableText": "Graham Halstead\nCategory:TPCi voice actors\nGraham Halstead is a voice actor for the English-language dub of . He is currently affiliated with Ann Wright Representatives.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 797,
+    "sectionCount": 5
+  }
+}

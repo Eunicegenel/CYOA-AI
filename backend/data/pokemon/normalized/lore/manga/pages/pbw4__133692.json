@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PBW4",
+    "slug": "pbw4",
+    "pageId": 133692,
+    "revisionId": 4549101
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Be the Best! Pokémon B+W",
+    "sourceFileName": "pbw4__133692.json",
+    "revisionTimestamp": "2026-05-11T01:14:56Z",
+    "fetchedAt": "2026-05-14T15:29:30.971Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Challenge the Battle Subway! (Japanese: 挑戦！バトルサブウェイ！！ Challenge! Battle Subway!!) is the fourth chapter of the Be the Best! Pokémon B+W manga. It was published in the October 2010 issue of CoroCoro Comics Special.",
+  "plainText": "Challenge the Battle Subway! (Japanese: 挑戦！バトルサブウェイ！！ Challenge! Battle Subway!!) is the fourth chapter of the Be the Best! Pokémon B+W manga. It was published in the October 2010 issue of CoroCoro Comics Special.\n\n==Plot==\n \n\n==Major events==\nMonta's is revealed to have evolved into .\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nMonta\n\n===Pokémon===\n( )\n(Monta's)\n( 's)\n( 's)\n\n==Trivia==\n\n==In other languages==\n \n \n\n \n\n \n\nzh:钻研吧!!宝可梦B・W 第4话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Challenge the Battle Subway! (Japanese: 挑戦！バトルサブウェイ！！ Challenge! Battle Subway!!) is the fourth chapter of the Be the Best! Pokémon B+W manga. It was published in the October 2010 issue of CoroCoro Comics Special."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Monta's is revealed to have evolved into ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Monta"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Monta's)\n( 's)\n( 's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "zh:钻研吧!!宝可梦B・W 第4话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PBW4",
+    "pageType": "pokemon-related",
+    "searchableText": "PBW4\nCategory:Be the Best! Pokémon B+W\nChallenge the Battle Subway! (Japanese: 挑戦！バトルサブウェイ！！ Challenge! Battle Subway!!) is the fourth chapter of the Be the Best! Pokémon B+W manga. It was published in the October 2010 issue of CoroCoro Comics Special.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 481,
+    "sectionCount": 5
+  }
+}

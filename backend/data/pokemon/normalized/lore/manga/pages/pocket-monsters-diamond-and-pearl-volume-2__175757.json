@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters Diamond & Pearl volume 2",
+    "slug": "pocket-monsters-diamond-and-pearl-volume-2",
+    "pageId": 175757,
+    "revisionId": 4528623
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl volumes",
+    "sourceFileName": "pocket-monsters-diamond-and-pearl-volume-2__175757.json",
+    "revisionTimestamp": "2026-04-09T16:31:12Z",
+    "fetchedAt": "2026-05-14T15:34:14.651Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 2 is the second and final volume of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "Volume 2 is the second and final volume of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Publications==\n \n \n\n \n==Chapters==\nArchenemy\nHippowdon's Mystery\nWild Luxray\nRain Shelter\nFirst Storm of the Spring\nReunion\nAsh and Dawn Huge Quarrel!?\nSaving Sharpedo!\nGhost Residence\nSwinub's Adventure\nMischievous Magnemite\nGluttonous Piplup\nWinter's Lake\nPikachu, Pinch at the Sea!\nPlaying in the Snow\n\n \n \n\nit:Pocket Monsters Diamond & Pearl volume 2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second and final volume of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Archenemy\nHippowdon's Mystery\nWild Luxray\nRain Shelter\nFirst Storm of the Spring\nReunion\nAsh and Dawn Huge Quarrel!?\nSaving Sharpedo!\nGhost Residence\nSwinub's Adventure\nMischievous Magnemite\nGluttonous Piplup\nWinter's Lake\nPikachu, Pinch at the Sea!\nPlaying in the Snow\n\n \n \n\nit:Pocket Monsters Diamond & Pearl volume 2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters Diamond & Pearl volume 2",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters Diamond & Pearl volume 2\nCategory:Pocket Monsters Diamond & Pearl volumes\nVolume 2 is the second and final volume of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 443,
+    "sectionCount": 2
+  }
+}

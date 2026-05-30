@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Genesect's home",
+    "slug": "genesects-home",
+    "pageId": 187426,
+    "revisionId": 4261146
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "genesects-home__187426.json",
+    "revisionTimestamp": "2025-03-19T21:50:40Z",
+    "fetchedAt": "2026-05-14T14:20:05.340Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Genesect's home is an -exclusive location in the Pokémon world. It is the place where the Genesect Army lived three hundred million years ago.\n\nIn the ancient past, it was a verdant place with many mountains and a large lake, where many Panna Lotus flowers bloomed. However, when the Genesect returned to the area after being resurrected by and escaping from Team Plasma, they found it had changed dramatically, now a snowy wasteland devoid of life. The Red Genesect was swept up by an avalanche but the others were saved by Mewtwo, who learned of their plight. Despite Mewtwo's conciliatory tone, though, it was attacked when the Red Genesect returned. After a brief conflict, the Genesect Army left and eventually arrived in New Tork City, which they mistook for their home because the city's tall buildings resembled the mountains that once stood there.",
+  "plainText": "Genesect's home is an -exclusive location in the Pokémon world. It is the place where the Genesect Army lived three hundred million years ago.\n\nIn the ancient past, it was a verdant place with many mountains and a large lake, where many Panna Lotus flowers bloomed. However, when the Genesect returned to the area after being resurrected by and escaping from Team Plasma, they found it had changed dramatically, now a snowy wasteland devoid of life. The Red Genesect was swept up by an avalanche but the others were saved by Mewtwo, who learned of their plight. Despite Mewtwo's conciliatory tone, though, it was attacked when the Red Genesect returned. After a brief conflict, the Genesect Army left and eventually arrived in New Tork City, which they mistook for their home because the city's tall buildings resembled the mountains that once stood there.\n\n==Related articles==\n \n \n \n\nes:Hogar de Genesect\nit:Casa dei Genesect",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Genesect's home is an -exclusive location in the Pokémon world. It is the place where the Genesect Army lived three hundred million years ago.\n\nIn the ancient past, it was a verdant place with many mountains and a large lake, where many Panna Lotus flowers bloomed. However, when the Genesect returned to the area after being resurrected by and escaping from Team Plasma, they found it had changed dramatically, now a snowy wasteland devoid of life. The Red Genesect was swept up by an avalanche but the others were saved by Mewtwo, who learned of their plight. Despite Mewtwo's conciliatory tone, though, it was attacked when the Red Genesect returned. After a brief conflict, the Genesect Army left and eventually arrived in New Tork City, which they mistook for their home because the city's tall buildings resembled the mountains that once stood there."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Hogar de Genesect\nit:Casa dei Genesect"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Genesect's home",
+    "pageType": "location",
+    "searchableText": "Genesect's home\nCategory:Animated series-exclusive locations\nGenesect's home is an -exclusive location in the Pokémon world. It is the place where the Genesect Army lived three hundred million years ago.\n\nIn the ancient past, it was a verdant place with many mountains and a large lake, where many Panna Lotus flowers bloomed. However, when the Genesect returned to the area after being resurrected by and escaping from Team Plasma, they found it had changed dramatically, now a snowy wasteland devoid of life. The Red Genesect was swept up by an avalanche but the others were saved by Mewtwo, who learned of their plight. Despite Mewtwo's conciliatory tone, though, it was attacked when the Red Genesect returned. After a brief conflict, the Genesect Army left and eventually arrived in New Tork City, which they mistook for their home because the city's tall buildings resembled the mountains that once stood there.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 927,
+    "sectionCount": 2
+  }
+}

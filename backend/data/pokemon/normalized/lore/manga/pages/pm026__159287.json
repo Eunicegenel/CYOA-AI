@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM026",
+    "slug": "pm026",
+    "pageId": 159287,
+    "revisionId": 4526207
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm026__159287.json",
+    "revisionTimestamp": "2026-04-09T14:24:28Z",
+    "fetchedAt": "2026-05-14T15:30:45.756Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy's Christmas Present?! (Japanese: ピッピのクリスマスプレゼント！？ Christmas Present!?) is the twenty-sixth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Clefairy's Christmas Present?! (Japanese: ピッピのクリスマスプレゼント！？ Christmas Present!?) is the twenty-sixth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nPokémon Fan Club Chairman\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nPokémon Fan Club Chairman\n\n===Pokémon===\n( ) \n( )\n( )\n(Giovanni's)\n(Giovanni's)\n\n==Trivia==\n\n \n \n \n\nde:Kapitel 26 (Pokémon Pocket Monsters)\nit:PMM026",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy's Christmas Present?! (Japanese: ピッピのクリスマスプレゼント！？ Christmas Present!?) is the twenty-sixth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Pokémon Fan Club Chairman"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Pokémon Fan Club Chairman"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(Giovanni's)\n(Giovanni's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 26 (Pokémon Pocket Monsters)\nit:PMM026"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM026",
+    "pageType": "chapter",
+    "searchableText": "PM026\nCategory:Pokémon Pocket Monsters chapters\nClefairy's Christmas Present?! (Japanese: ピッピのクリスマスプレゼント！？ Christmas Present!?) is the twenty-sixth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 434,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Molly (XY020)",
+    "slug": "molly-xy020",
+    "pageId": 191584,
+    "revisionId": 4095851
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kalos characters of the day",
+    "sourceFileName": "molly-xy020__191584.json",
+    "revisionTimestamp": "2024-09-01T00:43:16Z",
+    "fetchedAt": "2026-05-14T14:37:53.361Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Molly (Japanese: モリー Molly) is a character of the day who appeared in Breaking Titles at the Chateau!. She is a working at the Battle Chateau. Her tasks include welcoming guests, refereeing the s, and awarding s with new ranks.\n\nWhen , , Nico, and Chester came to visit the Battle Chateau, Molly welcomed them in the hall. She and the head of the Battle Chateau, Duke Turner, led the group to the Chateau's salon, which acts as a meeting place for Trainers. Afterwards, she refereed the battles between Nico and Farrell, Ash and Chester, and Viola and Grant.",
+  "plainText": "Molly (Japanese: モリー Molly) is a character of the day who appeared in Breaking Titles at the Chateau!. She is a working at the Battle Chateau. Her tasks include welcoming guests, refereeing the s, and awarding s with new ranks.\n\nWhen , , Nico, and Chester came to visit the Battle Chateau, Molly welcomed them in the hall. She and the head of the Battle Chateau, Duke Turner, led the group to the Chateau's salon, which acts as a meeting place for Trainers. Afterwards, she refereed the battles between Nico and Farrell, Ash and Chester, and Viola and Grant.\n\n==Voice actors==\n \n\n==Trivia==\nMolly's design is based on the from . More specifically, Molly is based on the maid who welcomes the and updates their ranks at the Battle Chateau.\n \n \n\n \n \n \n\nes:Molly (Kalos)\nfr:Molly (Kalos)\nit:Molly (XY020)\nzh:莫莉",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Molly (Japanese: モリー Molly) is a character of the day who appeared in Breaking Titles at the Chateau!. She is a working at the Battle Chateau. Her tasks include welcoming guests, refereeing the s, and awarding s with new ranks.\n\nWhen , , Nico, and Chester came to visit the Battle Chateau, Molly welcomed them in the hall. She and the head of the Battle Chateau, Duke Turner, led the group to the Chateau's salon, which acts as a meeting place for Trainers. Afterwards, she refereed the battles between Nico and Farrell, Ash and Chester, and Viola and Grant."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Molly's design is based on the from . More specifically, Molly is based on the maid who welcomes the and updates their ranks at the Battle Chateau.\n \n \n\n \n \n \n\nes:Molly (Kalos)\nfr:Molly (Kalos)\nit:Molly (XY020)\nzh:莫莉"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Molly (XY020)",
+    "pageType": "character",
+    "searchableText": "Molly (XY020)\nCategory:Kalos characters of the day\nMolly (Japanese: モリー Molly) is a character of the day who appeared in Breaking Titles at the Chateau!. She is a working at the Battle Chateau. Her tasks include welcoming guests, refereeing the s, and awarding s with new ranks.\n\nWhen , , Nico, and Chester came to visit the Battle Chateau, Molly welcomed them in the hall. She and the head of the Battle Chateau, Duke Turner, led the group to the Chateau's salon, which acts as a meeting place for Trainers. Afterwards, she refereed the battles between Nico and Farrell, Ash and Chester, and Viola and Grant.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 807,
+    "sectionCount": 2
+  }
+}

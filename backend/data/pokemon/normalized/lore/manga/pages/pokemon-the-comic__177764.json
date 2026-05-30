@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon the Comic",
+    "slug": "pokemon-the-comic",
+    "pageId": 177764,
+    "revisionId": 4312979
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "pokemon-the-comic__177764.json",
+    "revisionTimestamp": "2025-05-30T19:03:53Z",
+    "fetchedAt": "2026-05-14T15:38:04.113Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモン ザ コミック Pokémon the Comic) is an official Pokémon comic mook—a comic book with the layout and design of a magazine—released in Japan on June 7, 2013.",
+  "plainText": "(Japanese: ポケモン ザ コミック Pokémon the Comic) is an official Pokémon comic mook—a comic book with the layout and design of a magazine—released in Japan on June 7, 2013.\n\n==Content==\nA Pocket Monsters Special Dream Poster depicting Gym Leader and Champion characters from the Pokémon Adventures manga.\nA guide section with information about the Pokémon Adventures manga's first 15 main characters.\nA & Book Fare section, chronicling Hidenori Kusaka and Satoshi Yamamoto's trip to .\nThe first part of the Pokémon Adventures Mt. Silver special chapter, totaling 14 pages.\nThree different chapters of the of Pokémon Adventures, including PS500, PS501, and the Gym battle between and Drayden, totaling 78 pages.\nA total of 66 pages of Pocket Monsters BW: Good Partners, which is the finale of this manga (and the volume launched later).\nThe second part of the Pokémon Adventures Mt. Silver special chapter, totaling 14 pages.\n\nThe Pokémon Adventures Mt. Silver special is the and Pika chapter, which was announced during the 2011 Netkun popularity poll.\n\n==External links==\nPopular human results of the Netkun popularity poll (Japanese)\nPopular Pokémon results of the Netkun popularity poll (Japanese)\n\n==Related articles==\n \n \n \n \n \n\n \n \n\nde:Pokémon: The Comic\nit:Pokémon the Comic\nzh:宝可梦的漫画",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン ザ コミック Pokémon the Comic) is an official Pokémon comic mook—a comic book with the layout and design of a magazine—released in Japan on June 7, 2013."
+    },
+    {
+      "heading": "Content",
+      "level": 2,
+      "text": "A Pocket Monsters Special Dream Poster depicting Gym Leader and Champion characters from the Pokémon Adventures manga.\nA guide section with information about the Pokémon Adventures manga's first 15 main characters.\nA & Book Fare section, chronicling Hidenori Kusaka and Satoshi Yamamoto's trip to .\nThe first part of the Pokémon Adventures Mt. Silver special chapter, totaling 14 pages.\nThree different chapters of the of Pokémon Adventures, including PS500, PS501, and the Gym battle between and Drayden, totaling 78 pages.\nA total of 66 pages of Pocket Monsters BW: Good Partners, which is the finale of this manga (and the volume launched later).\nThe second part of the Pokémon Adventures Mt. Silver special chapter, totaling 14 pages.\n\nThe Pokémon Adventures Mt. Silver special is the and Pika chapter, which was announced during the 2011 Netkun popularity poll."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Popular human results of the Netkun popularity poll (Japanese)\nPopular Pokémon results of the Netkun popularity poll (Japanese)"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Pokémon: The Comic\nit:Pokémon the Comic\nzh:宝可梦的漫画"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon the Comic",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon the Comic\nCategory:Manga stubs\n(Japanese: ポケモン ザ コミック Pokémon the Comic) is an official Pokémon comic mook—a comic book with the layout and design of a magazine—released in Japan on June 7, 2013.",
+    "sectionHeadings": [
+      "Lead",
+      "Content",
+      "External links",
+      "Related articles"
+    ],
+    "characterCount": 1283,
+    "sectionCount": 4
+  }
+}

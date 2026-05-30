@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Kasado City",
+    "slug": "kasado-city",
+    "pageId": 65851,
+    "revisionId": 4261185
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "kasado-city__65851.json",
+    "revisionTimestamp": "2025-03-19T21:51:19Z",
+    "fetchedAt": "2026-05-14T14:28:37.372Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "(Japanese: カサドシティ Kasado City) is an -exclusive city on Silver Rock Isle, one of the Whirl Islands in the Johto region. \n\nIt first appeared at the end of Plant It Now... Diglett Later as and reached Silver Rock Isle. The trio explored Kasado City's sprawling markets and met up with local gift shop owner Ariene in Hi Ho Silver... Away!. She escorted the group to meet her friend Jenaro, a local silver rock craftsman, to learn more about the Silver Wing. The city's streets are decorated with Silver Wing banners.\n\nKasado City was also mentioned to be the hometown of in The Legend of Thunder!.",
+  "plainText": "(Japanese: カサドシティ Kasado City) is an -exclusive city on Silver Rock Isle, one of the Whirl Islands in the Johto region. \n\nIt first appeared at the end of Plant It Now... Diglett Later as and reached Silver Rock Isle. The trio explored Kasado City's sprawling markets and met up with local gift shop owner Ariene in Hi Ho Silver... Away!. She escorted the group to meet her friend Jenaro, a local silver rock craftsman, to learn more about the Silver Wing. The city's streets are decorated with Silver Wing banners.\n\nKasado City was also mentioned to be the hometown of in The Legend of Thunder!.\n\n==Pokémon seen in Kasado City==\n \n\n \n \n \n\n \n \n\nde:Kasado City\nes:Ciudad Kasado\nit:Kasado City\nzh:卡沙多市",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: カサドシティ Kasado City) is an -exclusive city on Silver Rock Isle, one of the Whirl Islands in the Johto region. \n\nIt first appeared at the end of Plant It Now... Diglett Later as and reached Silver Rock Isle. The trio explored Kasado City's sprawling markets and met up with local gift shop owner Ariene in Hi Ho Silver... Away!. She escorted the group to meet her friend Jenaro, a local silver rock craftsman, to learn more about the Silver Wing. The city's streets are decorated with Silver Wing banners.\n\nKasado City was also mentioned to be the hometown of in The Legend of Thunder!."
+    },
+    {
+      "heading": "Pokémon seen in Kasado City",
+      "level": 2,
+      "text": "de:Kasado City\nes:Ciudad Kasado\nit:Kasado City\nzh:卡沙多市"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kasado City",
+    "pageType": "location",
+    "searchableText": "Kasado City\nCategory:Animated series-exclusive locations\n(Japanese: カサドシティ Kasado City) is an -exclusive city on Silver Rock Isle, one of the Whirl Islands in the Johto region. \n\nIt first appeared at the end of Plant It Now... Diglett Later as and reached Silver Rock Isle. The trio explored Kasado City's sprawling markets and met up with local gift shop owner Ariene in Hi Ho Silver... Away!. She escorted the group to meet her friend Jenaro, a local silver rock craftsman, to learn more about the Silver Wing. The city's streets are decorated with Silver Wing banners.\n\nKasado City was also mentioned to be the hometown of in The Legend of Thunder!.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon seen in Kasado City"
+    ],
+    "characterCount": 698,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Brodie",
+    "slug": "brodie",
+    "pageId": 15860,
+    "revisionId": 4535055
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "brodie__15860.json",
+    "revisionTimestamp": "2026-04-20T02:01:40Z",
+    "fetchedAt": "2026-05-14T14:06:21.008Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Brodie (Japanese: バンナイ Bannai) is a recurring character in .",
+  "plainText": "Brodie (Japanese: バンナイ Bannai) is a recurring character in .\n\n==History==\n ]]\nBrodie debuted in Unfair Weather Friends, disguised as Millie, a scientist at the Weather Institute who was supposed to be collecting data on . Team Aqua tried to steal the data directly, unaware Millie was really Brodie. When Shelly threatened to harm Bart and the other scientists at the Institute, Brodie revealed himself as a Team Magma Agent and escaped with the information the Institute had gathered on the Legendary Pokémon.\n\nBrodie reappeared in The Ribbon Cup Caper aboard the S.S. St. Flower, which was en route to Slateport City. He disguised himself as various people, including Officer Jenny, in order to steal the Ribbon Cup intended to the winner of the Hoenn Grand Festival. When confronted by the real Officer Jenny, Brodie willingly gave up the Ribbon Cup because upon closer inspection \"it wasn't valuable enough,\" and flew away once again. He has not been seen since.\n \n\n==Character==\nBrodie was a member of Team Magma before their dissolution, after which he became known as \"Brodie The Phantom Thief\". He is also known as \"The Man of a Thousand Faces\", having perfected the art of disguising himself in order to get his goals accomplished, even being able to mimic people's voices perfectly.\n==Gallery==\nSee also: Cross-dressing\n \n\n==Pokémon==\n \nThis listing is of Brodie's known in :\n\n \n\n \n\n==Voice actors==\n \n\n==Trivia==\nThe mark under Brodie's eye changed color: in Unfair Weather Friends it is green, while in The Ribbon Cup Caper, it is orange.\nBrodie's Japanese name, Bannai, possibly derives from (多羅尾伴内), a fictional Japanese detective who can take on seven different faces.\nBrodie's English name comes from the word \"roadie\", due to his rock band-like appearance.\n\n==Related articles==\n \n \n \n \n \n\nde:Brody\nes:Brodie\nfr:Brody\nit:Brody\nja:バンナイ\nzh:班纳伊",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Brodie (Japanese: バンナイ Bannai) is a recurring character in ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "]]\nBrodie debuted in Unfair Weather Friends, disguised as Millie, a scientist at the Weather Institute who was supposed to be collecting data on . Team Aqua tried to steal the data directly, unaware Millie was really Brodie. When Shelly threatened to harm Bart and the other scientists at the Institute, Brodie revealed himself as a Team Magma Agent and escaped with the information the Institute had gathered on the Legendary Pokémon.\n\nBrodie reappeared in The Ribbon Cup Caper aboard the S.S. St. Flower, which was en route to Slateport City. He disguised himself as various people, including Officer Jenny, in order to steal the Ribbon Cup intended to the winner of the Hoenn Grand Festival. When confronted by the real Officer Jenny, Brodie willingly gave up the Ribbon Cup because upon closer inspection \"it wasn't valuable enough,\" and flew away once again. He has not been seen since."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Brodie was a member of Team Magma before their dissolution, after which he became known as \"Brodie The Phantom Thief\". He is also known as \"The Man of a Thousand Faces\", having perfected the art of disguising himself in order to get his goals accomplished, even being able to mimic people's voices perfectly."
+    },
+    {
+      "heading": "Gallery",
+      "level": 2,
+      "text": "See also: Cross-dressing"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Brodie's known in :"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The mark under Brodie's eye changed color: in Unfair Weather Friends it is green, while in The Ribbon Cup Caper, it is orange.\nBrodie's Japanese name, Bannai, possibly derives from (多羅尾伴内), a fictional Japanese detective who can take on seven different faces.\nBrodie's English name comes from the word \"roadie\", due to his rock band-like appearance."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Brody\nes:Brodie\nfr:Brody\nit:Brody\nja:バンナイ\nzh:班纳伊"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Brodie",
+    "pageType": "character",
+    "searchableText": "Brodie\nCategory:Animation characters\nBrodie (Japanese: バンナイ Bannai) is a recurring character in .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Gallery",
+      "Pokémon",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1858,
+    "sectionCount": 7
+  }
+}

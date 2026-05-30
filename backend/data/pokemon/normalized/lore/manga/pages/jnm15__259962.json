@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "JNM15",
+    "slug": "jnm15",
+    "pageId": 259962,
+    "revisionId": 4526809
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm15__259962.json",
+    "revisionTimestamp": "2026-04-09T15:07:27Z",
+    "fetchedAt": "2026-05-14T15:22:49.615Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Getting More than You Battled For! (Japanese: バトル＆ゲット！ミュウツーの復活 Battle and Catch! The Revival of Mewtwo) is the fifteenth chapter of the manga. It is based on the animated series episode by the same name.",
+  "plainText": "Getting More than You Battled For! (Japanese: バトル＆ゲット！ミュウツーの復活 Battle and Catch! The Revival of Mewtwo) is the fifteenth chapter of the manga. It is based on the animated series episode by the same name.\n\n==Plot==\n \n\n==Major events==\nand Goh encounter and battle but lose.\n\n===Debuts===\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\nGoh\nChloe\nProfessor Cerise\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n(multiple)\n\n(×2)\n\n==Differences between the animated series and the manga==\nGoh is never seen a or a .\n\n \n \n \n\nde:Anders als erwartet! (Pokémon Reisen)\nes:PV015\nit:JNM15",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Getting More than You Battled For! (Japanese: バトル＆ゲット！ミュウツーの復活 Battle and Catch! The Revival of Mewtwo) is the fifteenth chapter of the manga. It is based on the animated series episode by the same name."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and Goh encounter and battle but lose."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nChloe\nProfessor Cerise"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n(multiple)\n\n(×2)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "Goh is never seen a or a .\n\n \n \n \n\nde:Anders als erwartet! (Pokémon Reisen)\nes:PV015\nit:JNM15"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM15",
+    "pageType": "chapter",
+    "searchableText": "JNM15\nCategory:Pokémon Journeys chapters\nGetting More than You Battled For! (Japanese: バトル＆ゲット！ミュウツーの復活 Battle and Catch! The Revival of Mewtwo) is the fifteenth chapter of the manga. It is based on the animated series episode by the same name.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 575,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PCS2",
+    "slug": "pcs2",
+    "pageId": 189802,
+    "revisionId": 4526583
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Colosseum Snatchers chapters",
+    "sourceFileName": "pcs2__189802.json",
+    "revisionTimestamp": "2026-04-09T14:57:05Z",
+    "fetchedAt": "2026-05-14T15:29:34.769Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the second chapter of the Pokémon Colosseum Snatchers manga created by 大内 水軍 Oouchi Suigun.",
+  "plainText": "This is the second chapter of the Pokémon Colosseum Snatchers manga created by 大内 水軍 Oouchi Suigun.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nWes\n\n===Pokémon===\n \n\n==Trivia==\n===Errors===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the second chapter of the Pokémon Colosseum Snatchers manga created by 大内 水軍 Oouchi Suigun."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Wes"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PCS2",
+    "pageType": "chapter",
+    "searchableText": "PCS2\nCategory:Pokémon Colosseum Snatchers chapters\nThis is the second chapter of the Pokémon Colosseum Snatchers manga created by 大内 水軍 Oouchi Suigun.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 242,
+    "sectionCount": 2
+  }
+}

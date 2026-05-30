@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMRSs2",
+    "slug": "pmrss2",
+    "pageId": 172731,
+    "revisionId": 4296728
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrss2__172731.json",
+    "revisionTimestamp": "2025-05-09T03:25:34Z",
+    "fetchedAt": "2026-05-14T15:33:53.301Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pokémon Short Comics (Japanese: ポケモンショートコント Pokémon Short Stories) is the second special chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Pokémon Short Comics (Japanese: ポケモンショートコント Pokémon Short Stories) is the second special chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\nIn the first story, shouts at the clock to hurry up. Then, a appears and yells at Clefairy for disturbing its sleep. \n\nIn the second story, Clefairy looks up at the night sky and talks about the stars.\n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n\n===Pokémon===\n( )\n\n==Trivia==\n, and do not appear in this chapter.\nThis is the first and only chapter to feature Pokémon without humans, as well as the shortest.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Short Comics (Japanese: ポケモンショートコント Pokémon Short Stories) is the second special chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "In the first story, shouts at the clock to hurry up. Then, a appears and yells at Clefairy for disturbing its sleep. \n\nIn the second story, Clefairy looks up at the night sky and talks about the stars."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": ", and do not appear in this chapter.\nThis is the first and only chapter to feature Pokémon without humans, as well as the shortest."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRSs2",
+    "pageType": "chapter",
+    "searchableText": "PMRSs2\nCategory:Pokémon Ruby-Sapphire chapters\nPokémon Short Comics (Japanese: ポケモンショートコント Pokémon Short Stories) is the second special chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 579,
+    "sectionCount": 4
+  }
+}

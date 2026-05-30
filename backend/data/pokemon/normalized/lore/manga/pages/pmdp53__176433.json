@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMDP53",
+    "slug": "pmdp53",
+    "pageId": 176433,
+    "revisionId": 4527533
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp53__176433.json",
+    "revisionTimestamp": "2026-04-09T15:41:45Z",
+    "fetchedAt": "2026-05-14T15:32:46.480Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 笑撃！ミルク争奪戦！！ A Farce! Milk Competition!!) is the fifty-third chapter of the manga.",
+  "plainText": "(Japanese: 笑撃！ミルク争奪戦！！ A Farce! Milk Competition!!) is the fifty-third chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nTeam Galactic\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 笑撃！ミルク争奪戦！！ A Farce! Milk Competition!!) is the fifty-third chapter of the manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Team Galactic"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP53",
+    "pageType": "chapter",
+    "searchableText": "PMDP53\nCategory:Pocket Monsters DP chapters\n(Japanese: 笑撃！ミルク争奪戦！！ A Farce! Milk Competition!!) is the fifty-third chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 235,
+    "sectionCount": 3
+  }
+}

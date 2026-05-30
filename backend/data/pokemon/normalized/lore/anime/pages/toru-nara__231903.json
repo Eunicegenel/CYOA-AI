@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Toru Nara",
+    "slug": "toru-nara",
+    "pageId": 231903,
+    "revisionId": 4323356
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "toru-nara__231903.json",
+    "revisionTimestamp": "2025-06-24T03:28:40Z",
+    "fetchedAt": "2026-05-14T14:55:08.756Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Toru Nara (Japanese: 奈良徹 Nara Tōru) is a Japanese voice actor for .",
+  "plainText": "Toru Nara (Japanese: 奈良徹 Nara Tōru) is a Japanese voice actor for .\n\n==Biography==\nNara was born on May 7, 1980, in , , and became a voice actor as an adult. He began his work on the during , voicing Sinnoh Elite Four member Flint, his best-known role in that work. Then, he voiced characters of the day Glenn and Nico in and , respectively. Nara is currently affiliated with Kenyu Office.\n\n==Pokémon roles==\n===Animation===\n==== ====\nFlint\nGlenn\nNico\n\n==Other non-Pokémon roles==\nYoung Jiraiya ( , )\nGilbert Kent, Makita ( )\nChae Chan-soo, Shishido Sakichi ( )\nHiroshige Ushijima ( )\nNeil ( )\nIshida Naoki ( )\nYūsei Nishida ( )\nGido ( (2011))\nAmagi Daichi ( )\nFalsetto ( )\nGorōta \"Kuma\" Kumashira, Semimaru ( )\nRikidō Satō ( )\nHassaku Onomichi ( )\n\n===Dubbing roles===\nJacob P. \"Jake\" Spidermonkey ( )\nMorton Schmidt ( , )\nDetective Maynard Gilbough ( )\nSlit ( )\n\n==External links==\nOfficial website\n\n \n\n \n\nit:Tōru Nara\nja:奈良徹",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Toru Nara (Japanese: 奈良徹 Nara Tōru) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Nara was born on May 7, 1980, in , , and became a voice actor as an adult. He began his work on the during , voicing Sinnoh Elite Four member Flint, his best-known role in that work. Then, he voiced characters of the day Glenn and Nico in and , respectively. Nara is currently affiliated with Kenyu Office."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Flint\nGlenn\nNico"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Young Jiraiya ( , )\nGilbert Kent, Makita ( )\nChae Chan-soo, Shishido Sakichi ( )\nHiroshige Ushijima ( )\nNeil ( )\nIshida Naoki ( )\nYūsei Nishida ( )\nGido ( (2011))\nAmagi Daichi ( )\nFalsetto ( )\nGorōta \"Kuma\" Kumashira, Semimaru ( )\nRikidō Satō ( )\nHassaku Onomichi ( )"
+    },
+    {
+      "heading": "Dubbing roles",
+      "level": 3,
+      "text": "Jacob P. \"Jake\" Spidermonkey ( )\nMorton Schmidt ( , )\nDetective Maynard Gilbough ( )\nSlit ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\n\n \n\n \n\nit:Tōru Nara\nja:奈良徹"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Toru Nara",
+    "pageType": "general-anime-lore",
+    "searchableText": "Toru Nara\nCategory:Japanese voice actors\nToru Nara (Japanese: 奈良徹 Nara Tōru) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "Dubbing roles",
+      "External links"
+    ],
+    "characterCount": 927,
+    "sectionCount": 6
+  }
+}

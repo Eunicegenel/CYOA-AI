@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GDZ35",
+    "slug": "gdz35",
+    "pageId": 188414,
+    "revisionId": 4528347
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz35__188414.json",
+    "revisionTimestamp": "2026-04-09T16:16:38Z",
+    "fetchedAt": "2026-05-14T15:19:43.747Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 鬼岩島はナゾだらけ！ Kigan Island is Full of Mystery!) is the 35th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 鬼岩島はナゾだらけ！ Kigan Island is Full of Mystery!) is the 35th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nGuardian\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nGuardian\n\n===Pokémon===\n( )\n(Shu's)\n\n \n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 鬼岩島はナゾだらけ！ Kigan Island is Full of Mystery!) is the 35th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Guardian"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nGuardian"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n\n \n\n}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ35",
+    "pageType": "chapter",
+    "searchableText": "GDZ35\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 鬼岩島はナゾだらけ！ Kigan Island is Full of Mystery!) is the 35th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 287,
+    "sectionCount": 4
+  }
+}

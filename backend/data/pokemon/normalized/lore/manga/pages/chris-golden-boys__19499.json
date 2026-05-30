@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Chris (Golden Boys)",
+    "slug": "chris-golden-boys",
+    "pageId": 19499,
+    "revisionId": 4212910
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys characters",
+    "sourceFileName": "chris-golden-boys__19499.json",
+    "revisionTimestamp": "2024-12-31T13:32:27Z",
+    "fetchedAt": "2026-05-14T15:15:53.591Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Crystal (Japanese: クリスタル Crystal), or Chris (Japanese: クリス Crys) for short, is a from New Bark Town, Johto and one of the main characters of Pokémon Gold & Silver: The Golden Boys. She is based on the .",
+  "plainText": "Crystal (Japanese: クリスタル Crystal), or Chris (Japanese: クリス Crys) for short, is a from New Bark Town, Johto and one of the main characters of Pokémon Gold & Silver: The Golden Boys. She is based on the .\n\n==History==\nChris first met in Escape From The Mystery Forest! when she was stuck in 's illusory forest while chasing a wild . Since then, they have traveled together. Chris can sometimes act stubborn and childish, which annoyed Gold at first. Despite that, he was able to make friends with her.\n\n==Character==\nChris considers herself an explorer first and a Trainer second, and likes to explore old ruins and mysterious locations. She makes several references to deities, which is a rare occurrence in any Pokémon media. She also seems to believe in superstitions like shooting stars.\n\n==Pokémon==\n \n\n \n\n \n\n \n\n \n\n==Related articles==\n \n \n \n\n \n\nes:Crystal (Golden Boys)\nit:Chris (Golden Boys)\nzh:水晶（黄金少年）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Crystal (Japanese: クリスタル Crystal), or Chris (Japanese: クリス Crys) for short, is a from New Bark Town, Johto and one of the main characters of Pokémon Gold & Silver: The Golden Boys. She is based on the ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Chris first met in Escape From The Mystery Forest! when she was stuck in 's illusory forest while chasing a wild . Since then, they have traveled together. Chris can sometimes act stubborn and childish, which annoyed Gold at first. Despite that, he was able to make friends with her."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Chris considers herself an explorer first and a Trainer second, and likes to explore old ruins and mysterious locations. She makes several references to deities, which is a rare occurrence in any Pokémon media. She also seems to believe in superstitions like shooting stars."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Crystal (Golden Boys)\nit:Chris (Golden Boys)\nzh:水晶（黄金少年）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Chris (Golden Boys)",
+    "pageType": "character",
+    "searchableText": "Chris (Golden Boys)\nCategory:Pokémon Gold & Silver: The Golden Boys characters\nCrystal (Japanese: クリスタル Crystal), or Chris (Japanese: クリス Crys) for short, is a from New Bark Town, Johto and one of the main characters of Pokémon Gold & Silver: The Golden Boys. She is based on the .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Related articles"
+    ],
+    "characterCount": 908,
+    "sectionCount": 4
+  }
+}

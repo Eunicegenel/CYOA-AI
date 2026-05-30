@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Samara Naeymi",
+    "slug": "samara-naeymi",
+    "pageId": 232300,
+    "revisionId": 4323532
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "samara-naeymi__232300.json",
+    "revisionTimestamp": "2025-06-24T03:31:53Z",
+    "fetchedAt": "2026-05-14T14:48:10.323Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Samara Naeymi is a voice actress for the English-language dub of .",
+  "plainText": "Samara Naeymi is a voice actress for the English-language dub of .\n\n==Biography==\nNaeymi became an actress as an adult, but only got minor roles initially. She then started getting more significant roles when she voiced supporting characters in several cartoon series, including English-dubbed versions of international shows. She joined during , most notably voicing Kalos Elite Four member and secret Team Flare agent Malva, as well as character of the day Jean. Naeymi currently resides in New York City, New York.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nMalva\nMina\nJean\n\n======Minor======\n(XY134)\n\n=====Pokémon=====\n\n==Other non-Pokémon roles==\nWaitress ( )\nSalda ( )\nMargot ( )\nPirate Boss Lady ( )\nAdditional Voices ( )\n\n==External links==\nOfficial YouTube channel\nInstagram\nOfficial Website\n\n \n\n \n\nit:Samara Naeymi",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Samara Naeymi is a voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Naeymi became an actress as an adult, but only got minor roles initially. She then started getting more significant roles when she voiced supporting characters in several cartoon series, including English-dubbed versions of international shows. She joined during , most notably voicing Kalos Elite Four member and secret Team Flare agent Malva, as well as character of the day Jean. Naeymi currently resides in New York City, New York."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Malva\nMina\nJean"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(XY134)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Waitress ( )\nSalda ( )\nMargot ( )\nPirate Boss Lady ( )\nAdditional Voices ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official YouTube channel\nInstagram\nOfficial Website\n\n \n\n \n\nit:Samara Naeymi"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Samara Naeymi",
+    "pageType": "general-anime-lore",
+    "searchableText": "Samara Naeymi\nCategory:TPCi voice actors\nSamara Naeymi is a voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 861,
+    "sectionCount": 6
+  }
+}

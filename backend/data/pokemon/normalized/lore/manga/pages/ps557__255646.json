@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PS557",
+    "slug": "ps557",
+    "pageId": 255646,
+    "revisionId": 4549248
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps557__255646.json",
+    "revisionTimestamp": "2026-05-11T01:33:27Z",
+    "fetchedAt": "2026-05-14T15:45:49.106Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Noibat Stands in the Way (Japanese: オンバット、妨げる , Hinder) is the 557th chapter of the Pokémon Adventures manga, and the ninth chapter of the .",
+  "plainText": "Noibat Stands in the Way (Japanese: オンバット、妨げる , Hinder) is the 557th chapter of the Pokémon Adventures manga, and the ninth chapter of the .\n\n==Plot==\n \n\n==Major events==\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\ns\nGreg\n\n===Pokémon===\n(Kanga; 's)\n(Li'l Kanga; 's; Mega Kangaskhan)\n(Fletchy; 's)\n( 's; )\n( 's)\n(Kitty; 's)\n( 's)\n(×2; s')\n(later X's)\n\n \n==In other languages==\n \n \n \n \n \n\nde:Spezial-Episode 1\nes:PMS557\nfr:Chapitre 557 (Pocket Monsters Special)\nit:LGA557\nzh:宝可梦特别篇 第557话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Noibat Stands in the Way (Japanese: オンバット、妨げる , Hinder) is the 557th chapter of the Pokémon Adventures manga, and the ninth chapter of the ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "s\nGreg"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Kanga; 's)\n(Li'l Kanga; 's; Mega Kangaskhan)\n(Fletchy; 's)\n( 's; )\n( 's)\n(Kitty; 's)\n( 's)\n(×2; s')\n(later X's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Spezial-Episode 1\nes:PMS557\nfr:Chapitre 557 (Pocket Monsters Special)\nit:LGA557\nzh:宝可梦特别篇 第557话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS557",
+    "pageType": "chapter",
+    "searchableText": "PS557\nCategory:Pokémon Adventures chapters\nNoibat Stands in the Way (Japanese: オンバット、妨げる , Hinder) is the 557th chapter of the Pokémon Adventures manga, and the ninth chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 529,
+    "sectionCount": 4
+  }
+}

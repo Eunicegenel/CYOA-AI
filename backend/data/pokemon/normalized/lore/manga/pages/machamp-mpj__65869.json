@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Machamp (MPJ)",
+    "slug": "machamp-mpj",
+    "pageId": 65869,
+    "revisionId": 4132028
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga characters (Pokémon)",
+    "sourceFileName": "machamp-mpj__65869.json",
+    "revisionTimestamp": "2024-09-29T04:28:54Z",
+    "fetchedAt": "2026-05-14T15:25:23.563Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Machamp (Japanese: カイリキー Kariky) is a Pokémon character in the Magical Pokémon Journey series.",
+  "plainText": "Machamp (Japanese: カイリキー Kariky) is a Pokémon character in the Magical Pokémon Journey series.\n\n==History==\nMachamp first appeared in The Master Plan... for Romance!, where he falls in love with a by training rigorously, which disturbed , , and 's picnic. After making a tree fall, Machamp started to cry and the trio cheered Machamp up, as he explained about his love for Vaporeon but had trouble expressing it to her. Jigglypuff had Machamp deliver her some gifts but it didn't work out as Vaporeon sent the gifts back to him. In an attempt to make Vaporeon love him, Machamp rescues Pikachu as he had trouble swimming but Machamp too could not swim. As a result, Vaporeon rejected Machamp's offer for love and Machamp could not take it anymore. Seeing what Machamp did made Vaporeon love him.\n\nIn Loves Me? Loves Me Not?, Machamp begged to Pikachu, Clefairy, and Jigglypuff to have Vaporeon give him a second chance but Vaporeon declined. However, when Machamp did it himself, Vaporeon changed her mind. Machamp joined a fighting arena where he went up against a , where Vaporeon, Pikachu, Jigglypuff, and Clefairy were watching. As Hitmonlee had the upper hand, Vaporeon became worried about Machamp until she yelled out in fear. This made Machamp throw Hitmonlee to the ground, automatically winning the fight. Machamp and Vaporeon went out on a date where Vaporeon told Machamp that she loved him, much to Machamp's happiness.\n\n==Personality and characteristics==\nAt first, Machamp was very shy around Vaporeon and had trouble expressing his feelings. However, after several attempts of getting Vaporeon to love him, Machamp finally confessed his feelings and both Machamp and Vaporeon got together.\n\n==Related articles==\n \n \n \n \n \n \n\nit:Machamp (MVP)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Machamp (Japanese: カイリキー Kariky) is a Pokémon character in the Magical Pokémon Journey series."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Machamp first appeared in The Master Plan... for Romance!, where he falls in love with a by training rigorously, which disturbed , , and 's picnic. After making a tree fall, Machamp started to cry and the trio cheered Machamp up, as he explained about his love for Vaporeon but had trouble expressing it to her. Jigglypuff had Machamp deliver her some gifts but it didn't work out as Vaporeon sent the gifts back to him. In an attempt to make Vaporeon love him, Machamp rescues Pikachu as he had trouble swimming but Machamp too could not swim. As a result, Vaporeon rejected Machamp's offer for love and Machamp could not take it anymore. Seeing what Machamp did made Vaporeon love him.\n\nIn Loves Me? Loves Me Not?, Machamp begged to Pikachu, Clefairy, and Jigglypuff to have Vaporeon give him a second chance but Vaporeon declined. However, when Machamp did it himself, Vaporeon changed her mind. Machamp joined a fighting arena where he went up against a , where Vaporeon, Pikachu, Jigglypuff, and Clefairy were watching. As Hitmonlee had the upper hand, Vaporeon became worried about Machamp until she yelled out in fear. This made Machamp throw Hitmonlee to the ground, automatically winning the fight. Machamp and Vaporeon went out on a date where Vaporeon told Machamp that she loved him, much to Machamp's happiness."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 2,
+      "text": "At first, Machamp was very shy around Vaporeon and had trouble expressing his feelings. However, after several attempts of getting Vaporeon to love him, Machamp finally confessed his feelings and both Machamp and Vaporeon got together."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Machamp (MVP)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Machamp (MPJ)",
+    "pageType": "character",
+    "searchableText": "Machamp (MPJ)\nCategory:Manga characters (Pokémon)\nMachamp (Japanese: カイリキー Kariky) is a Pokémon character in the Magical Pokémon Journey series.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Personality and characteristics",
+      "Related articles"
+    ],
+    "characterCount": 1757,
+    "sectionCount": 4
+  }
+}

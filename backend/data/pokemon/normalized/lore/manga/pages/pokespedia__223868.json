@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PokéSPedia",
+    "slug": "pokespedia",
+    "pageId": 223868,
+    "revisionId": 4528214
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokespedia__223868.json",
+    "revisionTimestamp": "2026-04-09T16:10:20Z",
+    "fetchedAt": "2026-05-14T15:38:32.974Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケSPedia PokéSPedia) is a special databook made to celebrate the twentieth anniversary of the Pokémon Adventures manga.",
+  "plainText": "(Japanese: ポケSPedia PokéSPedia) is a special databook made to celebrate the twentieth anniversary of the Pokémon Adventures manga. \n\n==Publications==\n \n \n\n==Information revealed==\nA timeline of the entire series.\nThe ages and birthdays of , , , , , and .\nThe genders, levels, natures, and characteristics for several of the Pokédex holders' Pokémon.\nis revealed to have obtained a second nicknamed Ririri.\nis revealed to own a .\nEldritch is revealed to have been the same Sailor that worked for Lt. Surge.\nGreen is confirmed to have been the creator of the Silph Scope.\n\n==Errors==\nSeveral of the Pokédex holders' Pokémon's levels are listed as 00.\nThe moves of Diantha's Gardevoir are the same as Steven's Metagross.\nSeveral of the Pokédex holders' ages are errors.\nSeveral pieces of information about overseas publications are errors.\n\n==Related articles==\n \n \n \n\n \n\n \n\nes:PokéSPedia\nfr:PokéSPedia\nit:PokéSPedia\nzh:宝可SPedia",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケSPedia PokéSPedia) is a special databook made to celebrate the twentieth anniversary of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Information revealed",
+      "level": 2,
+      "text": "A timeline of the entire series.\nThe ages and birthdays of , , , , , and .\nThe genders, levels, natures, and characteristics for several of the Pokédex holders' Pokémon.\nis revealed to have obtained a second nicknamed Ririri.\nis revealed to own a .\nEldritch is revealed to have been the same Sailor that worked for Lt. Surge.\nGreen is confirmed to have been the creator of the Silph Scope."
+    },
+    {
+      "heading": "Errors",
+      "level": 2,
+      "text": "Several of the Pokédex holders' Pokémon's levels are listed as 00.\nThe moves of Diantha's Gardevoir are the same as Steven's Metagross.\nSeveral of the Pokédex holders' ages are errors.\nSeveral pieces of information about overseas publications are errors."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:PokéSPedia\nfr:PokéSPedia\nit:PokéSPedia\nzh:宝可SPedia"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PokéSPedia",
+    "pageType": "pokemon-related",
+    "searchableText": "PokéSPedia\nCategory:Pokémon Adventures volumes\n(Japanese: ポケSPedia PokéSPedia) is a special databook made to celebrate the twentieth anniversary of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Information revealed",
+      "Errors",
+      "Related articles"
+    ],
+    "characterCount": 925,
+    "sectionCount": 4
+  }
+}

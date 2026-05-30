@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Melissa",
+    "slug": "melissa",
+    "pageId": 60189,
+    "revisionId": 4357156
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kanto characters of the day",
+    "sourceFileName": "melissa__60189.json",
+    "revisionTimestamp": "2025-08-12T14:48:43Z",
+    "fetchedAt": "2026-05-14T14:36:18.463Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "For the Gym Leader whose name is \"Melissa\" in Japanese, see Fantina.\n----\n \nMelissa (Japanese: ヨシキ Yoshiki, a male in the Japanese version) is a character of the day who appeared in The Fourth Round Rumble.\n\nMelissa d during the fourth round of the Indigo Plateau Conference. Melissa was shown to be a quite powerful . As only one Pokémon remained in each Trainer's team, Melissa's defeated Gary's , sending the Pallet Town resident home. Melissa was not seen afterwards.\n\nMelissa is male in the Japanese version, and female in the English version.",
+  "plainText": "For the Gym Leader whose name is \"Melissa\" in Japanese, see Fantina.\n----\n \nMelissa (Japanese: ヨシキ Yoshiki, a male in the Japanese version) is a character of the day who appeared in The Fourth Round Rumble.\n\nMelissa d during the fourth round of the Indigo Plateau Conference. Melissa was shown to be a quite powerful . As only one Pokémon remained in each Trainer's team, Melissa's defeated Gary's , sending the Pallet Town resident home. Melissa was not seen afterwards.\n\nMelissa is male in the Japanese version, and female in the English version.\n\n==Pokémon==\n \n \n\nMelissa also has at least two other Pokémon, having faced Gary in a 3-on-3 battle.\n\n==Achievements==\n===Pokémon League===\nMelissa has competed in the following Pokémon League Conferences:\nIndigo Plateau Conference - Top 16 or higher (The Fourth Round Rumble)\n\n==Voice actors==\n \n\n==Related articles==\n \n \n \n \n \n \n\nde:Hopp oder top – Die Runde 4#Melissa\nes:Melissa\nfr:Melissa\nit:Melissa\nzh:吉木",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "For the Gym Leader whose name is \"Melissa\" in Japanese, see Fantina.\n----\n \nMelissa (Japanese: ヨシキ Yoshiki, a male in the Japanese version) is a character of the day who appeared in The Fourth Round Rumble.\n\nMelissa d during the fourth round of the Indigo Plateau Conference. Melissa was shown to be a quite powerful . As only one Pokémon remained in each Trainer's team, Melissa's defeated Gary's , sending the Pallet Town resident home. Melissa was not seen afterwards.\n\nMelissa is male in the Japanese version, and female in the English version."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "Melissa also has at least two other Pokémon, having faced Gary in a 3-on-3 battle."
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Melissa has competed in the following Pokémon League Conferences:\nIndigo Plateau Conference - Top 16 or higher (The Fourth Round Rumble)"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Hopp oder top – Die Runde 4#Melissa\nes:Melissa\nfr:Melissa\nit:Melissa\nzh:吉木"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Melissa",
+    "pageType": "character",
+    "searchableText": "Melissa\nCategory:Kanto characters of the day\nFor the Gym Leader whose name is \"Melissa\" in Japanese, see Fantina.\n----\n \nMelissa (Japanese: ヨシキ Yoshiki, a male in the Japanese version) is a character of the day who appeared in The Fourth Round Rumble.\n\nMelissa d during the fourth round of the Indigo Plateau Conference. Melissa was shown to be a quite powerful . As only one Pokémon remained in each Trainer's team, Melissa's defeated Gary's , sending the Pallet Town resident home. Melissa was not seen afterwards.\n\nMelissa is male in the Japanese version, and female in the English version.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon League",
+      "Related articles"
+    ],
+    "characterCount": 958,
+    "sectionCount": 4
+  }
+}

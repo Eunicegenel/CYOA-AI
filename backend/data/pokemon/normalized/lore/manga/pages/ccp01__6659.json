@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "CCP01",
+    "slug": "ccp01",
+    "pageId": 6659,
+    "revisionId": 4543869
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp01__6659.json",
+    "revisionTimestamp": "2026-05-03T17:45:28Z",
+    "fetchedAt": "2026-05-14T15:15:08.089Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 運命の出会いちゃも!? A Destined Meeting (chamo!?)) is the first true chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: 運命の出会いちゃも!? A Destined Meeting (chamo!?)) is the first true chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n and have just moved to a new town, and Torchic is eager to meet her Prince Charming. She is disappointed to then meet a scatterbrained and , as well as a rude . \n\nAfter arguing with Poochyena, Torchic storms off into the woods, where she suddenly finds herself surrounded by and . Panicked, she blasts them with , but stops when she hears a voice reassuring her that she is safe. The voice is revealed to belong to , and Torchic is instantly smitten with him. He lets her climb onto his back, then carries her out of the forest and back into the town. Upon their return, she learns that Mightyena is Poochyena's older brother.\n\nHaving met Mightyena, Torchic decides she will enjoy living in her new town.\n\n==Major events==\nHaruka and Torchic move to their new town and meet new friends.\nTorchic falls in love with and starts her rivalry with Poochyena.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n\n( )\n( )\n( )\n\n( )\n\n==Trivia==\nTorchic's imagined \"Prince Charming\" is nearly identical in appearance to Almond, the love interest in the manga's predecessor, Magical Pokémon Journey.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 運命の出会いちゃも!? A Destined Meeting (chamo!?)) is the first true chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "and have just moved to a new town, and Torchic is eager to meet her Prince Charming. She is disappointed to then meet a scatterbrained and , as well as a rude . \n\nAfter arguing with Poochyena, Torchic storms off into the woods, where she suddenly finds herself surrounded by and . Panicked, she blasts them with , but stops when she hears a voice reassuring her that she is safe. The voice is revealed to belong to , and Torchic is instantly smitten with him. He lets her climb onto his back, then carries her out of the forest and back into the town. Upon their return, she learns that Mightyena is Poochyena's older brother.\n\nHaving met Mightyena, Torchic decides she will enjoy living in her new town."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Haruka and Torchic move to their new town and meet new friends.\nTorchic falls in love with and starts her rivalry with Poochyena."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n\n( )\n( )\n( )\n\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Torchic's imagined \"Prince Charming\" is nearly identical in appearance to Almond, the love interest in the manga's predecessor, Magical Pokémon Journey."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP01",
+    "pageType": "chapter",
+    "searchableText": "CCP01\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: 運命の出会いちゃも!? A Destined Meeting (chamo!?)) is the first true chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1255,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Director (HZ122)",
+    "slug": "director-hz122",
+    "pageId": 348802,
+    "revisionId": 4536816
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "director-hz122__348802.json",
+    "revisionTimestamp": "2026-04-24T11:35:16Z",
+    "fetchedAt": "2026-05-14T14:12:01.799Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The director of the Mossdeep Space Center is a character of the day who appeared in Roy vs. Friede: Wings of Fire!.",
+  "plainText": "The director of the Mossdeep Space Center is a character of the day who appeared in Roy vs. Friede: Wings of Fire!.\n\n \n==History==\nIn Roy vs. Friede: Wings of Fire! the director approached Friede after he insisted on going to space. Enthusiastic about his initiative, he decided to recruit Friede and put him in the astronaut training program. During the training, he was amazed by Friede's Trainer skills and how he managed to bond with a wild .\n\nSome time later, he was seen watching the launch of the spacecraft that took Friede into space.\n\n==Voice actors==\n \n\n==Trivia==\n \n \n\n \n \n \n\nes:Director del Centro Espacial de Algaria",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The director of the Mossdeep Space Center is a character of the day who appeared in Roy vs. Friede: Wings of Fire!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "In Roy vs. Friede: Wings of Fire! the director approached Friede after he insisted on going to space. Enthusiastic about his initiative, he decided to recruit Friede and put him in the astronaut training program. During the training, he was amazed by Friede's Trainer skills and how he managed to bond with a wild .\n\nSome time later, he was seen watching the launch of the spacecraft that took Friede into space."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "es:Director del Centro Espacial de Algaria"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Director (HZ122)",
+    "pageType": "character",
+    "searchableText": "Director (HZ122)\nCategory:Horizons characters of the day\nThe director of the Mossdeep Space Center is a character of the day who appeared in Roy vs. Friede: Wings of Fire!.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia"
+    ],
+    "characterCount": 630,
+    "sectionCount": 3
+  }
+}

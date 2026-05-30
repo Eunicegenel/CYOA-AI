@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Carrie Savage",
+    "slug": "carrie-savage",
+    "pageId": 234603,
+    "revisionId": 4323430
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "carrie-savage__234603.json",
+    "revisionTimestamp": "2025-06-24T03:30:05Z",
+    "fetchedAt": "2026-05-14T14:08:42.384Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Carrie Savage is a voice actor for the English-language dub of .",
+  "plainText": "Carrie Savage is a voice actor for the English-language dub of .\n\n==Biography==\nSavage was born on April 8, 1980 in Atlanta, Georgia. She first worked on the during where she voiced Christie. In addition to her voice work, Savage has also worked as voice director on several series.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Major=====\nChristie\nHeidi\nSophocles's mother\n\n=====Minor=====\nKindergartner (XY013)\n\n==Other non-Pokémon roles==\n( )\nEri Haruue ( series)\nTamami the Cat ( )\nRena Rune ( )\nCrea Drosera ( )\nKaran Uminagi ( )\nJ'Taime ( )\nMeilin ( : Beyond Infinity)\nLua Klein ( )\nRen Mizusaka ( )\nSatori Azuma ( )\nMarina ( )\n\n==External links==\nBehind The Voice Actors\nMyAnimeList\nAnime News Network\nFacebook\nTwitter\n\n \n \n\nit:Carrie Savage",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Carrie Savage is a voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Savage was born on April 8, 1980 in Atlanta, Georgia. She first worked on the during where she voiced Christie. In addition to her voice work, Savage has also worked as voice director on several series."
+    },
+    {
+      "heading": "Major",
+      "level": 5,
+      "text": "Christie\nHeidi\nSophocles's mother"
+    },
+    {
+      "heading": "Minor",
+      "level": 5,
+      "text": "Kindergartner (XY013)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "( )\nEri Haruue ( series)\nTamami the Cat ( )\nRena Rune ( )\nCrea Drosera ( )\nKaran Uminagi ( )\nJ'Taime ( )\nMeilin ( : Beyond Infinity)\nLua Klein ( )\nRen Mizusaka ( )\nSatori Azuma ( )\nMarina ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Behind The Voice Actors\nMyAnimeList\nAnime News Network\nFacebook\nTwitter\n\n \n \n\nit:Carrie Savage"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Carrie Savage",
+    "pageType": "general-anime-lore",
+    "searchableText": "Carrie Savage\nCategory:TPCi voice actors\nCarrie Savage is a voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 752,
+    "sectionCount": 6
+  }
+}

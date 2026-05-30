@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PPP23",
+    "slug": "ppp23",
+    "pageId": 6581,
+    "revisionId": 4131269
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp23__6581.json",
+    "revisionTimestamp": "2024-09-29T04:15:58Z",
+    "fetchedAt": "2026-05-14T15:38:50.951Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Hazel's Big Adventure! (Japanese: マロン大ピンチ!! Great Pinch!!) is the 23rd chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Hazel's Big Adventure! (Japanese: マロン大ピンチ!! Great Pinch!!) is the 23rd chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nGrandpa invites Hazel to a picnic with , , and . He pours her a drink, and after Hazel consumes it, she is shrunk down to the size of a blade of grass. Grandpa celebrates that his shrinking potion succeeded, causing Hazel to tug at his face and demand for him to undo it. She scares him off, leaving her alone with the Pokémon. \n\nPikachu and Clefairy begin to panic about how to keep Hazel safe while she is small. Eevee, believing he has the best idea to do this, places Hazel in a jar and covers it with a lid. Pikachu and Clefairy both applaud him for this plan, but then notice that Hazel has passed out from lack of oxygen. As they set her back onto the grass, happens to walk by and see the problem. To prevent Hazel from getting lost, Charmander picks her up and places her on the fluff around Eevee's neck. \n\nAs Hazel settles in comfortably on Eevee's fur, he suddenly moves, knocking her off. The Pokémon lose her in the blades of grass, and she calls out to Charmander to try to get his attention. Right as she stands in front of Charmander's face, he suddenly sneezes fire at her, igniting the grass around her. The group finally notices her, and Eevee pours the rest of Grandpa's potion on her to put out the fire. This has the unintended effect of shrinking Hazel even more, making her nearly impossible to see. Hazel frantically calls out to the Pokémon, but no one is able to hear her. As Pikachu searches for her, he accidentally steps on her, pushing her into the dirt. Fortunately, Hazel is protected by her magic suit. \n\nLater, after receiving Grandpa's antidote, Hazel is relieved to be brought back to her usual size. When Grandpa congratulates himself for his experiment's success, Hazel invites him to celebrate with a drink, giving him his own shrinking potion. She then leaves him to be chased by a hungry .\n\n==Major events==\nGrandpa tricks Hazel into consuming a shrinking potion as part of an experiment.\n \n\n==Characters==\n===Humans===\nHazel\nGrandpa\n\n===Pokémon===\n( )\n( )\n( )\n( )\n\n==Trivia==\nYumi Tsukirino narrates a short overview of 's character in this chapter, stating that she received complaints from fans who wanted him to look \"cuter.\"",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hazel's Big Adventure! (Japanese: マロン大ピンチ!! Great Pinch!!) is the 23rd chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Grandpa invites Hazel to a picnic with , , and . He pours her a drink, and after Hazel consumes it, she is shrunk down to the size of a blade of grass. Grandpa celebrates that his shrinking potion succeeded, causing Hazel to tug at his face and demand for him to undo it. She scares him off, leaving her alone with the Pokémon. \n\nPikachu and Clefairy begin to panic about how to keep Hazel safe while she is small. Eevee, believing he has the best idea to do this, places Hazel in a jar and covers it with a lid. Pikachu and Clefairy both applaud him for this plan, but then notice that Hazel has passed out from lack of oxygen. As they set her back onto the grass, happens to walk by and see the problem. To prevent Hazel from getting lost, Charmander picks her up and places her on the fluff around Eevee's neck. \n\nAs Hazel settles in comfortably on Eevee's fur, he suddenly moves, knocking her off. The Pokémon lose her in the blades of grass, and she calls out to Charmander to try to get his attention. Right as she stands in front of Charmander's face, he suddenly sneezes fire at her, igniting the grass around her. The group finally notices her, and Eevee pours the rest of Grandpa's potion on her to put out the fire. This has the unintended effect of shrinking Hazel even more, making her nearly impossible to see. Hazel frantically calls out to the Pokémon, but no one is able to hear her. As Pikachu searches for her, he accidentally steps on her, pushing her into the dirt. Fortunately, Hazel is protected by her magic suit. \n\nLater, after receiving Grandpa's antidote, Hazel is relieved to be brought back to her usual size. When Grandpa congratulates himself for his experiment's success, Hazel invites him to celebrate with a drink, giving him his own shrinking potion. She then leaves him to be chased by a hungry ."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Grandpa tricks Hazel into consuming a shrinking potion as part of an experiment."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nGrandpa"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Yumi Tsukirino narrates a short overview of 's character in this chapter, stating that she received complaints from fans who wanted him to look \"cuter.\""
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP23",
+    "pageType": "chapter",
+    "searchableText": "PPP23\nCategory:Magical Pokémon Journey chapters\nHazel's Big Adventure! (Japanese: マロン大ピンチ!! Great Pinch!!) is the 23rd chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 2301,
+    "sectionCount": 6
+  }
+}

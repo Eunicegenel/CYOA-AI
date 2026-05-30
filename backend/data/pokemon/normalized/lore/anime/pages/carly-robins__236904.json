@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Carly Robins",
+    "slug": "carly-robins",
+    "pageId": 236904,
+    "revisionId": 4527703
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "carly-robins__236904.json",
+    "revisionTimestamp": "2026-04-09T15:50:04Z",
+    "fetchedAt": "2026-05-14T14:08:36.063Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Carly Robins is a voice actress for the English-language dub of .",
+  "plainText": "Carly Robins is a voice actress for the English-language dub of .\n\n==Biography==\nRobins is an American voice actress. She joined during the nineteenth movie, where she voiced Kimia. She gained her most notable during , where she voiced Wicke. Prior to , she was credited as Riley Joseph.\n\n==Pokémon roles==\n===Animation===\n==== ====\nWicke\nKimia\n(SM088-SM090)\n\n==External links==\nInstagram\n\n \n \n \n\nit:Carly Robins",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Carly Robins is a voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Robins is an American voice actress. She joined during the nineteenth movie, where she voiced Kimia. She gained her most notable during , where she voiced Wicke. Prior to , she was credited as Riley Joseph."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Wicke\nKimia\n(SM088-SM090)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Instagram\n\n \n \n \n\nit:Carly Robins"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Carly Robins",
+    "pageType": "general-anime-lore",
+    "searchableText": "Carly Robins\nCategory:TPCi voice actors\nCarly Robins is a voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "External links"
+    ],
+    "characterCount": 412,
+    "sectionCount": 4
+  }
+}

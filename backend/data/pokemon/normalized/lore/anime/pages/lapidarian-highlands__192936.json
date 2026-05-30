@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Lapidarian Highlands",
+    "slug": "lapidarian-highlands",
+    "pageId": 192936,
+    "revisionId": 4514322
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "lapidarian-highlands__192936.json",
+    "revisionTimestamp": "2026-03-21T11:46:45Z",
+    "fetchedAt": "2026-05-14T14:30:27.015Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Lapidarian Highlands (Japanese: ギプナ高地 Guipna Highlands) is an -exclusive location in the Pokémon world. It was mentioned in The Bonds of Evolution!. described it as \"one of the last unexplored regions in the world.\"\n\nDiantha was filming a movie in the Lapidarian Highlands when a thick fog rose, and she got lost from her crew. She had entrusted her manager, Kathi Lee, with her . As Diantha's crew went searching for her, Gardevoir came out of its . By connecting its heart with Diantha's, it was able to guide the crew to Diantha's location.",
+  "plainText": "Lapidarian Highlands (Japanese: ギプナ高地 Guipna Highlands) is an -exclusive location in the Pokémon world. It was mentioned in The Bonds of Evolution!. described it as \"one of the last unexplored regions in the world.\"\n\nDiantha was filming a movie in the Lapidarian Highlands when a thick fog rose, and she got lost from her crew. She had entrusted her manager, Kathi Lee, with her . As Diantha's crew went searching for her, Gardevoir came out of its . By connecting its heart with Diantha's, it was able to guide the crew to Diantha's location.\n\n==Names==\n \n\n \n \n\nde:Lapidarian-Hochland\nes:Tierras Lapidarias/Montañas Lapidario\nit:Cime Diroccate\nzh:基布那高地",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lapidarian Highlands (Japanese: ギプナ高地 Guipna Highlands) is an -exclusive location in the Pokémon world. It was mentioned in The Bonds of Evolution!. described it as \"one of the last unexplored regions in the world.\"\n\nDiantha was filming a movie in the Lapidarian Highlands when a thick fog rose, and she got lost from her crew. She had entrusted her manager, Kathi Lee, with her . As Diantha's crew went searching for her, Gardevoir came out of its . By connecting its heart with Diantha's, it was able to guide the crew to Diantha's location."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:Lapidarian-Hochland\nes:Tierras Lapidarias/Montañas Lapidario\nit:Cime Diroccate\nzh:基布那高地"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lapidarian Highlands",
+    "pageType": "location",
+    "searchableText": "Lapidarian Highlands\nCategory:Animated series-exclusive locations\nLapidarian Highlands (Japanese: ギプナ高地 Guipna Highlands) is an -exclusive location in the Pokémon world. It was mentioned in The Bonds of Evolution!. described it as \"one of the last unexplored regions in the world.\"\n\nDiantha was filming a movie in the Lapidarian Highlands when a thick fog rose, and she got lost from her crew. She had entrusted her manager, Kathi Lee, with her . As Diantha's crew went searching for her, Gardevoir came out of its . By connecting its heart with Diantha's, it was able to guide the crew to Diantha's location.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 653,
+    "sectionCount": 2
+  }
+}

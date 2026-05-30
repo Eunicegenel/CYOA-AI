@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Mr. Douglas",
+    "slug": "mr-douglas",
+    "pageId": 191657,
+    "revisionId": 4096097
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "mr-douglas__191657.json",
+    "revisionTimestamp": "2024-09-01T00:50:06Z",
+    "fetchedAt": "2026-05-14T14:38:15.762Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mr. Douglas is a character of the day who appeared in The Whistle Stop. He was not given a name in the Japanese version.\n\nHe is a farmer working at an apple orchard. He received help from Arielle, who pollinated the apple trees with her . Mr. Douglas made a brief appearance when , , and Arielle visited the apple orchard. He drove past them on his tractor to greet Arielle before driving off.\n\n \n\n \n \n \n \n\nit:Mr. Douglas",
+  "plainText": "Mr. Douglas is a character of the day who appeared in The Whistle Stop. He was not given a name in the Japanese version.\n\nHe is a farmer working at an apple orchard. He received help from Arielle, who pollinated the apple trees with her . Mr. Douglas made a brief appearance when , , and Arielle visited the apple orchard. He drove past them on his tractor to greet Arielle before driving off.\n\n \n\n \n \n \n \n\nit:Mr. Douglas",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mr. Douglas is a character of the day who appeared in The Whistle Stop. He was not given a name in the Japanese version.\n\nHe is a farmer working at an apple orchard. He received help from Arielle, who pollinated the apple trees with her . Mr. Douglas made a brief appearance when , , and Arielle visited the apple orchard. He drove past them on his tractor to greet Arielle before driving off.\n\n \n\n \n \n \n \n\nit:Mr. Douglas"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mr. Douglas",
+    "pageType": "character",
+    "searchableText": "Mr. Douglas\nCategory:Johto characters of the day\nMr. Douglas is a character of the day who appeared in The Whistle Stop. He was not given a name in the Japanese version.\n\nHe is a farmer working at an apple orchard. He received help from Arielle, who pollinated the apple trees with her . Mr. Douglas made a brief appearance when , , and Arielle visited the apple orchard. He drove past them on his tractor to greet Arielle before driving off.\n\n \n\n \n \n \n \n\nit:Mr. Douglas",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 421,
+    "sectionCount": 1
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Khoury",
+    "slug": "khoury",
+    "pageId": 85536,
+    "revisionId": 4233904
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "khoury__85536.json",
+    "revisionTimestamp": "2025-02-03T23:06:50Z",
+    "fetchedAt": "2026-05-14T14:29:22.566Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Khoury (Japanese: カズナリ Kazunari) is a recurring character in . He is a and a traveling partner of .",
+  "plainText": "Khoury (Japanese: カズナリ Kazunari) is a recurring character in . He is a and a traveling partner of .\n\n==History==\n \nKhoury debuted in An Egg Scramble!, where he traveled to Sinnoh with and his father to take part in the Johto Festival. He wanted to visit Sinnoh so that he could observe and hopefully catch the . He was also interested in learning about Pokémon breeding and asked if would mentor him.\n\nIn A Rivalry to Gible On!, after encountering a , Khoury became determined to it to raise it into \"an awesome \", which he eventually did after a closely-fought competition with , who had the same goal. \n\nIn Bagged Then Tagged!, he had a Tag Battle with Lyra against and . Despite his Totodile evolving into during the match, he and Lyra eventually lost. At the end, Khoury, his father, and Lyra left on a blimp headed to Johto and said their good-byes. Khoury had also agreed to become Lyra's traveling buddy, upon her request.\n\n==Character==\nKhoury tends to panic very easily but is always very excited to meet a new Pokémon.\n\n==Pokémon==\nThis listing is of Khoury's known in :\n \n\n \n\n==Voice actors==\n \n\n==Trivia==\nKhoury shares his Japanese voice actor with and Tyson.\n\n==Names==\n \n\n==Related articles==\n \n \n \n \n\nde:Khoury\nes:Khoury\nfr:Corentin\nit:Khoury\nja:カズナリ\nzh:一成",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Khoury (Japanese: カズナリ Kazunari) is a recurring character in . He is a and a traveling partner of ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Khoury debuted in An Egg Scramble!, where he traveled to Sinnoh with and his father to take part in the Johto Festival. He wanted to visit Sinnoh so that he could observe and hopefully catch the . He was also interested in learning about Pokémon breeding and asked if would mentor him.\n\nIn A Rivalry to Gible On!, after encountering a , Khoury became determined to it to raise it into \"an awesome \", which he eventually did after a closely-fought competition with , who had the same goal. \n\nIn Bagged Then Tagged!, he had a Tag Battle with Lyra against and . Despite his Totodile evolving into during the match, he and Lyra eventually lost. At the end, Khoury, his father, and Lyra left on a blimp headed to Johto and said their good-byes. Khoury had also agreed to become Lyra's traveling buddy, upon her request."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Khoury tends to panic very easily but is always very excited to meet a new Pokémon."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Khoury's known in :"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Khoury shares his Japanese voice actor with and Tyson."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Khoury\nes:Khoury\nfr:Corentin\nit:Khoury\nja:カズナリ\nzh:一成"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Khoury",
+    "pageType": "character",
+    "searchableText": "Khoury\nCategory:Animation characters\nKhoury (Japanese: カズナリ Kazunari) is a recurring character in . He is a and a traveling partner of .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Pokémon",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1272,
+    "sectionCount": 6
+  }
+}

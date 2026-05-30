@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Linnea",
+    "slug": "linnea",
+    "pageId": 204819,
+    "revisionId": 4482053
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Gym assistants",
+    "sourceFileName": "linnea__204819.json",
+    "revisionTimestamp": "2026-02-04T04:51:43Z",
+    "fetchedAt": "2026-05-14T14:31:21.054Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Linnea (Japanese: アサミ Asami) is a from the Laverre Gym. In , she is a recurring character who first appeared in A Fashionable Battle!.",
+  "plainText": "Linnea (Japanese: アサミ Asami) is a from the Laverre Gym. In , she is a recurring character who first appeared in A Fashionable Battle!.\n\n==In animation==\n===Pokémon the Series===\n==== ====\nLinnea is a loyal to Laverre City Gym Leader Valerie. When Sawyer came to Laverre City to ask for a Gym , Linnea told him that Valerie wasn't available at the moment due to her collection being displayed in a fashion show. During the fashion show, Linnea picked Sawyer from the audience to battle against Valerie in an official Gym battle that was part of the show.\n\nLinnea reappeared in Fairy-Type Trickery!, where she was following and Valerie's Gym battle.\n\nShe reappeared in a flashback in Till We Compete Again!.\n\n====Voice actors====\n \n\n==In the games==\nLinnea appears in Pokémon X and Y as one of the s in the Laverre Gym.\n\n===Pokémon===\n \n \n \n\n==In the spin-off games==\n===Pokémon Masters EX===\n \nLinnea forms a sync pair with in Pokémon Masters EX. Linnea became a playable sync pair on January 1, 2026.\n\n \n \n\n==Gallery==\n===Artwork===\n \n\n===Sprites and models===\n \n\n==Quotes==\n \n\n==Trivia==\nLinnea shares her name in Japanese, French, Spanish, Italian, Korean, and Chinese with Asami.\nLinnea is characterized in the games as being focused on learning from Valerie to become a fashion designer, and Asami is a fashion designer in Lumiose City five years after the events of X and Y. However, due to their drastically different character designs, the relationship between the two characters is unknown, and may be coincidental or a simple reference.\n\n==In other languages==\n \n \n\n \n \n \n \n \n\nde:Roxanne\nes:Sakura (Kalos)\nfr:Tihana\nit:Asami (XY)\nzh:亞莎美",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Linnea (Japanese: アサミ Asami) is a from the Laverre Gym. In , she is a recurring character who first appeared in A Fashionable Battle!."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Linnea is a loyal to Laverre City Gym Leader Valerie. When Sawyer came to Laverre City to ask for a Gym , Linnea told him that Valerie wasn't available at the moment due to her collection being displayed in a fashion show. During the fashion show, Linnea picked Sawyer from the audience to battle against Valerie in an official Gym battle that was part of the show.\n\nLinnea reappeared in Fairy-Type Trickery!, where she was following and Valerie's Gym battle.\n\nShe reappeared in a flashback in Till We Compete Again!."
+    },
+    {
+      "heading": "In the games",
+      "level": 2,
+      "text": "Linnea appears in Pokémon X and Y as one of the s in the Laverre Gym."
+    },
+    {
+      "heading": "Pokémon Masters EX",
+      "level": 3,
+      "text": "Linnea forms a sync pair with in Pokémon Masters EX. Linnea became a playable sync pair on January 1, 2026."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Linnea shares her name in Japanese, French, Spanish, Italian, Korean, and Chinese with Asami.\nLinnea is characterized in the games as being focused on learning from Valerie to become a fashion designer, and Asami is a fashion designer in Lumiose City five years after the events of X and Y. However, due to their drastically different character designs, the relationship between the two characters is unknown, and may be coincidental or a simple reference."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Roxanne\nes:Sakura (Kalos)\nfr:Tihana\nit:Asami (XY)\nzh:亞莎美"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Linnea",
+    "pageType": "general-anime-lore",
+    "searchableText": "Linnea\nCategory:Gym assistants\nLinnea (Japanese: アサミ Asami) is a from the Laverre Gym. In , she is a recurring character who first appeared in A Fashionable Battle!.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "In the games",
+      "Pokémon Masters EX",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1645,
+    "sectionCount": 6
+  }
+}

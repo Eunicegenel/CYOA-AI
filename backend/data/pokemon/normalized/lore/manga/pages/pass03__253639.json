@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASS03",
+    "slug": "pass03",
+    "pageId": 253639,
+    "revisionId": 4528232
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass03__253639.json",
+    "revisionTimestamp": "2026-04-09T16:10:39Z",
+    "fetchedAt": "2026-05-14T15:28:41.228Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Chomp!! Defeat Drednaw (Japanese: ギリギリ！！カジリガメを倒せ Gnash!! Defeat ) is the third chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Chomp!! Defeat Drednaw (Japanese: ギリギリ！！カジリガメを倒せ Gnash!! Defeat ) is the third chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nand each receives a Rotom Phone with a Pokédex function installed.\nMarvin catches Sobble.\nThe Galar gym leaders learn that Leon recommended endorsing Henry and Casey for the Gym Challenge.\n\n \n \n\n===Debuts===\n====Humans====\nMilo\nNessa\nKabu\nOpal\n\n====Pokémon debuts====\n\n(Rotom Phone)\n\n==Characters==\n===Humans===\nHenry\nCasey\nProfessor Magnolia\nMarvin\nMilo\nNessa\nKabu\nOpal\nLeon (video)\n\n===Pokémon===\n( ; video)\n( )\n(Rotom Phone; 's)\n( )\n(Rotom Phone; 's)\n(Marvin's; new)\n(Dynamax; hologram; video)\n(multiple; video)\n(×3)\n(fantasy)\n\n \n\n \n \n \n\nde:Besiegt die Kamalm\nes:PMSSwSh03\nfr:Chapitre 3 (Pocket Monsters Special Épée et Bouclier)\nit:PASS03\nzh:宝可梦特别篇 剑·盾篇 第3话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chomp!! Defeat Drednaw (Japanese: ギリギリ！！カジリガメを倒せ Gnash!! Defeat ) is the third chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and each receives a Rotom Phone with a Pokédex function installed.\nMarvin catches Sobble.\nThe Galar gym leaders learn that Leon recommended endorsing Henry and Casey for the Gym Challenge."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Milo\nNessa\nKabu\nOpal"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Rotom Phone)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nProfessor Magnolia\nMarvin\nMilo\nNessa\nKabu\nOpal\nLeon (video)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; video)\n( )\n(Rotom Phone; 's)\n( )\n(Rotom Phone; 's)\n(Marvin's; new)\n(Dynamax; hologram; video)\n(multiple; video)\n(×3)\n(fantasy)\n\n \n\n \n \n \n\nde:Besiegt die Kamalm\nes:PMSSwSh03\nfr:Chapitre 3 (Pocket Monsters Special Épée et Bouclier)\nit:PASS03\nzh:宝可梦特别篇 剑·盾篇 第3话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS03",
+    "pageType": "chapter",
+    "searchableText": "PASS03\nCategory:Pokémon Adventures chapters\nChomp!! Defeat Drednaw (Japanese: ギリギリ！！カジリガメを倒せ Gnash!! Defeat ) is the third chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 820,
+    "sectionCount": 6
+  }
+}

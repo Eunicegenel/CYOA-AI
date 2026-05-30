@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Tomoko Kobashi",
+    "slug": "tomoko-kobashi",
+    "pageId": 231666,
+    "revisionId": 4323612
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "tomoko-kobashi__231666.json",
+    "revisionTimestamp": "2025-06-24T03:33:19Z",
+    "fetchedAt": "2026-05-14T14:55:00.671Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Tomoko Kobashi (Japanese: 小橋知子 Kobashi Tomoko) is a Japanese voice actress for .",
+  "plainText": "Tomoko Kobashi (Japanese: 小橋知子 Kobashi Tomoko) is a Japanese voice actress for .\n\n==Biography==\nKobashi was born on December 24, 1980, in , , , and became a voice actress as an adult. She was affiliated with Ken Production. Kobashi became involved with the during , replacing Tomo Adachi as Professor Sycamore's assistant, Sophie, starting in XY039.\n\n==Pokémon roles==\n===Animation===\n==== ====\nSophie (XY039-XY137)\n\n==Other non-Pokémon roles==\nMaya Wei ( )\nMieko Yunoki ( )\nZoe Drake/Malm Tatsuno ( )\nYoung Sion Astari ( )\n\n==External links==\nKen Production profile\nAnime News Network\n\n \n \n\nit:Tomoko Kobashi",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tomoko Kobashi (Japanese: 小橋知子 Kobashi Tomoko) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kobashi was born on December 24, 1980, in , , , and became a voice actress as an adult. She was affiliated with Ken Production. Kobashi became involved with the during , replacing Tomo Adachi as Professor Sycamore's assistant, Sophie, starting in XY039."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Sophie (XY039-XY137)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Maya Wei ( )\nMieko Yunoki ( )\nZoe Drake/Malm Tatsuno ( )\nYoung Sion Astari ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Ken Production profile\nAnime News Network\n\n \n \n\nit:Tomoko Kobashi"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tomoko Kobashi",
+    "pageType": "general-anime-lore",
+    "searchableText": "Tomoko Kobashi\nCategory:Japanese voice actors\nTomoko Kobashi (Japanese: 小橋知子 Kobashi Tomoko) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 609,
+    "sectionCount": 5
+  }
+}

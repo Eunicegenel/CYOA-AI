@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "LDK0",
+    "slug": "ldk0",
+    "pageId": 191389,
+    "revisionId": 3997548
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY: The Legend of the Pokémon Dragon King chapters",
+    "sourceFileName": "ldk0__191389.json",
+    "revisionTimestamp": "2024-04-30T13:03:26Z",
+    "fetchedAt": "2026-05-14T15:23:59.588Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ～序章～メガガブリアスの物語 ~Prologue~ The Story of Mega ) is the first bonus chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga. It first appeared as a sneak preview in the November 2013 issue of CoroCoro Comics magazine and later appeared in the collected volume release as a bonus chapter.",
+  "plainText": "(Japanese: ～序章～メガガブリアスの物語 ~Prologue~ The Story of Mega ) is the first bonus chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga. It first appeared as a sneak preview in the November 2013 issue of CoroCoro Comics magazine and later appeared in the collected volume release as a bonus chapter.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\n\nMori\nDaito\n\n====Pokémon debuts====\n( 's)\n(Daito's)\n\n==Characters==\n===Humans===\n\nMori\nDaito\n\n===Pokémon===\n( 's)\n(Daito's)\n\n \n \n \n\nit:LDK0",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ～序章～メガガブリアスの物語 ~Prologue~ The Story of Mega ) is the first bonus chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga. It first appeared as a sneak preview in the November 2013 issue of CoroCoro Comics magazine and later appeared in the collected volume release as a bonus chapter."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Mori\nDaito"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( 's)\n(Daito's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Mori\nDaito"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n(Daito's)\n\n \n \n \n\nit:LDK0"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "LDK0",
+    "pageType": "chapter",
+    "searchableText": "LDK0\nCategory:Pocket Monsters XY: The Legend of the Pokémon Dragon King chapters\n(Japanese: ～序章～メガガブリアスの物語 ~Prologue~ The Story of Mega ) is the first bonus chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga. It first appeared as a sneak preview in the November 2013 issue of CoroCoro Comics magazine and later appeared in the collected volume release as a bonus chapter.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 517,
+    "sectionCount": 5
+  }
+}

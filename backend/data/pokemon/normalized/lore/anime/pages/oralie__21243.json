@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Oralie",
+    "slug": "oralie",
+    "pageId": 21243,
+    "revisionId": 4241085
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "oralie__21243.json",
+    "revisionTimestamp": "2025-02-16T15:36:08Z",
+    "fetchedAt": "2026-05-14T14:40:23.941Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Oralie (Japanese: オトネ Otone) is a character of the day who appeared in Ya See We Want An Evolution!.\n\nShe is the younger sister of Haley and is also a member of the B-Button League. As a member of the league, she aims to make her the strongest Pokémon without having to evolve it.",
+  "plainText": "Oralie (Japanese: オトネ Otone) is a character of the day who appeared in Ya See We Want An Evolution!.\n\nShe is the younger sister of Haley and is also a member of the B-Button League. As a member of the league, she aims to make her the strongest Pokémon without having to evolve it.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n \n \n \n \n \n\nde:Die Poké-Weiterentwicklungsmaschine#Oralie\nes:Oralie\nfr:Oralie\nit:Oralie\nzh:乙音",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Oralie (Japanese: オトネ Otone) is a character of the day who appeared in Ya See We Want An Evolution!.\n\nShe is the younger sister of Haley and is also a member of the B-Button League. As a member of the league, she aims to make her the strongest Pokémon without having to evolve it."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Die Poké-Weiterentwicklungsmaschine#Oralie\nes:Oralie\nfr:Oralie\nit:Oralie\nzh:乙音"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Oralie",
+    "pageType": "character",
+    "searchableText": "Oralie\nCategory:Sinnoh characters of the day\nOralie (Japanese: オトネ Otone) is a character of the day who appeared in Ya See We Want An Evolution!.\n\nShe is the younger sister of Haley and is also a member of the B-Button League. As a member of the league, she aims to make her the strongest Pokémon without having to evolve it.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 409,
+    "sectionCount": 2
+  }
+}

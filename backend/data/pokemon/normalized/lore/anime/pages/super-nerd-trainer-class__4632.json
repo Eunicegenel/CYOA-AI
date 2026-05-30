@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Super Nerd (Trainer class)",
+    "slug": "super-nerd-trainer-class",
+    "pageId": 4632,
+    "revisionId": 4356825
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Origins characters",
+    "sourceFileName": "super-nerd-trainer-class__4632.json",
+    "revisionTimestamp": "2025-08-11T20:58:49Z",
+    "fetchedAt": "2026-05-14T14:52:43.195Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "A Super Nerd (Japanese: のおとこ Science Man; in Generation I, also known as りかけい Science) is a type of Pokémon Trainer that first debuted in the Generation I games. They are generally depicted as skinny young men with long hair and glasses, and are grown-up male s.",
+  "plainText": "A Super Nerd (Japanese: のおとこ Science Man; in Generation I, also known as りかけい Science) is a type of Pokémon Trainer that first debuted in the Generation I games. They are generally depicted as skinny young men with long hair and glasses, and are grown-up male s. \n\n==In other languages==\n \n\n==References==\n \n\n==Related articles==\n \n \n \n\n \n \n \n \n \n \n\nde:Tüftler\nes:Cerebrito\nfr:Intello\nit:Cervellone\nja:りかけいのおとこ\nzh:理科男",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Super Nerd (Japanese: のおとこ Science Man; in Generation I, also known as りかけい Science) is a type of Pokémon Trainer that first debuted in the Generation I games. They are generally depicted as skinny young men with long hair and glasses, and are grown-up male s."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Tüftler\nes:Cerebrito\nfr:Intello\nit:Cervellone\nja:りかけいのおとこ\nzh:理科男"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Super Nerd (Trainer class)",
+    "pageType": "character",
+    "searchableText": "Super Nerd (Trainer class)\nCategory:Pokémon Origins characters\nA Super Nerd (Japanese: のおとこ Science Man; in Generation I, also known as りかけい Science) is a type of Pokémon Trainer that first debuted in the Generation I games. They are generally depicted as skinny young men with long hair and glasses, and are grown-up male s.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 417,
+    "sectionCount": 2
+  }
+}

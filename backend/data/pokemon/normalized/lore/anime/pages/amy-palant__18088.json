@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Amy Palant",
+    "slug": "amy-palant",
+    "pageId": 18088,
+    "revisionId": 4323454
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "amy-palant__18088.json",
+    "revisionTimestamp": "2025-06-24T03:30:26Z",
+    "fetchedAt": "2026-05-14T14:01:04.894Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Amy Palant (born 1979) is an American voice actress and singer for the English-language dub of .",
+  "plainText": "Amy Palant (born 1979) is an American voice actress and singer for the English-language dub of .\n\n==Pokémon roles==\nPalant's first role in Pokémon was that of . Later, Palant returned to the series in Tanks for the Memories! after DuArt Film & Video took over the dubbing from TAJ Productions.\n===Animation===\n==== ====\n=====Humans=====\n\nVerona\n\nAdditional voices\n\n=====Pokémon=====\n( )\n\n==Other non-Pokémon roles==\n( , all games from 2005 to 2009)\nDorie Goodwyn/Doremi Harukaze ( )\nLilly ( )\nMirta ( ; 4Kids version)\nKayla ( )\nMiss Valentine ( )\nCassandra ( )\n \n \n \n \n\nit:Amy Palant",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Amy Palant (born 1979) is an American voice actress and singer for the English-language dub of ."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Palant's first role in Pokémon was that of . Later, Palant returned to the series in Tanks for the Memories! after DuArt Film & Video took over the dubbing from TAJ Productions."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Verona\n\nAdditional voices"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "( )"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "( , all games from 2005 to 2009)\nDorie Goodwyn/Doremi Harukaze ( )\nLilly ( )\nMirta ( ; 4Kids version)\nKayla ( )\nMiss Valentine ( )\nCassandra ( )\n \n \n \n \n\nit:Amy Palant"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Amy Palant",
+    "pageType": "general-anime-lore",
+    "searchableText": "Amy Palant\nCategory:TPCi voice actors\nAmy Palant (born 1979) is an American voice actress and singer for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "Humans",
+      "Pokémon",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 583,
+    "sectionCount": 5
+  }
+}

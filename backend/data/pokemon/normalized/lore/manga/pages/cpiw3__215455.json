@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CPIW3",
+    "slug": "cpiw3",
+    "pageId": 215455,
+    "revisionId": 4526485
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom chapters",
+    "sourceFileName": "cpiw3__215455.json",
+    "revisionTimestamp": "2026-04-09T14:50:06Z",
+    "fetchedAt": "2026-05-14T15:16:24.541Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: グラードン&カイオーガ, 復活!! Groudon & Kyogre, Revival!!) is the third chapter of the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga created by 秦槙吾 Shingo Hatha.",
+  "plainText": "(Japanese: グラードン&カイオーガ, 復活!! Groudon & Kyogre, Revival!!) is the third chapter of the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga created by 秦槙吾 Shingo Hatha.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n\n \n \n \n\nit:CPIW3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: グラードン&カイオーガ, 復活!! Groudon & Kyogre, Revival!!) is the third chapter of the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga created by 秦槙吾 Shingo Hatha."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "it:CPIW3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CPIW3",
+    "pageType": "chapter",
+    "searchableText": "CPIW3\nCategory:Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom chapters\n(Japanese: グラードン&カイオーガ, 復活!! Groudon & Kyogre, Revival!!) is the third chapter of the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga created by 秦槙吾 Shingo Hatha.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 325,
+    "sectionCount": 2
+  }
+}

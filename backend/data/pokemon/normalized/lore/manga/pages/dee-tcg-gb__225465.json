@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Dee (TCG GB)",
+    "slug": "dee-tcg-gb",
+    "pageId": 225465,
+    "revisionId": 4360650
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ghosts",
+    "sourceFileName": "dee-tcg-gb__225465.json",
+    "revisionTimestamp": "2025-08-19T02:11:55Z",
+    "fetchedAt": "2026-05-14T15:16:51.207Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Dee (Japanese: ディー) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Dee can be found in the sixth of the nine statues in the main room. Players who defeat Dee will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game.",
+  "plainText": "Dee (Japanese: ディー) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Dee can be found in the sixth of the nine statues in the main room. Players who defeat Dee will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game.\n\n==Big Thunder Deck==\nBig Thunder Deck (Japanese: ビッグサンダーデッキ) is the deck played by Dee. The deck consists of exactly three species of Pokémon, with two being exclusive to the two GBC games. The deck strategy is focused around .\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n==Gallery==\n===Sprites===\n \n\n==Related articles==\n \n\n \n\n \n \n\nit:Dee\nja:ビッグサンダーデッキ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Dee (Japanese: ディー) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Dee can be found in the sixth of the nine statues in the main room. Players who defeat Dee will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game."
+    },
+    {
+      "heading": "Big Thunder Deck",
+      "level": 2,
+      "text": "Big Thunder Deck (Japanese: ビッグサンダーデッキ) is the deck played by Dee. The deck consists of exactly three species of Pokémon, with two being exclusive to the two GBC games. The deck strategy is focused around ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Dee\nja:ビッグサンダーデッキ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dee (TCG GB)",
+    "pageType": "general-manga-lore",
+    "searchableText": "Dee (TCG GB)\nCategory:Ghosts\nDee (Japanese: ディー) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Dee can be found in the sixth of the nine statues in the main room. Players who defeat Dee will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game.",
+    "sectionHeadings": [
+      "Lead",
+      "Big Thunder Deck",
+      "Related articles"
+    ],
+    "characterCount": 696,
+    "sectionCount": 3
+  }
+}

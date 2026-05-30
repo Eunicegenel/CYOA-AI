@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMRS24",
+    "slug": "pmrs24",
+    "pageId": 171067,
+    "revisionId": 4264628
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs24__171067.json",
+    "revisionTimestamp": "2025-03-23T18:29:30Z",
+    "fetchedAt": "2026-05-14T15:33:22.849Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "We're a Family!! (Japanese: 家族のきずなを取りもどぜ！！ Take Back our Family Bond!!) is the twenty-fourth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "We're a Family!! (Japanese: 家族のきずなを取りもどぜ！！ Take Back our Family Bond!!) is the twenty-fourth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nBlue's parents\n\n===Pokémon===\n( )\n( )\n( )\n( 's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "We're a Family!! (Japanese: 家族のきずなを取りもどぜ！！ Take Back our Family Bond!!) is the twenty-fourth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Blue's parents"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS24",
+    "pageType": "chapter",
+    "searchableText": "PMRS24\nCategory:Pokémon Ruby-Sapphire chapters\nWe're a Family!! (Japanese: 家族のきずなを取りもどぜ！！ Take Back our Family Bond!!) is the twenty-fourth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 282,
+    "sectionCount": 3
+  }
+}

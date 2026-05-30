@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Yellow Beginnings",
+    "slug": "yellow-beginnings",
+    "pageId": 198213,
+    "revisionId": 4132936
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "yellow-beginnings__198213.json",
+    "revisionTimestamp": "2024-09-29T05:29:38Z",
+    "fetchedAt": "2026-05-14T15:52:58.575Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Yellow Beginnings is the 36th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 41, 42, and 43 of the . The chapters originally released in this book were later re-released as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Yellow Beginnings is the 36th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 41, 42, and 43 of the . The chapters originally released in this book were later re-released as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 81 - Aerodactyl Redux\nChapter 82 - Eradicate Raticate!\nChapter 83 - Bang the Drum, Slowbro\n\n==Important events==\nrealizes the reason she was chosen to take on the Elite Four is because she shares the same powers as Lance.\nSabrina battles against Lorelei.\n\n \n \n\nfr:Volume 33 (Pokémon Adventures)\nit:Yellow Beginnings",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Yellow Beginnings is the 36th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 41, 42, and 43 of the . The chapters originally released in this book were later re-released as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 81 - Aerodactyl Redux\nChapter 82 - Eradicate Raticate!\nChapter 83 - Bang the Drum, Slowbro"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "realizes the reason she was chosen to take on the Elite Four is because she shares the same powers as Lance.\nSabrina battles against Lorelei.\n\n \n \n\nfr:Volume 33 (Pokémon Adventures)\nit:Yellow Beginnings"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yellow Beginnings",
+    "pageType": "pokemon-related",
+    "searchableText": "Yellow Beginnings\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Yellow Beginnings is the 36th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 41, 42, and 43 of the . The chapters originally released in this book were later re-released as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 753,
+    "sectionCount": 3
+  }
+}

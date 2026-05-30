@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon 4Koma Plaza",
+    "slug": "pokemon-4koma-plaza",
+    "pageId": 222879,
+    "revisionId": 4547788
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-4koma-plaza__222879.json",
+    "revisionTimestamp": "2026-05-10T01:36:03Z",
+    "fetchedAt": "2026-05-14T15:34:49.207Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon 4-Koma Comic Strip (Japanese: ポケモン４コマ Pokémon 4Koma Plaza) is a Pokémon 4Koma by Takahiro Yamashita. It is published once weekly each Monday on Pokémon Daisuki Club in .\n\nStarting in September 2020, English versions of each comic began to be posted on the official Pokémon social media accounts in (Facebook, Instagram), (Facebook), (Facebook), and (Facebook, Instagram). The social media accounts in (Bilibili, Weibo), (Facebook), (Facebook, Instagram), (Facebook, Instagram), (Facebook, Instagram), and (Facebook) also post versions of the comic in the respective local languages.",
+  "plainText": "Pokémon 4-Koma Comic Strip (Japanese: ポケモン４コマ Pokémon 4Koma Plaza) is a Pokémon 4Koma by Takahiro Yamashita. It is published once weekly each Monday on Pokémon Daisuki Club in .\n\nStarting in September 2020, English versions of each comic began to be posted on the official Pokémon social media accounts in (Facebook, Instagram), (Facebook), (Facebook), and (Facebook, Instagram). The social media accounts in (Bilibili, Weibo), (Facebook), (Facebook, Instagram), (Facebook, Instagram), (Facebook, Instagram), and (Facebook) also post versions of the comic in the respective local languages.\n\n==List of comics==\n===Generation VI===\n \n\n===Generation VII===\n \n\n===Generation VIII===\n \n\n===Generation IX===\n \n \n \n\n==Gallery==\n \nPokémon 4Koma Plaza art SV.png|Generation IX era announcement art \n \n\n==In other languages==\n \n\n==See also==\nPokémon 4Koma\nPokémon manga\n\n==Notes==\n \n\n==References==\n \n\n \n\n \n\nzh:宝可梦四格广场",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon 4-Koma Comic Strip (Japanese: ポケモン４コマ Pokémon 4Koma Plaza) is a Pokémon 4Koma by Takahiro Yamashita. It is published once weekly each Monday on Pokémon Daisuki Club in .\n\nStarting in September 2020, English versions of each comic began to be posted on the official Pokémon social media accounts in (Facebook, Instagram), (Facebook), (Facebook), and (Facebook, Instagram). The social media accounts in (Bilibili, Weibo), (Facebook), (Facebook, Instagram), (Facebook, Instagram), (Facebook, Instagram), and (Facebook) also post versions of the comic in the respective local languages."
+    },
+    {
+      "heading": "Gallery",
+      "level": 2,
+      "text": "Pokémon 4Koma Plaza art SV.png|Generation IX era announcement art"
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "Pokémon 4Koma\nPokémon manga"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "zh:宝可梦四格广场"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 4Koma Plaza",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 4Koma Plaza\nCategory:Pokémon 4Koma\nPokémon 4-Koma Comic Strip (Japanese: ポケモン４コマ Pokémon 4Koma Plaza) is a Pokémon 4Koma by Takahiro Yamashita. It is published once weekly each Monday on Pokémon Daisuki Club in .\n\nStarting in September 2020, English versions of each comic began to be posted on the official Pokémon social media accounts in (Facebook, Instagram), (Facebook), (Facebook), and (Facebook, Instagram). The social media accounts in (Bilibili, Weibo), (Facebook), (Facebook, Instagram), (Facebook, Instagram), (Facebook, Instagram), and (Facebook) also post versions of the comic in the respective local languages.",
+    "sectionHeadings": [
+      "Lead",
+      "Gallery",
+      "See also",
+      "References"
+    ],
+    "characterCount": 909,
+    "sectionCount": 4
+  }
+}

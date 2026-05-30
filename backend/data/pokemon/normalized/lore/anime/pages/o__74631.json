@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "O",
+    "slug": "o",
+    "pageId": 74631,
+    "revisionId": 4441898
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "o__74631.json",
+    "revisionTimestamp": "2025-12-12T16:19:40Z",
+    "fetchedAt": "2026-05-14T14:39:49.512Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "O (Japanese: オウ Ō) is a character of the day who appeared in To Thine Own Pokémon Be True!.\n\nHe has a Ping Pong Training Center in Vermilion City. He traveled all the way to Sinnoh to participate in Sandalstraw Town's Pokémon Ping Pong Tournament, which he won. He is well-known for being an expert player.\n\nAfter seeing Dawn's Ambipom's talent for ping pong, he invited her to in his training center. After the tournament, asked Ambipom if she wanted to continue competing in Pokémon Contests or go practice Ping Pong at O's training center. After much contemplation, Ambipom chose ping pong and left with O.",
+  "plainText": "O (Japanese: オウ Ō) is a character of the day who appeared in To Thine Own Pokémon Be True!.\n\nHe has a Ping Pong Training Center in Vermilion City. He traveled all the way to Sinnoh to participate in Sandalstraw Town's Pokémon Ping Pong Tournament, which he won. He is well-known for being an expert player.\n\nAfter seeing Dawn's Ambipom's talent for ping pong, he invited her to in his training center. After the tournament, asked Ambipom if she wanted to continue competing in Pokémon Contests or go practice Ping Pong at O's training center. After much contemplation, Ambipom chose ping pong and left with O.\n\n==Pokémon==\n \nThis listing is of O's known in :\n\n \n\n===Training===\n\n \n\n==Pokémon competitions==\nO has competed in the following :\nPokémon Ping Pong Tournament - Winner (One year prior to To Thine Own Pokémon Be True!)\nPokémon Ping Pong Tournament - Winner (To Thine Own Pokémon Be True!)\n\n==Voice actors==\n \n \n \n \n \n \n\nde:O\nes:O\nfr:O\nit:O (DP124)\nja:オウ\nzh:O（DP122）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "O (Japanese: オウ Ō) is a character of the day who appeared in To Thine Own Pokémon Be True!.\n\nHe has a Ping Pong Training Center in Vermilion City. He traveled all the way to Sinnoh to participate in Sandalstraw Town's Pokémon Ping Pong Tournament, which he won. He is well-known for being an expert player.\n\nAfter seeing Dawn's Ambipom's talent for ping pong, he invited her to in his training center. After the tournament, asked Ambipom if she wanted to continue competing in Pokémon Contests or go practice Ping Pong at O's training center. After much contemplation, Ambipom chose ping pong and left with O."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of O's known in :"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "O has competed in the following :\nPokémon Ping Pong Tournament - Winner (One year prior to To Thine Own Pokémon Be True!)\nPokémon Ping Pong Tournament - Winner (To Thine Own Pokémon Be True!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:O\nes:O\nfr:O\nit:O (DP124)\nja:オウ\nzh:O（DP122）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "O",
+    "pageType": "character",
+    "searchableText": "O\nCategory:Sinnoh characters of the day\nO (Japanese: オウ Ō) is a character of the day who appeared in To Thine Own Pokémon Be True!.\n\nHe has a Ping Pong Training Center in Vermilion City. He traveled all the way to Sinnoh to participate in Sandalstraw Town's Pokémon Ping Pong Tournament, which he won. He is well-known for being an expert player.\n\nAfter seeing Dawn's Ambipom's talent for ping pong, he invited her to in his training center. After the tournament, asked Ambipom if she wanted to continue competing in Pokémon Contests or go practice Ping Pong at O's training center. After much contemplation, Ambipom chose ping pong and left with O.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 975,
+    "sectionCount": 4
+  }
+}

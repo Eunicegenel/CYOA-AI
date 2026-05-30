@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PT11",
+    "slug": "pt11",
+    "pageId": 321070,
+    "revisionId": 4393432
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Undubbed episodes",
+    "sourceFileName": "pt11__321070.json",
+    "revisionTimestamp": "2025-10-03T12:20:11Z",
+    "fetchedAt": "2026-05-14T14:45:12.182Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "(Japanese: ドオー大量発生ちゅう？ Mass Outbreak of ?) is the third episode of the second season of POKÉTOON and eleventh overall. It was first released in Japan on the official Pokémon YouTube channel on October 2, 2024 .",
+  "plainText": "(Japanese: ドオー大量発生ちゅう？ Mass Outbreak of ?) is the third episode of the second season of POKÉTOON and eleventh overall. It was first released in Japan on the official Pokémon YouTube channel on October 2, 2024 .\n\n==Blurb==\n\n==Plot==\nA young girl, who appears to be a fan of (as evidence by her hairclips matching Wooper's gills and her carrying around a Wooper plushie), seems to be looking for an outbreak of Wooper but happens upon a mass outbreak of Wooper and . Initially, she is shocked and scared of the regional forms, but they notice her Wooper plushie and accept her into the group. The girl, though nervous, starts to enjoy the company of the Pokémon.\n\n==Major events==\n\n==Characters==\n===Humans===\nGirl\n\n===Pokémon===\n(Paldean form, multiple)\n(multiple)\n\n==Cast==\n===Staff===\n \n\n==Video==\n \n\n==Trivia==\n===Errors===\n\n==In other languages==\n \n\n \n \n \n\n \n\nde:Dooh Tairyōhassei-chū?\nes:TOON11\nja:ドオー大量発生ちゅう?\nzh:土王大量聚集中？",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ドオー大量発生ちゅう？ Mass Outbreak of ?) is the third episode of the second season of POKÉTOON and eleventh overall. It was first released in Japan on the official Pokémon YouTube channel on October 2, 2024 ."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "A young girl, who appears to be a fan of (as evidence by her hairclips matching Wooper's gills and her carrying around a Wooper plushie), seems to be looking for an outbreak of Wooper but happens upon a mass outbreak of Wooper and . Initially, she is shocked and scared of the regional forms, but they notice her Wooper plushie and accept her into the group. The girl, though nervous, starts to enjoy the company of the Pokémon."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Girl"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Paldean form, multiple)\n(multiple)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Dooh Tairyōhassei-chū?\nes:TOON11\nja:ドオー大量発生ちゅう?\nzh:土王大量聚集中？"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PT11",
+    "pageType": "episode",
+    "searchableText": "PT11\nCategory:Undubbed episodes\n(Japanese: ドオー大量発生ちゅう？ Mass Outbreak of ?) is the third episode of the second season of POKÉTOON and eleventh overall. It was first released in Japan on the official Pokémon YouTube channel on October 2, 2024 .",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 925,
+    "sectionCount": 5
+  }
+}

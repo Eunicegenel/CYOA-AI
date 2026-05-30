@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Emmanuel",
+    "slug": "emmanuel",
+    "pageId": 142736,
+    "revisionId": 4143507
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:League Conference participants",
+    "sourceFileName": "emmanuel__142736.json",
+    "revisionTimestamp": "2024-10-11T20:38:13Z",
+    "fetchedAt": "2026-05-14T14:15:21.675Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Emmanuel (Japanese: イブシ Ibushi) is a minor recurring character in .",
+  "plainText": "Emmanuel (Japanese: イブシ Ibushi) is a minor recurring character in .\n\n==History==\nEmmanuel debuted in Reunion Battles In Nimbasa!, where he participated in the Club Battle tournament. He played a small role in the episode, where he battled Antonio's using his in the first round. He was defeated by Antonio and got eliminated afterwards.\n\nIn Curtain Up, Unova League!, Emmanuel competed in the Vertress Conference. In Mission: Defeat Your Rival!, he appeared on the screen showing the match-ups for the second round of the Conference, meaning that he had made it through the first round. When the screens showed the match-ups for the last sixteen in Lost at the League!, Emmanuel did not appear on it, meaning he had either lost in the second round or the third round. In A Unova League Evolution!, he appeared once again during the closing ceremonies of the Vertress Conference.\n\n==Pokémon==\n \n\nEmmanuel has at least two other Pokémon as those who entered the Club Battle were required to enter with three Pokémon.\n\n==Achievements==\n===Badges obtained===\nThis listing is of the Badges Emmanuel has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)\n\n===Pokémon League===\nEmmanuel has competed in the following Pokémon League Conferences:\nVertress Conference - Top 32 / Top 64 (Lost at the League!)\n\n===Pokémon competitions===\nEmmanuel has competed in the following :\nClub Battle - Top 16 (Reunion Battles In Nimbasa!)\n\n==Voice actors==\n \n\n==Related articles==\n \n \n\n \n \n\nes:Emmanuel\nfr:Emmanuel\nit:Emmanuel\nzh:阿燻",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Emmanuel (Japanese: イブシ Ibushi) is a minor recurring character in ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Emmanuel debuted in Reunion Battles In Nimbasa!, where he participated in the Club Battle tournament. He played a small role in the episode, where he battled Antonio's using his in the first round. He was defeated by Antonio and got eliminated afterwards.\n\nIn Curtain Up, Unova League!, Emmanuel competed in the Vertress Conference. In Mission: Defeat Your Rival!, he appeared on the screen showing the match-ups for the second round of the Conference, meaning that he had made it through the first round. When the screens showed the match-ups for the last sixteen in Lost at the League!, Emmanuel did not appear on it, meaning he had either lost in the second round or the third round. In A Unova League Evolution!, he appeared once again during the closing ceremonies of the Vertress Conference."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "Emmanuel has at least two other Pokémon as those who entered the Club Battle were required to enter with three Pokémon."
+    },
+    {
+      "heading": "Badges obtained",
+      "level": 3,
+      "text": "This listing is of the Badges Emmanuel has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)"
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Emmanuel has competed in the following Pokémon League Conferences:\nVertress Conference - Top 32 / Top 64 (Lost at the League!)"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 3,
+      "text": "Emmanuel has competed in the following :\nClub Battle - Top 16 (Reunion Battles In Nimbasa!)"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Emmanuel\nfr:Emmanuel\nit:Emmanuel\nzh:阿燻"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Emmanuel",
+    "pageType": "general-anime-lore",
+    "searchableText": "Emmanuel\nCategory:League Conference participants\nEmmanuel (Japanese: イブシ Ibushi) is a minor recurring character in .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Badges obtained",
+      "Pokémon League",
+      "Pokémon competitions",
+      "Related articles"
+    ],
+    "characterCount": 1549,
+    "sectionCount": 7
+  }
+}

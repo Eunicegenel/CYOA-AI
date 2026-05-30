@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Tommy (Galar)",
+    "slug": "tommy-galar",
+    "pageId": 247006,
+    "revisionId": 4132473
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Twilight Wings characters",
+    "sourceFileName": "tommy-galar__247006.json",
+    "revisionTimestamp": "2024-09-29T05:22:28Z",
+    "fetchedAt": "2026-05-14T14:54:55.020Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Tommy (Japanese: トミー Tommy) is a character who appeared in Pokémon: Twilight Wings.",
+  "plainText": "Tommy (Japanese: トミー Tommy) is a character who appeared in Pokémon: Twilight Wings.\n\n==History==\n \nTommy was being treated in the same hospital as , where the two shared a wardroom. They became friends during their stay, bonding over their shared dreams of becoming Pokémon Trainers like their idol, Galar Leon.\n\nIn Letter, John wrote a letter to Leon and planned to deliver it to Rose during his hospital visit. However, when John missed the visit, Tommy helped him deliver the letter to Chairman Rose in person.\n\nIn Moonlight, Tommy had been discharged after making a full recovery. However, before he was discharged, he had an argument with John, who he believed was not being realistic and was too focused on becoming a Trainer. To make amends, Tommy sought out Allister in the hopes of getting a ticket to Leon's next match. Allister declined the request, but after learning about Tommy and John's argument, he helped Tommy reach the hospital and apologize to John in person. John accepted Tommy's apology, and the two agreed to become the greatest Trainers together.\n\nIn Sky, Tommy watched the match between Leon and Raihan at Wyndon Stadium together with Allister.\n\n==Character==\nMore knowledgeable about the world at large, Tommy acts like an older brother to John, talking to him enthusiastically about Pokémon.\n\n==Voice actors==\n \n\n==Trivia==\n \nIn his artwork on the Japanese site, Tommy's eyes were initially colored brown rather than green.\nAs a tribute to the end of the miniseries, director Shingo Yamashita posted an image of the first day of John and Tommy's on his Twitter. In the image, Tommy is seen with a and John with a . This also suggested that they were discharged from the hospital.\n\n==Names==\n \n \n\n \n\nde:Tommy (Galar)\nes:Tommy (Galar)\nit:Tommy (Galar)\nzh:汤米",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tommy (Japanese: トミー Tommy) is a character who appeared in Pokémon: Twilight Wings."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Tommy was being treated in the same hospital as , where the two shared a wardroom. They became friends during their stay, bonding over their shared dreams of becoming Pokémon Trainers like their idol, Galar Leon.\n\nIn Letter, John wrote a letter to Leon and planned to deliver it to Rose during his hospital visit. However, when John missed the visit, Tommy helped him deliver the letter to Chairman Rose in person.\n\nIn Moonlight, Tommy had been discharged after making a full recovery. However, before he was discharged, he had an argument with John, who he believed was not being realistic and was too focused on becoming a Trainer. To make amends, Tommy sought out Allister in the hopes of getting a ticket to Leon's next match. Allister declined the request, but after learning about Tommy and John's argument, he helped Tommy reach the hospital and apologize to John in person. John accepted Tommy's apology, and the two agreed to become the greatest Trainers together.\n\nIn Sky, Tommy watched the match between Leon and Raihan at Wyndon Stadium together with Allister."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "More knowledgeable about the world at large, Tommy acts like an older brother to John, talking to him enthusiastically about Pokémon."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In his artwork on the Japanese site, Tommy's eyes were initially colored brown rather than green.\nAs a tribute to the end of the miniseries, director Shingo Yamashita posted an image of the first day of John and Tommy's on his Twitter. In the image, Tommy is seen with a and John with a . This also suggested that they were discharged from the hospital."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:Tommy (Galar)\nes:Tommy (Galar)\nit:Tommy (Galar)\nzh:汤米"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tommy (Galar)",
+    "pageType": "character",
+    "searchableText": "Tommy (Galar)\nCategory:Pokémon: Twilight Wings characters\nTommy (Japanese: トミー Tommy) is a character who appeared in Pokémon: Twilight Wings.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 1784,
+    "sectionCount": 5
+  }
+}

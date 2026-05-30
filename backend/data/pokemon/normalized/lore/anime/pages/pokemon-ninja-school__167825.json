@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Ninja School",
+    "slug": "pokemon-ninja-school",
+    "pageId": 167825,
+    "revisionId": 4261204
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "pokemon-ninja-school__167825.json",
+    "revisionTimestamp": "2025-03-19T21:51:24Z",
+    "fetchedAt": "2026-05-14T14:43:13.080Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Pokémon Ninja School (Japanese: 忍者スクール Ninja School) is an -exclusive location in the Kanto region. It is located between Lavender Town and Fuchsia City. Angela is one of the teachers here. There are many students here, including Evian.\n\n and went to the Pokémon Ninja School in order to train themselves in . caught a there.\n\nIt is similar to the Pokémon Jujitsu Academy in Johto.",
+  "plainText": "The Pokémon Ninja School (Japanese: 忍者スクール Ninja School) is an -exclusive location in the Kanto region. It is located between Lavender Town and Fuchsia City. Angela is one of the teachers here. There are many students here, including Evian.\n\n and went to the Pokémon Ninja School in order to train themselves in . caught a there.\n\nIt is similar to the Pokémon Jujitsu Academy in Johto.\n \n==Pokémon seen in the Pokémon Ninja School==\n \n \n \n\n \n\nes:Escuela Ninja Pokémon\nit:Scuola per Pokémon Ninja\nzh:忍者學園",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Pokémon Ninja School (Japanese: 忍者スクール Ninja School) is an -exclusive location in the Kanto region. It is located between Lavender Town and Fuchsia City. Angela is one of the teachers here. There are many students here, including Evian.\n\n and went to the Pokémon Ninja School in order to train themselves in . caught a there.\n\nIt is similar to the Pokémon Jujitsu Academy in Johto."
+    },
+    {
+      "heading": "Pokémon seen in the Pokémon Ninja School",
+      "level": 2,
+      "text": "es:Escuela Ninja Pokémon\nit:Scuola per Pokémon Ninja\nzh:忍者學園"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Ninja School",
+    "pageType": "location",
+    "searchableText": "Pokémon Ninja School\nCategory:Animated series-exclusive locations\nThe Pokémon Ninja School (Japanese: 忍者スクール Ninja School) is an -exclusive location in the Kanto region. It is located between Lavender Town and Fuchsia City. Angela is one of the teachers here. There are many students here, including Evian.\n\n and went to the Pokémon Ninja School in order to train themselves in . caught a there.\n\nIt is similar to the Pokémon Jujitsu Academy in Johto.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon seen in the Pokémon Ninja School"
+    ],
+    "characterCount": 503,
+    "sectionCount": 2
+  }
+}

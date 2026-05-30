@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PPP29",
+    "slug": "ppp29",
+    "pageId": 6600,
+    "revisionId": 4167911
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp29__6600.json",
+    "revisionTimestamp": "2024-10-26T01:58:28Z",
+    "fetchedAt": "2026-05-14T15:38:54.692Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Never Say Diet! (Japanese: ダイエットするでちゅ！ Let's Diet!) is the 29th chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Never Say Diet! (Japanese: ダイエットするでちゅ！ Let's Diet!) is the 29th chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \n is one pound overweight. She believes she must slim down for Pistachio, so she and Hazel take a trip to a very twisted diet center.\n\n==Major events==\n===Debuts===\n====Pokémon====\n\n==Characters==\n===Humans===\nPistachio\nHazel\nGrandpa\n\n===Pokémon===\n( ) \n(debut)\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Never Say Diet! (Japanese: ダイエットするでちゅ！ Let's Diet!) is the 29th chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "is one pound overweight. She believes she must slim down for Pistachio, so she and Hazel take a trip to a very twisted diet center."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Pistachio\nHazel\nGrandpa"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n(debut)\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP29",
+    "pageType": "chapter",
+    "searchableText": "PPP29\nCategory:Magical Pokémon Journey chapters\nNever Say Diet! (Japanese: ダイエットするでちゅ！ Let's Diet!) is the 29th chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 390,
+    "sectionCount": 4
+  }
+}

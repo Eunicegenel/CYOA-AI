@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "RB03",
+    "slug": "rb03",
+    "pageId": 136671,
+    "revisionId": 4367391
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb03__136671.json",
+    "revisionTimestamp": "2025-08-27T23:32:34Z",
+    "fetchedAt": "2026-05-14T15:47:17.827Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 危険なゼラブル山 The Perilous Mt. Serables) is the third chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 危険なゼラブル山 The Perilous Mt. Serables) is the third chapter of the Pokémon RéBURST manga.\n==Plot==\nAt the base, Ryouga is excited to climb Mt. Serables. However, Miruto questions why they would get the Silver Drop, as despite how valuable it is, those who have tried end up disappearing and speculates that those who challenged the mountain did not return to their normal selves, but Ryouga brushes it off. The two encounter a treasure hunter named Tougo, who warns them that children should not being doing this and flaunts his equipment and physique, but they ignore him and start climbing.\n\nMiruto finds climbing difficult and Ryouga tells her to go home if it is \"impossible\". Not wanting to let Ryouga out of her sight she carries on, but quickly gives up because of how tired she is. Tougo laughs at them for not taking his advice, despite being pulled around by his . Miruto realizes she could use her to fly to the top, but Ryouga advises her against it because of the strong winds around the mountain. He has her carry his luggage while he carries her.\n\nSeeing how far ahead Tougo is Ryouga jumps and scales as fast as he can. He stops by Tougo, asking if he wants to go together, and drags him along as well. They reach the last barrier of the mountain, the \"Devil's Plate\". Tougo warns them about it, how the giant rock has solid, yet fragile, stalactites hanging under it. Much to his dismay, they ignore him again. As they traverse through these stalactites, one breaks off. They nearly plummet with it, but Ryouga manages to hang onto another one. Soon they reach the edge and climb over it to get to the summit.\n\nThe two find a man waiting for them. Hilgreitz prepares to strike, but Ryouga dodges in time. Hilgreitz laughs, excited that his opponent is not a weakling. Miruto recognizes the logo on his chest, matching the organization's from Mudrow City. Hilgreitz introduces himself, one of Great Gavel's Seven Warriors. He pulls out a Burst Heart and Bursts, shocking Ryouga.\n\n==Major events==\nRyouga, Miruto, and Tougo climb Mt. Serables.\nRyouga and Miruto are attacked by Major Hilgreitz when they reach the top.\n\n===Debuts===\n====Humans====\nTougo\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyouga\nMiruto\nTougo\nMajor Hilgreitz\n\n===Pokémon===\n(Tougo's)\n(Miruto's; fantasy)\n\n \n \n \n \n\nit:RB03\nzh:RB03",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 危険なゼラブル山 The Perilous Mt. Serables) is the third chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "At the base, Ryouga is excited to climb Mt. Serables. However, Miruto questions why they would get the Silver Drop, as despite how valuable it is, those who have tried end up disappearing and speculates that those who challenged the mountain did not return to their normal selves, but Ryouga brushes it off. The two encounter a treasure hunter named Tougo, who warns them that children should not being doing this and flaunts his equipment and physique, but they ignore him and start climbing.\n\nMiruto finds climbing difficult and Ryouga tells her to go home if it is \"impossible\". Not wanting to let Ryouga out of her sight she carries on, but quickly gives up because of how tired she is. Tougo laughs at them for not taking his advice, despite being pulled around by his . Miruto realizes she could use her to fly to the top, but Ryouga advises her against it because of the strong winds around the mountain. He has her carry his luggage while he carries her.\n\nSeeing how far ahead Tougo is Ryouga jumps and scales as fast as he can. He stops by Tougo, asking if he wants to go together, and drags him along as well. They reach the last barrier of the mountain, the \"Devil's Plate\". Tougo warns them about it, how the giant rock has solid, yet fragile, stalactites hanging under it. Much to his dismay, they ignore him again. As they traverse through these stalactites, one breaks off. They nearly plummet with it, but Ryouga manages to hang onto another one. Soon they reach the edge and climb over it to get to the summit.\n\nThe two find a man waiting for them. Hilgreitz prepares to strike, but Ryouga dodges in time. Hilgreitz laughs, excited that his opponent is not a weakling. Miruto recognizes the logo on his chest, matching the organization's from Mudrow City. Hilgreitz introduces himself, one of Great Gavel's Seven Warriors. He pulls out a Burst Heart and Bursts, shocking Ryouga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga, Miruto, and Tougo climb Mt. Serables.\nRyouga and Miruto are attacked by Major Hilgreitz when they reach the top."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Tougo"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nMiruto\nTougo\nMajor Hilgreitz"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Tougo's)\n(Miruto's; fantasy)\n\n \n \n \n \n\nit:RB03\nzh:RB03"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB03",
+    "pageType": "chapter",
+    "searchableText": "RB03\nCategory:Pokémon RéBURST chapters\n(Japanese: 危険なゼラブル山 The Perilous Mt. Serables) is the third chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 2336,
+    "sectionCount": 6
+  }
+}

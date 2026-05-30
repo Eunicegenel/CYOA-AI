@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Lake Psyduck",
+    "slug": "lake-psyduck",
+    "pageId": 66467,
+    "revisionId": 4520001
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "lake-psyduck__66467.json",
+    "revisionTimestamp": "2026-03-30T17:40:54Z",
+    "fetchedAt": "2026-05-14T14:30:18.896Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Lake Psyduck is an -exclusive location in Sinnoh featured in The Psyduck Stops Here!. It is located between Solaceon Town and Celestic Town.\n\nThe lake appears to be shaped like a 's foot. It is surrounded by many kinds of .\n\nSeveral Psyduck retreated from the lake after a group of took over, resulting in them blocking a road so that three Psyduck s could hatch without disturbance. and helped in driving the Muk away so that the Psyduck could live by the lake and stop blocking the road. The Muk were sent flying and landed in a nearby lake, which was polluted and home to other Muk.",
+  "plainText": "Lake Psyduck is an -exclusive location in Sinnoh featured in The Psyduck Stops Here!. It is located between Solaceon Town and Celestic Town.\n\nThe lake appears to be shaped like a 's foot. It is surrounded by many kinds of .\n\nSeveral Psyduck retreated from the lake after a group of took over, resulting in them blocking a road so that three Psyduck s could hatch without disturbance. and helped in driving the Muk away so that the Psyduck could live by the lake and stop blocking the road. The Muk were sent flying and landed in a nearby lake, which was polluted and home to other Muk.\n\n==Pokémon seen around Lake Psyduck==\n \n\n==In other languages==\n \n \n \n \n\n \n\nes:Lago Psyduck\nfr:Lac aux Psykokwak\nit:Lago degli Psyduck\nzh:可達鴨之湖",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lake Psyduck is an -exclusive location in Sinnoh featured in The Psyduck Stops Here!. It is located between Solaceon Town and Celestic Town.\n\nThe lake appears to be shaped like a 's foot. It is surrounded by many kinds of .\n\nSeveral Psyduck retreated from the lake after a group of took over, resulting in them blocking a road so that three Psyduck s could hatch without disturbance. and helped in driving the Muk away so that the Psyduck could live by the lake and stop blocking the road. The Muk were sent flying and landed in a nearby lake, which was polluted and home to other Muk."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Lago Psyduck\nfr:Lac aux Psykokwak\nit:Lago degli Psyduck\nzh:可達鴨之湖"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lake Psyduck",
+    "pageType": "location",
+    "searchableText": "Lake Psyduck\nCategory:Animated series-exclusive locations\nLake Psyduck is an -exclusive location in Sinnoh featured in The Psyduck Stops Here!. It is located between Solaceon Town and Celestic Town.\n\nThe lake appears to be shaped like a 's foot. It is surrounded by many kinds of .\n\nSeveral Psyduck retreated from the lake after a group of took over, resulting in them blocking a road so that three Psyduck s could hatch without disturbance. and helped in driving the Muk away so that the Psyduck could live by the lake and stop blocking the road. The Muk were sent flying and landed in a nearby lake, which was polluted and home to other Muk.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 729,
+    "sectionCount": 2
+  }
+}

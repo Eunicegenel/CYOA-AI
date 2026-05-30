@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PM084",
+    "slug": "pm084",
+    "pageId": 160484,
+    "revisionId": 4526545
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm084__160484.json",
+    "revisionTimestamp": "2026-04-09T14:55:14Z",
+    "fetchedAt": "2026-05-14T15:31:22.481Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Fierce Battle Between Clefairy and Clefable (Japanese: ピッピVSピクシー壮絶バトル Grand Battle Between VS ) is the eighty-fourth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Fierce Battle Between Clefairy and Clefable (Japanese: ピッピVSピクシー壮絶バトル Grand Battle Between VS ) is the eighty-fourth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\nis reunited with his childhood friend, a that belongs to Whitney.\nRed receives the .\n\n===Debuts===\n\n====Pokémon debuts====\nWhitney's Miltank\n\n==Characters==\n===Humans===\n\nWhitney\nTrainers\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n(Whitney's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 84 (Pokémon Pocket Monsters)\nit:PMM084",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Fierce Battle Between Clefairy and Clefable (Japanese: ピッピVSピクシー壮絶バトル Grand Battle Between VS ) is the eighty-fourth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "is reunited with his childhood friend, a that belongs to Whitney.\nRed receives the ."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "Whitney's Miltank"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Whitney\nTrainers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )\n(Whitney's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 84 (Pokémon Pocket Monsters)\nit:PMM084"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM084",
+    "pageType": "chapter",
+    "searchableText": "PM084\nCategory:Pokémon Pocket Monsters chapters\nFierce Battle Between Clefairy and Clefable (Japanese: ピッピVSピクシー壮絶バトル Grand Battle Between VS ) is the eighty-fourth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 492,
+    "sectionCount": 6
+  }
+}

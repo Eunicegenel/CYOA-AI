@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Bamboo Borough",
+    "slug": "bamboo-borough",
+    "pageId": 320566,
+    "revisionId": 4545508
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns",
+    "sourceFileName": "bamboo-borough__320566.json",
+    "revisionTimestamp": "2026-05-05T23:29:02Z",
+    "fetchedAt": "2026-05-14T14:04:33.069Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Bamboo Borough (Japanese: バンブーストリート Bamboo Street) is small town with an adjacent bamboo forest in the game Detective Pikachu Returns. It is located west of central Ryme City in the Fork Hand district . It is famous for its bamboo and which drives the local economy of the town. Tim, Rachel, and Pikachu explore Bamboo Borough to locate Jessica Miller who is targeted by Unitas for access to information about Emma Myers's research at the Pokémon Unity Lab.\n\nBamboo Borough is explored both in the present by Tim, and also in the past as Harry Goodman who is investigating the R incident. Tim meets his partner Pikachu in the bamboo forest.",
+  "plainText": "Bamboo Borough (Japanese: バンブーストリート Bamboo Street) is small town with an adjacent bamboo forest in the game Detective Pikachu Returns. It is located west of central Ryme City in the Fork Hand district . It is famous for its bamboo and which drives the local economy of the town. Tim, Rachel, and Pikachu explore Bamboo Borough to locate Jessica Miller who is targeted by Unitas for access to information about Emma Myers's research at the Pokémon Unity Lab.\n\nBamboo Borough is explored both in the present by Tim, and also in the past as Harry Goodman who is investigating the R incident. Tim meets his partner Pikachu in the bamboo forest.\n\n==Geography==\n \nThe small town of Bamboo Borough is lined with traditional-style wooden houses in a single street. The street includes the town's famous pizzeria, as well as the charcoal shop, souvenir shop, curry shop, ceramics shop, and herbal remedy shop. A gate at the end of the street separates the town from the bamboo forest, and the key to the gate is carried by the charcoal shop owner. \n\nThe lightly forested area beyond the gates consists of paths which lead to a charcoal kiln. Some areas including a bridge are damaged due to a rampaging Pokémon, and the broken bridge can be bypassed by navigating a storage area.\n \n==Local concerns==\nThe following local concerns can be found at the Bamboo Borough.\n \n\n==Pokémon==\n ]]\n===Town===\n \n\n====In the past====\n \n\n===Forest===\n \n\n====Storage area====\n \n\n====In the past====\n \n\n=====Storage area=====\n \n\n=====Rachel's flashback=====\n \n\n==Trivia==\nThe souvenir shop gifts Harry Goodman the cap which he eventually gives to his partner Pikachu.\nImages from (Hanamikōji Street) in Japan are used in Detective Pikachu Ryme City Guide for Bamboo Borough, and may have served as inspiration for this location.\n\n==In other languages==\n \n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bamboo Borough (Japanese: バンブーストリート Bamboo Street) is small town with an adjacent bamboo forest in the game Detective Pikachu Returns. It is located west of central Ryme City in the Fork Hand district . It is famous for its bamboo and which drives the local economy of the town. Tim, Rachel, and Pikachu explore Bamboo Borough to locate Jessica Miller who is targeted by Unitas for access to information about Emma Myers's research at the Pokémon Unity Lab.\n\nBamboo Borough is explored both in the present by Tim, and also in the past as Harry Goodman who is investigating the R incident. Tim meets his partner Pikachu in the bamboo forest."
+    },
+    {
+      "heading": "Geography",
+      "level": 2,
+      "text": "The small town of Bamboo Borough is lined with traditional-style wooden houses in a single street. The street includes the town's famous pizzeria, as well as the charcoal shop, souvenir shop, curry shop, ceramics shop, and herbal remedy shop. A gate at the end of the street separates the town from the bamboo forest, and the key to the gate is carried by the charcoal shop owner. \n\nThe lightly forested area beyond the gates consists of paths which lead to a charcoal kiln. Some areas including a bridge are damaged due to a rampaging Pokémon, and the broken bridge can be bypassed by navigating a storage area."
+    },
+    {
+      "heading": "Local concerns",
+      "level": 2,
+      "text": "The following local concerns can be found at the Bamboo Borough."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "]]"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The souvenir shop gifts Harry Goodman the cap which he eventually gives to his partner Pikachu.\nImages from (Hanamikōji Street) in Japan are used in Detective Pikachu Ryme City Guide for Bamboo Borough, and may have served as inspiration for this location."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bamboo Borough",
+    "pageType": "general-anime-lore",
+    "searchableText": "Bamboo Borough\nCategory:Detective Pikachu Returns\nBamboo Borough (Japanese: バンブーストリート Bamboo Street) is small town with an adjacent bamboo forest in the game Detective Pikachu Returns. It is located west of central Ryme City in the Fork Hand district . It is famous for its bamboo and which drives the local economy of the town. Tim, Rachel, and Pikachu explore Bamboo Borough to locate Jessica Miller who is targeted by Unitas for access to information about Emma Myers's research at the Pokémon Unity Lab.\n\nBamboo Borough is explored both in the present by Tim, and also in the past as Harry Goodman who is investigating the R incident. Tim meets his partner Pikachu in the bamboo forest.",
+    "sectionHeadings": [
+      "Lead",
+      "Geography",
+      "Local concerns",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1843,
+    "sectionCount": 5
+  }
+}

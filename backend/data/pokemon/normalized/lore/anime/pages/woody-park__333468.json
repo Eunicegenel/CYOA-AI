@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Woody Park",
+    "slug": "woody-park",
+    "pageId": 333468,
+    "revisionId": 4520020
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "woody-park__333468.json",
+    "revisionTimestamp": "2026-03-30T18:12:01Z",
+    "fetchedAt": "2026-05-14T14:58:00.094Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Woody Park (Japanese: 森林公園 Forest Park) is an -exclusive location located in Johto. It appeared in The Pokémon Center Lady.\n\nThe park is located near Mochew City and is described as a hiking trail that even beginners can enjoy, a fact attributed to the lack of aggressive wild Pokémon. The Exceed Testing Center is also located nearby, and the recent development of the Strong Spheres resulted in wild Pokémon being affected by Laquium.\n\nMollie occasionally ventures into this place in order to treat injured Pokémon when she is not working at her family's Pokémon Center.",
+  "plainText": "Woody Park (Japanese: 森林公園 Forest Park) is an -exclusive location located in Johto. It appeared in The Pokémon Center Lady.\n\nThe park is located near Mochew City and is described as a hiking trail that even beginners can enjoy, a fact attributed to the lack of aggressive wild Pokémon. The Exceed Testing Center is also located nearby, and the recent development of the Strong Spheres resulted in wild Pokémon being affected by Laquium.\n\nMollie occasionally ventures into this place in order to treat injured Pokémon when she is not working at her family's Pokémon Center.\n \n\n==Pokémon seen in Woody Park==\n \n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n \n\nes:Bosque leñoso\nit:Parco Alberato",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Woody Park (Japanese: 森林公園 Forest Park) is an -exclusive location located in Johto. It appeared in The Pokémon Center Lady.\n\nThe park is located near Mochew City and is described as a hiking trail that even beginners can enjoy, a fact attributed to the lack of aggressive wild Pokémon. The Exceed Testing Center is also located nearby, and the recent development of the Strong Spheres resulted in wild Pokémon being affected by Laquium.\n\nMollie occasionally ventures into this place in order to treat injured Pokémon when she is not working at her family's Pokémon Center."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Bosque leñoso\nit:Parco Alberato"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Woody Park",
+    "pageType": "location",
+    "searchableText": "Woody Park\nCategory:Animated series-exclusive locations\nWoody Park (Japanese: 森林公園 Forest Park) is an -exclusive location located in Johto. It appeared in The Pokémon Center Lady.\n\nThe park is located near Mochew City and is described as a hiking trail that even beginners can enjoy, a fact attributed to the lack of aggressive wild Pokémon. The Exceed Testing Center is also located nearby, and the recent development of the Strong Spheres resulted in wild Pokémon being affected by Laquium.\n\nMollie occasionally ventures into this place in order to treat injured Pokémon when she is not working at her family's Pokémon Center.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 701,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GDZ77",
+    "slug": "gdz77",
+    "pageId": 188468,
+    "revisionId": 4526331
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz77__188468.json",
+    "revisionTimestamp": "2026-04-09T14:37:00Z",
+    "fetchedAt": "2026-05-14T15:20:10.475Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ウパーゲットは頭を使え！ Use Your Head to Catch !) is the 77th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ウパーゲットは頭を使え！ Use Your Head to Catch !) is the 77th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n(Shu's)\n\n==Characters==\n===Humans===\nShu\nResearchers\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's; new)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ウパーゲットは頭を使え！ Use Your Head to Catch !) is the 77th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Shu's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nResearchers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's; new)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ77",
+    "pageType": "chapter",
+    "searchableText": "GDZ77\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ウパーゲットは頭を使え！ Use Your Head to Catch !) is the 77th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 274,
+    "sectionCount": 4
+  }
+}

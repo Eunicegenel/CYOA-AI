@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters Diamond & Pearl volume 1",
+    "slug": "pocket-monsters-diamond-and-pearl-volume-1",
+    "pageId": 175756,
+    "revisionId": 4528540
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl volumes",
+    "sourceFileName": "pocket-monsters-diamond-and-pearl-volume-1__175756.json",
+    "revisionTimestamp": "2026-04-09T16:25:56Z",
+    "fetchedAt": "2026-05-14T15:34:14.023Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 1 is the first volume of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "Volume 1 is the first volume of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Publications==\n \n \n\n \n==Chapters==\nNewcomer Trainer, Dawn\nPiplup's Special Training\nCombine Power\nHurry Up! Dawn's Pinch!!\nBelieve in Friends\nSave Pachirisu!\nAsh's Shirt\nFly, Paper Plane\nDig up the Water\nGhost Coming out of the Cave\nFriendship Power\nStop the Landslide!\nCovered in Sludge and Stin~ky\nRisky Snow Removal\n\n \n \n\nit:Pocket Monsters Diamond & Pearl volume 1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Newcomer Trainer, Dawn\nPiplup's Special Training\nCombine Power\nHurry Up! Dawn's Pinch!!\nBelieve in Friends\nSave Pachirisu!\nAsh's Shirt\nFly, Paper Plane\nDig up the Water\nGhost Coming out of the Cave\nFriendship Power\nStop the Landslide!\nCovered in Sludge and Stin~ky\nRisky Snow Removal\n\n \n \n\nit:Pocket Monsters Diamond & Pearl volume 1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters Diamond & Pearl volume 1",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters Diamond & Pearl volume 1\nCategory:Pocket Monsters Diamond & Pearl volumes\nVolume 1 is the first volume of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 446,
+    "sectionCount": 2
+  }
+}

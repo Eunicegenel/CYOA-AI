@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Hunter D",
+    "slug": "hunter-d",
+    "pageId": 237517,
+    "revisionId": 4289352
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Alola characters of the day",
+    "sourceFileName": "hunter-d__237517.json",
+    "revisionTimestamp": "2025-04-28T19:58:51Z",
+    "fetchedAt": "2026-05-14T14:23:07.608Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Hunter D (Japanese: ハンター Hunter) is a character of the day who appeared in The One That Didn't Get Away!. He is a Pokémon hunter.\n\nWith the help of his crew members, he was able to a . His -shaped submarine was equipped with a tractor beam, which he used to pull Kyogre further out to sea. Upon realizing this, and worked together to stop them from hunting Kyogre. With the help of their Pokémon and Kyogre, they sent the hunter and his underlings flying. They eventually landed on a beach where Officer Jenny was relaxing.",
+  "plainText": "Hunter D (Japanese: ハンター Hunter) is a character of the day who appeared in The One That Didn't Get Away!. He is a Pokémon hunter.\n\nWith the help of his crew members, he was able to a . His -shaped submarine was equipped with a tractor beam, which he used to pull Kyogre further out to sea. Upon realizing this, and worked together to stop them from hunting Kyogre. With the help of their Pokémon and Kyogre, they sent the hunter and his underlings flying. They eventually landed on a beach where Officer Jenny was relaxing.\n \n\n==Pokémon==\n \nThis listing is of Hunter D's known in :\n \n\n==Voice actors==\n \n\n \n \n\n \n \n \n \n\nes:Cazador (Alola)\nit:Cacciatore di Pokémon (SL120)\nja:ポケモンハンター (SM編第120話)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hunter D (Japanese: ハンター Hunter) is a character of the day who appeared in The One That Didn't Get Away!. He is a Pokémon hunter.\n\nWith the help of his crew members, he was able to a . His -shaped submarine was equipped with a tractor beam, which he used to pull Kyogre further out to sea. Upon realizing this, and worked together to stop them from hunting Kyogre. With the help of their Pokémon and Kyogre, they sent the hunter and his underlings flying. They eventually landed on a beach where Officer Jenny was relaxing."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Hunter D's known in :"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Cazador (Alola)\nit:Cacciatore di Pokémon (SL120)\nja:ポケモンハンター (SM編第120話)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hunter D",
+    "pageType": "character",
+    "searchableText": "Hunter D\nCategory:Alola characters of the day\nHunter D (Japanese: ハンター Hunter) is a character of the day who appeared in The One That Didn't Get Away!. He is a Pokémon hunter.\n\nWith the help of his crew members, he was able to a . His -shaped submarine was equipped with a tractor beam, which he used to pull Kyogre further out to sea. Upon realizing this, and worked together to stop them from hunting Kyogre. With the help of their Pokémon and Kyogre, they sent the hunter and his underlings flying. They eventually landed on a beach where Officer Jenny was relaxing.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Voice actors"
+    ],
+    "characterCount": 693,
+    "sectionCount": 3
+  }
+}

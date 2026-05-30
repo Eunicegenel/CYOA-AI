@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "FAT3",
+    "slug": "fat3",
+    "pageId": 150363,
+    "revisionId": 3778301
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW: The Heroes of Fire and Thunder",
+    "sourceFileName": "fat3__150363.json",
+    "revisionTimestamp": "2023-08-22T10:09:51Z",
+    "fetchedAt": "2026-05-14T15:18:46.352Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "A Very Important Thing (Japanese: 大切ですごいもの A Very Important Thing) is the third chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga.",
+  "plainText": "A Very Important Thing (Japanese: 大切ですごいもの A Very Important Thing) is the third chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga.\n\n==Plot==\n \n\n==Major events==\nWith the power of , no-one can stand in the way of N as he defeats the Elite Four and destroys the Pokémon League, however the Champion goes missing.\nShin meets an old man passing by, who is looking for something.\nAfter finding it, they reveal their name and position—Champion of the Pokémon League, Alder.\n\n===Debuts===\n====Humans====\nGrimsley\nShauntal\nCaitlin\nMarshal\nAlder\nYounger brother\nOlder brother\n\n====Pokémon debuts====\n(Younger's)\n(Older's)\n\n(Brothers')\n\n==Characters==\n===Humans===\n\nN\nGrimsley\nShauntal\nCaitlin\nMarshal\nAlder\nYounger brother\nOlder brother\n\n===Pokémon===\n( )\n( )\n(N's)\n(younger brother's)\n(older brother's)\n(brothers')\n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Very Important Thing (Japanese: 大切ですごいもの A Very Important Thing) is the third chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "With the power of , no-one can stand in the way of N as he defeats the Elite Four and destroys the Pokémon League, however the Champion goes missing.\nShin meets an old man passing by, who is looking for something.\nAfter finding it, they reveal their name and position—Champion of the Pokémon League, Alder."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Grimsley\nShauntal\nCaitlin\nMarshal\nAlder\nYounger brother\nOlder brother"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Younger's)\n(Older's)\n\n(Brothers')"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "N\nGrimsley\nShauntal\nCaitlin\nMarshal\nAlder\nYounger brother\nOlder brother"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(N's)\n(younger brother's)\n(older brother's)\n(brothers')"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "FAT3",
+    "pageType": "general-manga-lore",
+    "searchableText": "FAT3\nCategory:Pocket Monsters BW: The Heroes of Fire and Thunder\nA Very Important Thing (Japanese: 大切ですごいもの A Very Important Thing) is the third chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 840,
+    "sectionCount": 6
+  }
+}

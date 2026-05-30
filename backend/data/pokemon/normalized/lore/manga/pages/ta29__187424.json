@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "TA29",
+    "slug": "ta29",
+    "pageId": 187424,
+    "revisionId": 2805058
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta29__187424.json",
+    "revisionTimestamp": "2018-06-09T05:03:13Z",
+    "fetchedAt": "2026-05-14T15:50:50.147Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 新たな出会い A New Encounter) is the 29th chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 新たな出会い A New Encounter) is the 29th chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nManami\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nMister Crow\nManami\n\n===Pokémon===\n(Lin; Katsuya's)\n(Mister Crow's)\n(Soro's; new)\n\n \n \n \n \n\nit:TA29",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 新たな出会い A New Encounter) is the 29th chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Manami"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nMister Crow\nManami"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Lin; Katsuya's)\n(Mister Crow's)\n(Soro's; new)\n\n \n \n \n \n\nit:TA29"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA29",
+    "pageType": "chapter",
+    "searchableText": "TA29\nCategory:Pokémon Try Adventure chapters\n(Japanese: 新たな出会い A New Encounter) is the 29th chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 326,
+    "sectionCount": 4
+  }
+}

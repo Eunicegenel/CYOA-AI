@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "CXY05",
+    "slug": "cxy05",
+    "pageId": 355899,
+    "revisionId": 4550556
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Let's Play the Pokémon Card Game XY! chapters",
+    "sourceFileName": "cxy05__355899.json",
+    "revisionTimestamp": "2026-05-12T13:32:29Z",
+    "fetchedAt": "2026-05-14T15:16:34.446Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the fifth regular chapter of the Let's Play the Pokémon Card Game XY! manga.",
+  "plainText": "This is the fifth regular chapter of the Let's Play the Pokémon Card Game XY! manga.\n\n==Plot==\nBefore Manabu goes to the official championship, Uratane suggests to him to first go to a card game Gym. He explains that Gyms are a great place to hone your skills and make friends though the Pokémon Trading Card Game. Convinced, Manabu goes to his nearest card game Gym, Kalos Toys. \n\nWhen he gets there, the Gym's atmosphere is very sad and gloomy. This is because everyone in the Gym has been defeated by Arashi Kaijō, who complains no one in the Gym is worth his time. Upon seeing Manabu, Arashi challenges him to a game, which Manabu immediately accepts. Manabu belives he is sure to win, thanks to his new deck built around his Y. However, it is soon apparent that Arashi is much more skilled than Manabu, and is able to read his moves and counter them. Soon after that, Manabu is overwhelmed and loses the game. \n\nAfterward, Arashi is seen calling the strange man from chapter 3, letting him know that he met Manabu and won, and calling him Master. \n\n==Major events==\n===Debuts===\n\n==Characters==\n\n===Humans===\nManabu Kadoo\nHiroshi Uratane\nArashi Kaijō\nGuladari\n===Pokémon===\n\n \n\n==Cards featured==\nManabu's cards:\n\nUratane's cards:\n\n==External links==\n\nChapter 5 on the Pokémon Card Game official website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the fifth regular chapter of the Let's Play the Pokémon Card Game XY! manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Before Manabu goes to the official championship, Uratane suggests to him to first go to a card game Gym. He explains that Gyms are a great place to hone your skills and make friends though the Pokémon Trading Card Game. Convinced, Manabu goes to his nearest card game Gym, Kalos Toys. \n\nWhen he gets there, the Gym's atmosphere is very sad and gloomy. This is because everyone in the Gym has been defeated by Arashi Kaijō, who complains no one in the Gym is worth his time. Upon seeing Manabu, Arashi challenges him to a game, which Manabu immediately accepts. Manabu belives he is sure to win, thanks to his new deck built around his Y. However, it is soon apparent that Arashi is much more skilled than Manabu, and is able to read his moves and counter them. Soon after that, Manabu is overwhelmed and loses the game. \n\nAfterward, Arashi is seen calling the strange man from chapter 3, letting him know that he met Manabu and won, and calling him Master."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Manabu Kadoo\nHiroshi Uratane\nArashi Kaijō\nGuladari"
+    },
+    {
+      "heading": "Cards featured",
+      "level": 2,
+      "text": "Manabu's cards:\n\nUratane's cards:"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 5 on the Pokémon Card Game official website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CXY05",
+    "pageType": "chapter",
+    "searchableText": "CXY05\nCategory:Let's Play the Pokémon Card Game XY! chapters\nThis is the fifth regular chapter of the Let's Play the Pokémon Card Game XY! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Cards featured",
+      "External links"
+    ],
+    "characterCount": 1308,
+    "sectionCount": 5
+  }
+}

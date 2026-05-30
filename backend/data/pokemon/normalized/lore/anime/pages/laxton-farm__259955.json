@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Laxton Farm",
+    "slug": "laxton-farm",
+    "pageId": 259955,
+    "revisionId": 4261164
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "laxton-farm__259955.json",
+    "revisionTimestamp": "2025-03-19T21:50:58Z",
+    "fetchedAt": "2026-05-14T14:30:40.165Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Laxton Farm (Japanese: エンドウファーム Endō Farm) is an -exclusive location. It is a farm that harvests many vegetables which can be shipped off to various locations.\n\nLaxton Farm is run by Laxton, a former student of Professor Cerise. In How Are You Gonna Keep 'Em Off of the Farm?, Laxton sent Professor Cerise some vegetables with a letter explaining how the field was being ravaged by a large group of and . On hearing this, , Goh, and Chloe visited the farm and met Laxton.\n\nAfter explaining the situation, they attempted to deal with the Diglett and Dugtrio, only for their attempts to fail. Overnight, they came up with a new plan and Goh was able to catch a Diglett and the Dugtrio. This caused the remaining Diglett to leave.\n\nLater, having discovered that the ground from Dugtrio was useful in farming, Goh left his Dugtrio with Laxton to help in the farm, with the help of the Diglett horde.",
+  "plainText": "Laxton Farm (Japanese: エンドウファーム Endō Farm) is an -exclusive location. It is a farm that harvests many vegetables which can be shipped off to various locations.\n\nLaxton Farm is run by Laxton, a former student of Professor Cerise. In How Are You Gonna Keep 'Em Off of the Farm?, Laxton sent Professor Cerise some vegetables with a letter explaining how the field was being ravaged by a large group of and . On hearing this, , Goh, and Chloe visited the farm and met Laxton.\n\nAfter explaining the situation, they attempted to deal with the Diglett and Dugtrio, only for their attempts to fail. Overnight, they came up with a new plan and Goh was able to catch a Diglett and the Dugtrio. This caused the remaining Diglett to leave.\n\nLater, having discovered that the ground from Dugtrio was useful in farming, Goh left his Dugtrio with Laxton to help in the farm, with the help of the Diglett horde.\n\n==Pokémon seen on Laxton Farm==\n \n\n===Caught Pokémon===\n \n\n \n \n \n \n\nes:Granja de Laxton\nit:Azienda agricola Lando\nzh:遠藤農園",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Laxton Farm (Japanese: エンドウファーム Endō Farm) is an -exclusive location. It is a farm that harvests many vegetables which can be shipped off to various locations.\n\nLaxton Farm is run by Laxton, a former student of Professor Cerise. In How Are You Gonna Keep 'Em Off of the Farm?, Laxton sent Professor Cerise some vegetables with a letter explaining how the field was being ravaged by a large group of and . On hearing this, , Goh, and Chloe visited the farm and met Laxton.\n\nAfter explaining the situation, they attempted to deal with the Diglett and Dugtrio, only for their attempts to fail. Overnight, they came up with a new plan and Goh was able to catch a Diglett and the Dugtrio. This caused the remaining Diglett to leave.\n\nLater, having discovered that the ground from Dugtrio was useful in farming, Goh left his Dugtrio with Laxton to help in the farm, with the help of the Diglett horde."
+    },
+    {
+      "heading": "Caught Pokémon",
+      "level": 3,
+      "text": "es:Granja de Laxton\nit:Azienda agricola Lando\nzh:遠藤農園"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Laxton Farm",
+    "pageType": "location",
+    "searchableText": "Laxton Farm\nCategory:Animated series-exclusive locations\nLaxton Farm (Japanese: エンドウファーム Endō Farm) is an -exclusive location. It is a farm that harvests many vegetables which can be shipped off to various locations.\n\nLaxton Farm is run by Laxton, a former student of Professor Cerise. In How Are You Gonna Keep 'Em Off of the Farm?, Laxton sent Professor Cerise some vegetables with a letter explaining how the field was being ravaged by a large group of and . On hearing this, , Goh, and Chloe visited the farm and met Laxton.\n\nAfter explaining the situation, they attempted to deal with the Diglett and Dugtrio, only for their attempts to fail. Overnight, they came up with a new plan and Goh was able to catch a Diglett and the Dugtrio. This caused the remaining Diglett to leave.\n\nLater, having discovered that the ground from Dugtrio was useful in farming, Goh left his Dugtrio with Laxton to help in the farm, with the help of the Diglett horde.",
+    "sectionHeadings": [
+      "Lead",
+      "Caught Pokémon"
+    ],
+    "characterCount": 1018,
+    "sectionCount": 2
+  }
+}

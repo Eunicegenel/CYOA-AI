@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM033",
+    "slug": "pm033",
+    "pageId": 160298,
+    "revisionId": 4526593
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm033__160298.json",
+    "revisionTimestamp": "2026-04-09T14:57:29Z",
+    "fetchedAt": "2026-05-14T15:30:50.138Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "To the Pokémon League!! (Japanese: ポケモンリーグへ突入だ！！ To the Pokémon League!!) is the thirty-third chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "To the Pokémon League!! (Japanese: ポケモンリーグへ突入だ！！ To the Pokémon League!!) is the thirty-third chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\nLorelei's Cloyster\n\n==Characters==\n\n===Humans===\n\nLorelei\n\n===Pokémon===\n( ) \n( )\n( )\n(Lorelei's)\n(Lorelei's)\n(Lorelei's)\n(Lorelei's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 33 (Pokémon Pocket Monsters)\nit:PMM033",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "To the Pokémon League!! (Japanese: ポケモンリーグへ突入だ！！ To the Pokémon League!!) is the thirty-third chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "Lorelei's Cloyster"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Lorelei"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(Lorelei's)\n(Lorelei's)\n(Lorelei's)\n(Lorelei's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 33 (Pokémon Pocket Monsters)\nit:PMM033"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM033",
+    "pageType": "chapter",
+    "searchableText": "PM033\nCategory:Pokémon Pocket Monsters chapters\nTo the Pokémon League!! (Japanese: ポケモンリーグへ突入だ！！ To the Pokémon League!!) is the thirty-third chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 407,
+    "sectionCount": 5
+  }
+}

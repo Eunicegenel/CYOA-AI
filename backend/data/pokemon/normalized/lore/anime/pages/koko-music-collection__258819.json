@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Koko Music Collection",
+    "slug": "koko-music-collection",
+    "pageId": 258819,
+    "revisionId": 4330111
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie soundtracks",
+    "sourceFileName": "koko-music-collection__258819.json",
+    "revisionTimestamp": "2025-07-04T16:45:41Z",
+    "fetchedAt": "2026-05-14T14:29:53.384Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "----\n \nPokémon the Movie: Koko Music Collection (Japanese: 「劇場版ポケットモンスター　ココ」ミュージックコレクション) is the Japanese soundtrack for the twenty-third movie. It was released in Japan on December 23, 2020.",
+  "plainText": "----\n \nPokémon the Movie: Koko Music Collection (Japanese: 「劇場版ポケットモンスター　ココ」ミュージックコレクション) is the Japanese soundtrack for the twenty-third movie. It was released in Japan on December 23, 2020.\n\n==Tracklist==\n \n\n== Trivia ==\n\n\"The Regeneration of the Forest\" is a remix of \"Farewell, Children of the Future\" from the twelfth movie's soundtrack, Arceus: To a Conquering Spacetime Music Collection.\n\n== Related articles ==\n \n \n \n\n \n \n\nzh:皮卡丘與可可的冒險 音樂收藏",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \nPokémon the Movie: Koko Music Collection (Japanese: 「劇場版ポケットモンスター　ココ」ミュージックコレクション) is the Japanese soundtrack for the twenty-third movie. It was released in Japan on December 23, 2020."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "\"The Regeneration of the Forest\" is a remix of \"Farewell, Children of the Future\" from the twelfth movie's soundtrack, Arceus: To a Conquering Spacetime Music Collection."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "zh:皮卡丘與可可的冒險 音樂收藏"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Koko Music Collection",
+    "pageType": "movie",
+    "searchableText": "Koko Music Collection\nCategory:Movie soundtracks\n----\n \nPokémon the Movie: Koko Music Collection (Japanese: 「劇場版ポケットモンスター　ココ」ミュージックコレクション) is the Japanese soundtrack for the twenty-third movie. It was released in Japan on December 23, 2020.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 448,
+    "sectionCount": 3
+  }
+}

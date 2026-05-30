@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Kaede",
+    "slug": "kaede",
+    "pageId": 2990,
+    "revisionId": 4425887
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card characters",
+    "sourceFileName": "kaede__2990.json",
+    "revisionTimestamp": "2025-11-17T15:33:28Z",
+    "fetchedAt": "2026-05-14T15:23:05.430Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kaede (Japanese: カエデ Kaede) is a member of Team Rocket in the manga series How I Became a Pokémon Card. Her Pokémon is a (referred to as a \" Gloom\", as the series is based on the Pokémon TCG).",
+  "plainText": "Kaede (Japanese: カエデ Kaede) is a member of Team Rocket in the manga series How I Became a Pokémon Card. Her Pokémon is a (referred to as a \" Gloom\", as the series is based on the Pokémon TCG).\n\n==History==\n \nKaede is childhood friends with Erika, the Gym Leader. Even though Kaede is a member of Team Rocket, Erika seems to be oblivious to this. As such, the two remain friends. \n\nKaede is severely allergic to pollen, flowers, and seemingly Grass type Pokémon in general. Because of this, Kaede is often pictured frowning, looking tired and clutching her runny nose. Even though she is allergic to Grass types, she still visits Erika and spends time with her. Unbeknownst to Erika, Kaede's frequent sneezing is because of allergies to her Gym and Pokémon.\n\nTo make matters worse, Kaede's only Pokémon is a Grass type. She met this Pokémon, an , as a girl. The Oddish later evolved into a .\n \n==Pokémon==\n \n\n \n\n==Related articles==\n\n \n \n \n \n\n \n \n\nit:Kaede",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kaede (Japanese: カエデ Kaede) is a member of Team Rocket in the manga series How I Became a Pokémon Card. Her Pokémon is a (referred to as a \" Gloom\", as the series is based on the Pokémon TCG)."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Kaede is childhood friends with Erika, the Gym Leader. Even though Kaede is a member of Team Rocket, Erika seems to be oblivious to this. As such, the two remain friends. \n\nKaede is severely allergic to pollen, flowers, and seemingly Grass type Pokémon in general. Because of this, Kaede is often pictured frowning, looking tired and clutching her runny nose. Even though she is allergic to Grass types, she still visits Erika and spends time with her. Unbeknownst to Erika, Kaede's frequent sneezing is because of allergies to her Gym and Pokémon.\n\nTo make matters worse, Kaede's only Pokémon is a Grass type. She met this Pokémon, an , as a girl. The Oddish later evolved into a ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Kaede"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kaede",
+    "pageType": "character",
+    "searchableText": "Kaede\nCategory:How I Became a Pokémon Card characters\nKaede (Japanese: カエデ Kaede) is a member of Team Rocket in the manga series How I Became a Pokémon Card. Her Pokémon is a (referred to as a \" Gloom\", as the series is based on the Pokémon TCG).",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 955,
+    "sectionCount": 3
+  }
+}

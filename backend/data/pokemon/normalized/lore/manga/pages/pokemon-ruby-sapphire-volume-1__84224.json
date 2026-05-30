@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Ruby-Sapphire volume 1",
+    "slug": "pokemon-ruby-sapphire-volume-1",
+    "pageId": 84224,
+    "revisionId": 4354749
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire volumes",
+    "sourceFileName": "pokemon-ruby-sapphire-volume-1__84224.json",
+    "revisionTimestamp": "2025-08-08T19:03:17Z",
+    "fetchedAt": "2026-05-14T15:37:34.884Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 1 is the first volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\nChapter 1: Let's Go Catch The Dumpling Thief!!\nChapter 2: I Won't Let You Lead!!\nChapter 3: Something Happened!! Let's Go After Pikachu!!\nChapter 4: There's Someone More Important Than Clefairy?!\nChapter 5: Let's Try To Be Idols!!\nChapter 6: Extra Heavyweight Battle\nChapter 7: Let's Invite Something New! Go! Go! Go!\nChapter 8: Esper Clefairy?!\nChapter 9: Clefairy's Training Camp!!\nChapter 10: We've Found Team Magma's Secret!!\n\n==Important events==\nand his Pokémon arrive in the Hoenn region.\nenters his first Pokémon Contest.\n\n \n \n\nit:Pokémon Ruby-Sapphire volume 1\nzh:宝可梦欢乐祭 红宝石・蓝宝石篇1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 1: Let's Go Catch The Dumpling Thief!!\nChapter 2: I Won't Let You Lead!!\nChapter 3: Something Happened!! Let's Go After Pikachu!!\nChapter 4: There's Someone More Important Than Clefairy?!\nChapter 5: Let's Try To Be Idols!!\nChapter 6: Extra Heavyweight Battle\nChapter 7: Let's Invite Something New! Go! Go! Go!\nChapter 8: Esper Clefairy?!\nChapter 9: Clefairy's Training Camp!!\nChapter 10: We've Found Team Magma's Secret!!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "and his Pokémon arrive in the Hoenn region.\nenters his first Pokémon Contest.\n\n \n \n\nit:Pokémon Ruby-Sapphire volume 1\nzh:宝可梦欢乐祭 红宝石・蓝宝石篇1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Ruby-Sapphire volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Ruby-Sapphire volume 1\nCategory:Pokémon Ruby-Sapphire volumes\nVolume 1 is the first volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 732,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "List of English language Pokémon the Series: Sun & Moon home video releases (Region 1)",
+    "slug": "list-of-english-language-pokemon-the-series-sun-and-moon-home-video-releases-region-1",
+    "pageId": 232176,
+    "revisionId": 4261504
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Lists of animation home video releases",
+    "sourceFileName": "list-of-english-language-pokemon-the-series-sun-and-moon-home-video-releases-region-1__232176.json",
+    "revisionTimestamp": "2025-03-20T01:11:12Z",
+    "fetchedAt": "2026-05-14T14:32:05.903Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The following is a list of all of the English language home video releases of the twentieth season of , Pokémon the Series: Sun & Moon, in and ( ).",
+  "plainText": "The following is a list of all of the English language home video releases of the twentieth season of , Pokémon the Series: Sun & Moon, in and ( ).\n\n==The Complete Collection==\n \nPokémon the Series: Sun and Moon - The Complete Collection was released on November 6, 2018 by VIZ Media and distributed through . This Complete Collection contains six discs with 43 episodes across them combined. Its catalogue number is 3000079935. Optional English closed captioning is included.\n\nClean versions of the opening and ending themes are included as a special feature.\n\n \n\n==External links==\nVIZ Media's website\nPokémon: Sun and Moon - The Complete Collection",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of all of the English language home video releases of the twentieth season of , Pokémon the Series: Sun & Moon, in and ( )."
+    },
+    {
+      "heading": "The Complete Collection",
+      "level": 2,
+      "text": "Pokémon the Series: Sun and Moon - The Complete Collection was released on November 6, 2018 by VIZ Media and distributed through . This Complete Collection contains six discs with 43 episodes across them combined. Its catalogue number is 3000079935. Optional English closed captioning is included.\n\nClean versions of the opening and ending themes are included as a special feature."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "VIZ Media's website\nPokémon: Sun and Moon - The Complete Collection"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of English language Pokémon the Series: Sun & Moon home video releases (Region 1)",
+    "pageType": "pokemon-related",
+    "searchableText": "List of English language Pokémon the Series: Sun & Moon home video releases (Region 1)\nCategory:Lists of animation home video releases\nThe following is a list of all of the English language home video releases of the twentieth season of , Pokémon the Series: Sun & Moon, in and ( ).",
+    "sectionHeadings": [
+      "Lead",
+      "The Complete Collection",
+      "External links"
+    ],
+    "characterCount": 651,
+    "sectionCount": 3
+  }
+}

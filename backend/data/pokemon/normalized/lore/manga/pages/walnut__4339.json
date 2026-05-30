@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Walnut",
+    "slug": "walnut",
+    "pageId": 4339,
+    "revisionId": 4357535
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey characters",
+    "sourceFileName": "walnut__4339.json",
+    "revisionTimestamp": "2025-08-13T12:24:11Z",
+    "fetchedAt": "2026-05-14T15:52:32.378Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Walnut (Japanese: ウォール Wal) is a ninja-in-training who appeared in Magical Pokémon Journey. His teacher is Master Ditto, and his sparring partners are Apricot and her , Marimaru.",
+  "plainText": "Walnut (Japanese: ウォール Wal) is a ninja-in-training who appeared in Magical Pokémon Journey. His teacher is Master Ditto, and his sparring partners are Apricot and her , Marimaru.\n\n==History==\n\n==Character==\nWalnut looks up to Koga. He claimed that he wanted to be a ninja, among other reasons, because he wanted to wear cool outfits. Walnut tries hard, but he is not very good at ninja skills.\n\nWhen in ninja garb, Walnut wears contact lenses; the rest of the time, he wears glasses. When he's not training, he works in his parents' bakery, Walnut Tree. Originally, Walnut resented working in the bakery for his parents, but he later turned to enjoy it because of visits to the shop by the \"Afternoon Angel\", who turned out to be Apricot.\n\n==Names==\n \n\n==Related articles==\n\n \n \n\n \n \n\nde:Walnut (Magical Pokémon Journey)\nit:Walnut\nja:ウォール",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Walnut (Japanese: ウォール Wal) is a ninja-in-training who appeared in Magical Pokémon Journey. His teacher is Master Ditto, and his sparring partners are Apricot and her , Marimaru."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Walnut looks up to Koga. He claimed that he wanted to be a ninja, among other reasons, because he wanted to wear cool outfits. Walnut tries hard, but he is not very good at ninja skills.\n\nWhen in ninja garb, Walnut wears contact lenses; the rest of the time, he wears glasses. When he's not training, he works in his parents' bakery, Walnut Tree. Originally, Walnut resented working in the bakery for his parents, but he later turned to enjoy it because of visits to the shop by the \"Afternoon Angel\", who turned out to be Apricot."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Walnut (Magical Pokémon Journey)\nit:Walnut\nja:ウォール"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Walnut",
+    "pageType": "character",
+    "searchableText": "Walnut\nCategory:Magical Pokémon Journey characters\nWalnut (Japanese: ウォール Wal) is a ninja-in-training who appeared in Magical Pokémon Journey. His teacher is Master Ditto, and his sparring partners are Apricot and her , Marimaru.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "Related articles"
+    ],
+    "characterCount": 838,
+    "sectionCount": 3
+  }
+}

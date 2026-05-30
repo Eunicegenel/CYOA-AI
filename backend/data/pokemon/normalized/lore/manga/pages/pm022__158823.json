@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM022",
+    "slug": "pm022",
+    "pageId": 158823,
+    "revisionId": 4527833
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm022__158823.json",
+    "revisionTimestamp": "2026-04-09T15:55:31Z",
+    "fetchedAt": "2026-05-14T15:30:43.259Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Part-Time Job At The Swimming Pool!! (Japanese: プールのバイトは楽じゃない！？ The Job at the Pool Isn't Easy!?) is the twenty-second chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Part-Time Job At The Swimming Pool!! (Japanese: プールのバイトは楽じゃない！？ The Job at the Pool Isn't Easy!?) is the twenty-second chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMisty\n\n===Pokémon===\n( ) \n( )\n(Misty's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 22 (Pokémon Pocket Monsters)\nit:PMM022",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Part-Time Job At The Swimming Pool!! (Japanese: プールのバイトは楽じゃない！？ The Job at the Pool Isn't Easy!?) is the twenty-second chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Misty"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n(Misty's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 22 (Pokémon Pocket Monsters)\nit:PMM022"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM022",
+    "pageType": "chapter",
+    "searchableText": "PM022\nCategory:Pokémon Pocket Monsters chapters\nPart-Time Job At The Swimming Pool!! (Japanese: プールのバイトは楽じゃない！？ The Job at the Pool Isn't Easy!?) is the twenty-second chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 370,
+    "sectionCount": 4
+  }
+}

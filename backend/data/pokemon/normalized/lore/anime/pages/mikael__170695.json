@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Mikael",
+    "slug": "mikael",
+    "pageId": 170695,
+    "revisionId": 4320824
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:League Conference participants",
+    "sourceFileName": "mikael__170695.json",
+    "revisionTimestamp": "2025-06-17T18:28:15Z",
+    "fetchedAt": "2026-05-14T14:36:56.433Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Mikael (Japanese: ミカエル Mikael) is a minor recurring character in .",
+  "plainText": "Mikael (Japanese: ミカエル Mikael) is a minor recurring character in .\n\n==History==\nMikael first appeared in Curtain Up, Unova League!, where he participated in the Vertress Conference and was 's first opponent. He was shown to be aggressive in . Mikael's strategy was to attack first, with his Watchog seen rushing towards Bianca's Emboar.\n\nIn Mission: Defeat Your Rival!, his Watchog was defeated and he was eliminated from the tournament.\n\n==Pokémon==\n \n\n==Achievements==\n===Badges obtained===\nThis listing is of the Badges Mikael has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)\n\n===Pokémon League===\nMikael has competed in the following Pokémon League Conferences:\nVertress Conference - Top 128 (Mission: Defeat Your Rival!)\n\n==Voice actors==\n \n\n==Related articles==\n \n\n \n \n \n\nes:Mikael\nfr:Michael (Unys)\nit:Mikael\nzh:迈克尔",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mikael (Japanese: ミカエル Mikael) is a minor recurring character in ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Mikael first appeared in Curtain Up, Unova League!, where he participated in the Vertress Conference and was 's first opponent. He was shown to be aggressive in . Mikael's strategy was to attack first, with his Watchog seen rushing towards Bianca's Emboar.\n\nIn Mission: Defeat Your Rival!, his Watchog was defeated and he was eliminated from the tournament."
+    },
+    {
+      "heading": "Badges obtained",
+      "level": 3,
+      "text": "This listing is of the Badges Mikael has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)"
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Mikael has competed in the following Pokémon League Conferences:\nVertress Conference - Top 128 (Mission: Defeat Your Rival!)"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Mikael\nfr:Michael (Unys)\nit:Mikael\nzh:迈克尔"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mikael",
+    "pageType": "general-anime-lore",
+    "searchableText": "Mikael\nCategory:League Conference participants\nMikael (Japanese: ミカエル Mikael) is a minor recurring character in .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Badges obtained",
+      "Pokémon League",
+      "Related articles"
+    ],
+    "characterCount": 866,
+    "sectionCount": 5
+  }
+}

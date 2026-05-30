@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Len",
+    "slug": "len",
+    "pageId": 83931,
+    "revisionId": 4339113
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands characters of the day",
+    "sourceFileName": "len__83931.json",
+    "revisionTimestamp": "2025-07-19T12:48:38Z",
+    "fetchedAt": "2026-05-14T14:30:50.365Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Len (Japanese: コウジ Kōji) is a character of the day who appeared in Stage Fight!.\n\nLen was a member of the Pokémon Showboat Crew along with Roger, Kay, and . His main role in the Pokémon show was voicing . When boarded their boat and held their Pokémon captive, he helped trick Team Rocket into believing all of the Pokémon knew how to talk.",
+  "plainText": "Len (Japanese: コウジ Kōji) is a character of the day who appeared in Stage Fight!.\n\nLen was a member of the Pokémon Showboat Crew along with Roger, Kay, and . His main role in the Pokémon show was voicing . When boarded their boat and held their Pokémon captive, he helped trick Team Rocket into believing all of the Pokémon knew how to talk.\n \n==Pokémon==\n \n===Status unknown===\nThese Pokémon, along with Kay's , are present on the Pokémon Showboat. However, it is uncertain which of these Pokémon belonged to Len.\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n==Voice actors==\n \n \n \n\n \n \n \n\nde:Theater, Theater...#Koji\nes:Len\nit:Len\nzh:浩司",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Len (Japanese: コウジ Kōji) is a character of the day who appeared in Stage Fight!.\n\nLen was a member of the Pokémon Showboat Crew along with Roger, Kay, and . His main role in the Pokémon show was voicing . When boarded their boat and held their Pokémon captive, he helped trick Team Rocket into believing all of the Pokémon knew how to talk."
+    },
+    {
+      "heading": "Status unknown",
+      "level": 3,
+      "text": "These Pokémon, along with Kay's , are present on the Pokémon Showboat. However, it is uncertain which of these Pokémon belonged to Len."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Theater, Theater...#Koji\nes:Len\nit:Len\nzh:浩司"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Len",
+    "pageType": "character",
+    "searchableText": "Len\nCategory:Orange Islands characters of the day\nLen (Japanese: コウジ Kōji) is a character of the day who appeared in Stage Fight!.\n\nLen was a member of the Pokémon Showboat Crew along with Roger, Kay, and . His main role in the Pokémon show was voicing . When boarded their boat and held their Pokémon captive, he helped trick Team Rocket into believing all of the Pokémon knew how to talk.",
+    "sectionHeadings": [
+      "Lead",
+      "Status unknown",
+      "Voice actors"
+    ],
+    "characterCount": 613,
+    "sectionCount": 3
+  }
+}

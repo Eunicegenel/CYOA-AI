@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMDP04",
+    "slug": "pmdp04",
+    "pageId": 176255,
+    "revisionId": 4528387
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp04__176255.json",
+    "revisionTimestamp": "2026-04-09T16:18:55Z",
+    "fetchedAt": "2026-05-14T15:32:15.584Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピ、レッドと別れす！？ and Red Separate!?) is the fourth chapter of the manga.",
+  "plainText": "(Japanese: ピッピ、レッドと別れす！？ and Red Separate!?) is the fourth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Rowan\n\n===Pokémon===\n( )\n( )\n( )\n( 's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピ、レッドと別れす！？ and Red Separate!?) is the fourth chapter of the manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Rowan"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP04",
+    "pageType": "chapter",
+    "searchableText": "PMDP04\nCategory:Pocket Monsters DP chapters\n(Japanese: ピッピ、レッドと別れす！？ and Red Separate!?) is the fourth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 242,
+    "sectionCount": 3
+  }
+}

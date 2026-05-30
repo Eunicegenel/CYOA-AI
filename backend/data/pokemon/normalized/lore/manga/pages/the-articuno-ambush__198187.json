@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "The Articuno Ambush",
+    "slug": "the-articuno-ambush",
+    "pageId": 198187,
+    "revisionId": 4132926
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "the-articuno-ambush__198187.json",
+    "revisionTimestamp": "2024-09-29T05:29:26Z",
+    "fetchedAt": "2026-05-14T15:51:29.231Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: The Articuno Ambush is the thirteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty and thirty-one of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: The Articuno Ambush is the thirteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty and thirty-one of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 30 - Zap! Zap! Zapdos!\nChapter 31 - The Art of Articuno\n\n==Important events==\nenters Saffron City.\ndefeats Lt. Surge.\nand defeat Koga.\nBlue obtains the and gives it to Red.\n\n==Gym battles==\nRed defeats the following Gym Leaders:\nLt. Surge in PS030\nKoga in PS031\n\n \n\n \n\nfr:Volume 13 (Pokémon Adventures)\nit:The Articuno Ambush",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: The Articuno Ambush is the thirteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty and thirty-one of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 30 - Zap! Zap! Zapdos!\nChapter 31 - The Art of Articuno"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "enters Saffron City.\ndefeats Lt. Surge.\nand defeat Koga.\nBlue obtains the and gives it to Red."
+    },
+    {
+      "heading": "Gym battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:\nLt. Surge in PS030\nKoga in PS031\n\n \n\n \n\nfr:Volume 13 (Pokémon Adventures)\nit:The Articuno Ambush"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Articuno Ambush",
+    "pageType": "pokemon-related",
+    "searchableText": "The Articuno Ambush\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: The Articuno Ambush is the thirteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty and thirty-one of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Gym battles"
+    ],
+    "characterCount": 777,
+    "sectionCount": 4
+  }
+}

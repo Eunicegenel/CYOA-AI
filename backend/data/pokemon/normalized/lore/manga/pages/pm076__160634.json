@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM076",
+    "slug": "pm076",
+    "pageId": 160634,
+    "revisionId": 4527686
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm076__160634.json",
+    "revisionTimestamp": "2026-04-09T15:48:15Z",
+    "fetchedAt": "2026-05-14T15:31:17.476Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy's Dream Comes True (Japanese: ピッピの夢かなえます 's Dream Comes True) is the seventy-sixth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Clefairy's Dream Comes True (Japanese: ピッピの夢かなえます 's Dream Comes True) is the seventy-sixth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 76 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy's Dream Comes True (Japanese: ピッピの夢かなえます 's Dream Comes True) is the seventy-sixth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 76 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM076",
+    "pageType": "chapter",
+    "searchableText": "PM076\nCategory:Pokémon Pocket Monsters chapters\nClefairy's Dream Comes True (Japanese: ピッピの夢かなえます 's Dream Comes True) is the seventy-sixth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 320,
+    "sectionCount": 3
+  }
+}

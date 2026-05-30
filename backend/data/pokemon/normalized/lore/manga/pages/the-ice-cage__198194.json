@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "The Ice Cage",
+    "slug": "the-ice-cage",
+    "pageId": 198194,
+    "revisionId": 4132493
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "the-ice-cage__198194.json",
+    "revisionTimestamp": "2024-09-29T05:22:52Z",
+    "fetchedAt": "2026-05-14T15:51:36.636Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: The Ice Cage is the twentieth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters three and four of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: The Ice Cage is the twentieth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters three and four of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 43 - Sea Sea Seadra\nChapter 44 - Do Wrong, Dewgong!\n\n==Important events==\nmeets .\nYellow captures a .\nLorelei attacks Yellow and Bill.\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\nYellow's in PS043.\n\n===Releases===\nYellow's in PS044.\n\n \n \n\nfr:Volume 20 (Pokémon Adventures)\nit:The Ice Cage",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: The Ice Cage is the twentieth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters three and four of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 43 - Sea Sea Seadra\nChapter 44 - Do Wrong, Dewgong!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "meets .\nYellow captures a .\nLorelei attacks Yellow and Bill."
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:\nYellow's in PS043."
+    },
+    {
+      "heading": "Releases",
+      "level": 3,
+      "text": "Yellow's in PS044.\n\n \n \n\nfr:Volume 20 (Pokémon Adventures)\nit:The Ice Cage"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Ice Cage",
+    "pageType": "pokemon-related",
+    "searchableText": "The Ice Cage\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: The Ice Cage is the twentieth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters three and four of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Additions",
+      "Releases"
+    ],
+    "characterCount": 752,
+    "sectionCount": 5
+  }
+}

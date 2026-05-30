@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Billy Kametz",
+    "slug": "billy-kametz",
+    "pageId": 253587,
+    "revisionId": 4358995
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "billy-kametz__253587.json",
+    "revisionTimestamp": "2025-08-16T06:16:58Z",
+    "fetchedAt": "2026-05-14T14:05:22.963Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "William P. Kametz (March 22, 1987 — June 9, 2022) was an American voice actor for the English dub of .",
+  "plainText": "William P. Kametz (March 22, 1987 — June 9, 2022) was an American voice actor for the English dub of .\n\n==Biography==\nKametz was born on March 22, 1987 in Lancaster, Pennsylvania. As an adult, he became a voice actor and was involved with a number of Western cartoons and dubbed anime. Kametz joined the during , where he voiced recurring character Ren, along with 's Rotom Phone. On June 11, 2022, it was announced he had passed away two days prior due to complications with stage IV colon cancer. A dedication to him appears in the credits of It's All in the Name! on Netflix.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nRen (JN002-JN093)\nDoctor Zed\n\n=====Pokémon=====\n's Rotom Phone (JN003-JN076)\n\n(JN027-JN045)\nGoh's Inteleon (JN078-JN090)\n(JN073)\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nNevareth ( )\nHadi ( )\nNaofumi Iwatani ( )\nRisu ( )\nShinya Yukimura ( )\nMika ( )\nKineshi Hairo ( )\nDuorrou ( )\nDurham ( )\nCaster ( )\nAngelo (AFK Arena)\nAlice Asmodeus ( )\nClaude Withers ( )\nYuya Kanzaki ( )\nGalo Thymos ( )\nColt ( )\n( )\n( )\nJosuke Higashikata ( )\nTakuto Maruki ( )\nShigeru Aoba ( (Netflix dub))\n\n==External links==\nOfficial website\nAnime News Network\nBehind The Voice Actors\nInstagram\nTwitter\nYouTube\nIMDb\n\n==References==\n \n\n \n \n \n\nit:Billy Kametz",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "William P. Kametz (March 22, 1987 — June 9, 2022) was an American voice actor for the English dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kametz was born on March 22, 1987 in Lancaster, Pennsylvania. As an adult, he became a voice actor and was involved with a number of Western cartoons and dubbed anime. Kametz joined the during , where he voiced recurring character Ren, along with 's Rotom Phone. On June 11, 2022, it was announced he had passed away two days prior due to complications with stage IV colon cancer. A dedication to him appears in the credits of It's All in the Name! on Netflix."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Ren (JN002-JN093)\nDoctor Zed"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "'s Rotom Phone (JN003-JN076)\n\n(JN027-JN045)\nGoh's Inteleon (JN078-JN090)\n(JN073)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Nevareth ( )\nHadi ( )\nNaofumi Iwatani ( )\nRisu ( )\nShinya Yukimura ( )\nMika ( )\nKineshi Hairo ( )\nDuorrou ( )\nDurham ( )\nCaster ( )\nAngelo (AFK Arena)\nAlice Asmodeus ( )\nClaude Withers ( )\nYuya Kanzaki ( )\nGalo Thymos ( )\nColt ( )\n( )\n( )\nJosuke Higashikata ( )\nTakuto Maruki ( )\nShigeru Aoba ( (Netflix dub))"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nAnime News Network\nBehind The Voice Actors\nInstagram\nTwitter\nYouTube\nIMDb"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:Billy Kametz"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Billy Kametz",
+    "pageType": "general-anime-lore",
+    "searchableText": "Billy Kametz\nCategory:TPCi voice actors\nWilliam P. Kametz (March 22, 1987 — June 9, 2022) was an American voice actor for the English dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "Other non-Pokémon roles",
+      "External links",
+      "References"
+    ],
+    "characterCount": 1307,
+    "sectionCount": 7
+  }
+}

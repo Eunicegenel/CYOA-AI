@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Sofu",
+    "slug": "sofu",
+    "pageId": 235228,
+    "revisionId": 4542197
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ghosts",
+    "sourceFileName": "sofu__235228.json",
+    "revisionTimestamp": "2026-05-01T12:50:29Z",
+    "fetchedAt": "2026-05-14T15:49:44.101Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Sofu (Japanese: ソフウ Sofū) is a minor recurring character in , who first appeared in Run, Heroes, Run!. He is the late grandfather of Hapu and a former island kahuna of Poni Island.",
+  "plainText": "Sofu (Japanese: ソフウ Sofū) is a minor recurring character in , who first appeared in Run, Heroes, Run!. He is the late grandfather of Hapu and a former island kahuna of Poni Island.\n\n==In animation==\n===History===\n==== ====\nSofu debuted in Run, Heroes, Run!, where summoned his spirit from the dead to oversee a trial it had set up for . After the trial was over, he observed Kiawe and alongside the ghost of Kiawe's grandfather, before the both of them faded away.\n\nHe appeared again in Memories in the Mist!, where he reunited with his granddaughter in the Ruins of Hope. There, he informed her that Tapu Fini had accepted her as the new Poni Island Kahuna before Tapu Fini cleared the mist and faded away again.\n\n===Voice actors===\n \n\n===Names===\n \n\n==In the core series games==\n===Pokémon Sun, Moon, Ultra Sun, and Ultra Moon===\nHapu mentioned her late grandfather as the former island kahuna of Poni Island. She was later chosen by to succeeded him as the island kahuna.\n\n==Related articles==\n \n\n \n \n \n \n \n \n \n\nes:Sofu/Sancho\nit:Avus\nzh:索夫烏",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sofu (Japanese: ソフウ Sofū) is a minor recurring character in , who first appeared in Run, Heroes, Run!. He is the late grandfather of Hapu and a former island kahuna of Poni Island."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Sofu debuted in Run, Heroes, Run!, where summoned his spirit from the dead to oversee a trial it had set up for . After the trial was over, he observed Kiawe and alongside the ghost of Kiawe's grandfather, before the both of them faded away.\n\nHe appeared again in Memories in the Mist!, where he reunited with his granddaughter in the Ruins of Hope. There, he informed her that Tapu Fini had accepted her as the new Poni Island Kahuna before Tapu Fini cleared the mist and faded away again."
+    },
+    {
+      "heading": "Pokémon Sun, Moon, Ultra Sun, and Ultra Moon",
+      "level": 3,
+      "text": "Hapu mentioned her late grandfather as the former island kahuna of Poni Island. She was later chosen by to succeeded him as the island kahuna."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Sofu/Sancho\nit:Avus\nzh:索夫烏"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sofu",
+    "pageType": "general-manga-lore",
+    "searchableText": "Sofu\nCategory:Ghosts\nSofu (Japanese: ソフウ Sofū) is a minor recurring character in , who first appeared in Run, Heroes, Run!. He is the late grandfather of Hapu and a former island kahuna of Poni Island.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Pokémon Sun, Moon, Ultra Sun, and Ultra Moon",
+      "Related articles"
+    ],
+    "characterCount": 1044,
+    "sectionCount": 4
+  }
+}

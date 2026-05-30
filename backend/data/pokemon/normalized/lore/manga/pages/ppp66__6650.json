@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "PPP66",
+    "slug": "ppp66",
+    "pageId": 6650,
+    "revisionId": 4527183
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp66__6650.json",
+    "revisionTimestamp": "2026-04-09T15:23:54Z",
+    "fetchedAt": "2026-05-14T15:39:18.011Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Chikorita's Merry Christmas (Japanese: チコのメリークリスマス Merry Christmas) is the sixty-sixth chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Chikorita's Merry Christmas (Japanese: チコのメリークリスマス Merry Christmas) is the sixty-sixth chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \n\n==Important characters and Pokémon==\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chikorita's Merry Christmas (Japanese: チコのメリークリスマス Merry Christmas) is the sixty-sixth chapter of the Magical Pokémon Journey manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP66",
+    "pageType": "chapter",
+    "searchableText": "PPP66\nCategory:Magical Pokémon Journey chapters\nChikorita's Merry Christmas (Japanese: チコのメリークリスマス Merry Christmas) is the sixty-sixth chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 233,
+    "sectionCount": 1
+  }
+}

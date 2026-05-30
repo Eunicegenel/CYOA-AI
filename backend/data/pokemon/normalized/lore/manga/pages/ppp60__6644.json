@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP60",
+    "slug": "ppp60",
+    "pageId": 6644,
+    "revisionId": 4527550
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp60__6644.json",
+    "revisionTimestamp": "2026-04-09T15:42:02Z",
+    "fetchedAt": "2026-05-14T15:39:14.286Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Marimaru's Love Story (Japanese: マリ丸の恋物語 Love Story) is the sixtieth chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Marimaru's Love Story (Japanese: マリ丸の恋物語 Love Story) is the sixtieth chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nMarimaru's meeting some old friends of hers, and they all seem so proud of their boyfriends. Feeling a bit pressured, Marimaru convinces to pretend to be her beau.\n\n==Important characters and Pokémon==\nMarimaru\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Marimaru's Love Story (Japanese: マリ丸の恋物語 Love Story) is the sixtieth chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Marimaru's meeting some old friends of hers, and they all seem so proud of their boyfriends. Feeling a bit pressured, Marimaru convinces to pretend to be her beau."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Marimaru"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP60",
+    "pageType": "chapter",
+    "searchableText": "PPP60\nCategory:Magical Pokémon Journey chapters\nMarimaru's Love Story (Japanese: マリ丸の恋物語 Love Story) is the sixtieth chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon"
+    ],
+    "characterCount": 388,
+    "sectionCount": 3
+  }
+}

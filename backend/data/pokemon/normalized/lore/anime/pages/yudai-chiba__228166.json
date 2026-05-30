@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Yudai Chiba",
+    "slug": "yudai-chiba",
+    "pageId": 228166,
+    "revisionId": 4323399
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "yudai-chiba__228166.json",
+    "revisionTimestamp": "2025-06-24T03:29:27Z",
+    "fetchedAt": "2026-05-14T15:00:05.403Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yudai Chiba (Japanese: 千葉雄大 Chiba Yūdai) is a Japanese voice actor .",
+  "plainText": "Yudai Chiba (Japanese: 千葉雄大 Chiba Yūdai) is a Japanese voice actor . \n\n==Biography==\nChiba was born on March 9, 1989 in . and became a voice actor as an adult. He joined the during , where his only role was Ilima, a recurring character. Chiba is currently affiliated with Japan Music Entertainment.\n\n==Pokémon roles==\n===Animation===\n==== ====\nIlima\n\n==Other non-Pokémon roles==\n===Live-action series===\nArata/Gosei Red ( )\nMitsukuni Haninozuka (Runaways: For Your Love)\nKuma-chan (The Fallen Angel)\nShirato Osamu (Shirato Osamu No Jikenbo)\nRyohei Mochizuki (Miss Double Faced Teacher - Kuro no Onna Kyoushi)\nEmperor Takakura ( )\nMinato Miyama ( )\nYano Shoutarou (Take Five ~ Oretachi wa Ai wo Nusumeru ka)\nYoneda Haruo ( )\nTomoki Kimura ( )\nHaruto Irie ( )\nSatoshi Adachi (Ie Uru Onna)\nShin'ichi Fujioka ( )\nTakane Serikawa (My Brother Loves Me Too Much)\nAkio Inaba (Final Fantasy - Dad of Light)\n\n===Anime series===\nMitsukuni Haninozuka ( )\nDaisuke Nakamura ( )\nKentaro Kato ( )\n\n===Theatrical roles===\nKikuchi Toma ( )\nShintaro Numata (Trip App Bakumatsu Kokosei)\nMasayoshi Taniguchi (Maxman Mr. Maxman)\nHarukawa Tanaka (Tsuugaku Series Tsuugaku Densha and Tsuugaku Series Tsuugaku Tochu)\nTakumi Shirakawa ( )\n\n===Dubbing roles===\nPeter Rabbit ( )\n\n==External links==\nTwitter\nInstagram\nAnime News Network",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yudai Chiba (Japanese: 千葉雄大 Chiba Yūdai) is a Japanese voice actor ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Chiba was born on March 9, 1989 in . and became a voice actor as an adult. He joined the during , where his only role was Ilima, a recurring character. Chiba is currently affiliated with Japan Music Entertainment."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Ilima"
+    },
+    {
+      "heading": "Live-action series",
+      "level": 3,
+      "text": "Arata/Gosei Red ( )\nMitsukuni Haninozuka (Runaways: For Your Love)\nKuma-chan (The Fallen Angel)\nShirato Osamu (Shirato Osamu No Jikenbo)\nRyohei Mochizuki (Miss Double Faced Teacher - Kuro no Onna Kyoushi)\nEmperor Takakura ( )\nMinato Miyama ( )\nYano Shoutarou (Take Five ~ Oretachi wa Ai wo Nusumeru ka)\nYoneda Haruo ( )\nTomoki Kimura ( )\nHaruto Irie ( )\nSatoshi Adachi (Ie Uru Onna)\nShin'ichi Fujioka ( )\nTakane Serikawa (My Brother Loves Me Too Much)\nAkio Inaba (Final Fantasy - Dad of Light)"
+    },
+    {
+      "heading": "Anime series",
+      "level": 3,
+      "text": "Mitsukuni Haninozuka ( )\nDaisuke Nakamura ( )\nKentaro Kato ( )"
+    },
+    {
+      "heading": "Theatrical roles",
+      "level": 3,
+      "text": "Kikuchi Toma ( )\nShintaro Numata (Trip App Bakumatsu Kokosei)\nMasayoshi Taniguchi (Maxman Mr. Maxman)\nHarukawa Tanaka (Tsuugaku Series Tsuugaku Densha and Tsuugaku Series Tsuugaku Tochu)\nTakumi Shirakawa ( )"
+    },
+    {
+      "heading": "Dubbing roles",
+      "level": 3,
+      "text": "Peter Rabbit ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nInstagram\nAnime News Network"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yudai Chiba",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yudai Chiba\nCategory:Japanese voice actors\nYudai Chiba (Japanese: 千葉雄大 Chiba Yūdai) is a Japanese voice actor .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Live-action series",
+      "Anime series",
+      "Theatrical roles",
+      "Dubbing roles",
+      "External links"
+    ],
+    "characterCount": 1307,
+    "sectionCount": 8
+  }
+}

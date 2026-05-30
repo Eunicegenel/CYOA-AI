@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GDZ59",
+    "slug": "gdz59",
+    "pageId": 188450,
+    "revisionId": 4526958
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz59__188450.json",
+    "revisionTimestamp": "2026-04-09T15:13:29Z",
+    "fetchedAt": "2026-05-14T15:19:59.094Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 伝説のポケモンと神の村（中編） The Legendary Pokémon and the Village of the Gods (Part Two)) is the 59th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 伝説のポケモンと神の村（中編） The Legendary Pokémon and the Village of the Gods (Part Two)) is the 59th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n(Asuka's)\n\n==Characters==\n===Humans===\nShu\nAsuka\n\n===Pokémon===\n( )\n(Asuka's)\n(Asuka's)\n(Asuka's)\n(Asuka's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 伝説のポケモンと神の村（中編） The Legendary Pokémon and the Village of the Gods (Part Two)) is the 59th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Asuka's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nAsuka"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Asuka's)\n(Asuka's)\n(Asuka's)\n(Asuka's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ59",
+    "pageType": "chapter",
+    "searchableText": "GDZ59\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 伝説のポケモンと神の村（中編） The Legendary Pokémon and the Village of the Gods (Part Two)) is the 59th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 328,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Lily (Pokémon 7)",
+    "slug": "lily-pokemon-7",
+    "pageId": 97483,
+    "revisionId": 4111240
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Phantom Thief Pokémon 7 characters",
+    "sourceFileName": "lily-pokemon-7__97483.json",
+    "revisionTimestamp": "2024-09-14T08:38:44Z",
+    "fetchedAt": "2026-05-14T15:24:14.498Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Lily (Japanese: リリ Lily) is Hiori's long lost twin sister in Phantom Thief Pokémon 7.",
+  "plainText": "Lily (Japanese: リリ Lily) is Hiori's long lost twin sister in Phantom Thief Pokémon 7.\n\n==Character==\nLily has the power to read a Pokémon's aura. Because of this power, she was kidnapped by Team Galactic when she was only five years old while playing a game of with Hiori and his . Lily was shown to be at a high rank in Team Galactic, working along with her section leader's second-in-command and receiving missions from her in person.\n\n==History==\n \nIn her first appearance, she was being chased by Pokémon 7 and Rocco for stealing a woman's . However, her brother's was unable to read her aura due to a special cloak made by Team Galactic. Later, it was revealed in a battle with Pokémon 7 that she had lost all memories of before she was kidnapped and is currently being brainwashed by her . \n\nAfter winning back her memories, she revealed that her section leader, Io, captured and was planning on using its powers to take over the world. She, along with Hiori and Rocco, found Darkrai in captivity under protection of Io and her second-in-command. They defeated them both, but not until after Io awoke Darkrai, causing it to go on a rampage. They eventually calmed down Darkrai enough to set it free. but was caught in a cave-in caused by the battle. She was later revealed to be alive and well a month later roaming the world with Rocco and Pokémon 7 after the former saved them all with his .\n \n==Pokémon==\n===On hand===\n \n\n===Released===\n \n\n \n\n==Related articles==\n \n \n \n \n \n \n \n\nes:Lily (Phantom Thief Pokémon 7)\nzh:莉莉（快盜！寶可夢７）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lily (Japanese: リリ Lily) is Hiori's long lost twin sister in Phantom Thief Pokémon 7."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Lily has the power to read a Pokémon's aura. Because of this power, she was kidnapped by Team Galactic when she was only five years old while playing a game of with Hiori and his . Lily was shown to be at a high rank in Team Galactic, working along with her section leader's second-in-command and receiving missions from her in person."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "In her first appearance, she was being chased by Pokémon 7 and Rocco for stealing a woman's . However, her brother's was unable to read her aura due to a special cloak made by Team Galactic. Later, it was revealed in a battle with Pokémon 7 that she had lost all memories of before she was kidnapped and is currently being brainwashed by her . \n\nAfter winning back her memories, she revealed that her section leader, Io, captured and was planning on using its powers to take over the world. She, along with Hiori and Rocco, found Darkrai in captivity under protection of Io and her second-in-command. They defeated them both, but not until after Io awoke Darkrai, causing it to go on a rampage. They eventually calmed down Darkrai enough to set it free. but was caught in a cave-in caused by the battle. She was later revealed to be alive and well a month later roaming the world with Rocco and Pokémon 7 after the former saved them all with his ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Lily (Phantom Thief Pokémon 7)\nzh:莉莉（快盜！寶可夢７）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lily (Pokémon 7)",
+    "pageType": "character",
+    "searchableText": "Lily (Pokémon 7)\nCategory:Phantom Thief Pokémon 7 characters\nLily (Japanese: リリ Lily) is Hiori's long lost twin sister in Phantom Thief Pokémon 7.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1536,
+    "sectionCount": 4
+  }
+}

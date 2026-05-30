@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Yahichi",
+    "slug": "yahichi",
+    "pageId": 213556,
+    "revisionId": 4320252
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "yahichi__213556.json",
+    "revisionTimestamp": "2025-06-15T19:00:54Z",
+    "fetchedAt": "2026-05-14T14:59:42.134Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ヤヒチ Yahichi) is a character of the day who appeared in Wobbu-Palooza!. He is a man who lives in Wobbuffet Village. He is not named in the English dub, but is referred to as Mustache Guy in the closed captions available on Prime Video.\n\nHis was attacked by the Wobbuffet Festival crashers, during the Wobbuffet Festival, and he was the second person of the village whose Wobbuffet was attacked. The Wobbuffet Festival Crashers had caught him and his Wobbuffet completely by surprise. When , and Norio came to visit him to hear what had happened, he informed them that there were three attackers.",
+  "plainText": "(Japanese: ヤヒチ Yahichi) is a character of the day who appeared in Wobbu-Palooza!. He is a man who lives in Wobbuffet Village. He is not named in the English dub, but is referred to as Mustache Guy in the closed captions available on Prime Video.\n\nHis was attacked by the Wobbuffet Festival crashers, during the Wobbuffet Festival, and he was the second person of the village whose Wobbuffet was attacked. The Wobbuffet Festival Crashers had caught him and his Wobbuffet completely by surprise. When , and Norio came to visit him to hear what had happened, he informed them that there were three attackers.\n\n==Pokémon==\n \n \n\n \n\n \n \n\n \n \n \n\nes:Yahichi\nit:Yahichi",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ヤヒチ Yahichi) is a character of the day who appeared in Wobbu-Palooza!. He is a man who lives in Wobbuffet Village. He is not named in the English dub, but is referred to as Mustache Guy in the closed captions available on Prime Video.\n\nHis was attacked by the Wobbuffet Festival crashers, during the Wobbuffet Festival, and he was the second person of the village whose Wobbuffet was attacked. The Wobbuffet Festival Crashers had caught him and his Wobbuffet completely by surprise. When , and Norio came to visit him to hear what had happened, he informed them that there were three attackers."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "es:Yahichi\nit:Yahichi"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yahichi",
+    "pageType": "character",
+    "searchableText": "Yahichi\nCategory:Johto characters of the day\n(Japanese: ヤヒチ Yahichi) is a character of the day who appeared in Wobbu-Palooza!. He is a man who lives in Wobbuffet Village. He is not named in the English dub, but is referred to as Mustache Guy in the closed captions available on Prime Video.\n\nHis was attacked by the Wobbuffet Festival crashers, during the Wobbuffet Festival, and he was the second person of the village whose Wobbuffet was attacked. The Wobbuffet Festival Crashers had caught him and his Wobbuffet completely by surprise. When , and Norio came to visit him to hear what had happened, he informed them that there were three attackers.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 660,
+    "sectionCount": 2
+  }
+}

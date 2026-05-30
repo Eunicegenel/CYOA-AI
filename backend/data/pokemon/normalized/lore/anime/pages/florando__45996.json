@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Florando",
+    "slug": "florando",
+    "pageId": 45996,
+    "revisionId": 4261397
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "florando__45996.json",
+    "revisionTimestamp": "2025-03-19T22:52:37Z",
+    "fetchedAt": "2026-05-14T14:19:15.641Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Florando (Japanese: ラフォールタウン Lafall Town) is an -exclusive town in Johto that appeared in Flower Power. It is located in between New Bark Town and Cherrygrove City.\n\nEvery year, there is the Pokémon Exhibition, a gigantic outdoor Pokémon entertainment festival where Pokémon Trainers and come from around the world to put on shows and perform. While they passed through Florando, , , and met Bailey, one of the performers in the Exhibition. They helped one of her overcome its lack of confidence in its -like performance.",
+  "plainText": "Florando (Japanese: ラフォールタウン Lafall Town) is an -exclusive town in Johto that appeared in Flower Power. It is located in between New Bark Town and Cherrygrove City.\n\nEvery year, there is the Pokémon Exhibition, a gigantic outdoor Pokémon entertainment festival where Pokémon Trainers and come from around the world to put on shows and perform. While they passed through Florando, , , and met Bailey, one of the performers in the Exhibition. They helped one of her overcome its lack of confidence in its -like performance.\n\n==In other languages==\n \n \n \n \n \n\nde:Floranda\nes:Ciudad Florando\nit:Florando\nzh:东门镇",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Florando (Japanese: ラフォールタウン Lafall Town) is an -exclusive town in Johto that appeared in Flower Power. It is located in between New Bark Town and Cherrygrove City.\n\nEvery year, there is the Pokémon Exhibition, a gigantic outdoor Pokémon entertainment festival where Pokémon Trainers and come from around the world to put on shows and perform. While they passed through Florando, , , and met Bailey, one of the performers in the Exhibition. They helped one of her overcome its lack of confidence in its -like performance."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Floranda\nes:Ciudad Florando\nit:Florando\nzh:东门镇"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Florando",
+    "pageType": "location",
+    "searchableText": "Florando\nCategory:Animated series-exclusive locations\nFlorando (Japanese: ラフォールタウン Lafall Town) is an -exclusive town in Johto that appeared in Flower Power. It is located in between New Bark Town and Cherrygrove City.\n\nEvery year, there is the Pokémon Exhibition, a gigantic outdoor Pokémon entertainment festival where Pokémon Trainers and come from around the world to put on shows and perform. While they passed through Florando, , , and met Bailey, one of the performers in the Exhibition. They helped one of her overcome its lack of confidence in its -like performance.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 606,
+    "sectionCount": 2
+  }
+}

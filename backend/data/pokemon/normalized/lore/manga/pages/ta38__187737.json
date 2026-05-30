@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "TA38",
+    "slug": "ta38",
+    "pageId": 187737,
+    "revisionId": 2805072
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta38__187737.json",
+    "revisionTimestamp": "2018-06-09T05:45:25Z",
+    "fetchedAt": "2026-05-14T15:50:55.772Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 開け！ナゾの箱 Open the Mysterious Box!) is the 38th chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 開け！ナゾの箱 Open the Mysterious Box!) is the 38th chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\nManami\nMister Crow\n\n===Pokémon===\n(Nanae; Katsuya's)\n(Hikoza; Katsuya's)\n(Chacha; Katsuya's)\n(Soro's)\n(Soro's)\n(Absō; Toki's)\n(Manami's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 開け！ナゾの箱 Open the Mysterious Box!) is the 38th chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty\nManami\nMister Crow"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Nanae; Katsuya's)\n(Hikoza; Katsuya's)\n(Chacha; Katsuya's)\n(Soro's)\n(Soro's)\n(Absō; Toki's)\n(Manami's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA38",
+    "pageType": "chapter",
+    "searchableText": "TA38\nCategory:Pokémon Try Adventure chapters\n(Japanese: 開け！ナゾの箱 Open the Mysterious Box!) is the 38th chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 357,
+    "sectionCount": 3
+  }
+}

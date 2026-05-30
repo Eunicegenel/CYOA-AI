@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon XY volume 8",
+    "slug": "pokemon-xy-volume-8",
+    "pageId": 214280,
+    "revisionId": 4132579
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-xy-volume-8__214280.json",
+    "revisionTimestamp": "2024-09-29T05:24:06Z",
+    "fetchedAt": "2026-05-14T15:38:23.142Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 8 is the eighth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+  "plainText": "Volume 8 is the eighth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version. \n\n==Publications==\n \n \n\n==Chapters==\nAdventure 25: Flabébé Blooms\nAdventure 26: Rhyhorn Charges\nAdventure 27: Pinsir Glares\n\n==Party changes==\n===Additions===\nY's \"Xerxer\" in PS581.\n\n \n\n \n\n \n\nfr:Volume 8 (Pokémon X•Y)\nit:Pokémon XY volume 8",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 8 is the eighth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 25: Flabébé Blooms\nAdventure 26: Rhyhorn Charges\nAdventure 27: Pinsir Glares"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "Y's \"Xerxer\" in PS581.\n\n \n\n \n\n \n\nfr:Volume 8 (Pokémon X•Y)\nit:Pokémon XY volume 8"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon XY volume 8",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon XY volume 8\nCategory:Pokémon Adventures volumes\nVolume 8 is the eighth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions"
+    ],
+    "characterCount": 597,
+    "sectionCount": 3
+  }
+}

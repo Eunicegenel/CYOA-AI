@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Yōko Sōmi",
+    "slug": "yoko-somi",
+    "pageId": 33036,
+    "revisionId": 4486931
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "yoko-somi__33036.json",
+    "revisionTimestamp": "2026-02-15T14:22:02Z",
+    "fetchedAt": "2026-05-14T14:59:54.520Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yōko Sōmi (Japanese: 沢海陽子 Sōmi Yōko) is a Japanese voice actress for .",
+  "plainText": "Yōko Sōmi (Japanese: 沢海陽子 Sōmi Yōko) is a Japanese voice actress for .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n\nNelson\nAlan\nHamilton\nEllen\nCTV news reporter (M03)\n\n=====Pokémon=====\n\n==Other non-Pokémon roles==\n===Anime series===\nMarciano ( )\nKyaku ( )\nLysurg and Kanna ( )\nKaren Kasumi ( )\nAtsuko Urameshi ( )\n\n===Video games===\nEileen the Crow ( )\n\n===Dubbing roles===\n( )\n( )\n( )\n( )\n\n \n \n \n\n \n\nit:Yōko Sōmi\nja:沢海陽子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yōko Sōmi (Japanese: 沢海陽子 Sōmi Yōko) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Nelson\nAlan\nHamilton\nEllen\nCTV news reporter (M03)"
+    },
+    {
+      "heading": "Anime series",
+      "level": 3,
+      "text": "Marciano ( )\nKyaku ( )\nLysurg and Kanna ( )\nKaren Kasumi ( )\nAtsuko Urameshi ( )"
+    },
+    {
+      "heading": "Video games",
+      "level": 3,
+      "text": "Eileen the Crow ( )"
+    },
+    {
+      "heading": "Dubbing roles",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n\n \n \n \n\n \n\nit:Yōko Sōmi\nja:沢海陽子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yōko Sōmi",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yōko Sōmi\nCategory:Japanese voice actors\nYōko Sōmi (Japanese: 沢海陽子 Sōmi Yōko) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Anime series",
+      "Video games",
+      "Dubbing roles"
+    ],
+    "characterCount": 440,
+    "sectionCount": 5
+  }
+}

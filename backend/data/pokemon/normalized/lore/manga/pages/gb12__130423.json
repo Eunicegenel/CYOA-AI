@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "GB12",
+    "slug": "gb12",
+    "pageId": 130423,
+    "revisionId": 4107959
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys chapters",
+    "sourceFileName": "gb12__130423.json",
+    "revisionTimestamp": "2024-09-09T07:12:07Z",
+    "fetchedAt": "2026-05-14T15:19:14.122Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Legendary Pokémon (Japanese: 出現! 伝説のポケモン Appearance! Legendary Pokémon) is the twelfth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+  "plainText": "The Legendary Pokémon (Japanese: 出現! 伝説のポケモン Appearance! Legendary Pokémon) is the twelfth chapter of the Pokémon Gold & Silver: The Golden Boys manga.\n\n==Plot==\n , and appear just in time to save and the others. turns up the power of his control device, but despite this, Entei destroys it. With the other Pokémon no longer under his control, Grey flees the stadium. His underlings stay, planning to escape and then set off the to explode. However, a Grunt accidentally sets off the switch for the Electrode early, causing them all to use . The three Legendary beasts use , blowing away the Electrode to protect the stadium from crumbling. After this, they leave the city and run off into the distance.\n\nBill informs Gold and Whitney that the has been cancelled and tells Gold that while he missed the summit, he was lucky to meet the three Legendary beasts. Gold is disappointed that he could not battle them, so Morty offers to teach him how to track the beasts if he can win in a Gym battle against him. Before they can fight, though, interrupts, stating that he should be the one to chase the beasts. Instead, he and Gold fight, Black leading with an injured . Gold doesn't want to fight due to his unfair advantage, but Bayleef insists on fighting anyways, defeating it.\n\nMorty tells Gold a legend passed down in Ecruteak City - that the Legendary beasts are known to appear before Trainers which they consider truly powerful. Gold vows to better himself as a Trainer so that he can one day battle the three beasts.\n\n==Major events==\nThe Legendary beasts rescue and the others, driving away and Team Rocket.\nGold meets Morty.\nGold defeats Black in battle.\n\n===Debuts===\n====Humans====\nMorty\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nWhitney\n\ns\nBill\nMorty\n\n===Pokémon===\n( )\n( 's)\n( 's)\n\n \n \n \n\nes:GB12\nit:GB12",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Legendary Pokémon (Japanese: 出現! 伝説のポケモン Appearance! Legendary Pokémon) is the twelfth chapter of the Pokémon Gold & Silver: The Golden Boys manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": ", and appear just in time to save and the others. turns up the power of his control device, but despite this, Entei destroys it. With the other Pokémon no longer under his control, Grey flees the stadium. His underlings stay, planning to escape and then set off the to explode. However, a Grunt accidentally sets off the switch for the Electrode early, causing them all to use . The three Legendary beasts use , blowing away the Electrode to protect the stadium from crumbling. After this, they leave the city and run off into the distance.\n\nBill informs Gold and Whitney that the has been cancelled and tells Gold that while he missed the summit, he was lucky to meet the three Legendary beasts. Gold is disappointed that he could not battle them, so Morty offers to teach him how to track the beasts if he can win in a Gym battle against him. Before they can fight, though, interrupts, stating that he should be the one to chase the beasts. Instead, he and Gold fight, Black leading with an injured . Gold doesn't want to fight due to his unfair advantage, but Bayleef insists on fighting anyways, defeating it.\n\nMorty tells Gold a legend passed down in Ecruteak City - that the Legendary beasts are known to appear before Trainers which they consider truly powerful. Gold vows to better himself as a Trainer so that he can one day battle the three beasts."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "The Legendary beasts rescue and the others, driving away and Team Rocket.\nGold meets Morty.\nGold defeats Black in battle."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Morty"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Whitney\n\ns\nBill\nMorty"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's)\n( 's)\n\n \n \n \n\nes:GB12\nit:GB12"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GB12",
+    "pageType": "chapter",
+    "searchableText": "GB12\nCategory:Pokémon Gold & Silver: The Golden Boys chapters\nThe Legendary Pokémon (Japanese: 出現! 伝説のポケモン Appearance! Legendary Pokémon) is the twelfth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1827,
+    "sectionCount": 6
+  }
+}

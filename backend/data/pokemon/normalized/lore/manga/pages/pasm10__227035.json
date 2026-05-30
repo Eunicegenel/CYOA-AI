@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASM10",
+    "slug": "pasm10",
+    "pageId": 227035,
+    "revisionId": 4527864
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasm10__227035.json",
+    "revisionTimestamp": "2026-04-09T15:56:21Z",
+    "fetchedAt": "2026-05-14T15:28:22.128Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Defeat and the Commander of the School of Fish (Japanese: 攻略！！ぎょぐんの司令塔！ Capture!! The School's Leader!) is the 10th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Defeat and the Commander of the School of Fish (Japanese: 攻略！！ぎょぐんの司令塔！ Capture!! The School's Leader!) is the 10th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n==Major events==\n \ntries to capture the , but it manages to escape.\nWithout a name to call the Ultra Beast, Moon and Mallow give it the codename \"Lighting\".\ndefeats the .\nSun officially adds Quarter to his team.\nHala is visited by Kahili.\n \n \n\n===Debuts===\n====Humans====\nKahili\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nLana\nMallow\nHala\nKahili\nGladion (flashback)\n\n===Pokémon===\n(Cent; Alolan form; 's)\n( ; 's)\n(Quarter; ; ; 's; newly caught)\n(Rotom Pokédex; )\n( )\n( ; flashback)\n(Ride Pokémon)\n(multiple; )\n\n \n\n \n \n \n\nde:Der Anführer des Riesenschwarms\nes:PMSSM10\nfr:Chapitre 10 (Pocket Monsters Special Soleil et Lune)\nit:PASM10\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第10话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Defeat and the Commander of the School of Fish (Japanese: 攻略！！ぎょぐんの司令塔！ Capture!! The School's Leader!) is the 10th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "tries to capture the , but it manages to escape.\nWithout a name to call the Ultra Beast, Moon and Mallow give it the codename \"Lighting\".\ndefeats the .\nSun officially adds Quarter to his team.\nHala is visited by Kahili."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Kahili"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Lana\nMallow\nHala\nKahili\nGladion (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Cent; Alolan form; 's)\n( ; 's)\n(Quarter; ; ; 's; newly caught)\n(Rotom Pokédex; )\n( )\n( ; flashback)\n(Ride Pokémon)\n(multiple; )\n\n \n\n \n \n \n\nde:Der Anführer des Riesenschwarms\nes:PMSSM10\nfr:Chapitre 10 (Pocket Monsters Special Soleil et Lune)\nit:PASM10\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第10话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASM10",
+    "pageType": "chapter",
+    "searchableText": "PASM10\nCategory:Pokémon Adventures chapters\nDefeat and the Commander of the School of Fish (Japanese: 攻略！！ぎょぐんの司令塔！ Capture!! The School's Leader!) is the 10th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 851,
+    "sectionCount": 5
+  }
+}

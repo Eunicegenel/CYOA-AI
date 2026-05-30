@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PASM34",
+    "slug": "pasm34",
+    "pageId": 246121,
+    "revisionId": 4549273
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasm34__246121.json",
+    "revisionTimestamp": "2026-05-11T01:36:41Z",
+    "fetchedAt": "2026-05-14T15:28:37.458Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Destroy!! Results of the Training! (Japanese: 撃破！！特訓の成果！ Destroy!! The Results of Training!) is the 34th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Destroy!! Results of the Training! (Japanese: 撃破！！特訓の成果！ Destroy!! The Results of Training!) is the 34th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n==Major events==\n \n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nIlima \nLana \nKiawe \nMallow\nAcerola \nSophocles \nHala\nNanu \nHapu \nKahili\nMolayne\nGladion\nHau\nGuzma (flashback)\nPlumeria (flashback)\nFaba\nRyuki\nZossie\nDulse\nSoliera\nPhyco\ns (flashback)\n\n===Pokémon===\n(Ilima's)\n(Lana's)\n(Alolan form; )\n( )\n( )\n(Mina's)\n(Alolan form; Molayne's)\n(Hala's)\n( )\n(Kahili's)\n( )\n( ; )\n(Hau's)\n(Hau's; evolves)\n(Hau's; newly evolved)\n(Lusamine's)\n(Ryuki's)\n(multiple; s')\n( s')\n(multiple; s')\n( s')\n(multiple; s')\n( s')\n( s')\n(multiple; s')\n\n==In other languages==\n \n\n \n\n \n \n \n \n\nde:Die Früchte des Trainings (Sonne und Mond Arc)\nes:PMSSM34\nit:PASM34\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第34话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Destroy!! Results of the Training! (Japanese: 撃破！！特訓の成果！ Destroy!! The Results of Training!) is the 34th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ilima \nLana \nKiawe \nMallow\nAcerola \nSophocles \nHala\nNanu \nHapu \nKahili\nMolayne\nGladion\nHau\nGuzma (flashback)\nPlumeria (flashback)\nFaba\nRyuki\nZossie\nDulse\nSoliera\nPhyco\ns (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ilima's)\n(Lana's)\n(Alolan form; )\n( )\n( )\n(Mina's)\n(Alolan form; Molayne's)\n(Hala's)\n( )\n(Kahili's)\n( )\n( ; )\n(Hau's)\n(Hau's; evolves)\n(Hau's; newly evolved)\n(Lusamine's)\n(Ryuki's)\n(multiple; s')\n( s')\n(multiple; s')\n( s')\n(multiple; s')\n( s')\n( s')\n(multiple; s')"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Die Früchte des Trainings (Sonne und Mond Arc)\nes:PMSSM34\nit:PASM34\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第34话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASM34",
+    "pageType": "chapter",
+    "searchableText": "PASM34\nCategory:Pokémon Adventures chapters\nDestroy!! Results of the Training! (Japanese: 撃破！！特訓の成果！ Destroy!! The Results of Training!) is the 34th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 856,
+    "sectionCount": 4
+  }
+}

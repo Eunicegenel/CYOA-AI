@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PMLT03",
+    "slug": "pmlt03",
+    "pageId": 294950,
+    "revisionId": 4527778
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monster: Liko's treasure chapters",
+    "sourceFileName": "pmlt03__294950.json",
+    "revisionTimestamp": "2026-04-09T15:53:05Z",
+    "fetchedAt": "2026-05-14T15:33:07.706Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: Final Episode) is the third regular and final chapter of the Pocket Monster: Liko's treasure manga. It was first published in the August 2023 issue of Ciao, released on July 3, 2023. It is based on the Pokémon Horizons: The Series episode For Sure! 'Cause Sprigatito's with Me!. It is 31 pages long.",
+  "plainText": "(Japanese: Final Episode) is the third regular and final chapter of the Pocket Monster: Liko's treasure manga. It was first published in the August 2023 issue of Ciao, released on July 3, 2023. It is based on the Pokémon Horizons: The Series episode For Sure! 'Cause Sprigatito's with Me!. It is 31 pages long.\n\n==Plot==\n \n\n==Major events==\nLiko and Friede free from the Explorers' captivity.\nLiko joins the Rising Volt Tacklers.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nLiko\nFriede\nMollie\nOrla\nMurdock\nAmethio\nOnia\n\n===Pokémon===\n( )\n( )\n(Friede's; Captain Pikachu)\n(Murdock's)\n( )\n(Amethio's; flashback)\n(Onia's)\n\n==Differences between the animated series and the manga==\n \n\n==References==\n \n\n \n \n \n \n\nit:PMLT03",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: Final Episode) is the third regular and final chapter of the Pocket Monster: Liko's treasure manga. It was first published in the August 2023 issue of Ciao, released on July 3, 2023. It is based on the Pokémon Horizons: The Series episode For Sure! 'Cause Sprigatito's with Me!. It is 31 pages long."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Liko and Friede free from the Explorers' captivity.\nLiko joins the Rising Volt Tacklers."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Liko\nFriede\nMollie\nOrla\nMurdock\nAmethio\nOnia"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Friede's; Captain Pikachu)\n(Murdock's)\n( )\n(Amethio's; flashback)\n(Onia's)"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:PMLT03"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMLT03",
+    "pageType": "chapter",
+    "searchableText": "PMLT03\nCategory:Pocket Monster: Liko's treasure chapters\n(Japanese: Final Episode) is the third regular and final chapter of the Pocket Monster: Liko's treasure manga. It was first published in the August 2023 issue of Ciao, released on July 3, 2023. It is based on the Pokémon Horizons: The Series episode For Sure! 'Cause Sprigatito's with Me!. It is 31 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "References"
+    ],
+    "characterCount": 738,
+    "sectionCount": 5
+  }
+}

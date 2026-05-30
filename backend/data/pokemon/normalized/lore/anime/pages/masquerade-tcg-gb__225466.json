@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Masquerade (TCG GB)",
+    "slug": "masquerade-tcg-gb",
+    "pageId": 225466,
+    "revisionId": 4360651
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ghosts",
+    "sourceFileName": "masquerade-tcg-gb__225466.json",
+    "revisionTimestamp": "2025-08-19T02:12:01Z",
+    "fetchedAt": "2026-05-14T14:35:34.982Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Masquerade (Japanese: マスカレード) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Masquerade can be found in the seventh of the nine statues in the main room. Players who defeat Masquerade will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game.",
+  "plainText": "Masquerade (Japanese: マスカレード) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Masquerade can be found in the seventh of the nine statues in the main room. Players who defeat Masquerade will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game.\n\n==Power of Darkness Deck==\nPower of Darkness Deck (Japanese: あんこくのパワーデッキ) is the deck played by Masquerade. The deck features the promotional , which was created to promote the game, as well as several types of Dark Pokémon, one of which is also exclusive to this version of the game.\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Sprites===\n \n\n==Related articles==\n \n \n\n \n \n\nit:Masquerade\nja:あんこくのパワーデッキ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Masquerade (Japanese: マスカレード) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Masquerade can be found in the seventh of the nine statues in the main room. Players who defeat Masquerade will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game."
+    },
+    {
+      "heading": "Power of Darkness Deck",
+      "level": 2,
+      "text": "Power of Darkness Deck (Japanese: あんこくのパワーデッキ) is the deck played by Masquerade. The deck features the promotional , which was created to promote the game, as well as several types of Dark Pokémon, one of which is also exclusive to this version of the game."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Masquerade\nja:あんこくのパワーデッキ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Masquerade (TCG GB)",
+    "pageType": "general-anime-lore",
+    "searchableText": "Masquerade (TCG GB)\nCategory:Ghosts\nMasquerade (Japanese: マスカレード) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Masquerade can be found in the seventh of the nine statues in the main room. Players who defeat Masquerade will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game.",
+    "sectionHeadings": [
+      "Lead",
+      "Power of Darkness Deck",
+      "Related articles"
+    ],
+    "characterCount": 786,
+    "sectionCount": 3
+  }
+}

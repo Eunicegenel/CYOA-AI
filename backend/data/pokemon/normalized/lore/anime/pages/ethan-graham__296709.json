@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Ethan Graham",
+    "slug": "ethan-graham",
+    "pageId": 296709,
+    "revisionId": 4545642
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu characters",
+    "sourceFileName": "ethan-graham__296709.json",
+    "revisionTimestamp": "2026-05-06T10:13:57Z",
+    "fetchedAt": "2026-05-14T14:18:31.860Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ethan Graham is a character in the game .",
+  "plainText": "Ethan Graham is a character in the game .\n\n==In the games==\n \n=== ===\nEthan is the president of GNN. He is generally a kind man and often talks to members of his staff, but he is very concerned about ratings and gets very upset if something happens that could jeopardize the company's financial stability or reputation. He doesn't want to keep around staff members that are useless or could cause harm to the company, so lower-ranking employees are often worried that he's thinking about replacing them when he stops by their studio. In addition, he is well-respected in the entertainment industry, having apparently \"created his own era on TV\" back when he was a producer. \n\nEthan first appears when Tim Goodman and visit GNN in Chapter 6. He is pleased to finally meet Tim, as he heard lots of great things about him from Emilia Christie, Meiko Okamoto, and Roger Clifford. He thinks very highly of Roger, as Roger came up with the idea for the cameras that have helped set GNN's footage apart from all the others. When Olga Ellison's goes missing, he asks Tim to show off his detective skills and find it.\n\nLater, he is seen with Roger in the sub-control room, watching the rehearsal for Maximum Music.\n\nEthan has several entries in Tim's case list:\n \n\nAfter the events of Detective Pikachu, Ethan and Meiko were pivotal in the overhaul of GNN, and were awarded for their efforts during the Pokémon Friendship Week prior to the events of Detective Pikachu Returns .\n\n==Trivia==\nWhen Ethan first meets Tim, he jokes about making a documentary about Tim's life called Great Detective Tim. This is a reference to the Japanese title of the game, Great Detective Pikachu, and it may also be a nod to the game's .\n\n==In other languages==\n \n\n==References==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ethan Graham is a character in the game ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Ethan is the president of GNN. He is generally a kind man and often talks to members of his staff, but he is very concerned about ratings and gets very upset if something happens that could jeopardize the company's financial stability or reputation. He doesn't want to keep around staff members that are useless or could cause harm to the company, so lower-ranking employees are often worried that he's thinking about replacing them when he stops by their studio. In addition, he is well-respected in the entertainment industry, having apparently \"created his own era on TV\" back when he was a producer. \n\nEthan first appears when Tim Goodman and visit GNN in Chapter 6. He is pleased to finally meet Tim, as he heard lots of great things about him from Emilia Christie, Meiko Okamoto, and Roger Clifford. He thinks very highly of Roger, as Roger came up with the idea for the cameras that have helped set GNN's footage apart from all the others. When Olga Ellison's goes missing, he asks Tim to show off his detective skills and find it.\n\nLater, he is seen with Roger in the sub-control room, watching the rehearsal for Maximum Music.\n\nEthan has several entries in Tim's case list:\n \n\nAfter the events of Detective Pikachu, Ethan and Meiko were pivotal in the overhaul of GNN, and were awarded for their efforts during the Pokémon Friendship Week prior to the events of Detective Pikachu Returns ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "When Ethan first meets Tim, he jokes about making a documentary about Tim's life called Great Detective Tim. This is a reference to the Japanese title of the game, Great Detective Pikachu, and it may also be a nod to the game's ."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ethan Graham",
+    "pageType": "character",
+    "searchableText": "Ethan Graham\nCategory:Detective Pikachu characters\nEthan Graham is a character in the game .",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Trivia"
+    ],
+    "characterCount": 1776,
+    "sectionCount": 3
+  }
+}

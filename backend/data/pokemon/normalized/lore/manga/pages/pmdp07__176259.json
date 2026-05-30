@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PMDP07",
+    "slug": "pmdp07",
+    "pageId": 176259,
+    "revisionId": 4528361
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp07__176259.json",
+    "revisionTimestamp": "2026-04-09T16:17:48Z",
+    "fetchedAt": "2026-05-14T15:32:17.453Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: トレーナーズスクールに入学！ Entry into Trainers' School!) is the seventh chapter of the manga.",
+  "plainText": "(Japanese: トレーナーズスクールに入学！ Entry into Trainers' School!) is the seventh chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nRoark\nGardenia (flashback)\nMaylene (flashback)\nCrasher Wake (flashback)\nFantina (flashback)\nByron (flashback)\nCandice (flashback)\nVolkner (flashback)\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\nRoark\nGardenia (flashback)\nMaylene (flashback)\nCrasher Wake (flashback)\nFantina (flashback)\nByron (flashback)\nCandice (flashback)\nVolkner (flashback)\n\n===Pokémon===\n( )\n( )\n( )\n( )\n\n \n \n \n\nit:PMDP07",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: トレーナーズスクールに入学！ Entry into Trainers' School!) is the seventh chapter of the manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Roark\nGardenia (flashback)\nMaylene (flashback)\nCrasher Wake (flashback)\nFantina (flashback)\nByron (flashback)\nCandice (flashback)\nVolkner (flashback)"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Roark\nGardenia (flashback)\nMaylene (flashback)\nCrasher Wake (flashback)\nFantina (flashback)\nByron (flashback)\nCandice (flashback)\nVolkner (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n\n \n \n \n\nit:PMDP07"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP07",
+    "pageType": "chapter",
+    "searchableText": "PMDP07\nCategory:Pocket Monsters DP chapters\n(Japanese: トレーナーズスクールに入学！ Entry into Trainers' School!) is the seventh chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 558,
+    "sectionCount": 5
+  }
+}

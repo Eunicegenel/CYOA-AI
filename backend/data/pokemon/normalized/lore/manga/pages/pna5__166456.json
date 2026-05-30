@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PNA5",
+    "slug": "pna5",
+    "pageId": 166456,
+    "revisionId": 4526321
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ chapters",
+    "sourceFileName": "pna5__166456.json",
+    "revisionTimestamp": "2026-04-09T14:36:01Z",
+    "fetchedAt": "2026-05-14T15:34:04.014Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 青の巻：ミツナリとキヨマサとマサノリ The Blue Scroll: Mitsunari, Kiyomasa, and Masanori) is the fifth chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga",
+  "plainText": "(Japanese: 青の巻：ミツナリとキヨマサとマサノリ The Blue Scroll: Mitsunari, Kiyomasa, and Masanori) is the fifth chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga\n\n==Plot==\n \n\n==Major events==\nBecause Masanori spent all of their money, Mitsunari, Kiyomasa, and Masanori are forced to stay in Viperia for the time being.\nAs they move through the castle to avoid being spotted by Hideyoshi and Nene, they are attacked by a \"monster\".\nTogether, Mitsunari, Kiyomasa, and Masanori defeat the monster.\nThe \"monster\" is revealed to be Keiji, who was just looking for a fight.\nAfter escaping the collapsing building, the group is scolded by Nene for causing a mess.\n\n===Debuts===\n====Humans====\nNene\nKeiji\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKiyomasa\nMasanori\nMitsunari\nNene\nHideyoshi\nKeiji\n\n===Pokémon===\n(Kiyomasa's)\n(Masanori's)\n(Mitsunari's)\n(Nene's)\n(Hideyoshi's)\n(Keiji's)\n(Kiyomasa's; flashback)\n(Masanori's; flashback)\n(multiple)\n\n==Trivia==\n\n \n \n \n \n\nde:Ao no Maki: Mitsunari to Kiyomasa to Masanori\nzh:PNA5",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 青の巻：ミツナリとキヨマサとマサノリ The Blue Scroll: Mitsunari, Kiyomasa, and Masanori) is the fifth chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga"
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Because Masanori spent all of their money, Mitsunari, Kiyomasa, and Masanori are forced to stay in Viperia for the time being.\nAs they move through the castle to avoid being spotted by Hideyoshi and Nene, they are attacked by a \"monster\".\nTogether, Mitsunari, Kiyomasa, and Masanori defeat the monster.\nThe \"monster\" is revealed to be Keiji, who was just looking for a fight.\nAfter escaping the collapsing building, the group is scolded by Nene for causing a mess."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Nene\nKeiji"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kiyomasa\nMasanori\nMitsunari\nNene\nHideyoshi\nKeiji"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Kiyomasa's)\n(Masanori's)\n(Mitsunari's)\n(Nene's)\n(Hideyoshi's)\n(Keiji's)\n(Kiyomasa's; flashback)\n(Masanori's; flashback)\n(multiple)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Ao no Maki: Mitsunari to Kiyomasa to Masanori\nzh:PNA5"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PNA5",
+    "pageType": "chapter",
+    "searchableText": "PNA5\nCategory:Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ chapters\n(Japanese: 青の巻：ミツナリとキヨマサとマサノリ The Blue Scroll: Mitsunari, Kiyomasa, and Masanori) is the fifth chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1041,
+    "sectionCount": 6
+  }
+}

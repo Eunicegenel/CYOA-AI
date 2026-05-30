@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mason (EP247)",
+    "slug": "mason-ep247",
+    "pageId": 16118,
+    "revisionId": 4289393
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "mason-ep247__16118.json",
+    "revisionTimestamp": "2025-04-28T19:59:45Z",
+    "fetchedAt": "2026-05-14T14:35:34.348Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mason is a character of the day who appeared in Outrageous Fortunes. He was unnamed in the Japanese version.\n\nMason was the seventh consecutive to battle Delaney. He hoped that his would be able to put an end to 's winning streak. However, Delaney proved to be more powerful and defeated the young Trainer's Pokémon.",
+  "plainText": "Mason is a character of the day who appeared in Outrageous Fortunes. He was unnamed in the Japanese version.\n\nMason was the seventh consecutive to battle Delaney. He hoped that his would be able to put an end to 's winning streak. However, Delaney proved to be more powerful and defeated the young Trainer's Pokémon.\n \n==Pokémon==\n \n \n\n==Voice actors==\n \n\n \n \n \n \n\nde:Böse Zukunft#Mason\nes:Mason\nfr:Mason\nit:Mason (OA131)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mason is a character of the day who appeared in Outrageous Fortunes. He was unnamed in the Japanese version.\n\nMason was the seventh consecutive to battle Delaney. He hoped that his would be able to put an end to 's winning streak. However, Delaney proved to be more powerful and defeated the young Trainer's Pokémon."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Böse Zukunft#Mason\nes:Mason\nfr:Mason\nit:Mason (OA131)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mason (EP247)",
+    "pageType": "character",
+    "searchableText": "Mason (EP247)\nCategory:Johto characters of the day\nMason is a character of the day who appeared in Outrageous Fortunes. He was unnamed in the Japanese version.\n\nMason was the seventh consecutive to battle Delaney. He hoped that his would be able to put an end to 's winning streak. However, Delaney proved to be more powerful and defeated the young Trainer's Pokémon.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 421,
+    "sectionCount": 2
+  }
+}

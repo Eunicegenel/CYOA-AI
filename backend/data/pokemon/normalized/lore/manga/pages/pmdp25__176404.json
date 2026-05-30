@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP25",
+    "slug": "pmdp25",
+    "pageId": 176404,
+    "revisionId": 4527289
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp25__176404.json",
+    "revisionTimestamp": "2026-04-09T15:31:45Z",
+    "fetchedAt": "2026-05-14T15:32:28.773Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: の 、ピッピ！？ , the Sumo World's Messiah!?) is the twenty-fifth chapter of the manga.",
+  "plainText": "(Japanese: の 、ピッピ！？ , the Sumo World's Messiah!?) is the twenty-fifth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: の 、ピッピ！？ , the Sumo World's Messiah!?) is the twenty-fifth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP25",
+    "pageType": "chapter",
+    "searchableText": "PMDP25\nCategory:Pocket Monsters DP chapters\n(Japanese: の 、ピッピ！？ , the Sumo World's Messiah!?) is the twenty-fifth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 219,
+    "sectionCount": 2
+  }
+}

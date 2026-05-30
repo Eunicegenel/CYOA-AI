@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Rikako",
+    "slug": "rikako",
+    "pageId": 87768,
+    "revisionId": 4547711
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Battle Frontier characters of the day",
+    "sourceFileName": "rikako__87768.json",
+    "revisionTimestamp": "2026-05-09T21:33:00Z",
+    "fetchedAt": "2026-05-14T14:46:24.453Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "For the Japanese voice actress, see Rikako Aikawa.\n \n \n(Japanese: ミツオダ・リカコ Rikako Mitsuoda) is a character of the day who appeared in Rough, Tough Jigglypuff. She lives in a small Kanto town with her husband Mitch Mitchum and their young daughter Lisa.\n\nShe took care of the household for over six months while her husband looked for a that he could give to Lisa as a birthday present. She was glad to see him return, and even more surprised to see an actual Jigglypuff float into the backyard before deciding to join the family.",
+  "plainText": "For the Japanese voice actress, see Rikako Aikawa.\n \n \n(Japanese: ミツオダ・リカコ Rikako Mitsuoda) is a character of the day who appeared in Rough, Tough Jigglypuff. She lives in a small Kanto town with her husband Mitch Mitchum and their young daughter Lisa.\n\nShe took care of the household for over six months while her husband looked for a that he could give to Lisa as a birthday present. She was glad to see him return, and even more surprised to see an actual Jigglypuff float into the backyard before deciding to join the family.\n\n==Voice actors==\n \n\n \n \n \n \n \n \n\nes:Señora Mitchum/Pazguato\nit:Rikako",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "For the Japanese voice actress, see Rikako Aikawa.\n \n \n(Japanese: ミツオダ・リカコ Rikako Mitsuoda) is a character of the day who appeared in Rough, Tough Jigglypuff. She lives in a small Kanto town with her husband Mitch Mitchum and their young daughter Lisa.\n\nShe took care of the household for over six months while her husband looked for a that he could give to Lisa as a birthday present. She was glad to see him return, and even more surprised to see an actual Jigglypuff float into the backyard before deciding to join the family."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Señora Mitchum/Pazguato\nit:Rikako"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rikako",
+    "pageType": "character",
+    "searchableText": "Rikako\nCategory:Battle Frontier characters of the day\nFor the Japanese voice actress, see Rikako Aikawa.\n \n \n(Japanese: ミツオダ・リカコ Rikako Mitsuoda) is a character of the day who appeared in Rough, Tough Jigglypuff. She lives in a small Kanto town with her husband Mitch Mitchum and their young daughter Lisa.\n\nShe took care of the household for over six months while her husband looked for a that he could give to Lisa as a birthday present. She was glad to see him return, and even more surprised to see an actual Jigglypuff float into the backyard before deciding to join the family.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 600,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "JBA3",
+    "slug": "jba3",
+    "pageId": 172769,
+    "revisionId": 4549182
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS Jō's Big Adventure chapters",
+    "sourceFileName": "jba3__172769.json",
+    "revisionTimestamp": "2026-05-11T01:26:01Z",
+    "fetchedAt": "2026-05-14T15:22:26.080Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ジョウト地方の異変！！ The Johto Region's Disaster!!) is the third chapter of the Pocket Monsters HGSS Jō's Big Adventure manga.",
+  "plainText": "(Japanese: ジョウト地方の異変！！ The Johto Region's Disaster!!) is the third chapter of the Pocket Monsters HGSS Jō's Big Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nMorty\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nJō\nMorty\nKimono Girl\n\n===Pokémon===\n( )\n(Morty's)\n( )\n\n==In other languages==\n \n \n\n \n \n\nit:JBA3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ジョウト地方の異変！！ The Johto Region's Disaster!!) is the third chapter of the Pocket Monsters HGSS Jō's Big Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Morty"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jō\nMorty\nKimono Girl"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Morty's)\n( )"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:JBA3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JBA3",
+    "pageType": "chapter",
+    "searchableText": "JBA3\nCategory:Pocket Monsters HGSS Jō's Big Adventure chapters\n(Japanese: ジョウト地方の異変！！ The Johto Region's Disaster!!) is the third chapter of the Pocket Monsters HGSS Jō's Big Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 342,
+    "sectionCount": 5
+  }
+}

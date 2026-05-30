@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "SP22",
+    "slug": "sp22",
+    "pageId": 182508,
+    "revisionId": 4114580
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp22__182508.json",
+    "revisionTimestamp": "2024-09-16T20:31:02Z",
+    "fetchedAt": "2026-05-14T15:50:04.579Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "A Pokémon Battle Against An Entire Family?! (Japanese: 家族対抗ポケモンバトル！？ A Pokémon Battle Against An Entire Family!?) is the twenty second chapter of the Ash & Pikachu manga.",
+  "plainText": "A Pokémon Battle Against An Entire Family?! (Japanese: 家族対抗ポケモンバトル！？ A Pokémon Battle Against An Entire Family!?) is the twenty second chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nWinstrate family\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\nMax\n\n===Pokémon===\n( )\n( ; briefly given to Max)\n( )\n( )\n( 's)\n(Victoria's)\n(Vivi's)\n(Vicky's)\n\n \n \n\n \n\nit:SP22",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Pokémon Battle Against An Entire Family?! (Japanese: 家族対抗ポケモンバトル！？ A Pokémon Battle Against An Entire Family!?) is the twenty second chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Winstrate family"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( ; briefly given to Max)\n( )\n( )\n( 's)\n(Victoria's)\n(Vivi's)\n(Vicky's)\n\n \n \n\n \n\nit:SP22"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP22",
+    "pageType": "chapter",
+    "searchableText": "SP22\nCategory:Ash & Pikachu chapters\nA Pokémon Battle Against An Entire Family?! (Japanese: 家族対抗ポケモンバトル！？ A Pokémon Battle Against An Entire Family!?) is the twenty second chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 416,
+    "sectionCount": 5
+  }
+}

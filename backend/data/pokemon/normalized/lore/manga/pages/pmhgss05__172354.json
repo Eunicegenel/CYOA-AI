@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMHGSS05",
+    "slug": "pmhgss05",
+    "pageId": 172354,
+    "revisionId": 4528317
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS chapters",
+    "sourceFileName": "pmhgss05__172354.json",
+    "revisionTimestamp": "2026-04-09T16:15:45Z",
+    "fetchedAt": "2026-05-14T15:32:53.944Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: すべてのバッジを手に入れろ! Let's Get all the Badges!) is the fifth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: すべてのバッジを手に入れろ! Let's Get all the Badges!) is the fifth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\nRed's Clefairy is revealed to know .\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nFalkner\nBugsy\n\n===Pokémon===\n( )\n( )\n( )\n(Falkner's)\n( )\n\n \n \n\nit:PMHGSS05",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: すべてのバッジを手に入れろ! Let's Get all the Badges!) is the fifth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Red's Clefairy is revealed to know ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Falkner\nBugsy"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Falkner's)\n( )\n\n \n \n\nit:PMHGSS05"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMHGSS05",
+    "pageType": "chapter",
+    "searchableText": "PMHGSS05\nCategory:Pocket Monsters HGSS chapters\n(Japanese: すべてのバッジを手に入れろ! Let's Get all the Badges!) is the fifth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 328,
+    "sectionCount": 4
+  }
+}

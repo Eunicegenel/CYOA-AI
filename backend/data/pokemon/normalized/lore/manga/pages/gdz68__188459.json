@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GDZ68",
+    "slug": "gdz68",
+    "pageId": 188459,
+    "revisionId": 4526755
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz68__188459.json",
+    "revisionTimestamp": "2026-04-09T15:06:16Z",
+    "fetchedAt": "2026-05-14T15:20:04.811Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 海の守り神（前編） Guardian Deity of the Sea (Part One)) is the 68th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 海の守り神（前編） Guardian Deity of the Sea (Part One)) is the 68th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nTrainer\n\n====Pokémon debuts====\n\n(Trainer's)\n\n==Characters==\n===Humans===\nShu\nTrainer\n\n===Pokémon===\n( )\n(Shu's)\n(Trainer's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 海の守り神（前編） Guardian Deity of the Sea (Part One)) is the 68th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Trainer"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Trainer's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nTrainer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Trainer's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ68",
+    "pageType": "chapter",
+    "searchableText": "GDZ68\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 海の守り神（前編） Guardian Deity of the Sea (Part One)) is the 68th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 306,
+    "sectionCount": 5
+  }
+}

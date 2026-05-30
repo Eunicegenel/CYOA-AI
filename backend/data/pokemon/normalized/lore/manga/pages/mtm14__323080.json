@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "MTM14",
+    "slug": "mtm14",
+    "pageId": 323080,
+    "revisionId": 4169509
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mezastar: Aim to Be a Tag Master! chapters",
+    "sourceFileName": "mtm14__323080.json",
+    "revisionTimestamp": "2024-10-28T02:54:57Z",
+    "fetchedAt": "2026-05-14T15:27:20.977Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the 14th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the September 2023 issue of CoroCoro Ichiban!, released on July 21, 2023. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on November 27, 2023.",
+  "plainText": "This is the 14th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the September 2023 issue of CoroCoro Ichiban!, released on July 21, 2023. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on November 27, 2023.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\n\n==Characters==\n===Humans===\nKira Hoshio\nSuguru Tsukino\nDouji Futakata\nMirai\nMirai's fans\n\n==Tags featured==\n \nPalkia (CoroCoro Ichiban! September 2023)\nDialga (Pokémon Fan Issue 84)\nMr. Rime (4-1-019)\nCharizard (4-1-007)\nMiraidon (4-1-002)\n\n==References==\n \n\n==External links==\nChapter 14 on Weekly CoroCoro Comics",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the 14th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the September 2023 issue of CoroCoro Ichiban!, released on July 21, 2023. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on November 27, 2023."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kira Hoshio\nSuguru Tsukino\nDouji Futakata\nMirai\nMirai's fans"
+    },
+    {
+      "heading": "Tags featured",
+      "level": 2,
+      "text": "Palkia (CoroCoro Ichiban! September 2023)\nDialga (Pokémon Fan Issue 84)\nMr. Rime (4-1-019)\nCharizard (4-1-007)\nMiraidon (4-1-002)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 14 on Weekly CoroCoro Comics"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MTM14",
+    "pageType": "chapter",
+    "searchableText": "MTM14\nCategory:Pokémon Mezastar: Aim to Be a Tag Master! chapters\nThis is the 14th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the September 2023 issue of CoroCoro Ichiban!, released on July 21, 2023. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on November 27, 2023.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Tags featured",
+      "External links"
+    ],
+    "characterCount": 646,
+    "sectionCount": 4
+  }
+}

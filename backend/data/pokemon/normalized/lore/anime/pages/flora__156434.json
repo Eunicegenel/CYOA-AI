@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Flora",
+    "slug": "flora",
+    "pageId": 156434,
+    "revisionId": 4357159
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:League Conference participants",
+    "sourceFileName": "flora__156434.json",
+    "revisionTimestamp": "2025-08-12T14:48:43Z",
+    "fetchedAt": "2026-05-14T14:19:14.132Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "----\n \nFlora (Japanese: フローラ Flora) is a minor recurring character in .",
+  "plainText": "----\n \nFlora (Japanese: フローラ Flora) is a minor recurring character in .\n\n==History==\nFlora debuted in The Clubsplosion Begins! as a participant in the Clubsplosion tournament. Her opponent was , who she lost against, eliminating her in the first round.\n\nIn Curtain Up, Unova League!, Flora competed in the Vertress Conference. In Mission: Defeat Your Rival!, she appeared on the screen showing the match-ups for the second round of the Conference, meaning she had made it through the first round. In Lost at the League!, she appeared on the screen showing the match-ups for the last sixteen, meaning that she had made it through the second and third rounds.\n\nIn Strong Strategy Steals the Show!, she battled Virgil and lost, eliminating her from the Vertress Conference and placing her in the Top 16. In A Unova League Evolution!, she appeared during the closing ceremonies of the Vertress Conference.\n\n==Pokémon==\n \n\n \n\nFlora has at least one other Pokémon, as she participated in the third round of the Vertress Conference which is a 3 on 3 battle\n\n==Achievements==\n===Badges obtained===\nThis listing is of the Badges Flora has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)\n\n===Pokémon League===\nFlora has competed in the following Pokémon League Conferences:\nVertress Conference - Top 16 (Strong Strategy Steals the Show!)\n\n===Pokémon competitions===\nFlora has competed in the following :\nClubsplosion - Top 16 (The Clubsplosion Begins!)\n\n==Voice actors==\n \n\n==Related articles==\n \n \n\n \n \n\nes:Flora (Unova/Teselia)\nfr:Flora (Unys)\nit:Flora\nzh:芙蘿拉",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \nFlora (Japanese: フローラ Flora) is a minor recurring character in ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Flora debuted in The Clubsplosion Begins! as a participant in the Clubsplosion tournament. Her opponent was , who she lost against, eliminating her in the first round.\n\nIn Curtain Up, Unova League!, Flora competed in the Vertress Conference. In Mission: Defeat Your Rival!, she appeared on the screen showing the match-ups for the second round of the Conference, meaning she had made it through the first round. In Lost at the League!, she appeared on the screen showing the match-ups for the last sixteen, meaning that she had made it through the second and third rounds.\n\nIn Strong Strategy Steals the Show!, she battled Virgil and lost, eliminating her from the Vertress Conference and placing her in the Top 16. In A Unova League Evolution!, she appeared during the closing ceremonies of the Vertress Conference."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "Flora has at least one other Pokémon, as she participated in the third round of the Vertress Conference which is a 3 on 3 battle"
+    },
+    {
+      "heading": "Badges obtained",
+      "level": 3,
+      "text": "This listing is of the Badges Flora has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)"
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Flora has competed in the following Pokémon League Conferences:\nVertress Conference - Top 16 (Strong Strategy Steals the Show!)"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 3,
+      "text": "Flora has competed in the following :\nClubsplosion - Top 16 (The Clubsplosion Begins!)"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Flora (Unova/Teselia)\nfr:Flora (Unys)\nit:Flora\nzh:芙蘿拉"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Flora",
+    "pageType": "general-anime-lore",
+    "searchableText": "Flora\nCategory:League Conference participants\n----\n \nFlora (Japanese: フローラ Flora) is a minor recurring character in .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Badges obtained",
+      "Pokémon League",
+      "Pokémon competitions",
+      "Related articles"
+    ],
+    "characterCount": 1592,
+    "sectionCount": 7
+  }
+}

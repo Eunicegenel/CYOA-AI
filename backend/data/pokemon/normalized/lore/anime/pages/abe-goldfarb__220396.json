@@ -1,0 +1,93 @@
+{
+  "identity": {
+    "title": "Abe Goldfarb",
+    "slug": "abe-goldfarb",
+    "pageId": 220396,
+    "revisionId": 4527345
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "abe-goldfarb__220396.json",
+    "revisionTimestamp": "2026-04-09T15:33:42Z",
+    "fetchedAt": "2026-05-14T13:58:05.285Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Abe Goldfarb is a voice actor for the English-language dub of . He is currently affiliated with Bohemian Talent Agency.",
+  "plainText": "Abe Goldfarb is a voice actor for the English-language dub of . He is currently affiliated with Bohemian Talent Agency.\n\n==Biography==\nGoldfarb is an American actor, writer, and voice actor who trained at the and has worked with such companies as the , Studio 42, and the . Goldfarb joined the in the middle of . His most prominent roles are Xerosic and .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nXerosic\n\n======Minor======\nFrank \nKalos League announcer\nFirefighter (XY111)\nGuard A (XY111)\nVillagers (XY119)\n's driver\nMale Passerby (SM007)\nCrowd (SM019)\nMale Spiky Hair Customer (SM072)\n\n=====Pokémon=====\n======Major======\nGladion's Type: Null and Silvally\nHoracio's Charjabug\nGoh's Boldore\n\n======Minor======\n\n(SM004)\n(SM008)\n(SM035)\nOrange (SM041)\nVest Boy (SM041)\n(SM080)\n\n==Other non-Pokémon roles==\nTiberius ( )\nJoey Mallone ( )\nLiam Stepford ( )\nGavin Catrelli (The Charnel House Trilogy)\nEdward \"Doc\" Dammers ( )\nReggie ( )\nCrispin Horatiobuilt ( )\nKane ( )\nZander, Mr. Keen ( )\nProfessor Wogglebug ( )\nRabbi Stone ( )\nMouse ( )\n\n==Trivia==\nGoldfarb is a member of Voices for Fosters alongside fellow Pokémon voice actresses Sarah Natochenny and Lisa Ortiz.\n\n==External links==\nFacebook\nTwitter\n\n==References==\n \n\n \n \n\n \n\nde:Abe Goldfarb\nit:Abe Goldfarb",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Abe Goldfarb is a voice actor for the English-language dub of . He is currently affiliated with Bohemian Talent Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Goldfarb is an American actor, writer, and voice actor who trained at the and has worked with such companies as the , Studio 42, and the . Goldfarb joined the in the middle of . His most prominent roles are Xerosic and ."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Xerosic"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Frank \nKalos League announcer\nFirefighter (XY111)\nGuard A (XY111)\nVillagers (XY119)\n's driver\nMale Passerby (SM007)\nCrowd (SM019)\nMale Spiky Hair Customer (SM072)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Gladion's Type: Null and Silvally\nHoracio's Charjabug\nGoh's Boldore"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(SM004)\n(SM008)\n(SM035)\nOrange (SM041)\nVest Boy (SM041)\n(SM080)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Tiberius ( )\nJoey Mallone ( )\nLiam Stepford ( )\nGavin Catrelli (The Charnel House Trilogy)\nEdward \"Doc\" Dammers ( )\nReggie ( )\nCrispin Horatiobuilt ( )\nKane ( )\nZander, Mr. Keen ( )\nProfessor Wogglebug ( )\nRabbi Stone ( )\nMouse ( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Goldfarb is a member of Voices for Fosters alongside fellow Pokémon voice actresses Sarah Natochenny and Lisa Ortiz."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Facebook\nTwitter"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "de:Abe Goldfarb\nit:Abe Goldfarb"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Abe Goldfarb",
+    "pageType": "general-anime-lore",
+    "searchableText": "Abe Goldfarb\nCategory:TPCi voice actors\nAbe Goldfarb is a voice actor for the English-language dub of . He is currently affiliated with Bohemian Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "Trivia",
+      "External links",
+      "References"
+    ],
+    "characterCount": 1300,
+    "sectionCount": 10
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Sebastian (Detective Pikachu)",
+    "slug": "sebastian-detective-pikachu",
+    "pageId": 237803,
+    "revisionId": 4381077
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu characters",
+    "sourceFileName": "sebastian-detective-pikachu__237803.json",
+    "revisionTimestamp": "2025-09-17T01:14:17Z",
+    "fetchedAt": "2026-05-14T14:48:51.546Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Sebastian is a side character from . He is a Pokémon Trainer who hosts an illegal fight club in Ryme City and is played by .",
+  "plainText": "Sebastian is a side character from . He is a Pokémon Trainer who hosts an illegal fight club in Ryme City and is played by .\n\n==History==\nAt some point prior to the events of the movie, Sebastian was interrogated by Harry Goodman and while searching for the source of the R chemical, which led to a battle during which Pikachu's shocks partially tore Sebastian's prized jacket and scarred his . \n\nDuring the movie, Harry's son Tim and Detective Pikachu encountered Sebastian while searching for clues relating to Harry's disappearance, but Sebastian prompted them to have a rematch. They agreed, but Sebastian drugged his Charizard with R, causing it to try and violently attack Detective Pikachu. It was stopped by Tim, who stepped on its tail. Sebastian stepped into the ring to try and stop him, but Tim tackled him to the ground to save him from Charizard's rampage. This released the large amounts of R stored in Sebastian's jacket, which sent all of the Pokémon in the stadium into a frenzy. Sebastian then admitted to Tim that he received the R substance from Dr. Ann Laurent, then escaped amidst the chaos.\n\n==Pokémon==\nThis listing is of Sebastian's known in the :\n\n===On hand===\n \n\n==Voice actors==\n \n\n==Trivia==\nSebastian's Brazilian voice actor, Fábio Lucindo, was the first voice of the character Ash Ketchum, from . He voiced him from S01 to S18.\nOmar Chaparro dubbed himself for the release of the movie in Latin America.\n\n==Related articles==\n \n \n\n \n \n \n\nes:Sebastian (PDP)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sebastian is a side character from . He is a Pokémon Trainer who hosts an illegal fight club in Ryme City and is played by ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "At some point prior to the events of the movie, Sebastian was interrogated by Harry Goodman and while searching for the source of the R chemical, which led to a battle during which Pikachu's shocks partially tore Sebastian's prized jacket and scarred his . \n\nDuring the movie, Harry's son Tim and Detective Pikachu encountered Sebastian while searching for clues relating to Harry's disappearance, but Sebastian prompted them to have a rematch. They agreed, but Sebastian drugged his Charizard with R, causing it to try and violently attack Detective Pikachu. It was stopped by Tim, who stepped on its tail. Sebastian stepped into the ring to try and stop him, but Tim tackled him to the ground to save him from Charizard's rampage. This released the large amounts of R stored in Sebastian's jacket, which sent all of the Pokémon in the stadium into a frenzy. Sebastian then admitted to Tim that he received the R substance from Dr. Ann Laurent, then escaped amidst the chaos."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Sebastian's known in the :"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Sebastian's Brazilian voice actor, Fábio Lucindo, was the first voice of the character Ash Ketchum, from . He voiced him from S01 to S18.\nOmar Chaparro dubbed himself for the release of the movie in Latin America."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Sebastian (PDP)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sebastian (Detective Pikachu)",
+    "pageType": "character",
+    "searchableText": "Sebastian (Detective Pikachu)\nCategory:Detective Pikachu characters\nSebastian is a side character from . He is a Pokémon Trainer who hosts an illegal fight club in Ryme City and is played by .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1489,
+    "sectionCount": 5
+  }
+}

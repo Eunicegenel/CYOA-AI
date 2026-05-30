@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Eddy Lee",
+    "slug": "eddy-lee",
+    "pageId": 231632,
+    "revisionId": 4323355
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "eddy-lee__231632.json",
+    "revisionTimestamp": "2025-06-24T03:28:39Z",
+    "fetchedAt": "2026-05-14T14:14:56.344Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Eddy Lee is a voice actor for the English-language dub of .",
+  "plainText": "Eddy Lee is a voice actor for the English-language dub of .\n\n==Biography==\nLee was born sometime on March 21 and became a voice actor as an adult. He mostly worked on the English-dubbed versions of Japanese anime series. He joined the during , where he voiced 's older brother .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n\n=====Pokémon=====\n\n====I Choose You! trilogy====\nToren\n\n==Other non-Pokémon roles==\nRobert ( )\nKuzzey Buskirk ( )\nMoon Shadow ( )\nTheodore Hamilton/Soulburner ( )\nAriel ( )\nAkihiro ( )\n\n==External links==\nTwitter\nAnime News Network\nInstagram\n\n \n \n\nit:Eddy Lee",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Eddy Lee is a voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Lee was born sometime on March 21 and became a voice actor as an adult. He mostly worked on the English-dubbed versions of Japanese anime series. He joined the during , where he voiced 's older brother ."
+    },
+    {
+      "heading": "I Choose You! trilogy",
+      "level": 4,
+      "text": "Toren"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Robert ( )\nKuzzey Buskirk ( )\nMoon Shadow ( )\nTheodore Hamilton/Soulburner ( )\nAriel ( )\nAkihiro ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nAnime News Network\nInstagram\n\n \n \n\nit:Eddy Lee"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Eddy Lee",
+    "pageType": "general-anime-lore",
+    "searchableText": "Eddy Lee\nCategory:TPCi voice actors\nEddy Lee is a voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "I Choose You! trilogy",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 601,
+    "sectionCount": 5
+  }
+}

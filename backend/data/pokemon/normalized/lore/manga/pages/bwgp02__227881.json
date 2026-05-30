@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "BWGP02",
+    "slug": "bwgp02",
+    "pageId": 227881,
+    "revisionId": 4527064
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW: Good Partners chapters",
+    "sourceFileName": "bwgp02__227881.json",
+    "revisionTimestamp": "2026-04-09T15:17:50Z",
+    "fetchedAt": "2026-05-14T15:14:45.623Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: カラクサタウンのどろぼうポケモン Town's Thief Pokémon) is the second chapter of the Pocket Monsters BW: Good Partners manga.",
+  "plainText": "(Japanese: カラクサタウンのどろぼうポケモン Town's Thief Pokémon) is the second chapter of the Pocket Monsters BW: Good Partners manga.\n\n==Plot==\n \n\n==Major events==\nTakurō and Mashiro meet with Professor Juniper at Accumula Town.\nTakurō bag is stolen by a .\nTakurō is revealed to own a .\nTakurō befriends Purrloin after saving it and himself from falling off a cliff.\nTakurō Purrloin.\n\n===Debuts===\n====Humans====\nProfessor Juniper\n\n====Pokémon debuts====\n(Takurō's)\n(Takurō's)\n\n==Characters==\n===Humans===\nTakurō\nMashiro\nProfessor Juniper\nTownspeople (flashback)\n's former Trainer (flashback)\n\n===Pokémon===\n(Takurō's; newly caught)\n(Takurō's)\n\n \n \n \n\nja:ポケットモンスターBWGP 第2話\nzh:GP02",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: カラクサタウンのどろぼうポケモン Town's Thief Pokémon) is the second chapter of the Pocket Monsters BW: Good Partners manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Takurō and Mashiro meet with Professor Juniper at Accumula Town.\nTakurō bag is stolen by a .\nTakurō is revealed to own a .\nTakurō befriends Purrloin after saving it and himself from falling off a cliff.\nTakurō Purrloin."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Professor Juniper"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Takurō's)\n(Takurō's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Takurō\nMashiro\nProfessor Juniper\nTownspeople (flashback)\n's former Trainer (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Takurō's; newly caught)\n(Takurō's)\n\n \n \n \n\nja:ポケットモンスターBWGP 第2話\nzh:GP02"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "BWGP02",
+    "pageType": "chapter",
+    "searchableText": "BWGP02\nCategory:Pocket Monsters BW: Good Partners chapters\n(Japanese: カラクサタウンのどろぼうポケモン Town's Thief Pokémon) is the second chapter of the Pocket Monsters BW: Good Partners manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 666,
+    "sectionCount": 6
+  }
+}

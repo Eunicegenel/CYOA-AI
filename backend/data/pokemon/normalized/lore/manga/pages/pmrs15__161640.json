@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMRS15",
+    "slug": "pmrs15",
+    "pageId": 161640,
+    "revisionId": 4264618
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs15__161640.json",
+    "revisionTimestamp": "2025-03-23T18:28:09Z",
+    "fetchedAt": "2026-05-14T15:33:17.184Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy Goes Home! (Japanese: ピッピ、故郷へ帰る Clefairy, Goes Home) is the fifteenth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Clefairy Goes Home! (Japanese: ピッピ、故郷へ帰る Clefairy, Goes Home) is the fifteenth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nDr. Takeda\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nDr. Takeda\n\n===Pokémon===\n( )\n( )\n( )\n(multiple)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy Goes Home! (Japanese: ピッピ、故郷へ帰る Clefairy, Goes Home) is the fifteenth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Dr. Takeda"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Dr. Takeda"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(multiple)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS15",
+    "pageType": "chapter",
+    "searchableText": "PMRS15\nCategory:Pokémon Ruby-Sapphire chapters\nClefairy Goes Home! (Japanese: ピッピ、故郷へ帰る Clefairy, Goes Home) is the fifteenth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 295,
+    "sectionCount": 4
+  }
+}

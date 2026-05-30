@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Yō Kitazawa",
+    "slug": "yo-kitazawa",
+    "pageId": 232582,
+    "revisionId": 4323509
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "yo-kitazawa__232582.json",
+    "revisionTimestamp": "2025-06-24T03:31:28Z",
+    "fetchedAt": "2026-05-14T14:59:50.178Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yō Kitazawa (Japanese: 北沢洋 Kitazawa Yō) is a Japanese voice actor for .",
+  "plainText": "Yō Kitazawa (Japanese: 北沢洋 Kitazawa Yō) is a Japanese voice actor for .\n\n==Biography==\nKitazawa was born on July 9, 1963, in , . He became a voice actor as an adult and mostly got minor roles. He provided the voice of Ninja Village elder , during of the . Kitazawa is currently affiliated with Ken Production.\n\n==Pokémon roles==\n===Animation===\n==== ====\n\nDan\nShell Sage\n\n==Other non-Pokémon roles==\nKira Kongo ( )\nRim-eyes ( )\nForrest ( )\nNuno ( )\nHigari Maijima/Power Loader ( (ep. 35))\nHans Dietrich von Seeckt ( )\n\n==External links==\nKen Production profile\n\n \n\n \n\nit:Yō Kitazawa",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yō Kitazawa (Japanese: 北沢洋 Kitazawa Yō) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kitazawa was born on July 9, 1963, in , . He became a voice actor as an adult and mostly got minor roles. He provided the voice of Ninja Village elder , during of the . Kitazawa is currently affiliated with Ken Production."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Dan\nShell Sage"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Kira Kongo ( )\nRim-eyes ( )\nForrest ( )\nNuno ( )\nHigari Maijima/Power Loader ( (ep. 35))\nHans Dietrich von Seeckt ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Ken Production profile\n\n \n\n \n\nit:Yō Kitazawa"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yō Kitazawa",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yō Kitazawa\nCategory:Japanese voice actors\nYō Kitazawa (Japanese: 北沢洋 Kitazawa Yō) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 582,
+    "sectionCount": 5
+  }
+}

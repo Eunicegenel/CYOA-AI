@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pokémon Adventures characters",
+    "slug": "list-of-pokemon-adventures-characters",
+    "pageId": 56768,
+    "revisionId": 4541190
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "list-of-pokemon-adventures-characters__56768.json",
+    "revisionTimestamp": "2026-04-30T00:35:22Z",
+    "fetchedAt": "2026-05-14T15:24:37.034Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The following is a list of characters who appear in Pokémon Adventures.",
+  "plainText": "The following is a list of characters who appear in Pokémon Adventures.\n\n==Main characters (Pokédex holders)==\n \n\n==Gym Leader==\n===Kanto===\n \n\n===Johto===\n \n\n===Hoenn===\n \n\n===Sinnoh===\n \n\n===Unova===\n \n\n===Kalos===\n \n\n===Galar===\n \n\n===Paldea===\n \n\n==Trial Captains and Island Kahunas==\n===Captains===\n \n\n===Kahunas===\n \n\n==Elite Four and Champions==\n===Kanto===\n \n\n===Johto===\n \n\n===Hoenn===\n \n\n===Sinnoh===\n \n\n===Unova===\n \n\n===Kalos===\n \n\n=== Alola ===\n \n===Galar===\n \n\n===Paldea===\n \n\n==Frontier Brains==\n===Hoenn===\n \n\n===Sinnoh and Johto===\n \n\n==Villains==\n===Team Rocket===\n \n\n===Kanto Elite Four===\n \n\n===Neo Team Rocket===\n \n\n===Team Magma===\n \n\n=== Team Aqua===\n \n\n===Guile Hideout===\n \n\n===Team Galactic===\n \n\n===Team Plasma ===\n \n\n=== Team Flare===\n \n\n===Team Skull===\n \n\n===Aether Foundation===\n \n\n=== Team Yell ===\n \n===Macro Cosmos===\n \n\n===Sordward and Shielbert===\n \n\n===Team Star===\n \n\n==Professors==\n \n\n==Faculty members in Uva Academy==\n \n\n==Other characters==\n===Red, Green & Blue===\n \n\n===Yellow===\n \n\n=== Gold, Silver & Crystal===\n \n\n===Ruby & Sapphire===\n \n\n===FireRed & LeafGreen===\n \n\n===Emerald===\n \n\n===Diamond & Pearl===\n \n\n===Platinum===\n \n\n===HeartGold & SoulSilver===\n \n\n===Black & White===\n \n\n===Black 2 & White 2===\n \n\n===X & Y===\n \n\n===Omega Ruby & Alpha Sapphire===\n \n\n===Sun, Moon, Ultra Sun & Ultra Moon===\n \n\n===Sword & Shield===\n \n\n===Scarlet & Violet===\n \n\n== Pokémon Ranger the Comic ==\n\n===Double Mission===\n \n\n===Shadows of Almia===\n \n==Related articles==\nList of Pokémon\n\n \n \n\n \n \n\nit:Elenco dei personaggi di Pokémon Adventures\nzh:特别篇人物列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of characters who appear in Pokémon Adventures."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "List of Pokémon\n\n \n \n\n \n \n\nit:Elenco dei personaggi di Pokémon Adventures\nzh:特别篇人物列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon Adventures characters",
+    "pageType": "character",
+    "searchableText": "List of Pokémon Adventures characters\nCategory:Pokémon Adventures characters\nThe following is a list of characters who appear in Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 1586,
+    "sectionCount": 2
+  }
+}

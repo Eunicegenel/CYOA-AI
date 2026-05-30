@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volume 1 (Tentōmusi Comics Special)",
+    "slug": "pokemon-quiz-puzzle-land-pikachu-is-a-famous-detective-volume-1-tentomusi-comics-special",
+    "pageId": 175759,
+    "revisionId": 4232724
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volumes",
+    "sourceFileName": "pokemon-quiz-puzzle-land-pikachu-is-a-famous-detective-volume-1-tentomusi-comics-special__175759.json",
+    "revisionTimestamp": "2025-02-02T01:38:05Z",
+    "fetchedAt": "2026-05-14T15:37:13.316Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga under the Tentōmusi Comics Special label. It is composed by Hiroshi Takase and illustrated by Yumiko Sudo.",
+  "plainText": "Volume 1 is the first volume of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga under the Tentōmusi Comics Special label. It is composed by Hiroshi Takase and illustrated by Yumiko Sudo.\n\n==Publications==\n \n \n\n==Chapters==\n \n\n==Trivia==\nEven though , , , , and appear on the cover, no Generation IV Pokémon appear in the chapters contained in this volume.\n\n \n \n \n\n \n\nit:Pokémon Quiz Puzzle Land Pikachu Wa Mei Tantei volume 1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga under the Tentōmusi Comics Special label. It is composed by Hiroshi Takase and illustrated by Yumiko Sudo."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Even though , , , , and appear on the cover, no Generation IV Pokémon appear in the chapters contained in this volume.\n\n \n \n \n\n \n\nit:Pokémon Quiz Puzzle Land Pikachu Wa Mei Tantei volume 1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volume 1 (Tentōmusi Comics Special)",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volume 1 (Tentōmusi Comics Special)\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volumes\nVolume 1 is the first volume of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga under the Tentōmusi Comics Special label. It is composed by Hiroshi Takase and illustrated by Yumiko Sudo.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 443,
+    "sectionCount": 2
+  }
+}

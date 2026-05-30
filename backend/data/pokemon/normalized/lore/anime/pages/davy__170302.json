@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Davy",
+    "slug": "davy",
+    "pageId": 170302,
+    "revisionId": 4143917
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "davy__170302.json",
+    "revisionTimestamp": "2024-10-12T01:16:43Z",
+    "fetchedAt": "2026-05-14T14:11:21.134Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Davy (Japanese: デビー Davey) is a recurring character in . His main appearance was in Team Eevee and the Pokémon Rescue Squad!. He is the older brother of Virgil and the son of Jeff, as well as a rescue worker.",
+  "plainText": "Davy (Japanese: デビー Davey) is a recurring character in . His main appearance was in Team Eevee and the Pokémon Rescue Squad!. He is the older brother of Virgil and the son of Jeff, as well as a rescue worker.\n\n==History==\nDavy was first seen flying on a gray helicopter after the emergency alarm beeped, regarding a crisis with . At first, he did not want Virgil to go with him as he thought that Virgil would mess things up. During the crisis, he was able to rescue the men who were trapped inside the frozen building that was blocked off by Cryogonal's . He had the men leave the building for their own safety and found out that one of them was trapped inside the elevator. While Davy was inside investigating, he ended up getting trapped inside the building himself, which was once again blocked off by Cryogonal's Ice Beam. While inside, he noticed a Cryogonal trapped inside the pipes and used his Darmanitan to free it. With the Cryogonal free, Davy was able to reunite it with the other Cryogonal. With everything back to normal, he along with Virgil, and returned home. He said his farewells to Ash and his friends with Virgil hoping that they could see them in the Pokémon League.\n\nDavy briefly appeared in the following episode, flying Virgil to the Vertress Conference. During arrival, he wished Virgil good luck in the competition and reminded him that he represented the Pokémon Rescue Squad. He reappeared in A Unova League Evolution!, picking Virgil up from Vertress City after he had won the Vertress Conference.\n\n==Character==\nDavy, as an older brother of Virgil, appears to care about him as seen when he helped out Virgil, and to escape the 's clutches during the crisis.\n\n==Pokémon==\n===On hand===\n \n\n \n\n \n\n===Used===\n \n\n===In the ranch===\n \n\n==Voice actors==\n \n\n \n \n \n \n\nes:Davey\nfr:Florian (Unys)\nit:Davy\nja:デビー",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Davy (Japanese: デビー Davey) is a recurring character in . His main appearance was in Team Eevee and the Pokémon Rescue Squad!. He is the older brother of Virgil and the son of Jeff, as well as a rescue worker."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Davy was first seen flying on a gray helicopter after the emergency alarm beeped, regarding a crisis with . At first, he did not want Virgil to go with him as he thought that Virgil would mess things up. During the crisis, he was able to rescue the men who were trapped inside the frozen building that was blocked off by Cryogonal's . He had the men leave the building for their own safety and found out that one of them was trapped inside the elevator. While Davy was inside investigating, he ended up getting trapped inside the building himself, which was once again blocked off by Cryogonal's Ice Beam. While inside, he noticed a Cryogonal trapped inside the pipes and used his Darmanitan to free it. With the Cryogonal free, Davy was able to reunite it with the other Cryogonal. With everything back to normal, he along with Virgil, and returned home. He said his farewells to Ash and his friends with Virgil hoping that they could see them in the Pokémon League.\n\nDavy briefly appeared in the following episode, flying Virgil to the Vertress Conference. During arrival, he wished Virgil good luck in the competition and reminded him that he represented the Pokémon Rescue Squad. He reappeared in A Unova League Evolution!, picking Virgil up from Vertress City after he had won the Vertress Conference."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Davy, as an older brother of Virgil, appears to care about him as seen when he helped out Virgil, and to escape the 's clutches during the crisis."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Davey\nfr:Florian (Unys)\nit:Davy\nja:デビー"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Davy",
+    "pageType": "character",
+    "searchableText": "Davy\nCategory:Animation characters\nDavy (Japanese: デビー Davey) is a recurring character in . His main appearance was in Team Eevee and the Pokémon Rescue Squad!. He is the older brother of Virgil and the son of Jeff, as well as a rescue worker.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Voice actors"
+    ],
+    "characterCount": 1833,
+    "sectionCount": 4
+  }
+}

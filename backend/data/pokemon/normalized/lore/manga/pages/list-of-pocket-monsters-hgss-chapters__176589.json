@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pocket Monsters HGSS chapters",
+    "slug": "list-of-pocket-monsters-hgss-chapters",
+    "pageId": 176589,
+    "revisionId": 4130614
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS chapters",
+    "sourceFileName": "list-of-pocket-monsters-hgss-chapters__176589.json",
+    "revisionTimestamp": "2024-09-29T03:49:17Z",
+    "fetchedAt": "2026-05-14T15:24:35.787Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The following is a list of chapters from the manga created by 穴久保幸作 Kosaku Anakubo. Altogether, there are 23 chapters.",
+  "plainText": "The following is a list of chapters from the manga created by 穴久保幸作 Kosaku Anakubo. Altogether, there are 23 chapters.\n\n== ==\n \n \n\n== ==\n \n\n \n\n \n \n\nit:Elenco dei capitoli di Pocket Monsters HGSS\nzh:宝可梦欢乐祭 心金・魂银篇回数列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of chapters from the manga created by 穴久保幸作 Kosaku Anakubo. Altogether, there are 23 chapters."
+    },
+    {
+      "heading": "",
+      "level": 2,
+      "text": "it:Elenco dei capitoli di Pocket Monsters HGSS\nzh:宝可梦欢乐祭 心金・魂银篇回数列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pocket Monsters HGSS chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Pocket Monsters HGSS chapters\nCategory:Pocket Monsters HGSS chapters\nThe following is a list of chapters from the manga created by 穴久保幸作 Kosaku Anakubo. Altogether, there are 23 chapters.",
+    "sectionHeadings": [
+      "Lead",
+      ""
+    ],
+    "characterCount": 215,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Ash & Pikachu volume 2",
+    "slug": "ash-and-pikachu-volume-2",
+    "pageId": 88523,
+    "revisionId": 4527466
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu volumes",
+    "sourceFileName": "ash-and-pikachu-volume-2__88523.json",
+    "revisionTimestamp": "2026-04-09T15:39:17Z",
+    "fetchedAt": "2026-05-14T15:12:58.176Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 2 is the second of six volumes of the Ash & Pikachu manga authored and illustrated by Takashi Teshirogi.",
+  "plainText": "Volume 2 is the second of six volumes of the Ash & Pikachu manga authored and illustrated by Takashi Teshirogi.\n\n==Publications==\n \n \n \n \n\n==Chapters==\nChapter 7: Let's Save The Lugia!\nChapter 8: Catch The Wobbuffet!!\nChapter 9: Searching For The Color Of Miracles\nChapter 10: The Grand Rhydon Plan.\nChapter 11: Do Your Best Bulbasaur!!\nChapter 12: The Tyrogue's Thoughts",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second of six volumes of the Ash & Pikachu manga authored and illustrated by Takashi Teshirogi."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 7: Let's Save The Lugia!\nChapter 8: Catch The Wobbuffet!!\nChapter 9: Searching For The Color Of Miracles\nChapter 10: The Grand Rhydon Plan.\nChapter 11: Do Your Best Bulbasaur!!\nChapter 12: The Tyrogue's Thoughts"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ash & Pikachu volume 2",
+    "pageType": "general-manga-lore",
+    "searchableText": "Ash & Pikachu volume 2\nCategory:Ash & Pikachu volumes\nVolume 2 is the second of six volumes of the Ash & Pikachu manga authored and illustrated by Takashi Teshirogi.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 371,
+    "sectionCount": 2
+  }
+}

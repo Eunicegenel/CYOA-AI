@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW16",
+    "slug": "pmbw16",
+    "pageId": 171702,
+    "revisionId": 4528652
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw16__171702.json",
+    "revisionTimestamp": "2026-04-09T16:32:56Z",
+    "fetchedAt": "2026-05-14T15:31:53.433Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 大金持ちになっちゃった！？ I'm Rich!?) is the sixteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 大金持ちになっちゃった！？ I'm Rich!?) is the sixteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 大金持ちになっちゃった！？ I'm Rich!?) is the sixteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW16",
+    "pageType": "chapter",
+    "searchableText": "PMBW16\nCategory:Pocket Monsters BW chapters\n(Japanese: 大金持ちになっちゃった！？ I'm Rich!?) is the sixteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 231,
+    "sectionCount": 2
+  }
+}

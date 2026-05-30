@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Team Electric Princess",
+    "slug": "team-electric-princess",
+    "pageId": 225503,
+    "revisionId": 4143426
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "team-electric-princess__225503.json",
+    "revisionTimestamp": "2024-10-11T20:00:49Z",
+    "fetchedAt": "2026-05-14T14:53:19.611Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Electric Princess team (Japanese: エレキプリンセス Electric Princess) are minor characters who appeared in Pokémon the Series: Sun & Moon.",
+  "plainText": "The Electric Princess team (Japanese: エレキプリンセス Electric Princess) are minor characters who appeared in Pokémon the Series: Sun & Moon.\n\n==History==\nThey first appeared in Mounting an Electrifying Charge!, as a group of girls who entered the Charjabug race with a belonging to one of them. They raced against , , and , who had entered with Sophocles's Charjabug; and , who disguised as a Charjabug. They managed to do very well during the race and went head to head with the Red Comet team and the Sophocles Lab team. However, during the last section, which involved an icy underground, the team's Charjabug slipped and nearly crashed into Sophocles's Charjabug. Ash jumped in the way and took the hit, causing their racing car to break. With this, the Electric Princess team was eliminated from the race, but they were still rewarded third place by default.\n\nOne of the girls reappeared in A High-Speed Awakening!. She was one of the competitors in the Vikavolt race, using her evolved , but ended up losing.\n\n==Pokémon==\nThis listing is of the Electric Princess team's known in :\n \n \n\n==Pokémon competitions==\nTeam Electric Princess has competed in the following :\nCharjabug race Koko Cup - Third (Mounting an Electrifying Charge!)\nVikavolt race Fini Cup - Unknown (A High-Speed Awakening!; one of the members from Team Electric Princess participated)\n\n==Voice actors==\n \n\n==In other languages==\n \n \n\n \n \n\nes:Equipo Princesa Eléctrica\nit:Squadra Principessa Elettrica\nzh:电力公主队",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Electric Princess team (Japanese: エレキプリンセス Electric Princess) are minor characters who appeared in Pokémon the Series: Sun & Moon."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "They first appeared in Mounting an Electrifying Charge!, as a group of girls who entered the Charjabug race with a belonging to one of them. They raced against , , and , who had entered with Sophocles's Charjabug; and , who disguised as a Charjabug. They managed to do very well during the race and went head to head with the Red Comet team and the Sophocles Lab team. However, during the last section, which involved an icy underground, the team's Charjabug slipped and nearly crashed into Sophocles's Charjabug. Ash jumped in the way and took the hit, causing their racing car to break. With this, the Electric Princess team was eliminated from the race, but they were still rewarded third place by default.\n\nOne of the girls reappeared in A High-Speed Awakening!. She was one of the competitors in the Vikavolt race, using her evolved , but ended up losing."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of the Electric Princess team's known in :"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Team Electric Princess has competed in the following :\nCharjabug race Koko Cup - Third (Mounting an Electrifying Charge!)\nVikavolt race Fini Cup - Unknown (A High-Speed Awakening!; one of the members from Team Electric Princess participated)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Equipo Princesa Eléctrica\nit:Squadra Principessa Elettrica\nzh:电力公主队"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Team Electric Princess",
+    "pageType": "character",
+    "searchableText": "Team Electric Princess\nCategory:Animation characters\nThe Electric Princess team (Japanese: エレキプリンセス Electric Princess) are minor characters who appeared in Pokémon the Series: Sun & Moon.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Pokémon competitions",
+      "In other languages"
+    ],
+    "characterCount": 1477,
+    "sectionCount": 5
+  }
+}

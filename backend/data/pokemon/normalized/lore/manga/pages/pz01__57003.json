@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "PZ01",
+    "slug": "pz01",
+    "pageId": 57003,
+    "revisionId": 4079797
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Zensho chapters",
+    "sourceFileName": "pz01__57003.json",
+    "revisionTimestamp": "2024-08-12T13:24:47Z",
+    "fetchedAt": "2026-05-14T15:46:52.867Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: プロローグマサラタウン Prologue: Town) is the prologue chapter of the Pokémon Zensho manga.",
+  "plainText": "(Japanese: プロローグマサラタウン Prologue: Town) is the prologue chapter of the Pokémon Zensho manga.\n\n==Plot==\nWhile searching around for his first Pokémon, is attacked by a flock of . Professor Oak and his intervene, burning one of the Pidgey and scaring the rest away.\n\nProf. Oak takes Satoshi to his lab, where Oak's anxious grandson and Satoshi's rival waits. Oak shows Satoshi three s, and tells him to choose one of three first partner Pokémon: , , or Charmander. Satoshi chooses the which had saved him earlier, so Shigeru chooses Squirtle and Oak keeps the .\n\nShigeru challenges Satoshi to a battle. Charmander attacks, but it's ineffective against Shigeru's Squirtle. Squirtle shoots water out of its mouth while Charmander dodges. Then Satoshi orders Charmander to which instantly wins the battle. While Satoshi cheers his first victory, Prof. Oak gives Shigeru and Satoshi Pokédexes, and explains to them what the Pokédex does.\n\n==Major events==\nstarts his Pokémon journey with his first partner Pokémon, .\n\n===Debuts===\n====Humans====\n\nProfessor Oak\n\nSatoshi's mom\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\nProfessor Oak\n\nSatoshi's mom (flashback)\n\n===Pokémon===\n( ; new)\n( 's; new)\n(first partner Pokémon)\n\n(fantasy)\n(fantasy)\n(fantasy)\n\n \n\n==In other languages==\n \n\n \n \n \n\nes:PMZ01\nit:PZ01\nzh:漫画版 宝可梦全书 起点",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: プロローグマサラタウン Prologue: Town) is the prologue chapter of the Pokémon Zensho manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "While searching around for his first Pokémon, is attacked by a flock of . Professor Oak and his intervene, burning one of the Pidgey and scaring the rest away.\n\nProf. Oak takes Satoshi to his lab, where Oak's anxious grandson and Satoshi's rival waits. Oak shows Satoshi three s, and tells him to choose one of three first partner Pokémon: , , or Charmander. Satoshi chooses the which had saved him earlier, so Shigeru chooses Squirtle and Oak keeps the .\n\nShigeru challenges Satoshi to a battle. Charmander attacks, but it's ineffective against Shigeru's Squirtle. Squirtle shoots water out of its mouth while Charmander dodges. Then Satoshi orders Charmander to which instantly wins the battle. While Satoshi cheers his first victory, Prof. Oak gives Shigeru and Satoshi Pokédexes, and explains to them what the Pokédex does."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "starts his Pokémon journey with his first partner Pokémon, ."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Professor Oak\n\nSatoshi's mom"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Oak\n\nSatoshi's mom (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; new)\n( 's; new)\n(first partner Pokémon)\n\n(fantasy)\n(fantasy)\n(fantasy)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:PMZ01\nit:PZ01\nzh:漫画版 宝可梦全书 起点"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PZ01",
+    "pageType": "chapter",
+    "searchableText": "PZ01\nCategory:Pokémon Zensho chapters\n(Japanese: プロローグマサラタウン Prologue: Town) is the prologue chapter of the Pokémon Zensho manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1326,
+    "sectionCount": 8
+  }
+}

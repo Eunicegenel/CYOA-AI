@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Rowena",
+    "slug": "rowena",
+    "pageId": 107026,
+    "revisionId": 4515023
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "rowena__107026.json",
+    "revisionTimestamp": "2026-03-23T03:25:37Z",
+    "fetchedAt": "2026-05-14T14:47:06.904Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Rowena (Japanese: リオカ Rioka) is a major character who appeared in Zoroark: Master of Illusions.",
+  "plainText": "Rowena (Japanese: リオカ Rioka) is a major character who appeared in Zoroark: Master of Illusions.\n\n==History==\nAt the beginning of the film, Rowena appears as Grings Kodai's secretary. Though intelligent, she is timid and easily frightened; during a demonstration of 's abilities, she needs to be reassured by her boss that Zoroark's attacks are only s and reminded that she possesses an \"Illusion Canceler\" device like Kodai himself and Goone do.\n\nShe later accompanies Kodai and Goone into Crown City to hunt for . Kodai assigns the two of them to thwart the foreseen interference of and while he examines the city's Pokémon Baccer World Cup countdown clocks in his search for the Time Ripple.\n\n \nWhen the duo finds Ash and his friends, Goone leaves Rowena to deal with them while he returns to aid Kodai. It is here that she reveals her true identity: she removes her glasses, lets down her hair, and reveals that she is actually a reporter and colleague of Karl, working undercover to reveal Kodai's secrets. With her help, the group is able to hack into Kodai's computer network and determine the last countdown clock he has not yet checked, allowing them to race to its location in an attempt to stop him. She is later seen at the Pokémon Baccer Stadium with Karl watching as Ash faces off against Kodai. Kodai reveals that he knew Rowena would be a traitor all along, thanks to a vision of the future that he had.\n\nAlong with Karl, she later publishes the story exposing Kodai's scheme and his imprisonment. She is last seen sailing off to Unova with Karl, , and Zoroark accompanying her.\n\n==Artwork==\n \n\n==Voice actors==\n \n\n==Names==\n \n\n==Related articles==\n \n \n\n \n\nde:Roswitha\nes:Rowena\nfr:Miranda (film 13)\nit:Rowena\nja:リオカ\nzh:莉歐卡",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Rowena (Japanese: リオカ Rioka) is a major character who appeared in Zoroark: Master of Illusions."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "At the beginning of the film, Rowena appears as Grings Kodai's secretary. Though intelligent, she is timid and easily frightened; during a demonstration of 's abilities, she needs to be reassured by her boss that Zoroark's attacks are only s and reminded that she possesses an \"Illusion Canceler\" device like Kodai himself and Goone do.\n\nShe later accompanies Kodai and Goone into Crown City to hunt for . Kodai assigns the two of them to thwart the foreseen interference of and while he examines the city's Pokémon Baccer World Cup countdown clocks in his search for the Time Ripple.\n\n \nWhen the duo finds Ash and his friends, Goone leaves Rowena to deal with them while he returns to aid Kodai. It is here that she reveals her true identity: she removes her glasses, lets down her hair, and reveals that she is actually a reporter and colleague of Karl, working undercover to reveal Kodai's secrets. With her help, the group is able to hack into Kodai's computer network and determine the last countdown clock he has not yet checked, allowing them to race to its location in an attempt to stop him. She is later seen at the Pokémon Baccer Stadium with Karl watching as Ash faces off against Kodai. Kodai reveals that he knew Rowena would be a traitor all along, thanks to a vision of the future that he had.\n\nAlong with Karl, she later publishes the story exposing Kodai's scheme and his imprisonment. She is last seen sailing off to Unova with Karl, , and Zoroark accompanying her."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Roswitha\nes:Rowena\nfr:Miranda (film 13)\nit:Rowena\nja:リオカ\nzh:莉歐卡"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rowena",
+    "pageType": "movie",
+    "searchableText": "Rowena\nCategory:Movie characters\nRowena (Japanese: リオカ Rioka) is a major character who appeared in Zoroark: Master of Illusions.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1738,
+    "sectionCount": 3
+  }
+}

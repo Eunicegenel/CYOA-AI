@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Hitomi Kikuchi",
+    "slug": "hitomi-kikuchi",
+    "pageId": 221549,
+    "revisionId": 4527722
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "hitomi-kikuchi__221549.json",
+    "revisionTimestamp": "2026-04-09T15:50:59Z",
+    "fetchedAt": "2026-05-14T14:22:33.673Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Hitomi Kikuchi (Japanese: 菊地瞳 Kikuchi Hitomi) is a Japanese voice actress for .",
+  "plainText": "Hitomi Kikuchi (Japanese: 菊地瞳 Kikuchi Hitomi) is a Japanese voice actress for . \n\n==Biography==\nKikuchi was born on June 13 1987 in , , and became a voice actress as an adult. Her biggest role in the is , one of , during . Kikuchi is currently affiliated with the talent group Aksent.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\n\n======Minor======\nShop Clerk (SM006)\n\n=====Pokémon=====\n(SM091)\nOne of \n\n==Other non-Pokémon roles==\nMichiru \"Micchan\" Takeda ( )\nLydie LeGrand ( )\nChinatsu ( )\nRei Suzuki ( )\n\n==External links==\nTwitter\nAnime News Network\nAksent profile\n\n \n \n \n\nit:Hitomi Kikuchi\nja:菊地瞳\nzh:菊地瞳",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hitomi Kikuchi (Japanese: 菊地瞳 Kikuchi Hitomi) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kikuchi was born on June 13 1987 in , , and became a voice actress as an adult. Her biggest role in the is , one of , during . Kikuchi is currently affiliated with the talent group Aksent."
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Shop Clerk (SM006)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(SM091)\nOne of"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Michiru \"Micchan\" Takeda ( )\nLydie LeGrand ( )\nChinatsu ( )\nRei Suzuki ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nAnime News Network\nAksent profile\n\n \n \n \n\nit:Hitomi Kikuchi\nja:菊地瞳\nzh:菊地瞳"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hitomi Kikuchi",
+    "pageType": "general-anime-lore",
+    "searchableText": "Hitomi Kikuchi\nCategory:Japanese voice actors\nHitomi Kikuchi (Japanese: 菊地瞳 Kikuchi Hitomi) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Minor",
+      "Pokémon",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 643,
+    "sectionCount": 6
+  }
+}

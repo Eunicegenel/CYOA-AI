@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Control Cube",
+    "slug": "control-cube",
+    "pageId": 320433,
+    "revisionId": 4379121
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns",
+    "sourceFileName": "control-cube__320433.json",
+    "revisionTimestamp": "2025-09-14T14:01:34Z",
+    "fetchedAt": "2026-05-14T14:10:22.437Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "A Control Cube (Japanese: コントロールキューブ Control Cube) is an item present in Detective Pikachu Returns that was created by Unitas in order to control Pokémon behavior.",
+  "plainText": "A Control Cube (Japanese: コントロールキューブ Control Cube) is an item present in Detective Pikachu Returns that was created by Unitas in order to control Pokémon behavior.\n\n==Overview==\n \nControl Cubes were commissioned by mayor Howard Myers as part of the Unitas project in an effort to improve harmony and coexistence between people and Pokémon. However, under the direction of Charles Merloch, the cubes were developed and used as items to control Pokémon and deprive them of their free will.\n\nA Control Cube functions when placed on a Pokémon's back, and an external controller can be used to activate the cube. An activated cube will glow purple, and the Pokémon will be in complete control by the user of the device. These cubes were used in multiple crimes in Detective Pikachu Returns, including the theft of the Aurora Drop, framing of innocent Pokémon by the Pokémon Protection Bureau, and the detainment of multiple Pokémon in the Pokémon Unity Lab. \n\nWhen deactivated, the Pokémon will have no memory of the events that occurred while the Control Cube was active. Pokémon affected by these cubes are negatively experienced from its use, including extreme fatigue and irregular fluctuations in brain waves. \n\nThe Control Cubes were planned to be announced by Howard Myers as Friendship Cubes at the end of Pokémon Friendship Week, before Tim, Pikachu, and Rachel convince the mayor of the cubes' actual intentions.\n \n\n==Trivia==\nEarlier prototypes of the Control Cube were not effective on Pokémon.\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Control Cube (Japanese: コントロールキューブ Control Cube) is an item present in Detective Pikachu Returns that was created by Unitas in order to control Pokémon behavior."
+    },
+    {
+      "heading": "Overview",
+      "level": 2,
+      "text": "Control Cubes were commissioned by mayor Howard Myers as part of the Unitas project in an effort to improve harmony and coexistence between people and Pokémon. However, under the direction of Charles Merloch, the cubes were developed and used as items to control Pokémon and deprive them of their free will.\n\nA Control Cube functions when placed on a Pokémon's back, and an external controller can be used to activate the cube. An activated cube will glow purple, and the Pokémon will be in complete control by the user of the device. These cubes were used in multiple crimes in Detective Pikachu Returns, including the theft of the Aurora Drop, framing of innocent Pokémon by the Pokémon Protection Bureau, and the detainment of multiple Pokémon in the Pokémon Unity Lab. \n\nWhen deactivated, the Pokémon will have no memory of the events that occurred while the Control Cube was active. Pokémon affected by these cubes are negatively experienced from its use, including extreme fatigue and irregular fluctuations in brain waves. \n\nThe Control Cubes were planned to be announced by Howard Myers as Friendship Cubes at the end of Pokémon Friendship Week, before Tim, Pikachu, and Rachel convince the mayor of the cubes' actual intentions."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Earlier prototypes of the Control Cube were not effective on Pokémon."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Control Cube",
+    "pageType": "general-anime-lore",
+    "searchableText": "Control Cube\nCategory:Detective Pikachu Returns\nA Control Cube (Japanese: コントロールキューブ Control Cube) is an item present in Detective Pikachu Returns that was created by Unitas in order to control Pokémon behavior.",
+    "sectionHeadings": [
+      "Lead",
+      "Overview",
+      "Trivia"
+    ],
+    "characterCount": 1525,
+    "sectionCount": 3
+  }
+}

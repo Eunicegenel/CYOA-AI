@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP38",
+    "slug": "ppp38",
+    "pageId": 6618,
+    "revisionId": 4530403
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp38__6618.json",
+    "revisionTimestamp": "2026-04-11T16:21:25Z",
+    "fetchedAt": "2026-05-14T15:39:00.354Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Swimming with the Qwilfish (Japanese: 海の友だちハリーセン Friend from the Sea, ) is the 38th chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Swimming with the Qwilfish (Japanese: 海の友だちハリーセン Friend from the Sea, ) is the 38th chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHazel\nCoconut\n===Pokémon=== \n( )\n( )\n( )\n( )\n( )\n\n==Trivia==\n===Errors===\nIn VIZ Media's English translation, the cover for this chapter was labelled with the title of the previous chapter, The Mysterious Beauty.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Swimming with the Qwilfish (Japanese: 海の友だちハリーセン Friend from the Sea, ) is the 38th chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nCoconut\n===Pokémon=== \n( )\n( )\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Errors",
+      "level": 3,
+      "text": "In VIZ Media's English translation, the cover for this chapter was labelled with the title of the previous chapter, The Mysterious Beauty."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP38",
+    "pageType": "chapter",
+    "searchableText": "PPP38\nCategory:Magical Pokémon Journey chapters\nSwimming with the Qwilfish (Japanese: 海の友だちハリーセン Friend from the Sea, ) is the 38th chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Errors"
+    ],
+    "characterCount": 437,
+    "sectionCount": 3
+  }
+}

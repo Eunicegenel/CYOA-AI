@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMBW37",
+    "slug": "pmbw37",
+    "pageId": 182834,
+    "revisionId": 4528599
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw37__182834.json",
+    "revisionTimestamp": "2026-04-09T16:29:46Z",
+    "fetchedAt": "2026-05-14T15:32:06.716Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 遠足のおやつを増やせ！！ More Snack Time on our Trip!!) is the thirty-seventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 遠足のおやつを増やせ！！ More Snack Time on our Trip!!) is the thirty-seventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Juniper\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 遠足のおやつを増やせ！！ More Snack Time on our Trip!!) is the thirty-seventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Juniper"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW37",
+    "pageType": "chapter",
+    "searchableText": "PMBW37\nCategory:Pocket Monsters BW chapters\n(Japanese: 遠足のおやつを増やせ！！ More Snack Time on our Trip!!) is the thirty-seventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 273,
+    "sectionCount": 3
+  }
+}

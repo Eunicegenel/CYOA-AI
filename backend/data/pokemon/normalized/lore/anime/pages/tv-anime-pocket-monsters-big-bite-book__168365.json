@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "TV Anime Pocket Monsters Big Bite Book",
+    "slug": "tv-anime-pocket-monsters-big-bite-book",
+    "pageId": 168365,
+    "revisionId": 4201700
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon animated series",
+    "sourceFileName": "tv-anime-pocket-monsters-big-bite-book__168365.json",
+    "revisionTimestamp": "2024-12-12T12:32:03Z",
+    "fetchedAt": "2026-05-14T14:55:44.442Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: テレビアニメ版・ポケットモンスター まるかじり ブック TV Anime Pocket Monsters Big Bite Book) is a series of books published in Japan by Kids Pocket Books. There are at least 8 books in the series.\n\nPocket Monsters Big Bite Books contain episode summaries, character profiles, design sketches, and other facts relating to as it aired in Japan.",
+  "plainText": "(Japanese: テレビアニメ版・ポケットモンスター まるかじり ブック TV Anime Pocket Monsters Big Bite Book) is a series of books published in Japan by Kids Pocket Books. There are at least 8 books in the series.\n\nPocket Monsters Big Bite Books contain episode summaries, character profiles, design sketches, and other facts relating to as it aired in Japan.\n\n==Trivia==\nWhile EP038's episode summary is skipped in Big Bite volume 4, the missing episode is acknowledged by the numbering of the other summaries (it skips from 37 to 39). EP038 was given the same treatment in volume ten of Pocket Monsters Film Comic.\n \n \n \n \n\n \n \n\nit:Televi Anime Ban Pocket Monsters maru kajiri book\nzh:宝可梦完全解说手册",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: テレビアニメ版・ポケットモンスター まるかじり ブック TV Anime Pocket Monsters Big Bite Book) is a series of books published in Japan by Kids Pocket Books. There are at least 8 books in the series.\n\nPocket Monsters Big Bite Books contain episode summaries, character profiles, design sketches, and other facts relating to as it aired in Japan."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "While EP038's episode summary is skipped in Big Bite volume 4, the missing episode is acknowledged by the numbering of the other summaries (it skips from 37 to 39). EP038 was given the same treatment in volume ten of Pocket Monsters Film Comic.\n \n \n \n \n\n \n \n\nit:Televi Anime Ban Pocket Monsters maru kajiri book\nzh:宝可梦完全解说手册"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TV Anime Pocket Monsters Big Bite Book",
+    "pageType": "pokemon-related",
+    "searchableText": "TV Anime Pocket Monsters Big Bite Book\nCategory:Pokémon animated series\n(Japanese: テレビアニメ版・ポケットモンスター まるかじり ブック TV Anime Pocket Monsters Big Bite Book) is a series of books published in Japan by Kids Pocket Books. There are at least 8 books in the series.\n\nPocket Monsters Big Bite Books contain episode summaries, character profiles, design sketches, and other facts relating to as it aired in Japan.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 665,
+    "sectionCount": 2
+  }
+}

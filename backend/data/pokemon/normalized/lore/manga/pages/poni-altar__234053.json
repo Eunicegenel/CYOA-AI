@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Poni Altar",
+    "slug": "poni-altar",
+    "pageId": 234053,
+    "revisionId": 4229069
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures",
+    "sourceFileName": "poni-altar__234053.json",
+    "revisionTimestamp": "2025-01-26T22:11:18Z",
+    "fetchedAt": "2026-05-14T15:38:35.423Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Poni Altar (Japanese: ポニのさいだん Poni Altar) is a location in the Pokémon Adventures . It serves as a replacement for the Altars of the Sunne and Moone, incorporating elements from both locations into one.",
+  "plainText": "Poni Altar (Japanese: ポニのさいだん Poni Altar) is a location in the Pokémon Adventures . It serves as a replacement for the Altars of the Sunne and Moone, incorporating elements from both locations into one.\n\n==History==\nThe Poni Altar first appeared in Play the Melody That Echoes in the Altar. The four guardian deities of Alola took and there and gave them a Sun Flute and a Moon Flute, respectively. With the melody of both flutes, Sun and Moon caused the Altar to release a bright light that caused Nebby and another to evolve into the Legendary Pokémon and , respectively.\n\nShortly afterward, Moon, Gladion, Hapu, and Anabel fought against a group of Ultra Beasts that had arrived in Alola. During the clash, a large Ultra Wormhole opened up with a 's hand emerging from it. Necrozma grabbed Solgaleo, taking control of its body. The possessed Solgaleo captured Sun with its tail and dived into the wormhole while Moon and Nebby chased after them.\n\nIn Adventure in the Dark Dimension, the aforementioned wormhole was revealed to still be open six months later. In Arrival at the Scientific Megalopolis, Lusamine was seen at the altar, receiving 100 Beast Balls from disguised as Colress in preparation for her plan to Necrozma \n\nIn Darkness!! The Mysterious Claws of Necrozma!, Phyco arrived at the Poni Altar via Ultra Warp Ride and met Lusamine. She subsequently demonstrated to Phyco how to catch a Pokémon by catching the he had used for the Ultra Warp Ride, before asking him to take her to Naganadel's home before they would head to Ultra Megalopolis.\n\n==Related articles==\nAltar of the Sunne\nAltar of the Moone\n\n \n \n\n \n \n \n\nde:Podium von Poni\nit:Altare di Poni",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Poni Altar (Japanese: ポニのさいだん Poni Altar) is a location in the Pokémon Adventures . It serves as a replacement for the Altars of the Sunne and Moone, incorporating elements from both locations into one."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "The Poni Altar first appeared in Play the Melody That Echoes in the Altar. The four guardian deities of Alola took and there and gave them a Sun Flute and a Moon Flute, respectively. With the melody of both flutes, Sun and Moon caused the Altar to release a bright light that caused Nebby and another to evolve into the Legendary Pokémon and , respectively.\n\nShortly afterward, Moon, Gladion, Hapu, and Anabel fought against a group of Ultra Beasts that had arrived in Alola. During the clash, a large Ultra Wormhole opened up with a 's hand emerging from it. Necrozma grabbed Solgaleo, taking control of its body. The possessed Solgaleo captured Sun with its tail and dived into the wormhole while Moon and Nebby chased after them.\n\nIn Adventure in the Dark Dimension, the aforementioned wormhole was revealed to still be open six months later. In Arrival at the Scientific Megalopolis, Lusamine was seen at the altar, receiving 100 Beast Balls from disguised as Colress in preparation for her plan to Necrozma \n\nIn Darkness!! The Mysterious Claws of Necrozma!, Phyco arrived at the Poni Altar via Ultra Warp Ride and met Lusamine. She subsequently demonstrated to Phyco how to catch a Pokémon by catching the he had used for the Ultra Warp Ride, before asking him to take her to Naganadel's home before they would head to Ultra Megalopolis."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Altar of the Sunne\nAltar of the Moone\n\n \n \n\n \n \n \n\nde:Podium von Poni\nit:Altare di Poni"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Poni Altar",
+    "pageType": "pokemon-related",
+    "searchableText": "Poni Altar\nCategory:Pokémon Adventures\nPoni Altar (Japanese: ポニのさいだん Poni Altar) is a location in the Pokémon Adventures . It serves as a replacement for the Altars of the Sunne and Moone, incorporating elements from both locations into one.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1668,
+    "sectionCount": 3
+  }
+}

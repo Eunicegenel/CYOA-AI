@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mr. Garrison",
+    "slug": "mr-garrison",
+    "pageId": 140781,
+    "revisionId": 4095106
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "mr-garrison__140781.json",
+    "revisionTimestamp": "2024-09-01T00:15:31Z",
+    "fetchedAt": "2026-05-14T14:38:18.313Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mr. Garrison (Japanese: タトル Tuttle) is a character of the day who appeared in Gotta Catch A Roggenrola!. \n\nHe was hired to fix the water pipes in a Pokémon Center. After finding nothing wrong with the plumbing, he suspected that the cause of the water shortage was due the spring that provides water for the Pokémon Center. When Garrison explained that the spring is in a cave that is home to many , , , and volunteered to investigate with him, having seen a earlier. When they arrived at the cave, they realized that the stream that ran from the spring had been completely dried up because of a rock-slide that had occurred, later to be revealed to be 's doing.\n\nAfter escaping from the cave, Mr. Garrison stated that Roggenrola can find the others through sound waves. Once all of the Roggenrola were rescued from Team Rocket, Garrison returned to the Pokémon Center and contacted the water company about the event. He explained that they would take care of the cave-ins and restore the Roggenrola's home, as well as the spring.",
+  "plainText": "Mr. Garrison (Japanese: タトル Tuttle) is a character of the day who appeared in Gotta Catch A Roggenrola!. \n\nHe was hired to fix the water pipes in a Pokémon Center. After finding nothing wrong with the plumbing, he suspected that the cause of the water shortage was due the spring that provides water for the Pokémon Center. When Garrison explained that the spring is in a cave that is home to many , , , and volunteered to investigate with him, having seen a earlier. When they arrived at the cave, they realized that the stream that ran from the spring had been completely dried up because of a rock-slide that had occurred, later to be revealed to be 's doing.\n\nAfter escaping from the cave, Mr. Garrison stated that Roggenrola can find the others through sound waves. Once all of the Roggenrola were rescued from Team Rocket, Garrison returned to the Pokémon Center and contacted the water company about the event. He explained that they would take care of the cave-ins and restore the Roggenrola's home, as well as the spring.\n\n==Voice actors==\n \n \n \n\n \n\n \n \n \n\nes:Señor Garrison\nit:Mr. Garrison\nja:タトル",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mr. Garrison (Japanese: タトル Tuttle) is a character of the day who appeared in Gotta Catch A Roggenrola!. \n\nHe was hired to fix the water pipes in a Pokémon Center. After finding nothing wrong with the plumbing, he suspected that the cause of the water shortage was due the spring that provides water for the Pokémon Center. When Garrison explained that the spring is in a cave that is home to many , , , and volunteered to investigate with him, having seen a earlier. When they arrived at the cave, they realized that the stream that ran from the spring had been completely dried up because of a rock-slide that had occurred, later to be revealed to be 's doing.\n\nAfter escaping from the cave, Mr. Garrison stated that Roggenrola can find the others through sound waves. Once all of the Roggenrola were rescued from Team Rocket, Garrison returned to the Pokémon Center and contacted the water company about the event. He explained that they would take care of the cave-ins and restore the Roggenrola's home, as well as the spring."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Señor Garrison\nit:Mr. Garrison\nja:タトル"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mr. Garrison",
+    "pageType": "character",
+    "searchableText": "Mr. Garrison\nCategory:Unova characters of the day\nMr. Garrison (Japanese: タトル Tuttle) is a character of the day who appeared in Gotta Catch A Roggenrola!. \n\nHe was hired to fix the water pipes in a Pokémon Center. After finding nothing wrong with the plumbing, he suspected that the cause of the water shortage was due the spring that provides water for the Pokémon Center. When Garrison explained that the spring is in a cave that is home to many , , , and volunteered to investigate with him, having seen a earlier. When they arrived at the cave, they realized that the stream that ran from the spring had been completely dried up because of a rock-slide that had occurred, later to be revealed to be 's doing.\n\nAfter escaping from the cave, Mr. Garrison stated that Roggenrola can find the others through sound waves. Once all of the Roggenrola were rescued from Team Rocket, Garrison returned to the Pokémon Center and contacted the water company about the event. He explained that they would take care of the cave-ins and restore the Roggenrola's home, as well as the spring.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 1106,
+    "sectionCount": 2
+  }
+}

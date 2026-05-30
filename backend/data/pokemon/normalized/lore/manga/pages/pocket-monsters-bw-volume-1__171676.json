@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters BW volume 1",
+    "slug": "pocket-monsters-bw-volume-1",
+    "pageId": 171676,
+    "revisionId": 4526675
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW volumes",
+    "sourceFileName": "pocket-monsters-bw-volume-1__171676.json",
+    "revisionTimestamp": "2026-04-09T15:01:17Z",
+    "fetchedAt": "2026-05-14T15:34:09.027Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 1 is the first volume of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 1 is the first volume of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n\n==Chapters==\nA New Journey in the Unova Region!!\nPMBW02\nI Want to Talk to the Pokémon!\nShowtime of the Fighting Pokémon!?\nSearch for the Gym Leader's Weak Point!\nRoaring Around in the Marathon Tournament!\nClefairy's Stin~ky Friend\nI Want Our Luck to Im~prove\nDetective Clefairy's Stray Reasoning!?\nGet the Ancient Treasure...!?\nClefairy's Jet Coaster Battle\nInvited to the Abyssal Ruins\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "A New Journey in the Unova Region!!\nPMBW02\nI Want to Talk to the Pokémon!\nShowtime of the Fighting Pokémon!?\nSearch for the Gym Leader's Weak Point!\nRoaring Around in the Marathon Tournament!\nClefairy's Stin~ky Friend\nI Want Our Luck to Im~prove\nDetective Clefairy's Stray Reasoning!?\nGet the Ancient Treasure...!?\nClefairy's Jet Coaster Battle\nInvited to the Abyssal Ruins"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters BW volume 1",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters BW volume 1\nCategory:Pocket Monsters BW volumes\nVolume 1 is the first volume of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 506,
+    "sectionCount": 2
+  }
+}

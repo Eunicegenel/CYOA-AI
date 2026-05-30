@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Tiffany (AG152)",
+    "slug": "tiffany-ag152",
+    "pageId": 23760,
+    "revisionId": 4095149
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Battle Frontier characters of the day",
+    "sourceFileName": "tiffany-ag152__23760.json",
+    "revisionTimestamp": "2024-09-01T00:16:56Z",
+    "fetchedAt": "2026-05-14T14:54:27.761Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Tiffany (Japanese: アサギ Asagi) is a character of the day who appeared in On Olden Pond. She lives in Kanto by a popular fishing lake, and she owns a boathouse along with her grandmother, Galea.\n\nFor over a year, a appeared in the lake and frightened the Pokémon and fishermen away, wrecking Tiffany's livelihood. With the help of , , she discovered that the troublesome Crawdaunt belonged to Mr. Saridakis, a developer who hoped to turn the lake into Leisure Land, an amusement park and spa complex. Saridakis later abandoned his plans, much to Tiffany's relief, after a rescued him from drowning. The lake was soon restored to its crystal blue state by Dragonair and all of the Pokémon came back, allowing for it to thrive once more.",
+  "plainText": "Tiffany (Japanese: アサギ Asagi) is a character of the day who appeared in On Olden Pond. She lives in Kanto by a popular fishing lake, and she owns a boathouse along with her grandmother, Galea.\n\nFor over a year, a appeared in the lake and frightened the Pokémon and fishermen away, wrecking Tiffany's livelihood. With the help of , , she discovered that the troublesome Crawdaunt belonged to Mr. Saridakis, a developer who hoped to turn the lake into Leisure Land, an amusement park and spa complex. Saridakis later abandoned his plans, much to Tiffany's relief, after a rescued him from drowning. The lake was soon restored to its crystal blue state by Dragonair and all of the Pokémon came back, allowing for it to thrive once more.\n\n==Voice actresses==\n \n \n \n \n \n \n\nes:Tiffany (Kanto)\nit:Tiffany\nja:アサギ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tiffany (Japanese: アサギ Asagi) is a character of the day who appeared in On Olden Pond. She lives in Kanto by a popular fishing lake, and she owns a boathouse along with her grandmother, Galea.\n\nFor over a year, a appeared in the lake and frightened the Pokémon and fishermen away, wrecking Tiffany's livelihood. With the help of , , she discovered that the troublesome Crawdaunt belonged to Mr. Saridakis, a developer who hoped to turn the lake into Leisure Land, an amusement park and spa complex. Saridakis later abandoned his plans, much to Tiffany's relief, after a rescued him from drowning. The lake was soon restored to its crystal blue state by Dragonair and all of the Pokémon came back, allowing for it to thrive once more."
+    },
+    {
+      "heading": "Voice actresses",
+      "level": 2,
+      "text": "es:Tiffany (Kanto)\nit:Tiffany\nja:アサギ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tiffany (AG152)",
+    "pageType": "character",
+    "searchableText": "Tiffany (AG152)\nCategory:Battle Frontier characters of the day\nTiffany (Japanese: アサギ Asagi) is a character of the day who appeared in On Olden Pond. She lives in Kanto by a popular fishing lake, and she owns a boathouse along with her grandmother, Galea.\n\nFor over a year, a appeared in the lake and frightened the Pokémon and fishermen away, wrecking Tiffany's livelihood. With the help of , , she discovered that the troublesome Crawdaunt belonged to Mr. Saridakis, a developer who hoped to turn the lake into Leisure Land, an amusement park and spa complex. Saridakis later abandoned his plans, much to Tiffany's relief, after a rescued him from drowning. The lake was soon restored to its crystal blue state by Dragonair and all of the Pokémon came back, allowing for it to thrive once more.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actresses"
+    ],
+    "characterCount": 804,
+    "sectionCount": 2
+  }
+}

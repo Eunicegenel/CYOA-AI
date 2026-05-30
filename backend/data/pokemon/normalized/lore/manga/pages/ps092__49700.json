@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "PS092",
+    "slug": "ps092",
+    "pageId": 49700,
+    "revisionId": 4243090
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps092__49700.json",
+    "revisionTimestamp": "2025-02-19T15:35:34Z",
+    "fetchedAt": "2026-05-14T15:40:56.248Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Who Gives a Hoothoot? (Japanese: VS ホーホー VS ), titled Hoothoot Time in the Chuang Yi translation, is the 92nd chapter of the Pokémon Adventures manga, and the second chapter of the .",
+  "plainText": "Who Gives a Hoothoot? (Japanese: VS ホーホー VS ), titled Hoothoot Time in the Chuang Yi translation, is the 92nd chapter of the Pokémon Adventures manga, and the second chapter of the .\n\n==Plot==\n \nJoey explains to that his backpack, which was stolen by a , contains important documents which he needs to deliver to Professor Elm at 's request. Wanting to meet Professor Oak, Gold decides to tag along.\n\nOn the way through downtown New Bark Town, they encounter a that is scamming Trainers by challenging them to capture all his Pokémon in less than a minute. Instead of keeping honest track of the time, however, his just cries whenever a Trainer is about to win. Gold, unable to resist a challenge, decides to try anyways. Gold starts the challenge and calls out the Bird Keeper when he tries to get his Hoothoot to end the game early.\n\nThe crowd dissipates, and Gold realizes his backpack is missing. Joey deduces that because Gold's backpack is filled with s just like his, the thief must have mistaken Gold's backpack for Joey's and taken it in error. Gold and Joey head for Professor Elm's lab in search of the thief.\n\nMeanwhile, a sneaks into Elm's lab, lurking in the shadows and hanging from the ceiling.\n\n==Major events==\n's Pokémon are stolen while trying to outsmart a scammer.\n\n \n \n\n===Debuts===\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\nProfessor Elm\nJoey\nDJ Mary\n\nTownspeople\n\n===Pokémon===\n(Aibo; 's)\n(Polibo; 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( )\n(Professor Elm's)\n(Joey's)\n( 's)\n( 's)\n\n==Trivia==\nThe VIZ Media title of this chapter comes from the saying \"who gives a hoot?\".\n\n===Errors===\nIn the translation, \"Pokémon\" is pluralized as \"Pokémons\".\n\n==In other languages==\n \n \n \n \n\nde:VS. Hoothoot\nes:PMS092\nfr:Chapitre 92 (Pocket Monsters Special)\nit:LGA092\nzh:宝可梦特别篇 第92话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Who Gives a Hoothoot? (Japanese: VS ホーホー VS ), titled Hoothoot Time in the Chuang Yi translation, is the 92nd chapter of the Pokémon Adventures manga, and the second chapter of the ."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Joey explains to that his backpack, which was stolen by a , contains important documents which he needs to deliver to Professor Elm at 's request. Wanting to meet Professor Oak, Gold decides to tag along.\n\nOn the way through downtown New Bark Town, they encounter a that is scamming Trainers by challenging them to capture all his Pokémon in less than a minute. Instead of keeping honest track of the time, however, his just cries whenever a Trainer is about to win. Gold, unable to resist a challenge, decides to try anyways. Gold starts the challenge and calls out the Bird Keeper when he tries to get his Hoothoot to end the game early.\n\nThe crowd dissipates, and Gold realizes his backpack is missing. Joey deduces that because Gold's backpack is filled with s just like his, the thief must have mistaken Gold's backpack for Joey's and taken it in error. Gold and Joey head for Professor Elm's lab in search of the thief.\n\nMeanwhile, a sneaks into Elm's lab, lurking in the shadows and hanging from the ceiling."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "'s Pokémon are stolen while trying to outsmart a scammer."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Elm\nJoey\nDJ Mary\n\nTownspeople"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Aibo; 's)\n(Polibo; 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( )\n(Professor Elm's)\n(Joey's)\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The VIZ Media title of this chapter comes from the saying \"who gives a hoot?\"."
+    },
+    {
+      "heading": "Errors",
+      "level": 3,
+      "text": "In the translation, \"Pokémon\" is pluralized as \"Pokémons\"."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Hoothoot\nes:PMS092\nfr:Chapitre 92 (Pocket Monsters Special)\nit:LGA092\nzh:宝可梦特别篇 第92话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS092",
+    "pageType": "chapter",
+    "searchableText": "PS092\nCategory:Pokémon Adventures chapters\nWho Gives a Hoothoot? (Japanese: VS ホーホー VS ), titled Hoothoot Time in the Chuang Yi translation, is the 92nd chapter of the Pokémon Adventures manga, and the second chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia",
+      "Errors",
+      "In other languages"
+    ],
+    "characterCount": 1809,
+    "sectionCount": 9
+  }
+}

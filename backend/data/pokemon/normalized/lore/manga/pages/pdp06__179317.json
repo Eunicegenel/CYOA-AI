@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PDP06",
+    "slug": "pdp06",
+    "pageId": 179317,
+    "revisionId": 4131905
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp06__179317.json",
+    "revisionTimestamp": "2024-09-29T04:27:02Z",
+    "fetchedAt": "2026-05-14T15:29:39.147Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: パチリスをすくえ! Save Pachirisu!) is the sixth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: パチリスをすくえ! Save Pachirisu!) is the sixth chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\nAsh and Dawn find themselves up in the mountains as night falls. The two see a light in the distance and decide to head toward it, only to discover that a Pachirisu is the source of the light. Pachirisu is trapped within a robotic cage, and Ash calls out Turtwig to use on the cage. The leaves bounce off and the cage begins to grow up out of the ground. There are robotic legs attached as well! Pikachu uses , but the robotic tail on the machine cage grounds it from being electrocuted. Dawn realizes that the tail is preventing Thunderbolt from doing any damage, and orders Piplup to use on the tail. The tail comes lose and one Thunderbolt is enough to free Pachirisu from the cage. Grateful to the trainers, Pachirisu and the other Pachirisu in the area light the path down the mountain for Ash and Dawn. \n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n\n \n\n \n\nit:PDP06",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: パチリスをすくえ! Save Pachirisu!) is the sixth chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Ash and Dawn find themselves up in the mountains as night falls. The two see a light in the distance and decide to head toward it, only to discover that a Pachirisu is the source of the light. Pachirisu is trapped within a robotic cage, and Ash calls out Turtwig to use on the cage. The leaves bounce off and the cage begins to grow up out of the ground. There are robotic legs attached as well! Pikachu uses , but the robotic tail on the machine cage grounds it from being electrocuted. Dawn realizes that the tail is preventing Thunderbolt from doing any damage, and orders Piplup to use on the tail. The tail comes lose and one Thunderbolt is enough to free Pachirisu from the cage. Grateful to the trainers, Pachirisu and the other Pachirisu in the area light the path down the mountain for Ash and Dawn."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n \n\n \n\nit:PDP06"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP06",
+    "pageType": "chapter",
+    "searchableText": "PDP06\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: パチリスをすくえ! Save Pachirisu!) is the sixth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 1054,
+    "sectionCount": 4
+  }
+}

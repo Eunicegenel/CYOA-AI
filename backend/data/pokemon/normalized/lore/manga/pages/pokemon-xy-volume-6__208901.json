@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon XY volume 6",
+    "slug": "pokemon-xy-volume-6",
+    "pageId": 208901,
+    "revisionId": 4133081
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-xy-volume-6__208901.json",
+    "revisionTimestamp": "2024-09-29T05:31:44Z",
+    "fetchedAt": "2026-05-14T15:38:21.898Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 6 is the sixth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+  "plainText": "Volume 6 is the sixth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version. \n\n==Publications==\n \n \n\n==Chapters==\nAdventure 18: Gathering Klefki\nAdventure 19: Tying Trevenant\nAdventure 20: Changing Gengar\nAdventure 21: Surrounding Braixen\n\n \n==Party changes==\n===Additions===\nX's \"Garma\" in PS575.\n \n\n \n\nfr:Volume 6 (Pokémon X•Y)\nit:Pokémon XY volume 6",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 6 is the sixth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 18: Gathering Klefki\nAdventure 19: Tying Trevenant\nAdventure 20: Changing Gengar\nAdventure 21: Surrounding Braixen"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "X's \"Garma\" in PS575.\n \n\n \n\nfr:Volume 6 (Pokémon X•Y)\nit:Pokémon XY volume 6"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon XY volume 6",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon XY volume 6\nCategory:Pokémon Adventures volumes\nVolume 6 is the sixth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions"
+    ],
+    "characterCount": 631,
+    "sectionCount": 3
+  }
+}

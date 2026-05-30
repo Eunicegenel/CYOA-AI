@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "JNM16",
+    "slug": "jnm16",
+    "pageId": 260484,
+    "revisionId": 4528002
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm16__260484.json",
+    "revisionTimestamp": "2026-04-09T16:02:13Z",
+    "fetchedAt": "2026-05-14T15:22:50.288Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Healing the Healer! (Japanese: 伝説ゲット！？水の守護神スイクンを探せ！！ Catch the Legend!? Find the Guardian of Water - Suicune!!) is the sixteenth chapter of the manga. It is based on the animated series episode by the same name.",
+  "plainText": "Healing the Healer! (Japanese: 伝説ゲット！？水の守護神スイクンを探せ！！ Catch the Legend!? Find the Guardian of Water - Suicune!!) is the sixteenth chapter of the manga. It is based on the animated series episode by the same name.\n\n==Plot==\n \n\n==Major events==\nGoh a .\nGoh attempts to his Suicune, but it chooses to remain his Pokémon while the .\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nGoh\nOfficer Jenny\n\nBoss\n\n===Pokémon===\n( )\n( )\n( )\n( ; new)\n( ')\n( ')\n(Boss's)\n\n==Differences between the animated series and the manga==\nGoh's Raichu and are omitted. He is also never seen a .\nDespite all being present, their and are never seen.\nThe that befriended is omitted. \n\n \n \n \n\nde:Das Heilen des Heilers! (Pokémon Reisen)\nes:PV016\nit:JNM16",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Healing the Healer! (Japanese: 伝説ゲット！？水の守護神スイクンを探せ！！ Catch the Legend!? Find the Guardian of Water - Suicune!!) is the sixteenth chapter of the manga. It is based on the animated series episode by the same name."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Goh a .\nGoh attempts to his Suicune, but it chooses to remain his Pokémon while the ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nOfficer Jenny\n\nBoss"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( ; new)\n( ')\n( ')\n(Boss's)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "Goh's Raichu and are omitted. He is also never seen a .\nDespite all being present, their and are never seen.\nThe that befriended is omitted. \n\n \n \n \n\nde:Das Heilen des Heilers! (Pokémon Reisen)\nes:PV016\nit:JNM16"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM16",
+    "pageType": "chapter",
+    "searchableText": "JNM16\nCategory:Pokémon Journeys chapters\nHealing the Healer! (Japanese: 伝説ゲット！？水の守護神スイクンを探せ！！ Catch the Legend!? Find the Guardian of Water - Suicune!!) is the sixteenth chapter of the manga. It is based on the animated series episode by the same name.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 744,
+    "sectionCount": 5
+  }
+}

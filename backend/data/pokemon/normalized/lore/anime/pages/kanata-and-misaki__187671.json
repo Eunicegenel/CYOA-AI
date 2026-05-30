@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Kanata and Misaki",
+    "slug": "kanata-and-misaki",
+    "pageId": 187671,
+    "revisionId": 4191328
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "kanata-and-misaki__187671.json",
+    "revisionTimestamp": "2024-11-24T03:21:11Z",
+    "fetchedAt": "2026-05-14T14:28:27.957Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "(Japanese: カナタ Kanata) and (Japanese: ミサキ Misaki) are two minor characters who appeared in Kyurem VS. The Sword of Justice. They first appeared battling each other in the Roshan City Pokémon Center. Although Kanata put up a good fight, Misaki ended up being the victor.",
+  "plainText": "(Japanese: カナタ Kanata) and (Japanese: ミサキ Misaki) are two minor characters who appeared in Kyurem VS. The Sword of Justice. They first appeared battling each other in the Roshan City Pokémon Center. Although Kanata put up a good fight, Misaki ended up being the victor.\n\n==Pokémon==\n===Kanata===\n \n\n===Misaki===\n \n\n==Related articles==\n \n \n\n \n\nit:Kanata e Misaki",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: カナタ Kanata) and (Japanese: ミサキ Misaki) are two minor characters who appeared in Kyurem VS. The Sword of Justice. They first appeared battling each other in the Roshan City Pokémon Center. Although Kanata put up a good fight, Misaki ended up being the victor."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Kanata e Misaki"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kanata and Misaki",
+    "pageType": "movie",
+    "searchableText": "Kanata and Misaki\nCategory:Movie characters\n(Japanese: カナタ Kanata) and (Japanese: ミサキ Misaki) are two minor characters who appeared in Kyurem VS. The Sword of Justice. They first appeared battling each other in the Roshan City Pokémon Center. Although Kanata put up a good fight, Misaki ended up being the victor.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 362,
+    "sectionCount": 2
+  }
+}

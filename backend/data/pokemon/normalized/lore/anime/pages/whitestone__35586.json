@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Whitestone",
+    "slug": "whitestone",
+    "pageId": 35586,
+    "revisionId": 4459254
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "whitestone__35586.json",
+    "revisionTimestamp": "2025-12-29T21:51:28Z",
+    "fetchedAt": "2026-05-14T14:57:38.120Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Whitestone (Japanese: ホワイトタウン White Town) is an -exclusive town in Johto, located between Ecruteak City and Olivine City, which appeared in The Art of Pokémon.\n\nSurrounded by mountains and bordering a giant lake, Whitestone is known for its white walls, which are said to resemble marble. However, they are in fact readily painted white to maintain a unique character, a practice maintained by citizens for generations.\n\nMany of its buildings are terrace-style with wooden window shutters. It also has a church, which sits at the top of the hill Whitestone is built on. Whitestone is home to abstract artist Jack Pollockson and his trio of .",
+  "plainText": "Whitestone (Japanese: ホワイトタウン White Town) is an -exclusive town in Johto, located between Ecruteak City and Olivine City, which appeared in The Art of Pokémon.\n\nSurrounded by mountains and bordering a giant lake, Whitestone is known for its white walls, which are said to resemble marble. However, they are in fact readily painted white to maintain a unique character, a practice maintained by citizens for generations.\n\nMany of its buildings are terrace-style with wooden window shutters. It also has a church, which sits at the top of the hill Whitestone is built on. Whitestone is home to abstract artist Jack Pollockson and his trio of .\n \n==Pokémon seen in Whitestone==\n \n==Trivia==\nWhitestone shares a similarity in geography and architecture with Sootopolis City.\nThe settlement may draw inspiration from , a city renowned for its historic center, whose housing is coated in white lime.\n\n==In other languages==\n \n\n \n \n\n \n \n\nes:Piedra Blanca\nit:Pietrabianca\nzh:白色镇",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Whitestone (Japanese: ホワイトタウン White Town) is an -exclusive town in Johto, located between Ecruteak City and Olivine City, which appeared in The Art of Pokémon.\n\nSurrounded by mountains and bordering a giant lake, Whitestone is known for its white walls, which are said to resemble marble. However, they are in fact readily painted white to maintain a unique character, a practice maintained by citizens for generations.\n\nMany of its buildings are terrace-style with wooden window shutters. It also has a church, which sits at the top of the hill Whitestone is built on. Whitestone is home to abstract artist Jack Pollockson and his trio of ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Whitestone shares a similarity in geography and architecture with Sootopolis City.\nThe settlement may draw inspiration from , a city renowned for its historic center, whose housing is coated in white lime."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Piedra Blanca\nit:Pietrabianca\nzh:白色镇"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Whitestone",
+    "pageType": "location",
+    "searchableText": "Whitestone\nCategory:Animated series-exclusive locations\nWhitestone (Japanese: ホワイトタウン White Town) is an -exclusive town in Johto, located between Ecruteak City and Olivine City, which appeared in The Art of Pokémon.\n\nSurrounded by mountains and bordering a giant lake, Whitestone is known for its white walls, which are said to resemble marble. However, they are in fact readily painted white to maintain a unique character, a practice maintained by citizens for generations.\n\nMany of its buildings are terrace-style with wooden window shutters. It also has a church, which sits at the top of the hill Whitestone is built on. Whitestone is home to abstract artist Jack Pollockson and his trio of .",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 970,
+    "sectionCount": 3
+  }
+}

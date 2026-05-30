@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PASV19",
+    "slug": "pasv19",
+    "pageId": 352639,
+    "revisionId": 4511053
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasv19__352639.json",
+    "revisionTimestamp": "2026-03-17T19:49:28Z",
+    "fetchedAt": "2026-05-14T15:29:18.941Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 幻覚!しるしの木立ち!! Illusion! !!) is the 19th chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS シルシュルー VS ).",
+  "plainText": "(Japanese: 幻覚!しるしの木立ち!! Illusion! !!) is the 19th chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS シルシュルー VS ).\n\n==Plot==\n \n\n==Major events==\naccepts Cassiopeia's request to take down Team Star's Navi Squad's Base.\nScarlet, disguised as Violet, arrives with to take down the Navi Squad's Base.\nViolet and head to the Treasure Eatery to prepare for their battle against the Quaking Earth .\nLarry requests a battle with Violet.\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nLarry\nPenny\nClavell\nRaifort\nDendra\nTyme\nMela (flashback)\nAtticus\nOrtega (silhouette) \nEri (silhouette) \ns\ns (x2)\n\n===Pokémon===\n( )\n(Rotom Phone; Old Roto; 's)\n( 's)\n(Rotom Phone; 's)\n( 's)\n(Penny's)\n(Penny's)\n(Rotom Phone; Clavell's)\n(Dendra's)\n(Team Star's; multiple)\n( 's; debut)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's; debut)\n(Rotom Phone; 's; multiple)\n(x2)\n \n \n \n\nde:Kapitel 19 (Karmesin und Purpur Arc)\nes:PMSSV19\nfr:Chapitre 19 (Pocket Monsters Special Écarlate et Violet)\nzh:宝可梦特别篇 朱·紫篇 第18话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 幻覚!しるしの木立ち!! Illusion! !!) is the 19th chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS シルシュルー VS )."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "accepts Cassiopeia's request to take down Team Star's Navi Squad's Base.\nScarlet, disguised as Violet, arrives with to take down the Navi Squad's Base.\nViolet and head to the Treasure Eatery to prepare for their battle against the Quaking Earth .\nLarry requests a battle with Violet."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Larry\nPenny\nClavell\nRaifort\nDendra\nTyme\nMela (flashback)\nAtticus\nOrtega (silhouette) \nEri (silhouette) \ns\ns (x2)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Rotom Phone; Old Roto; 's)\n( 's)\n(Rotom Phone; 's)\n( 's)\n(Penny's)\n(Penny's)\n(Rotom Phone; Clavell's)\n(Dendra's)\n(Team Star's; multiple)\n( 's; debut)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's; debut)\n(Rotom Phone; 's; multiple)\n(x2)\n \n \n \n\nde:Kapitel 19 (Karmesin und Purpur Arc)\nes:PMSSV19\nfr:Chapitre 19 (Pocket Monsters Special Écarlate et Violet)\nzh:宝可梦特别篇 朱·紫篇 第18话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASV19",
+    "pageType": "chapter",
+    "searchableText": "PASV19\nCategory:Pokémon Adventures chapters\n(Japanese: 幻覚!しるしの木立ち!! Illusion! !!) is the 19th chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS シルシュルー VS ).",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1017,
+    "sectionCount": 4
+  }
+}

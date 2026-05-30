@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PDP19",
+    "slug": "pdp19",
+    "pageId": 179652,
+    "revisionId": 4528238
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp19__179652.json",
+    "revisionTimestamp": "2026-04-09T16:10:56Z",
+    "fetchedAt": "2026-05-14T15:29:47.349Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 春一番 First Storm of the Spring) is the nineteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: 春一番 First Storm of the Spring) is the nineteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 春一番 First Storm of the Spring) is the nineteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP19",
+    "pageType": "chapter",
+    "searchableText": "PDP19\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: 春一番 First Storm of the Spring) is the nineteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 233,
+    "sectionCount": 2
+  }
+}

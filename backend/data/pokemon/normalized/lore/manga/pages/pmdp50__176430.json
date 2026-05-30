@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP50",
+    "slug": "pmdp50",
+    "pageId": 176430,
+    "revisionId": 4528404
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp50__176430.json",
+    "revisionTimestamp": "2026-04-09T16:19:20Z",
+    "fetchedAt": "2026-05-14T15:32:44.612Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: バルキーの大スクープ!? Big Scoop!?) is the fiftieth chapter of the manga.",
+  "plainText": "(Japanese: バルキーの大スクープ!? Big Scoop!?) is the fiftieth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: バルキーの大スクープ!? Big Scoop!?) is the fiftieth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP50",
+    "pageType": "chapter",
+    "searchableText": "PMDP50\nCategory:Pocket Monsters DP chapters\n(Japanese: バルキーの大スクープ!? Big Scoop!?) is the fiftieth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 202,
+    "sectionCount": 2
+  }
+}

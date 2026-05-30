@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GB07",
+    "slug": "gb07",
+    "pageId": 158830,
+    "revisionId": 4526505
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys chapters",
+    "sourceFileName": "gb07__158830.json",
+    "revisionTimestamp": "2026-04-09T14:52:12Z",
+    "fetchedAt": "2026-05-14T15:19:10.973Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Great Search! Let's Rescue the Slowpoke! (Japanese: 大追跡! 消えたヤドンを救え!! The Great Search! Rescue the Missing !!) is the seventh chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+  "plainText": "The Great Search! Let's Rescue the Slowpoke! (Japanese: 大追跡! 消えたヤドンを救え!! The Great Search! Rescue the Missing !!) is the seventh chapter of the Pokémon Gold & Silver: The Golden Boys manga.\n\n==Plot==\n \n\n==Major events==\n \n\n===Debuts===\n====Humans====\nKurt\nWhitney\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nKurt\nWhitney\n\n===Pokémon===\n( )\n( )\n( )\n( 's)\n( )\n(Whitney's)\n(Team Rocket's)\n\n \n \n \n\nes:GB07\nit:GB07",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Great Search! Let's Rescue the Slowpoke! (Japanese: 大追跡! 消えたヤドンを救え!! The Great Search! Rescue the Missing !!) is the seventh chapter of the Pokémon Gold & Silver: The Golden Boys manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Kurt\nWhitney"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kurt\nWhitney"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( 's)\n( )\n(Whitney's)\n(Team Rocket's)\n\n \n \n \n\nes:GB07\nit:GB07"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GB07",
+    "pageType": "chapter",
+    "searchableText": "GB07\nCategory:Pokémon Gold & Silver: The Golden Boys chapters\nThe Great Search! Let's Rescue the Slowpoke! (Japanese: 大追跡! 消えたヤドンを救え!! The Great Search! Rescue the Missing !!) is the seventh chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 419,
+    "sectionCount": 4
+  }
+}

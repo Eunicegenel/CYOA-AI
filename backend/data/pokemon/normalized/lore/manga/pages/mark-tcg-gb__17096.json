@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Mark (TCG GB)",
+    "slug": "mark-tcg-gb",
+    "pageId": 17096,
+    "revisionId": 4224899
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Card GB The Comix characters",
+    "sourceFileName": "mark-tcg-gb__17096.json",
+    "revisionTimestamp": "2025-01-21T16:03:34Z",
+    "fetchedAt": "2026-05-14T15:25:52.258Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mark (Japanese: パーク Park) is a of the Pokémon Trading Card Game and the male player character in and Pokémon Trading Card Game 2: The Invasion of Team GR!.",
+  "plainText": "Mark (Japanese: パーク Park) is a of the Pokémon Trading Card Game and the male player character in and Pokémon Trading Card Game 2: The Invasion of Team GR!.\n\n==In the games==\nAt the start of , it is said that Mark loves Pokémon, and recently became interested in collecting Pokémon cards. Once he hears about the Legendary Cards held by the Grand Masters, he decides to try playing the card game, so he seeks 's help. In Dr. Mason's lab, he teaches Mark the basics of how to play the Pokémon TCG and a few basic strategies. Mark then goes on to explore the TCG Island, and makes it his quest to collect the eight Master Medals from the various Elemental Clubs and defeat the Grand Masters at the Pokémon Dome. His rival in this quest is .\n\nIn Pokémon Trading Card Game 2: The Invasion of Team GR!, he returns as the male playable character, joined by a new female counterpart, . In this game, if he is chosen as the player character, he is called on for help by Dr. Mason when Team Great Rocket attempts to steal the Legendary Cards and kidnaps many of the Club Masters.\n\n==Gallery==\n===Artwork===\n \n\n===Sprites===\nThe red sprites are the ones usually seen in the game. The green sprites are seen in link duels, when the opposing player plays as Mark.\n\n \n\n==In the manga==\n===Pokémon Card GB The Comix===\n ]]\nMark appears as the main character in Pokémon Card GB The Comix, a one-shot manga based on the video game of the same name. In Pokémon Card GB The Comix, Mark defeats his rival Ronald using a strategy combining 's Energy Trans with 's Pokémon Power Energy Burn.\n\n====Pokémon====\n \n\n \n\n \n\n==Trivia==\nAccording to the Japanese introduction of the first game, Mark recently became interested in playing the Pokémon Trading Card Game. This was lost in the English localization, which does not say when exactly his interest started.\nAccording to the manual of the first game, Mark and are from the same neighborhood, and they used to trade Pokémon cards before Mark started his journey.\n\n==Names==\n \n\n==Related articles==\n \n \n \n\n \n \n \n\nde:Mark\nes:Marco\nfr:Marc (Pokémon TCG)\nit:Mark\nja:パーク\nzh:牌克",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mark (Japanese: パーク Park) is a of the Pokémon Trading Card Game and the male player character in and Pokémon Trading Card Game 2: The Invasion of Team GR!."
+    },
+    {
+      "heading": "In the games",
+      "level": 2,
+      "text": "At the start of , it is said that Mark loves Pokémon, and recently became interested in collecting Pokémon cards. Once he hears about the Legendary Cards held by the Grand Masters, he decides to try playing the card game, so he seeks 's help. In Dr. Mason's lab, he teaches Mark the basics of how to play the Pokémon TCG and a few basic strategies. Mark then goes on to explore the TCG Island, and makes it his quest to collect the eight Master Medals from the various Elemental Clubs and defeat the Grand Masters at the Pokémon Dome. His rival in this quest is .\n\nIn Pokémon Trading Card Game 2: The Invasion of Team GR!, he returns as the male playable character, joined by a new female counterpart, . In this game, if he is chosen as the player character, he is called on for help by Dr. Mason when Team Great Rocket attempts to steal the Legendary Cards and kidnaps many of the Club Masters."
+    },
+    {
+      "heading": "Sprites",
+      "level": 3,
+      "text": "The red sprites are the ones usually seen in the game. The green sprites are seen in link duels, when the opposing player plays as Mark."
+    },
+    {
+      "heading": "Pokémon Card GB The Comix",
+      "level": 3,
+      "text": "]]\nMark appears as the main character in Pokémon Card GB The Comix, a one-shot manga based on the video game of the same name. In Pokémon Card GB The Comix, Mark defeats his rival Ronald using a strategy combining 's Energy Trans with 's Pokémon Power Energy Burn."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "According to the Japanese introduction of the first game, Mark recently became interested in playing the Pokémon Trading Card Game. This was lost in the English localization, which does not say when exactly his interest started.\nAccording to the manual of the first game, Mark and are from the same neighborhood, and they used to trade Pokémon cards before Mark started his journey."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Mark\nes:Marco\nfr:Marc (Pokémon TCG)\nit:Mark\nja:パーク\nzh:牌克"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mark (TCG GB)",
+    "pageType": "character",
+    "searchableText": "Mark (TCG GB)\nCategory:Pokémon Card GB The Comix characters\nMark (Japanese: パーク Park) is a of the Pokémon Trading Card Game and the male player character in and Pokémon Trading Card Game 2: The Invasion of Team GR!.",
+    "sectionHeadings": [
+      "Lead",
+      "In the games",
+      "Sprites",
+      "Pokémon Card GB The Comix",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 2098,
+    "sectionCount": 6
+  }
+}

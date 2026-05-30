@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Walker (Adventures)",
+    "slug": "walker-adventures",
+    "pageId": 82952,
+    "revisionId": 4272163
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "walker-adventures__82952.json",
+    "revisionTimestamp": "2025-03-29T00:01:03Z",
+    "fetchedAt": "2026-05-14T15:52:30.551Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Walker (Japanese: ハヤテ Hayate), known as Wayne in the Chuang Yi version, is a character in the Pokémon Adventures . A former Gym Leader of the Violet Gym, he is a friend of Cianwood City's Gym Leader, Chuck, and the father of Falkner. Considered a vagabond, he prefers traveling around instead of settling down in one place.",
+  "plainText": "Walker (Japanese: ハヤテ Hayate), known as Wayne in the Chuang Yi version, is a character in the Pokémon Adventures . A former Gym Leader of the Violet Gym, he is a friend of Cianwood City's Gym Leader, Chuck, and the father of Falkner. Considered a vagabond, he prefers traveling around instead of settling down in one place.\n\n==History==\nWalker first appears when he goes on his way to visit his friend, Chuck, while flying on his . As he does so, he is attacked by a powerful splash of water. Later, Chuck discovers his torn jacket on the shore and assumes whatever attacked him had killed him. Chuck manages to push the attacker out of the water, revealing it to be the recently-awoken . \n\nWalker quickly reveals himself to still be alive and helps Chuck face Suicune. Although they prove to be powerful Trainers, neither of the two are able to defeat Suicune, and it escapes to challenge other Gym Leaders. Knowing that Suicune is challenging Gym Leaders, the two of them assume that Suicune will go and challenge or Falkner next.\n\n==Pokémon==\n \n\n==Names==\n \n \n\n \n \n \n \n\nde:Luc\nes:Walker/Wayne\nit:Valentino\nja:ハヤテ (ポケットモンスターSPECIAL)\nzh:速天",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Walker (Japanese: ハヤテ Hayate), known as Wayne in the Chuang Yi version, is a character in the Pokémon Adventures . A former Gym Leader of the Violet Gym, he is a friend of Cianwood City's Gym Leader, Chuck, and the father of Falkner. Considered a vagabond, he prefers traveling around instead of settling down in one place."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Walker first appears when he goes on his way to visit his friend, Chuck, while flying on his . As he does so, he is attacked by a powerful splash of water. Later, Chuck discovers his torn jacket on the shore and assumes whatever attacked him had killed him. Chuck manages to push the attacker out of the water, revealing it to be the recently-awoken . \n\nWalker quickly reveals himself to still be alive and helps Chuck face Suicune. Although they prove to be powerful Trainers, neither of the two are able to defeat Suicune, and it escapes to challenge other Gym Leaders. Knowing that Suicune is challenging Gym Leaders, the two of them assume that Suicune will go and challenge or Falkner next."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:Luc\nes:Walker/Wayne\nit:Valentino\nja:ハヤテ (ポケットモンスターSPECIAL)\nzh:速天"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Walker (Adventures)",
+    "pageType": "character",
+    "searchableText": "Walker (Adventures)\nCategory:Pokémon Adventures characters\nWalker (Japanese: ハヤテ Hayate), known as Wayne in the Chuang Yi version, is a character in the Pokémon Adventures . A former Gym Leader of the Violet Gym, he is a friend of Cianwood City's Gym Leader, Chuck, and the father of Falkner. Considered a vagabond, he prefers traveling around instead of settling down in one place.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Names"
+    ],
+    "characterCount": 1140,
+    "sectionCount": 3
+  }
+}

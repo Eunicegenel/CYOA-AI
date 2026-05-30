@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Alicia",
+    "slug": "alicia",
+    "pageId": 26360,
+    "revisionId": 4487291
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "alicia__26360.json",
+    "revisionTimestamp": "2026-02-16T01:47:37Z",
+    "fetchedAt": "2026-05-14T14:00:37.392Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Alicia (Japanese: アリシア Alicia) is a character who appeared in flashbacks in The Rise of Darkrai.",
+  "plainText": "Alicia (Japanese: アリシア Alicia) is a character who appeared in flashbacks in The Rise of Darkrai.\n\n==History==\n \nAlicia is Alice's grandmother, and she helped when it was injured during her childhood. She was the first human being to show it any kindness. As a result, Darkrai believes that Alice is Alicia and that is why it was so protective of her.\n\nWhen she was much older, Alicia taught Alice the song \"Oración\", which has the ability to calm any Pokémon. There was also a special song disc that could be played on the Space-Time Towers' chimes. It was in turn used to stop and 's fighting.\n\nA sculpture of Alicia created by Godey is in the middle of the Space-Time Towers. In the sculpture, she is playing her song while many Pokémon sit around her and listen.\n\nIn the English dub, Alicia is implied to be deceased - when Darkrai mistook Alice for Alicia, Alice corrects him by stating that Alicia was her grandmother.\n\n==Voice actors==\n \n\n==Names==\n \n\n==References==\n \n\n==Related articles==\n \n \n\nde:Alicia\nes:Alicia\nfr:Alicia\nit:Alicia\nja:アリシア\nzh:艾莉西亚",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Alicia (Japanese: アリシア Alicia) is a character who appeared in flashbacks in The Rise of Darkrai."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Alicia is Alice's grandmother, and she helped when it was injured during her childhood. She was the first human being to show it any kindness. As a result, Darkrai believes that Alice is Alicia and that is why it was so protective of her.\n\nWhen she was much older, Alicia taught Alice the song \"Oración\", which has the ability to calm any Pokémon. There was also a special song disc that could be played on the Space-Time Towers' chimes. It was in turn used to stop and 's fighting.\n\nA sculpture of Alicia created by Godey is in the middle of the Space-Time Towers. In the sculpture, she is playing her song while many Pokémon sit around her and listen.\n\nIn the English dub, Alicia is implied to be deceased - when Darkrai mistook Alice for Alicia, Alice corrects him by stating that Alicia was her grandmother."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Alicia\nes:Alicia\nfr:Alicia\nit:Alicia\nja:アリシア\nzh:艾莉西亚"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Alicia",
+    "pageType": "movie",
+    "searchableText": "Alicia\nCategory:Movie characters\nAlicia (Japanese: アリシア Alicia) is a character who appeared in flashbacks in The Rise of Darkrai.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1057,
+    "sectionCount": 3
+  }
+}

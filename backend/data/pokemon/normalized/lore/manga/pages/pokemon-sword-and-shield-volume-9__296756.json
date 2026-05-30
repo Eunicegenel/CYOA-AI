@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Sword & Shield volume 9",
+    "slug": "pokemon-sword-and-shield-volume-9",
+    "pageId": 296756,
+    "revisionId": 4359984
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-sword-and-shield-volume-9__296756.json",
+    "revisionTimestamp": "2025-08-17T23:24:44Z",
+    "fetchedAt": "2026-05-14T15:38:03.467Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 9 is the ninth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+  "plainText": "Volume 9 is the ninth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.\n\n==Blurb==\nEternatus, the Gigantic Pokémon, has appeared! And with Galar in chaos due to the Gigantamax phenomenon occurring all over the region, Henry and Casey’s only hope to defeat Eternatus—and stopping the Gigantamax evolutions—is with the help of two powerful Pokémon—Zacian and Zamazenta!\n\nCan two Pokémon find the legendary gears in time to stop Eternatus?!\n\n==Publications==\n \n \n\n==Chapters==\nAdventure 26: Cracked!! The Rusted Sword and Shield\nAdventure 27: Shock!! Chairman Rose's Plan\nAdventure 28: Splash!! The Return of the Two Pokémon\n\n \n\n \n\n \n\nfr:Volume 9 (Pokémon Sword&Shield)\nit:Pokémon Sword & Shield volume 9",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 9 is the ninth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "Eternatus, the Gigantic Pokémon, has appeared! And with Galar in chaos due to the Gigantamax phenomenon occurring all over the region, Henry and Casey’s only hope to defeat Eternatus—and stopping the Gigantamax evolutions—is with the help of two powerful Pokémon—Zacian and Zamazenta!\n\nCan two Pokémon find the legendary gears in time to stop Eternatus?!"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 26: Cracked!! The Rusted Sword and Shield\nAdventure 27: Shock!! Chairman Rose's Plan\nAdventure 28: Splash!! The Return of the Two Pokémon\n\n \n\n \n\n \n\nfr:Volume 9 (Pokémon Sword&Shield)\nit:Pokémon Sword & Shield volume 9"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Sword & Shield volume 9",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Sword & Shield volume 9\nCategory:Pokémon Adventures volumes\nVolume 9 is the ninth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters"
+    ],
+    "characterCount": 985,
+    "sectionCount": 3
+  }
+}

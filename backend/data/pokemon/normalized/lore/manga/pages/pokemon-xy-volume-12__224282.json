@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon XY volume 12",
+    "slug": "pokemon-xy-volume-12",
+    "pageId": 224282,
+    "revisionId": 4132454
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-xy-volume-12__224282.json",
+    "revisionTimestamp": "2024-09-29T05:22:12Z",
+    "fetchedAt": "2026-05-14T15:38:18.794Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 12 is the twelfth and final volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+  "plainText": "Volume 12 is the twelfth and final volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version. \n\n==Publications==\n \n \n\n==Chapters==\nAdventure 37: Zygarde Agitated\nAdventure 38: Xerneas Gives\nAdventure 39: Epilogue \n\n \n\n \n\n \n\nfr:Volume 12 (Pokémon X•Y)\nit:Pokémon XY volume 12",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 12 is the twelfth and final volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 37: Zygarde Agitated\nAdventure 38: Xerneas Gives\nAdventure 39: Epilogue \n\n \n\n \n\n \n\nfr:Volume 12 (Pokémon X•Y)\nit:Pokémon XY volume 12"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon XY volume 12",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon XY volume 12\nCategory:Pokémon Adventures volumes\nVolume 12 is the twelfth and final volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 549,
+    "sectionCount": 2
+  }
+}

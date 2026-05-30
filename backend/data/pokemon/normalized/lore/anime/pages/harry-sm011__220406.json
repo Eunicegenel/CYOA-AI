@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Harry (SM011)",
+    "slug": "harry-sm011",
+    "pageId": 220406,
+    "revisionId": 4538907
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Alola characters of the day",
+    "sourceFileName": "harry-sm011__220406.json",
+    "revisionTimestamp": "2026-04-27T20:26:29Z",
+    "fetchedAt": "2026-05-14T14:21:59.882Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Harry (Japanese: ハル Haru) is a character of the day who appeared in Young Kiawe Had a Farm!. He is the first character of the day to appear in .\n\nHarry is a resident of Akala Island and a frequent customer of 's, who has the job of delivering milk to the people of Alola. He was awaiting Kiawe's fresh delivery of Moomoo Milk to make a birthday cake for his mother. On their way to delivering the milk to Harry, however, and Kiawe were delayed by s. After defeating them, they arrived too late to deliver the milk, but Harry accepted their apology if they promised to show Harry a Pokémon battle. Ash and Kiawe agreed to this, and showed Harry and his parents a battle between Ash's Pikachu and Kiawe's Turtonator, after Harry managed to bake his mother's birthday cake and presented it to her.",
+  "plainText": "Harry (Japanese: ハル Haru) is a character of the day who appeared in Young Kiawe Had a Farm!. He is the first character of the day to appear in .\n\nHarry is a resident of Akala Island and a frequent customer of 's, who has the job of delivering milk to the people of Alola. He was awaiting Kiawe's fresh delivery of Moomoo Milk to make a birthday cake for his mother. On their way to delivering the milk to Harry, however, and Kiawe were delayed by s. After defeating them, they arrived too late to deliver the milk, but Harry accepted their apology if they promised to show Harry a Pokémon battle. Ash and Kiawe agreed to this, and showed Harry and his parents a battle between Ash's Pikachu and Kiawe's Turtonator, after Harry managed to bake his mother's birthday cake and presented it to her.\n\n==Voice actors==\n \n\n==Names==\n \n \n \n\n \n \n \n\nes:Harry (Alola)\nit:Harry (SL011)\nzh:哈魯（阿羅拉）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Harry (Japanese: ハル Haru) is a character of the day who appeared in Young Kiawe Had a Farm!. He is the first character of the day to appear in .\n\nHarry is a resident of Akala Island and a frequent customer of 's, who has the job of delivering milk to the people of Alola. He was awaiting Kiawe's fresh delivery of Moomoo Milk to make a birthday cake for his mother. On their way to delivering the milk to Harry, however, and Kiawe were delayed by s. After defeating them, they arrived too late to deliver the milk, but Harry accepted their apology if they promised to show Harry a Pokémon battle. Ash and Kiawe agreed to this, and showed Harry and his parents a battle between Ash's Pikachu and Kiawe's Turtonator, after Harry managed to bake his mother's birthday cake and presented it to her."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Harry (Alola)\nit:Harry (SL011)\nzh:哈魯（阿羅拉）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Harry (SM011)",
+    "pageType": "character",
+    "searchableText": "Harry (SM011)\nCategory:Alola characters of the day\nHarry (Japanese: ハル Haru) is a character of the day who appeared in Young Kiawe Had a Farm!. He is the first character of the day to appear in .\n\nHarry is a resident of Akala Island and a frequent customer of 's, who has the job of delivering milk to the people of Alola. He was awaiting Kiawe's fresh delivery of Moomoo Milk to make a birthday cake for his mother. On their way to delivering the milk to Harry, however, and Kiawe were delayed by s. After defeating them, they arrived too late to deliver the milk, but Harry accepted their apology if they promised to show Harry a Pokémon battle. Ash and Kiawe agreed to this, and showed Harry and his parents a battle between Ash's Pikachu and Kiawe's Turtonator, after Harry managed to bake his mother's birthday cake and presented it to her.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 884,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Gold (Pocket Monsters)",
+    "slug": "gold-pocket-monsters",
+    "pageId": 57570,
+    "revisionId": 4263256
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters characters",
+    "sourceFileName": "gold-pocket-monsters__57570.json",
+    "revisionTimestamp": "2025-03-22T13:04:14Z",
+    "fetchedAt": "2026-05-14T15:20:38.594Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Gold (Japanese: 金之助 Kinnosuke) is a character who appeared in Pokémon Pocket Monsters. He is a rival of .",
+  "plainText": "Gold (Japanese: 金之助 Kinnosuke) is a character who appeared in Pokémon Pocket Monsters. He is a rival of .\n\n==History==\nGold debuts in Welcome Back, Clefairy!!, where he is recommended by Professor Elm to as a chosen Trainer of Johto along with to get his first Pokémon. He chose a from Professor Oak. After that, he heads outside and sets on his journey with Red showing him some of the basics. In the next chapter, he makes a cameo in Professor Elm's flashback.\n\nIn Hatch the Pokémon Egg!!, Gold finds Red's after it drifted away on the current of the hot springs. Instead of giving it back to Red right away, Gold battles Red using Cyndaquil. Even though Gold had the upper hand in the battle, the Egg hatched into a Togepi and Togepi chose Red as the owner. This caused Gold and Cyndaquil to fall in a lake. Then, they dry themselves off while Red and his Pokémon were having a barbecue.\n\nIn Pokémon Snowball Fight, he competes in a race with Red's other rivals. During the race, he does not make it onward after threw him off course with his . Gold reappeared in Return light to Bellossom!! where he helps Red fight off a .\n\n==Character==\nIn contrast to most of the rivals back in Kanto, Gold appears to be friendly towards Red most of the time.\n\n==Pokémon==\n \n\n==Trivia==\n===Name origin===\n \n\n \n \n \n \n\nde:Kinnosuke\nit:Gold (Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Gold (Japanese: 金之助 Kinnosuke) is a character who appeared in Pokémon Pocket Monsters. He is a rival of ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Gold debuts in Welcome Back, Clefairy!!, where he is recommended by Professor Elm to as a chosen Trainer of Johto along with to get his first Pokémon. He chose a from Professor Oak. After that, he heads outside and sets on his journey with Red showing him some of the basics. In the next chapter, he makes a cameo in Professor Elm's flashback.\n\nIn Hatch the Pokémon Egg!!, Gold finds Red's after it drifted away on the current of the hot springs. Instead of giving it back to Red right away, Gold battles Red using Cyndaquil. Even though Gold had the upper hand in the battle, the Egg hatched into a Togepi and Togepi chose Red as the owner. This caused Gold and Cyndaquil to fall in a lake. Then, they dry themselves off while Red and his Pokémon were having a barbecue.\n\nIn Pokémon Snowball Fight, he competes in a race with Red's other rivals. During the race, he does not make it onward after threw him off course with his . Gold reappeared in Return light to Bellossom!! where he helps Red fight off a ."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "In contrast to most of the rivals back in Kanto, Gold appears to be friendly towards Red most of the time."
+    },
+    {
+      "heading": "Name origin",
+      "level": 3,
+      "text": "de:Kinnosuke\nit:Gold (Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Gold (Pocket Monsters)",
+    "pageType": "character",
+    "searchableText": "Gold (Pocket Monsters)\nCategory:Pokémon Pocket Monsters characters\nGold (Japanese: 金之助 Kinnosuke) is a character who appeared in Pokémon Pocket Monsters. He is a rival of .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Name origin"
+    ],
+    "characterCount": 1345,
+    "sectionCount": 4
+  }
+}

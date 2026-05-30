@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Hippie",
+    "slug": "hippie",
+    "pageId": 13986,
+    "revisionId": 4307948
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kanto characters of the day",
+    "sourceFileName": "hippie__13986.json",
+    "revisionTimestamp": "2025-05-21T11:52:27Z",
+    "fetchedAt": "2026-05-14T14:22:23.652Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The hippie (Japanese: 老人 old man) is a character of the day who appeared in Wake Up, Snorlax!. In the Japanese version, the hippie was simply referred to as an old man.",
+  "plainText": "The hippie (Japanese: 老人 old man) is a character of the day who appeared in Wake Up, Snorlax!. In the Japanese version, the hippie was simply referred to as an old man.\n\n==History==\nWhile walking down a lonely road, the hippie played a Poké Flute for and . They were grateful to him and continued along their way. The bearded man also played for , but they were less than impressed.\n\nWhen Ash and the others discovered that the town's food wasn't growing because a was blocking the water, they immediately ran to the hippie, who revealed that the Snorlax was his Pokémon. After hearing of the situation in the nearby town, the hippie played his Poké Flute, and Snorlax awakened.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n==Notes==\n \n\n==References==\n \n \n \n \n \n \n\nde:Relaxo im Tiefschlaf#Hippie\nes:Poké flautista\nit:Hippie\nzh:吹笛子的爷爷",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The hippie (Japanese: 老人 old man) is a character of the day who appeared in Wake Up, Snorlax!. In the Japanese version, the hippie was simply referred to as an old man."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "While walking down a lonely road, the hippie played a Poké Flute for and . They were grateful to him and continued along their way. The bearded man also played for , but they were less than impressed.\n\nWhen Ash and the others discovered that the town's food wasn't growing because a was blocking the water, they immediately ran to the hippie, who revealed that the Snorlax was his Pokémon. After hearing of the situation in the nearby town, the hippie played his Poké Flute, and Snorlax awakened."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "de:Relaxo im Tiefschlaf#Hippie\nes:Poké flautista\nit:Hippie\nzh:吹笛子的爷爷"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hippie",
+    "pageType": "character",
+    "searchableText": "Hippie\nCategory:Kanto characters of the day\nThe hippie (Japanese: 老人 old man) is a character of the day who appeared in Wake Up, Snorlax!. In the Japanese version, the hippie was simply referred to as an old man.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "References"
+    ],
+    "characterCount": 824,
+    "sectionCount": 3
+  }
+}

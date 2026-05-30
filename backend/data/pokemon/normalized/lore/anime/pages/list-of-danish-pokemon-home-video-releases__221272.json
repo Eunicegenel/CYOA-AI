@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "List of Danish Pokémon home video releases",
+    "slug": "list-of-danish-pokemon-home-video-releases",
+    "pageId": 221272,
+    "revisionId": 4261527
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Lists of animation home video releases",
+    "sourceFileName": "list-of-danish-pokemon-home-video-releases__221272.json",
+    "revisionTimestamp": "2025-03-20T01:11:29Z",
+    "fetchedAt": "2026-05-14T14:31:37.058Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The following is a list of all of the home video releases of the Pokémon animated series and s. All DVDs are Region 2.",
+  "plainText": "The following is a list of all of the home video releases of the Pokémon animated series and s. All DVDs are Region 2.\n\n==Main series==\n===K.E. Media===\nK.E. Media distributed these VHSes and DVDs in Denmark.\n\n====VHS====\nK.E. Media distributed two different series on VHS. While the first series did not have a name, the second series had the text written on the front, right next to the volume number. However, they are commonly known as the red series and the yellow series, respectively.\n\n=====The red series=====\n \n\n======Collections======\nK.E. Media also released two collector's boxes containing 4 VHSes from the red series each.\n \n\n=====The yellow series=====\n \n\n====DVD====\n \n\n===SF Film===\nSF Film distributed these VHSes and DVDs in Denmark.\n====VHS====\n \n\n====DVD====\nBesides the 10 season 6 DVDs SF Film did release, it seems to have been the plan to release the rest on an additional 7 DVDs as those had been given a rating. Some of the DVDs were rated in 2005 while the rest were rated in 2006. 10 copies of both volume 11 and 12 should exist as they were promised as a part of a price given out by Jetix, but they were never available for purchase.\n \n\n==Movies==\n \nAll the movies dubbed in Danish from Mewtwo Strikes Back up to Kyurem VS. The Sword of Justice have been released on home video in Denmark. This excludes Lucario and the Mystery of Mew and Pokémon Ranger and the Temple of the Sea, which never were dubbed in Danish. Subsequent movies have been released on Netflix and Pokémon TV. The first four movies have been released on VHS and all 13 dubbed movies have received a DVD release.\n\nEvery movie released on DVD in Denmark has had audio tracks in at least one other language. The only other language which has been a stable throughout all of the Danish releases is Norwegian. An English audio track has been included on all releases besides the three movies released by SF Film.\n\nNordisk Film later acquired the rights to rerelease several movies, but unlike previous releases, the covers were in English, featuring movie descriptions in Danish, Swedish, Norwegian, and Finnish.\n\n \n\n===Rereleases===\n \n\n==Specials==\n \n\n==Related articles==\nPokémon in Denmark",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of all of the home video releases of the Pokémon animated series and s. All DVDs are Region 2."
+    },
+    {
+      "heading": "K.E. Media",
+      "level": 3,
+      "text": "K.E. Media distributed these VHSes and DVDs in Denmark."
+    },
+    {
+      "heading": "VHS",
+      "level": 4,
+      "text": "K.E. Media distributed two different series on VHS. While the first series did not have a name, the second series had the text written on the front, right next to the volume number. However, they are commonly known as the red series and the yellow series, respectively."
+    },
+    {
+      "heading": "Collections",
+      "level": 6,
+      "text": "K.E. Media also released two collector's boxes containing 4 VHSes from the red series each."
+    },
+    {
+      "heading": "SF Film",
+      "level": 3,
+      "text": "SF Film distributed these VHSes and DVDs in Denmark."
+    },
+    {
+      "heading": "DVD",
+      "level": 4,
+      "text": "Besides the 10 season 6 DVDs SF Film did release, it seems to have been the plan to release the rest on an additional 7 DVDs as those had been given a rating. Some of the DVDs were rated in 2005 while the rest were rated in 2006. 10 copies of both volume 11 and 12 should exist as they were promised as a part of a price given out by Jetix, but they were never available for purchase."
+    },
+    {
+      "heading": "Movies",
+      "level": 2,
+      "text": "All the movies dubbed in Danish from Mewtwo Strikes Back up to Kyurem VS. The Sword of Justice have been released on home video in Denmark. This excludes Lucario and the Mystery of Mew and Pokémon Ranger and the Temple of the Sea, which never were dubbed in Danish. Subsequent movies have been released on Netflix and Pokémon TV. The first four movies have been released on VHS and all 13 dubbed movies have received a DVD release.\n\nEvery movie released on DVD in Denmark has had audio tracks in at least one other language. The only other language which has been a stable throughout all of the Danish releases is Norwegian. An English audio track has been included on all releases besides the three movies released by SF Film.\n\nNordisk Film later acquired the rights to rerelease several movies, but unlike previous releases, the covers were in English, featuring movie descriptions in Danish, Swedish, Norwegian, and Finnish."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Pokémon in Denmark"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Danish Pokémon home video releases",
+    "pageType": "pokemon-related",
+    "searchableText": "List of Danish Pokémon home video releases\nCategory:Lists of animation home video releases\nThe following is a list of all of the home video releases of the Pokémon animated series and s. All DVDs are Region 2.",
+    "sectionHeadings": [
+      "Lead",
+      "K.E. Media",
+      "VHS",
+      "Collections",
+      "SF Film",
+      "DVD",
+      "Movies",
+      "Related articles"
+    ],
+    "characterCount": 2188,
+    "sectionCount": 8
+  }
+}

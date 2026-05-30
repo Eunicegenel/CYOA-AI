@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Rhoda",
+    "slug": "rhoda",
+    "pageId": 10015,
+    "revisionId": 4096040
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Battle Frontier characters of the day",
+    "sourceFileName": "rhoda__10015.json",
+    "revisionTimestamp": "2024-09-01T00:48:38Z",
+    "fetchedAt": "2026-05-14T14:46:11.980Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Rhoda (Japanese: レース Res) is a character of the day who appeared in Hail to the Chef!. \n\nShe is a restaurant manager who lives near Saffron City. After competing with her younger twin sister, , for the inheritance of her father's restaurant, she decided to give it to her sister after seeing how she handled the situation when their Pokémon were taken by . As she was leaving, her sister hired her as the restaurant's co-manager and her Sneasel as its head chef. After that, their Pokémon cooked delicious food together for and .",
+  "plainText": "Rhoda (Japanese: レース Res) is a character of the day who appeared in Hail to the Chef!. \n\nShe is a restaurant manager who lives near Saffron City. After competing with her younger twin sister, , for the inheritance of her father's restaurant, she decided to give it to her sister after seeing how she handled the situation when their Pokémon were taken by . As she was leaving, her sister hired her as the restaurant's co-manager and her Sneasel as its head chef. After that, their Pokémon cooked delicious food together for and .\n\n==Pokémon==\n \n\n==Voice actors==\n \n \n\n==Trivia==\nIn both Japanese and English, Rhoda's name is a match to her sister's. In the English, there is only a one-letter difference in their names, while in Japanese, both Res and Toran are derived from restaurant.\n \n \n\n \n \n \n \n\nes:Rhoda\nfr:Rhoda\nit:Rhoda\nja:レース\nzh:蕾西",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Rhoda (Japanese: レース Res) is a character of the day who appeared in Hail to the Chef!. \n\nShe is a restaurant manager who lives near Saffron City. After competing with her younger twin sister, , for the inheritance of her father's restaurant, she decided to give it to her sister after seeing how she handled the situation when their Pokémon were taken by . As she was leaving, her sister hired her as the restaurant's co-manager and her Sneasel as its head chef. After that, their Pokémon cooked delicious food together for and ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In both Japanese and English, Rhoda's name is a match to her sister's. In the English, there is only a one-letter difference in their names, while in Japanese, both Res and Toran are derived from restaurant.\n \n \n\n \n \n \n \n\nes:Rhoda\nfr:Rhoda\nit:Rhoda\nja:レース\nzh:蕾西"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rhoda",
+    "pageType": "character",
+    "searchableText": "Rhoda\nCategory:Battle Frontier characters of the day\nRhoda (Japanese: レース Res) is a character of the day who appeared in Hail to the Chef!. \n\nShe is a restaurant manager who lives near Saffron City. After competing with her younger twin sister, , for the inheritance of her father's restaurant, she decided to give it to her sister after seeing how she handled the situation when their Pokémon were taken by . As she was leaving, her sister hired her as the restaurant's co-manager and her Sneasel as its head chef. After that, their Pokémon cooked delicious food together for and .",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 840,
+    "sectionCount": 2
+  }
+}

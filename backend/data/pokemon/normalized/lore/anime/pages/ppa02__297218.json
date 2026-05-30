@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PPA02",
+    "slug": "ppa02",
+    "pageId": 297218,
+    "revisionId": 4548358
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures episodes",
+    "sourceFileName": "ppa02__297218.json",
+    "revisionTimestamp": "2026-05-11T00:24:01Z",
+    "fetchedAt": "2026-05-14T14:44:18.916Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "Why won't you listen! (Japanese: いうことをきかない！ It Won't Obey!) is the second episode of A Pocketful of Adventures. It first aired in Japan on October 27, 2023, and in the Middle East and North Africa on May 18, 2024.",
+  "plainText": "Why won't you listen! (Japanese: いうことをきかない！ It Won't Obey!) is the second episode of A Pocketful of Adventures. It first aired in Japan on October 27, 2023, and in the Middle East and North Africa on May 18, 2024.\n \n\n==Plot==\n==Major events==\nMadoka is introduced to Sora, Masako's son.\nKageaki Hiyama starts playing Pokémon Red on his own.\n\n==Characters==\n===Humans===\nMadoka Akagi\n \nKoichi Yadoya\n \n \nMasako\nSora Karasawa\nMidori Kudo\nOshou Kamo\n\n===Pokémon===\n\n==Trivia==\nThe fact that Farfetch'd's original Trainer is a Gentleman is a possible reference to Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!, where a Gentleman is considering trading his Farfetch'd for a Spearow. In the Generation I games, Farfetch'd's original Trainer is a .\nIt may also be a reference to the Pokémon Trader card from the of the , which features a man wearing attire similar to that of a Gentleman.\n\n===Errors===\n===Dub edits===\n\n==In other languages==\n \n \n \n \n\n \n\nit:PBT02\nzh:口袋裡的冒險 第2集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Why won't you listen! (Japanese: いうことをきかない！ It Won't Obey!) is the second episode of A Pocketful of Adventures. It first aired in Japan on October 27, 2023, and in the Middle East and North Africa on May 18, 2024."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Madoka is introduced to Sora, Masako's son.\nKageaki Hiyama starts playing Pokémon Red on his own."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Madoka Akagi\n \nKoichi Yadoya\n \n \nMasako\nSora Karasawa\nMidori Kudo\nOshou Kamo"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The fact that Farfetch'd's original Trainer is a Gentleman is a possible reference to Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!, where a Gentleman is considering trading his Farfetch'd for a Spearow. In the Generation I games, Farfetch'd's original Trainer is a .\nIt may also be a reference to the Pokémon Trader card from the of the , which features a man wearing attire similar to that of a Gentleman."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:PBT02\nzh:口袋裡的冒險 第2集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPA02",
+    "pageType": "episode",
+    "searchableText": "PPA02\nCategory:A Pocketful of Adventures episodes\nWhy won't you listen! (Japanese: いうことをきかない！ It Won't Obey!) is the second episode of A Pocketful of Adventures. It first aired in Japan on October 27, 2023, and in the Middle East and North Africa on May 18, 2024.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 973,
+    "sectionCount": 5
+  }
+}

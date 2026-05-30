@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters XY volume 2",
+    "slug": "pocket-monsters-xy-volume-2",
+    "pageId": 198777,
+    "revisionId": 4527857
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY volumes",
+    "sourceFileName": "pocket-monsters-xy-volume-2__198777.json",
+    "revisionTimestamp": "2026-04-09T15:56:13Z",
+    "fetchedAt": "2026-05-14T15:34:35.221Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 2 is the second volume of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 2 is the second volume of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n\n==Chapters==\nPMXY13\nPMXY14\nPMXY15\nPMXY16\nPMXY17\nPMXY18\nPMXY19\nPMXY20\nPMXY21\nPMXY22\nPMXY23\nPMXY24",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "PMXY13\nPMXY14\nPMXY15\nPMXY16\nPMXY17\nPMXY18\nPMXY19\nPMXY20\nPMXY21\nPMXY22\nPMXY23\nPMXY24"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters XY volume 2",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters XY volume 2\nCategory:Pocket Monsters XY volumes\nVolume 2 is the second volume of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 195,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Alex Davis",
+    "slug": "alex-davis",
+    "pageId": 22240,
+    "revisionId": 4385164
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "alex-davis__22240.json",
+    "revisionTimestamp": "2025-09-20T11:06:55Z",
+    "fetchedAt": "2026-05-14T14:00:31.698Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Alex Davis (Japanese: ノボル Noboru) is a Pokémon Trainer and a character of the day who appeared in Power Play!.\n\nAnnouncing himself as \"Alex Davis from Cherrygrove City\", he challenged Gary Oak to a using his . However, Gary was able to defeat Alex without much trouble. , , and , who just walked nearby, saw the battle, leading to another encounter between Ash and his rival.",
+  "plainText": "Alex Davis (Japanese: ノボル Noboru) is a Pokémon Trainer and a character of the day who appeared in Power Play!.\n\nAnnouncing himself as \"Alex Davis from Cherrygrove City\", he challenged Gary Oak to a using his . However, Gary was able to defeat Alex without much trouble. , , and , who just walked nearby, saw the battle, leading to another encounter between Ash and his rival.\n \n==Pokémon==\n \n \n\n==Voice actors==\n \n\n==Trivia==\nAlex Davis's dub voice was provided by a British competition winner of the same name. As a result, Alex ends up with an English accent. \n \n \n\n \n \n \n \n\nde:Stromausfall im Kraftwerk#Alex Davis\nes:Álex Davis\nfr:Alex Davis\nit:Alex Davis",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Alex Davis (Japanese: ノボル Noboru) is a Pokémon Trainer and a character of the day who appeared in Power Play!.\n\nAnnouncing himself as \"Alex Davis from Cherrygrove City\", he challenged Gary Oak to a using his . However, Gary was able to defeat Alex without much trouble. , , and , who just walked nearby, saw the battle, leading to another encounter between Ash and his rival."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Alex Davis's dub voice was provided by a British competition winner of the same name. As a result, Alex ends up with an English accent. \n \n \n\n \n \n \n \n\nde:Stromausfall im Kraftwerk#Alex Davis\nes:Álex Davis\nfr:Alex Davis\nit:Alex Davis"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Alex Davis",
+    "pageType": "character",
+    "searchableText": "Alex Davis\nCategory:Johto characters of the day\nAlex Davis (Japanese: ノボル Noboru) is a Pokémon Trainer and a character of the day who appeared in Power Play!.\n\nAnnouncing himself as \"Alex Davis from Cherrygrove City\", he challenged Gary Oak to a using his . However, Gary was able to defeat Alex without much trouble. , , and , who just walked nearby, saw the battle, leading to another encounter between Ash and his rival.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 658,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW35",
+    "slug": "pmbw35",
+    "pageId": 175245,
+    "revisionId": 4527137
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw35__175245.json",
+    "revisionTimestamp": "2026-04-09T15:21:24Z",
+    "fetchedAt": "2026-05-14T15:32:05.448Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: お好み焼き争奪戦！！ Competition!!) is the thirty-fifth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: お好み焼き争奪戦！！ Competition!!) is the thirty-fifth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: お好み焼き争奪戦！！ Competition!!) is the thirty-fifth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW35",
+    "pageType": "chapter",
+    "searchableText": "PMBW35\nCategory:Pocket Monsters BW chapters\n(Japanese: お好み焼き争奪戦！！ Competition!!) is the thirty-fifth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 234,
+    "sectionCount": 2
+  }
+}

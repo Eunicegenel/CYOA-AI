@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Donuke",
+    "slug": "donuke",
+    "pageId": 153351,
+    "revisionId": 4289269
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "donuke__153351.json",
+    "revisionTimestamp": "2025-04-28T19:50:52Z",
+    "fetchedAt": "2026-05-14T14:12:13.558Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Donuke (Japanese: ドヌーク Donuke) is a minor character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram. He lives in the frozen tundra, where he works for his village's leader Glacine.",
+  "plainText": "Donuke (Japanese: ドヌーク Donuke) is a minor character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram. He lives in the frozen tundra, where he works for his village's leader Glacine.\n\n==In the movies==\nIn Black—Victini and Reshiram, Damon approached Donuke and asked him if it was possible to talk to Glacine. He told him that she was out searching for herbs. Later, he came to help Glacine and her son Luis when they were trapped on a crumbling sheet of ice, with a giant iceberg threatening to collide into them. However, Donuke's collided with a wild , flipping the sled over and trapping him on the sheet of ice as well. The trio were saved when Damon commanded to destroy the iceberg.\n\nDonuke was later seen with Glacine and Luis, along with the people of the desert village, in both movies, where they came to Eindoak Town to support Damon's idea, the reestablishment of the Kingdom of the Vale.\n\n===Pokémon===\n \n \n\n===Voice actors===\n \n\n==In the manga==\n===Movie adaptations===\nDonuke appears in , where he is seen in the flashback of Damon visiting the tundra village on a journey to gather the descendants of the People of the Vale. Donuke does not travel to Eindoak Town in support of Damon's plan as he does in the movie.\n\n==Related articles==\nManuke\n \n\n \n \n\n \n\nit:Donuke",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Donuke (Japanese: ドヌーク Donuke) is a minor character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram. He lives in the frozen tundra, where he works for his village's leader Glacine."
+    },
+    {
+      "heading": "In the movies",
+      "level": 2,
+      "text": "In Black—Victini and Reshiram, Damon approached Donuke and asked him if it was possible to talk to Glacine. He told him that she was out searching for herbs. Later, he came to help Glacine and her son Luis when they were trapped on a crumbling sheet of ice, with a giant iceberg threatening to collide into them. However, Donuke's collided with a wild , flipping the sled over and trapping him on the sheet of ice as well. The trio were saved when Damon commanded to destroy the iceberg.\n\nDonuke was later seen with Glacine and Luis, along with the people of the desert village, in both movies, where they came to Eindoak Town to support Damon's idea, the reestablishment of the Kingdom of the Vale."
+    },
+    {
+      "heading": "Movie adaptations",
+      "level": 3,
+      "text": "Donuke appears in , where he is seen in the flashback of Damon visiting the tundra village on a journey to gather the descendants of the People of the Vale. Donuke does not travel to Eindoak Town in support of Damon's plan as he does in the movie."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Manuke\n \n\n \n \n\n \n\nit:Donuke"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Donuke",
+    "pageType": "movie",
+    "searchableText": "Donuke\nCategory:Movie characters\nDonuke (Japanese: ドヌーク Donuke) is a minor character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram. He lives in the frozen tundra, where he works for his village's leader Glacine.",
+    "sectionHeadings": [
+      "Lead",
+      "In the movies",
+      "Movie adaptations",
+      "Related articles"
+    ],
+    "characterCount": 1304,
+    "sectionCount": 4
+  }
+}

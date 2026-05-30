@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Welcome! Pokémon Café: PikaVee's Mixing à la mode volume 3",
+    "slug": "welcome-pokemon-cafe-pikavees-mixing-a-la-mode-volume-3",
+    "pageId": 350011,
+    "revisionId": 4471409
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Welcome! Pokémon Café: PikaVee's Mixing à la mode volumes",
+    "sourceFileName": "welcome-pokemon-cafe-pikavees-mixing-a-la-mode-volume-3__350011.json",
+    "revisionTimestamp": "2026-01-20T11:59:18Z",
+    "fetchedAt": "2026-05-14T15:52:38.469Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ~Sparkly Cooking!~) is the third volume of the Welcome! Pokémon Café: PikaVee's Mixing à la mode manga written by Sanae Suzuki and illustrated by Tomoko Fujinoki. It is 32 pages long.",
+  "plainText": "(Japanese: ~Sparkly Cooking!~) is the third volume of the Welcome! Pokémon Café: PikaVee's Mixing à la mode manga written by Sanae Suzuki and illustrated by Tomoko Fujinoki. It is 32 pages long.\n\n==Publications==\n \n \n\n==Chapters==\n \n \n\n==References==\n \n\n==External links==\nShogakukan's website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ~Sparkly Cooking!~) is the third volume of the Welcome! Pokémon Café: PikaVee's Mixing à la mode manga written by Sanae Suzuki and illustrated by Tomoko Fujinoki. It is 32 pages long."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Shogakukan's website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Welcome! Pokémon Café: PikaVee's Mixing à la mode volume 3",
+    "pageType": "pokemon-related",
+    "searchableText": "Welcome! Pokémon Café: PikaVee's Mixing à la mode volume 3\nCategory:Welcome! Pokémon Café: PikaVee's Mixing à la mode volumes\n(Japanese: ~Sparkly Cooking!~) is the third volume of the Welcome! Pokémon Café: PikaVee's Mixing à la mode manga written by Sanae Suzuki and illustrated by Tomoko Fujinoki. It is 32 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 293,
+    "sectionCount": 2
+  }
+}

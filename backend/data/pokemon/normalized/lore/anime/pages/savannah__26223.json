@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Savannah",
+    "slug": "savannah",
+    "pageId": 26223,
+    "revisionId": 4309316
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "savannah__26223.json",
+    "revisionTimestamp": "2025-05-24T10:21:21Z",
+    "fetchedAt": "2026-05-14T14:48:30.642Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Savannah (Japanese: ツキコ Tsukiko) is a recurring character in . She is a Pokémon Coordinator from Rubello Town and a member of the fan club Mothers for Pokémon.",
+  "plainText": "Savannah (Japanese: ツキコ Tsukiko) is a recurring character in . She is a Pokémon Coordinator from Rubello Town and a member of the fan club Mothers for Pokémon.\n\n==History==\nSavannah debuted in A Fan with a Plan alongside her fellow Mothers for Pokémon members. She was particularly excited to meet Drew and at the Rubello Town Pokémon Center. May offered to battle Savannah, since Savannah was struggling to consider a strategy for an upcoming Contest. May also taught Savannah to do her best in each battle, even if the opponent is a friend. \n\nIn Crusin' for a Losin, Savannah and her performed well in the Appeals Round, earning themselves a place in the next round. When it came time to the semi-finals, she proved herself to be highly capable by defeating May's Bulbasaur with her . However, she lost in the finals to Drew's .\n\nSavannah and her daughter Sandra made brief cameos in Deceit and Assist, watching May compete in the Hoenn Grand Festival.\n\n==Character==\nSavannah was shown to be a very nervous , despite having won a Ribbon prior to her debut. Her past as a traveling was briefly mentioned in A Fan with a Plan, though she was too embarrassed to elaborate. She is also a very caring mother and her daughter Sandra sometimes helps her with creating strategies for Contests. She became a fan of and Drew after seeing their performances in previous s.\n\n==Pokémon==\nThis listing is of Savannah's known in :\n\n \n\n \n \n===At home===\n \n\n==Contests==\n \n===Hoenn Ribbons===\nThis listing is of the Ribbons Savannah has obtained in the Hoenn region:\nUnknown Ribbon (prior to A Fan with a Plan)\n\n===Other achievements===\nSavannah has competed in the following Pokémon Contests:\nContest - Runner-Up (Cruisin' for a Losin)\n\n==Voice actors==\n \n\n==Trivia==\nSavannah's Japanese name contains ツキ (tsuki), corresponding for 月 (moon), while her daughter's name contains ホシ (hoshi), corresponding for 星 (star). In addition to this, she wears crescent moon earrings while her daughter wears a star hair barrette.\n \n \n \n \n\nde:Savannah\nes:Savannah\nfr:Savannah\nit:Savannah\nja:ツキコ\nzh:月子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Savannah (Japanese: ツキコ Tsukiko) is a recurring character in . She is a Pokémon Coordinator from Rubello Town and a member of the fan club Mothers for Pokémon."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Savannah debuted in A Fan with a Plan alongside her fellow Mothers for Pokémon members. She was particularly excited to meet Drew and at the Rubello Town Pokémon Center. May offered to battle Savannah, since Savannah was struggling to consider a strategy for an upcoming Contest. May also taught Savannah to do her best in each battle, even if the opponent is a friend. \n\nIn Crusin' for a Losin, Savannah and her performed well in the Appeals Round, earning themselves a place in the next round. When it came time to the semi-finals, she proved herself to be highly capable by defeating May's Bulbasaur with her . However, she lost in the finals to Drew's .\n\nSavannah and her daughter Sandra made brief cameos in Deceit and Assist, watching May compete in the Hoenn Grand Festival."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Savannah was shown to be a very nervous , despite having won a Ribbon prior to her debut. Her past as a traveling was briefly mentioned in A Fan with a Plan, though she was too embarrassed to elaborate. She is also a very caring mother and her daughter Sandra sometimes helps her with creating strategies for Contests. She became a fan of and Drew after seeing their performances in previous s."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Savannah's known in :"
+    },
+    {
+      "heading": "Hoenn Ribbons",
+      "level": 3,
+      "text": "This listing is of the Ribbons Savannah has obtained in the Hoenn region:\nUnknown Ribbon (prior to A Fan with a Plan)"
+    },
+    {
+      "heading": "Other achievements",
+      "level": 3,
+      "text": "Savannah has competed in the following Pokémon Contests:\nContest - Runner-Up (Cruisin' for a Losin)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Savannah's Japanese name contains ツキ (tsuki), corresponding for 月 (moon), while her daughter's name contains ホシ (hoshi), corresponding for 星 (star). In addition to this, she wears crescent moon earrings while her daughter wears a star hair barrette.\n \n \n \n \n\nde:Savannah\nes:Savannah\nfr:Savannah\nit:Savannah\nja:ツキコ\nzh:月子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Savannah",
+    "pageType": "character",
+    "searchableText": "Savannah\nCategory:Animation characters\nSavannah (Japanese: ツキコ Tsukiko) is a recurring character in . She is a Pokémon Coordinator from Rubello Town and a member of the fan club Mothers for Pokémon.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Pokémon",
+      "Hoenn Ribbons",
+      "Other achievements",
+      "Trivia"
+    ],
+    "characterCount": 2074,
+    "sectionCount": 7
+  }
+}

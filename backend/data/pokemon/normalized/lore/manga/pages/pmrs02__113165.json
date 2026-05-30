@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PMRS02",
+    "slug": "pmrs02",
+    "pageId": 113165,
+    "revisionId": 4264602
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs02__113165.json",
+    "revisionTimestamp": "2025-03-23T18:26:10Z",
+    "fetchedAt": "2026-05-14T15:33:08.971Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "I Won't Let You Lead!! (Japanese: 主役の座はわたさない！！ I Won't Let You Steal the Spotlight!!) is the second chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "I Won't Let You Lead!! (Japanese: 主役の座はわたさない！！ I Won't Let You Steal the Spotlight!!) is the second chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n , , and arrive in Littleroot Town. They come to a fishing hole, where Professor Birch challenges Red to a -catching duel. Clefairy tries to push Professor Birch's into the water and steal its fishing rod, however, he falls down and fails to catch any Magikarp.\n\nCasting off on boats, Professor Birch and his Pokémon catch several Magikarp, but Red and his Pokémon are unable to capture any because they do not have a good fishing lure. Clefairy tries using Pikachu as a lure instead, and while Pikachu manages to get many Magikarp into Red's boat, they are too heavy and the boat sinks, with all the Magikarp escaping back into the water. By the end, Professor Birch captures thirty Magikarp, while Red was unable to catch any.\n\nUnwilling to give up, Clefairy challenges Professor Birch to a cooking competition next. Prof. Birch's makes a nice cake using its attack. Seeing it, Clefairy makes use of the washing machine to perform the same task, but his cake ended up with clothes decorated on it.\n\nRed decides to challenge Prof. Birch to one last competition: both of them enter a race with many other Pokémon. Red throws a piece of bread to Clefairy for encouragement, but Prof. Birch's snatches it. Clefairy runs at top speed to catch up to Treecko and get his bread back, with both Pokémon far ahead of the others. Clefairy's legs grow long and he is about to win the race, however, he makes a turn just before the finish line to get a snack from a nearby noodle stand.\n\n==Major events==\nand his Pokémon meet Professor Birch.\nRed's Pokémon lose against Professor Birch's in several different competitions.\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Birch\n\n===Pokémon===\n( )\n( )\n( )\n(Professor Birch's)\n(Professor Birch's)\n(Professor Birch's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "I Won't Let You Lead!! (Japanese: 主役の座はわたさない！！ I Won't Let You Steal the Spotlight!!) is the second chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": ", , and arrive in Littleroot Town. They come to a fishing hole, where Professor Birch challenges Red to a -catching duel. Clefairy tries to push Professor Birch's into the water and steal its fishing rod, however, he falls down and fails to catch any Magikarp.\n\nCasting off on boats, Professor Birch and his Pokémon catch several Magikarp, but Red and his Pokémon are unable to capture any because they do not have a good fishing lure. Clefairy tries using Pikachu as a lure instead, and while Pikachu manages to get many Magikarp into Red's boat, they are too heavy and the boat sinks, with all the Magikarp escaping back into the water. By the end, Professor Birch captures thirty Magikarp, while Red was unable to catch any.\n\nUnwilling to give up, Clefairy challenges Professor Birch to a cooking competition next. Prof. Birch's makes a nice cake using its attack. Seeing it, Clefairy makes use of the washing machine to perform the same task, but his cake ended up with clothes decorated on it.\n\nRed decides to challenge Prof. Birch to one last competition: both of them enter a race with many other Pokémon. Red throws a piece of bread to Clefairy for encouragement, but Prof. Birch's snatches it. Clefairy runs at top speed to catch up to Treecko and get his bread back, with both Pokémon far ahead of the others. Clefairy's legs grow long and he is about to win the race, however, he makes a turn just before the finish line to get a snack from a nearby noodle stand."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and his Pokémon meet Professor Birch.\nRed's Pokémon lose against Professor Birch's in several different competitions."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Birch"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Professor Birch's)\n(Professor Birch's)\n(Professor Birch's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS02",
+    "pageType": "chapter",
+    "searchableText": "PMRS02\nCategory:Pokémon Ruby-Sapphire chapters\nI Won't Let You Lead!! (Japanese: 主役の座はわたさない！！ I Won't Let You Steal the Spotlight!!) is the second chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1936,
+    "sectionCount": 5
+  }
+}

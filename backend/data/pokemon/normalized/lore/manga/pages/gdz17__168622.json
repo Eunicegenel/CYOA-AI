@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GDZ17",
+    "slug": "gdz17",
+    "pageId": 168622,
+    "revisionId": 4130790
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz17__168622.json",
+    "revisionTimestamp": "2024-09-29T03:52:59Z",
+    "fetchedAt": "2026-05-14T15:19:32.219Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: マダツボミをつかまえろ！ Catch !) is the seventeenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: マダツボミをつかまえろ！ Catch !) is the seventeenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\nShu and are in a field, enjoying spring weather. Shu spots a ladybug on a leaf, but when he reaches out to touch it, a wild suddenly appears beside him. Frightened, the Bellsprout uses on Shu and Pikachu and flees. Shu sneaks in the grass, observing Bellsprout to learn more about it. As Shu is wondering what it will do next, it releases another attack, this time .\n\nKnowing that if he wishes to capture Bellsprout, he must weaken it, Shu commands Pikachu to attack, thinking that its weight will compensate for 's disadvantage against . However, Bellsprout still clobbers Pikachu. Finally deciding to consult his Pokédex, Shu notices that Bellsprout is weak to s, meaning that his would have an advantage. However, due to Bellsprout's low level, he is scared to use an attack that is too strong. He commands Ponyta to create a wall of flames around Bellsprout, trapping it from escaping. Shu throws a Poké Ball, but he throws it too high, and it disappears.\n\nMeanwhile, Bellsprout is moving about in the small space it is trapped in, still frightened. As it steps in one spot, a Poké Ball flies out from the ground. Shu reveals that they are \"Poké Ball mines\", which he had buried in the area earlier. Somehow, though, Bellsprout manages to deflect all of the Poké Ball mines. Just as Shu thinks all hope is lost, a Poké Ball falls down from the sky, the one that he threw earlier and missed. It manages to fall directly down on Bellsprout, capturing it. Shu claims that he had planned it that way from the very beginning, but Pikachu dismisses it as a fluke.\n\n==Major events==\nShu captures a .\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\n\n===Pokémon===\n( )\n(Shu's; new)\n(Shu's)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: マダツボミをつかまえろ！ Catch !) is the seventeenth chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Shu and are in a field, enjoying spring weather. Shu spots a ladybug on a leaf, but when he reaches out to touch it, a wild suddenly appears beside him. Frightened, the Bellsprout uses on Shu and Pikachu and flees. Shu sneaks in the grass, observing Bellsprout to learn more about it. As Shu is wondering what it will do next, it releases another attack, this time .\n\nKnowing that if he wishes to capture Bellsprout, he must weaken it, Shu commands Pikachu to attack, thinking that its weight will compensate for 's disadvantage against . However, Bellsprout still clobbers Pikachu. Finally deciding to consult his Pokédex, Shu notices that Bellsprout is weak to s, meaning that his would have an advantage. However, due to Bellsprout's low level, he is scared to use an attack that is too strong. He commands Ponyta to create a wall of flames around Bellsprout, trapping it from escaping. Shu throws a Poké Ball, but he throws it too high, and it disappears.\n\nMeanwhile, Bellsprout is moving about in the small space it is trapped in, still frightened. As it steps in one spot, a Poké Ball flies out from the ground. Shu reveals that they are \"Poké Ball mines\", which he had buried in the area earlier. Somehow, though, Bellsprout manages to deflect all of the Poké Ball mines. Just as Shu thinks all hope is lost, a Poké Ball falls down from the sky, the one that he threw earlier and missed. It manages to fall directly down on Bellsprout, capturing it. Shu claims that he had planned it that way from the very beginning, but Pikachu dismisses it as a fluke."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Shu captures a ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's; new)\n(Shu's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ17",
+    "pageType": "chapter",
+    "searchableText": "GDZ17\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: マダツボミをつかまえろ！ Catch !) is the seventeenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1845,
+    "sectionCount": 5
+  }
+}

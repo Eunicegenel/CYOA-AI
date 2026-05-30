@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Siskel",
+    "slug": "siskel",
+    "pageId": 324577,
+    "revisionId": 4509284
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "siskel__324577.json",
+    "revisionTimestamp": "2026-03-16T07:27:33Z",
+    "fetchedAt": "2026-05-14T14:49:58.622Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n \nSiskel (Japanese: マモル Mamoru) is a character of the day who appeared in Ludlow's Homecoming!.",
+  "plainText": "----\n \nSiskel (Japanese: マモル Mamoru) is a character of the day who appeared in Ludlow's Homecoming!.\n\n==History==\nSiskel met Liko, Roy, Dot, and Ludlow while they were exploring Olivine City, trying to find information on . Siskel was cleaning his boat when Roy called out to him, only to run inside his store where an featuring Guy Silver started playing on TV, as he was a big fan. Roy tried to show him a photo they had taken with Mighty G, believing Guy Silver and Mighty G to be one and the same person, but Siskel refused to believe them. Siskel then took the group to the nearby Whirl Islands, but while exploring, a trio of from the Brave Olivine got trapped by the whirlpools. Unaware that Ludlow was actually Mighty G, Siskel stopped him from becoming Mighty G, only to be distracted when Ludlow's appeared, allowing Ludlow to slip away. Siskel watched as Mighty G along with his helped to save the Tatsugiri and got to meet Mighty G for himself.\n\nReturning to Olivine City, he met the other members of the Rising Volt Tacklers, and on learning they were looking for Entei, gave them a location of somewhere to look.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n==Trivia==\nIn the BBC iPlayer closed captions, his name is spelled Cyskel.\nSiskel's English dub name is likely a reference to , a film critic and journalist famous for co-hosting a movie review television series with .\n\n==Names==\n \n \n\n \n\n \n \n \n \n\nes:Siskel/Sixto\nfr:Darfan\nit:Siskel\nzh:守住（城都）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \nSiskel (Japanese: マモル Mamoru) is a character of the day who appeared in Ludlow's Homecoming!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Siskel met Liko, Roy, Dot, and Ludlow while they were exploring Olivine City, trying to find information on . Siskel was cleaning his boat when Roy called out to him, only to run inside his store where an featuring Guy Silver started playing on TV, as he was a big fan. Roy tried to show him a photo they had taken with Mighty G, believing Guy Silver and Mighty G to be one and the same person, but Siskel refused to believe them. Siskel then took the group to the nearby Whirl Islands, but while exploring, a trio of from the Brave Olivine got trapped by the whirlpools. Unaware that Ludlow was actually Mighty G, Siskel stopped him from becoming Mighty G, only to be distracted when Ludlow's appeared, allowing Ludlow to slip away. Siskel watched as Mighty G along with his helped to save the Tatsugiri and got to meet Mighty G for himself.\n\nReturning to Olivine City, he met the other members of the Rising Volt Tacklers, and on learning they were looking for Entei, gave them a location of somewhere to look."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the BBC iPlayer closed captions, his name is spelled Cyskel.\nSiskel's English dub name is likely a reference to , a film critic and journalist famous for co-hosting a movie review television series with ."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Siskel/Sixto\nfr:Darfan\nit:Siskel\nzh:守住（城都）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Siskel",
+    "pageType": "character",
+    "searchableText": "Siskel\nCategory:Horizons characters of the day\n----\n \nSiskel (Japanese: マモル Mamoru) is a character of the day who appeared in Ludlow's Homecoming!.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 1455,
+    "sectionCount": 4
+  }
+}

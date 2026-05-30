@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMRS62",
+    "slug": "pmrs62",
+    "pageId": 172757,
+    "revisionId": 4264666
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs62__172757.json",
+    "revisionTimestamp": "2025-03-23T18:35:13Z",
+    "fetchedAt": "2026-05-14T15:33:51.413Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Let's Go After The Pokémon Ranger! (Japanese: うわさのポケモンレンジャーを追え！！ Let's Go After the Rumored Pokémon Ranger!!) is the sixty-second chapter of the Pokémon Ruby-Sapphire manga set in the Pokémon Pocket Monsters continuity.",
+  "plainText": "Let's Go After The Pokémon Ranger! (Japanese: うわさのポケモンレンジャーを追え！！ Let's Go After the Rumored Pokémon Ranger!!) is the sixty-second chapter of the Pokémon Ruby-Sapphire manga set in the Pokémon Pocket Monsters continuity.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nPokémon Ranger\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Let's Go After The Pokémon Ranger! (Japanese: うわさのポケモンレンジャーを追え！！ Let's Go After the Rumored Pokémon Ranger!!) is the sixty-second chapter of the Pokémon Ruby-Sapphire manga set in the Pokémon Pocket Monsters continuity."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Pokémon Ranger"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS62",
+    "pageType": "chapter",
+    "searchableText": "PMRS62\nCategory:Pokémon Ruby-Sapphire chapters\nLet's Go After The Pokémon Ranger! (Japanese: うわさのポケモンレンジャーを追え！！ Let's Go After the Rumored Pokémon Ranger!!) is the sixty-second chapter of the Pokémon Ruby-Sapphire manga set in the Pokémon Pocket Monsters continuity.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 359,
+    "sectionCount": 3
+  }
+}

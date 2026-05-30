@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "LDK4",
+    "slug": "ldk4",
+    "pageId": 192363,
+    "revisionId": 3997552
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY: The Legend of the Pokémon Dragon King chapters",
+    "sourceFileName": "ldk4__192363.json",
+    "revisionTimestamp": "2024-04-30T13:09:50Z",
+    "fetchedAt": "2026-05-14T15:24:02.160Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 熱戦！アキラVSタイチ！！ Fierce Fighting! Akira VS Taichi!!) is the fourth chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.",
+  "plainText": "(Japanese: 熱戦！アキラVSタイチ！！ Fierce Fighting! Akira VS Taichi!!) is the fourth chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nKanna\nTaichi\nGoro\n\n===Pokémon===\n( 's)\n( 's)\n(Taichi's)\n(Goro's)\n\n \n \n \n\nit:LDK4",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 熱戦！アキラVSタイチ！！ Fierce Fighting! Akira VS Taichi!!) is the fourth chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kanna\nTaichi\nGoro"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( 's)\n(Taichi's)\n(Goro's)\n\n \n \n \n\nit:LDK4"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "LDK4",
+    "pageType": "chapter",
+    "searchableText": "LDK4\nCategory:Pocket Monsters XY: The Legend of the Pokémon Dragon King chapters\n(Japanese: 熱戦！アキラVSタイチ！！ Fierce Fighting! Akira VS Taichi!!) is the fourth chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 333,
+    "sectionCount": 3
+  }
+}

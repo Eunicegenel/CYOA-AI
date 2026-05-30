@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pikachu Manor",
+    "slug": "pikachu-manor",
+    "pageId": 205532,
+    "revisionId": 4261304
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "pikachu-manor__205532.json",
+    "revisionTimestamp": "2025-03-19T21:52:36Z",
+    "fetchedAt": "2026-05-14T14:41:48.328Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Pikachu Manor (Japanese: ピカチュウパレス Pikachu Palace) is an -exclusive location in Kalos, found between Laverre City and Dendemille Town. It was featured in Lights! Camera! Pika!.\n \nPikachu Manor is a large private estate owned by Frank, a movie director and enthusiast. As such, a lot of furniture and items inside resemble Pikachu, including a throne. The Manor contains many rooms including a private screening cinema and editing studio. and visited the Pikachu Manor when they met Frank and his granddaughter Jean, and helped them with Frank's latest production titled .\n\nThe estate also offers many scenic movie shooting locations like forests or lakes, and features Frank's village film set, Pikachu Land (Japanese: ピカチュウランド Pikachu Land).",
+  "plainText": "Pikachu Manor (Japanese: ピカチュウパレス Pikachu Palace) is an -exclusive location in Kalos, found between Laverre City and Dendemille Town. It was featured in Lights! Camera! Pika!.\n \nPikachu Manor is a large private estate owned by Frank, a movie director and enthusiast. As such, a lot of furniture and items inside resemble Pikachu, including a throne. The Manor contains many rooms including a private screening cinema and editing studio. and visited the Pikachu Manor when they met Frank and his granddaughter Jean, and helped them with Frank's latest production titled .\n\nThe estate also offers many scenic movie shooting locations like forests or lakes, and features Frank's village film set, Pikachu Land (Japanese: ピカチュウランド Pikachu Land). \n \n==Pokémon seen around Pikachu Manor==\n \n\n==In other languages==\n \n \n \n \n\n \n\nit:Villa Pikachu\nzh:皮卡丘豪宅",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pikachu Manor (Japanese: ピカチュウパレス Pikachu Palace) is an -exclusive location in Kalos, found between Laverre City and Dendemille Town. It was featured in Lights! Camera! Pika!.\n \nPikachu Manor is a large private estate owned by Frank, a movie director and enthusiast. As such, a lot of furniture and items inside resemble Pikachu, including a throne. The Manor contains many rooms including a private screening cinema and editing studio. and visited the Pikachu Manor when they met Frank and his granddaughter Jean, and helped them with Frank's latest production titled .\n\nThe estate also offers many scenic movie shooting locations like forests or lakes, and features Frank's village film set, Pikachu Land (Japanese: ピカチュウランド Pikachu Land)."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Villa Pikachu\nzh:皮卡丘豪宅"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pikachu Manor",
+    "pageType": "location",
+    "searchableText": "Pikachu Manor\nCategory:Animated series-exclusive locations\nPikachu Manor (Japanese: ピカチュウパレス Pikachu Palace) is an -exclusive location in Kalos, found between Laverre City and Dendemille Town. It was featured in Lights! Camera! Pika!.\n \nPikachu Manor is a large private estate owned by Frank, a movie director and enthusiast. As such, a lot of furniture and items inside resemble Pikachu, including a throne. The Manor contains many rooms including a private screening cinema and editing studio. and visited the Pikachu Manor when they met Frank and his granddaughter Jean, and helped them with Frank's latest production titled .\n\nThe estate also offers many scenic movie shooting locations like forests or lakes, and features Frank's village film set, Pikachu Land (Japanese: ピカチュウランド Pikachu Land).",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 846,
+    "sectionCount": 2
+  }
+}

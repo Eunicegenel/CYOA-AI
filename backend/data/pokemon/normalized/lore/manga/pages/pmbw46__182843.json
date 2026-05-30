@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMBW46",
+    "slug": "pmbw46",
+    "pageId": 182843,
+    "revisionId": 4527192
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw46__182843.json",
+    "revisionTimestamp": "2026-04-09T15:24:20Z",
+    "fetchedAt": "2026-05-14T15:32:12.393Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ハチャメチャ家族ごっこ！ Make-Believe a Nonsense Family!) is the forty-sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ハチャメチャ家族ごっこ！ Make-Believe a Nonsense Family!) is the forty-sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Juniper\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ハチャメチャ家族ごっこ！ Make-Believe a Nonsense Family!) is the forty-sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Juniper"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW46",
+    "pageType": "chapter",
+    "searchableText": "PMBW46\nCategory:Pocket Monsters BW chapters\n(Japanese: ハチャメチャ家族ごっこ！ Make-Believe a Nonsense Family!) is the forty-sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 272,
+    "sectionCount": 3
+  }
+}

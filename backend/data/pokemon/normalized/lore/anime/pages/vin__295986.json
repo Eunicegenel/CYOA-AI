@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Vin",
+    "slug": "vin",
+    "pageId": 295986,
+    "revisionId": 4338566
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "vin__295986.json",
+    "revisionTimestamp": "2025-07-18T21:55:49Z",
+    "fetchedAt": "2026-05-14T14:56:55.439Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Vin (Chinese: 小俊 Xiao Jun) is a main character in The Journey of One Dream. He is the son of Dominic, and finds his father's collection of Pokémon video games.",
+  "plainText": "Vin (Chinese: 小俊 Xiao Jun) is a main character in The Journey of One Dream. He is the son of Dominic, and finds his father's collection of Pokémon video games.\n\n==History==\nVin is a boy whose father is too busy with work to play with him. One day, Vin finds a collection of Pokémon games and Nintendo handhelds under the couch, and decides to boot up the copy of on the Game Boy. He is mysteriously sucked into the world of the game, and meets a young Pokémon Trainer who calls himself Lord Dominic, who Vin notes has the same name as his father. After going in and out of several other Pokémon games, Vin realizes that the Dominic in the game is the same person as his father, and wonders why his father doesn't play with him like he does in the game.\n\nVin starts playing and finds himself alone in Ultra Space. He is soon saved by his father after he discovers that his son was inside the cartridge. After being saved, the two accidentally go on an Ultra Warp Ride and land in Ultra Space Wilds, where they encounter a . During the battle, Vin reminds his father to use his secret technique involving the move that he learned about while playing with Lord Dominic in . With the help of his son and , they manage to escape and return to the real world.\n\nAfter celebrating their battle, Dominic returns to his work, but Vin noticed that something has changed about him. In the epilogue, inside two Nintendo Switch consoles with Pokémon Sword and Shield, Dominic and Vin participate side by side, as Lord Dominic and Vin the Invincible (Chinese: 无敌小俊 Xiao Jun the Invincible), in a Pokémon battle against two Trainers.\n\n==Pokémon==\nThis is a list of Pokémon used by Vin in The Journey of One Dream.\n\n===Generation III===\n \n\n===Generation VII===\n====Temporary====\n \n\n===Generation VIII===\n \n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Vin (Chinese: 小俊 Xiao Jun) is a main character in The Journey of One Dream. He is the son of Dominic, and finds his father's collection of Pokémon video games."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Vin is a boy whose father is too busy with work to play with him. One day, Vin finds a collection of Pokémon games and Nintendo handhelds under the couch, and decides to boot up the copy of on the Game Boy. He is mysteriously sucked into the world of the game, and meets a young Pokémon Trainer who calls himself Lord Dominic, who Vin notes has the same name as his father. After going in and out of several other Pokémon games, Vin realizes that the Dominic in the game is the same person as his father, and wonders why his father doesn't play with him like he does in the game.\n\nVin starts playing and finds himself alone in Ultra Space. He is soon saved by his father after he discovers that his son was inside the cartridge. After being saved, the two accidentally go on an Ultra Warp Ride and land in Ultra Space Wilds, where they encounter a . During the battle, Vin reminds his father to use his secret technique involving the move that he learned about while playing with Lord Dominic in . With the help of his son and , they manage to escape and return to the real world.\n\nAfter celebrating their battle, Dominic returns to his work, but Vin noticed that something has changed about him. In the epilogue, inside two Nintendo Switch consoles with Pokémon Sword and Shield, Dominic and Vin participate side by side, as Lord Dominic and Vin the Invincible (Chinese: 无敌小俊 Xiao Jun the Invincible), in a Pokémon battle against two Trainers."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This is a list of Pokémon used by Vin in The Journey of One Dream."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Vin",
+    "pageType": "character",
+    "searchableText": "Vin\nCategory:Animation characters\nVin (Chinese: 小俊 Xiao Jun) is a main character in The Journey of One Dream. He is the son of Dominic, and finds his father's collection of Pokémon video games.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon"
+    ],
+    "characterCount": 1812,
+    "sectionCount": 3
+  }
+}

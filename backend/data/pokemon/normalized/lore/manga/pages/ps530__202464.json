@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PS530",
+    "slug": "ps530",
+    "pageId": 202464,
+    "revisionId": 4134696
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps530__202464.json",
+    "revisionTimestamp": "2024-09-30T11:23:35Z",
+    "fetchedAt": "2026-05-14T15:45:32.227Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Movie Panic (Japanese: VSバルチャイ VS ), titled VS Vullaby in the Shogakukan Asia translation, is the 530th chapter of the Pokémon Adventures manga, and the sixth chapter of the .\n\nIt is subtitled Vullaby (Japanese: ムービーズ・パニック Movies Panic) in the VIZ Media translation and Movie Panic in the Shogakukan Asia translation.",
+  "plainText": "Movie Panic (Japanese: VSバルチャイ VS ), titled VS Vullaby in the Shogakukan Asia translation, is the 530th chapter of the Pokémon Adventures manga, and the sixth chapter of the .\n\nIt is subtitled Vullaby (Japanese: ムービーズ・パニック Movies Panic) in the VIZ Media translation and Movie Panic in the Shogakukan Asia translation.\n\n==Plot==\n \n\n==Major events==\ntakes the class on a trip to Pokéstar Studios.\nBrycen is revealed to have quit his job as a Gym Leader to return to acting while Sabrina is revealed to have become a .\nparticipates in a movie, only for the Mecha prop to attack everyone in sight.\ndefeats the Mecha Tyranitar prop, much to Whitley's frustration.\nBrycen suggests that Cheren become the Gym Leader of the Aspertia Gym.\nis revealed to have had a part in Pokéstar Studios's creation.\nHugh finds Whitley's pendant, which contains a microchip inside.\n\n \n \n\n===Debuts===\nStu Deeoh\n====Pokémon debuts====\n(West Sea)\n\n==Characters==\n===Humans===\n(flashback)\n\n(fantasy)\nSabrina\nBrycen\nIris (flashback)\nMarlon (flashback)\nColress (fantasy)\nZinzolin (flashback)\nHugh\nLeo\n\nStu Deeoh\ns (fantasy)\nStudents\nMovie director\nAssistant\n\n===Pokémon===\n(Barbara; 's)\n( )\n(Foongy; 's)\n( )\n( )\n(Sabrina's)\n(Leo's)\n(Hugh's)\n( 's)\n( 's)\n( 's)\n(Pokéstar Studios's)\n(student's)\n(student's)\n(student's)\n(student's)\n(student's)\n(student's)\n(West Sea)\n(mecha)\n \n \n \n\nde:VS. Skallyk\nes:PMS530\nfr:Chapitre 530 (Pocket Monsters Special)\nit:LGA530\nzh:宝可梦特别篇 第530话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Movie Panic (Japanese: VSバルチャイ VS ), titled VS Vullaby in the Shogakukan Asia translation, is the 530th chapter of the Pokémon Adventures manga, and the sixth chapter of the .\n\nIt is subtitled Vullaby (Japanese: ムービーズ・パニック Movies Panic) in the VIZ Media translation and Movie Panic in the Shogakukan Asia translation."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "takes the class on a trip to Pokéstar Studios.\nBrycen is revealed to have quit his job as a Gym Leader to return to acting while Sabrina is revealed to have become a .\nparticipates in a movie, only for the Mecha prop to attack everyone in sight.\ndefeats the Mecha Tyranitar prop, much to Whitley's frustration.\nBrycen suggests that Cheren become the Gym Leader of the Aspertia Gym.\nis revealed to have had a part in Pokéstar Studios's creation.\nHugh finds Whitley's pendant, which contains a microchip inside."
+    },
+    {
+      "heading": "Debuts",
+      "level": 3,
+      "text": "Stu Deeoh"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(West Sea)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(flashback)\n\n(fantasy)\nSabrina\nBrycen\nIris (flashback)\nMarlon (flashback)\nColress (fantasy)\nZinzolin (flashback)\nHugh\nLeo\n\nStu Deeoh\ns (fantasy)\nStudents\nMovie director\nAssistant"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Barbara; 's)\n( )\n(Foongy; 's)\n( )\n( )\n(Sabrina's)\n(Leo's)\n(Hugh's)\n( 's)\n( 's)\n( 's)\n(Pokéstar Studios's)\n(student's)\n(student's)\n(student's)\n(student's)\n(student's)\n(student's)\n(West Sea)\n(mecha)\n \n \n \n\nde:VS. Skallyk\nes:PMS530\nfr:Chapitre 530 (Pocket Monsters Special)\nit:LGA530\nzh:宝可梦特别篇 第530话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS530",
+    "pageType": "chapter",
+    "searchableText": "PS530\nCategory:Pokémon Adventures chapters\nMovie Panic (Japanese: VSバルチャイ VS ), titled VS Vullaby in the Shogakukan Asia translation, is the 530th chapter of the Pokémon Adventures manga, and the sixth chapter of the .\n\nIt is subtitled Vullaby (Japanese: ムービーズ・パニック Movies Panic) in the VIZ Media translation and Movie Panic in the Shogakukan Asia translation.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Debuts",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1441,
+    "sectionCount": 6
+  }
+}

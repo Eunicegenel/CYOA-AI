@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Hizuki Misono",
+    "slug": "hizuki-misono",
+    "pageId": 42880,
+    "revisionId": 4387390
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation cast and crew",
+    "sourceFileName": "hizuki-misono__42880.json",
+    "revisionTimestamp": "2025-09-23T19:02:30Z",
+    "fetchedAt": "2026-05-14T14:22:34.955Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Hizuki Misono (Japanese: 御園日月 Misono Hizuki) is an illustrator for the Pokémon Trading Card Game. She is also a staff member of the Pokémon Mystery Dungeon series games and one of its animated specials. She is a staff member to other games, including Pokémon Colosseum.",
+  "plainText": "Hizuki Misono (Japanese: 御園日月 Misono Hizuki) is an illustrator for the Pokémon Trading Card Game. She is also a staff member of the Pokémon Mystery Dungeon series games and one of its animated specials. She is a staff member to other games, including Pokémon Colosseum.\n\n==Credits==\n===Games===\n \n\n===Animation===\nPokémon Mystery Dungeon: Explorers of Time & Darkness (coordinator)\n\n===Cards illustrated===\n==== ====\n\n==== ====\n\n \n \n \n \n \n\nde:Hizuki Misono\nfr:Hizuki Misono\nit:Hizuki Misono\nja:御園日月",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hizuki Misono (Japanese: 御園日月 Misono Hizuki) is an illustrator for the Pokémon Trading Card Game. She is also a staff member of the Pokémon Mystery Dungeon series games and one of its animated specials. She is a staff member to other games, including Pokémon Colosseum."
+    },
+    {
+      "heading": "Animation",
+      "level": 3,
+      "text": "Pokémon Mystery Dungeon: Explorers of Time & Darkness (coordinator)"
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "de:Hizuki Misono\nfr:Hizuki Misono\nit:Hizuki Misono\nja:御園日月"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hizuki Misono",
+    "pageType": "general-anime-lore",
+    "searchableText": "Hizuki Misono\nCategory:Animation cast and crew\nHizuki Misono (Japanese: 御園日月 Misono Hizuki) is an illustrator for the Pokémon Trading Card Game. She is also a staff member of the Pokémon Mystery Dungeon series games and one of its animated specials. She is a staff member to other games, including Pokémon Colosseum.",
+    "sectionHeadings": [
+      "Lead",
+      "Animation",
+      ""
+    ],
+    "characterCount": 498,
+    "sectionCount": 3
+  }
+}

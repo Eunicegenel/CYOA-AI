@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Rival (4Koma)",
+    "slug": "rival-4koma",
+    "pageId": 67261,
+    "revisionId": 4525934
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma characters",
+    "sourceFileName": "rival-4koma__67261.json",
+    "revisionTimestamp": "2026-04-09T14:07:01Z",
+    "fetchedAt": "2026-05-14T15:48:20.852Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Rival is one of the characters in Pokémon 4Koma. He is based on the Generation I version of from . Rival is also the rival of .\n \n \n \n \n\nit:Rival (4Koma)\nzh:勁敵（4Koma）",
+  "plainText": "Rival is one of the characters in Pokémon 4Koma. He is based on the Generation I version of from . Rival is also the rival of .\n \n \n \n \n\nit:Rival (4Koma)\nzh:勁敵（4Koma）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Rival is one of the characters in Pokémon 4Koma. He is based on the Generation I version of from . Rival is also the rival of .\n \n \n \n \n\nit:Rival (4Koma)\nzh:勁敵（4Koma）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rival (4Koma)",
+    "pageType": "character",
+    "searchableText": "Rival (4Koma)\nCategory:Pokémon 4Koma characters\nRival is one of the characters in Pokémon 4Koma. He is based on the Generation I version of from . Rival is also the rival of .\n \n \n \n \n\nit:Rival (4Koma)\nzh:勁敵（4Koma）",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 166,
+    "sectionCount": 1
+  }
+}

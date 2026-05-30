@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "MTM08",
+    "slug": "mtm08",
+    "pageId": 308057,
+    "revisionId": 4169323
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mezastar: Aim to Be a Tag Master! chapters",
+    "sourceFileName": "mtm08__308057.json",
+    "revisionTimestamp": "2024-10-27T20:48:04Z",
+    "fetchedAt": "2026-05-14T15:27:17.218Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the eighth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the February 2022 issue of CoroCoro Ichiban!, released on December 21, 2021. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on July 15, 2022.",
+  "plainText": "This is the eighth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the February 2022 issue of CoroCoro Ichiban!, released on December 21, 2021. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on July 15, 2022.\n\n==Plot==\n \n \n \n\n==Major events==\n===Debuts===\n====Humans====\n\n==Characters==\n===Humans===\nKira Hoshio\nSuguru Tsukino\nDouji Futakata\nRekuto Kuroko\n\n==Tags featured==\n \nSolgaleo (CoroCoro Ichiban! February 2022)\nLunala (Pokémon Fan Issue 76)\nMewtwo (2-001)\nFlygon (3-012)\nInfernape (2-3-007)\nMetagross (2-3-025)\nDreepy (2-3-039)\nElectabuzz (2-3-047)\nAlolan Sandslash (2-3-063)\nGyarados (2-3-014)\nLuxio (2-3-053)\nPiplup (2-3-032)\nRegisteel (2-3-013)\nDialga (2-3-001)\n\n==Trivia==\n \nThis chapter was published in an extra book of the CoroCoro Ichiban! February 2022 issue titled (Japanese: ポケモンメザスタ　ＳＴ３だん超攻略ＢＯＯＫ！). \nThis chapter features the February 2022 issue of CoroCoro Ichiban! and the issue 76 (January 2022) of .\n\n==References==\n \n\n==External links==\nChapter 8 on Weekly CoroCoro Comics",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the eighth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the February 2022 issue of CoroCoro Ichiban!, released on December 21, 2021. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on July 15, 2022."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kira Hoshio\nSuguru Tsukino\nDouji Futakata\nRekuto Kuroko"
+    },
+    {
+      "heading": "Tags featured",
+      "level": 2,
+      "text": "Solgaleo (CoroCoro Ichiban! February 2022)\nLunala (Pokémon Fan Issue 76)\nMewtwo (2-001)\nFlygon (3-012)\nInfernape (2-3-007)\nMetagross (2-3-025)\nDreepy (2-3-039)\nElectabuzz (2-3-047)\nAlolan Sandslash (2-3-063)\nGyarados (2-3-014)\nLuxio (2-3-053)\nPiplup (2-3-032)\nRegisteel (2-3-013)\nDialga (2-3-001)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This chapter was published in an extra book of the CoroCoro Ichiban! February 2022 issue titled (Japanese: ポケモンメザスタ　ＳＴ３だん超攻略ＢＯＯＫ！). \nThis chapter features the February 2022 issue of CoroCoro Ichiban! and the issue 76 (January 2022) of ."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 8 on Weekly CoroCoro Comics"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MTM08",
+    "pageType": "chapter",
+    "searchableText": "MTM08\nCategory:Pokémon Mezastar: Aim to Be a Tag Master! chapters\nThis is the eighth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the February 2022 issue of CoroCoro Ichiban!, released on December 21, 2021. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on July 15, 2022.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Tags featured",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 1063,
+    "sectionCount": 5
+  }
+}

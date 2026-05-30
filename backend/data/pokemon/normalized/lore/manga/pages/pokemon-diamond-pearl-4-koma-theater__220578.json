@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Pokémon Diamond/Pearl 4-koma Theater",
+    "slug": "pokemon-diamond-pearl-4-koma-theater",
+    "pageId": 220578,
+    "revisionId": 3309961
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-diamond-pearl-4-koma-theater__220578.json",
+    "revisionTimestamp": "2021-01-09T18:13:14Z",
+    "fetchedAt": "2026-05-14T15:36:24.040Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモンDP4コマ劇場 Pokémon Diamond/Pearl 4-koma Theater) is a Pokémon 4Koma created by Ryū Matsushima. It appeared in CoroCoro issue July 2007.\n\n \n \n\n \n\nzh:宝可梦钻石珍珠四格剧场",
+  "plainText": "(Japanese: ポケモンDP4コマ劇場 Pokémon Diamond/Pearl 4-koma Theater) is a Pokémon 4Koma created by Ryū Matsushima. It appeared in CoroCoro issue July 2007.\n\n \n \n\n \n\nzh:宝可梦钻石珍珠四格剧场",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンDP4コマ劇場 Pokémon Diamond/Pearl 4-koma Theater) is a Pokémon 4Koma created by Ryū Matsushima. It appeared in CoroCoro issue July 2007.\n\n \n \n\n \n\nzh:宝可梦钻石珍珠四格剧场"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Diamond/Pearl 4-koma Theater",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Diamond/Pearl 4-koma Theater\nCategory:Pokémon 4Koma\n(Japanese: ポケモンDP4コマ劇場 Pokémon Diamond/Pearl 4-koma Theater) is a Pokémon 4Koma created by Ryū Matsushima. It appeared in CoroCoro issue July 2007.\n\n \n \n\n \n\nzh:宝可梦钻石珍珠四格剧场",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 171,
+    "sectionCount": 1
+  }
+}

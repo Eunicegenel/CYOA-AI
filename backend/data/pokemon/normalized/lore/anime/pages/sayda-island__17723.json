@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Sayda Island",
+    "slug": "sayda-island",
+    "pageId": 17723,
+    "revisionId": 4261145
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "sayda-island__17723.json",
+    "revisionTimestamp": "2025-03-19T21:50:40Z",
+    "fetchedAt": "2026-05-14T14:48:35.111Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Sayda Island (Japanese: サイダ島 Sayda Island) is an -exclusive location in Kanto.\n\nSayda Island is a heavily forested area, with a rocky, mountainous portion that is notable for being where found the Fossilized Egg. This Egg, along with a sample of Old Amber, was used by and Crystal's sister, Dora, to revive an Aerodactyl, which broke free of the lab.\n\nSayda Island also has fruit trees, the fruit of which Aerodactyl has been depicted to enjoy eating.",
+  "plainText": "Sayda Island (Japanese: サイダ島 Sayda Island) is an -exclusive location in Kanto.\n\nSayda Island is a heavily forested area, with a rocky, mountainous portion that is notable for being where found the Fossilized Egg. This Egg, along with a sample of Old Amber, was used by and Crystal's sister, Dora, to revive an Aerodactyl, which broke free of the lab.\n\nSayda Island also has fruit trees, the fruit of which Aerodactyl has been depicted to enjoy eating.\n\n==Places of interest==\n===Sayda Lab===\n \nThe Sayda Lab is a specialized Fossil research facility lead by Dora. Following his journey through the Johto region, landed a position at Sayda Lab and went on to revive an , its first resurrected Pokémon, from DNA recovered from a fossilized and Old Amber.\n\nThe facility also houses an extensive collection of fossilized remains and a large display with life-size reconstructions of all the Kanto Fossil Pokémon.\n \n==Pokémon seen on Sayda Island==\n \n\n==Related articles==\n \n \n\n \n\nde:Sayda Island\nes:Isla Sayda\nit:Isola Sayda",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sayda Island (Japanese: サイダ島 Sayda Island) is an -exclusive location in Kanto.\n\nSayda Island is a heavily forested area, with a rocky, mountainous portion that is notable for being where found the Fossilized Egg. This Egg, along with a sample of Old Amber, was used by and Crystal's sister, Dora, to revive an Aerodactyl, which broke free of the lab.\n\nSayda Island also has fruit trees, the fruit of which Aerodactyl has been depicted to enjoy eating."
+    },
+    {
+      "heading": "Sayda Lab",
+      "level": 3,
+      "text": "The Sayda Lab is a specialized Fossil research facility lead by Dora. Following his journey through the Johto region, landed a position at Sayda Lab and went on to revive an , its first resurrected Pokémon, from DNA recovered from a fossilized and Old Amber.\n\nThe facility also houses an extensive collection of fossilized remains and a large display with life-size reconstructions of all the Kanto Fossil Pokémon."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Sayda Island\nes:Isla Sayda\nit:Isola Sayda"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sayda Island",
+    "pageType": "location",
+    "searchableText": "Sayda Island\nCategory:Animated series-exclusive locations\nSayda Island (Japanese: サイダ島 Sayda Island) is an -exclusive location in Kanto.\n\nSayda Island is a heavily forested area, with a rocky, mountainous portion that is notable for being where found the Fossilized Egg. This Egg, along with a sample of Old Amber, was used by and Crystal's sister, Dora, to revive an Aerodactyl, which broke free of the lab.\n\nSayda Island also has fruit trees, the fruit of which Aerodactyl has been depicted to enjoy eating.",
+    "sectionHeadings": [
+      "Lead",
+      "Sayda Lab",
+      "Related articles"
+    ],
+    "characterCount": 1020,
+    "sectionCount": 3
+  }
+}

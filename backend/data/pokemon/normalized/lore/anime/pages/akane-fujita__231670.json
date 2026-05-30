@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Akane Fujita",
+    "slug": "akane-fujita",
+    "pageId": 231670,
+    "revisionId": 4429693
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "akane-fujita__231670.json",
+    "revisionTimestamp": "2025-11-23T01:51:07Z",
+    "fetchedAt": "2026-05-14T14:00:19.468Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Akane Fujita (Japanese: 藤田茜 Fujita Akane) is a Japanese voice actress for .",
+  "plainText": "Akane Fujita (Japanese: 藤田茜 Fujita Akane) is a Japanese voice actress for .\n\n==Biography==\nFujita was born on January 26, 1993, in , . During her junior high school years, she became interested in voice acting after regularly watching anime, and also due to the fact that her friends were fans of anime and voice acting. In 2011, Fujita passed an audition hosted by the talent agency Ken Production and was able to attend a voice acting school in addition to a regular university. Her voice acting career began in 2012, and she started getting more and more significant roles as the years went by. She even became a singer, performing songs for a few anime series. Fujita became involved with during , voicing Team Flare scientist Bryony.\n\n==Pokémon roles==\n===Animation===\n==== ====\nBryony\nGirl (XY124)\n====Pokémon Evolutions====\nNaoko\n\n==Other non-Pokémon roles==\nAkane Mimori, Shizuka Kisaki, Minami Hateruma ( )\nNapa Payakaroon ( )\nIda Futaba ( )\nYukari Mizumoto ( (anime))\nMegumi Uda/Megu-chan ( )\nYuzuka Hanami ( )\nSistine Fibel ( )\nSagiri Izumi ( )\nEnvy Demon Lord ( \nCelia Claire ( )\nKaiko Mikuniyama ( )\nFū Sagami ( )\n\n===Video game roles===\nYuri ( )\nYukari Mizumoto ( , )\nMinami Hateruma ( )\nFanil Comet ( )\nSucrose ( )\n\n==External links==\nKen Production profile",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Akane Fujita (Japanese: 藤田茜 Fujita Akane) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Fujita was born on January 26, 1993, in , . During her junior high school years, she became interested in voice acting after regularly watching anime, and also due to the fact that her friends were fans of anime and voice acting. In 2011, Fujita passed an audition hosted by the talent agency Ken Production and was able to attend a voice acting school in addition to a regular university. Her voice acting career began in 2012, and she started getting more and more significant roles as the years went by. She even became a singer, performing songs for a few anime series. Fujita became involved with during , voicing Team Flare scientist Bryony."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Bryony\nGirl (XY124)"
+    },
+    {
+      "heading": "Pokémon Evolutions",
+      "level": 4,
+      "text": "Naoko"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Akane Mimori, Shizuka Kisaki, Minami Hateruma ( )\nNapa Payakaroon ( )\nIda Futaba ( )\nYukari Mizumoto ( (anime))\nMegumi Uda/Megu-chan ( )\nYuzuka Hanami ( )\nSistine Fibel ( )\nSagiri Izumi ( )\nEnvy Demon Lord ( \nCelia Claire ( )\nKaiko Mikuniyama ( )\nFū Sagami ( )"
+    },
+    {
+      "heading": "Video game roles",
+      "level": 3,
+      "text": "Yuri ( )\nYukari Mizumoto ( , )\nMinami Hateruma ( )\nFanil Comet ( )\nSucrose ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Ken Production profile"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Akane Fujita",
+    "pageType": "general-anime-lore",
+    "searchableText": "Akane Fujita\nCategory:Japanese voice actors\nAkane Fujita (Japanese: 藤田茜 Fujita Akane) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Pokémon Evolutions",
+      "Other non-Pokémon roles",
+      "Video game roles",
+      "External links"
+    ],
+    "characterCount": 1272,
+    "sectionCount": 7
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Antimony Research Lab",
+    "slug": "antimony-research-lab",
+    "pageId": 167843,
+    "revisionId": 4261128
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "antimony-research-lab__167843.json",
+    "revisionTimestamp": "2025-03-19T21:50:29Z",
+    "fetchedAt": "2026-05-14T14:03:04.525Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Antimony Research Lab (Japanese: アンチモニー研究所 Antimony Research Institute) is an -exclusive location in the Unova region.\n\nIt appeared in A Home for Dwebble! as a facility where research on the Meteonite was being carried out. Pierce assigned Jessie, James, and to investigate it and steal all of its data on the Meteonite. Later in the episode, the trio infiltrated the lab by skillfully evading its infrared sensor security. Using a remote-controlled device, James successfully downloaded all of the data on the lab's servers, which they later handed over to Pierce.",
+  "plainText": "The Antimony Research Lab (Japanese: アンチモニー研究所 Antimony Research Institute) is an -exclusive location in the Unova region.\n\nIt appeared in A Home for Dwebble! as a facility where research on the Meteonite was being carried out. Pierce assigned Jessie, James, and to investigate it and steal all of its data on the Meteonite. Later in the episode, the trio infiltrated the lab by skillfully evading its infrared sensor security. Using a remote-controlled device, James successfully downloaded all of the data on the lab's servers, which they later handed over to Pierce.\n\n==In other languages==\n \n \n \n \n\n \n\nit:Laboratorio di Ricerca di Antimonio\nzh:安奇摩尼研究所",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Antimony Research Lab (Japanese: アンチモニー研究所 Antimony Research Institute) is an -exclusive location in the Unova region.\n\nIt appeared in A Home for Dwebble! as a facility where research on the Meteonite was being carried out. Pierce assigned Jessie, James, and to investigate it and steal all of its data on the Meteonite. Later in the episode, the trio infiltrated the lab by skillfully evading its infrared sensor security. Using a remote-controlled device, James successfully downloaded all of the data on the lab's servers, which they later handed over to Pierce."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Laboratorio di Ricerca di Antimonio\nzh:安奇摩尼研究所"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Antimony Research Lab",
+    "pageType": "location",
+    "searchableText": "Antimony Research Lab\nCategory:Animated series-exclusive locations\nThe Antimony Research Lab (Japanese: アンチモニー研究所 Antimony Research Institute) is an -exclusive location in the Unova region.\n\nIt appeared in A Home for Dwebble! as a facility where research on the Meteonite was being carried out. Pierce assigned Jessie, James, and to investigate it and steal all of its data on the Meteonite. Later in the episode, the trio infiltrated the lab by skillfully evading its infrared sensor security. Using a remote-controlled device, James successfully downloaded all of the data on the lab's servers, which they later handed over to Pierce.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 655,
+    "sectionCount": 2
+  }
+}

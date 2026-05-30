@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GB05",
+    "slug": "gb05",
+    "pageId": 158828,
+    "revisionId": 4527587
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys chapters",
+    "sourceFileName": "gb05__158828.json",
+    "revisionTimestamp": "2026-04-09T15:43:16Z",
+    "fetchedAt": "2026-05-14T15:19:09.726Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Extreme Power! The Friday Pokémon (Japanese: 超強力!! 金曜日のポケモン Super Strength!! The Friday Pokémon) is the fifth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+  "plainText": "Extreme Power! The Friday Pokémon (Japanese: 超強力!! 金曜日のポケモン Super Strength!! The Friday Pokémon) is the fifth chapter of the Pokémon Gold & Silver: The Golden Boys manga.\n\n==Plot==\n \n\n==Major events==\nBlack releases Bayleef which joins Gold's team.\n\n===Debuts===\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\nBugsy\n\n===Pokémon===\n( )\n( )\n( )\n( 's)\n( ; formerly 's)\n( 's)\n\n \n \n \n\nes:GB05\nit:GB05",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Extreme Power! The Friday Pokémon (Japanese: 超強力!! 金曜日のポケモン Super Strength!! The Friday Pokémon) is the fifth chapter of the Pokémon Gold & Silver: The Golden Boys manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Black releases Bayleef which joins Gold's team."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Bugsy"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( 's)\n( ; formerly 's)\n( 's)\n\n \n \n \n\nes:GB05\nit:GB05"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GB05",
+    "pageType": "chapter",
+    "searchableText": "GB05\nCategory:Pokémon Gold & Silver: The Golden Boys chapters\nExtreme Power! The Friday Pokémon (Japanese: 超強力!! 金曜日のポケモン Super Strength!! The Friday Pokémon) is the fifth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 405,
+    "sectionCount": 5
+  }
+}

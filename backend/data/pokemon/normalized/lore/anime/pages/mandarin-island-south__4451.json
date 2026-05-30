@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Mandarin Island South",
+    "slug": "mandarin-island-south",
+    "pageId": 4451,
+    "revisionId": 4507698
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands",
+    "sourceFileName": "mandarin-island-south__4451.json",
+    "revisionTimestamp": "2026-03-14T22:56:44Z",
+    "fetchedAt": "2026-05-14T14:34:40.304Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Mandarin Island South (Japanese: マンダリン島 Mandarin Island) is located in the southern end of the Orange Islands. It is the largest island in the chain. It was featured from The Mandarin Island Miss Match to The Mystery Menace.",
+  "plainText": "Mandarin Island South (Japanese: マンダリン島 Mandarin Island) is located in the southern end of the Orange Islands. It is the largest island in the chain. It was featured from The Mandarin Island Miss Match to The Mystery Menace.\n\n==In animation==\n \nMandarin Island South is home to many big cities and a large stadium, though much of the island is desert.\n\nIn The Mandarin Island Miss Match, and met Prima of the Elite Four. She trains here during the off-season and has a home just outside a large city. Once a week, she gives lectures and demonstrates Pokémon battling techniques. Prima gave Ash a lesson in humility after noticing that he was becoming overconfident and not listening to his Pokémon.\n\nIn Wherefore Art Thou, Pokémon?, the group helped Yambera quarrelling neighbors and for the sake of their Nidoran, who had fallen in love.\n\nThe group met electricity supplier in Get Along, Little Pokémon, who agreed to give them a lift in exchange for their help. He carts throughout the deserts of Mandarin Island South to deliver electricity to isolated towns and cities. The harsh landscape is prone to lightning storms, though Ethan uses the electricity to charge up his team of .\n\nIn The Mystery Menace, Ash and his friends arrived in the large port city of Trovitopolis. A mystery creature, which was later discovered to be a discarded by the Mayor of Trovitopolis was accused of endangering the public. Ash and his friends traversed the city's extensive sewers and saved the Bulbasaur from the Mayor’s plans to destroy it.\n \n\n==Locations==\n===Cities and towns===\nTrovitopolis\nYambera\n\n==Gallery==\n \n\n==Pokémon seen on Mandarin Island South==\n \n\n==Trivia==\nThe island doesn't appear to have much in common with Mandarin Island North. It is believed that naming both islands the same name was a dubbing error, as the Japanese names are different for both.\n\n==Names==\n \n \n==Related articles==\n \n \n \n\nde:Mandarin Insel (Süd)\nes:Isla Mandarín/Mandarina (sur)\nfr:Île Mandarine\nit:Isola dei Mandarini Sud\nzh:小橘子岛",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mandarin Island South (Japanese: マンダリン島 Mandarin Island) is located in the southern end of the Orange Islands. It is the largest island in the chain. It was featured from The Mandarin Island Miss Match to The Mystery Menace."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "Mandarin Island South is home to many big cities and a large stadium, though much of the island is desert.\n\nIn The Mandarin Island Miss Match, and met Prima of the Elite Four. She trains here during the off-season and has a home just outside a large city. Once a week, she gives lectures and demonstrates Pokémon battling techniques. Prima gave Ash a lesson in humility after noticing that he was becoming overconfident and not listening to his Pokémon.\n\nIn Wherefore Art Thou, Pokémon?, the group helped Yambera quarrelling neighbors and for the sake of their Nidoran, who had fallen in love.\n\nThe group met electricity supplier in Get Along, Little Pokémon, who agreed to give them a lift in exchange for their help. He carts throughout the deserts of Mandarin Island South to deliver electricity to isolated towns and cities. The harsh landscape is prone to lightning storms, though Ethan uses the electricity to charge up his team of .\n\nIn The Mystery Menace, Ash and his friends arrived in the large port city of Trovitopolis. A mystery creature, which was later discovered to be a discarded by the Mayor of Trovitopolis was accused of endangering the public. Ash and his friends traversed the city's extensive sewers and saved the Bulbasaur from the Mayor’s plans to destroy it."
+    },
+    {
+      "heading": "Cities and towns",
+      "level": 3,
+      "text": "Trovitopolis\nYambera"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The island doesn't appear to have much in common with Mandarin Island North. It is believed that naming both islands the same name was a dubbing error, as the Japanese names are different for both."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Mandarin Insel (Süd)\nes:Isla Mandarín/Mandarina (sur)\nfr:Île Mandarine\nit:Isola dei Mandarini Sud\nzh:小橘子岛"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mandarin Island South",
+    "pageType": "general-anime-lore",
+    "searchableText": "Mandarin Island South\nCategory:Orange Islands\nMandarin Island South (Japanese: マンダリン島 Mandarin Island) is located in the southern end of the Orange Islands. It is the largest island in the chain. It was featured from The Mandarin Island Miss Match to The Mystery Menace.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "Cities and towns",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 2012,
+    "sectionCount": 5
+  }
+}

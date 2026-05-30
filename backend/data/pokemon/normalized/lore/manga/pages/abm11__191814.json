@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "ABM11",
+    "slug": "abm11",
+    "pageId": 191814,
+    "revisionId": 4527956
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abm11__191814.json",
+    "revisionTimestamp": "2026-04-09T16:01:43Z",
+    "fetchedAt": "2026-05-14T15:12:12.440Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: めざせ！バトリオタワー制覇！！ Aim to Conquer the Battle Tower!!) is the eleventh chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: めざせ！バトリオタワー制覇！！ Aim to Conquer the Battle Tower!!) is the eleventh chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyū Tendō\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: めざせ！バトリオタワー制覇！！ Aim to Conquer the Battle Tower!!) is the eleventh chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryū Tendō"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABM11",
+    "pageType": "chapter",
+    "searchableText": "ABM11\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: めざせ！バトリオタワー制覇！！ Aim to Conquer the Battle Tower!!) is the eleventh chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 262,
+    "sectionCount": 2
+  }
+}

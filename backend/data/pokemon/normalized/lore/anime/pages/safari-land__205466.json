@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Safari Land",
+    "slug": "safari-land",
+    "pageId": 205466,
+    "revisionId": 4261289
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "safari-land__205466.json",
+    "revisionTimestamp": "2025-03-19T21:52:30Z",
+    "fetchedAt": "2026-05-14T14:47:55.750Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "(Japanese: サファリランド Safari Land) is an -exclusive location in Kanto. Located between Fuchsia City and the , it is a reserve where lots of Pokémon live in peace.",
+  "plainText": "(Japanese: サファリランド Safari Land) is an -exclusive location in Kanto. Located between Fuchsia City and the , it is a reserve where lots of Pokémon live in peace.\n\n==Places of interest==\n===The Laramie Big P Ranch and Laramie Village===\n \nLocated in Safari Land is the Laramie Big P Ranch, which is owned by the Laramie family. On the ranch, lots of Pokémon are bred and raised in their natural habitat. It is not allowed to catch Pokémon inside the Laramie Big P Ranch. According to , s love Pokémon originating from the ranch, because they were raised in the wild and are a little bit stronger than other Pokémon. Located on the farm is Laramie Village, which would host a festival commemorating the Big P Pokémon Race, night before the event starts.\n\n and arrived on the ranch in The Flame Pokémon-athon!. Thinking they had reached the Safari Zone, Ash attempted to catch a . He was stopped by a that was revealed to be owned by Lara Laramie, part of the Laramie family and in charge of patrolling the farm. After making clear they had no intention to do any harm, Lara introduced herself to the group. She invited them to a party at Laramie Village held that night and also to watch the Big P Pokémon Race held the day after.\n\n===Pokémon Preservation Area===\nCloser to the Safari Zone are dense forests and open plains filled with many rare wild Pokémon, which are patrolled by Ranger Jenny in her jeep. In The Kangaskhan Kid, Ash and his friends helped to reunite with his parents after they lost him in Safari Land five years earlier. After defeating , Tommy's parents decided to live with Tommy's adopted family, a herd of .\n \n==Pokémon seen in Safari Land==\n \n\n==In other languages==\n \n \n \n \n \n\nes:Safari Land\nfr:Ranch Pokémon du Grand L\nit:Terra Safari\nzh:宝可梦保护区（关都）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: サファリランド Safari Land) is an -exclusive location in Kanto. Located between Fuchsia City and the , it is a reserve where lots of Pokémon live in peace."
+    },
+    {
+      "heading": "The Laramie Big P Ranch and Laramie Village",
+      "level": 3,
+      "text": "Located in Safari Land is the Laramie Big P Ranch, which is owned by the Laramie family. On the ranch, lots of Pokémon are bred and raised in their natural habitat. It is not allowed to catch Pokémon inside the Laramie Big P Ranch. According to , s love Pokémon originating from the ranch, because they were raised in the wild and are a little bit stronger than other Pokémon. Located on the farm is Laramie Village, which would host a festival commemorating the Big P Pokémon Race, night before the event starts.\n\n and arrived on the ranch in The Flame Pokémon-athon!. Thinking they had reached the Safari Zone, Ash attempted to catch a . He was stopped by a that was revealed to be owned by Lara Laramie, part of the Laramie family and in charge of patrolling the farm. After making clear they had no intention to do any harm, Lara introduced herself to the group. She invited them to a party at Laramie Village held that night and also to watch the Big P Pokémon Race held the day after."
+    },
+    {
+      "heading": "Pokémon Preservation Area",
+      "level": 3,
+      "text": "Closer to the Safari Zone are dense forests and open plains filled with many rare wild Pokémon, which are patrolled by Ranger Jenny in her jeep. In The Kangaskhan Kid, Ash and his friends helped to reunite with his parents after they lost him in Safari Land five years earlier. After defeating , Tommy's parents decided to live with Tommy's adopted family, a herd of ."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Safari Land\nfr:Ranch Pokémon du Grand L\nit:Terra Safari\nzh:宝可梦保护区（关都）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Safari Land",
+    "pageType": "location",
+    "searchableText": "Safari Land\nCategory:Animated series-exclusive locations\n(Japanese: サファリランド Safari Land) is an -exclusive location in Kanto. Located between Fuchsia City and the , it is a reserve where lots of Pokémon live in peace.",
+    "sectionHeadings": [
+      "Lead",
+      "The Laramie Big P Ranch and Laramie Village",
+      "Pokémon Preservation Area",
+      "In other languages"
+    ],
+    "characterCount": 1772,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Flower Garden Troupe",
+    "slug": "flower-garden-troupe",
+    "pageId": 248115,
+    "revisionId": 4261362
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "flower-garden-troupe__248115.json",
+    "revisionTimestamp": "2025-03-19T21:53:08Z",
+    "fetchedAt": "2026-05-14T14:19:19.798Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Flower Garden Troupe is an all-female group of theater performers, which is managed by Ms. Chandler. They have a headquarters complex near Undella Town in Unova, though they are often touring in their signature rose-decorated bus.",
+  "plainText": "The Flower Garden Troupe is an all-female group of theater performers, which is managed by Ms. Chandler. They have a headquarters complex near Undella Town in Unova, though they are often touring in their signature rose-decorated bus.\n\n==Organization==\n \nThe Flower Garden Troupe is the most popular troupe in Unova, and all of the performers are female, including the Pokémon. Moira, Mona, and Cher are the lead members. The Troupe likes to exemplify the qualities and etiquette of young and wealthy ladies, and as such, they often dress in regency-style garments.\n\n and clashed with the troupe in Beauties Battling for Pride and Prestige!. They were put through several grueling tests of their patience and manners.\n \n==Pokémon==\nThe following Pokémon are used by the Flower Garden Troupe.\n\n===Cher===\n \n\n===Moira===\n \n\n===Mona===\n \n\n===Unknown===\n \n \n\n==In other languages==\n \n \n \n \n\n \n\nit:Compagnia del Giardino dei Fiori",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Flower Garden Troupe is an all-female group of theater performers, which is managed by Ms. Chandler. They have a headquarters complex near Undella Town in Unova, though they are often touring in their signature rose-decorated bus."
+    },
+    {
+      "heading": "Organization",
+      "level": 2,
+      "text": "The Flower Garden Troupe is the most popular troupe in Unova, and all of the performers are female, including the Pokémon. Moira, Mona, and Cher are the lead members. The Troupe likes to exemplify the qualities and etiquette of young and wealthy ladies, and as such, they often dress in regency-style garments.\n\n and clashed with the troupe in Beauties Battling for Pride and Prestige!. They were put through several grueling tests of their patience and manners."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "The following Pokémon are used by the Flower Garden Troupe."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Compagnia del Giardino dei Fiori"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Flower Garden Troupe",
+    "pageType": "location",
+    "searchableText": "Flower Garden Troupe\nCategory:Animated series-exclusive locations\nThe Flower Garden Troupe is an all-female group of theater performers, which is managed by Ms. Chandler. They have a headquarters complex near Undella Town in Unova, though they are often touring in their signature rose-decorated bus.",
+    "sectionHeadings": [
+      "Lead",
+      "Organization",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 925,
+    "sectionCount": 4
+  }
+}

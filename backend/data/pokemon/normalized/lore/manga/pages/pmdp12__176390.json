@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP12",
+    "slug": "pmdp12",
+    "pageId": 176390,
+    "revisionId": 4528524
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp12__176390.json",
+    "revisionTimestamp": "2026-04-09T16:25:02Z",
+    "fetchedAt": "2026-05-14T15:32:20.615Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: のポケモン ！ Illusory Pokémon Discovery!) is the twelfth chapter of the manga.",
+  "plainText": "(Japanese: のポケモン ！ Illusory Pokémon Discovery!) is the twelfth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: のポケモン ！ Illusory Pokémon Discovery!) is the twelfth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP12",
+    "pageType": "chapter",
+    "searchableText": "PMDP12\nCategory:Pocket Monsters DP chapters\n(Japanese: のポケモン ！ Illusory Pokémon Discovery!) is the twelfth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 208,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Mara Junot",
+    "slug": "mara-junot",
+    "pageId": 305774,
+    "revisionId": 4323617
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "mara-junot__305774.json",
+    "revisionTimestamp": "2025-06-24T03:33:21Z",
+    "fetchedAt": "2026-05-14T14:34:45.886Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Mara Junot is an American voice actress for the English-language dub of .",
+  "plainText": "Mara Junot is an American voice actress for the English-language dub of .\n\n==Biography==\nJunot was born on May 8th, and she became a voice actress as an adult. Junot joined the cast of Pokémon during , voicing Orla from the Rising Volt Tacklers.\n\n==Pokémon roles==\n===Animation===\n==== ====\nOrla\n\n==Other non-Pokémon roles==\n( )\n( )\nLyssa Dark, Banth Dar ( )\nJules, Shoola ( )\nSindel ( )\n\n==External links==\nOfficial website\nTwitter\n\n \n \n\nit:Mara Junot",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mara Junot is an American voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Junot was born on May 8th, and she became a voice actress as an adult. Junot joined the cast of Pokémon during , voicing Orla from the Rising Volt Tacklers."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Orla"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "( )\n( )\nLyssa Dark, Banth Dar ( )\nJules, Shoola ( )\nSindel ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTwitter\n\n \n \n\nit:Mara Junot"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mara Junot",
+    "pageType": "general-anime-lore",
+    "searchableText": "Mara Junot\nCategory:TPCi voice actors\nMara Junot is an American voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 452,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM031",
+    "slug": "pm031",
+    "pageId": 158845,
+    "revisionId": 4526596
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm031__158845.json",
+    "revisionTimestamp": "2026-04-09T14:57:43Z",
+    "fetchedAt": "2026-05-14T15:30:48.873Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Get The Last Badge!! (Japanese: 最後のバッジをゲットしろ！！ Get The Last Badge!!) is the thirty-first chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Get The Last Badge!! (Japanese: 最後のバッジをゲットしろ！！ Get The Last Badge!!) is the thirty-first chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\nhas a Gym battle with (with Giovanni serving as a Gym Leader instead of the boss of Team Rocket).\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nGiovanni's twin brother\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 31 (Pokémon Pocket Monsters)\nit:PMM031",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Get The Last Badge!! (Japanese: 最後のバッジをゲットしろ！！ Get The Last Badge!!) is the thirty-first chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "has a Gym battle with (with Giovanni serving as a Gym Leader instead of the boss of Team Rocket)."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Giovanni's twin brother"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 31 (Pokémon Pocket Monsters)\nit:PMM031"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM031",
+    "pageType": "chapter",
+    "searchableText": "PM031\nCategory:Pokémon Pocket Monsters chapters\nGet The Last Badge!! (Japanese: 最後のバッジをゲットしろ！！ Get The Last Badge!!) is the thirty-first chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 514,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PM116",
+    "slug": "pm116",
+    "pageId": 173076,
+    "revisionId": 4527543
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm116__173076.json",
+    "revisionTimestamp": "2026-04-09T15:41:58Z",
+    "fetchedAt": "2026-05-14T15:31:42.573Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Files Of Greedy Detective Clefairy (Japanese: 大食い探偵ピッピの事件簿 Gluttony Detective 's Journal) is the one hundred-sixteenth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Files Of Greedy Detective Clefairy (Japanese: 大食い探偵ピッピの事件簿 Gluttony Detective 's Journal) is the one hundred-sixteenth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Files Of Greedy Detective Clefairy (Japanese: 大食い探偵ピッピの事件簿 Gluttony Detective 's Journal) is the one hundred-sixteenth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM116",
+    "pageType": "chapter",
+    "searchableText": "PM116\nCategory:Pokémon Pocket Monsters chapters\nFiles Of Greedy Detective Clefairy (Japanese: 大食い探偵ピッピの事件簿 Gluttony Detective 's Journal) is the one hundred-sixteenth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 301,
+    "sectionCount": 2
+  }
+}

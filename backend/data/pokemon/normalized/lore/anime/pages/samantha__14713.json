@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Samantha",
+    "slug": "samantha",
+    "pageId": 14713,
+    "revisionId": 4227138
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "samantha__14713.json",
+    "revisionTimestamp": "2025-01-23T21:32:06Z",
+    "fetchedAt": "2026-05-14T14:48:08.444Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Samantha (Japanese: サヨリ Sayori) is a character of the day who appeared in Once in a Mawile when the group was traveling across Izabe Island.\n\nShe is a performer who does routines with ribbons. Samantha owns a that has many crushes, as it fell for 's . Lombre was uninterested, much to the dismay of Brock, who wanted to use the attraction to get closer to Samantha. After evolving into Ludicolo, it saw Mawile in a new light, but by that time, Mawile had already moved on to a .\n\nFor some reason, Samantha had a Water Stone in her backpack, which was what allowed Lombre to evolve.",
+  "plainText": "Samantha (Japanese: サヨリ Sayori) is a character of the day who appeared in Once in a Mawile when the group was traveling across Izabe Island.\n\nShe is a performer who does routines with ribbons. Samantha owns a that has many crushes, as it fell for 's . Lombre was uninterested, much to the dismay of Brock, who wanted to use the attraction to get closer to Samantha. After evolving into Ludicolo, it saw Mawile in a new light, but by that time, Mawile had already moved on to a .\n\nFor some reason, Samantha had a Water Stone in her backpack, which was what allowed Lombre to evolve.\n\n==Pokémon==\n \n\n==Voice actors==\n \n \n \n \n \n \n\nde:Was sich liebt, das neckt sich!#Samantha\nes:Samantha\nfr:Samantha\nit:Samantha\nja:サヨリ\nzh:莎由梨",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Samantha (Japanese: サヨリ Sayori) is a character of the day who appeared in Once in a Mawile when the group was traveling across Izabe Island.\n\nShe is a performer who does routines with ribbons. Samantha owns a that has many crushes, as it fell for 's . Lombre was uninterested, much to the dismay of Brock, who wanted to use the attraction to get closer to Samantha. After evolving into Ludicolo, it saw Mawile in a new light, but by that time, Mawile had already moved on to a .\n\nFor some reason, Samantha had a Water Stone in her backpack, which was what allowed Lombre to evolve."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Was sich liebt, das neckt sich!#Samantha\nes:Samantha\nfr:Samantha\nit:Samantha\nja:サヨリ\nzh:莎由梨"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Samantha",
+    "pageType": "character",
+    "searchableText": "Samantha\nCategory:Hoenn characters of the day\nSamantha (Japanese: サヨリ Sayori) is a character of the day who appeared in Once in a Mawile when the group was traveling across Izabe Island.\n\nShe is a performer who does routines with ribbons. Samantha owns a that has many crushes, as it fell for 's . Lombre was uninterested, much to the dismay of Brock, who wanted to use the attraction to get closer to Samantha. After evolving into Ludicolo, it saw Mawile in a new light, but by that time, Mawile had already moved on to a .\n\nFor some reason, Samantha had a Water Stone in her backpack, which was what allowed Lombre to evolve.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 721,
+    "sectionCount": 2
+  }
+}

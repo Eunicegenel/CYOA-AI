@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "TA31",
+    "slug": "ta31",
+    "pageId": 187728,
+    "revisionId": 2841039
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta31__187728.json",
+    "revisionTimestamp": "2018-08-30T03:35:44Z",
+    "fetchedAt": "2026-05-14T15:50:51.388Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 初めての任務 The First Mission) is the 31st chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 初めての任務 The First Mission) is the 31st chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\nManami\n\n===Pokémon===\n(Hikoza; Katsuya's)\n(Absō; Toki's)\n(Kururu; Toki's)\n(Mister Crow's)\n(Manami's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 初めての任務 The First Mission) is the 31st chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty\nManami"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hikoza; Katsuya's)\n(Absō; Toki's)\n(Kururu; Toki's)\n(Mister Crow's)\n(Manami's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA31",
+    "pageType": "chapter",
+    "searchableText": "TA31\nCategory:Pokémon Try Adventure chapters\n(Japanese: 初めての任務 The First Mission) is the 31st chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 313,
+    "sectionCount": 3
+  }
+}

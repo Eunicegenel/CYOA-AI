@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Adventures volume 64",
+    "slug": "pokemon-adventures-volume-64",
+    "pageId": 279150,
+    "revisionId": 4436811
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-adventures-volume-64__279150.json",
+    "revisionTimestamp": "2025-12-06T03:44:10Z",
+    "fetchedAt": "2026-05-14T15:35:38.827Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 64 is the 64th volume of the Pokémon Adventures manga. It is the third volume of the . It is authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.",
+  "plainText": "Volume 64 is the 64th volume of the Pokémon Adventures manga. It is the third volume of the . It is authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\nPS610\nPS611\nPS612\nPS613\nPS614\nPS615\nPS616\n\n==Gallery==\n \n\n \n\n==Trivia==\nand Blaise can be seen hidden in the extended cover. \nThe English release date for this volume was delayed multiple times. It was initially scheduled to release on November 12, 2024, but was subsequently delayed to May 13, 2025, September 9, 2025, January 1, 2030, back to September 9, 2025, and then to an unknown date. This is likely related to the delayed Japanese release of the following volume.\n\n==References==\n \n\n \n \n\nde:Band 64 (Pocket Monsters SPECIAL)\nes:Tomo 64 (Pocket Monsters Special)\nfr:Tome 64 (Pocket Monsters Special)\nja:ポケットモンスターSPECIAL 第64巻\nzh:宝可梦特别篇64",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 64 is the 64th volume of the Pokémon Adventures manga. It is the third volume of the . It is authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "PS610\nPS611\nPS612\nPS613\nPS614\nPS615\nPS616"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "and Blaise can be seen hidden in the extended cover. \nThe English release date for this volume was delayed multiple times. It was initially scheduled to release on November 12, 2024, but was subsequently delayed to May 13, 2025, September 9, 2025, January 1, 2030, back to September 9, 2025, and then to an unknown date. This is likely related to the delayed Japanese release of the following volume."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "de:Band 64 (Pocket Monsters SPECIAL)\nes:Tomo 64 (Pocket Monsters Special)\nfr:Tome 64 (Pocket Monsters Special)\nja:ポケットモンスターSPECIAL 第64巻\nzh:宝可梦特别篇64"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Adventures volume 64",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Adventures volume 64\nCategory:Pokémon Adventures volumes\nVolume 64 is the 64th volume of the Pokémon Adventures manga. It is the third volume of the . It is authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Trivia",
+      "References"
+    ],
+    "characterCount": 855,
+    "sectionCount": 4
+  }
+}

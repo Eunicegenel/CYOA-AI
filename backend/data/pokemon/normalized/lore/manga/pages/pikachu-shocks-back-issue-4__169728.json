@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pikachu Shocks Back issue 4",
+    "slug": "pikachu-shocks-back-issue-4",
+    "pageId": 169728,
+    "revisionId": 4131705
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu monthly issues",
+    "sourceFileName": "pikachu-shocks-back-issue-4__169728.json",
+    "revisionTimestamp": "2024-09-29T04:24:06Z",
+    "fetchedAt": "2026-05-14T15:30:20.956Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Pikachu Shocks Back issue 4 is the eighth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the eighth chapter of the manga, You Gotta Have Friends. \n\nThe contents of this issue were included as part of along with ET05, ET06, and ET07.",
+  "plainText": "Pikachu Shocks Back issue 4 is the eighth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the eighth chapter of the manga, You Gotta Have Friends. \n\nThe contents of this issue were included as part of along with ET05, ET06, and ET07.\n\n==Publications==\n \n \n\n \n\n==Chapters==\nYou Gotta Have Friends\n\n==Important events==\nAsh is revealed to have captured an , a , a , and a .\nAsh's Pikachu befriends a group of wild Pikachu.\nAsh attempts to Pikachu, but Pikachu returns to him.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pikachu Shocks Back issue 4 is the eighth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the eighth chapter of the manga, You Gotta Have Friends. \n\nThe contents of this issue were included as part of along with ET05, ET06, and ET07."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "You Gotta Have Friends"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Ash is revealed to have captured an , a , a , and a .\nAsh's Pikachu befriends a group of wild Pikachu.\nAsh attempts to Pikachu, but Pikachu returns to him."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pikachu Shocks Back issue 4",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pikachu Shocks Back issue 4\nCategory:Electric Tale of Pikachu monthly issues\nPikachu Shocks Back issue 4 is the eighth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the eighth chapter of the manga, You Gotta Have Friends. \n\nThe contents of this issue were included as part of along with ET05, ET06, and ET07.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 529,
+    "sectionCount": 3
+  }
+}

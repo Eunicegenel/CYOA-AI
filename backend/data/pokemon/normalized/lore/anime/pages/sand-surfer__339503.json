@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Sand Surfer",
+    "slug": "sand-surfer",
+    "pageId": 339503,
+    "revisionId": 4546810
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "sand-surfer__339503.json",
+    "revisionTimestamp": "2026-05-08T23:00:30Z",
+    "fetchedAt": "2026-05-14T14:48:14.701Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Sand Surfer (Japanese: 丘サーファー野郎 Hodad Guy) is a character of the day who appeared in Riding the Waves. He is a man who hangs around beaches a lot, and is familiar with a who frequently shows up at a beach in Paldea. When Liko and Roy visited this beach, Sand Surfer informed them about Gholdengo and its popularity among the locals. When Gholdengo entered the water to surf, Sand Surfer encouraged all the surfers at the beach to go surf with it. Sand Surfer himself did not follow them however, and instead struck a surfing pose on his board at the beach.",
+  "plainText": "Sand Surfer (Japanese: 丘サーファー野郎 Hodad Guy) is a character of the day who appeared in Riding the Waves. He is a man who hangs around beaches a lot, and is familiar with a who frequently shows up at a beach in Paldea. When Liko and Roy visited this beach, Sand Surfer informed them about Gholdengo and its popularity among the locals. When Gholdengo entered the water to surf, Sand Surfer encouraged all the surfers at the beach to go surf with it. Sand Surfer himself did not follow them however, and instead struck a surfing pose on his board at the beach. \n\n==Voice actors==\n \n\n==Trivia==\nThe word hodad in Sand Surfer's Japanese name is a slang term originating from 1960's Californian surfer culture. It is often considered derogatory and describes someone who comes to the beach and has a surfboard, but never surfs, or that surfs poorly and annoys the local seasoned surfers.\n\n==In other languages==\n \n\n \n \n \n \n \n \n\nes:Surfista de arena",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sand Surfer (Japanese: 丘サーファー野郎 Hodad Guy) is a character of the day who appeared in Riding the Waves. He is a man who hangs around beaches a lot, and is familiar with a who frequently shows up at a beach in Paldea. When Liko and Roy visited this beach, Sand Surfer informed them about Gholdengo and its popularity among the locals. When Gholdengo entered the water to surf, Sand Surfer encouraged all the surfers at the beach to go surf with it. Sand Surfer himself did not follow them however, and instead struck a surfing pose on his board at the beach."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The word hodad in Sand Surfer's Japanese name is a slang term originating from 1960's Californian surfer culture. It is often considered derogatory and describes someone who comes to the beach and has a surfboard, but never surfs, or that surfs poorly and annoys the local seasoned surfers."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Surfista de arena"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sand Surfer",
+    "pageType": "character",
+    "searchableText": "Sand Surfer\nCategory:Horizons characters of the day\nSand Surfer (Japanese: 丘サーファー野郎 Hodad Guy) is a character of the day who appeared in Riding the Waves. He is a man who hangs around beaches a lot, and is familiar with a who frequently shows up at a beach in Paldea. When Liko and Roy visited this beach, Sand Surfer informed them about Gholdengo and its popularity among the locals. When Gholdengo entered the water to surf, Sand Surfer encouraged all the surfers at the beach to go surf with it. Sand Surfer himself did not follow them however, and instead struck a surfing pose on his board at the beach.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 941,
+    "sectionCount": 3
+  }
+}

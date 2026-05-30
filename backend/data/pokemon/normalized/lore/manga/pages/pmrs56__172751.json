@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS56",
+    "slug": "pmrs56",
+    "pageId": 172751,
+    "revisionId": 4264660
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs56__172751.json",
+    "revisionTimestamp": "2025-03-23T18:34:19Z",
+    "fetchedAt": "2026-05-14T15:33:47.665Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pokémon Flu Chaos!! (Japanese: ポケモンかぜ騒動！！ Pokémon Flu Chaos!!) is the fifty-sixth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Pokémon Flu Chaos!! (Japanese: ポケモンかぜ騒動！！ Pokémon Flu Chaos!!) is the fifty-sixth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Flu Chaos!! (Japanese: ポケモンかぜ騒動！！ Pokémon Flu Chaos!!) is the fifty-sixth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS56",
+    "pageType": "chapter",
+    "searchableText": "PMRS56\nCategory:Pokémon Ruby-Sapphire chapters\nPokémon Flu Chaos!! (Japanese: ポケモンかぜ騒動！！ Pokémon Flu Chaos!!) is the fifty-sixth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 249,
+    "sectionCount": 2
+  }
+}

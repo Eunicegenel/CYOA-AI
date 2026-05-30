@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Slowpoke 4Koma manga",
+    "slug": "slowpoke-4koma-manga",
+    "pageId": 220694,
+    "revisionId": 4146478
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "slowpoke-4koma-manga__220694.json",
+    "revisionTimestamp": "2024-10-16T15:55:40Z",
+    "fetchedAt": "2026-05-14T15:49:41.080Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "(Japanese: ヤトン4コマまんが 4Koma manga) is a created by 山下たかひろ Takahiro Yamashita. It is available online on the Japanese Slowpoke Paradise official web page. , , and are each featured in their own four-panel comic strip, with Slowpoke having two.",
+  "plainText": "(Japanese: ヤトン4コマまんが 4Koma manga) is a created by 山下たかひろ Takahiro Yamashita. It is available online on the Japanese Slowpoke Paradise official web page. , , and are each featured in their own four-panel comic strip, with Slowpoke having two.\n==List of Comics==\n \n \n \n\n \n\nzh:呆呆兽四格漫画",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ヤトン4コマまんが 4Koma manga) is a created by 山下たかひろ Takahiro Yamashita. It is available online on the Japanese Slowpoke Paradise official web page. , , and are each featured in their own four-panel comic strip, with Slowpoke having two."
+    },
+    {
+      "heading": "List of Comics",
+      "level": 2,
+      "text": "zh:呆呆兽四格漫画"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Slowpoke 4Koma manga",
+    "pageType": "manga-series",
+    "searchableText": "Slowpoke 4Koma manga\nCategory:Manga stubs\n(Japanese: ヤトン4コマまんが 4Koma manga) is a created by 山下たかひろ Takahiro Yamashita. It is available online on the Japanese Slowpoke Paradise official web page. , , and are each featured in their own four-panel comic strip, with Slowpoke having two.",
+    "sectionHeadings": [
+      "Lead",
+      "List of Comics"
+    ],
+    "characterCount": 281,
+    "sectionCount": 2
+  }
+}

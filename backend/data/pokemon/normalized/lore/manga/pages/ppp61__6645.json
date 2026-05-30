@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "PPP61",
+    "slug": "ppp61",
+    "pageId": 6645,
+    "revisionId": 4526674
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp61__6645.json",
+    "revisionTimestamp": "2026-04-09T15:01:08Z",
+    "fetchedAt": "2026-05-14T15:39:14.906Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Let's Cook Curry! (Japanese: みんなでカレーキャンプ Curry Camp for Everyone) is the sixty-first chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Let's Cook Curry! (Japanese: みんなでカレーキャンプ Curry Camp for Everyone) is the sixty-first chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \n\n==Important characters and Pokémon==\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Let's Cook Curry! (Japanese: みんなでカレーキャンプ Curry Camp for Everyone) is the sixty-first chapter of the Magical Pokémon Journey manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP61",
+    "pageType": "chapter",
+    "searchableText": "PPP61\nCategory:Magical Pokémon Journey chapters\nLet's Cook Curry! (Japanese: みんなでカレーキャンプ Curry Camp for Everyone) is the sixty-first chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 231,
+    "sectionCount": 1
+  }
+}

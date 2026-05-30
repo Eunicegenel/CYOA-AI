@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Shou Okabe",
+    "slug": "shou-okabe",
+    "pageId": 86703,
+    "revisionId": 3858392
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Aim to Be a Card Master!! characters",
+    "sourceFileName": "shou-okabe__86703.json",
+    "revisionTimestamp": "2023-11-20T10:02:00Z",
+    "fetchedAt": "2026-05-14T15:49:26.851Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: 岡部翔 Shou Okabe) is a character in Aim to Be a Card Master!!, a manga series taking place in the real world. Shou first appears in the beginning of the story when he easily defeats the main character, Kenta Minamii. From that moment, Kenta's goal is to beat Shou.",
+  "plainText": "(Japanese: 岡部翔 Shou Okabe) is a character in Aim to Be a Card Master!!, a manga series taking place in the real world. Shou first appears in the beginning of the story when he easily defeats the main character, Kenta Minamii. From that moment, Kenta's goal is to beat Shou.\n\n==Shou's deck==\n \nShou uses this deck in his duel against Kenta in District Convention \"Kenta, to the Open Sea\".",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 岡部翔 Shou Okabe) is a character in Aim to Be a Card Master!!, a manga series taking place in the real world. Shou first appears in the beginning of the story when he easily defeats the main character, Kenta Minamii. From that moment, Kenta's goal is to beat Shou."
+    },
+    {
+      "heading": "Shou's deck",
+      "level": 2,
+      "text": "Shou uses this deck in his duel against Kenta in District Convention \"Kenta, to the Open Sea\"."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shou Okabe",
+    "pageType": "character",
+    "searchableText": "Shou Okabe\nCategory:Aim to Be a Card Master!! characters\n(Japanese: 岡部翔 Shou Okabe) is a character in Aim to Be a Card Master!!, a manga series taking place in the real world. Shou first appears in the beginning of the story when he easily defeats the main character, Kenta Minamii. From that moment, Kenta's goal is to beat Shou.",
+    "sectionHeadings": [
+      "Lead",
+      "Shou's deck"
+    ],
+    "characterCount": 387,
+    "sectionCount": 2
+  }
+}

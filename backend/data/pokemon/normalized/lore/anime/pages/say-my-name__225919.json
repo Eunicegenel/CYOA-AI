@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Say My Name",
+    "slug": "say-my-name",
+    "pageId": 225919,
+    "revisionId": 4546147
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Korean movie ending themes",
+    "sourceFileName": "say-my-name__225919.json",
+    "revisionTimestamp": "2026-05-07T09:24:10Z",
+    "fetchedAt": "2026-05-14T14:48:33.202Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Say My Name is the ending theme for the 2014 Korean redubbing of Jirachi: Wish Maker. It is performed by Tori.",
+  "plainText": "Say My Name is the ending theme for the 2014 Korean redubbing of Jirachi: Wish Maker. It is performed by Tori. \n\n==Lyrics==\n \n! Korean\n! English\n\n \n \n \n\n \n \n \n \n\nSay My Name \n \nSay My Name I Will Be There For You\n \n\n \n \n \n \n\n \n \n \n \n\nSay My Name \n \nSay My Name \n \n\nSay My Name \n \nSay My Name I Will Be There For You\n \n\n \n Good Bye\n\nSay My Name \n \nSay My Name \n \n\nSay My Name \n \nSay My Name I Will Be There For You\n \n\nI can feel your heart\nFilling your two eyes is the\nWorld that resembles you. It was warm like the Spring\n\nThough the road we walk together is sometimes difficult\nBe always by my side \nNo matter how far and tough, I'm not afraid\nBecause we are always together\n\nSay my name, I'll be believing\nWherever, at that dazzling star, a song that calls for me\nSay my name, I will be there for you\nAlways with the same heart, until the day we meet again\n\nAre you watching? Our wishes\nCreate miracles one by one\nAt every street corner, become a beaming smile\nThat warmly lights up\n\nThough the road we walk together is sometimes difficult\nBe always by my side \nNo matter how far and tough, I'm not afraid\nBecause we are always together\n\nSay my name, for the endlessly unfolding\nTomorrow, let's run, embracing the skies\nSay my name, the dreams of together\nWill protect me and spread my hands out\n\nSay my name, I'll be believing\nWherever, at that dazzling star, a song that calls for me\nSay my name, I will be there for you\nAlways with the same heart, until the day we meet again\n\nThe world is painted with our beautiful memories \nI am truly grateful, goodbye\n\nSay my name, for the endlessly unfolding\nTomorrow, let's run, embracing the skies\nSay my name, the dreams of together\nWill protect me and spread my hands out\n\nSay my name, I'll be believing\nWherever, at that dazzling star, a song that calls for me\nSay my name, I will be there for you\nAlways with the same heart, until the day we meet again\n \n\n \n \n \n\nzh:寶可夢電影 韓語片尾曲6重配",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Say My Name is the ending theme for the 2014 Korean redubbing of Jirachi: Wish Maker. It is performed by Tori."
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "! Korean\n! English\n\n \n \n \n\n \n \n \n \n\nSay My Name \n \nSay My Name I Will Be There For You\n \n\n \n \n \n \n\n \n \n \n \n\nSay My Name \n \nSay My Name \n \n\nSay My Name \n \nSay My Name I Will Be There For You\n \n\n \n Good Bye\n\nSay My Name \n \nSay My Name \n \n\nSay My Name \n \nSay My Name I Will Be There For You\n \n\nI can feel your heart\nFilling your two eyes is the\nWorld that resembles you. It was warm like the Spring\n\nThough the road we walk together is sometimes difficult\nBe always by my side \nNo matter how far and tough, I'm not afraid\nBecause we are always together\n\nSay my name, I'll be believing\nWherever, at that dazzling star, a song that calls for me\nSay my name, I will be there for you\nAlways with the same heart, until the day we meet again\n\nAre you watching? Our wishes\nCreate miracles one by one\nAt every street corner, become a beaming smile\nThat warmly lights up\n\nThough the road we walk together is sometimes difficult\nBe always by my side \nNo matter how far and tough, I'm not afraid\nBecause we are always together\n\nSay my name, for the endlessly unfolding\nTomorrow, let's run, embracing the skies\nSay my name, the dreams of together\nWill protect me and spread my hands out\n\nSay my name, I'll be believing\nWherever, at that dazzling star, a song that calls for me\nSay my name, I will be there for you\nAlways with the same heart, until the day we meet again\n\nThe world is painted with our beautiful memories \nI am truly grateful, goodbye\n\nSay my name, for the endlessly unfolding\nTomorrow, let's run, embracing the skies\nSay my name, the dreams of together\nWill protect me and spread my hands out\n\nSay my name, I'll be believing\nWherever, at that dazzling star, a song that calls for me\nSay my name, I will be there for you\nAlways with the same heart, until the day we meet again\n \n\n \n \n \n\nzh:寶可夢電影 韓語片尾曲6重配"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Say My Name",
+    "pageType": "movie",
+    "searchableText": "Say My Name\nCategory:Korean movie ending themes\nSay My Name is the ending theme for the 2014 Korean redubbing of Jirachi: Wish Maker. It is performed by Tori.",
+    "sectionHeadings": [
+      "Lead",
+      "Lyrics"
+    ],
+    "characterCount": 1930,
+    "sectionCount": 2
+  }
+}

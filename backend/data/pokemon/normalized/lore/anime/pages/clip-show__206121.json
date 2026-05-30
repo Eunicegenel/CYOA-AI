@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Clip show",
+    "slug": "clip-show",
+    "pageId": 206121,
+    "revisionId": 4218898
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Clip episodes",
+    "sourceFileName": "clip-show__206121.json",
+    "revisionTimestamp": "2025-01-10T22:39:57Z",
+    "fetchedAt": "2026-05-14T14:10:09.346Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "A clip show is an episode of a particular series that is mostly made up of short segments from previous episodes, often to highlight what has happened during the series.",
+  "plainText": "A clip show is an episode of a particular series that is mostly made up of short segments from previous episodes, often to highlight what has happened during the series.\n\n \n==Primetime clip shows==\nFrom 1997 to 1999, 3 primetime Pokémon clip shows were planned. Only two of those have aired, with one being cancelled due to the Pokémon Shock incident. These clip shows ranged in length from an hour-and-a-half to two-hour-long installments, aired straight after the regular Pokémon episode of the week in . They included many live-action segments. Much like Pocket Monsters Encore, the Weekly Pokémon Broadcasting Station, Pokémon Sunday, and Pokémon Smash!, they have not been aired outside of Japan.\n\n \n\n==Special clip shows==\nOne clip show was planned to air by itself on a different day to the regular airing of the Pokémon animated series. It was planned to air between Holiday Hi-Jynx and Snow Way Out!, but never aired due to the Porygon incident.\n \n\n==Regular broadcasting clip shows==\nThese clip shows have been used to recap what has happened up to a certain point in the current series of . These have not aired outside of .\n\n \n\n==Pocket Monsters TV Special: Masara Town Arc Recap episodes==\nPocket Monsters TV Special: Arc Recap is a series of three clip shows released as OVAs in 2000, available on rental-only VHS. They chronicled the events of throughout Ash's Indigo League journey. They are mostly edited from the previously aired TV clip shows.\n\n \n \n \n \n \n\n==15th Anniversary Celebration! A Super Ranking Special on Noteworthy Movie Scenes!!==\n \n \n \n\n==Uncover All the Mysteries! The Pocket Monsters XY&Z Complete Overview Special!!==\n \n \n \n\n==Pocket Monsters: Right Before Summer Vacation 1-Hour Special!==\n \n \n \n\n==External links==\n\n \n\n \n\n \n \n \n\nit:Clip show",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A clip show is an episode of a particular series that is mostly made up of short segments from previous episodes, often to highlight what has happened during the series."
+    },
+    {
+      "heading": "Primetime clip shows",
+      "level": 2,
+      "text": "From 1997 to 1999, 3 primetime Pokémon clip shows were planned. Only two of those have aired, with one being cancelled due to the Pokémon Shock incident. These clip shows ranged in length from an hour-and-a-half to two-hour-long installments, aired straight after the regular Pokémon episode of the week in . They included many live-action segments. Much like Pocket Monsters Encore, the Weekly Pokémon Broadcasting Station, Pokémon Sunday, and Pokémon Smash!, they have not been aired outside of Japan."
+    },
+    {
+      "heading": "Special clip shows",
+      "level": 2,
+      "text": "One clip show was planned to air by itself on a different day to the regular airing of the Pokémon animated series. It was planned to air between Holiday Hi-Jynx and Snow Way Out!, but never aired due to the Porygon incident."
+    },
+    {
+      "heading": "Regular broadcasting clip shows",
+      "level": 2,
+      "text": "These clip shows have been used to recap what has happened up to a certain point in the current series of . These have not aired outside of ."
+    },
+    {
+      "heading": "Pocket Monsters TV Special: Masara Town Arc Recap episodes",
+      "level": 2,
+      "text": "Pocket Monsters TV Special: Arc Recap is a series of three clip shows released as OVAs in 2000, available on rental-only VHS. They chronicled the events of throughout Ash's Indigo League journey. They are mostly edited from the previously aired TV clip shows."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "it:Clip show"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Clip show",
+    "pageType": "episode",
+    "searchableText": "Clip show\nCategory:Clip episodes\nA clip show is an episode of a particular series that is mostly made up of short segments from previous episodes, often to highlight what has happened during the series.",
+    "sectionHeadings": [
+      "Lead",
+      "Primetime clip shows",
+      "Special clip shows",
+      "Regular broadcasting clip shows",
+      "Pocket Monsters TV Special: Masara Town Arc Recap episodes",
+      "External links"
+    ],
+    "characterCount": 1778,
+    "sectionCount": 6
+  }
+}

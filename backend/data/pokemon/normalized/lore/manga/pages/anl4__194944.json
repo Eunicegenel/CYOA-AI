@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "ANL4",
+    "slug": "anl4",
+    "pageId": 194944,
+    "revisionId": 4548560
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga chapters in need of images",
+    "sourceFileName": "anl4__194944.json",
+    "revisionTimestamp": "2026-05-11T00:32:23Z",
+    "fetchedAt": "2026-05-14T15:12:40.847Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ゲノセクト、その技強すぎ!! Genesect, That Move is Too Strong!!) is the fourth chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga.",
+  "plainText": "(Japanese: ゲノセクト、その技強すぎ!! Genesect, That Move is Too Strong!!) is the fourth chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nArata\nDr. Zeno\n\n===Pokémon===\n(Arata's)\n(Arata's; evolved)\n(Arata's)\n(Arata's; evolved)\n(Dr. Zeno's; ×2)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ゲノセクト、その技強すぎ!! Genesect, That Move is Too Strong!!) is the fourth chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Arata\nDr. Zeno"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Arata's)\n(Arata's; evolved)\n(Arata's)\n(Arata's; evolved)\n(Dr. Zeno's; ×2)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ANL4",
+    "pageType": "chapter",
+    "searchableText": "ANL4\nCategory:Manga chapters in need of images\n(Japanese: ゲノセクト、その技強すぎ!! Genesect, That Move is Too Strong!!) is the fourth chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 363,
+    "sectionCount": 3
+  }
+}

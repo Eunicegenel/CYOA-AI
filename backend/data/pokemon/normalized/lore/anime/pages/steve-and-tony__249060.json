@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Steve and Tony",
+    "slug": "steve-and-tony",
+    "pageId": 249060,
+    "revisionId": 4234578
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:World Coronation Series participants",
+    "sourceFileName": "steve-and-tony__249060.json",
+    "revisionTimestamp": "2025-02-05T11:56:52Z",
+    "fetchedAt": "2026-05-14T14:52:25.024Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Steve (Japanese: スティーブ Steve) and Tony (Japanese: トニー Tony) are the assistants of Visquez, the stand-in Gym Leader at the Vermilion Gym while Lt. Surge is absent.",
+  "plainText": "Steve (Japanese: スティーブ Steve) and Tony (Japanese: トニー Tony) are the assistants of Visquez, the stand-in Gym Leader at the Vermilion Gym while Lt. Surge is absent.\n\n==In animation==\nIn , Steve and Tony are characters who appeared in Destination: Coronation!, with Tony also appearing in Betrayed, Bothered, and Beleaguered!. They are in charge of cleaning up the Gym after a has occurred. Tony also acts as referee during Gym battles, while Steve keeps track of Visquez's World Coronation Series ranking and potential challengers.\n\nAfter winning a Gym battle, Visquez was eager to challenge someone participating in the World Coronation Series to improve her ranking. Steve announced that a challenger was nearby, which turned out to be . During Visquez's battle against Ash, they watched the battles from the stands, as World Coronation Series battles are refereed by a Drone Rotom. Visquez ultimately lost the battle, and her rank subsequently dropped, much to the dismay of Steve and Tony. \n\nIn Betrayed, Bothered, and Beleaguered!, Tony had his own World Coronation Series match against Ash. He used his against Ash's Riolu but lost, causing his ranking to go down.\n\n===Pokémon===\nThis listing is of Steve and Tony's known in :\n====Tony====\n \n\n===Achievements===\nTony has competed in the following competitions:\n\nWorld Coronation Series - Unknown (Great Class)\n\n===Voice actors===\n \n\n==In the manga==\n \n===Pokémon Journeys===\nSteve and Tony appeared in Destination: Coronation!, fulfilling the same roles as in .\n \n\n==Related articles==\n \n \n\n \n \n \n \n\nes:Steve\nfr:Tony\nit:Steve e Tony\nzh:史蒂夫（關都）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Steve (Japanese: スティーブ Steve) and Tony (Japanese: トニー Tony) are the assistants of Visquez, the stand-in Gym Leader at the Vermilion Gym while Lt. Surge is absent."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "In , Steve and Tony are characters who appeared in Destination: Coronation!, with Tony also appearing in Betrayed, Bothered, and Beleaguered!. They are in charge of cleaning up the Gym after a has occurred. Tony also acts as referee during Gym battles, while Steve keeps track of Visquez's World Coronation Series ranking and potential challengers.\n\nAfter winning a Gym battle, Visquez was eager to challenge someone participating in the World Coronation Series to improve her ranking. Steve announced that a challenger was nearby, which turned out to be . During Visquez's battle against Ash, they watched the battles from the stands, as World Coronation Series battles are refereed by a Drone Rotom. Visquez ultimately lost the battle, and her rank subsequently dropped, much to the dismay of Steve and Tony. \n\nIn Betrayed, Bothered, and Beleaguered!, Tony had his own World Coronation Series match against Ash. He used his against Ash's Riolu but lost, causing his ranking to go down."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Steve and Tony's known in :"
+    },
+    {
+      "heading": "Achievements",
+      "level": 3,
+      "text": "Tony has competed in the following competitions:\n\nWorld Coronation Series - Unknown (Great Class)"
+    },
+    {
+      "heading": "Pokémon Journeys",
+      "level": 3,
+      "text": "Steve and Tony appeared in Destination: Coronation!, fulfilling the same roles as in ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Steve\nfr:Tony\nit:Steve e Tony\nzh:史蒂夫（關都）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Steve and Tony",
+    "pageType": "general-anime-lore",
+    "searchableText": "Steve and Tony\nCategory:World Coronation Series participants\nSteve (Japanese: スティーブ Steve) and Tony (Japanese: トニー Tony) are the assistants of Visquez, the stand-in Gym Leader at the Vermilion Gym while Lt. Surge is absent.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "Pokémon",
+      "Achievements",
+      "Pokémon Journeys",
+      "Related articles"
+    ],
+    "characterCount": 1597,
+    "sectionCount": 6
+  }
+}

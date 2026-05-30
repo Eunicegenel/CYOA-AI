@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Izabe Island",
+    "slug": "izabe-island",
+    "pageId": 13673,
+    "revisionId": 4261175
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "izabe-island__13673.json",
+    "revisionTimestamp": "2025-03-19T21:51:11Z",
+    "fetchedAt": "2026-05-14T14:25:19.457Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Izabe Island (Japanese: イザベ島 Izabe Island) is an -exclusive location in the Hoenn region. It is a large island situated between Mossdeep City and Sootopolis City. It contains a wide variety of environments, from deserted areas to snow-covered mountains. Its highest peak is known as the Square Top, a cube-shaped rock formation on a mountain. and traveled across the island from A Cacturne for the Worse to Do I Hear a Ralts?.",
+  "plainText": "Izabe Island (Japanese: イザベ島 Izabe Island) is an -exclusive location in the Hoenn region. It is a large island situated between Mossdeep City and Sootopolis City. It contains a wide variety of environments, from deserted areas to snow-covered mountains. Its highest peak is known as the Square Top, a cube-shaped rock formation on a mountain. and traveled across the island from A Cacturne for the Worse to Do I Hear a Ralts?.\n\n==In animation==\nThe annual Purika City took place in A Cacturne for the Worse. where met her new rival Harley. Despite Harley's underhanded tactics during the final round, May won her fourth Ribbon.\n\nSigourney is the current sage of Izabe Island. In Claydol Big and Tall, he explained \"The Great Destruction\", a catastrophic event caused by a that threatened the island over a thousand years ago. Claydol remains sealed inside a stone to avoid another catastrophic event.\n\nWhile on Izabe Island, Brock's Lombre evolved into a , a , and Max befriended a that he promised to start his with.\n\n==Locations==\n===Cities and towns===\nPurika City\nRiyado Town\nCerosi Town\n\n===Areas of interest===\nIzabe Lake\nSquare Top\nTrapinch underground labyrinth\nValley of Destruction\n\n==Gallery==\n \n\n==Pokémon seen on Izabe Island==\n \n\n===Caught Pokémon===\n \n\n==In other languages==\n \n\nValley of Destruction\n \n \n \n\n \n\nde:Izabe-Insel\nes:Isla Izabe\nfr:Île d'Izabe\nit:Isola di Izabe\nja:イザベ島\nzh:伊札貝島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Izabe Island (Japanese: イザベ島 Izabe Island) is an -exclusive location in the Hoenn region. It is a large island situated between Mossdeep City and Sootopolis City. It contains a wide variety of environments, from deserted areas to snow-covered mountains. Its highest peak is known as the Square Top, a cube-shaped rock formation on a mountain. and traveled across the island from A Cacturne for the Worse to Do I Hear a Ralts?."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "The annual Purika City took place in A Cacturne for the Worse. where met her new rival Harley. Despite Harley's underhanded tactics during the final round, May won her fourth Ribbon.\n\nSigourney is the current sage of Izabe Island. In Claydol Big and Tall, he explained \"The Great Destruction\", a catastrophic event caused by a that threatened the island over a thousand years ago. Claydol remains sealed inside a stone to avoid another catastrophic event.\n\nWhile on Izabe Island, Brock's Lombre evolved into a , a , and Max befriended a that he promised to start his with."
+    },
+    {
+      "heading": "Cities and towns",
+      "level": 3,
+      "text": "Purika City\nRiyado Town\nCerosi Town"
+    },
+    {
+      "heading": "Areas of interest",
+      "level": 3,
+      "text": "Izabe Lake\nSquare Top\nTrapinch underground labyrinth\nValley of Destruction"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "Valley of Destruction\n \n \n \n\n \n\nde:Izabe-Insel\nes:Isla Izabe\nfr:Île d'Izabe\nit:Isola di Izabe\nja:イザベ島\nzh:伊札貝島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Izabe Island",
+    "pageType": "location",
+    "searchableText": "Izabe Island\nCategory:Animated series-exclusive locations\nIzabe Island (Japanese: イザベ島 Izabe Island) is an -exclusive location in the Hoenn region. It is a large island situated between Mossdeep City and Sootopolis City. It contains a wide variety of environments, from deserted areas to snow-covered mountains. Its highest peak is known as the Square Top, a cube-shaped rock formation on a mountain. and traveled across the island from A Cacturne for the Worse to Do I Hear a Ralts?.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "Cities and towns",
+      "Areas of interest",
+      "In other languages"
+    ],
+    "characterCount": 1403,
+    "sectionCount": 5
+  }
+}

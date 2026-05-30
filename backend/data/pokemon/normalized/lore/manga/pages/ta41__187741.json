@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "TA41",
+    "slug": "ta41",
+    "pageId": 187741,
+    "revisionId": 2805087
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta41__187741.json",
+    "revisionTimestamp": "2018-06-09T06:15:24Z",
+    "fetchedAt": "2026-05-14T15:50:57.629Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: つれない!?ツタージャ! Cold!? !) is the 41st chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: つれない!?ツタージャ! Cold!? !) is the 41st chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\n\n===Pokémon===\n(Hikozu; Katsuya's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: つれない!?ツタージャ! Cold!? !) is the 41st chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hikozu; Katsuya's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA41",
+    "pageType": "chapter",
+    "searchableText": "TA41\nCategory:Pokémon Try Adventure chapters\n(Japanese: つれない!?ツタージャ! Cold!? !) is the 41st chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 229,
+    "sectionCount": 3
+  }
+}

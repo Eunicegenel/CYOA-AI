@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Watcher",
+    "slug": "pokemon-watcher",
+    "pageId": 6793,
+    "revisionId": 4276150
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Watchers",
+    "sourceFileName": "pokemon-watcher__6793.json",
+    "revisionTimestamp": "2025-04-03T22:19:29Z",
+    "fetchedAt": "2026-05-14T14:43:56.980Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "A Pokémon Watcher (Japanese: ポケモンウォッチャー Pokémon Watcher) is a person who studies , observing them of a Pokémon Trainer and in their .",
+  "plainText": "A Pokémon Watcher (Japanese: ポケモンウォッチャー Pokémon Watcher) is a person who studies , observing them of a Pokémon Trainer and in their .\n\n==Role==\nPokémon Watchers are dedicated to the study of , and travel the to observe their characteristics, behaviours and abilities. They also search for new, undiscovered Pokémon. As a result, watchers have a broad knowledge about Pokémon and can evaluate a Pokémon's health based on its , skin condition and the effectiveness of their moves.\n\nA Pokémon Watcher carries out field research for long periods of time and data gathering tasks. They also spend time writing research articles and reports that may be peer-reviewed by Pokémon Professors and later published.\n\nA notebook, pen and binoculars are the main tools of the trade. Watchers can also with abilities like good eyesight or hearing to assist in locating a certain Pokémon.\n\nPokémon Watchers, like some Pokémon researchers, are known to be eccentric due to their overwhelming fascination with Pokémon. The famous Pokémon Watcher Dr. Quackenpoker, for instance, devoted his entire life to studying .\n\n==Notable Pokémon Watchers==\nDr. Quackenpoker\n\nSam\n\n==In other languages==\n \n\n==Related articles==\nPokémon Professor\nPokémon Trainer\n \n \n\n \n \n \n \n\nes:Observador Pokémon\nit:Osservatore Pokémon\nja:ポケモンウォッチャー\nzh:宝可梦观察家",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Pokémon Watcher (Japanese: ポケモンウォッチャー Pokémon Watcher) is a person who studies , observing them of a Pokémon Trainer and in their ."
+    },
+    {
+      "heading": "Role",
+      "level": 2,
+      "text": "Pokémon Watchers are dedicated to the study of , and travel the to observe their characteristics, behaviours and abilities. They also search for new, undiscovered Pokémon. As a result, watchers have a broad knowledge about Pokémon and can evaluate a Pokémon's health based on its , skin condition and the effectiveness of their moves.\n\nA Pokémon Watcher carries out field research for long periods of time and data gathering tasks. They also spend time writing research articles and reports that may be peer-reviewed by Pokémon Professors and later published.\n\nA notebook, pen and binoculars are the main tools of the trade. Watchers can also with abilities like good eyesight or hearing to assist in locating a certain Pokémon.\n\nPokémon Watchers, like some Pokémon researchers, are known to be eccentric due to their overwhelming fascination with Pokémon. The famous Pokémon Watcher Dr. Quackenpoker, for instance, devoted his entire life to studying ."
+    },
+    {
+      "heading": "Notable Pokémon Watchers",
+      "level": 2,
+      "text": "Dr. Quackenpoker\n\nSam"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Pokémon Professor\nPokémon Trainer\n \n \n\n \n \n \n \n\nes:Observador Pokémon\nit:Osservatore Pokémon\nja:ポケモンウォッチャー\nzh:宝可梦观察家"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Watcher",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Watcher\nCategory:Pokémon Watchers\nA Pokémon Watcher (Japanese: ポケモンウォッチャー Pokémon Watcher) is a person who studies , observing them of a Pokémon Trainer and in their .",
+    "sectionHeadings": [
+      "Lead",
+      "Role",
+      "Notable Pokémon Watchers",
+      "Related articles"
+    ],
+    "characterCount": 1314,
+    "sectionCount": 4
+  }
+}

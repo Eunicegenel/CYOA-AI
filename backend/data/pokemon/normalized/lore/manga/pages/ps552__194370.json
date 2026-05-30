@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "PS552",
+    "slug": "ps552",
+    "pageId": 194370,
+    "revisionId": 4549275
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps552__194370.json",
+    "revisionTimestamp": "2026-05-11T01:36:57Z",
+    "fetchedAt": "2026-05-14T15:45:45.959Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "They Have a Flare for a Li'l Kanga-Napping (Japanese: ハリマロン、刺す , Pierce) is the 552nd chapter of the Pokémon Adventures manga, and the fourth chapter of the .",
+  "plainText": "They Have a Flare for a Li'l Kanga-Napping (Japanese: ハリマロン、刺す , Pierce) is the 552nd chapter of the Pokémon Adventures manga, and the fourth chapter of the .\n\n==Plot==\n \n\n==Major events==\nattempts to have Li'l Kanga transform, but fails.\nLeft with no other choice, X teams up with Chespin and defeats Aliana and Mable.\nX and both receive Pokédexes.\nThe group escapes and goes to camp out in Santalune Forest for the night.\ndiscovers a strange stone in Kanga's pouch.\nProfessor Sycamore shows Lysandre the footage of the Vaniville Town incident.\n\n \n \n\n===Debuts===\n====Humans====\nLysandre\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Sycamore\nLysandre\nMable\nAliana\nInnkeeper\n\n===Pokémon===\n(Kanga; 's)\n(Li'l Kanga; 's)\n(Fletchy; 's)\n(Professor Sycamore's)\n(Professor Sycamore's)\n(Professor Sycamore's)\n(Lysandre's)\n(Mable's)\n(Aliana's)\n( 's)\n(Innkeeper's)\n(Adventures; video)\n(later )\n(later )\n(video)\n\n==Trivia==\nDespite the species having existed since Generation I, this is the first appearance of a outside of fantasies and flashbacks.\n\n==In other languages==\n \n \n \n \n \n\nde:Igamaro schlägt zurück\nes:PMS552\nfr:Chapitre 552 (Pocket Monsters Special)\nit:LGA552\nzh:宝可梦特别篇 第552话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "They Have a Flare for a Li'l Kanga-Napping (Japanese: ハリマロン、刺す , Pierce) is the 552nd chapter of the Pokémon Adventures manga, and the fourth chapter of the ."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "attempts to have Li'l Kanga transform, but fails.\nLeft with no other choice, X teams up with Chespin and defeats Aliana and Mable.\nX and both receive Pokédexes.\nThe group escapes and goes to camp out in Santalune Forest for the night.\ndiscovers a strange stone in Kanga's pouch.\nProfessor Sycamore shows Lysandre the footage of the Vaniville Town incident."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Lysandre"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Sycamore\nLysandre\nMable\nAliana\nInnkeeper"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Kanga; 's)\n(Li'l Kanga; 's)\n(Fletchy; 's)\n(Professor Sycamore's)\n(Professor Sycamore's)\n(Professor Sycamore's)\n(Lysandre's)\n(Mable's)\n(Aliana's)\n( 's)\n(Innkeeper's)\n(Adventures; video)\n(later )\n(later )\n(video)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Despite the species having existed since Generation I, this is the first appearance of a outside of fantasies and flashbacks."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Igamaro schlägt zurück\nes:PMS552\nfr:Chapitre 552 (Pocket Monsters Special)\nit:LGA552\nzh:宝可梦特别篇 第552话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS552",
+    "pageType": "chapter",
+    "searchableText": "PS552\nCategory:Pokémon Adventures chapters\nThey Have a Flare for a Li'l Kanga-Napping (Japanese: ハリマロン、刺す , Pierce) is the 552nd chapter of the Pokémon Adventures manga, and the fourth chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1197,
+    "sectionCount": 7
+  }
+}

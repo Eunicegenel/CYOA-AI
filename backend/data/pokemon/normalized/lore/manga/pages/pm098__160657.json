@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM098",
+    "slug": "pm098",
+    "pageId": 160657,
+    "revisionId": 4526643
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm098__160657.json",
+    "revisionTimestamp": "2026-04-09T14:59:41Z",
+    "fetchedAt": "2026-05-14T15:31:31.269Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Food Battle (Japanese: 激戦！！フードバトル Fierce Battle!! Food Battle) is the ninety-eighth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Food Battle (Japanese: 激戦！！フードバトル Fierce Battle!! Food Battle) is the ninety-eighth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nChairman\n\n===Pokémon===\n( ) \n( )\n( )\n(Chairman's)\n\n==Trivia==\n\n \n \n\nit:PMM098",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Food Battle (Japanese: 激戦！！フードバトル Fierce Battle!! Food Battle) is the ninety-eighth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Chairman"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(Chairman's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "it:PMM098"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM098",
+    "pageType": "chapter",
+    "searchableText": "PM098\nCategory:Pokémon Pocket Monsters chapters\nThe Food Battle (Japanese: 激戦！！フードバトル Fierce Battle!! Food Battle) is the ninety-eighth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 309,
+    "sectionCount": 4
+  }
+}

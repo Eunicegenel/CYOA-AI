@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Leaf Forest",
+    "slug": "leaf-forest",
+    "pageId": 19386,
+    "revisionId": 4548400
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "leaf-forest__19386.json",
+    "revisionTimestamp": "2026-05-11T00:26:42Z",
+    "fetchedAt": "2026-05-14T14:30:43.331Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Leaf Forest (Japanese: リーフの森 Leaf Forest) is an -exclusive forest in Kanto, featured in The March of the Exeggutor Squad. It is located between the and Cinnabar Island. It has a large population of . The area functions similar to a Leaf Stone, causing some species of Pokémon to evolve without warning.",
+  "plainText": "Leaf Forest (Japanese: リーフの森 Leaf Forest) is an -exclusive forest in Kanto, featured in The March of the Exeggutor Squad. It is located between the and Cinnabar Island. It has a large population of . The area functions similar to a Leaf Stone, causing some species of Pokémon to evolve without warning.\n\n==Pokémon seen in the Leaf Forest==\n===Caught Pokémon===\n \n\n==Trivia==\nLeaf Forest is the first introduced in the Pokémon franchise, long before the concept was introduced in the games.\n\n==In other languages==\n \n\n \n \n\n \n \n\nde:Blätterwald\nes:Bosque de hojas\nit:Foresta frondosa\nzh:椰蛋森林",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Leaf Forest (Japanese: リーフの森 Leaf Forest) is an -exclusive forest in Kanto, featured in The March of the Exeggutor Squad. It is located between the and Cinnabar Island. It has a large population of . The area functions similar to a Leaf Stone, causing some species of Pokémon to evolve without warning."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Leaf Forest is the first introduced in the Pokémon franchise, long before the concept was introduced in the games."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Blätterwald\nes:Bosque de hojas\nit:Foresta frondosa\nzh:椰蛋森林"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Leaf Forest",
+    "pageType": "location",
+    "searchableText": "Leaf Forest\nCategory:Animated series-exclusive locations\nLeaf Forest (Japanese: リーフの森 Leaf Forest) is an -exclusive forest in Kanto, featured in The March of the Exeggutor Squad. It is located between the and Cinnabar Island. It has a large population of . The area functions similar to a Leaf Stone, causing some species of Pokémon to evolve without warning.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 588,
+    "sectionCount": 3
+  }
+}

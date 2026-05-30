@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Template:ChapInfobox/doc",
+    "slug": "template-chapinfobox-doc",
+    "pageId": 294096,
+    "revisionId": 4134536
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "template-chapinfobox-doc__294096.json",
+    "revisionTimestamp": "2024-09-30T09:58:48Z",
+    "fetchedAt": "2026-05-14T15:51:24.109Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This template creates an infobox for manga pages.",
+  "plainText": "This template creates an infobox for manga pages.\n\n==Parameters==\nNamed\nscheme: the color scheme (from Template:Colorscheme templates) for the box's background and headers\nchapter: deprecated, preserved only for compatibility with old page revisions\ntitle_en: the English name of the chapter\nsubtitle (optional): the English subtitle of the chapter, displays under the title\ntitle_ja: the Japanese name of the chapter\ntitle_ro: the translation of the Japanese name of the chapter\ntitle_color (optional): Hex color code to override the text color of the title_en and subtitle parameters for better visibility.\nimage: the filename of the image to display (e.g., PS001.png); if this parameter is blank or not used, the category will be added to the page\nRelease rows...\npub1: a description of the first publication this chapter appeared in (such as \"Shogakukan full volume\"; if none, \"chapter number\" is appropriate)\npub1-data: the chapter number and volume that this appeared as (such as \"Ch. 616 in Vol. 64\")\npub2, pub2-data, pub3, pub3-data, pub4, pub4-data, pub5, pub5-data, pub6, pub6-data, pub7, pub7-data, pub8, pub8-data: same as above, but for additional rows\nmanga_series: the series this chapter belongs to (such as \"Pokémon Adventures\"). Used to create a link in the \"Series\" row in the infobox and to add the page to the proper chapter category\nseries: overrides the link that would be made from manga_series for the row displayed in the infobox, in case it needs to display specially\nlocation: the location(s) where this chapter took place\ncategory: an override for the chapter category to include for this page, mainly meant to suppress categories by making it empty; defaults to [[Category:[manga_series] chapters]] \n\n==Examples==\nThe first example is based on PS461. It demonstrates most parameters including several publications.\n \n \n \n \n \n\nThe second example is based on CSL1. It demonstrates how a chapter with no titles looks and how pub1 and pub1-data work for a series that has no volume releases. Purely for demonstration purposes, it also shows the use of series.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This template creates an infobox for manga pages."
+    },
+    {
+      "heading": "Parameters",
+      "level": 2,
+      "text": "Named\nscheme: the color scheme (from Template:Colorscheme templates) for the box's background and headers\nchapter: deprecated, preserved only for compatibility with old page revisions\ntitle_en: the English name of the chapter\nsubtitle (optional): the English subtitle of the chapter, displays under the title\ntitle_ja: the Japanese name of the chapter\ntitle_ro: the translation of the Japanese name of the chapter\ntitle_color (optional): Hex color code to override the text color of the title_en and subtitle parameters for better visibility.\nimage: the filename of the image to display (e.g., PS001.png); if this parameter is blank or not used, the category will be added to the page\nRelease rows...\npub1: a description of the first publication this chapter appeared in (such as \"Shogakukan full volume\"; if none, \"chapter number\" is appropriate)\npub1-data: the chapter number and volume that this appeared as (such as \"Ch. 616 in Vol. 64\")\npub2, pub2-data, pub3, pub3-data, pub4, pub4-data, pub5, pub5-data, pub6, pub6-data, pub7, pub7-data, pub8, pub8-data: same as above, but for additional rows\nmanga_series: the series this chapter belongs to (such as \"Pokémon Adventures\"). Used to create a link in the \"Series\" row in the infobox and to add the page to the proper chapter category\nseries: overrides the link that would be made from manga_series for the row displayed in the infobox, in case it needs to display specially\nlocation: the location(s) where this chapter took place\ncategory: an override for the chapter category to include for this page, mainly meant to suppress categories by making it empty; defaults to [[Category:[manga_series] chapters]]"
+    },
+    {
+      "heading": "Examples",
+      "level": 2,
+      "text": "The first example is based on PS461. It demonstrates most parameters including several publications.\n \n \n \n \n \n\nThe second example is based on CSL1. It demonstrates how a chapter with no titles looks and how pub1 and pub1-data work for a series that has no volume releases. Purely for demonstration purposes, it also shows the use of series."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Template:ChapInfobox/doc",
+    "pageType": "chapter",
+    "searchableText": "Template:ChapInfobox/doc\nCategory:Pokémon Adventures chapters\nThis template creates an infobox for manga pages.",
+    "sectionHeadings": [
+      "Lead",
+      "Parameters",
+      "Examples"
+    ],
+    "characterCount": 2085,
+    "sectionCount": 3
+  }
+}

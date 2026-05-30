@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Tamer (Trainer class)",
+    "slug": "tamer-trainer-class",
+    "pageId": 4633,
+    "revisionId": 4356831
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "tamer-trainer-class__4633.json",
+    "revisionTimestamp": "2025-08-11T21:13:26Z",
+    "fetchedAt": "2026-05-14T15:51:09.000Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "A Tamer (Japanese: もうじゅうつかい Fierce Beast User) is a type of Pokémon Trainer that first debuted in the Generation I games. They are men with who generally use a variety of Pokémon that are based on real-life fierce beasts.\n\nIn Pokémon Stadium, they specialize in Pokémon with , like and . They tend to focus on a single strategy for their entire team, often having less than four moves on all of their Pokémon.",
+  "plainText": "A Tamer (Japanese: もうじゅうつかい Fierce Beast User) is a type of Pokémon Trainer that first debuted in the Generation I games. They are men with who generally use a variety of Pokémon that are based on real-life fierce beasts.\n\nIn Pokémon Stadium, they specialize in Pokémon with , like and . They tend to focus on a single strategy for their entire team, often having less than four moves on all of their Pokémon.\n\n==Gallery==\n===Sprites and models===\n====In the core series====\n \n \n\n====In other games====\n \n\n==Trainer list==\n===Pokémon Red, Blue, and Yellow===\n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon FireRed and LeafGreen===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!===\n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon Stadium===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n==In the manga==\n ]]\n===Pokémon Adventures===\nA Tamer made a cameo appearance in a flashback in Punching Poliwrath. He was one of the Trainers who wanted to challenge to a after his win at the Indigo League, but he was considered to be a \"boring\" match.\n \n\n==Trivia==\nTamers are the only Trainers introduced in Generation I to still be shown holding whips in the remakes.\n\n==In other languages==\n \n\n==Related articles==\n \n \n \n\n \n\nde:Dompteur\nes:Domador\nfr:Dompteur\nit:Domatore\nja:もうじゅうつかい\nzh:驯兽师",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Tamer (Japanese: もうじゅうつかい Fierce Beast User) is a type of Pokémon Trainer that first debuted in the Generation I games. They are men with who generally use a variety of Pokémon that are based on real-life fierce beasts.\n\nIn Pokémon Stadium, they specialize in Pokémon with , like and . They tend to focus on a single strategy for their entire team, often having less than four moves on all of their Pokémon."
+    },
+    {
+      "heading": "In the manga",
+      "level": 2,
+      "text": "]]"
+    },
+    {
+      "heading": "Pokémon Adventures",
+      "level": 3,
+      "text": "A Tamer made a cameo appearance in a flashback in Punching Poliwrath. He was one of the Trainers who wanted to challenge to a after his win at the Indigo League, but he was considered to be a \"boring\" match."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Tamers are the only Trainers introduced in Generation I to still be shown holding whips in the remakes."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Dompteur\nes:Domador\nfr:Dompteur\nit:Domatore\nja:もうじゅうつかい\nzh:驯兽师"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tamer (Trainer class)",
+    "pageType": "character",
+    "searchableText": "Tamer (Trainer class)\nCategory:Pokémon Adventures characters\nA Tamer (Japanese: もうじゅうつかい Fierce Beast User) is a type of Pokémon Trainer that first debuted in the Generation I games. They are men with who generally use a variety of Pokémon that are based on real-life fierce beasts.\n\nIn Pokémon Stadium, they specialize in Pokémon with , like and . They tend to focus on a single strategy for their entire team, often having less than four moves on all of their Pokémon.",
+    "sectionHeadings": [
+      "Lead",
+      "In the manga",
+      "Pokémon Adventures",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1285,
+    "sectionCount": 5
+  }
+}

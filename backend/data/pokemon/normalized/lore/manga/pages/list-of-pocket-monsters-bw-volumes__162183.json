@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pocket Monsters BW volumes",
+    "slug": "list-of-pocket-monsters-bw-volumes",
+    "pageId": 162183,
+    "revisionId": 4130848
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW volumes",
+    "sourceFileName": "list-of-pocket-monsters-bw-volumes__162183.json",
+    "revisionTimestamp": "2024-09-29T03:54:11Z",
+    "fetchedAt": "2026-05-14T15:24:33.291Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "This is a list of volumes of the manga created by 穴久保幸作 Kosaku Anakubo. There are four volumes in total currently released in Japan by Shogakukan. The Pocket Monsters BW manga has not been officially translated into English.",
+  "plainText": "This is a list of volumes of the manga created by 穴久保幸作 Kosaku Anakubo. There are four volumes in total currently released in Japan by Shogakukan. The Pocket Monsters BW manga has not been officially translated into English.\n\n==List of volumes==\n \n\n \n\n \n \n\nit:Elenco dei volumi di Pocket Monsters BW",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of volumes of the manga created by 穴久保幸作 Kosaku Anakubo. There are four volumes in total currently released in Japan by Shogakukan. The Pocket Monsters BW manga has not been officially translated into English."
+    },
+    {
+      "heading": "List of volumes",
+      "level": 2,
+      "text": "it:Elenco dei volumi di Pocket Monsters BW"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pocket Monsters BW volumes",
+    "pageType": "general-manga-lore",
+    "searchableText": "List of Pocket Monsters BW volumes\nCategory:Pocket Monsters BW volumes\nThis is a list of volumes of the manga created by 穴久保幸作 Kosaku Anakubo. There are four volumes in total currently released in Japan by Shogakukan. The Pocket Monsters BW manga has not been officially translated into English.",
+    "sectionHeadings": [
+      "Lead",
+      "List of volumes"
+    ],
+    "characterCount": 299,
+    "sectionCount": 2
+  }
+}

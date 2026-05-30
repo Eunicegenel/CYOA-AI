@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM051",
+    "slug": "pm051",
+    "pageId": 160478,
+    "revisionId": 4526615
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm051__160478.json",
+    "revisionTimestamp": "2026-04-09T14:58:28Z",
+    "fetchedAt": "2026-05-14T15:31:01.806Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pikachu's Birthday Party (Japanese: ピカチュウの誕生会 Pikachu's Birthday Party) is the fifty-first chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Pikachu's Birthday Party (Japanese: ピカチュウの誕生会 Pikachu's Birthday Party) is the fifty-first chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 51 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pikachu's Birthday Party (Japanese: ピカチュウの誕生会 Pikachu's Birthday Party) is the fifty-first chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 51 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM051",
+    "pageType": "chapter",
+    "searchableText": "PM051\nCategory:Pokémon Pocket Monsters chapters\nPikachu's Birthday Party (Japanese: ピカチュウの誕生会 Pikachu's Birthday Party) is the fifty-first chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 315,
+    "sectionCount": 3
+  }
+}

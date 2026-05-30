@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Growlithe (Detective Pikachu)",
+    "slug": "growlithe-detective-pikachu",
+    "pageId": 323193,
+    "revisionId": 4179522
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "growlithe-detective-pikachu__323193.json",
+    "revisionTimestamp": "2024-11-13T17:38:43Z",
+    "fetchedAt": "2026-05-14T14:21:30.056Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Growlithe (Japanese: ガーディ Gardie) is a character in the game Detective Pikachu Returns. Growlithe is Sanjeev's partner and resides in the Denis Residence. Her acute sense of smell helps Tim and at various points in the game.",
+  "plainText": "Growlithe (Japanese: ガーディ Gardie) is a character in the game Detective Pikachu Returns. Growlithe is Sanjeev's partner and resides in the Denis Residence. Her acute sense of smell helps Tim and at various points in the game.\n\n==In the games==\n===Detective Pikachu Returns===\nGrowlithe is introduced at the start of the game alongside Sanjeev during Tim's first major case investigating the theft of the Aurora Drop. Growlithe is initially downcast as she feels responsible in being unable to guard the key to the storage room containing the Aurora Drop against the thief. It is later revealed that Growlithe's food had been deliberately contaminated by a Pokémon's to lull Growlithe to sleep and allow the culprit to take the key.\n\nAlongside Pikachu, Growlithe uses her sense of smell to locate key information related to the case, including finding Barnes's , Turner's , as well as finding the Pokémon responsible for the Sleep Powder. \n\nGrowlithe is later recruited by Pikachu in the final case investigating Unitas at the Pokémon Unity Lab. Growlithe's sense of smell is used to locate a hidden entrance into the building. Growlithe also helps Tim and the rest of the group escape from Unitas members by buying them time by battling against Unitas members. Growlithe is later brought in by Merloch alongside , , and Galarian at the climax of the game under the effects of a Control Cube, although she is freed from its effects when Merloch (fused with ) accidentally breaks the cube controller.\n\n===Personality and characteristics===\nGrowlithe is loyal to Sanjeev, who she nicknames Sanjee, as well as his trusted butler Barnes. She is also seen to be brave, being the first Pokémon in Tim's group to split off and battle against the chasing Unitas members, to allow the rest of the group to escape.\n\n===Ride action===\n \nGrowlithe can be ridden on by Pikachu at various points in the game. Holding down the R button reveals various scent paths that can be followed.\n \n==In the TCG==\n \n \nDetective Pikachu, riding on Growlithe, was introduced as a Basic Pokémon card named Detective Pikachu in the Pokémon Trading Card Game during the Japanese Scarlet & Violet Era. It was first released as an , with artwork by MINAMINAMI Take.\n \n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Growlithe (Japanese: ガーディ Gardie) is a character in the game Detective Pikachu Returns. Growlithe is Sanjeev's partner and resides in the Denis Residence. Her acute sense of smell helps Tim and at various points in the game."
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Growlithe is introduced at the start of the game alongside Sanjeev during Tim's first major case investigating the theft of the Aurora Drop. Growlithe is initially downcast as she feels responsible in being unable to guard the key to the storage room containing the Aurora Drop against the thief. It is later revealed that Growlithe's food had been deliberately contaminated by a Pokémon's to lull Growlithe to sleep and allow the culprit to take the key.\n\nAlongside Pikachu, Growlithe uses her sense of smell to locate key information related to the case, including finding Barnes's , Turner's , as well as finding the Pokémon responsible for the Sleep Powder. \n\nGrowlithe is later recruited by Pikachu in the final case investigating Unitas at the Pokémon Unity Lab. Growlithe's sense of smell is used to locate a hidden entrance into the building. Growlithe also helps Tim and the rest of the group escape from Unitas members by buying them time by battling against Unitas members. Growlithe is later brought in by Merloch alongside , , and Galarian at the climax of the game under the effects of a Control Cube, although she is freed from its effects when Merloch (fused with ) accidentally breaks the cube controller."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "Growlithe is loyal to Sanjeev, who she nicknames Sanjee, as well as his trusted butler Barnes. She is also seen to be brave, being the first Pokémon in Tim's group to split off and battle against the chasing Unitas members, to allow the rest of the group to escape."
+    },
+    {
+      "heading": "Ride action",
+      "level": 3,
+      "text": "Growlithe can be ridden on by Pikachu at various points in the game. Holding down the R button reveals various scent paths that can be followed."
+    },
+    {
+      "heading": "In the TCG",
+      "level": 2,
+      "text": "Detective Pikachu, riding on Growlithe, was introduced as a Basic Pokémon card named Detective Pikachu in the Pokémon Trading Card Game during the Japanese Scarlet & Violet Era. It was first released as an , with artwork by MINAMINAMI Take."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Growlithe (Detective Pikachu)",
+    "pageType": "character",
+    "searchableText": "Growlithe (Detective Pikachu)\nCategory:Detective Pikachu Returns characters\nGrowlithe (Japanese: ガーディ Gardie) is a character in the game Detective Pikachu Returns. Growlithe is Sanjeev's partner and resides in the Denis Residence. Her acute sense of smell helps Tim and at various points in the game.",
+    "sectionHeadings": [
+      "Lead",
+      "Detective Pikachu Returns",
+      "Personality and characteristics",
+      "Ride action",
+      "In the TCG"
+    ],
+    "characterCount": 2253,
+    "sectionCount": 5
+  }
+}

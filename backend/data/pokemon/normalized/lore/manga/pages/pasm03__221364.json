@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASM03",
+    "slug": "pasm03",
+    "pageId": 221364,
+    "revisionId": 4549394
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasm03__221364.json",
+    "revisionTimestamp": "2026-05-11T01:52:17Z",
+    "fetchedAt": "2026-05-14T15:28:17.771Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pokémon Move Specialist Professor Kukui (Japanese: 研究！！技の博士・ククイ！ Research!! The of Moves - Kukui!) is the third chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Pokémon Move Specialist Professor Kukui (Japanese: 研究！！技の博士・ククイ！ Research!! The of Moves - Kukui!) is the third chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n==Major events==\n \ndelivers and to Professor Kukui.\nMoon gives Rotom to Professor Kukui.\nProfessor Kukui reveals he needed a Rotom to have it combine with the Pokédex he gave to Sun.\nDue to Sun's mishandling of the Pokédex, Rotom refuses to enter the device.\nThe island kahunas plan to host a tournament at a festival to determine who will travel the islands and calm the Guardian deities.\nProfessor Kukui enters Sun in the festival.\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n( )\n(Alolan form)\n\n==Characters==\n===Humans===\n\nProfessor Kukui\nHala\nOlivia\nNanu\nLillie (picture)\nHau (picture)\n(picture)\n\n===Pokémon===\n( )\n(Professor Kukui's)\n( ; newly obtained)\n(Hala's; debut)\n(Olivia's; ; debut)\n(Nanu's; Alolan form; debut)\n(Ride Pokémon)\n(Ride Pokémon; flashback; debut)\n( forms; image)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(flashback)\n\n \n\n==In other languages==\n \n\n \n \n \n\nde:Kukui, der Professor für Attacken\nes:PMSSM03\nfr:Chapitre 3 (Pocket Monsters Special Soleil et Lune)\nit:PASM03\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第3话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Move Specialist Professor Kukui (Japanese: 研究！！技の博士・ククイ！ Research!! The of Moves - Kukui!) is the third chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "delivers and to Professor Kukui.\nMoon gives Rotom to Professor Kukui.\nProfessor Kukui reveals he needed a Rotom to have it combine with the Pokédex he gave to Sun.\nDue to Sun's mishandling of the Pokédex, Rotom refuses to enter the device.\nThe island kahunas plan to host a tournament at a festival to determine who will travel the islands and calm the Guardian deities.\nProfessor Kukui enters Sun in the festival."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n(Alolan form)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Kukui\nHala\nOlivia\nNanu\nLillie (picture)\nHau (picture)\n(picture)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Professor Kukui's)\n( ; newly obtained)\n(Hala's; debut)\n(Olivia's; ; debut)\n(Nanu's; Alolan form; debut)\n(Ride Pokémon)\n(Ride Pokémon; flashback; debut)\n( forms; image)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(flashback)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Kukui, der Professor für Attacken\nes:PMSSM03\nfr:Chapitre 3 (Pocket Monsters Special Soleil et Lune)\nit:PASM03\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第3话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASM03",
+    "pageType": "chapter",
+    "searchableText": "PASM03\nCategory:Pokémon Adventures chapters\nPokémon Move Specialist Professor Kukui (Japanese: 研究！！技の博士・ククイ！ Research!! The of Moves - Kukui!) is the third chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1190,
+    "sectionCount": 6
+  }
+}

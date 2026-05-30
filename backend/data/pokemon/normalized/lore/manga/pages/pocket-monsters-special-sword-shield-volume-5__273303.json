@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters Special Sword Shield volume 5",
+    "slug": "pocket-monsters-special-sword-shield-volume-5",
+    "pageId": 273303,
+    "revisionId": 4433873
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pocket-monsters-special-sword-shield-volume-5__273303.json",
+    "revisionTimestamp": "2025-11-30T22:17:16Z",
+    "fetchedAt": "2026-05-14T15:34:30.905Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 5 is the fifth volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 5 is the fifth volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\nPASS26\nPASS27\nPASS28\nPASS29\nPASS30\nPASS31\n\n \n\n \n\n \n\nde:Band 5 (Pokémon Schwert und Schild – Der Manga)\nes:Tomo 5 (Pocket Monsters Special Espada y Escudo)\nfr:Tome 5 (Pocket Monsters Special Épée et Bouclier)\nit:Pocket Monsters Special Sword Shield volume 5\nzh:宝可梦特别篇剑·盾5",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 5 is the fifth volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "PASS26\nPASS27\nPASS28\nPASS29\nPASS30\nPASS31\n\n \n\n \n\n \n\nde:Band 5 (Pokémon Schwert und Schild – Der Manga)\nes:Tomo 5 (Pocket Monsters Special Espada y Escudo)\nfr:Tome 5 (Pocket Monsters Special Épée et Bouclier)\nit:Pocket Monsters Special Sword Shield volume 5\nzh:宝可梦特别篇剑·盾5"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters Special Sword Shield volume 5",
+    "pageType": "pokemon-related",
+    "searchableText": "Pocket Monsters Special Sword Shield volume 5\nCategory:Pokémon Adventures volumes\nVolume 5 is the fifth volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 582,
+    "sectionCount": 2
+  }
+}

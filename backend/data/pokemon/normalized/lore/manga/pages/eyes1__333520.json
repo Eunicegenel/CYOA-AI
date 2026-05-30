@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "EYES1",
+    "slug": "eyes1",
+    "pageId": 333520,
+    "revisionId": 4526246
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:I Can't Choose, Eevee chapters",
+    "sourceFileName": "eyes1__333520.json",
+    "revisionTimestamp": "2026-04-09T14:29:05Z",
+    "fetchedAt": "2026-05-14T15:18:41.441Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the first special chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on January 21, 2025 at 8:00 PM JST. It is 8 pages long.\n\nThis is one of three possible endings to the manga. It would've been the final chapter if the third chapter had garnered more reposts than the second and fourth chapters.",
+  "plainText": "This is the first special chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on January 21, 2025 at 8:00 PM JST. It is 8 pages long.\n\nThis is one of three possible endings to the manga. It would've been the final chapter if the third chapter had garnered more reposts than the second and fourth chapters.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n(Trainer's)\n(Trainer's)\n(figure)\n(plush)\n\n==Characters==\n===Humans===\n\n(phone)\nTrainers\nCitizen\n\n===Pokémon===\n(Riku's)\n(Hoshi's; Tatsurou)\n(Trainer's)\n(Trainer's)\n(figure)\n(figure)\n(figure)\n(×2)\n(plush)\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the first special chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on January 21, 2025 at 8:00 PM JST. It is 8 pages long.\n\nThis is one of three possible endings to the manga. It would've been the final chapter if the third chapter had garnered more reposts than the second and fourth chapters."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Trainer's)\n(Trainer's)\n(figure)\n(plush)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(phone)\nTrainers\nCitizen"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Riku's)\n(Hoshi's; Tatsurou)\n(Trainer's)\n(Trainer's)\n(figure)\n(figure)\n(figure)\n(×2)\n(plush)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "EYES1",
+    "pageType": "chapter",
+    "searchableText": "EYES1\nCategory:I Can't Choose, Eevee chapters\nThis is the first special chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on January 21, 2025 at 8:00 PM JST. It is 8 pages long.\n\nThis is one of three possible endings to the manga. It would've been the final chapter if the third chapter had garnered more reposts than the second and fourth chapters.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 636,
+    "sectionCount": 4
+  }
+}

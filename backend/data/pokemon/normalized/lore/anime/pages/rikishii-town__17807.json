@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Rikishii Town",
+    "slug": "rikishii-town",
+    "pageId": 17807,
+    "revisionId": 4261167
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "rikishii-town__17807.json",
+    "revisionTimestamp": "2025-03-19T21:51:03Z",
+    "fetchedAt": "2026-05-14T14:46:25.728Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "(Japanese: リキシータウン Rikishii Town) is an -exclusive location in Johto. It is located in between Ecruteak City and Olivine City. It was featured in Ring Masters.\n\nThe town's main attraction is a Sumo Conference involving Pokémon facing off against each other. used the local Pokémon Center to have his transferred to Rikishii Town so he could compete. He then entered the competition against the defending champion Raiden and his . It defeated Raiden's Feraligatr, and Ash received a King's Rock for his victory.",
+  "plainText": "(Japanese: リキシータウン Rikishii Town) is an -exclusive location in Johto. It is located in between Ecruteak City and Olivine City. It was featured in Ring Masters.\n\nThe town's main attraction is a Sumo Conference involving Pokémon facing off against each other. used the local Pokémon Center to have his transferred to Rikishii Town so he could compete. He then entered the competition against the defending champion Raiden and his . It defeated Raiden's Feraligatr, and Ash received a King's Rock for his victory.\n\n==Trivia==\nRikishi is Japanese for \"Sumo Wrestler\".\nIt is never referred to by name in the dub, but instead as \"a quaint little village\".\n\n==In other languages==\n \n \n \n \n\n \n\nes:Ciudad Rikishii\nit:Rikishii Town\nzh:力士镇",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: リキシータウン Rikishii Town) is an -exclusive location in Johto. It is located in between Ecruteak City and Olivine City. It was featured in Ring Masters.\n\nThe town's main attraction is a Sumo Conference involving Pokémon facing off against each other. used the local Pokémon Center to have his transferred to Rikishii Town so he could compete. He then entered the competition against the defending champion Raiden and his . It defeated Raiden's Feraligatr, and Ash received a King's Rock for his victory."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Rikishi is Japanese for \"Sumo Wrestler\".\nIt is never referred to by name in the dub, but instead as \"a quaint little village\"."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Ciudad Rikishii\nit:Rikishii Town\nzh:力士镇"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rikishii Town",
+    "pageType": "location",
+    "searchableText": "Rikishii Town\nCategory:Animated series-exclusive locations\n(Japanese: リキシータウン Rikishii Town) is an -exclusive location in Johto. It is located in between Ecruteak City and Olivine City. It was featured in Ring Masters.\n\nThe town's main attraction is a Sumo Conference involving Pokémon facing off against each other. used the local Pokémon Center to have his transferred to Rikishii Town so he could compete. He then entered the competition against the defending champion Raiden and his . It defeated Raiden's Feraligatr, and Ash received a King's Rock for his victory.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 728,
+    "sectionCount": 3
+  }
+}

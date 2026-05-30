@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM091",
+    "slug": "pm091",
+    "pageId": 160650,
+    "revisionId": 4527478
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm091__160650.json",
+    "revisionTimestamp": "2026-04-09T15:39:45Z",
+    "fetchedAt": "2026-05-14T15:31:26.907Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Light Up the Lighthouse!! (Japanese: 灯台に光をもどせ！！ Restore the Light of the Lighthouse!!) is the ninety-first chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Light Up the Lighthouse!! (Japanese: 灯台に光をもどせ！！ Restore the Light of the Lighthouse!!) is the ninety-first chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n(Amphy)\n\n==Characters==\n===Humans===\n\nJasmine\n\n===Pokémon===\n( ) \n( )\n( )\n(Jasmine's)\n\n==Trivia==\n\n \n \n\nit:PMM091",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Light Up the Lighthouse!! (Japanese: 灯台に光をもどせ！！ Restore the Light of the Lighthouse!!) is the ninety-first chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Amphy)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jasmine"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(Jasmine's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "it:PMM091"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM091",
+    "pageType": "chapter",
+    "searchableText": "PM091\nCategory:Pokémon Pocket Monsters chapters\nLight Up the Lighthouse!! (Japanese: 灯台に光をもどせ！！ Restore the Light of the Lighthouse!!) is the ninety-first chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 334,
+    "sectionCount": 5
+  }
+}

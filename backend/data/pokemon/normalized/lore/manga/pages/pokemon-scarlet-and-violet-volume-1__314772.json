@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Scarlet & Violet volume 1",
+    "slug": "pokemon-scarlet-and-violet-volume-1",
+    "pageId": 314772,
+    "revisionId": 4359957
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-scarlet-and-violet-volume-1__314772.json",
+    "revisionTimestamp": "2025-08-17T23:02:48Z",
+    "fetchedAt": "2026-05-14T15:37:38.603Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+  "plainText": "Volume 1 is the first volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.\n\n==Blurb==\n Violet Lang and Scarlet Koito attend an academy in the Paldea region and embark on their first big assignments, finding treasures that will help them become amazing Trainers with even more powerful Pokémon!\n\nViolet Lang calls himself the Prince of Speed and races across the Paldea region in search of the Herba Mystica that will give his Pokémon ultimate speed. Meanwhile, Scarlet Kioto is a Treasure Hunter in search of the Treasures of Ruin. As the two travel the Paldea region, a new adventure begins!\n\nAre you ready for the Treasure Hunt?! \n\n==Publications==\n \n \n\n==Chapters==\nAdventure 1: Speeding! Paldea's Prince of Speed!!\nAdventure 2: Discover! The Quaking Earth Titan!!\nAdventure 3: Battle! Team Star, the Delinquents!!\n \n\n==Trivia==\nWhile the blurb published on the back of this volume spells Scarlet's last name correctly in the first paragraph and incorrectly in the second paragraph, the blurb used by online retailers spells her last name incorrectly in the first paragraph and correctly in the second paragraph.\n\n \n\n \n\nfr:Volume 1 (Pokémon Scarlet&Violet)\nit:Pokémon Scarlet & Violet volume 1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "Violet Lang and Scarlet Koito attend an academy in the Paldea region and embark on their first big assignments, finding treasures that will help them become amazing Trainers with even more powerful Pokémon!\n\nViolet Lang calls himself the Prince of Speed and races across the Paldea region in search of the Herba Mystica that will give his Pokémon ultimate speed. Meanwhile, Scarlet Kioto is a Treasure Hunter in search of the Treasures of Ruin. As the two travel the Paldea region, a new adventure begins!\n\nAre you ready for the Treasure Hunt?!"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 1: Speeding! Paldea's Prince of Speed!!\nAdventure 2: Discover! The Quaking Earth Titan!!\nAdventure 3: Battle! Team Star, the Delinquents!!"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "While the blurb published on the back of this volume spells Scarlet's last name correctly in the first paragraph and incorrectly in the second paragraph, the blurb used by online retailers spells her last name incorrectly in the first paragraph and correctly in the second paragraph.\n\n \n\n \n\nfr:Volume 1 (Pokémon Scarlet&Violet)\nit:Pokémon Scarlet & Violet volume 1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Scarlet & Violet volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Scarlet & Violet volume 1\nCategory:Pokémon Adventures volumes\nVolume 1 is the first volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Trivia"
+    ],
+    "characterCount": 1477,
+    "sectionCount": 4
+  }
+}

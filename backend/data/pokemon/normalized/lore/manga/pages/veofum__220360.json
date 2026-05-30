@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Veofum",
+    "slug": "veofum",
+    "pageId": 220360,
+    "revisionId": 4095400
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Deceased characters",
+    "sourceFileName": "veofum__220360.json",
+    "revisionTimestamp": "2024-09-01T00:26:28Z",
+    "fetchedAt": "2026-05-14T15:52:23.489Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Veofum (Japanese: ベオラム Beoram) is a character of the day who appeared in The Legend of X, Y, and Z!.\n\nVeofum was a selfish, ruthless, and greedy king who wanted the power of so he could bring prosperity to his land. However, instead of flourishing it, the plant life in his kingdom wilted and the Pokémon began dying. Angered at this, he ordered his men to burn Xerneas. arrived and tried to stop Veofum from burning Xerneas, but he refused. Veofum ordered his men to get rid of Jan, when suddenly, the Legendary Pokémon appeared. Zygarde used to destroy the kingdom, which led to the demise of Veofum and his henchmen.",
+  "plainText": "Veofum (Japanese: ベオラム Beoram) is a character of the day who appeared in The Legend of X, Y, and Z!.\n\nVeofum was a selfish, ruthless, and greedy king who wanted the power of so he could bring prosperity to his land. However, instead of flourishing it, the plant life in his kingdom wilted and the Pokémon began dying. Angered at this, he ordered his men to burn Xerneas. arrived and tried to stop Veofum from burning Xerneas, but he refused. Veofum ordered his men to get rid of Jan, when suddenly, the Legendary Pokémon appeared. Zygarde used to destroy the kingdom, which led to the demise of Veofum and his henchmen.\n\n==Voice actors==\n \n\n \n\n \n \n \n \n \n\nit:Veofum\nzh:貝奧朗",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Veofum (Japanese: ベオラム Beoram) is a character of the day who appeared in The Legend of X, Y, and Z!.\n\nVeofum was a selfish, ruthless, and greedy king who wanted the power of so he could bring prosperity to his land. However, instead of flourishing it, the plant life in his kingdom wilted and the Pokémon began dying. Angered at this, he ordered his men to burn Xerneas. arrived and tried to stop Veofum from burning Xerneas, but he refused. Veofum ordered his men to get rid of Jan, when suddenly, the Legendary Pokémon appeared. Zygarde used to destroy the kingdom, which led to the demise of Veofum and his henchmen."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Veofum\nzh:貝奧朗"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Veofum",
+    "pageType": "character",
+    "searchableText": "Veofum\nCategory:Deceased characters\nVeofum (Japanese: ベオラム Beoram) is a character of the day who appeared in The Legend of X, Y, and Z!.\n\nVeofum was a selfish, ruthless, and greedy king who wanted the power of so he could bring prosperity to his land. However, instead of flourishing it, the plant life in his kingdom wilted and the Pokémon began dying. Angered at this, he ordered his men to burn Xerneas. arrived and tried to stop Veofum from burning Xerneas, but he refused. Veofum ordered his men to get rid of Jan, when suddenly, the Legendary Pokémon appeared. Zygarde used to destroy the kingdom, which led to the demise of Veofum and his henchmen.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 671,
+    "sectionCount": 2
+  }
+}

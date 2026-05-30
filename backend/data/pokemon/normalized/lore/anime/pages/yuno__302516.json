@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Yuno",
+    "slug": "yuno",
+    "pageId": 302516,
+    "revisionId": 4466190
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "yuno__302516.json",
+    "revisionTimestamp": "2026-01-13T07:55:21Z",
+    "fetchedAt": "2026-05-14T15:00:21.089Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Yuno (Japanese: ユノ Yuno) is a character of the day who appeared in Mission: Find Oinkologne's Partner!.",
+  "plainText": "Yuno (Japanese: ユノ Yuno) is a character of the day who appeared in Mission: Find Oinkologne's Partner!. \n\n==History==\nYuno is a beginner Trainer from Pigton Town who started her journey with a female , who was named Twirly. A few days before Pigton Town Multi Battle Tournament, Yuno asked Nidothing for assistance with her Pokémon's personality issues.\n\nWhen Liko and Roy arrived to resolve the situation with the assistance of and Nidothing, they discovered that Oinkologne was in love with Renta's Oinkologne named Prince. Yuno then explained that Renta was an old friend and a childhood rival of hers. After being snubbed by Renta and Oinkologne, Yuno and Twirly decided with the help of Liko and Roy to bathe and teach Twirly some etiquette, so that the Pokémon would awaken Prince's feelings. After being snubbed again, Oinkologne with the help of Quaxly managed to reach Prince's feelings and after another argument between their Trainers, Yuno and Renta made peace. However, before leaving, Yuno asked Liko to train together for the competition, already in perfect synchronization, the duo Yuno and Renta manage to have a tough battle against Liko and Roy.\n\nDuring the competition, Yuno and Renta managed to beat all the challengers and thus reach the final, defeating a huge and thus being the winners of the Pigton Town Multi Battle Tournament. After the competition, Yuno was interviewed by Nidothing, but ended the interview after becoming confused about her own feelings for Renta.\n\n==Pokémon==\n \n\n==Achievements==\n \nYuno has competed in the following :\nPigton Town Multi Battle Tournament - Winner (Mission: Find Oinkologne's Partner!; with Renta)\n \n==Voice actors==\n \n \n \n \n\n \n \n \n\nes:Yuno/Yoli\nfr:Manon\nit:Elsa\nzh:柚乃",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yuno (Japanese: ユノ Yuno) is a character of the day who appeared in Mission: Find Oinkologne's Partner!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Yuno is a beginner Trainer from Pigton Town who started her journey with a female , who was named Twirly. A few days before Pigton Town Multi Battle Tournament, Yuno asked Nidothing for assistance with her Pokémon's personality issues.\n\nWhen Liko and Roy arrived to resolve the situation with the assistance of and Nidothing, they discovered that Oinkologne was in love with Renta's Oinkologne named Prince. Yuno then explained that Renta was an old friend and a childhood rival of hers. After being snubbed by Renta and Oinkologne, Yuno and Twirly decided with the help of Liko and Roy to bathe and teach Twirly some etiquette, so that the Pokémon would awaken Prince's feelings. After being snubbed again, Oinkologne with the help of Quaxly managed to reach Prince's feelings and after another argument between their Trainers, Yuno and Renta made peace. However, before leaving, Yuno asked Liko to train together for the competition, already in perfect synchronization, the duo Yuno and Renta manage to have a tough battle against Liko and Roy.\n\nDuring the competition, Yuno and Renta managed to beat all the challengers and thus reach the final, defeating a huge and thus being the winners of the Pigton Town Multi Battle Tournament. After the competition, Yuno was interviewed by Nidothing, but ended the interview after becoming confused about her own feelings for Renta."
+    },
+    {
+      "heading": "Achievements",
+      "level": 2,
+      "text": "Yuno has competed in the following :\nPigton Town Multi Battle Tournament - Winner (Mission: Find Oinkologne's Partner!; with Renta)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Yuno/Yoli\nfr:Manon\nit:Elsa\nzh:柚乃"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yuno",
+    "pageType": "character",
+    "searchableText": "Yuno\nCategory:Horizons characters of the day\nYuno (Japanese: ユノ Yuno) is a character of the day who appeared in Mission: Find Oinkologne's Partner!.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Achievements",
+      "Voice actors"
+    ],
+    "characterCount": 1732,
+    "sectionCount": 4
+  }
+}

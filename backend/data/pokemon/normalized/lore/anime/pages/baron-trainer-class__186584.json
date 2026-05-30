@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Baron (Trainer class)",
+    "slug": "baron-trainer-class",
+    "pageId": 186584,
+    "revisionId": 4486789
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "baron-trainer-class__186584.json",
+    "revisionTimestamp": "2026-02-14T23:57:55Z",
+    "fetchedAt": "2026-05-14T14:04:38.690Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "A Baron (Japanese: バロン Baron) is a type of Pokémon Trainer that debuted in Generation VI. This Trainer class is a title of nobility, granted in the Battle Chateau, and Trainers with this class only appear there. Baron is the lowest rank of nobility for males, ranking below . Its counterpart for females is .\n\nThe male player character is granted the title of Baron upon first visiting the Battle Chateau. All opponent Barons use parties of one Pokémon at level 15 (if no Writ of Challenge is active).",
+  "plainText": "A Baron (Japanese: バロン Baron) is a type of Pokémon Trainer that debuted in Generation VI. This Trainer class is a title of nobility, granted in the Battle Chateau, and Trainers with this class only appear there. Baron is the lowest rank of nobility for males, ranking below . Its counterpart for females is .\n\nThe male player character is granted the title of Baron upon first visiting the Battle Chateau. All opponent Barons use parties of one Pokémon at level 15 (if no Writ of Challenge is active).\n\n==Gallery==\n===Sprites and models===\nBarons include five s, a , and a .\n\n \n\n==Trainer list==\n===Pokémon X and Y===\nAn active writ in the Battle Chateau may change the levels of Trainers' Pokémon or the reward they give.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n==In animation==\n \n===Pokémon the Series===\n==== ====\nIn Breaking Titles at the Chateau!, and met brothers Nico and Chester, the first of whom had achieved the rank of Baron. His rank was upgraded into after he defeated another Baron-ranked Trainer, Farrell, in a . Later, Ash was also granted with the Baron rank after he had defeated Chester in a battle.\n \n\n==In other languages==\n \n\n==Related articles==\n \n \n \n\n \n\nde:Baron\nfr:Baron\nit:Barone e Baronessa\nja:バロン・バロネス\nzh:男爵",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Baron (Japanese: バロン Baron) is a type of Pokémon Trainer that debuted in Generation VI. This Trainer class is a title of nobility, granted in the Battle Chateau, and Trainers with this class only appear there. Baron is the lowest rank of nobility for males, ranking below . Its counterpart for females is .\n\nThe male player character is granted the title of Baron upon first visiting the Battle Chateau. All opponent Barons use parties of one Pokémon at level 15 (if no Writ of Challenge is active)."
+    },
+    {
+      "heading": "Sprites and models",
+      "level": 3,
+      "text": "Barons include five s, a , and a ."
+    },
+    {
+      "heading": "Pokémon X and Y",
+      "level": 3,
+      "text": "An active writ in the Battle Chateau may change the levels of Trainers' Pokémon or the reward they give."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "In Breaking Titles at the Chateau!, and met brothers Nico and Chester, the first of whom had achieved the rank of Baron. His rank was upgraded into after he defeated another Baron-ranked Trainer, Farrell, in a . Later, Ash was also granted with the Baron rank after he had defeated Chester in a battle."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Baron\nfr:Baron\nit:Barone e Baronessa\nja:バロン・バロネス\nzh:男爵"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Baron (Trainer class)",
+    "pageType": "character",
+    "searchableText": "Baron (Trainer class)\nCategory:Animation characters\nA Baron (Japanese: バロン Baron) is a type of Pokémon Trainer that debuted in Generation VI. This Trainer class is a title of nobility, granted in the Battle Chateau, and Trainers with this class only appear there. Baron is the lowest rank of nobility for males, ranking below . Its counterpart for females is .\n\nThe male player character is granted the title of Baron upon first visiting the Battle Chateau. All opponent Barons use parties of one Pokémon at level 15 (if no Writ of Challenge is active).",
+    "sectionHeadings": [
+      "Lead",
+      "Sprites and models",
+      "Pokémon X and Y",
+      "",
+      "Related articles"
+    ],
+    "characterCount": 1230,
+    "sectionCount": 5
+  }
+}

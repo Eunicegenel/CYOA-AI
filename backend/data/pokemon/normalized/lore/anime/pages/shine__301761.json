@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Shine",
+    "slug": "shine",
+    "pageId": 301761,
+    "revisionId": 4205897
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "shine__301761.json",
+    "revisionTimestamp": "2024-12-19T14:58:59Z",
+    "fetchedAt": "2026-05-14T14:49:24.898Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Shine (Japanese: シャイン Shine) is a character of the day who appeared in The Wild Pair, Friede and Cap!. He is an acquaintance of Friede. He tasked Friede to find his lost , which returned to him as a after being rescued from a group of .",
+  "plainText": "Shine (Japanese: シャイン Shine) is a character of the day who appeared in The Wild Pair, Friede and Cap!. He is an acquaintance of Friede. He tasked Friede to find his lost , which returned to him as a after being rescued from a group of .\n \n\n==Pokémon==\n \n\n====Traveling with====\n \n\n==Voice actors==\n \n \n \n \n\n \n \n \n\nes:Clint\nfr:Shine\nit:Shine\nzh:夏因",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shine (Japanese: シャイン Shine) is a character of the day who appeared in The Wild Pair, Friede and Cap!. He is an acquaintance of Friede. He tasked Friede to find his lost , which returned to him as a after being rescued from a group of ."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Clint\nfr:Shine\nit:Shine\nzh:夏因"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shine",
+    "pageType": "character",
+    "searchableText": "Shine\nCategory:Horizons characters of the day\nShine (Japanese: シャイン Shine) is a character of the day who appeared in The Wild Pair, Friede and Cap!. He is an acquaintance of Friede. He tasked Friede to find his lost , which returned to him as a after being rescued from a group of .",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 346,
+    "sectionCount": 2
+  }
+}

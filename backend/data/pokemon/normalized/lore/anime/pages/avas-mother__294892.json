@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Ava's mother",
+    "slug": "avas-mother",
+    "pageId": 294892,
+    "revisionId": 4255890
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Path to the Peak characters",
+    "sourceFileName": "avas-mother__294892.json",
+    "revisionTimestamp": "2025-03-09T00:00:21Z",
+    "fetchedAt": "2026-05-14T14:04:19.227Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ava's mother is a supporting character in Pokémon: Path to the Peak.",
+  "plainText": "Ava's mother is a supporting character in Pokémon: Path to the Peak.\n==History==\n \n===Pre-series===\nIn the past, Ava's mother was a professional Pokémon TCG player, but over time she stopped playing after losing an important match in the World Championships.\n===Pokémon: Path to the Peak===\nIn The Club, Ava's mother and the rest of her family moved to a new town, during the days that passed, she was seen working and organizing things in the new house.\n\nIn Regionals, she was seen wishing Ava good luck at the regional competition and delivering some groceries, when she intended to tell Ava a secret she was interrupted and just said goodbye to her.\n\nIn Internationals, Ava's mother was seen helping her daughter prepare for another championship. During the finals against Edgar Troy, she was seen watching the match while working, in the climax of the battle, she was able to understand his strategy before Ava even realized it.\n\nIn Worlds, seeing her daughter depressed by the loss in the previous tournament, she told Ava about her past as a professional player and how the defeat affected her. When Ava decided to go to the World Championships, she and her husband were together cheering Ava from the stands. During the rematch against Edgar Troy and seeing that Ava was having fun, she explained to Joshua what Ava was feeling and finally celebrated Ava's victory with her husband and her daughter's friends.\n\n==Character==\nIn contrast to her husband, Ava's mother is more serious and focused on her work, but has shown enormous concern for her daughter's well-being.\n\n==Deck==\n \nIn the past, Ava's mother used a deck. \n==Pokémon competitions==\nWorld Championships - Unknown place (prior to The Club)\n\n==Voice actors==\n \n\n==Trivia==\nAlthough Pokémon: Path to the Peak makes it clear that Ava's mother stopped playing years ago, her old deck is shown to be made up of several cards that were first released in 2023's expansion.\n \n==See also==\nMom\n \n\n \n \n \n \n\nit:Madre di Ava",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ava's mother is a supporting character in Pokémon: Path to the Peak."
+    },
+    {
+      "heading": "Pre-series",
+      "level": 3,
+      "text": "In the past, Ava's mother was a professional Pokémon TCG player, but over time she stopped playing after losing an important match in the World Championships."
+    },
+    {
+      "heading": "Pokémon: Path to the Peak",
+      "level": 3,
+      "text": "In The Club, Ava's mother and the rest of her family moved to a new town, during the days that passed, she was seen working and organizing things in the new house.\n\nIn Regionals, she was seen wishing Ava good luck at the regional competition and delivering some groceries, when she intended to tell Ava a secret she was interrupted and just said goodbye to her.\n\nIn Internationals, Ava's mother was seen helping her daughter prepare for another championship. During the finals against Edgar Troy, she was seen watching the match while working, in the climax of the battle, she was able to understand his strategy before Ava even realized it.\n\nIn Worlds, seeing her daughter depressed by the loss in the previous tournament, she told Ava about her past as a professional player and how the defeat affected her. When Ava decided to go to the World Championships, she and her husband were together cheering Ava from the stands. During the rematch against Edgar Troy and seeing that Ava was having fun, she explained to Joshua what Ava was feeling and finally celebrated Ava's victory with her husband and her daughter's friends."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "In contrast to her husband, Ava's mother is more serious and focused on her work, but has shown enormous concern for her daughter's well-being."
+    },
+    {
+      "heading": "Deck",
+      "level": 2,
+      "text": "In the past, Ava's mother used a deck."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "World Championships - Unknown place (prior to The Club)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Although Pokémon: Path to the Peak makes it clear that Ava's mother stopped playing years ago, her old deck is shown to be made up of several cards that were first released in 2023's expansion."
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "Mom\n \n\n \n \n \n \n\nit:Madre di Ava"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ava's mother",
+    "pageType": "character",
+    "searchableText": "Ava's mother\nCategory:Pokémon: Path to the Peak characters\nAva's mother is a supporting character in Pokémon: Path to the Peak.",
+    "sectionHeadings": [
+      "Lead",
+      "Pre-series",
+      "Pokémon: Path to the Peak",
+      "Character",
+      "Deck",
+      "Pokémon competitions",
+      "Trivia",
+      "See also"
+    ],
+    "characterCount": 1981,
+    "sectionCount": 8
+  }
+}

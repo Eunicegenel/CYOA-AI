@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "ABM01",
+    "slug": "abm01",
+    "pageId": 191647,
+    "revisionId": 4526294
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abm01__191647.json",
+    "revisionTimestamp": "2026-04-09T14:35:07Z",
+    "fetchedAt": "2026-05-14T15:12:06.076Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: めざすはバトリオマスタ-!! Aim to be a Battrio Master!!) is the first chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: めざすはバトリオマスタ-!! Aim to be a Battrio Master!!) is the first chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n====Humans====\nRyū Tendō\nKanto Nankai\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyū Tendō\nKanto Nankai\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: めざすはバトリオマスタ-!! Aim to be a Battrio Master!!) is the first chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Ryū Tendō\nKanto Nankai"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryū Tendō\nKanto Nankai"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABM01",
+    "pageType": "chapter",
+    "searchableText": "ABM01\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: めざすはバトリオマスタ-!! Aim to be a Battrio Master!!) is the first chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans"
+    ],
+    "characterCount": 305,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB36",
+    "slug": "rb36",
+    "pageId": 152282,
+    "revisionId": 4245815
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb36__152282.json",
+    "revisionTimestamp": "2025-02-22T21:40:19Z",
+    "fetchedAt": "2026-05-14T15:47:38.492Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: すりかえられた過去 The Switched Past) is the 36th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: すりかえられた過去 The Switched Past) is the 36th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n==Major events==\nHariru continues his battle against Fraud.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHariru\nFraud\nRyouga\nMiruto\nYappy\nRush\nLoren\nEurou\nHariru's father (flashback)\nPikke\nRurimaru\nDokan\nRabine\nAfron\nKaruta\nCarola\nPlayers\n\n===Pokémon===\n(Hariru's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB36",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: すりかえられた過去 The Switched Past) is the 36th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hariru continues his battle against Fraud."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hariru\nFraud\nRyouga\nMiruto\nYappy\nRush\nLoren\nEurou\nHariru's father (flashback)\nPikke\nRurimaru\nDokan\nRabine\nAfron\nKaruta\nCarola\nPlayers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hariru's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB36"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB36",
+    "pageType": "chapter",
+    "searchableText": "RB36\nCategory:Pokémon RéBURST chapters\n(Japanese: すりかえられた過去 The Switched Past) is the 36th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 416,
+    "sectionCount": 4
+  }
+}

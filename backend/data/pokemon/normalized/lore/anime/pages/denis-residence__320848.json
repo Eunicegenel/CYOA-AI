@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Denis Residence",
+    "slug": "denis-residence",
+    "pageId": 320848,
+    "revisionId": 4142730
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns",
+    "sourceFileName": "denis-residence__320848.json",
+    "revisionTimestamp": "2024-10-11T10:55:52Z",
+    "fetchedAt": "2026-05-14T14:11:39.255Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "The Denis Residence (Japanese: デニス邸 Denis Residence) is the abode of Sanjeev Denis and his family in the game Detective Pikachu Returns. \n\nTim and Pikachu investigate the theft of the Aurora Drop which occurred at the residence.",
+  "plainText": "The Denis Residence (Japanese: デニス邸 Denis Residence) is the abode of Sanjeev Denis and his family in the game Detective Pikachu Returns. \n\nTim and Pikachu investigate the theft of the Aurora Drop which occurred at the residence. \n\n==Geography==\n \nThe Denis Residence is a mansion which lies east of Fountain Plaza in Ryme City. It consists of two floors. The first floor consists of a large foyer with large paintings of and , a locked room on the left, and a cozy parlor on the right filled with sofas and a fireplace. Sanjeev's resides in this parlor. \n\nThe second floor also consists of two rooms; a locked room on the left, and a jewel storage room which usually houses the Aurora Drop. cotton are scattered about the crime scene when Tim investigates the room. A window in the corridor of the second floor faces the terrace in Serenity Park.\n \n==Local concerns==\nThe following local concerns can be found at the Denis Residence.\n \n\n==Pokémon==\n===Exterior===\n \n\n===Interior===\n \n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Denis Residence (Japanese: デニス邸 Denis Residence) is the abode of Sanjeev Denis and his family in the game Detective Pikachu Returns. \n\nTim and Pikachu investigate the theft of the Aurora Drop which occurred at the residence."
+    },
+    {
+      "heading": "Geography",
+      "level": 2,
+      "text": "The Denis Residence is a mansion which lies east of Fountain Plaza in Ryme City. It consists of two floors. The first floor consists of a large foyer with large paintings of and , a locked room on the left, and a cozy parlor on the right filled with sofas and a fireplace. Sanjeev's resides in this parlor. \n\nThe second floor also consists of two rooms; a locked room on the left, and a jewel storage room which usually houses the Aurora Drop. cotton are scattered about the crime scene when Tim investigates the room. A window in the corridor of the second floor faces the terrace in Serenity Park."
+    },
+    {
+      "heading": "Local concerns",
+      "level": 2,
+      "text": "The following local concerns can be found at the Denis Residence."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Denis Residence",
+    "pageType": "general-anime-lore",
+    "searchableText": "Denis Residence\nCategory:Detective Pikachu Returns\nThe Denis Residence (Japanese: デニス邸 Denis Residence) is the abode of Sanjeev Denis and his family in the game Detective Pikachu Returns. \n\nTim and Pikachu investigate the theft of the Aurora Drop which occurred at the residence.",
+    "sectionHeadings": [
+      "Lead",
+      "Geography",
+      "Local concerns"
+    ],
+    "characterCount": 1007,
+    "sectionCount": 3
+  }
+}

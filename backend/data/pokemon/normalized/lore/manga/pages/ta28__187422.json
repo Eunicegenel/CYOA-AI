@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "TA28",
+    "slug": "ta28",
+    "pageId": 187422,
+    "revisionId": 2805057
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta28__187422.json",
+    "revisionTimestamp": "2018-06-09T05:02:56Z",
+    "fetchedAt": "2026-05-14T15:50:49.514Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: つながる空間 Connected Spaces) is the 28th chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: つながる空間 Connected Spaces) is the 28th chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\n\n===Pokémon===\n(multiple)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: つながる空間 Connected Spaces) is the 28th chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(multiple)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA28",
+    "pageType": "chapter",
+    "searchableText": "TA28\nCategory:Pokémon Try Adventure chapters\n(Japanese: つながる空間 Connected Spaces) is the 28th chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 237,
+    "sectionCount": 3
+  }
+}

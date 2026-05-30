@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS61",
+    "slug": "pmrs61",
+    "pageId": 172756,
+    "revisionId": 4264665
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs61__172756.json",
+    "revisionTimestamp": "2025-03-23T18:35:04Z",
+    "fetchedAt": "2026-05-14T15:33:50.798Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy's Dome Concert! (Japanese: ピッピのドームコンサート！？ 's Dome Concert!?) is the sixty-first chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Clefairy's Dome Concert! (Japanese: ピッピのドームコンサート！？ 's Dome Concert!?) is the sixty-first chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy's Dome Concert! (Japanese: ピッピのドームコンサート！？ 's Dome Concert!?) is the sixty-first chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS61",
+    "pageType": "chapter",
+    "searchableText": "PMRS61\nCategory:Pokémon Ruby-Sapphire chapters\nClefairy's Dome Concert! (Japanese: ピッピのドームコンサート！？ 's Dome Concert!?) is the sixty-first chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 256,
+    "sectionCount": 2
+  }
+}

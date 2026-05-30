@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "MTM15",
+    "slug": "mtm15",
+    "pageId": 323081,
+    "revisionId": 4528451
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mezastar: Aim to Be a Tag Master! chapters",
+    "sourceFileName": "mtm15__323081.json",
+    "revisionTimestamp": "2026-04-09T16:21:59Z",
+    "fetchedAt": "2026-05-14T15:27:21.603Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the 15th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the January 2024 issue of CoroCoro Ichiban!, released on November 21, 2023.",
+  "plainText": "This is the 15th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the January 2024 issue of CoroCoro Ichiban!, released on November 21, 2023. \n\n==Plot==\n \n \n \n\n==Major events==\n===Debuts===\n====Humans====\nKanon Tenou\n\n==Characters==\n===Humans===\nKira Hoshio\nKanon Tenou\n\n==Tags featured==\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the 15th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the January 2024 issue of CoroCoro Ichiban!, released on November 21, 2023."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Kanon Tenou"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kira Hoshio\nKanon Tenou"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MTM15",
+    "pageType": "chapter",
+    "searchableText": "MTM15\nCategory:Pokémon Mezastar: Aim to Be a Tag Master! chapters\nThis is the 15th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the January 2024 issue of CoroCoro Ichiban!, released on November 21, 2023.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans"
+    ],
+    "characterCount": 345,
+    "sectionCount": 3
+  }
+}

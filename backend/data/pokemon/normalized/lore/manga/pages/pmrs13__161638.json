@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMRS13",
+    "slug": "pmrs13",
+    "pageId": 161638,
+    "revisionId": 4264616
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs13__161638.json",
+    "revisionTimestamp": "2025-03-23T18:27:51Z",
+    "fetchedAt": "2026-05-14T15:33:15.925Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "I Hate Pokémon?! (Japanese: ポケモンなんかだいきらい！？ I Hate Pokémon!? is the thirteenth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "I Hate Pokémon?! (Japanese: ポケモンなんかだいきらい！？ I Hate Pokémon!? is the thirteenth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nClub members\n\n===Pokémon===\n( )\n( )\n( )\n(club's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "I Hate Pokémon?! (Japanese: ポケモンなんかだいきらい！？ I Hate Pokémon!? is the thirteenth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Club members"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(club's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS13",
+    "pageType": "chapter",
+    "searchableText": "PMRS13\nCategory:Pokémon Ruby-Sapphire chapters\nI Hate Pokémon?! (Japanese: ポケモンなんかだいきらい！？ I Hate Pokémon!? is the thirteenth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 268,
+    "sectionCount": 3
+  }
+}

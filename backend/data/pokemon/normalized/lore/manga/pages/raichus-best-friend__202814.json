@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Raichu's Best Friend",
+    "slug": "raichus-best-friend",
+    "pageId": 202814,
+    "revisionId": 4168599
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "raichus-best-friend__202814.json",
+    "revisionTimestamp": "2024-10-26T19:07:15Z",
+    "fetchedAt": "2026-05-14T15:47:10.132Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Raichu's Best Friend is the twenty-fourth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 14th and 15th bouns chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Raichu's Best Friend is the twenty-fourth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 14th and 15th bouns chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n==Blurb==\nRAICHU'S BEST FRIEND\n\nThe Pokémon meet a Raichu trainer who actually lives in a Pokémon tower. Does that mean she's a ghost? And what else should they know about her? \n\nThen, Machamp tries to woo a finicky Vaporeon, but will its attempts prove successful this time around?\n\n==Publications==\n \n \n\n==Chapters==\nRaichu's Best Friend\nLoves Me? Loves Me Not?\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Raichu's Best Friend is the twenty-fourth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 14th and 15th bouns chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "RAICHU'S BEST FRIEND\n\nThe Pokémon meet a Raichu trainer who actually lives in a Pokémon tower. Does that mean she's a ghost? And what else should they know about her? \n\nThen, Machamp tries to woo a finicky Vaporeon, but will its attempts prove successful this time around?"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Raichu's Best Friend\nLoves Me? Loves Me Not?"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Raichu's Best Friend",
+    "pageType": "pokemon-related",
+    "searchableText": "Raichu's Best Friend\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Raichu's Best Friend is the twenty-fourth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 14th and 15th bouns chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters"
+    ],
+    "characterCount": 784,
+    "sectionCount": 3
+  }
+}

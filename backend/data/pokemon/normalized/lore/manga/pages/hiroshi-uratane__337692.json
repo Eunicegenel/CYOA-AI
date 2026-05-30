@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Hiroshi Uratane",
+    "slug": "hiroshi-uratane",
+    "pageId": 337692,
+    "revisionId": 4525940
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Let's Play the Pokémon Card Game XY! characters",
+    "sourceFileName": "hiroshi-uratane__337692.json",
+    "revisionTimestamp": "2026-04-09T14:07:08Z",
+    "fetchedAt": "2026-05-14T15:21:34.339Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n \n \n \n\nHiroshi Uratane (Japanese: ウラターヌ Uratane Hiroshi) is a main character in Let's Play the Pokémon Card Game XY!. He is a Pokémon Card Game Secret Trick researcher.\n\nOn the back of his lab coat, the \"裏\" kanji is written which is the term used to refer to tails on a coin in the Japanese version of the Pokemon TCG.",
+  "plainText": "----\n \n \n \n\nHiroshi Uratane (Japanese: ウラターヌ Uratane Hiroshi) is a main character in Let's Play the Pokémon Card Game XY!. He is a Pokémon Card Game Secret Trick researcher.\n\nOn the back of his lab coat, the \"裏\" kanji is written which is the term used to refer to tails on a coin in the Japanese version of the Pokemon TCG.\n\n==Voice actors==\n \n\n==Names==\n \n \n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \n \n \n\nHiroshi Uratane (Japanese: ウラターヌ Uratane Hiroshi) is a main character in Let's Play the Pokémon Card Game XY!. He is a Pokémon Card Game Secret Trick researcher.\n\nOn the back of his lab coat, the \"裏\" kanji is written which is the term used to refer to tails on a coin in the Japanese version of the Pokemon TCG."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hiroshi Uratane",
+    "pageType": "character",
+    "searchableText": "Hiroshi Uratane\nCategory:Let's Play the Pokémon Card Game XY! characters\n----\n \n \n \n\nHiroshi Uratane (Japanese: ウラターヌ Uratane Hiroshi) is a main character in Let's Play the Pokémon Card Game XY!. He is a Pokémon Card Game Secret Trick researcher.\n\nOn the back of his lab coat, the \"裏\" kanji is written which is the term used to refer to tails on a coin in the Japanese version of the Pokemon TCG.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 374,
+    "sectionCount": 1
+  }
+}

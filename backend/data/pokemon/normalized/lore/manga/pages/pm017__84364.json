@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM017",
+    "slug": "pm017",
+    "pageId": 84364,
+    "revisionId": 4526431
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm017__84364.json",
+    "revisionTimestamp": "2026-04-09T14:45:48Z",
+    "fetchedAt": "2026-05-14T15:30:40.134Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Regain the Deserted Power Plant! (Japanese: 無人発電所を取りもどせ！！ Regain the Deserted Power Plant!!) is the seventeenth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Regain the Deserted Power Plant! (Japanese: 無人発電所を取りもどせ！！ Regain the Deserted Power Plant!!) is the seventeenth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\nClefairy destroys the .\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( 's)\n\n==Trivia==\nThe Jolteon/Vaporeon/Flareon in this chapter is very similar to Vee from Pokémon Adventures before it evolved into Espeon.\n\n \n \n\nde:Kapitel 17 (Pokémon Pocket Monsters)\nes:PPM017\nit:PMM017\nzh:宝可梦欢乐祭 第17话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Regain the Deserted Power Plant! (Japanese: 無人発電所を取りもどせ！！ Regain the Deserted Power Plant!!) is the seventeenth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Clefairy destroys the ."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The Jolteon/Vaporeon/Flareon in this chapter is very similar to Vee from Pokémon Adventures before it evolved into Espeon.\n\n \n \n\nde:Kapitel 17 (Pokémon Pocket Monsters)\nes:PPM017\nit:PMM017\nzh:宝可梦欢乐祭 第17话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM017",
+    "pageType": "chapter",
+    "searchableText": "PM017\nCategory:Pokémon Pocket Monsters chapters\nRegain the Deserted Power Plant! (Japanese: 無人発電所を取りもどせ！！ Regain the Deserted Power Plant!!) is the seventeenth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 522,
+    "sectionCount": 4
+  }
+}

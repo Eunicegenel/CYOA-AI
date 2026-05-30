@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Pokémon 4Koma Encyclopedia",
+    "slug": "pokemon-4koma-encyclopedia",
+    "pageId": 220594,
+    "revisionId": 4528270
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-4koma-encyclopedia__220594.json",
+    "revisionTimestamp": "2026-04-09T16:12:04Z",
+    "fetchedAt": "2026-05-14T15:34:43.574Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモン4コマ大百科 Pokémon 4Koma Encyclopedia) is a Pokémon 4Koma created by Takahiro Yamashita.\n\n \n \n\n \n\n \n\nzh:宝可梦4格大百科",
+  "plainText": "(Japanese: ポケモン4コマ大百科 Pokémon 4Koma Encyclopedia) is a Pokémon 4Koma created by Takahiro Yamashita.\n\n \n \n\n \n\n \n\nzh:宝可梦4格大百科",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン4コマ大百科 Pokémon 4Koma Encyclopedia) is a Pokémon 4Koma created by Takahiro Yamashita.\n\n \n \n\n \n\n \n\nzh:宝可梦4格大百科"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 4Koma Encyclopedia",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 4Koma Encyclopedia\nCategory:Pokémon 4Koma\n(Japanese: ポケモン4コマ大百科 Pokémon 4Koma Encyclopedia) is a Pokémon 4Koma created by Takahiro Yamashita.\n\n \n \n\n \n\n \n\nzh:宝可梦4格大百科",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 123,
+    "sectionCount": 1
+  }
+}

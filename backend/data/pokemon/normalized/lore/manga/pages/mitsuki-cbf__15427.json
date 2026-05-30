@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Mitsuki (CBF)",
+    "slug": "mitsuki-cbf",
+    "pageId": 15427,
+    "revisionId": 3044047
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battle Frontier characters",
+    "sourceFileName": "mitsuki-cbf__15427.json",
+    "revisionTimestamp": "2019-10-20T23:22:10Z",
+    "fetchedAt": "2026-05-14T15:26:49.840Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mitsuki (Japanese: ミツキ Mitsuki) is an arrogant and attractive young Pokémon Trainer in the . He appeared in Pokémon Battle Frontier.",
+  "plainText": "Mitsuki (Japanese: ミツキ Mitsuki) is an arrogant and attractive young Pokémon Trainer in the . He appeared in Pokémon Battle Frontier.\n\n== History ==\n \nMitsuki debuts in the first chapter as a partner for during his participation at the Multi Battle challenge. He sends out his Goldeen during the first match. Due to Enta's Vulpix's loss, Mitsuki was forced to defeat his opponents on his own. After the match, Mitsuki scolds Enta for what he made Vulpix do. Later, after Enta made amends with Vulpix, Mitsuki was convinced to have another match with Enta as his partner. Unlike last time, Enta was able to stay in the battle, and both Trainers were subsequently able to win together. Later, he is seen having a battle with Enta's master, Rald. Mitsuki ends up losing that battle. He is then paired with Enta for their third Multi Battle challenge. Before Enta's match with Anabel, Mitsuki, along with Rald, trains him in order to prepare him.\n\n== Character ==\nMitsuki is the opposite of Enta in that he keeps his emotions to himself. He enjoys showing off for his female fans but is annoyed by who ends up being his partner in Double Battles.\n\nA running gag is that Enta would headbutt him in the crotch every time he bows to Mitsuki. Despite their differences, Enta views Mitsuki as his mentor similar to how Enta viewed Rald as his master.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mitsuki (Japanese: ミツキ Mitsuki) is an arrogant and attractive young Pokémon Trainer in the . He appeared in Pokémon Battle Frontier."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Mitsuki debuts in the first chapter as a partner for during his participation at the Multi Battle challenge. He sends out his Goldeen during the first match. Due to Enta's Vulpix's loss, Mitsuki was forced to defeat his opponents on his own. After the match, Mitsuki scolds Enta for what he made Vulpix do. Later, after Enta made amends with Vulpix, Mitsuki was convinced to have another match with Enta as his partner. Unlike last time, Enta was able to stay in the battle, and both Trainers were subsequently able to win together. Later, he is seen having a battle with Enta's master, Rald. Mitsuki ends up losing that battle. He is then paired with Enta for their third Multi Battle challenge. Before Enta's match with Anabel, Mitsuki, along with Rald, trains him in order to prepare him."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Mitsuki is the opposite of Enta in that he keeps his emotions to himself. He enjoys showing off for his female fans but is annoyed by who ends up being his partner in Double Battles.\n\nA running gag is that Enta would headbutt him in the crotch every time he bows to Mitsuki. Despite their differences, Enta views Mitsuki as his mentor similar to how Enta viewed Rald as his master."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mitsuki (CBF)",
+    "pageType": "character",
+    "searchableText": "Mitsuki (CBF)\nCategory:Pokémon Battle Frontier characters\nMitsuki (Japanese: ミツキ Mitsuki) is an arrogant and attractive young Pokémon Trainer in the . He appeared in Pokémon Battle Frontier.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character"
+    ],
+    "characterCount": 1353,
+    "sectionCount": 3
+  }
+}

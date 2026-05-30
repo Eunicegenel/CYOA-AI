@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASS04",
+    "slug": "pass04",
+    "pageId": 253640,
+    "revisionId": 4527847
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass04__253640.json",
+    "revisionTimestamp": "2026-04-09T15:55:56Z",
+    "fetchedAt": "2026-05-14T15:28:41.861Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Zap!! A Rising Beam of Light (Japanese: ホワホワ！！あがる光柱 Float Softly!! Rising Pillar of Light) is the fourth chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Zap!! A Rising Beam of Light (Japanese: ホワホワ！！あがる光柱 Float Softly!! Rising Pillar of Light) is the fourth chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nnicknames his Lancelot and his Twiggy.\nMarvin nicknames his Sniffler.\nHenry and receive Dynamax Bands. \nHenry and Casey enter a Max Raid Battle against a .\nHenry catches the Gurdurr and names it Steeler.\n\n \n \n\n===Debuts===\n====Humans====\ns\n\n====Pokémon debuts====\n(Galarian Form)\n\n==Characters==\n===Humans===\n\nProfessor Magnolia\nMarvin\nMarnie (photo)\ns\n\n===Pokémon===\n(Lancelot; 's)\n(Twiggy; 's)\n(Steeler; Dynamax; 's; new)\n(Rotom Phone; 's)\n( )\n(Rotom Phone; 's)\n(Sniffler; Marvin's)\n(Galarian Form; 's; debut)\n( 's; debut)\n(Trainer's; fantasy)\n(Dynamax; hologram; flashback)\n\n(×2)\n(multiple)\n(multiple)\n\n(×2)\n\n(multiple)\n\n \n\n \n \n \n\nde:Emporsteigende Lichtsäulen\nes:PMSSwSh04\nfr:Chapitre 4 (Pocket Monsters Special Épée et Bouclier)\nit:PASS04\nzh:宝可梦特别篇 剑·盾篇 第4话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Zap!! A Rising Beam of Light (Japanese: ホワホワ！！あがる光柱 Float Softly!! Rising Pillar of Light) is the fourth chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "nicknames his Lancelot and his Twiggy.\nMarvin nicknames his Sniffler.\nHenry and receive Dynamax Bands. \nHenry and Casey enter a Max Raid Battle against a .\nHenry catches the Gurdurr and names it Steeler."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "s"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Galarian Form)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Magnolia\nMarvin\nMarnie (photo)\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Lancelot; 's)\n(Twiggy; 's)\n(Steeler; Dynamax; 's; new)\n(Rotom Phone; 's)\n( )\n(Rotom Phone; 's)\n(Sniffler; Marvin's)\n(Galarian Form; 's; debut)\n( 's; debut)\n(Trainer's; fantasy)\n(Dynamax; hologram; flashback)\n\n(×2)\n(multiple)\n(multiple)\n\n(×2)\n\n(multiple)\n\n \n\n \n \n \n\nde:Emporsteigende Lichtsäulen\nes:PMSSwSh04\nfr:Chapitre 4 (Pocket Monsters Special Épée et Bouclier)\nit:PASS04\nzh:宝可梦特别篇 剑·盾篇 第4话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS04",
+    "pageType": "chapter",
+    "searchableText": "PASS04\nCategory:Pokémon Adventures chapters\nZap!! A Rising Beam of Light (Japanese: ホワホワ！！あがる光柱 Float Softly!! Rising Pillar of Light) is the fourth chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 947,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon 4Koma Gag Battle",
+    "slug": "pokemon-4koma-gag-battle",
+    "pageId": 178204,
+    "revisionId": 4526455
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-4koma-gag-battle__178204.json",
+    "revisionTimestamp": "2026-04-09T14:47:12Z",
+    "fetchedAt": "2026-05-14T15:34:47.942Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケットモンスター　４コマギャグバトル Pokémon 4Koma Gag Battle) is a four-panel gag featuring Pokémon, released on October 28, 1996 and was created by Yuuki Shinichi, Tsushima Naoto and Onodera Kouji. The manga was released from Publishing Co.",
+  "plainText": "(Japanese: ポケットモンスター　４コマギャグバトル Pokémon 4Koma Gag Battle) is a four-panel gag featuring Pokémon, released on October 28, 1996 and was created by Yuuki Shinichi, Tsushima Naoto and Onodera Kouji. The manga was released from Publishing Co.\n\n==Characters==\n: the protagonist, based on \n: Red's rival, based on \n\n==Publications==\n \n \n\n \n\n \n\nit:Pokémon 4Koma Gag Battle\nzh:宝可梦4格对战",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケットモンスター　４コマギャグバトル Pokémon 4Koma Gag Battle) is a four-panel gag featuring Pokémon, released on October 28, 1996 and was created by Yuuki Shinichi, Tsushima Naoto and Onodera Kouji. The manga was released from Publishing Co."
+    },
+    {
+      "heading": "Characters",
+      "level": 2,
+      "text": ": the protagonist, based on \n: Red's rival, based on"
+    },
+    {
+      "heading": "Publications",
+      "level": 2,
+      "text": "it:Pokémon 4Koma Gag Battle\nzh:宝可梦4格对战"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 4Koma Gag Battle",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 4Koma Gag Battle\nCategory:Pokémon 4Koma\n(Japanese: ポケットモンスター　４コマギャグバトル Pokémon 4Koma Gag Battle) is a four-panel gag featuring Pokémon, released on October 28, 1996 and was created by Yuuki Shinichi, Tsushima Naoto and Onodera Kouji. The manga was released from Publishing Co.",
+    "sectionHeadings": [
+      "Lead",
+      "Characters",
+      "Publications"
+    ],
+    "characterCount": 374,
+    "sectionCount": 3
+  }
+}

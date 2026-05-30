@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "HZM00",
+    "slug": "hzm00",
+    "pageId": 295698,
+    "revisionId": 4076556
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Anime Pocket Monsters: Liko and Roy's Adventure chapters",
+    "sourceFileName": "hzm00__295698.json",
+    "revisionTimestamp": "2024-08-08T18:26:47Z",
+    "fetchedAt": "2026-05-14T15:21:56.245Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: プロローグ Prologue) is the prologue chapter of the manga. It was first published fully colored in the April 2023 issue of CoroCoro Comics, released on March 15, 2023. It is six pages long.",
+  "plainText": "(Japanese: プロローグ Prologue) is the prologue chapter of the manga. It was first published fully colored in the April 2023 issue of CoroCoro Comics, released on March 15, 2023. It is six pages long.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\nLiko\nRoy\n\n====Pokémon debuts====\n\n(Trainer's)\n(Trainer's)\n\n(Trainer's)\n(Trainer's)\n( )\n( )\n(Rising Volt Tacklers')\n(Lucius's; Black Rayquaza)\n\n==Characters==\n===Humans===\nLiko\nRoy\nTrainers\nCitizens\n\n===Pokémon===\n \n( )\n( )\n(Lucius's; Black Rayquaza)\n(Rising Volt Tacklers')\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n\n(×4)\n\n(×3)\n(×2)\n\n==Trivia==\nThis chapter was published in an extra book of the CoroCoro Comics April 2023 issue titled (Japanese: アニメ　ポケットモンスター　超スタートＢＯＯＫ Anime Pocket Monsters Super Start BOOK).\nThe battle between a and a references the game intro of .\nThis chapter features all core series first partner Pokémon as of .\n\n \nCoroCoro Comics April 2023 extra book.png|CoroCoro Comics extra book\nHZM00 World of Pokémon.png| VS \n \n\n==References==\n \n\n \n \n \n\nit:HZM00",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: プロローグ Prologue) is the prologue chapter of the manga. It was first published fully colored in the April 2023 issue of CoroCoro Comics, released on March 15, 2023. It is six pages long."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Liko\nRoy"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Trainer's)\n(Trainer's)\n\n(Trainer's)\n(Trainer's)\n( )\n( )\n(Rising Volt Tacklers')\n(Lucius's; Black Rayquaza)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Liko\nRoy\nTrainers\nCitizens"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Lucius's; Black Rayquaza)\n(Rising Volt Tacklers')\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n\n(×4)\n\n(×3)\n(×2)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This chapter was published in an extra book of the CoroCoro Comics April 2023 issue titled (Japanese: アニメ　ポケットモンスター　超スタートＢＯＯＫ Anime Pocket Monsters Super Start BOOK).\nThe battle between a and a references the game intro of .\nThis chapter features all core series first partner Pokémon as of .\n\n \nCoroCoro Comics April 2023 extra book.png|CoroCoro Comics extra book\nHZM00 World of Pokémon.png| VS"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:HZM00"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "HZM00",
+    "pageType": "chapter",
+    "searchableText": "HZM00\nCategory:Anime Pocket Monsters: Liko and Roy's Adventure chapters\n(Japanese: プロローグ Prologue) is the prologue chapter of the manga. It was first published fully colored in the April 2023 issue of CoroCoro Comics, released on March 15, 2023. It is six pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia",
+      "References"
+    ],
+    "characterCount": 1038,
+    "sectionCount": 7
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Connally",
+    "slug": "connally",
+    "pageId": 48967,
+    "revisionId": 4095129
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Gym assistants",
+    "sourceFileName": "connally__48967.json",
+    "revisionTimestamp": "2024-09-01T00:16:17Z",
+    "fetchedAt": "2026-05-14T14:10:19.216Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Connally (Japanese: クロダ Kuroda) is a who trains in Maylene's Gym. He appeared from Lost Leader Strategy! to A Triple Fighting Chance!.\n\nIn his first appearance, his fellow Black Belts had lost faith in Maylene because of her loss to Paul, resulting in her developing uncertainty about being a Gym Leader. However, Connally still believed in her.\n\nConnally refereed Maylene and 's unofficial Gym , and later, Maylene and 's Gym battle. During the matches, his knowledge and respect of the Gym's rules helped to bolster Maylene's confidence as a Gym Leader. He was touched, to the point of crying, after Maylene regained her self-confidence as a Gym Leader.",
+  "plainText": "Connally (Japanese: クロダ Kuroda) is a who trains in Maylene's Gym. He appeared from Lost Leader Strategy! to A Triple Fighting Chance!.\n\nIn his first appearance, his fellow Black Belts had lost faith in Maylene because of her loss to Paul, resulting in her developing uncertainty about being a Gym Leader. However, Connally still believed in her.\n\nConnally refereed Maylene and 's unofficial Gym , and later, Maylene and 's Gym battle. During the matches, his knowledge and respect of the Gym's rules helped to bolster Maylene's confidence as a Gym Leader. He was touched, to the point of crying, after Maylene regained her self-confidence as a Gym Leader.\n\n==Voice actors==\n \n\n \n \n \n \n\nes:Connally\nit:Connally\nzh:庫洛達",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Connally (Japanese: クロダ Kuroda) is a who trains in Maylene's Gym. He appeared from Lost Leader Strategy! to A Triple Fighting Chance!.\n\nIn his first appearance, his fellow Black Belts had lost faith in Maylene because of her loss to Paul, resulting in her developing uncertainty about being a Gym Leader. However, Connally still believed in her.\n\nConnally refereed Maylene and 's unofficial Gym , and later, Maylene and 's Gym battle. During the matches, his knowledge and respect of the Gym's rules helped to bolster Maylene's confidence as a Gym Leader. He was touched, to the point of crying, after Maylene regained her self-confidence as a Gym Leader."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Connally\nit:Connally\nzh:庫洛達"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Connally",
+    "pageType": "general-anime-lore",
+    "searchableText": "Connally\nCategory:Gym assistants\nConnally (Japanese: クロダ Kuroda) is a who trains in Maylene's Gym. He appeared from Lost Leader Strategy! to A Triple Fighting Chance!.\n\nIn his first appearance, his fellow Black Belts had lost faith in Maylene because of her loss to Paul, resulting in her developing uncertainty about being a Gym Leader. However, Connally still believed in her.\n\nConnally refereed Maylene and 's unofficial Gym , and later, Maylene and 's Gym battle. During the matches, his knowledge and respect of the Gym's rules helped to bolster Maylene's confidence as a Gym Leader. He was touched, to the point of crying, after Maylene regained her self-confidence as a Gym Leader.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 716,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ53",
+    "slug": "gdz53",
+    "pageId": 188444,
+    "revisionId": 4527845
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz53__188444.json",
+    "revisionTimestamp": "2026-04-09T15:55:53Z",
+    "fetchedAt": "2026-05-14T15:19:55.344Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ライバル再び！ The Rival Reappears!) is the 53rd chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ライバル再び！ The Rival Reappears!) is the 53rd chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nNagi\n\n===Pokémon===\n( )\n(Nagi's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ライバル再び！ The Rival Reappears!) is the 53rd chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nNagi"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Nagi's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ53",
+    "pageType": "chapter",
+    "searchableText": "GDZ53\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ライバル再び！ The Rival Reappears!) is the 53rd chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 236,
+    "sectionCount": 3
+  }
+}

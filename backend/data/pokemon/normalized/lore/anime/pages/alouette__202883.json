@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Alouette",
+    "slug": "alouette",
+    "pageId": 202883,
+    "revisionId": 4143401
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Performers",
+    "sourceFileName": "alouette__202883.json",
+    "revisionTimestamp": "2024-10-11T19:41:50Z",
+    "fetchedAt": "2026-05-14T14:00:47.226Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Alouette (Japanese: アルメル Armelle) is a minor recurring character in . She is a Pokémon Performer.",
+  "plainText": "Alouette (Japanese: アルメル Armelle) is a minor recurring character in . She is a Pokémon Performer.\n\n==History==\nAlouette first appeared in A Showcase Debut!, where she competed in the Coumarine City Pokémon Showcase. She was first shown grooming her in the preparing room for Pokémon Performers. She was then called onstage as one of the first three Pokémon Performers to perform in the first round, together with and Jessilee. As part of the theme of the first round, \"Pokémon Styling\", she gave her Furfrou a Pharaoh Trim. It wasn't enough to proceed, however, as she didn't get enough votes from the audience, and thus fell slightly behind Shauna. Afterwards, she was shown talking with Shauna and congratulating her on her victory.\n\nIn Master Class Choices!, Alouette competed in the Fleurrh City Pokémon Showcase. Once again, she did not make it to the Freestyle Performance.\n\nIn Master Class Is in Session!, Alouette competed in the Master Class Pokémon Showcase in Gloire City.\n\n==Pokémon==\nThis listing is of Alouette's known in :\n \n\n==Showcases==\n===Princess Keys obtained===\nThis listing is of the s Alouette has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)\n\n===Master Class ranking===\nAlouette has achieved the following ranking in the Master Class tournament:\nShowcase - Top 10 (Master Class Is in Session!)\n\n===Other achievements===\nAlouette has competed in the following Rookie Class tournaments:\nShowcase - Theme Performance (A Showcase Debut!)\nShowcase - Theme Performance (Master Class Choices!)\n\n \n\n \n \n \n\nde:Alouette\nes:Alouette\nfr:Alouette\nit:Geraldine\nja:アルメル\nzh:亞爾美露",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Alouette (Japanese: アルメル Armelle) is a minor recurring character in . She is a Pokémon Performer."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Alouette first appeared in A Showcase Debut!, where she competed in the Coumarine City Pokémon Showcase. She was first shown grooming her in the preparing room for Pokémon Performers. She was then called onstage as one of the first three Pokémon Performers to perform in the first round, together with and Jessilee. As part of the theme of the first round, \"Pokémon Styling\", she gave her Furfrou a Pharaoh Trim. It wasn't enough to proceed, however, as she didn't get enough votes from the audience, and thus fell slightly behind Shauna. Afterwards, she was shown talking with Shauna and congratulating her on her victory.\n\nIn Master Class Choices!, Alouette competed in the Fleurrh City Pokémon Showcase. Once again, she did not make it to the Freestyle Performance.\n\nIn Master Class Is in Session!, Alouette competed in the Master Class Pokémon Showcase in Gloire City."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Alouette's known in :"
+    },
+    {
+      "heading": "Princess Keys obtained",
+      "level": 3,
+      "text": "This listing is of the s Alouette has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)"
+    },
+    {
+      "heading": "Master Class ranking",
+      "level": 3,
+      "text": "Alouette has achieved the following ranking in the Master Class tournament:\nShowcase - Top 10 (Master Class Is in Session!)"
+    },
+    {
+      "heading": "Other achievements",
+      "level": 3,
+      "text": "Alouette has competed in the following Rookie Class tournaments:\nShowcase - Theme Performance (A Showcase Debut!)\nShowcase - Theme Performance (Master Class Choices!)\n\n \n\n \n \n \n\nde:Alouette\nes:Alouette\nfr:Alouette\nit:Geraldine\nja:アルメル\nzh:亞爾美露"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Alouette",
+    "pageType": "general-anime-lore",
+    "searchableText": "Alouette\nCategory:Performers\nAlouette (Japanese: アルメル Armelle) is a minor recurring character in . She is a Pokémon Performer.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Princess Keys obtained",
+      "Master Class ranking",
+      "Other achievements"
+    ],
+    "characterCount": 1620,
+    "sectionCount": 6
+  }
+}

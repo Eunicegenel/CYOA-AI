@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PPP14",
+    "slug": "ppp14",
+    "pageId": 6551,
+    "revisionId": 4550452
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp14__6551.json",
+    "revisionTimestamp": "2026-05-12T07:17:20Z",
+    "fetchedAt": "2026-05-14T15:38:45.339Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Forever Friends ♥ (Japanese: これからもよろしくネ, Let's Keep Being Friends) is the 14th chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Forever Friends ♥ (Japanese: これからもよろしくネ, Let's Keep Being Friends) is the 14th chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nWhile playing by itself in a field, stumbles across a beautiful flower. Thinking Hazel would appreciate it as a gift, Pikachu picks it and takes it to her house. However, when it knocks on the door, there is no answer. Pikachu checks all of the windows, but there is no sign of Hazel.\n\nBelieving Hazel to be at Grandpa's house, Pikachu decides to go there next, but nobody is around there either. It then goes to 's home, but that house is empty as well. Pikachu visits another field in search of , but only finds a sleeping . Snorlax wakes up, then laments that all of the food it had dreamed about is no longer there. This gives Pikachu the idea that it has been dreaming the entire time.\n\nPikachu puts itself to bed in its tree hollow, but dreams that all of its friends decide to leave it behind. It wakes up in a cold sweat, then runs back to Hazel's house to pound on her door. When there is no response, Pikachu runs around the fields and caves, calling out for its friends. As it hopelessly walks alone, it envisions that everyone decided to leave with Almond on a journey to catch Pokémon. The flower begins to wilt, and Pikachu bursts into tears.\n\nAs Pikachu cries, a voice suddenly calls out to it. Pikachu looks up to see Hazel, who has been searching for it. Hazel explains that she was only getting ready at Coconut's house, then takes Pikachu there. When they open the door, Pikachu is shocked to see that Almond, Grandpa, Coconut and Peanut, as well as their Pokémon friends, are there to celebrate the anniversary of Pikachu's first meeting with Hazel. Coconut revives the wilted flower with a spray she made, and Pikachu is able to finally give it to Hazel.\n\n==Major events==\nHazel and celebrate the anniversary of their first meeting.\n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHazel\nGrandpa\nCoconut\nAlmond\nPeanut\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Forever Friends ♥ (Japanese: これからもよろしくネ, Let's Keep Being Friends) is the 14th chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "While playing by itself in a field, stumbles across a beautiful flower. Thinking Hazel would appreciate it as a gift, Pikachu picks it and takes it to her house. However, when it knocks on the door, there is no answer. Pikachu checks all of the windows, but there is no sign of Hazel.\n\nBelieving Hazel to be at Grandpa's house, Pikachu decides to go there next, but nobody is around there either. It then goes to 's home, but that house is empty as well. Pikachu visits another field in search of , but only finds a sleeping . Snorlax wakes up, then laments that all of the food it had dreamed about is no longer there. This gives Pikachu the idea that it has been dreaming the entire time.\n\nPikachu puts itself to bed in its tree hollow, but dreams that all of its friends decide to leave it behind. It wakes up in a cold sweat, then runs back to Hazel's house to pound on her door. When there is no response, Pikachu runs around the fields and caves, calling out for its friends. As it hopelessly walks alone, it envisions that everyone decided to leave with Almond on a journey to catch Pokémon. The flower begins to wilt, and Pikachu bursts into tears.\n\nAs Pikachu cries, a voice suddenly calls out to it. Pikachu looks up to see Hazel, who has been searching for it. Hazel explains that she was only getting ready at Coconut's house, then takes Pikachu there. When they open the door, Pikachu is shocked to see that Almond, Grandpa, Coconut and Peanut, as well as their Pokémon friends, are there to celebrate the anniversary of Pikachu's first meeting with Hazel. Coconut revives the wilted flower with a spray she made, and Pikachu is able to finally give it to Hazel."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hazel and celebrate the anniversary of their first meeting."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nGrandpa\nCoconut\nAlmond\nPeanut"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP14",
+    "pageType": "chapter",
+    "searchableText": "PPP14\nCategory:Magical Pokémon Journey chapters\nForever Friends ♥ (Japanese: これからもよろしくネ, Let's Keep Being Friends) is the 14th chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 2033,
+    "sectionCount": 5
+  }
+}

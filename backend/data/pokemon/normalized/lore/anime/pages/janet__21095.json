@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Janet",
+    "slug": "janet",
+    "pageId": 21095,
+    "revisionId": 4447947
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "janet__21095.json",
+    "revisionTimestamp": "2025-12-17T02:02:46Z",
+    "fetchedAt": "2026-05-14T14:25:43.980Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Janet (Japanese: メグミ Megumi) is a recurring character in .",
+  "plainText": "Janet (Japanese: メグミ Megumi) is a recurring character in .\n\n==History==\n===Pokémon the Series: Ruby and Sapphire===\nJanet first appeared in All Things Bright and Beautifly!. She is a Pokémon Coordinator who entered the Rustboro City alongside her friend and rival, . She passed the Appeals Round with a perfect score of 30 points and made it to the Contest Battles. In the final round, she and her defeated Chaz and his , granting her one more Ribbon.\n\n and Max assisted Janet during her Appeals Round by throwing plates while used to break them. The experience and watching Janet's performaces inspired May to become a Pokémon Coordinator and to her very own .\n\nShe reappeared in a flashback in All in a Day's Wurmple. She was also mentioned by May and in The Winner by a Nosepass and Win, Lose or Drew!, respectively. Janet was mentioned by May again in Hi Ho Silver Wind!, who noted that they stayed in touch while traveling.\n\n===Pokémon Journeys: The Series===\nJanet appeared again in Battling as Hard as Stone!, watching and Ash's Masters Eight Tournament battle on television.\n\n==Pokémon==\n \nThis listing is of Janet's known in :\n \n\n==Contests==\n \n===Hoenn Ribbons===\nThis listing is of the Ribbons Janet has obtained:\nTwo unknown Ribbons (prior to All Things Bright and Beautifly!)\nRibbon (All Things Bright and Beautifly!)\n\n==Voice actors==\n \n\n==Trivia==\n \nShe shares her Japanese name with her Japanese voice actress, who later went on to voice in Pokémon the Series: Diamond and Pearl.\nOne of the girls seen in the Striaton Gym in Triple Leaders, Team Threats! and Dreams by the Yard Full! looks exactly like Janet.\n\n==Names==\n \n\n \n\n \n \n \n\nde:Janet\nes:Janet\nfr:Janet\nit:Janet\nzh:惠美",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Janet (Japanese: メグミ Megumi) is a recurring character in ."
+    },
+    {
+      "heading": "Pokémon the Series: Ruby and Sapphire",
+      "level": 3,
+      "text": "Janet first appeared in All Things Bright and Beautifly!. She is a Pokémon Coordinator who entered the Rustboro City alongside her friend and rival, . She passed the Appeals Round with a perfect score of 30 points and made it to the Contest Battles. In the final round, she and her defeated Chaz and his , granting her one more Ribbon.\n\n and Max assisted Janet during her Appeals Round by throwing plates while used to break them. The experience and watching Janet's performaces inspired May to become a Pokémon Coordinator and to her very own .\n\nShe reappeared in a flashback in All in a Day's Wurmple. She was also mentioned by May and in The Winner by a Nosepass and Win, Lose or Drew!, respectively. Janet was mentioned by May again in Hi Ho Silver Wind!, who noted that they stayed in touch while traveling."
+    },
+    {
+      "heading": "Pokémon Journeys: The Series",
+      "level": 3,
+      "text": "Janet appeared again in Battling as Hard as Stone!, watching and Ash's Masters Eight Tournament battle on television."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Janet's known in :"
+    },
+    {
+      "heading": "Hoenn Ribbons",
+      "level": 3,
+      "text": "This listing is of the Ribbons Janet has obtained:\nTwo unknown Ribbons (prior to All Things Bright and Beautifly!)\nRibbon (All Things Bright and Beautifly!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "She shares her Japanese name with her Japanese voice actress, who later went on to voice in Pokémon the Series: Diamond and Pearl.\nOne of the girls seen in the Striaton Gym in Triple Leaders, Team Threats! and Dreams by the Yard Full! looks exactly like Janet."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:Janet\nes:Janet\nfr:Janet\nit:Janet\nzh:惠美"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Janet",
+    "pageType": "character",
+    "searchableText": "Janet\nCategory:Animation characters\nJanet (Japanese: メグミ Megumi) is a recurring character in .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon the Series: Ruby and Sapphire",
+      "Pokémon Journeys: The Series",
+      "Pokémon",
+      "Hoenn Ribbons",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 1691,
+    "sectionCount": 7
+  }
+}

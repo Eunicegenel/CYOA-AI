@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM099",
+    "slug": "pm099",
+    "pageId": 160327,
+    "revisionId": 4526646
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm099__160327.json",
+    "revisionTimestamp": "2026-04-09T14:59:48Z",
+    "fetchedAt": "2026-05-14T15:31:31.919Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Stop the Strange Sonic Sound!! (Japanese: 怪電波を止めろ！！ Stop the Strange Radio Wave!!) is the ninety-ninth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Stop the Strange Sonic Sound!! (Japanese: 怪電波を止めろ！！ Stop the Strange Radio Wave!!) is the ninety-ninth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\nRed Gyarados\n\n==Characters==\n===Humans===\n\nGiovanni's twin brother\n\n===Pokémon===\n( ) \n( )\n( )\n( 's; multiple)\n(Shiny)\n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Stop the Strange Sonic Sound!! (Japanese: 怪電波を止めろ！！ Stop the Strange Radio Wave!!) is the ninety-ninth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "Red Gyarados"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Giovanni's twin brother"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( 's; multiple)\n(Shiny)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM099",
+    "pageType": "chapter",
+    "searchableText": "PM099\nCategory:Pokémon Pocket Monsters chapters\nStop the Strange Sonic Sound!! (Japanese: 怪電波を止めろ！！ Stop the Strange Radio Wave!!) is the ninety-ninth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 347,
+    "sectionCount": 4
+  }
+}

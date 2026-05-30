@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Arcades",
+    "slug": "arcades",
+    "pageId": 168066,
+    "revisionId": 4116875
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST characters",
+    "sourceFileName": "arcades__168066.json",
+    "revisionTimestamp": "2024-09-20T03:02:06Z",
+    "fetchedAt": "2026-05-14T15:12:47.601Z"
+  },
+  "classification": {
+    "estimatedPageType": "arc"
+  },
+  "leadText": "\"Arcades\" (Japanese: アルカデス) is a title belonging to several characters in the Pokémon RéBURST manga.",
+  "plainText": "\"Arcades\" (Japanese: アルカデス) is a title belonging to several characters in the Pokémon RéBURST manga. \n\n==History==\nArcades is first seen as a voice in the clouds talking to a young Ryouga. Despite the young boy's begging, Arcades refuses to take him to his father, Garyū, because he is not strong enough. Ryouga refuses long enough to convince Arcades to take him, but only if he becomes strong enough. Ryouga promises to Arcades that he will become strong enough when he becomes older so that Arcades will take him to his father.\n\nIn the present day, Ryouga has grown into a strong young man and passes a test to leave his village and go out on a journey. He uses this journey to search for Arcades despite not knowing any way to find him.\n\nLater, Ryouga finds an item called the Compass of Light, a plate that when inserted with six original Burst Hearts will show him the way to Arcades.\n\nAfter some traveling with his friends, Ryouga eventually manages to find six original Burst Hearts, completing the Compass of Light. After inserting them inside, the Compass takes Ryouga and his friends to a strange island in the middle of nowhere. There, they find a statue of Garyū and woman claiming that she is Arcades' caretaker.\n\n \nShe reveals that the name of Arcades does not belong to one person, but rather is a title of several people that have used its power. She reveals that Garyū was the previous Arcades, and the statue is actually the real one turned to stone as a consequence of using Arcades' power.\n\nBecause of a powerful enemy closing in on Ryouga's group, Ryouga decides to inherit the power to have a chance to defeat him. Before he can touch the statue and become the next Arcades, the caretaker stops him and tells him he has to beat her in a test before he can do so. \n\nAfter a few days of battling, Ryouga eventually manages to reach the statue, beating the caretaker and being allowed to be the next Arcades. Before he can touch the statue, Fraud arrives and distracts Ryouga long enough to take Arcades' power for himself. With the power of Arcades, he gains the ability to Burst into any Pokémon, without the need for a Burst Heart.\n \n==Burst==\nAnyone with the power of Arcades has the ability to Burst into any Pokémon. There is no need for a Burst Heart when using it, and one can even switch between any form at will.\n\n==Related articles==\n \n\n \n\n \n \n\nde:Arcades",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "\"Arcades\" (Japanese: アルカデス) is a title belonging to several characters in the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Arcades is first seen as a voice in the clouds talking to a young Ryouga. Despite the young boy's begging, Arcades refuses to take him to his father, Garyū, because he is not strong enough. Ryouga refuses long enough to convince Arcades to take him, but only if he becomes strong enough. Ryouga promises to Arcades that he will become strong enough when he becomes older so that Arcades will take him to his father.\n\nIn the present day, Ryouga has grown into a strong young man and passes a test to leave his village and go out on a journey. He uses this journey to search for Arcades despite not knowing any way to find him.\n\nLater, Ryouga finds an item called the Compass of Light, a plate that when inserted with six original Burst Hearts will show him the way to Arcades.\n\nAfter some traveling with his friends, Ryouga eventually manages to find six original Burst Hearts, completing the Compass of Light. After inserting them inside, the Compass takes Ryouga and his friends to a strange island in the middle of nowhere. There, they find a statue of Garyū and woman claiming that she is Arcades' caretaker.\n\n \nShe reveals that the name of Arcades does not belong to one person, but rather is a title of several people that have used its power. She reveals that Garyū was the previous Arcades, and the statue is actually the real one turned to stone as a consequence of using Arcades' power.\n\nBecause of a powerful enemy closing in on Ryouga's group, Ryouga decides to inherit the power to have a chance to defeat him. Before he can touch the statue and become the next Arcades, the caretaker stops him and tells him he has to beat her in a test before he can do so. \n\nAfter a few days of battling, Ryouga eventually manages to reach the statue, beating the caretaker and being allowed to be the next Arcades. Before he can touch the statue, Fraud arrives and distracts Ryouga long enough to take Arcades' power for himself. With the power of Arcades, he gains the ability to Burst into any Pokémon, without the need for a Burst Heart."
+    },
+    {
+      "heading": "Burst",
+      "level": 2,
+      "text": "Anyone with the power of Arcades has the ability to Burst into any Pokémon. There is no need for a Burst Heart when using it, and one can even switch between any form at will."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Arcades"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Arcades",
+    "pageType": "arc",
+    "searchableText": "Arcades\nCategory:Pokémon RéBURST characters\n\"Arcades\" (Japanese: アルカデス) is a title belonging to several characters in the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Burst",
+      "Related articles"
+    ],
+    "characterCount": 2386,
+    "sectionCount": 4
+  }
+}

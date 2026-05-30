@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Agatha's Arbok",
+    "slug": "agathas-arbok",
+    "pageId": 198209,
+    "revisionId": 4336713
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "agathas-arbok__198209.json",
+    "revisionTimestamp": "2025-07-15T22:18:46Z",
+    "fetchedAt": "2026-05-14T15:12:21.790Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Agatha's Arbok is the thirty-third monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-nine, thirty, and thirty-one of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Agatha's Arbok is the thirty-third monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-nine, thirty, and thirty-one of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 69 - Playing Horsea\nChapter 70 - Allied by Alakazam!\nChapter 71 - Muk Raking\n\n==Important events==\nand reach Cerise Island\nBill, Green, and meet up with , , Sabrina, Lt. Surge, and Koga.\nSabrina uses the Spoons of Destiny so the group can fight the Elite Four in different groups.\nBlue returns Koga's Golbat.\nKoga and Blue fight against Agatha.\n\n \n\n \n\nfr:Volume 29 (Pokémon Adventures)\nit:Agatha's Arbok",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Agatha's Arbok is the thirty-third monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-nine, thirty, and thirty-one of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 69 - Playing Horsea\nChapter 70 - Allied by Alakazam!\nChapter 71 - Muk Raking"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "and reach Cerise Island\nBill, Green, and meet up with , , Sabrina, Lt. Surge, and Koga.\nSabrina uses the Spoons of Destiny so the group can fight the Elite Four in different groups.\nBlue returns Koga's Golbat.\nKoga and Blue fight against Agatha.\n\n \n\n \n\nfr:Volume 29 (Pokémon Adventures)\nit:Agatha's Arbok"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Agatha's Arbok",
+    "pageType": "pokemon-related",
+    "searchableText": "Agatha's Arbok\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Agatha's Arbok is the thirty-third monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-nine, thirty, and thirty-one of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 866,
+    "sectionCount": 3
+  }
+}

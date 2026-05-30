@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "ABM07",
+    "slug": "abm07",
+    "pageId": 191809,
+    "revisionId": 4526720
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abm07__191809.json",
+    "revisionTimestamp": "2026-04-09T15:03:34Z",
+    "fetchedAt": "2026-05-14T15:12:09.876Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ライバルはスーパーアイドル！？ The Rival is a Super Idol!?) is the seventh chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: ライバルはスーパーアイドル！？ The Rival is a Super Idol!?) is the seventh chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyū Tendō\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ライバルはスーパーアイドル！？ The Rival is a Super Idol!?) is the seventh chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryū Tendō"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABM07",
+    "pageType": "chapter",
+    "searchableText": "ABM07\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: ライバルはスーパーアイドル！？ The Rival is a Super Idol!?) is the seventh chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 255,
+    "sectionCount": 2
+  }
+}

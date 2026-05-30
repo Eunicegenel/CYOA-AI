@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Professor Oak's Pokémon Holo Caster",
+    "slug": "professor-oaks-pokemon-holo-caster",
+    "pageId": 209099,
+    "revisionId": 4378774
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Professor Oak's lectures",
+    "sourceFileName": "professor-oaks-pokemon-holo-caster__209099.json",
+    "revisionTimestamp": "2025-09-13T17:00:23Z",
+    "fetchedAt": "2026-05-14T14:44:51.481Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Professor Oak's Pokémon Holo Caster (Japanese: オーキド博士のポケモンホロキャスター Doctor Okido's Pokémon Holo Caster) is a segment featured at the end of episodes in Japan. It was featured from XY001 to XY093 and in XY140, XYS05, and XYS06. It was preceded by Professor Oak's Pokémon Live Caster and succeeded by Poké TV.",
+  "plainText": "Professor Oak's Pokémon Holo Caster (Japanese: オーキド博士のポケモンホロキャスター Doctor Okido's Pokémon Holo Caster) is a segment featured at the end of episodes in Japan. It was featured from XY001 to XY093 and in XY140, XYS05, and XYS06. It was preceded by Professor Oak's Pokémon Live Caster and succeeded by Poké TV.\n \n\n==List of Professor Oak's Pokémon Holo Caster segments==\n \n\n \n \n \n\n \n\nit:Ookido hakase no Pokémon horokyasutaa\nja:オーキド博士のポケモンホロキャスター\nzh:大木博士的宝可梦全息影像通讯器",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Professor Oak's Pokémon Holo Caster (Japanese: オーキド博士のポケモンホロキャスター Doctor Okido's Pokémon Holo Caster) is a segment featured at the end of episodes in Japan. It was featured from XY001 to XY093 and in XY140, XYS05, and XYS06. It was preceded by Professor Oak's Pokémon Live Caster and succeeded by Poké TV."
+    },
+    {
+      "heading": "List of Professor Oak's Pokémon Holo Caster segments",
+      "level": 2,
+      "text": "it:Ookido hakase no Pokémon horokyasutaa\nja:オーキド博士のポケモンホロキャスター\nzh:大木博士的宝可梦全息影像通讯器"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Professor Oak's Pokémon Holo Caster",
+    "pageType": "pokemon-related",
+    "searchableText": "Professor Oak's Pokémon Holo Caster\nCategory:Professor Oak's lectures\nProfessor Oak's Pokémon Holo Caster (Japanese: オーキド博士のポケモンホロキャスター Doctor Okido's Pokémon Holo Caster) is a segment featured at the end of episodes in Japan. It was featured from XY001 to XY093 and in XY140, XYS05, and XYS06. It was preceded by Professor Oak's Pokémon Live Caster and succeeded by Poké TV.",
+    "sectionHeadings": [
+      "Lead",
+      "List of Professor Oak's Pokémon Holo Caster segments"
+    ],
+    "characterCount": 460,
+    "sectionCount": 2
+  }
+}

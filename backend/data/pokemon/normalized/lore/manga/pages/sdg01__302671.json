@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "SDG01",
+    "slug": "sdg01",
+    "pageId": 302671,
+    "revisionId": 4132869
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Snorlax's Dream Gourmet chapters",
+    "sourceFileName": "sdg01__302671.json",
+    "revisionTimestamp": "2024-09-29T05:28:30Z",
+    "fetchedAt": "2026-05-14T15:49:10.258Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 第１話 Chapter 1) is the first chapter of Snorlax's Dream Gourmet.",
+  "plainText": "(Japanese: 第１話 Chapter 1) is the first chapter of Snorlax's Dream Gourmet.\n\n==Plot==\n \n \nKumura, an inventor, declares herself a genius after finishing up work on a machine with a large screen on it. Kumura's childhood friend, Kanmi, appears behind her, concerned that she doesn't eat properly, only eating the same food as she always does.\n\nAsking if she's finished with her \"Pokémon Dream Divination Machine\", Kumura takes offense, clarifying it's a \"Dream Scanner\", used for reading the dreams of Pokémon. She announces her device finished after staying up all night working on it, and asks Kanmi to help her test it out on her Snorlax, which she has recently received from her teacher.\n\nAfter Kanmi places a headset on the sleeping Snorlax's head, Kumura tunes the device, and audio begins to play out of its speakers. Kanmi is shocked and asks if they're hearing Snorlax speaking, to which Kumura clarifies that its dream patterns are being recognized by the device and transformed into speech.\n\nThe audio comes through more comprehensibly, with Snorlax dreaming of hot cooked rice and Muk slime. Kanmi suggests the machine might be broken, but Kumura is confident, saying she's read before that Snorlax have no interest in anything besides eating, and concludes it must be dreaming about what it wants to eat. She plans to gather the ingredients, hoping that it'll prove the machine to be accurate if Snorlax is satisfied after its meal.\n\nSnorlax greedily eats the prepared dish, leaving Kumura content that her device works as it should.\n\n==Major events==\nKumura completes her \"Dream Scanner\" and performs a trial run, proving its efficacy.\n \n\n===Debuts===\n\n====Humans====\nKumura\nKanmi\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKumura\nKanmi\n===Pokémon===\n(Kumura's) \n\n \n\n==External links==\nChapter 1 on Twitter\nChapter 1 on Instagram",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 第１話 Chapter 1) is the first chapter of Snorlax's Dream Gourmet."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Kumura, an inventor, declares herself a genius after finishing up work on a machine with a large screen on it. Kumura's childhood friend, Kanmi, appears behind her, concerned that she doesn't eat properly, only eating the same food as she always does.\n\nAsking if she's finished with her \"Pokémon Dream Divination Machine\", Kumura takes offense, clarifying it's a \"Dream Scanner\", used for reading the dreams of Pokémon. She announces her device finished after staying up all night working on it, and asks Kanmi to help her test it out on her Snorlax, which she has recently received from her teacher.\n\nAfter Kanmi places a headset on the sleeping Snorlax's head, Kumura tunes the device, and audio begins to play out of its speakers. Kanmi is shocked and asks if they're hearing Snorlax speaking, to which Kumura clarifies that its dream patterns are being recognized by the device and transformed into speech.\n\nThe audio comes through more comprehensibly, with Snorlax dreaming of hot cooked rice and Muk slime. Kanmi suggests the machine might be broken, but Kumura is confident, saying she's read before that Snorlax have no interest in anything besides eating, and concludes it must be dreaming about what it wants to eat. She plans to gather the ingredients, hoping that it'll prove the machine to be accurate if Snorlax is satisfied after its meal.\n\nSnorlax greedily eats the prepared dish, leaving Kumura content that her device works as it should."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Kumura completes her \"Dream Scanner\" and performs a trial run, proving its efficacy."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Kumura\nKanmi"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kumura\nKanmi"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Kumura's)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 1 on Twitter\nChapter 1 on Instagram"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SDG01",
+    "pageType": "chapter",
+    "searchableText": "SDG01\nCategory:Snorlax's Dream Gourmet chapters\n(Japanese: 第１話 Chapter 1) is the first chapter of Snorlax's Dream Gourmet.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "External links"
+    ],
+    "characterCount": 1850,
+    "sectionCount": 7
+  }
+}

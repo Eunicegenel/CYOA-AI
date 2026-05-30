@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW07",
+    "slug": "pmbw07",
+    "pageId": 171692,
+    "revisionId": 4527593
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw07__171692.json",
+    "revisionTimestamp": "2026-04-09T15:43:27Z",
+    "fetchedAt": "2026-05-14T15:31:47.825Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピのクサ～イ友だち 's Stin~ky Friend) is the sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ピッピのクサ～イ友だち 's Stin~ky Friend) is the sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピのクサ～イ友だち 's Stin~ky Friend) is the sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW07",
+    "pageType": "chapter",
+    "searchableText": "PMBW07\nCategory:Pocket Monsters BW chapters\n(Japanese: ピッピのクサ～イ友だち 's Stin~ky Friend) is the sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 228,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Piko",
+    "slug": "piko",
+    "pageId": 229334,
+    "revisionId": 4095080
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "piko__229334.json",
+    "revisionTimestamp": "2024-09-01T00:14:20Z",
+    "fetchedAt": "2026-05-14T14:41:53.905Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Piko (Japanese: 少年ピコ Young Piko) is a minor recurring character who first appeared in Why Not Give Me a Z-Ring Sometime?. In Japanese, he and refer to Acerola as \"Big Sis\".\n\nPiko is close friends with Nene. They asked Acerola to read them a story, which she did. They later watched as Acerola was captured by a .\n\nPiko reappeared in Tough Guy Trials! at Acerola's house alongside Nene.",
+  "plainText": "Piko (Japanese: 少年ピコ Young Piko) is a minor recurring character who first appeared in Why Not Give Me a Z-Ring Sometime?. In Japanese, he and refer to Acerola as \"Big Sis\".\n\nPiko is close friends with Nene. They asked Acerola to read them a story, which she did. They later watched as Acerola was captured by a .\n\nPiko reappeared in Tough Guy Trials! at Acerola's house alongside Nene.\n\n==Voice actors==\n \n\n \n \n\nit:Piko\nzh:皮克",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Piko (Japanese: 少年ピコ Young Piko) is a minor recurring character who first appeared in Why Not Give Me a Z-Ring Sometime?. In Japanese, he and refer to Acerola as \"Big Sis\".\n\nPiko is close friends with Nene. They asked Acerola to read them a story, which she did. They later watched as Acerola was captured by a .\n\nPiko reappeared in Tough Guy Trials! at Acerola's house alongside Nene."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Piko\nzh:皮克"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Piko",
+    "pageType": "character",
+    "searchableText": "Piko\nCategory:Animation characters\nPiko (Japanese: 少年ピコ Young Piko) is a minor recurring character who first appeared in Why Not Give Me a Z-Ring Sometime?. In Japanese, he and refer to Acerola as \"Big Sis\".\n\nPiko is close friends with Nene. They asked Acerola to read them a story, which she did. They later watched as Acerola was captured by a .\n\nPiko reappeared in Tough Guy Trials! at Acerola's house alongside Nene.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 425,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Nintendo Anime Channel",
+    "slug": "nintendo-anime-channel",
+    "pageId": 260562,
+    "revisionId": 4486441
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TV and VOD",
+    "sourceFileName": "nintendo-anime-channel__260562.json",
+    "revisionTimestamp": "2026-02-14T01:22:28Z",
+    "fetchedAt": "2026-05-14T14:39:28.559Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Nintendo Anime Channel was a free app for the Nintendo 3DS family of systems available from the Nintendo eShop, that provided access to a selection of based on Nintendo properties as well as other licensed series. The service was first announced during the January 14, 2015 Nintendo Direct and launched in Europe on February 13, 2015 and in & on February 14, 2015 .\n\nThe app launched with a selection of episodes from Pokémon, and , with the intention that the library of content would grow over time and episodes from season eight were added in May 2017 . The service closed on October 31, 2018 .",
+  "plainText": "Nintendo Anime Channel was a free app for the Nintendo 3DS family of systems available from the Nintendo eShop, that provided access to a selection of based on Nintendo properties as well as other licensed series. The service was first announced during the January 14, 2015 Nintendo Direct and launched in Europe on February 13, 2015 and in & on February 14, 2015 .\n\nThe app launched with a selection of episodes from Pokémon, and , with the intention that the library of content would grow over time and episodes from season eight were added in May 2017 . The service closed on October 31, 2018 .\n\n==Available Pokémon animation==\nAt the time of the service closure, the following series of Pokémon animation were available on the service :\nCertain seasons of :\nIndigo League (season 1)\nAdventures on the Orange Islands (season 2)\nAdvanced (season 6)\nAdvanced Challenge (season 7)\nAdvanced Battle (season 8)\nPokémon Generations\n\n==Trailer==\n \n\n==References==\n \n \n\n==Related articles==\n \n\n \n\n \n \n \n \n\nde:Nintendo Anime Channel\nit:Nintendo Anime Channel",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Nintendo Anime Channel was a free app for the Nintendo 3DS family of systems available from the Nintendo eShop, that provided access to a selection of based on Nintendo properties as well as other licensed series. The service was first announced during the January 14, 2015 Nintendo Direct and launched in Europe on February 13, 2015 and in & on February 14, 2015 .\n\nThe app launched with a selection of episodes from Pokémon, and , with the intention that the library of content would grow over time and episodes from season eight were added in May 2017 . The service closed on October 31, 2018 ."
+    },
+    {
+      "heading": "Available Pokémon animation",
+      "level": 2,
+      "text": "At the time of the service closure, the following series of Pokémon animation were available on the service :\nCertain seasons of :\nIndigo League (season 1)\nAdventures on the Orange Islands (season 2)\nAdvanced (season 6)\nAdvanced Challenge (season 7)\nAdvanced Battle (season 8)\nPokémon Generations"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Nintendo Anime Channel\nit:Nintendo Anime Channel"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Nintendo Anime Channel",
+    "pageType": "general-anime-lore",
+    "searchableText": "Nintendo Anime Channel\nCategory:TV and VOD\nNintendo Anime Channel was a free app for the Nintendo 3DS family of systems available from the Nintendo eShop, that provided access to a selection of based on Nintendo properties as well as other licensed series. The service was first announced during the January 14, 2015 Nintendo Direct and launched in Europe on February 13, 2015 and in & on February 14, 2015 .\n\nThe app launched with a selection of episodes from Pokémon, and , with the intention that the library of content would grow over time and episodes from season eight were added in May 2017 . The service closed on October 31, 2018 .",
+    "sectionHeadings": [
+      "Lead",
+      "Available Pokémon animation",
+      "Related articles"
+    ],
+    "characterCount": 1051,
+    "sectionCount": 3
+  }
+}

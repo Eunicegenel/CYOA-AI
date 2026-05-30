@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GDZ38",
+    "slug": "gdz38",
+    "pageId": 188417,
+    "revisionId": 4528522
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz38__188417.json",
+    "revisionTimestamp": "2026-04-09T16:25:00Z",
+    "fetchedAt": "2026-05-14T15:19:45.598Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 激突！？カメカメ３兄弟！ Clash!? The 3 Siblings!) is the 38th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 激突！？カメカメ３兄弟！ Clash!? The 3 Siblings!) is the 38th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nKamero\nKameo\nKameta\n\n====Pokémon debuts====\n(Kamero's)\n\n==Characters==\n===Humans===\nShu\nMikuri\nKamero\nKameo\nKameta\n\n===Pokémon===\n( )\n(Mikuri's)\n(Kamero's)\n(Kameo's)\n(Kameta's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 激突！？カメカメ３兄弟！ Clash!? The 3 Siblings!) is the 38th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Kamero\nKameo\nKameta"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Kamero's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nMikuri\nKamero\nKameo\nKameta"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Mikuri's)\n(Kamero's)\n(Kameo's)\n(Kameta's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ38",
+    "pageType": "chapter",
+    "searchableText": "GDZ38\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 激突！？カメカメ３兄弟！ Clash!? The 3 Siblings!) is the 38th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 348,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Time-Space Axis",
+    "slug": "time-space-axis",
+    "pageId": 203949,
+    "revisionId": 4299808
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series objects",
+    "sourceFileName": "time-space-axis__203949.json",
+    "revisionTimestamp": "2025-05-12T16:51:27Z",
+    "fetchedAt": "2026-05-14T14:54:30.214Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "The Time-Space Axis (Japanese: 時空儀 Time-Space Projector) is a device featured in the Arceus and the Jewel of Life, used to monitor disruptions in the . It is located in the basement of the .\n\nIt can indicate the condition of every minute change in the time-space continuum, serving to mirror the movements of the timespace dimensions and thus monitoring the likelihood of potential cataclysm. It is currently under the supervision of Sheena and , who use it to investigate locations where time-space gets distorted and to predict the moment in which will wake up from its deep slumber.",
+  "plainText": "The Time-Space Axis (Japanese: 時空儀 Time-Space Projector) is a device featured in the Arceus and the Jewel of Life, used to monitor disruptions in the . It is located in the basement of the .\n\nIt can indicate the condition of every minute change in the time-space continuum, serving to mirror the movements of the timespace dimensions and thus monitoring the likelihood of potential cataclysm. It is currently under the supervision of Sheena and , who use it to investigate locations where time-space gets distorted and to predict the moment in which will wake up from its deep slumber.\n\n==History==\nAfter observing unusual movements in the Time-Space Axis, Sheena and Kevin traveled around the Sinnoh region to see the catastrophes resulting from time-space distortions. They were near the plateau of Alamos Town when returned it to the correct dimension at the end of The Rise of Darkrai. They also visited the glacier near Ten'i Village to see Zero's airship after it crashed during the climax of Giratina and the Sky Warrior.\n\nDuring their tour of the Michina Ruins, , , and were taken to see the Time-Space Axis. Sheena explained to them that at the bottom of the device is the Pokémon world, which is supported by 's Reverse World. Near the top of the Axis are the dimensions of and Palkia while Arceus's world is located at the center.\n\n==In other languages==\n \n\n==See also==\nDimension\n\n \n \n\n \n \n\nit:Asse Spaziotemporale\nja:時空儀",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Time-Space Axis (Japanese: 時空儀 Time-Space Projector) is a device featured in the Arceus and the Jewel of Life, used to monitor disruptions in the . It is located in the basement of the .\n\nIt can indicate the condition of every minute change in the time-space continuum, serving to mirror the movements of the timespace dimensions and thus monitoring the likelihood of potential cataclysm. It is currently under the supervision of Sheena and , who use it to investigate locations where time-space gets distorted and to predict the moment in which will wake up from its deep slumber."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "After observing unusual movements in the Time-Space Axis, Sheena and Kevin traveled around the Sinnoh region to see the catastrophes resulting from time-space distortions. They were near the plateau of Alamos Town when returned it to the correct dimension at the end of The Rise of Darkrai. They also visited the glacier near Ten'i Village to see Zero's airship after it crashed during the climax of Giratina and the Sky Warrior.\n\nDuring their tour of the Michina Ruins, , , and were taken to see the Time-Space Axis. Sheena explained to them that at the bottom of the device is the Pokémon world, which is supported by 's Reverse World. Near the top of the Axis are the dimensions of and Palkia while Arceus's world is located at the center."
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "Dimension\n\n \n \n\n \n \n\nit:Asse Spaziotemporale\nja:時空儀"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Time-Space Axis",
+    "pageType": "general-anime-lore",
+    "searchableText": "Time-Space Axis\nCategory:Animated series objects\nThe Time-Space Axis (Japanese: 時空儀 Time-Space Projector) is a device featured in the Arceus and the Jewel of Life, used to monitor disruptions in the . It is located in the basement of the .\n\nIt can indicate the condition of every minute change in the time-space continuum, serving to mirror the movements of the timespace dimensions and thus monitoring the likelihood of potential cataclysm. It is currently under the supervision of Sheena and , who use it to investigate locations where time-space gets distorted and to predict the moment in which will wake up from its deep slumber.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "See also"
+    ],
+    "characterCount": 1433,
+    "sectionCount": 3
+  }
+}

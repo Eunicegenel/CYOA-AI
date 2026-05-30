@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM044",
+    "slug": "pm044",
+    "pageId": 160308,
+    "revisionId": 4526612
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm044__160308.json",
+    "revisionTimestamp": "2026-04-09T14:58:21Z",
+    "fetchedAt": "2026-05-14T15:30:57.197Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Fake Pikachu!! (Japanese: にせピカチュウ登場！！ The Fake Pikachu!!) is the forty-fourth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Fake Pikachu!! (Japanese: にせピカチュウ登場！！ The Fake Pikachu!!) is the forty-fourth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( 's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 44 (Pokémon Pocket Monsters)\nit:PMM044",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Fake Pikachu!! (Japanese: にせピカチュウ登場！！ The Fake Pikachu!!) is the forty-fourth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 44 (Pokémon Pocket Monsters)\nit:PMM044"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM044",
+    "pageType": "chapter",
+    "searchableText": "PM044\nCategory:Pokémon Pocket Monsters chapters\nThe Fake Pikachu!! (Japanese: にせピカチュウ登場！！ The Fake Pikachu!!) is the forty-fourth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 337,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASS39",
+    "slug": "pass39",
+    "pageId": 293663,
+    "revisionId": 4528539
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass39__293663.json",
+    "revisionTimestamp": "2026-04-09T16:25:54Z",
+    "fetchedAt": "2026-05-14T15:29:04.268Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clip-Clop!! The King's Horse (Japanese: パカパカ！！王の愛馬 Clip-clop!! The King's Beloved Steed) is the 39th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Clip-Clop!! The King's Horse (Japanese: パカパカ！！王の愛馬 Clip-clop!! The King's Beloved Steed) is the 39th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\ngains back some of their power.\nThe Darkest Day returns.\nmakes the Reins of Unity and gives it to Calyrex.\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHenry\nCasey\nHop\nBede\nMarnie \nKlara\nAvery\nMustard\nPeony\nPeonia\nOleana\n(multiple)\nHyde\nCara Liss\nMarvin\nMayor of Freezington\nVillagers\n\n===Pokémon===\n( ; Henry's)\n(Galarian Form; Bede's)\n(Rotom Phone; Bede's)\n(Marnie's)\n(Cara Liss's)\n(Cara Liss's; new)\n(Cara Liss's; new)\n(×2; Abomee and Abomy; Villager's)\n(Adventures)\n\n==Trivia==\n}}\n \n \n \n\nde:Das treue Ross des Königs der reichen Ernte\nes:PMSSwSh39\nfr:Chapitre 39 (Pocket Monsters Special Épée et Bouclier)\nit:PASS39\nzh:宝可梦特别篇 剑·盾篇 第39话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clip-Clop!! The King's Horse (Japanese: パカパカ！！王の愛馬 Clip-clop!! The King's Beloved Steed) is the 39th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "gains back some of their power.\nThe Darkest Day returns.\nmakes the Reins of Unity and gives it to Calyrex."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nHop\nBede\nMarnie \nKlara\nAvery\nMustard\nPeony\nPeonia\nOleana\n(multiple)\nHyde\nCara Liss\nMarvin\nMayor of Freezington\nVillagers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; Henry's)\n(Galarian Form; Bede's)\n(Rotom Phone; Bede's)\n(Marnie's)\n(Cara Liss's)\n(Cara Liss's; new)\n(Cara Liss's; new)\n(×2; Abomee and Abomy; Villager's)\n(Adventures)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "}}\n \n \n \n\nde:Das treue Ross des Königs der reichen Ernte\nes:PMSSwSh39\nfr:Chapitre 39 (Pocket Monsters Special Épée et Bouclier)\nit:PASS39\nzh:宝可梦特别篇 剑·盾篇 第39话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS39",
+    "pageType": "chapter",
+    "searchableText": "PASS39\nCategory:Pokémon Adventures chapters\nClip-Clop!! The King's Horse (Japanese: パカパカ！！王の愛馬 Clip-clop!! The King's Beloved Steed) is the 39th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 862,
+    "sectionCount": 5
+  }
+}

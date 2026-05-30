@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Electric Tale of Pikachu volumes",
+    "slug": "list-of-electric-tale-of-pikachu-volumes",
+    "pageId": 81079,
+    "revisionId": 3628599
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu volumes",
+    "sourceFileName": "list-of-electric-tale-of-pikachu-volumes__81079.json",
+    "revisionTimestamp": "2022-12-11T01:32:01Z",
+    "fetchedAt": "2026-05-14T15:24:28.886Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "This is a list of volumes of the Pokémon manga The Electric Tale of Pikachu created by Toshihiro Ono. There are four volumes in total, released in English by Chuang Yi and VIZ Media.",
+  "plainText": "This is a list of volumes of the Pokémon manga The Electric Tale of Pikachu created by Toshihiro Ono. There are four volumes in total, released in English by Chuang Yi and VIZ Media.\n\n==List of volumes==\n \n \n\n \n \n \n\nit:Elenco dei volumi di The Electric Tale of Pikachu\nzh:电击皮卡丘单行本列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of volumes of the Pokémon manga The Electric Tale of Pikachu created by Toshihiro Ono. There are four volumes in total, released in English by Chuang Yi and VIZ Media."
+    },
+    {
+      "heading": "List of volumes",
+      "level": 2,
+      "text": "it:Elenco dei volumi di The Electric Tale of Pikachu\nzh:电击皮卡丘单行本列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Electric Tale of Pikachu volumes",
+    "pageType": "general-manga-lore",
+    "searchableText": "List of Electric Tale of Pikachu volumes\nCategory:Electric Tale of Pikachu volumes\nThis is a list of volumes of the Pokémon manga The Electric Tale of Pikachu created by Toshihiro Ono. There are four volumes in total, released in English by Chuang Yi and VIZ Media.",
+    "sectionHeadings": [
+      "Lead",
+      "List of volumes"
+    ],
+    "characterCount": 282,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PDP05",
+    "slug": "pdp05",
+    "pageId": 179219,
+    "revisionId": 4528391
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp05__179219.json",
+    "revisionTimestamp": "2026-04-09T16:18:58Z",
+    "fetchedAt": "2026-05-14T15:29:38.526Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 仲間をしんじてる Believe in Friends) is the fifth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: 仲間をしんじてる Believe in Friends) is the fifth chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nCheryl\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nCheryl\n\n===Pokémon===\n( )\n( )\n(multiple)\n(multiple)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 仲間をしんじてる Believe in Friends) is the fifth chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Cheryl"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Cheryl"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(multiple)\n(multiple)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP05",
+    "pageType": "chapter",
+    "searchableText": "PDP05\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: 仲間をしんじてる Believe in Friends) is the fifth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 278,
+    "sectionCount": 4
+  }
+}

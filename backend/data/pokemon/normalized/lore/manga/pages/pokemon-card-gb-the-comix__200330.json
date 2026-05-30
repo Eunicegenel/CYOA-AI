@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Card GB The Comix",
+    "slug": "pokemon-card-gb-the-comix",
+    "pageId": 200330,
+    "revisionId": 4132819
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Card GB The Comix",
+    "sourceFileName": "pokemon-card-gb-the-comix__200330.json",
+    "revisionTimestamp": "2024-09-29T05:27:51Z",
+    "fetchedAt": "2026-05-14T15:36:10.209Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモンカード Pokémon Card GB The Comix) is a one-shot Pokémon manga created by 姫野かげまる Kagemaru Himeno. It was published as part of the Pokémon Card GB Final Tactical Book strategy guide.",
+  "plainText": "(Japanese: ポケモンカード Pokémon Card GB The Comix) is a one-shot Pokémon manga created by 姫野かげまる Kagemaru Himeno. It was published as part of the Pokémon Card GB Final Tactical Book strategy guide.\n\n==Plot==\n \n\n==Major events==\nand face each other in a two-Prize duel.\nRonald defeats Mark's with his , drawing one Prize.\nMark defeats Ronald's with his , drawing one Prize.\nMark defeats Ronald's with his , drawing his final Prize and winning the duel.\n\n==Characters==\n\n===Pokémon===\n====Mark's cards====\n\n====Ronald's cards====\n\n \n \n \n \n\n \n \n \n\nes:Cartas Pokémon GB: El Comic\nit:Pokémon Card GB The Comix\nja:ポケモンカードGB THE COMIX",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンカード Pokémon Card GB The Comix) is a one-shot Pokémon manga created by 姫野かげまる Kagemaru Himeno. It was published as part of the Pokémon Card GB Final Tactical Book strategy guide."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and face each other in a two-Prize duel.\nRonald defeats Mark's with his , drawing one Prize.\nMark defeats Ronald's with his , drawing one Prize.\nMark defeats Ronald's with his , drawing his final Prize and winning the duel."
+    },
+    {
+      "heading": "Ronald's cards",
+      "level": 4,
+      "text": "es:Cartas Pokémon GB: El Comic\nit:Pokémon Card GB The Comix\nja:ポケモンカードGB THE COMIX"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Card GB The Comix",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Card GB The Comix\nCategory:Pokémon Card GB The Comix\n(Japanese: ポケモンカード Pokémon Card GB The Comix) is a one-shot Pokémon manga created by 姫野かげまる Kagemaru Himeno. It was published as part of the Pokémon Card GB Final Tactical Book strategy guide.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Ronald's cards"
+    ],
+    "characterCount": 622,
+    "sectionCount": 3
+  }
+}

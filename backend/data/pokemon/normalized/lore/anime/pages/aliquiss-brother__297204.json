@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Aliquis's brother",
+    "slug": "aliquiss-brother",
+    "pageId": 297204,
+    "revisionId": 4094769
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Paldean Winds characters",
+    "sourceFileName": "aliquiss-brother__297204.json",
+    "revisionTimestamp": "2024-09-01T00:04:53Z",
+    "fetchedAt": "2026-05-14T14:00:38.661Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "]]\nAliquis's brother (Japanese: アリキスの兄 Aliquis's brother) is a minor character in Pokémon: Paldean Winds. He is Aliquis' brother.\n\nHe attended Blueberry Academy and appeared in Breathe In, where he talked to his brother via Rotom Phone, suggesting him not to use his again in his next against Nemona.",
+  "plainText": "]]\nAliquis's brother (Japanese: アリキスの兄 Aliquis's brother) is a minor character in Pokémon: Paldean Winds. He is Aliquis' brother.\n\nHe attended Blueberry Academy and appeared in Breathe In, where he talked to his brother via Rotom Phone, suggesting him not to use his again in his next against Nemona.\n\n==Voice actors==\n \n\n \n \n \n \n\nit:Fratello di Alik",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "]]\nAliquis's brother (Japanese: アリキスの兄 Aliquis's brother) is a minor character in Pokémon: Paldean Winds. He is Aliquis' brother.\n\nHe attended Blueberry Academy and appeared in Breathe In, where he talked to his brother via Rotom Phone, suggesting him not to use his again in his next against Nemona."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Fratello di Alik"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Aliquis's brother",
+    "pageType": "character",
+    "searchableText": "Aliquis's brother\nCategory:Pokémon: Paldean Winds characters\n]]\nAliquis's brother (Japanese: アリキスの兄 Aliquis's brother) is a minor character in Pokémon: Paldean Winds. He is Aliquis' brother.\n\nHe attended Blueberry Academy and appeared in Breathe In, where he talked to his brother via Rotom Phone, suggesting him not to use his again in his next against Nemona.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 350,
+    "sectionCount": 2
+  }
+}

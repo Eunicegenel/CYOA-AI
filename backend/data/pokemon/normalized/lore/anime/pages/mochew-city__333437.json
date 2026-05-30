@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Mochew City",
+    "slug": "mochew-city",
+    "pageId": 333437,
+    "revisionId": 4535043
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "mochew-city__333437.json",
+    "revisionTimestamp": "2026-04-20T01:06:39Z",
+    "fetchedAt": "2026-05-14T14:37:47.743Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Mochew City (Japanese: ウイロウシティ Uirō City) is an -exclusive location located in Johto. It is the hometown of Mollie, whose family operates the local Pokémon Center. It is located not far from Blackthorn City.\n\nMollie returned to working at her family's Pokémon Center alongside her mother after the Rising Volt Tacklers disbanded. Liko, Roy, and their Pokémon ended up here over a year later and were reunited with Mollie in The Pokémon Center Lady.\n\nThe city is known for its signature breakfast special.\n\nTeam Dragon Rampage mentioned a health spa opening here in Crash! Team Dragon Rampage!.\n\nWoody Park and the Exceed Testing Center are located nearby.",
+  "plainText": "Mochew City (Japanese: ウイロウシティ Uirō City) is an -exclusive location located in Johto. It is the hometown of Mollie, whose family operates the local Pokémon Center. It is located not far from Blackthorn City.\n\nMollie returned to working at her family's Pokémon Center alongside her mother after the Rising Volt Tacklers disbanded. Liko, Roy, and their Pokémon ended up here over a year later and were reunited with Mollie in The Pokémon Center Lady.\n\nThe city is known for its signature breakfast special.\n\nTeam Dragon Rampage mentioned a health spa opening here in Crash! Team Dragon Rampage!.\n\nWoody Park and the Exceed Testing Center are located nearby.\n\n==Gallery==\n \nFile:Mochew City Pokémon Center.png|Mochew City's Pokémon Center\nFile:Mochew City hotel.png|A hotel in Mochew City\nFile:Mochew City breakfast special.png|Mochew City's signature breakfast special\n \n\n==Trivia==\nIn BBC iPlayer captions, Mochew City was misspelled as Mossui City and Mocha City.\n\n===Origin===\nThe signature breakfast special of Mochew City may be inspired by the breakfast culture of as part of its morning service. The dish that appeared in the anime resembles , which features thick-cut toasted milk bread served with paste, butter, and whipped cream. Incidentally, Nagoya is also famous for its , a traditional cake similar to .\n\n==Names==\n \n \n\n==Related articles==\n \n \n\n \n\nes:Ciudad Mochiclosa\nit:Città dei Mochi\nzh:外郎市",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mochew City (Japanese: ウイロウシティ Uirō City) is an -exclusive location located in Johto. It is the hometown of Mollie, whose family operates the local Pokémon Center. It is located not far from Blackthorn City.\n\nMollie returned to working at her family's Pokémon Center alongside her mother after the Rising Volt Tacklers disbanded. Liko, Roy, and their Pokémon ended up here over a year later and were reunited with Mollie in The Pokémon Center Lady.\n\nThe city is known for its signature breakfast special.\n\nTeam Dragon Rampage mentioned a health spa opening here in Crash! Team Dragon Rampage!.\n\nWoody Park and the Exceed Testing Center are located nearby."
+    },
+    {
+      "heading": "Gallery",
+      "level": 2,
+      "text": "File:Mochew City Pokémon Center.png|Mochew City's Pokémon Center\nFile:Mochew City hotel.png|A hotel in Mochew City\nFile:Mochew City breakfast special.png|Mochew City's signature breakfast special"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In BBC iPlayer captions, Mochew City was misspelled as Mossui City and Mocha City."
+    },
+    {
+      "heading": "Origin",
+      "level": 3,
+      "text": "The signature breakfast special of Mochew City may be inspired by the breakfast culture of as part of its morning service. The dish that appeared in the anime resembles , which features thick-cut toasted milk bread served with paste, butter, and whipped cream. Incidentally, Nagoya is also famous for its , a traditional cake similar to ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Ciudad Mochiclosa\nit:Città dei Mochi\nzh:外郎市"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mochew City",
+    "pageType": "location",
+    "searchableText": "Mochew City\nCategory:Animated series-exclusive locations\nMochew City (Japanese: ウイロウシティ Uirō City) is an -exclusive location located in Johto. It is the hometown of Mollie, whose family operates the local Pokémon Center. It is located not far from Blackthorn City.\n\nMollie returned to working at her family's Pokémon Center alongside her mother after the Rising Volt Tacklers disbanded. Liko, Roy, and their Pokémon ended up here over a year later and were reunited with Mollie in The Pokémon Center Lady.\n\nThe city is known for its signature breakfast special.\n\nTeam Dragon Rampage mentioned a health spa opening here in Crash! Team Dragon Rampage!.\n\nWoody Park and the Exceed Testing Center are located nearby.",
+    "sectionHeadings": [
+      "Lead",
+      "Gallery",
+      "Trivia",
+      "Origin",
+      "Related articles"
+    ],
+    "characterCount": 1408,
+    "sectionCount": 5
+  }
+}

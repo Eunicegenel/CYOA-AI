@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Data broadcasting",
+    "slug": "data-broadcasting",
+    "pageId": 220313,
+    "revisionId": 4262587
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon animated series",
+    "sourceFileName": "data-broadcasting__220313.json",
+    "revisionTimestamp": "2025-03-21T15:28:36Z",
+    "fetchedAt": "2026-05-14T14:11:16.726Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Starting with BW061, the broadcast of the on TV Tokyo uses data broadcasting, which is supplemental information sent by television stations along with digital television.",
+  "plainText": "Starting with BW061, the broadcast of the on TV Tokyo uses data broadcasting, which is supplemental information sent by television stations along with digital television.\n\n==Pokémon the Series: Black & White==\n\n==Pokémon the Series: XY==\n\n==Pokémon the Series: Sun & Moon==\n===QR Code===\n \nBy pressing the button as soon as the episode starts viewers are filling in a gauge. When the gauge is filled, a Special QR Code will appear that can be scanned into Japanese Pokémon Sun and Moon games with the QR Scanner.\n\n \n\n===Poké Problem===\n \nViewers could answer the Poké Problem with their remotes during the airing of SM003 and SM004, which aired as a one-hour special, to take part in a lottery of five . During the airing of SM009 viewers could take part in a lottery of ten MonCollé GET Monster Balls Filled With Voices and MonCollé GET Pikachu figures.\n\n3 points are given to viewers who get the answer right, and 1 point to viewers who get the answer wrong. If the viewer collects 10 points during one lottery period a password will appear which can be used as an entry for the lottery. Viewers can then reset the score and start collecting again for another entry for the lottery.\n\n===Plot overview and introduction of the characters===\n \nViewers can see an introduction of the main characters and a short overview of the series plot using their remote.\n \n\n==External links==\nInformation about the data broadcasting of Best Wishes on the TV Tokyo website\nInformation about the data broadcasting of XY on the TV Tokyo website\nInformation about the data broadcasting of XYZ on the TV Tokyo website\nInformation about the data broadcasting of Sun & Moon on the TV Tokyo website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Starting with BW061, the broadcast of the on TV Tokyo uses data broadcasting, which is supplemental information sent by television stations along with digital television."
+    },
+    {
+      "heading": "QR Code",
+      "level": 3,
+      "text": "By pressing the button as soon as the episode starts viewers are filling in a gauge. When the gauge is filled, a Special QR Code will appear that can be scanned into Japanese Pokémon Sun and Moon games with the QR Scanner."
+    },
+    {
+      "heading": "Poké Problem",
+      "level": 3,
+      "text": "Viewers could answer the Poké Problem with their remotes during the airing of SM003 and SM004, which aired as a one-hour special, to take part in a lottery of five . During the airing of SM009 viewers could take part in a lottery of ten MonCollé GET Monster Balls Filled With Voices and MonCollé GET Pikachu figures.\n\n3 points are given to viewers who get the answer right, and 1 point to viewers who get the answer wrong. If the viewer collects 10 points during one lottery period a password will appear which can be used as an entry for the lottery. Viewers can then reset the score and start collecting again for another entry for the lottery."
+    },
+    {
+      "heading": "Plot overview and introduction of the characters",
+      "level": 3,
+      "text": "Viewers can see an introduction of the main characters and a short overview of the series plot using their remote."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Information about the data broadcasting of Best Wishes on the TV Tokyo website\nInformation about the data broadcasting of XY on the TV Tokyo website\nInformation about the data broadcasting of XYZ on the TV Tokyo website\nInformation about the data broadcasting of Sun & Moon on the TV Tokyo website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Data broadcasting",
+    "pageType": "pokemon-related",
+    "searchableText": "Data broadcasting\nCategory:Pokémon animated series\nStarting with BW061, the broadcast of the on TV Tokyo uses data broadcasting, which is supplemental information sent by television stations along with digital television.",
+    "sectionHeadings": [
+      "Lead",
+      "QR Code",
+      "Poké Problem",
+      "Plot overview and introduction of the characters",
+      "External links"
+    ],
+    "characterCount": 1677,
+    "sectionCount": 5
+  }
+}

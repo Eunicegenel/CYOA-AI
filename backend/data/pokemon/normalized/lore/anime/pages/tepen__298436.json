@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Tepen",
+    "slug": "tepen",
+    "pageId": 298436,
+    "revisionId": 4509648
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "tepen__298436.json",
+    "revisionTimestamp": "2026-03-16T07:57:06Z",
+    "fetchedAt": "2026-05-14T14:53:45.278Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Tepen (Japanese: テペン Tepen) is a character of the day who appeared in The Stolen Treasure. He is an acquaintance of Diana.",
+  "plainText": "Tepen (Japanese: テペン Tepen) is a character of the day who appeared in The Stolen Treasure. He is an acquaintance of Diana.\n\n==History==\n \nLong ago, when Diana was young, Tepen was once a friend of hers, as a fellow adventurer and explorer of ancient ruins. However, as time went on, Tepen became increasingly disillusioned with exploring, letting his fear of danger get the better of him, and eventually became a deceitful antique seller.\n\nTepen owned an antique store in a city in the Galar region, recognizable by a hanging near the store. Friede, Liko, and Roy first met Tepen to inquire more information about the Ancient Poké Ball. After being given Roy's bag, Tepen stole the Poké Ball and in its place put his . Liko's Hatenna beforehand sensed evil intent from Tepen, but was not being listened to, not until it was too late. Tepen gave the Poké Ball to Lampent and had it escape with his other Pokémon.\n\nEventually, Tepen was cornered and defeated by Captain Pikachu and Friede's Charizard, and Diana showed up and called Tepen out for giving her a fake ancient text. Despite claiming his current deceitful, conniving antique selling self was his true one, Diana disagreed, and showed him a reflection in his 's mirror, knowing and revealing that he was still very much an adventurer at heart, and that he had simply lost his way due to letting his fear of taking the first step get the better of him. Tepen tearfully apologized and vowed to change his ways, with his Pokémon partners at his side, now knowing that they would stand with him to the end. He eventually told them that he intended to sell the Ancient Poké Ball to an unknown client who was interested in them, and told the Rising Volt Tacklers the location of said client.\n \n\n==Pokémon==\n \n\n \n\n \n\n \n\n \n\n====Traveling with====\n \n\n==Voice actors==\n \n\n==Names==\n \n \n\n \n \n \n \n \n\nes:Tepen\nfr:Tepen\nit:Tepen\nzh:泰彭",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tepen (Japanese: テペン Tepen) is a character of the day who appeared in The Stolen Treasure. He is an acquaintance of Diana."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Long ago, when Diana was young, Tepen was once a friend of hers, as a fellow adventurer and explorer of ancient ruins. However, as time went on, Tepen became increasingly disillusioned with exploring, letting his fear of danger get the better of him, and eventually became a deceitful antique seller.\n\nTepen owned an antique store in a city in the Galar region, recognizable by a hanging near the store. Friede, Liko, and Roy first met Tepen to inquire more information about the Ancient Poké Ball. After being given Roy's bag, Tepen stole the Poké Ball and in its place put his . Liko's Hatenna beforehand sensed evil intent from Tepen, but was not being listened to, not until it was too late. Tepen gave the Poké Ball to Lampent and had it escape with his other Pokémon.\n\nEventually, Tepen was cornered and defeated by Captain Pikachu and Friede's Charizard, and Diana showed up and called Tepen out for giving her a fake ancient text. Despite claiming his current deceitful, conniving antique selling self was his true one, Diana disagreed, and showed him a reflection in his 's mirror, knowing and revealing that he was still very much an adventurer at heart, and that he had simply lost his way due to letting his fear of taking the first step get the better of him. Tepen tearfully apologized and vowed to change his ways, with his Pokémon partners at his side, now knowing that they would stand with him to the end. He eventually told them that he intended to sell the Ancient Poké Ball to an unknown client who was interested in them, and told the Rising Volt Tacklers the location of said client."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Tepen\nfr:Tepen\nit:Tepen\nzh:泰彭"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tepen",
+    "pageType": "character",
+    "searchableText": "Tepen\nCategory:Horizons characters of the day\nTepen (Japanese: テペン Tepen) is a character of the day who appeared in The Stolen Treasure. He is an acquaintance of Diana.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Names"
+    ],
+    "characterCount": 1879,
+    "sectionCount": 3
+  }
+}

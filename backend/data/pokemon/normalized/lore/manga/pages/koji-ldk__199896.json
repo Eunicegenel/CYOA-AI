@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Koji (LDK)",
+    "slug": "koji-ldk",
+    "pageId": 199896,
+    "revisionId": 4532103
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY: The Legend of the Pokémon Dragon King characters",
+    "sourceFileName": "koji-ldk__199896.json",
+    "revisionTimestamp": "2026-04-14T20:28:42Z",
+    "fetchedAt": "2026-05-14T15:23:40.313Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: コージ Kōji) is a character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He debuted in LDK0. Later, he was one of the competitors in a Dragon King Cup.",
+  "plainText": "(Japanese: コージ Kōji) is a character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He debuted in LDK0. Later, he was one of the competitors in a Dragon King Cup.\n\n==Pokémon==\n \n \n \n \n \n\n \n \n\nit:Koji (LDK)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: コージ Kōji) is a character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He debuted in LDK0. Later, he was one of the competitors in a Dragon King Cup."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Koji (LDK)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Koji (LDK)",
+    "pageType": "character",
+    "searchableText": "Koji (LDK)\nCategory:Pocket Monsters XY: The Legend of the Pokémon Dragon King characters\n(Japanese: コージ Kōji) is a character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He debuted in LDK0. Later, he was one of the competitors in a Dragon King Cup.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 219,
+    "sectionCount": 2
+  }
+}

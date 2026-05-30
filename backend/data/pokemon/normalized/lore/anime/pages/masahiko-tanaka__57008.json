@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Masahiko Tanaka",
+    "slug": "masahiko-tanaka",
+    "pageId": 57008,
+    "revisionId": 4399769
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "masahiko-tanaka__57008.json",
+    "revisionTimestamp": "2025-10-15T02:23:41Z",
+    "fetchedAt": "2026-05-14T14:35:22.796Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Masahiko Tanaka (Japanese: 田中正彦 Tanaka Masahiko) is a Japanese voice actor for .",
+  "plainText": "Masahiko Tanaka (Japanese: 田中正彦 Tanaka Masahiko) is a Japanese voice actor for .\n\n==Biography==\nTanaka was born on October 1, 1954, in , . As an adult, he became a voice actor for several anime series. He has occasionally provided his voice for since the original series, and his best-known role was as the .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nMr. Stone\nMaster Hamm\n\nProfessor Icarus\nKublock\n\n=====Pokémon=====\n\n==== ====\nMaster Mayonnaise\n\n==Other non-Pokémon roles==\n===Anime series===\nKyoichi Sudo ( )\nRyo Mashiba ( )\nMihiramon ( )\nRyunosuke Umemiya ( )\nGauron ( )\nFudou Takuma ( )\nRasa/The Fourth Kazekage ( , )\nCarl Hutter ( )\nFumihiko Makabe ( )\nKeigo Kurusu ( )\nMuramasa Kaburagi ( )\nTetsuhige/Ironbeard ( )\n( )\n\n===Live-action dubbing roles===\nLt. Paul Hellerman ( )\nRobert Bly ( )\nAlan Hunley ( , )\nCorporal Hill ( )\nJimmy Harrell ( )\nCaptain Marcus Powell ( )\nAvery Brundage ( )\n\n===Animation dubbing roles===\n( , )\n( )\n\n==External links==\nOfficial blog\n\n \n \n\nit:Masahiko Tanaka",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Masahiko Tanaka (Japanese: 田中正彦 Tanaka Masahiko) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Tanaka was born on October 1, 1954, in , . As an adult, he became a voice actor for several anime series. He has occasionally provided his voice for since the original series, and his best-known role was as the ."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Mr. Stone\nMaster Hamm\n\nProfessor Icarus\nKublock"
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Master Mayonnaise"
+    },
+    {
+      "heading": "Anime series",
+      "level": 3,
+      "text": "Kyoichi Sudo ( )\nRyo Mashiba ( )\nMihiramon ( )\nRyunosuke Umemiya ( )\nGauron ( )\nFudou Takuma ( )\nRasa/The Fourth Kazekage ( , )\nCarl Hutter ( )\nFumihiko Makabe ( )\nKeigo Kurusu ( )\nMuramasa Kaburagi ( )\nTetsuhige/Ironbeard ( )\n( )"
+    },
+    {
+      "heading": "Live-action dubbing roles",
+      "level": 3,
+      "text": "Lt. Paul Hellerman ( )\nRobert Bly ( )\nAlan Hunley ( , )\nCorporal Hill ( )\nJimmy Harrell ( )\nCaptain Marcus Powell ( )\nAvery Brundage ( )"
+    },
+    {
+      "heading": "Animation dubbing roles",
+      "level": 3,
+      "text": "( , )\n( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official blog\n\n \n \n\nit:Masahiko Tanaka"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Masahiko Tanaka",
+    "pageType": "general-anime-lore",
+    "searchableText": "Masahiko Tanaka\nCategory:Japanese voice actors\nMasahiko Tanaka (Japanese: 田中正彦 Tanaka Masahiko) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "",
+      "Anime series",
+      "Live-action dubbing roles",
+      "Animation dubbing roles",
+      "External links"
+    ],
+    "characterCount": 1015,
+    "sectionCount": 8
+  }
+}

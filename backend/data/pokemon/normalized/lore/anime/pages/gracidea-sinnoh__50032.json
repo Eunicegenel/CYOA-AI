@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Gracidea (Sinnoh)",
+    "slug": "gracidea-sinnoh",
+    "pageId": 50032,
+    "revisionId": 4535081
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie locations",
+    "sourceFileName": "gracidea-sinnoh__50032.json",
+    "revisionTimestamp": "2026-04-20T05:05:53Z",
+    "fetchedAt": "2026-05-14T14:21:15.585Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Gracidea (Japanese: グラシデア Gracidea) is a vast area located in Sinnoh. It is near the top of a mountain. , along with others of its species, lives here. If a Shaymin comes in contact with one of the flowers found in this place, it will immediately change Forme. In the English dub, the Gracidea garden was also referred to as the \"flower garden\".",
+  "plainText": "Gracidea (Japanese: グラシデア Gracidea) is a vast area located in Sinnoh. It is near the top of a mountain. , along with others of its species, lives here. If a Shaymin comes in contact with one of the flowers found in this place, it will immediately change Forme. In the English dub, the Gracidea garden was also referred to as the \"flower garden\".\n\n==History==\n \nGracidea was featured in Giratina and the Sky Warrior. It is located at the base of a glacier. Shaymin was in a rush to get there in time for \"flower bearing,\" a ritual where many Shaymin gather, transform into Sky Forme, and fly away to start a new Gracidea garden in a faraway place. The place was threatened with destruction when Zero's actions in the Reverse World caused the glacier to start moving. A , who inhabited a temple in the mountains near the garden, awoke just in time to help stop the impending disaster.\n\n \n \n==Trivia==\nGracidea did not appear in , but the Flower Paradise can be considered its counterpart, as it is covered in flowers and Shaymin can be found there. However, the Gracidea flower itself is not found there; instead, it is found in Floaroma Town.\n\n===Origin===\n \nThe area surrounding Gracidea is modeled after and in . The former is the largest glacier in Europe, while the latter is the longest and deepest fjord of Norway.\n\n==Names==\n \n \n\n==References==\n \n\n==Related articles==\n \n \n \n\n \n \n\nde:Blumengarten\nes:Jardín Florido (Sinnoh)\nit:Gracidea (Sinnoh)\nzh:葛拉西蒂亞",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Gracidea (Japanese: グラシデア Gracidea) is a vast area located in Sinnoh. It is near the top of a mountain. , along with others of its species, lives here. If a Shaymin comes in contact with one of the flowers found in this place, it will immediately change Forme. In the English dub, the Gracidea garden was also referred to as the \"flower garden\"."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Gracidea was featured in Giratina and the Sky Warrior. It is located at the base of a glacier. Shaymin was in a rush to get there in time for \"flower bearing,\" a ritual where many Shaymin gather, transform into Sky Forme, and fly away to start a new Gracidea garden in a faraway place. The place was threatened with destruction when Zero's actions in the Reverse World caused the glacier to start moving. A , who inhabited a temple in the mountains near the garden, awoke just in time to help stop the impending disaster."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Gracidea did not appear in , but the Flower Paradise can be considered its counterpart, as it is covered in flowers and Shaymin can be found there. However, the Gracidea flower itself is not found there; instead, it is found in Floaroma Town."
+    },
+    {
+      "heading": "Origin",
+      "level": 3,
+      "text": "The area surrounding Gracidea is modeled after and in . The former is the largest glacier in Europe, while the latter is the longest and deepest fjord of Norway."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Blumengarten\nes:Jardín Florido (Sinnoh)\nit:Gracidea (Sinnoh)\nzh:葛拉西蒂亞"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Gracidea (Sinnoh)",
+    "pageType": "movie",
+    "searchableText": "Gracidea (Sinnoh)\nCategory:Movie locations\nGracidea (Japanese: グラシデア Gracidea) is a vast area located in Sinnoh. It is near the top of a mountain. , along with others of its species, lives here. If a Shaymin comes in contact with one of the flowers found in this place, it will immediately change Forme. In the English dub, the Gracidea garden was also referred to as the \"flower garden\".",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia",
+      "Origin",
+      "Related articles"
+    ],
+    "characterCount": 1459,
+    "sectionCount": 5
+  }
+}

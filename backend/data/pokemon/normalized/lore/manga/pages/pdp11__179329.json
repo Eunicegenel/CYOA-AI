@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PDP11",
+    "slug": "pdp11",
+    "pageId": 179329,
+    "revisionId": 4528219
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp11__179329.json",
+    "revisionTimestamp": "2026-04-09T16:10:24Z",
+    "fetchedAt": "2026-05-14T15:29:42.248Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ゆうじょうパワー Friendship Power) is the eleventh chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: ゆうじょうパワー Friendship Power) is the eleventh chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n( )\n( )\n( )\n\n( )\n( )\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n\n \n \n \n\nit:PDP11",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ゆうじょうパワー Friendship Power) is the eleventh chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )\n( )\n\n( )\n( )"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )\n( )\n\n \n \n \n\nit:PDP11"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP11",
+    "pageType": "chapter",
+    "searchableText": "PDP11\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: ゆうじょうパワー Friendship Power) is the eleventh chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 285,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP20",
+    "slug": "sp20",
+    "pageId": 182506,
+    "revisionId": 4114556
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp20__182506.json",
+    "revisionTimestamp": "2024-09-16T20:30:18Z",
+    "fetchedAt": "2026-05-14T15:50:03.339Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Brock, A Man Of Resolve!! (Japanese: 不屈のイイ男タケシ！！ , A Man of Perseverance!!) is the twentieth chapter of the Ash & Pikachu manga.",
+  "plainText": "Brock, A Man Of Resolve!! (Japanese: 不屈のイイ男タケシ！！ , A Man of Perseverance!!) is the twentieth chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMax\nOld Man Swamp\n\n===Pokémon===\n( )\n( )\n( )\n(multiple)\n\n \n \n\n \n\nit:SP20",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Brock, A Man Of Resolve!! (Japanese: 不屈のイイ男タケシ！！ , A Man of Perseverance!!) is the twentieth chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max\nOld Man Swamp"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(multiple)\n\n \n \n\n \n\nit:SP20"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP20",
+    "pageType": "chapter",
+    "searchableText": "SP20\nCategory:Ash & Pikachu chapters\nBrock, A Man Of Resolve!! (Japanese: 不屈のイイ男タケシ！！ , A Man of Perseverance!!) is the twentieth chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 299,
+    "sectionCount": 3
+  }
+}

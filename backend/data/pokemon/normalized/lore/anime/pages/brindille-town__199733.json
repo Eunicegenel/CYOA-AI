@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Brindille Town",
+    "slug": "brindille-town",
+    "pageId": 199733,
+    "revisionId": 4318501
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "brindille-town__199733.json",
+    "revisionTimestamp": "2025-06-11T19:15:51Z",
+    "fetchedAt": "2026-05-14T14:06:08.176Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Brindille Town (Japanese: マチスタウン Matisse Town) is the hometown of Kayleigh. It was mentioned in Dreaming a Performer's Dream!. It is unknown where it is located.",
+  "plainText": "Brindille Town (Japanese: マチスタウン Matisse Town) is the hometown of Kayleigh. It was mentioned in Dreaming a Performer's Dream!. It is unknown where it is located.\n\n==In other languages==\n \n \n \n \n\n \n\nit:Brindillopoli\nzh:馬蒂斯鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Brindille Town (Japanese: マチスタウン Matisse Town) is the hometown of Kayleigh. It was mentioned in Dreaming a Performer's Dream!. It is unknown where it is located."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Brindillopoli\nzh:馬蒂斯鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Brindille Town",
+    "pageType": "location",
+    "searchableText": "Brindille Town\nCategory:Animated series-exclusive locations\nBrindille Town (Japanese: マチスタウン Matisse Town) is the hometown of Kayleigh. It was mentioned in Dreaming a Performer's Dream!. It is unknown where it is located.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 222,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "TA25",
+    "slug": "ta25",
+    "pageId": 187419,
+    "revisionId": 2805054
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta25__187419.json",
+    "revisionTimestamp": "2018-06-09T05:02:32Z",
+    "fetchedAt": "2026-05-14T15:50:47.681Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 結成！トライスター！ Formed! Trystar!) is the 25th chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 結成！トライスター！ Formed! Trystar!) is the 25th chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\nMister Crow\n\n===Pokémon===\n(Mister Crow's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 結成！トライスター！ Formed! Trystar!) is the 25th chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty\nMister Crow"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Mister Crow's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA25",
+    "pageType": "chapter",
+    "searchableText": "TA25\nCategory:Pokémon Try Adventure chapters\n(Japanese: 結成！トライスター！ Formed! Trystar!) is the 25th chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 258,
+    "sectionCount": 3
+  }
+}

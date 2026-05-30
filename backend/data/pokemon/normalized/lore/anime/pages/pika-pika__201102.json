@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pika Pika",
+    "slug": "pika-pika",
+    "pageId": 201102,
+    "revisionId": 3957567
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Korean ending themes",
+    "sourceFileName": "pika-pika__201102.json",
+    "revisionTimestamp": "2024-03-17T13:39:27Z",
+    "fetchedAt": "2026-05-14T14:41:43.341Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Pika Pika is the first ending theme for the Korean dub of Pokémon the Series: XY. It debuted in XY001, replacing Holding Hands of Pokémon the Series: Black & White. It uses the same animation from the corresponding Japanese ending theme, X Strait Y Scenery.",
+  "plainText": "Pika Pika is the first ending theme for the Korean dub of Pokémon the Series: XY. It debuted in XY001, replacing Holding Hands of Pokémon the Series: Black & White. It uses the same animation from the corresponding Japanese ending theme, X Strait Y Scenery.\n\n==Characters==\n\n===Pokémon===\n( )\n( )\n\n==Lyrics==\n===TV Size===\n \n! Korean\n! English\n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\nYour electrifying Thunderbolt makes me feel exhilarated\nEvery day I meet you\nMy heart beats\nEven if I look at you for the whole day\nYou’re so cute \n(Pika pika)\nEven if a long time \nPasses by \n(Pika pika)\nI’ll remember the smile\nYou gave me forever\n\nLove me at all times\nWhen we’re together \nI’m very happy \n(One, two, three, four!)\nEvery day I meet you\nMy heart beats\nEven if I look at you for the whole day\nYou’re so cute \n(Pika pika)\nEven if a long time \nPasses by \n(Pika pika)\nI’ll remember the smile\nYou gave me forever\n\nPikachu \n\n \n \n\n \n\nzh:寶可夢 XY 韓語片尾曲1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pika Pika is the first ending theme for the Korean dub of Pokémon the Series: XY. It debuted in XY001, replacing Holding Hands of Pokémon the Series: Black & White. It uses the same animation from the corresponding Japanese ending theme, X Strait Y Scenery."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    },
+    {
+      "heading": "TV Size",
+      "level": 3,
+      "text": "! Korean\n! English\n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\nYour electrifying Thunderbolt makes me feel exhilarated\nEvery day I meet you\nMy heart beats\nEven if I look at you for the whole day\nYou’re so cute \n(Pika pika)\nEven if a long time \nPasses by \n(Pika pika)\nI’ll remember the smile\nYou gave me forever\n\nLove me at all times\nWhen we’re together \nI’m very happy \n(One, two, three, four!)\nEvery day I meet you\nMy heart beats\nEven if I look at you for the whole day\nYou’re so cute \n(Pika pika)\nEven if a long time \nPasses by \n(Pika pika)\nI’ll remember the smile\nYou gave me forever\n\nPikachu \n\n \n \n\n \n\nzh:寶可夢 XY 韓語片尾曲1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pika Pika",
+    "pageType": "general-anime-lore",
+    "searchableText": "Pika Pika\nCategory:Korean ending themes\nPika Pika is the first ending theme for the Korean dub of Pokémon the Series: XY. It debuted in XY001, replacing Holding Hands of Pokémon the Series: Black & White. It uses the same animation from the corresponding Japanese ending theme, X Strait Y Scenery.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "TV Size"
+    ],
+    "characterCount": 959,
+    "sectionCount": 3
+  }
+}

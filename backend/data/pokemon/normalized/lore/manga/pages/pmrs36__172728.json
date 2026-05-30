@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS36",
+    "slug": "pmrs36",
+    "pageId": 172728,
+    "revisionId": 4264640
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs36__172728.json",
+    "revisionTimestamp": "2025-03-23T18:31:19Z",
+    "fetchedAt": "2026-05-14T15:33:30.333Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy, The Baseball Team's Saviour?! (Japanese: 球界の救世主、ピッピ！？ Savior of the Baseball World - !?) is the thirty-sixth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Clefairy, The Baseball Team's Saviour?! (Japanese: 球界の救世主、ピッピ！？ Savior of the Baseball World - !?) is the thirty-sixth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy, The Baseball Team's Saviour?! (Japanese: 球界の救世主、ピッピ！？ Savior of the Baseball World - !?) is the thirty-sixth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS36",
+    "pageType": "chapter",
+    "searchableText": "PMRS36\nCategory:Pokémon Ruby-Sapphire chapters\nClefairy, The Baseball Team's Saviour?! (Japanese: 球界の救世主、ピッピ！？ Savior of the Baseball World - !?) is the thirty-sixth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 286,
+    "sectionCount": 2
+  }
+}

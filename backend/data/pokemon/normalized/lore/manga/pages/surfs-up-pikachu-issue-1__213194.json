@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Surf's Up, Pikachu issue 1",
+    "slug": "surfs-up-pikachu-issue-1",
+    "pageId": 213194,
+    "revisionId": 4132629
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu monthly issues",
+    "sourceFileName": "surfs-up-pikachu-issue-1__213194.json",
+    "revisionTimestamp": "2024-09-29T05:25:05Z",
+    "fetchedAt": "2026-05-14T15:50:28.850Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Surf's Up, Pikachu issue 1 is the thirteenth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the fifteenth chapter of the manga, as well as some bonus content that was not in the original volume. \n\nThe contents of this issue were later rereleased by VIZ Media as part of .",
+  "plainText": "Surf's Up, Pikachu issue 1 is the thirteenth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the fifteenth chapter of the manga, as well as some bonus content that was not in the original volume. \n\nThe contents of this issue were later rereleased by VIZ Media as part of .\n\n==Publications==\n \n \n\n==Chapters==\nAttack of the Demon Stomach\n\n==Important events==\nAsh captures a .",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Surf's Up, Pikachu issue 1 is the thirteenth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the fifteenth chapter of the manga, as well as some bonus content that was not in the original volume. \n\nThe contents of this issue were later rereleased by VIZ Media as part of ."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Attack of the Demon Stomach"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Ash captures a ."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Surf's Up, Pikachu issue 1",
+    "pageType": "general-manga-lore",
+    "searchableText": "Surf's Up, Pikachu issue 1\nCategory:Electric Tale of Pikachu monthly issues\nSurf's Up, Pikachu issue 1 is the thirteenth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the fifteenth chapter of the manga, as well as some bonus content that was not in the original volume. \n\nThe contents of this issue were later rereleased by VIZ Media as part of .",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 431,
+    "sectionCount": 3
+  }
+}

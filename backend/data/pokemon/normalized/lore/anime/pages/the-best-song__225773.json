@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "The Best (song)",
+    "slug": "the-best-song",
+    "pageId": 225773,
+    "revisionId": 4190244
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Korean opening themes",
+    "sourceFileName": "the-best-song__225773.json",
+    "revisionTimestamp": "2024-11-23T10:09:56Z",
+    "fetchedAt": "2026-05-14T14:53:56.578Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "The Best is the opening theme for the 2012 Korean redubbing of Mewtwo Strikes Back and Mewtwo Strikes Back—Evolution. It is performed by Lee Suji.",
+  "plainText": "The Best is the opening theme for the 2012 Korean redubbing of Mewtwo Strikes Back and Mewtwo Strikes Back—Evolution. It is performed by Lee Suji.\n\n==Lyrics==\n \n! Korean\n! English\n\n \n \n \n \n \n (forever with you)\n \n \nI wanna be the best It's my destiny\n\n \n \n \n \n \n (forever with you)\n \n \n\nI wanna be the best It's my destiny\nNever say never....\n \n\nWherever you are hiding (though no one knows)\nI can meet you anytime (I can find out)\nIf I close my eyes, the joyful world\nSuddenly approaches me, let's head out together\nDon't worry, if we're together\nThe dream will be accomplished, really (forever with you) \nEven when I'm tired, I won't give up\nBecause you're here (Pikachu)\nI wanna be the best, it's my destiny\n\nWherever you are hiding (though no one knows)\nI can meet you anytime (I can find out)\nIf I close my eyes, the joyful world\nSuddenly approaches me, let's head out together\nDon't worry, if we're together\nThe dream will be accomplished, really (forever with you) \nEven when I'm tired, I won't give up\nBecause you're here (Pikachu)\n\nI wanna be the best, it's my destiny\nNever say never.... \n\n==Video==\n \n \n\n \n\nzh:寶可夢電影 韓語片頭曲1重配",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Best is the opening theme for the 2012 Korean redubbing of Mewtwo Strikes Back and Mewtwo Strikes Back—Evolution. It is performed by Lee Suji."
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "! Korean\n! English\n\n \n \n \n \n \n (forever with you)\n \n \nI wanna be the best It's my destiny\n\n \n \n \n \n \n (forever with you)\n \n \n\nI wanna be the best It's my destiny\nNever say never....\n \n\nWherever you are hiding (though no one knows)\nI can meet you anytime (I can find out)\nIf I close my eyes, the joyful world\nSuddenly approaches me, let's head out together\nDon't worry, if we're together\nThe dream will be accomplished, really (forever with you) \nEven when I'm tired, I won't give up\nBecause you're here (Pikachu)\nI wanna be the best, it's my destiny\n\nWherever you are hiding (though no one knows)\nI can meet you anytime (I can find out)\nIf I close my eyes, the joyful world\nSuddenly approaches me, let's head out together\nDon't worry, if we're together\nThe dream will be accomplished, really (forever with you) \nEven when I'm tired, I won't give up\nBecause you're here (Pikachu)\n\nI wanna be the best, it's my destiny\nNever say never...."
+    },
+    {
+      "heading": "Video",
+      "level": 2,
+      "text": "zh:寶可夢電影 韓語片頭曲1重配"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Best (song)",
+    "pageType": "general-anime-lore",
+    "searchableText": "The Best (song)\nCategory:Korean opening themes\nThe Best is the opening theme for the 2012 Korean redubbing of Mewtwo Strikes Back and Mewtwo Strikes Back—Evolution. It is performed by Lee Suji.",
+    "sectionHeadings": [
+      "Lead",
+      "Lyrics",
+      "Video"
+    ],
+    "characterCount": 1135,
+    "sectionCount": 3
+  }
+}

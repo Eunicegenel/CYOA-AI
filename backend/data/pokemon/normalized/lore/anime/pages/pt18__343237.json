@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "PT18",
+    "slug": "pt18",
+    "pageId": 343237,
+    "revisionId": 4543350
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:POKÉTOON episodes",
+    "sourceFileName": "pt18__343237.json",
+    "revisionTimestamp": "2026-05-02T17:55:05Z",
+    "fetchedAt": "2026-05-14T14:45:16.542Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "Bonding with Kangaskhan (Japanese: めがはなせないね ガルーラ Keep an Eye on Her, ) is the first episode of the third season of POKÉTOON and eighteenth overall. It was first released in Japan on the official Japanese Pokémon YouTube channel on October 3, 2025, on the official English and western channels on October 24, 2025, and on the French channel on December 9, 2025.",
+  "plainText": "Bonding with Kangaskhan (Japanese: めがはなせないね ガルーラ Keep an Eye on Her, ) is the first episode of the third season of POKÉTOON and eighteenth overall. It was first released in Japan on the official Japanese Pokémon YouTube channel on October 3, 2025, on the official English and western channels on October 24, 2025, and on the French channel on December 9, 2025.\n\n==Blurb==\n Yurado dreams of being a commentator just like her mom. As her mom works, Yurado makes a diorama with Kangaskhan in the next room—and then something mega occurs! 🌟 \n\n==Plot==\n \n\n==Characters==\n===Humans===\nYurado\nKarimna\n\nButterscotch Cup stadium audience\n\n===Pokémon===\n(Karimna's; Mega Kangaskhan)\n(Karimna's; Rotom Phone)\n( 's; Mega Kangaskhan)\n( 's)\n( 's; Mega Abomasnow)\n\n==Cast==\n \n \n \n \n \n\n===Staff===\n \n\n==Video==\n \n\n==Trivia==\nThis short was shown in French cinemas alongside limited screenings of Pokémon, le film : Volcanion et la merveille mécanique on November 22 and 23, 2025. \n\n===Dub edits===\nThe Mainland Chinese upload of this short removes the on-screen credits text during the first part of the credits sequence (with the credits shown alongside drawings and while the epilogue voice-over is going on), and ends before the second part of the credits sequence (with the credits on a black background).\nThe western uploads add a \"POKÉTOON: The Pokémon Cartoon Animation\" logo segment at the beginning of the short.\n\n==In other languages==\n \n\n==References==\n \n\n==External links==\nYouTube: Japanese, English, Brazilian Portuguese, Dutch, French, German, Italian, Spanish (Spain), Spanish (Latin America)\nBilibili: Mandarin (mainland China)\n\n \n \n\n \n\nde:Tiefe Freundschaft mit Kangama\nes:TOON18\nit:PT18\nja:めがはなせないね ガルーラ\nzh:盯紧了哟 袋兽",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bonding with Kangaskhan (Japanese: めがはなせないね ガルーラ Keep an Eye on Her, ) is the first episode of the third season of POKÉTOON and eighteenth overall. It was first released in Japan on the official Japanese Pokémon YouTube channel on October 3, 2025, on the official English and western channels on October 24, 2025, and on the French channel on December 9, 2025."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "Yurado dreams of being a commentator just like her mom. As her mom works, Yurado makes a diorama with Kangaskhan in the next room—and then something mega occurs! 🌟"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Yurado\nKarimna\n\nButterscotch Cup stadium audience"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Karimna's; Mega Kangaskhan)\n(Karimna's; Rotom Phone)\n( 's; Mega Kangaskhan)\n( 's)\n( 's; Mega Abomasnow)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This short was shown in French cinemas alongside limited screenings of Pokémon, le film : Volcanion et la merveille mécanique on November 22 and 23, 2025."
+    },
+    {
+      "heading": "Dub edits",
+      "level": 3,
+      "text": "The Mainland Chinese upload of this short removes the on-screen credits text during the first part of the credits sequence (with the credits shown alongside drawings and while the epilogue voice-over is going on), and ends before the second part of the credits sequence (with the credits on a black background).\nThe western uploads add a \"POKÉTOON: The Pokémon Cartoon Animation\" logo segment at the beginning of the short."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "YouTube: Japanese, English, Brazilian Portuguese, Dutch, French, German, Italian, Spanish (Spain), Spanish (Latin America)\nBilibili: Mandarin (mainland China)\n\n \n \n\n \n\nde:Tiefe Freundschaft mit Kangama\nes:TOON18\nit:PT18\nja:めがはなせないね ガルーラ\nzh:盯紧了哟 袋兽"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PT18",
+    "pageType": "episode",
+    "searchableText": "PT18\nCategory:POKÉTOON episodes\nBonding with Kangaskhan (Japanese: めがはなせないね ガルーラ Keep an Eye on Her, ) is the first episode of the third season of POKÉTOON and eighteenth overall. It was first released in Japan on the official Japanese Pokémon YouTube channel on October 3, 2025, on the official English and western channels on October 24, 2025, and on the French channel on December 9, 2025.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Humans",
+      "Pokémon",
+      "Trivia",
+      "Dub edits",
+      "External links"
+    ],
+    "characterCount": 1718,
+    "sectionCount": 7
+  }
+}

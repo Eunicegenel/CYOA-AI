@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "CCP25",
+    "slug": "ccp25",
+    "pageId": 175290,
+    "revisionId": 4527262
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp25__175290.json",
+    "revisionTimestamp": "2026-04-09T15:30:26Z",
+    "fetchedAt": "2026-05-14T15:15:23.192Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: エスパーポケモン三兄弟ちゃも The Three Psychic Pokémon Siblings (chamo)) is the 25th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: エスパーポケモン三兄弟ちゃも The Three Psychic Pokémon Siblings (chamo)) is the 25th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n(fantasy)\n\n===Pokémon===\n( )\n( )\n( ; fantasy)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: エスパーポケモン三兄弟ちゃも The Three Psychic Pokémon Siblings (chamo)) is the 25th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(fantasy)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( ; fantasy)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP25",
+    "pageType": "chapter",
+    "searchableText": "CCP25\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: エスパーポケモン三兄弟ちゃも The Three Psychic Pokémon Siblings (chamo)) is the 25th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 276,
+    "sectionCount": 3
+  }
+}

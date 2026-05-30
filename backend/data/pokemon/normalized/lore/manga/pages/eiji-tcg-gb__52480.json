@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Eiji (TCG GB)",
+    "slug": "eiji-tcg-gb",
+    "pageId": 52480,
+    "revisionId": 4360642
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ghosts",
+    "sourceFileName": "eiji-tcg-gb__52480.json",
+    "revisionTimestamp": "2025-08-19T02:10:40Z",
+    "fetchedAt": "2026-05-14T15:17:53.097Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Eiji (Japanese: エイジ) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Eiji can be found in the first of the nine statues in the main room. Players who defeat Eiji will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game.",
+  "plainText": "Eiji (Japanese: エイジ) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Eiji can be found in the first of the nine statues in the main room. Players who defeat Eiji will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game.\n\n==Everybody's Friend Deck==\nEverybody's Friend Deck (Japanese: みんなともだちデッキ) is the deck played by Eiji. The deck features various types of Pokémon and takes advantage of cards like and to swap in desired opponents and quickly take them out.\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n==Gallery==\n===Sprites===\n \n\n==Related articles==\n \n \n\n \n \n\nit:Eiji\nja:みんなともだちデッキ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Eiji (Japanese: エイジ) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Eiji can be found in the first of the nine statues in the main room. Players who defeat Eiji will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game."
+    },
+    {
+      "heading": "Everybody's Friend Deck",
+      "level": 2,
+      "text": "Everybody's Friend Deck (Japanese: みんなともだちデッキ) is the deck played by Eiji. The deck features various types of Pokémon and takes advantage of cards like and to swap in desired opponents and quickly take them out."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Eiji\nja:みんなともだちデッキ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Eiji (TCG GB)",
+    "pageType": "general-manga-lore",
+    "searchableText": "Eiji (TCG GB)\nCategory:Ghosts\nEiji (Japanese: エイジ) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Eiji can be found in the first of the nine statues in the main room. Players who defeat Eiji will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game.",
+    "sectionHeadings": [
+      "Lead",
+      "Everybody's Friend Deck",
+      "Related articles"
+    ],
+    "characterCount": 717,
+    "sectionCount": 3
+  }
+}

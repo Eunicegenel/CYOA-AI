@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "P7-16",
+    "slug": "p7-16",
+    "pageId": 233179,
+    "revisionId": 4526537
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Phantom Thief Pokémon 7 chapters",
+    "sourceFileName": "p7-16__233179.json",
+    "revisionTimestamp": "2026-04-09T14:54:31Z",
+    "fetchedAt": "2026-05-14T15:28:11.415Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the sixteenth chapter of the Phantom Thief Pokémon 7 manga. It was never collected into volume format.",
+  "plainText": "This is the sixteenth chapter of the Phantom Thief Pokémon 7 manga. It was never collected into volume format.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHiori\nRocco\n\n===Pokémon===\n( )\n(Hiori's)\n(Rocco's)\n\n==Trivia==\n\n \n \n\nzh:快盗！宝可梦７ 第16话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the sixteenth chapter of the Phantom Thief Pokémon 7 manga. It was never collected into volume format."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hiori\nRocco"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Hiori's)\n(Rocco's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "zh:快盗！宝可梦７ 第16话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "P7-16",
+    "pageType": "chapter",
+    "searchableText": "P7-16\nCategory:Phantom Thief Pokémon 7 chapters\nThis is the sixteenth chapter of the Phantom Thief Pokémon 7 manga. It was never collected into volume format.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 291,
+    "sectionCount": 4
+  }
+}

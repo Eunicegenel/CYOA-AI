@@ -1,0 +1,3932 @@
+{
+  "generatedAt": "2026-05-14T16:21:51.030Z",
+  "totals": {
+    "allNormalizedRecords": 1009,
+    "matchedBoth": 882,
+    "pokeapiOnly": 55,
+    "showdownOnly": 72,
+    "neither": 0
+  },
+  "preview": {
+    "matchedBothFirst25": [
+      {
+        "matchKey": "10000000voltthunderbolt",
+        "displayName": "10,000,000 Volt Thunderbolt",
+        "pokeapiSlug": "10-000-000-volt-thunderbolt",
+        "pokeapiMoveId": 719,
+        "showdownKey": "10000000voltthunderbolt",
+        "primaryType": "Electric",
+        "primaryCategory": "Special",
+        "primaryPower": 195,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "absorb",
+        "displayName": "Absorb",
+        "pokeapiSlug": "absorb",
+        "pokeapiMoveId": 71,
+        "showdownKey": "absorb",
+        "primaryType": "Grass",
+        "primaryCategory": "Special",
+        "primaryPower": 20,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "accelerock",
+        "displayName": "Accelerock",
+        "pokeapiSlug": "accelerock",
+        "pokeapiMoveId": 709,
+        "showdownKey": "accelerock",
+        "primaryType": "Rock",
+        "primaryCategory": "Physical",
+        "primaryPower": 40,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "acid",
+        "displayName": "Acid",
+        "pokeapiSlug": "acid",
+        "pokeapiMoveId": 51,
+        "showdownKey": "acid",
+        "primaryType": "Poison",
+        "primaryCategory": "Special",
+        "primaryPower": 40,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "acidarmor",
+        "displayName": "Acid Armor",
+        "pokeapiSlug": "acid-armor",
+        "pokeapiMoveId": 151,
+        "showdownKey": "acidarmor",
+        "primaryType": "Poison",
+        "primaryCategory": "Status",
+        "primaryPower": 0,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "acidspray",
+        "displayName": "Acid Spray",
+        "pokeapiSlug": "acid-spray",
+        "pokeapiMoveId": 491,
+        "showdownKey": "acidspray",
+        "primaryType": "Poison",
+        "primaryCategory": "Special",
+        "primaryPower": 40,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "acrobatics",
+        "displayName": "Acrobatics",
+        "pokeapiSlug": "acrobatics",
+        "pokeapiMoveId": 512,
+        "showdownKey": "acrobatics",
+        "primaryType": "Flying",
+        "primaryCategory": "Physical",
+        "primaryPower": 55,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "acupressure",
+        "displayName": "Acupressure",
+        "pokeapiSlug": "acupressure",
+        "pokeapiMoveId": 367,
+        "showdownKey": "acupressure",
+        "primaryType": "Normal",
+        "primaryCategory": "Status",
+        "primaryPower": 0,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "aerialace",
+        "displayName": "Aerial Ace",
+        "pokeapiSlug": "aerial-ace",
+        "pokeapiMoveId": 332,
+        "showdownKey": "aerialace",
+        "primaryType": "Flying",
+        "primaryCategory": "Physical",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "aeroblast",
+        "displayName": "Aeroblast",
+        "pokeapiSlug": "aeroblast",
+        "pokeapiMoveId": 177,
+        "showdownKey": "aeroblast",
+        "primaryType": "Flying",
+        "primaryCategory": "Special",
+        "primaryPower": 100,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "afteryou",
+        "displayName": "After You",
+        "pokeapiSlug": "after-you",
+        "pokeapiMoveId": 495,
+        "showdownKey": "afteryou",
+        "primaryType": "Normal",
+        "primaryCategory": "Status",
+        "primaryPower": 0,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "agility",
+        "displayName": "Agility",
+        "pokeapiSlug": "agility",
+        "pokeapiMoveId": 97,
+        "showdownKey": "agility",
+        "primaryType": "Psychic",
+        "primaryCategory": "Status",
+        "primaryPower": 0,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "aircutter",
+        "displayName": "Air Cutter",
+        "pokeapiSlug": "air-cutter",
+        "pokeapiMoveId": 314,
+        "showdownKey": "aircutter",
+        "primaryType": "Flying",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "airslash",
+        "displayName": "Air Slash",
+        "pokeapiSlug": "air-slash",
+        "pokeapiMoveId": 403,
+        "showdownKey": "airslash",
+        "primaryType": "Flying",
+        "primaryCategory": "Special",
+        "primaryPower": 75,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "alluringvoice",
+        "displayName": "Alluring Voice",
+        "pokeapiSlug": "alluring-voice",
+        "pokeapiMoveId": 914,
+        "showdownKey": "alluringvoice",
+        "primaryType": "Fairy",
+        "primaryCategory": "Special",
+        "primaryPower": 80,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "allyswitch",
+        "displayName": "Ally Switch",
+        "pokeapiSlug": "ally-switch",
+        "pokeapiMoveId": 502,
+        "showdownKey": "allyswitch",
+        "primaryType": "Psychic",
+        "primaryCategory": "Status",
+        "primaryPower": 0,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "amnesia",
+        "displayName": "Amnesia",
+        "pokeapiSlug": "amnesia",
+        "pokeapiMoveId": 133,
+        "showdownKey": "amnesia",
+        "primaryType": "Psychic",
+        "primaryCategory": "Status",
+        "primaryPower": 0,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "anchorshot",
+        "displayName": "Anchor Shot",
+        "pokeapiSlug": "anchor-shot",
+        "pokeapiMoveId": 677,
+        "showdownKey": "anchorshot",
+        "primaryType": "Steel",
+        "primaryCategory": "Physical",
+        "primaryPower": 80,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "ancientpower",
+        "displayName": "Ancient Power",
+        "pokeapiSlug": "ancient-power",
+        "pokeapiMoveId": 246,
+        "showdownKey": "ancientpower",
+        "primaryType": "Rock",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "appleacid",
+        "displayName": "Apple Acid",
+        "pokeapiSlug": "apple-acid",
+        "pokeapiMoveId": 787,
+        "showdownKey": "appleacid",
+        "primaryType": "Grass",
+        "primaryCategory": "Special",
+        "primaryPower": 80,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "aquacutter",
+        "displayName": "Aqua Cutter",
+        "pokeapiSlug": "aqua-cutter",
+        "pokeapiMoveId": 895,
+        "showdownKey": "aquacutter",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 70,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "aquajet",
+        "displayName": "Aqua Jet",
+        "pokeapiSlug": "aqua-jet",
+        "pokeapiMoveId": 453,
+        "showdownKey": "aquajet",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 40,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "aquaring",
+        "displayName": "Aqua Ring",
+        "pokeapiSlug": "aqua-ring",
+        "pokeapiMoveId": 392,
+        "showdownKey": "aquaring",
+        "primaryType": "Water",
+        "primaryCategory": "Status",
+        "primaryPower": 0,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "aquastep",
+        "displayName": "Aqua Step",
+        "pokeapiSlug": "aqua-step",
+        "pokeapiMoveId": 872,
+        "showdownKey": "aquastep",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 80,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "aquatail",
+        "displayName": "Aqua Tail",
+        "pokeapiSlug": "aqua-tail",
+        "pokeapiMoveId": 401,
+        "showdownKey": "aquatail",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 90,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": true
+        }
+      }
+    ],
+    "pokeapiOnlyFirst100": [
+      {
+        "matchKey": "aciddownpourphysical",
+        "displayName": "Acid Downpour  Physical",
+        "pokeapiSlug": "acid-downpour--physical",
+        "pokeapiMoveId": 628,
+        "showdownKey": null,
+        "primaryType": "poison",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "aciddownpourspecial",
+        "displayName": "Acid Downpour  Special",
+        "pokeapiSlug": "acid-downpour--special",
+        "pokeapiMoveId": 629,
+        "showdownKey": null,
+        "primaryType": "poison",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "alloutpummelingphysical",
+        "displayName": "All Out Pummeling  Physical",
+        "pokeapiSlug": "all-out-pummeling--physical",
+        "pokeapiMoveId": 624,
+        "showdownKey": null,
+        "primaryType": "fighting",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "alloutpummelingspecial",
+        "displayName": "All Out Pummeling  Special",
+        "pokeapiSlug": "all-out-pummeling--special",
+        "pokeapiMoveId": 625,
+        "showdownKey": null,
+        "primaryType": "fighting",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "blackholeeclipsephysical",
+        "displayName": "Black Hole Eclipse  Physical",
+        "pokeapiSlug": "black-hole-eclipse--physical",
+        "pokeapiMoveId": 654,
+        "showdownKey": null,
+        "primaryType": "dark",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "blackholeeclipsespecial",
+        "displayName": "Black Hole Eclipse  Special",
+        "pokeapiSlug": "black-hole-eclipse--special",
+        "pokeapiMoveId": 655,
+        "showdownKey": null,
+        "primaryType": "dark",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "bloomdoomphysical",
+        "displayName": "Bloom Doom  Physical",
+        "pokeapiSlug": "bloom-doom--physical",
+        "pokeapiMoveId": 644,
+        "showdownKey": null,
+        "primaryType": "grass",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "bloomdoomspecial",
+        "displayName": "Bloom Doom  Special",
+        "pokeapiSlug": "bloom-doom--special",
+        "pokeapiMoveId": 645,
+        "showdownKey": null,
+        "primaryType": "grass",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "breakneckblitzphysical",
+        "displayName": "Breakneck Blitz  Physical",
+        "pokeapiSlug": "breakneck-blitz--physical",
+        "pokeapiMoveId": 622,
+        "showdownKey": null,
+        "primaryType": "normal",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "breakneckblitzspecial",
+        "displayName": "Breakneck Blitz  Special",
+        "pokeapiSlug": "breakneck-blitz--special",
+        "pokeapiMoveId": 623,
+        "showdownKey": null,
+        "primaryType": "normal",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "continentalcrushphysical",
+        "displayName": "Continental Crush  Physical",
+        "pokeapiSlug": "continental-crush--physical",
+        "pokeapiMoveId": 632,
+        "showdownKey": null,
+        "primaryType": "rock",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "continentalcrushspecial",
+        "displayName": "Continental Crush  Special",
+        "pokeapiSlug": "continental-crush--special",
+        "pokeapiMoveId": 633,
+        "showdownKey": null,
+        "primaryType": "rock",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "corkscrewcrashphysical",
+        "displayName": "Corkscrew Crash  Physical",
+        "pokeapiSlug": "corkscrew-crash--physical",
+        "pokeapiMoveId": 638,
+        "showdownKey": null,
+        "primaryType": "steel",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "corkscrewcrashspecial",
+        "displayName": "Corkscrew Crash  Special",
+        "pokeapiSlug": "corkscrew-crash--special",
+        "pokeapiMoveId": 639,
+        "showdownKey": null,
+        "primaryType": "steel",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "devastatingdrakephysical",
+        "displayName": "Devastating Drake  Physical",
+        "pokeapiSlug": "devastating-drake--physical",
+        "pokeapiMoveId": 652,
+        "showdownKey": null,
+        "primaryType": "dragon",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "devastatingdrakespecial",
+        "displayName": "Devastating Drake  Special",
+        "pokeapiSlug": "devastating-drake--special",
+        "pokeapiMoveId": 653,
+        "showdownKey": null,
+        "primaryType": "dragon",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "gigavolthavocphysical",
+        "displayName": "Gigavolt Havoc  Physical",
+        "pokeapiSlug": "gigavolt-havoc--physical",
+        "pokeapiMoveId": 646,
+        "showdownKey": null,
+        "primaryType": "electric",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "gigavolthavocspecial",
+        "displayName": "Gigavolt Havoc  Special",
+        "pokeapiSlug": "gigavolt-havoc--special",
+        "pokeapiMoveId": 647,
+        "showdownKey": null,
+        "primaryType": "electric",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "hydrovortexphysical",
+        "displayName": "Hydro Vortex  Physical",
+        "pokeapiSlug": "hydro-vortex--physical",
+        "pokeapiMoveId": 642,
+        "showdownKey": null,
+        "primaryType": "water",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "hydrovortexspecial",
+        "displayName": "Hydro Vortex  Special",
+        "pokeapiSlug": "hydro-vortex--special",
+        "pokeapiMoveId": 643,
+        "showdownKey": null,
+        "primaryType": "water",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "infernooverdrivephysical",
+        "displayName": "Inferno Overdrive  Physical",
+        "pokeapiSlug": "inferno-overdrive--physical",
+        "pokeapiMoveId": 640,
+        "showdownKey": null,
+        "primaryType": "fire",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "infernooverdrivespecial",
+        "displayName": "Inferno Overdrive  Special",
+        "pokeapiSlug": "inferno-overdrive--special",
+        "pokeapiMoveId": 641,
+        "showdownKey": null,
+        "primaryType": "fire",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "neverendingnightmarephysical",
+        "displayName": "Never Ending Nightmare  Physical",
+        "pokeapiSlug": "never-ending-nightmare--physical",
+        "pokeapiMoveId": 636,
+        "showdownKey": null,
+        "primaryType": "ghost",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "neverendingnightmarespecial",
+        "displayName": "Never Ending Nightmare  Special",
+        "pokeapiSlug": "never-ending-nightmare--special",
+        "pokeapiMoveId": 637,
+        "showdownKey": null,
+        "primaryType": "ghost",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "savagespinoutphysical",
+        "displayName": "Savage Spin Out  Physical",
+        "pokeapiSlug": "savage-spin-out--physical",
+        "pokeapiMoveId": 634,
+        "showdownKey": null,
+        "primaryType": "bug",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "savagespinoutspecial",
+        "displayName": "Savage Spin Out  Special",
+        "pokeapiSlug": "savage-spin-out--special",
+        "pokeapiMoveId": 635,
+        "showdownKey": null,
+        "primaryType": "bug",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowblast",
+        "displayName": "Shadow Blast",
+        "pokeapiSlug": "shadow-blast",
+        "pokeapiMoveId": 10002,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "physical",
+        "primaryPower": 80,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowblitz",
+        "displayName": "Shadow Blitz",
+        "pokeapiSlug": "shadow-blitz",
+        "pokeapiMoveId": 10003,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "physical",
+        "primaryPower": 40,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowbolt",
+        "displayName": "Shadow Bolt",
+        "pokeapiSlug": "shadow-bolt",
+        "pokeapiMoveId": 10004,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": 75,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowbreak",
+        "displayName": "Shadow Break",
+        "pokeapiSlug": "shadow-break",
+        "pokeapiMoveId": 10005,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "physical",
+        "primaryPower": 75,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowchill",
+        "displayName": "Shadow Chill",
+        "pokeapiSlug": "shadow-chill",
+        "pokeapiMoveId": 10006,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": 75,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowdown",
+        "displayName": "Shadow Down",
+        "pokeapiSlug": "shadow-down",
+        "pokeapiMoveId": 10012,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "status",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowend",
+        "displayName": "Shadow End",
+        "pokeapiSlug": "shadow-end",
+        "pokeapiMoveId": 10007,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "physical",
+        "primaryPower": 120,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowfire",
+        "displayName": "Shadow Fire",
+        "pokeapiSlug": "shadow-fire",
+        "pokeapiMoveId": 10008,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": 75,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowhalf",
+        "displayName": "Shadow Half",
+        "pokeapiSlug": "shadow-half",
+        "pokeapiMoveId": 10013,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowhold",
+        "displayName": "Shadow Hold",
+        "pokeapiSlug": "shadow-hold",
+        "pokeapiMoveId": 10014,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "status",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowmist",
+        "displayName": "Shadow Mist",
+        "pokeapiSlug": "shadow-mist",
+        "pokeapiMoveId": 10015,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "status",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowpanic",
+        "displayName": "Shadow Panic",
+        "pokeapiSlug": "shadow-panic",
+        "pokeapiMoveId": 10016,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "status",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowrave",
+        "displayName": "Shadow Rave",
+        "pokeapiSlug": "shadow-rave",
+        "pokeapiMoveId": 10009,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": 70,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowrush",
+        "displayName": "Shadow Rush",
+        "pokeapiSlug": "shadow-rush",
+        "pokeapiMoveId": 10001,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "physical",
+        "primaryPower": 55,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowshed",
+        "displayName": "Shadow Shed",
+        "pokeapiSlug": "shadow-shed",
+        "pokeapiMoveId": 10017,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "status",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowsky",
+        "displayName": "Shadow Sky",
+        "pokeapiSlug": "shadow-sky",
+        "pokeapiMoveId": 10018,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "status",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowstorm",
+        "displayName": "Shadow Storm",
+        "pokeapiSlug": "shadow-storm",
+        "pokeapiMoveId": 10010,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": 95,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowwave",
+        "displayName": "Shadow Wave",
+        "pokeapiSlug": "shadow-wave",
+        "pokeapiMoveId": 10011,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": 50,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shatteredpsychephysical",
+        "displayName": "Shattered Psyche  Physical",
+        "pokeapiSlug": "shattered-psyche--physical",
+        "pokeapiMoveId": 648,
+        "showdownKey": null,
+        "primaryType": "psychic",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shatteredpsychespecial",
+        "displayName": "Shattered Psyche  Special",
+        "pokeapiSlug": "shattered-psyche--special",
+        "pokeapiMoveId": 649,
+        "showdownKey": null,
+        "primaryType": "psychic",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "subzeroslammerphysical",
+        "displayName": "Subzero Slammer  Physical",
+        "pokeapiSlug": "subzero-slammer--physical",
+        "pokeapiMoveId": 650,
+        "showdownKey": null,
+        "primaryType": "ice",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "subzeroslammerspecial",
+        "displayName": "Subzero Slammer  Special",
+        "pokeapiSlug": "subzero-slammer--special",
+        "pokeapiMoveId": 651,
+        "showdownKey": null,
+        "primaryType": "ice",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "supersonicskystrikephysical",
+        "displayName": "Supersonic Skystrike  Physical",
+        "pokeapiSlug": "supersonic-skystrike--physical",
+        "pokeapiMoveId": 626,
+        "showdownKey": null,
+        "primaryType": "flying",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "supersonicskystrikespecial",
+        "displayName": "Supersonic Skystrike  Special",
+        "pokeapiSlug": "supersonic-skystrike--special",
+        "pokeapiMoveId": 627,
+        "showdownKey": null,
+        "primaryType": "flying",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "tectonicragephysical",
+        "displayName": "Tectonic Rage  Physical",
+        "pokeapiSlug": "tectonic-rage--physical",
+        "pokeapiMoveId": 630,
+        "showdownKey": null,
+        "primaryType": "ground",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "tectonicragespecial",
+        "displayName": "Tectonic Rage  Special",
+        "pokeapiSlug": "tectonic-rage--special",
+        "pokeapiMoveId": 631,
+        "showdownKey": null,
+        "primaryType": "ground",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "twinkletacklephysical",
+        "displayName": "Twinkle Tackle  Physical",
+        "pokeapiSlug": "twinkle-tackle--physical",
+        "pokeapiMoveId": 656,
+        "showdownKey": null,
+        "primaryType": "fairy",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "twinkletacklespecial",
+        "displayName": "Twinkle Tackle  Special",
+        "pokeapiSlug": "twinkle-tackle--special",
+        "pokeapiMoveId": 657,
+        "showdownKey": null,
+        "primaryType": "fairy",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "vicegrip",
+        "displayName": "Vice Grip",
+        "pokeapiSlug": "vice-grip",
+        "pokeapiMoveId": 11,
+        "showdownKey": null,
+        "primaryType": "normal",
+        "primaryCategory": "physical",
+        "primaryPower": 55,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      }
+    ],
+    "showdownOnlyFirst100": [
+      {
+        "matchKey": "aciddownpour",
+        "displayName": "Acid Downpour",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "aciddownpour",
+        "primaryType": "Poison",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "alloutpummeling",
+        "displayName": "All-Out Pummeling",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "alloutpummeling",
+        "primaryType": "Fighting",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "blackholeeclipse",
+        "displayName": "Black Hole Eclipse",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "blackholeeclipse",
+        "primaryType": "Dark",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "bloomdoom",
+        "displayName": "Bloom Doom",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "bloomdoom",
+        "primaryType": "Grass",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "breakneckblitz",
+        "displayName": "Breakneck Blitz",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "breakneckblitz",
+        "primaryType": "Normal",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "continentalcrush",
+        "displayName": "Continental Crush",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "continentalcrush",
+        "primaryType": "Rock",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "corkscrewcrash",
+        "displayName": "Corkscrew Crash",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "corkscrewcrash",
+        "primaryType": "Steel",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "devastatingdrake",
+        "displayName": "Devastating Drake",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "devastatingdrake",
+        "primaryType": "Dragon",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxbefuddle",
+        "displayName": "G-Max Befuddle",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxbefuddle",
+        "primaryType": "Bug",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxcannonade",
+        "displayName": "G-Max Cannonade",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxcannonade",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxcentiferno",
+        "displayName": "G-Max Centiferno",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxcentiferno",
+        "primaryType": "Fire",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxchistrike",
+        "displayName": "G-Max Chi Strike",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxchistrike",
+        "primaryType": "Fighting",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxcuddle",
+        "displayName": "G-Max Cuddle",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxcuddle",
+        "primaryType": "Normal",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxdepletion",
+        "displayName": "G-Max Depletion",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxdepletion",
+        "primaryType": "Dragon",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxdrumsolo",
+        "displayName": "G-Max Drum Solo",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxdrumsolo",
+        "primaryType": "Grass",
+        "primaryCategory": "Physical",
+        "primaryPower": 160,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxfinale",
+        "displayName": "G-Max Finale",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxfinale",
+        "primaryType": "Fairy",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxfireball",
+        "displayName": "G-Max Fireball",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxfireball",
+        "primaryType": "Fire",
+        "primaryCategory": "Physical",
+        "primaryPower": 160,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxfoamburst",
+        "displayName": "G-Max Foam Burst",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxfoamburst",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxgoldrush",
+        "displayName": "G-Max Gold Rush",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxgoldrush",
+        "primaryType": "Normal",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxgravitas",
+        "displayName": "G-Max Gravitas",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxgravitas",
+        "primaryType": "Psychic",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxhydrosnipe",
+        "displayName": "G-Max Hydrosnipe",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxhydrosnipe",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 160,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxmalodor",
+        "displayName": "G-Max Malodor",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxmalodor",
+        "primaryType": "Poison",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxmeltdown",
+        "displayName": "G-Max Meltdown",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxmeltdown",
+        "primaryType": "Steel",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxoneblow",
+        "displayName": "G-Max One Blow",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxoneblow",
+        "primaryType": "Dark",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxrapidflow",
+        "displayName": "G-Max Rapid Flow",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxrapidflow",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxreplenish",
+        "displayName": "G-Max Replenish",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxreplenish",
+        "primaryType": "Normal",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxresonance",
+        "displayName": "G-Max Resonance",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxresonance",
+        "primaryType": "Ice",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxsandblast",
+        "displayName": "G-Max Sandblast",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxsandblast",
+        "primaryType": "Ground",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxsmite",
+        "displayName": "G-Max Smite",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxsmite",
+        "primaryType": "Fairy",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxsnooze",
+        "displayName": "G-Max Snooze",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxsnooze",
+        "primaryType": "Dark",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxsteelsurge",
+        "displayName": "G-Max Steelsurge",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxsteelsurge",
+        "primaryType": "Steel",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxstonesurge",
+        "displayName": "G-Max Stonesurge",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxstonesurge",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxstunshock",
+        "displayName": "G-Max Stun Shock",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxstunshock",
+        "primaryType": "Electric",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxsweetness",
+        "displayName": "G-Max Sweetness",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxsweetness",
+        "primaryType": "Grass",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxtartness",
+        "displayName": "G-Max Tartness",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxtartness",
+        "primaryType": "Grass",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxterror",
+        "displayName": "G-Max Terror",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxterror",
+        "primaryType": "Ghost",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxvinelash",
+        "displayName": "G-Max Vine Lash",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxvinelash",
+        "primaryType": "Grass",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxvolcalith",
+        "displayName": "G-Max Volcalith",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxvolcalith",
+        "primaryType": "Rock",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxvoltcrash",
+        "displayName": "G-Max Volt Crash",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxvoltcrash",
+        "primaryType": "Electric",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxwildfire",
+        "displayName": "G-Max Wildfire",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxwildfire",
+        "primaryType": "Fire",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxwindrage",
+        "displayName": "G-Max Wind Rage",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxwindrage",
+        "primaryType": "Flying",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gigavolthavoc",
+        "displayName": "Gigavolt Havoc",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gigavolthavoc",
+        "primaryType": "Electric",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerbug",
+        "displayName": "Hidden Power Bug",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerbug",
+        "primaryType": "Bug",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerdark",
+        "displayName": "Hidden Power Dark",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerdark",
+        "primaryType": "Dark",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerdragon",
+        "displayName": "Hidden Power Dragon",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerdragon",
+        "primaryType": "Dragon",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerelectric",
+        "displayName": "Hidden Power Electric",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerelectric",
+        "primaryType": "Electric",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerfighting",
+        "displayName": "Hidden Power Fighting",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerfighting",
+        "primaryType": "Fighting",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerfire",
+        "displayName": "Hidden Power Fire",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerfire",
+        "primaryType": "Fire",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerflying",
+        "displayName": "Hidden Power Flying",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerflying",
+        "primaryType": "Flying",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerghost",
+        "displayName": "Hidden Power Ghost",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerghost",
+        "primaryType": "Ghost",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowergrass",
+        "displayName": "Hidden Power Grass",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowergrass",
+        "primaryType": "Grass",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerground",
+        "displayName": "Hidden Power Ground",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerground",
+        "primaryType": "Ground",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerice",
+        "displayName": "Hidden Power Ice",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerice",
+        "primaryType": "Ice",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerpoison",
+        "displayName": "Hidden Power Poison",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerpoison",
+        "primaryType": "Poison",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerpsychic",
+        "displayName": "Hidden Power Psychic",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerpsychic",
+        "primaryType": "Psychic",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerrock",
+        "displayName": "Hidden Power Rock",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerrock",
+        "primaryType": "Rock",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowersteel",
+        "displayName": "Hidden Power Steel",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowersteel",
+        "primaryType": "Steel",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerwater",
+        "displayName": "Hidden Power Water",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerwater",
+        "primaryType": "Water",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hydrovortex",
+        "displayName": "Hydro Vortex",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hydrovortex",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "infernooverdrive",
+        "displayName": "Inferno Overdrive",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "infernooverdrive",
+        "primaryType": "Fire",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "neverendingnightmare",
+        "displayName": "Never-Ending Nightmare",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "neverendingnightmare",
+        "primaryType": "Ghost",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "nihillight",
+        "displayName": "Nihil Light",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "nihillight",
+        "primaryType": "Dragon",
+        "primaryCategory": "Special",
+        "primaryPower": 100,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "paleowave",
+        "displayName": "Paleo Wave",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "paleowave",
+        "primaryType": "Rock",
+        "primaryCategory": "Special",
+        "primaryPower": 85,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "polarflare",
+        "displayName": "Polar Flare",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "polarflare",
+        "primaryType": "Fire",
+        "primaryCategory": "Special",
+        "primaryPower": 75,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "savagespinout",
+        "displayName": "Savage Spin-Out",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "savagespinout",
+        "primaryType": "Bug",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "shadowstrike",
+        "displayName": "Shadow Strike",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "shadowstrike",
+        "primaryType": "Ghost",
+        "primaryCategory": "Physical",
+        "primaryPower": 80,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "shatteredpsyche",
+        "displayName": "Shattered Psyche",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "shatteredpsyche",
+        "primaryType": "Psychic",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "subzeroslammer",
+        "displayName": "Subzero Slammer",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "subzeroslammer",
+        "primaryType": "Ice",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "supersonicskystrike",
+        "displayName": "Supersonic Skystrike",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "supersonicskystrike",
+        "primaryType": "Flying",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "tectonicrage",
+        "displayName": "Tectonic Rage",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "tectonicrage",
+        "primaryType": "Ground",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "twinkletackle",
+        "displayName": "Twinkle Tackle",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "twinkletackle",
+        "primaryType": "Fairy",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "visegrip",
+        "displayName": "Vise Grip",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "visegrip",
+        "primaryType": "Normal",
+        "primaryCategory": "Physical",
+        "primaryPower": 55,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      }
+    ],
+    "neither": []
+  },
+  "fullLists": {
+    "pokeapiOnly": [
+      {
+        "matchKey": "aciddownpourphysical",
+        "displayName": "Acid Downpour  Physical",
+        "pokeapiSlug": "acid-downpour--physical",
+        "pokeapiMoveId": 628,
+        "showdownKey": null,
+        "primaryType": "poison",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "aciddownpourspecial",
+        "displayName": "Acid Downpour  Special",
+        "pokeapiSlug": "acid-downpour--special",
+        "pokeapiMoveId": 629,
+        "showdownKey": null,
+        "primaryType": "poison",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "alloutpummelingphysical",
+        "displayName": "All Out Pummeling  Physical",
+        "pokeapiSlug": "all-out-pummeling--physical",
+        "pokeapiMoveId": 624,
+        "showdownKey": null,
+        "primaryType": "fighting",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "alloutpummelingspecial",
+        "displayName": "All Out Pummeling  Special",
+        "pokeapiSlug": "all-out-pummeling--special",
+        "pokeapiMoveId": 625,
+        "showdownKey": null,
+        "primaryType": "fighting",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "blackholeeclipsephysical",
+        "displayName": "Black Hole Eclipse  Physical",
+        "pokeapiSlug": "black-hole-eclipse--physical",
+        "pokeapiMoveId": 654,
+        "showdownKey": null,
+        "primaryType": "dark",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "blackholeeclipsespecial",
+        "displayName": "Black Hole Eclipse  Special",
+        "pokeapiSlug": "black-hole-eclipse--special",
+        "pokeapiMoveId": 655,
+        "showdownKey": null,
+        "primaryType": "dark",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "bloomdoomphysical",
+        "displayName": "Bloom Doom  Physical",
+        "pokeapiSlug": "bloom-doom--physical",
+        "pokeapiMoveId": 644,
+        "showdownKey": null,
+        "primaryType": "grass",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "bloomdoomspecial",
+        "displayName": "Bloom Doom  Special",
+        "pokeapiSlug": "bloom-doom--special",
+        "pokeapiMoveId": 645,
+        "showdownKey": null,
+        "primaryType": "grass",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "breakneckblitzphysical",
+        "displayName": "Breakneck Blitz  Physical",
+        "pokeapiSlug": "breakneck-blitz--physical",
+        "pokeapiMoveId": 622,
+        "showdownKey": null,
+        "primaryType": "normal",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "breakneckblitzspecial",
+        "displayName": "Breakneck Blitz  Special",
+        "pokeapiSlug": "breakneck-blitz--special",
+        "pokeapiMoveId": 623,
+        "showdownKey": null,
+        "primaryType": "normal",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "continentalcrushphysical",
+        "displayName": "Continental Crush  Physical",
+        "pokeapiSlug": "continental-crush--physical",
+        "pokeapiMoveId": 632,
+        "showdownKey": null,
+        "primaryType": "rock",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "continentalcrushspecial",
+        "displayName": "Continental Crush  Special",
+        "pokeapiSlug": "continental-crush--special",
+        "pokeapiMoveId": 633,
+        "showdownKey": null,
+        "primaryType": "rock",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "corkscrewcrashphysical",
+        "displayName": "Corkscrew Crash  Physical",
+        "pokeapiSlug": "corkscrew-crash--physical",
+        "pokeapiMoveId": 638,
+        "showdownKey": null,
+        "primaryType": "steel",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "corkscrewcrashspecial",
+        "displayName": "Corkscrew Crash  Special",
+        "pokeapiSlug": "corkscrew-crash--special",
+        "pokeapiMoveId": 639,
+        "showdownKey": null,
+        "primaryType": "steel",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "devastatingdrakephysical",
+        "displayName": "Devastating Drake  Physical",
+        "pokeapiSlug": "devastating-drake--physical",
+        "pokeapiMoveId": 652,
+        "showdownKey": null,
+        "primaryType": "dragon",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "devastatingdrakespecial",
+        "displayName": "Devastating Drake  Special",
+        "pokeapiSlug": "devastating-drake--special",
+        "pokeapiMoveId": 653,
+        "showdownKey": null,
+        "primaryType": "dragon",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "gigavolthavocphysical",
+        "displayName": "Gigavolt Havoc  Physical",
+        "pokeapiSlug": "gigavolt-havoc--physical",
+        "pokeapiMoveId": 646,
+        "showdownKey": null,
+        "primaryType": "electric",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "gigavolthavocspecial",
+        "displayName": "Gigavolt Havoc  Special",
+        "pokeapiSlug": "gigavolt-havoc--special",
+        "pokeapiMoveId": 647,
+        "showdownKey": null,
+        "primaryType": "electric",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "hydrovortexphysical",
+        "displayName": "Hydro Vortex  Physical",
+        "pokeapiSlug": "hydro-vortex--physical",
+        "pokeapiMoveId": 642,
+        "showdownKey": null,
+        "primaryType": "water",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "hydrovortexspecial",
+        "displayName": "Hydro Vortex  Special",
+        "pokeapiSlug": "hydro-vortex--special",
+        "pokeapiMoveId": 643,
+        "showdownKey": null,
+        "primaryType": "water",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "infernooverdrivephysical",
+        "displayName": "Inferno Overdrive  Physical",
+        "pokeapiSlug": "inferno-overdrive--physical",
+        "pokeapiMoveId": 640,
+        "showdownKey": null,
+        "primaryType": "fire",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "infernooverdrivespecial",
+        "displayName": "Inferno Overdrive  Special",
+        "pokeapiSlug": "inferno-overdrive--special",
+        "pokeapiMoveId": 641,
+        "showdownKey": null,
+        "primaryType": "fire",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "neverendingnightmarephysical",
+        "displayName": "Never Ending Nightmare  Physical",
+        "pokeapiSlug": "never-ending-nightmare--physical",
+        "pokeapiMoveId": 636,
+        "showdownKey": null,
+        "primaryType": "ghost",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "neverendingnightmarespecial",
+        "displayName": "Never Ending Nightmare  Special",
+        "pokeapiSlug": "never-ending-nightmare--special",
+        "pokeapiMoveId": 637,
+        "showdownKey": null,
+        "primaryType": "ghost",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "savagespinoutphysical",
+        "displayName": "Savage Spin Out  Physical",
+        "pokeapiSlug": "savage-spin-out--physical",
+        "pokeapiMoveId": 634,
+        "showdownKey": null,
+        "primaryType": "bug",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "savagespinoutspecial",
+        "displayName": "Savage Spin Out  Special",
+        "pokeapiSlug": "savage-spin-out--special",
+        "pokeapiMoveId": 635,
+        "showdownKey": null,
+        "primaryType": "bug",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowblast",
+        "displayName": "Shadow Blast",
+        "pokeapiSlug": "shadow-blast",
+        "pokeapiMoveId": 10002,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "physical",
+        "primaryPower": 80,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowblitz",
+        "displayName": "Shadow Blitz",
+        "pokeapiSlug": "shadow-blitz",
+        "pokeapiMoveId": 10003,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "physical",
+        "primaryPower": 40,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowbolt",
+        "displayName": "Shadow Bolt",
+        "pokeapiSlug": "shadow-bolt",
+        "pokeapiMoveId": 10004,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": 75,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowbreak",
+        "displayName": "Shadow Break",
+        "pokeapiSlug": "shadow-break",
+        "pokeapiMoveId": 10005,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "physical",
+        "primaryPower": 75,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowchill",
+        "displayName": "Shadow Chill",
+        "pokeapiSlug": "shadow-chill",
+        "pokeapiMoveId": 10006,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": 75,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowdown",
+        "displayName": "Shadow Down",
+        "pokeapiSlug": "shadow-down",
+        "pokeapiMoveId": 10012,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "status",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowend",
+        "displayName": "Shadow End",
+        "pokeapiSlug": "shadow-end",
+        "pokeapiMoveId": 10007,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "physical",
+        "primaryPower": 120,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowfire",
+        "displayName": "Shadow Fire",
+        "pokeapiSlug": "shadow-fire",
+        "pokeapiMoveId": 10008,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": 75,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowhalf",
+        "displayName": "Shadow Half",
+        "pokeapiSlug": "shadow-half",
+        "pokeapiMoveId": 10013,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowhold",
+        "displayName": "Shadow Hold",
+        "pokeapiSlug": "shadow-hold",
+        "pokeapiMoveId": 10014,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "status",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowmist",
+        "displayName": "Shadow Mist",
+        "pokeapiSlug": "shadow-mist",
+        "pokeapiMoveId": 10015,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "status",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowpanic",
+        "displayName": "Shadow Panic",
+        "pokeapiSlug": "shadow-panic",
+        "pokeapiMoveId": 10016,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "status",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowrave",
+        "displayName": "Shadow Rave",
+        "pokeapiSlug": "shadow-rave",
+        "pokeapiMoveId": 10009,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": 70,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowrush",
+        "displayName": "Shadow Rush",
+        "pokeapiSlug": "shadow-rush",
+        "pokeapiMoveId": 10001,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "physical",
+        "primaryPower": 55,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowshed",
+        "displayName": "Shadow Shed",
+        "pokeapiSlug": "shadow-shed",
+        "pokeapiMoveId": 10017,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "status",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowsky",
+        "displayName": "Shadow Sky",
+        "pokeapiSlug": "shadow-sky",
+        "pokeapiMoveId": 10018,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "status",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowstorm",
+        "displayName": "Shadow Storm",
+        "pokeapiSlug": "shadow-storm",
+        "pokeapiMoveId": 10010,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": 95,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shadowwave",
+        "displayName": "Shadow Wave",
+        "pokeapiSlug": "shadow-wave",
+        "pokeapiMoveId": 10011,
+        "showdownKey": null,
+        "primaryType": "shadow",
+        "primaryCategory": "special",
+        "primaryPower": 50,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shatteredpsychephysical",
+        "displayName": "Shattered Psyche  Physical",
+        "pokeapiSlug": "shattered-psyche--physical",
+        "pokeapiMoveId": 648,
+        "showdownKey": null,
+        "primaryType": "psychic",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "shatteredpsychespecial",
+        "displayName": "Shattered Psyche  Special",
+        "pokeapiSlug": "shattered-psyche--special",
+        "pokeapiMoveId": 649,
+        "showdownKey": null,
+        "primaryType": "psychic",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "subzeroslammerphysical",
+        "displayName": "Subzero Slammer  Physical",
+        "pokeapiSlug": "subzero-slammer--physical",
+        "pokeapiMoveId": 650,
+        "showdownKey": null,
+        "primaryType": "ice",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "subzeroslammerspecial",
+        "displayName": "Subzero Slammer  Special",
+        "pokeapiSlug": "subzero-slammer--special",
+        "pokeapiMoveId": 651,
+        "showdownKey": null,
+        "primaryType": "ice",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "supersonicskystrikephysical",
+        "displayName": "Supersonic Skystrike  Physical",
+        "pokeapiSlug": "supersonic-skystrike--physical",
+        "pokeapiMoveId": 626,
+        "showdownKey": null,
+        "primaryType": "flying",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "supersonicskystrikespecial",
+        "displayName": "Supersonic Skystrike  Special",
+        "pokeapiSlug": "supersonic-skystrike--special",
+        "pokeapiMoveId": 627,
+        "showdownKey": null,
+        "primaryType": "flying",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "tectonicragephysical",
+        "displayName": "Tectonic Rage  Physical",
+        "pokeapiSlug": "tectonic-rage--physical",
+        "pokeapiMoveId": 630,
+        "showdownKey": null,
+        "primaryType": "ground",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "tectonicragespecial",
+        "displayName": "Tectonic Rage  Special",
+        "pokeapiSlug": "tectonic-rage--special",
+        "pokeapiMoveId": 631,
+        "showdownKey": null,
+        "primaryType": "ground",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "twinkletacklephysical",
+        "displayName": "Twinkle Tackle  Physical",
+        "pokeapiSlug": "twinkle-tackle--physical",
+        "pokeapiMoveId": 656,
+        "showdownKey": null,
+        "primaryType": "fairy",
+        "primaryCategory": "physical",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "twinkletacklespecial",
+        "displayName": "Twinkle Tackle  Special",
+        "pokeapiSlug": "twinkle-tackle--special",
+        "pokeapiMoveId": 657,
+        "showdownKey": null,
+        "primaryType": "fairy",
+        "primaryCategory": "special",
+        "primaryPower": null,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      },
+      {
+        "matchKey": "vicegrip",
+        "displayName": "Vice Grip",
+        "pokeapiSlug": "vice-grip",
+        "pokeapiMoveId": 11,
+        "showdownKey": null,
+        "primaryType": "normal",
+        "primaryCategory": "physical",
+        "primaryPower": 55,
+        "sourceCoverage": {
+          "hasPokeApiMove": true,
+          "hasShowdownMove": false
+        }
+      }
+    ],
+    "showdownOnly": [
+      {
+        "matchKey": "aciddownpour",
+        "displayName": "Acid Downpour",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "aciddownpour",
+        "primaryType": "Poison",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "alloutpummeling",
+        "displayName": "All-Out Pummeling",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "alloutpummeling",
+        "primaryType": "Fighting",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "blackholeeclipse",
+        "displayName": "Black Hole Eclipse",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "blackholeeclipse",
+        "primaryType": "Dark",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "bloomdoom",
+        "displayName": "Bloom Doom",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "bloomdoom",
+        "primaryType": "Grass",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "breakneckblitz",
+        "displayName": "Breakneck Blitz",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "breakneckblitz",
+        "primaryType": "Normal",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "continentalcrush",
+        "displayName": "Continental Crush",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "continentalcrush",
+        "primaryType": "Rock",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "corkscrewcrash",
+        "displayName": "Corkscrew Crash",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "corkscrewcrash",
+        "primaryType": "Steel",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "devastatingdrake",
+        "displayName": "Devastating Drake",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "devastatingdrake",
+        "primaryType": "Dragon",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxbefuddle",
+        "displayName": "G-Max Befuddle",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxbefuddle",
+        "primaryType": "Bug",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxcannonade",
+        "displayName": "G-Max Cannonade",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxcannonade",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxcentiferno",
+        "displayName": "G-Max Centiferno",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxcentiferno",
+        "primaryType": "Fire",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxchistrike",
+        "displayName": "G-Max Chi Strike",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxchistrike",
+        "primaryType": "Fighting",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxcuddle",
+        "displayName": "G-Max Cuddle",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxcuddle",
+        "primaryType": "Normal",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxdepletion",
+        "displayName": "G-Max Depletion",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxdepletion",
+        "primaryType": "Dragon",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxdrumsolo",
+        "displayName": "G-Max Drum Solo",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxdrumsolo",
+        "primaryType": "Grass",
+        "primaryCategory": "Physical",
+        "primaryPower": 160,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxfinale",
+        "displayName": "G-Max Finale",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxfinale",
+        "primaryType": "Fairy",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxfireball",
+        "displayName": "G-Max Fireball",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxfireball",
+        "primaryType": "Fire",
+        "primaryCategory": "Physical",
+        "primaryPower": 160,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxfoamburst",
+        "displayName": "G-Max Foam Burst",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxfoamburst",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxgoldrush",
+        "displayName": "G-Max Gold Rush",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxgoldrush",
+        "primaryType": "Normal",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxgravitas",
+        "displayName": "G-Max Gravitas",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxgravitas",
+        "primaryType": "Psychic",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxhydrosnipe",
+        "displayName": "G-Max Hydrosnipe",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxhydrosnipe",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 160,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxmalodor",
+        "displayName": "G-Max Malodor",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxmalodor",
+        "primaryType": "Poison",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxmeltdown",
+        "displayName": "G-Max Meltdown",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxmeltdown",
+        "primaryType": "Steel",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxoneblow",
+        "displayName": "G-Max One Blow",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxoneblow",
+        "primaryType": "Dark",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxrapidflow",
+        "displayName": "G-Max Rapid Flow",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxrapidflow",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxreplenish",
+        "displayName": "G-Max Replenish",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxreplenish",
+        "primaryType": "Normal",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxresonance",
+        "displayName": "G-Max Resonance",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxresonance",
+        "primaryType": "Ice",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxsandblast",
+        "displayName": "G-Max Sandblast",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxsandblast",
+        "primaryType": "Ground",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxsmite",
+        "displayName": "G-Max Smite",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxsmite",
+        "primaryType": "Fairy",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxsnooze",
+        "displayName": "G-Max Snooze",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxsnooze",
+        "primaryType": "Dark",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxsteelsurge",
+        "displayName": "G-Max Steelsurge",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxsteelsurge",
+        "primaryType": "Steel",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxstonesurge",
+        "displayName": "G-Max Stonesurge",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxstonesurge",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxstunshock",
+        "displayName": "G-Max Stun Shock",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxstunshock",
+        "primaryType": "Electric",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxsweetness",
+        "displayName": "G-Max Sweetness",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxsweetness",
+        "primaryType": "Grass",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxtartness",
+        "displayName": "G-Max Tartness",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxtartness",
+        "primaryType": "Grass",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxterror",
+        "displayName": "G-Max Terror",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxterror",
+        "primaryType": "Ghost",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxvinelash",
+        "displayName": "G-Max Vine Lash",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxvinelash",
+        "primaryType": "Grass",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxvolcalith",
+        "displayName": "G-Max Volcalith",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxvolcalith",
+        "primaryType": "Rock",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxvoltcrash",
+        "displayName": "G-Max Volt Crash",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxvoltcrash",
+        "primaryType": "Electric",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxwildfire",
+        "displayName": "G-Max Wildfire",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxwildfire",
+        "primaryType": "Fire",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gmaxwindrage",
+        "displayName": "G-Max Wind Rage",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gmaxwindrage",
+        "primaryType": "Flying",
+        "primaryCategory": "Physical",
+        "primaryPower": 10,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "gigavolthavoc",
+        "displayName": "Gigavolt Havoc",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "gigavolthavoc",
+        "primaryType": "Electric",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerbug",
+        "displayName": "Hidden Power Bug",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerbug",
+        "primaryType": "Bug",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerdark",
+        "displayName": "Hidden Power Dark",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerdark",
+        "primaryType": "Dark",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerdragon",
+        "displayName": "Hidden Power Dragon",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerdragon",
+        "primaryType": "Dragon",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerelectric",
+        "displayName": "Hidden Power Electric",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerelectric",
+        "primaryType": "Electric",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerfighting",
+        "displayName": "Hidden Power Fighting",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerfighting",
+        "primaryType": "Fighting",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerfire",
+        "displayName": "Hidden Power Fire",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerfire",
+        "primaryType": "Fire",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerflying",
+        "displayName": "Hidden Power Flying",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerflying",
+        "primaryType": "Flying",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerghost",
+        "displayName": "Hidden Power Ghost",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerghost",
+        "primaryType": "Ghost",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowergrass",
+        "displayName": "Hidden Power Grass",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowergrass",
+        "primaryType": "Grass",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerground",
+        "displayName": "Hidden Power Ground",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerground",
+        "primaryType": "Ground",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerice",
+        "displayName": "Hidden Power Ice",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerice",
+        "primaryType": "Ice",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerpoison",
+        "displayName": "Hidden Power Poison",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerpoison",
+        "primaryType": "Poison",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerpsychic",
+        "displayName": "Hidden Power Psychic",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerpsychic",
+        "primaryType": "Psychic",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerrock",
+        "displayName": "Hidden Power Rock",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerrock",
+        "primaryType": "Rock",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowersteel",
+        "displayName": "Hidden Power Steel",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowersteel",
+        "primaryType": "Steel",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hiddenpowerwater",
+        "displayName": "Hidden Power Water",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hiddenpowerwater",
+        "primaryType": "Water",
+        "primaryCategory": "Special",
+        "primaryPower": 60,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "hydrovortex",
+        "displayName": "Hydro Vortex",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "hydrovortex",
+        "primaryType": "Water",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "infernooverdrive",
+        "displayName": "Inferno Overdrive",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "infernooverdrive",
+        "primaryType": "Fire",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "neverendingnightmare",
+        "displayName": "Never-Ending Nightmare",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "neverendingnightmare",
+        "primaryType": "Ghost",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "nihillight",
+        "displayName": "Nihil Light",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "nihillight",
+        "primaryType": "Dragon",
+        "primaryCategory": "Special",
+        "primaryPower": 100,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "paleowave",
+        "displayName": "Paleo Wave",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "paleowave",
+        "primaryType": "Rock",
+        "primaryCategory": "Special",
+        "primaryPower": 85,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "polarflare",
+        "displayName": "Polar Flare",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "polarflare",
+        "primaryType": "Fire",
+        "primaryCategory": "Special",
+        "primaryPower": 75,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "savagespinout",
+        "displayName": "Savage Spin-Out",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "savagespinout",
+        "primaryType": "Bug",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "shadowstrike",
+        "displayName": "Shadow Strike",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "shadowstrike",
+        "primaryType": "Ghost",
+        "primaryCategory": "Physical",
+        "primaryPower": 80,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "shatteredpsyche",
+        "displayName": "Shattered Psyche",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "shatteredpsyche",
+        "primaryType": "Psychic",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "subzeroslammer",
+        "displayName": "Subzero Slammer",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "subzeroslammer",
+        "primaryType": "Ice",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "supersonicskystrike",
+        "displayName": "Supersonic Skystrike",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "supersonicskystrike",
+        "primaryType": "Flying",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "tectonicrage",
+        "displayName": "Tectonic Rage",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "tectonicrage",
+        "primaryType": "Ground",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "twinkletackle",
+        "displayName": "Twinkle Tackle",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "twinkletackle",
+        "primaryType": "Fairy",
+        "primaryCategory": "Physical",
+        "primaryPower": 1,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      },
+      {
+        "matchKey": "visegrip",
+        "displayName": "Vise Grip",
+        "pokeapiSlug": null,
+        "pokeapiMoveId": null,
+        "showdownKey": "visegrip",
+        "primaryType": "Normal",
+        "primaryCategory": "Physical",
+        "primaryPower": 55,
+        "sourceCoverage": {
+          "hasPokeApiMove": false,
+          "hasShowdownMove": true
+        }
+      }
+    ],
+    "neither": []
+  }
+}

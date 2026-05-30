@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP08",
+    "slug": "sp08",
+    "pageId": 182455,
+    "revisionId": 4114558
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp08__182455.json",
+    "revisionTimestamp": "2024-09-16T20:30:23Z",
+    "fetchedAt": "2026-05-14T15:49:55.771Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Catch The Wobbuffet!! (Japanese: ソーナンスをつかまえる！！ Catch !!) is the eighth chapter of the Ash & Pikachu manga.",
+  "plainText": "Catch The Wobbuffet!! (Japanese: ソーナンスをつかまえる！！ Catch !!) is the eighth chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nJessie\nJames\n\n===Pokémon===\n( )\n( )\n( )\n( )\n\n(×2)\n\n \n \n\n \n\nit:SP08",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Catch The Wobbuffet!! (Japanese: ソーナンスをつかまえる！！ Catch !!) is the eighth chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jessie\nJames"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n\n(×2)\n\n \n \n\n \n\nit:SP08"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP08",
+    "pageType": "chapter",
+    "searchableText": "SP08\nCategory:Ash & Pikachu chapters\nCatch The Wobbuffet!! (Japanese: ソーナンスをつかまえる！！ Catch !!) is the eighth chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 270,
+    "sectionCount": 3
+  }
+}

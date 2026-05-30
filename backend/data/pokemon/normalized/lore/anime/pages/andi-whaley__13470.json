@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Andi Whaley",
+    "slug": "andi-whaley",
+    "pageId": 13470,
+    "revisionId": 4527411
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:4Kids voice actors",
+    "sourceFileName": "andi-whaley__13470.json",
+    "revisionTimestamp": "2026-04-09T15:37:15Z",
+    "fetchedAt": "2026-05-14T14:01:07.396Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Andi Whaley (born 1 July 1978) is an American voice actress was one of the original voice actresses for the English-language dub of .",
+  "plainText": "Andi Whaley (born 1 July 1978) is an American voice actress was one of the original voice actresses for the English-language dub of .\n\n==Pokémon==\nWhaley started voicing characters on Pokémon during . Her most famous role was that of Cassidy, who had previously been voiced by Megan Hollingshead. For that role, Whaley was eventually replaced with Emily Williams.\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nCassidy (Pokémon Chronicles, AG132)\nLiza\n\n======Minor======\n\n=====Pokémon=====\n(Pokémon Chronicles)\n\n==Other non-Pokémon roles==\nLockette ( ) (4Kids version)\nMabel Moozipan ( )\nLaralie/Lala ( )\nCorina Buxworth ( )\n\n \n \n \n\nit:Andi Whaley",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Andi Whaley (born 1 July 1978) is an American voice actress was one of the original voice actresses for the English-language dub of ."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "Whaley started voicing characters on Pokémon during . Her most famous role was that of Cassidy, who had previously been voiced by Megan Hollingshead. For that role, Whaley was eventually replaced with Emily Williams."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Cassidy (Pokémon Chronicles, AG132)\nLiza"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(Pokémon Chronicles)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Lockette ( ) (4Kids version)\nMabel Moozipan ( )\nLaralie/Lala ( )\nCorina Buxworth ( )\n\n \n \n \n\nit:Andi Whaley"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Andi Whaley",
+    "pageType": "general-anime-lore",
+    "searchableText": "Andi Whaley\nCategory:4Kids voice actors\nAndi Whaley (born 1 July 1978) is an American voice actress was one of the original voice actresses for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Major",
+      "Pokémon",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 661,
+    "sectionCount": 5
+  }
+}

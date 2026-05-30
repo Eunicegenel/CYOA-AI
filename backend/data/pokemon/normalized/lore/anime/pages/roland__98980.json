@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Roland",
+    "slug": "roland",
+    "pageId": 98980,
+    "revisionId": 4168047
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "roland__98980.json",
+    "revisionTimestamp": "2024-10-26T09:17:35Z",
+    "fetchedAt": "2026-05-14T14:46:54.788Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Roland (Japanese: ヨーシチ Yōshichi) is a character of the day who appeared in An Elite Coverup! and a relative of the Sinnoh Elite Four member Bertha.\n\nRoland gave his to a disguised for them to raise and evolve it into a , unaware of their true intentions. Afterward, he met and and became attracted to his , which Roland later played with in a park. \n\nLater, with the help of his new friends—as well as Bertha—Roland was able to track down Team Rocket and be reunited with his Magby. With Bertha's encouragement, Roland had his Magby deliver the final blow to defeat Team Rocket.",
+  "plainText": "Roland (Japanese: ヨーシチ Yōshichi) is a character of the day who appeared in An Elite Coverup! and a relative of the Sinnoh Elite Four member Bertha.\n\nRoland gave his to a disguised for them to raise and evolve it into a , unaware of their true intentions. Afterward, he met and and became attracted to his , which Roland later played with in a park. \n\nLater, with the help of his new friends—as well as Bertha—Roland was able to track down Team Rocket and be reunited with his Magby. With Bertha's encouragement, Roland had his Magby deliver the final blow to defeat Team Rocket.\n\n==Pokémon==\nThis listing is of Roland's known in :\n \n\n==Voice actors==\n \n\n==Trivia==\nPrior to this episode's initial airing in the United States, the online summary given by Pokémon.com incorrectly referred to Roland as Ian.\n \n \n\n \n \n \n\nes:Roland\nfr:Jean (épisode 636)\nit:Roland\nja:ヨーシチ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Roland (Japanese: ヨーシチ Yōshichi) is a character of the day who appeared in An Elite Coverup! and a relative of the Sinnoh Elite Four member Bertha.\n\nRoland gave his to a disguised for them to raise and evolve it into a , unaware of their true intentions. Afterward, he met and and became attracted to his , which Roland later played with in a park. \n\nLater, with the help of his new friends—as well as Bertha—Roland was able to track down Team Rocket and be reunited with his Magby. With Bertha's encouragement, Roland had his Magby deliver the final blow to defeat Team Rocket."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Roland's known in :"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Prior to this episode's initial airing in the United States, the online summary given by Pokémon.com incorrectly referred to Roland as Ian.\n \n \n\n \n \n \n\nes:Roland\nfr:Jean (épisode 636)\nit:Roland\nja:ヨーシチ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Roland",
+    "pageType": "character",
+    "searchableText": "Roland\nCategory:Sinnoh characters of the day\nRoland (Japanese: ヨーシチ Yōshichi) is a character of the day who appeared in An Elite Coverup! and a relative of the Sinnoh Elite Four member Bertha.\n\nRoland gave his to a disguised for them to raise and evolve it into a , unaware of their true intentions. Afterward, he met and and became attracted to his , which Roland later played with in a park. \n\nLater, with the help of his new friends—as well as Bertha—Roland was able to track down Team Rocket and be reunited with his Magby. With Bertha's encouragement, Roland had his Magby deliver the final blow to defeat Team Rocket.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 866,
+    "sectionCount": 3
+  }
+}

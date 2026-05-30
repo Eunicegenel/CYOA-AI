@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Samantha Cooper",
+    "slug": "samantha-cooper",
+    "pageId": 239611,
+    "revisionId": 4323618
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "samantha-cooper__239611.json",
+    "revisionTimestamp": "2025-06-24T03:33:24Z",
+    "fetchedAt": "2026-05-14T14:48:09.069Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Samantha Cooper is a voice actress for the English dub of . She is currently affiliated with CESD Talent Agency.",
+  "plainText": "Samantha Cooper is a voice actress for the English dub of . She is currently affiliated with CESD Talent Agency.\n\n==Biography==\nCooper is an American voice actress currently living in New York. She joined the during , where she voiced Ash's Meltan and the species as a whole.\n\n==Pokémon roles==\n===Animation===\n==== ====\nAsh's Meltan\n( )\n\n==Other non-Pokémon roles==\nRachel (Parker & Steve)\nJacquelyn (Dates Like This)\nLisa (The Killing of Jacob Marr)\nFala ( )\n\n===Video games===\nCelina ( )\n\n==External links==\nTwitter\nInstagram\nOfficial website\nSound Cloud\n\n \n \n\nit:Samantha Cooper",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Samantha Cooper is a voice actress for the English dub of . She is currently affiliated with CESD Talent Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Cooper is an American voice actress currently living in New York. She joined the during , where she voiced Ash's Meltan and the species as a whole."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Ash's Meltan\n( )"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Rachel (Parker & Steve)\nJacquelyn (Dates Like This)\nLisa (The Killing of Jacob Marr)\nFala ( )"
+    },
+    {
+      "heading": "Video games",
+      "level": 3,
+      "text": "Celina ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nInstagram\nOfficial website\nSound Cloud\n\n \n \n\nit:Samantha Cooper"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Samantha Cooper",
+    "pageType": "general-anime-lore",
+    "searchableText": "Samantha Cooper\nCategory:TPCi voice actors\nSamantha Cooper is a voice actress for the English dub of . She is currently affiliated with CESD Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "Video games",
+      "External links"
+    ],
+    "characterCount": 582,
+    "sectionCount": 6
+  }
+}

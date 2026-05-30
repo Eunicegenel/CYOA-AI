@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Chris Honor",
+    "slug": "chris-honor",
+    "pageId": 325593,
+    "revisionId": 4215003
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "chris-honor__325593.json",
+    "revisionTimestamp": "2025-01-04T02:44:33Z",
+    "fetchedAt": "2026-05-14T14:09:40.585Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Chris Honor (Japanese: クリス・オナー Chris Honor) is the assistant of Professor Trevor Gordon in the game Detective Pikachu Returns.",
+  "plainText": "Chris Honor (Japanese: クリス・オナー Chris Honor) is the assistant of Professor Trevor Gordon in the game Detective Pikachu Returns.\n\n==In the games==\n===Detective Pikachu Returns===\nChris is first introduced at the Southern Ruins alongside his partner , having set up camp outside to help assist with Professor Gordon's field research. When Tim and Rachel first meet him, he has worked on surveying the outside of the ruins, but had been unable to check on Professor Gordon although the professor had entered the ruins two days ago. He has also been cooking up curry using the Berries in the area to try out different flavors. Chris also mentions working at Ryme University alongside the professor.\n\n===Personality and characteristics===\nAlthough initially appearing unconcerned about Professor Gordon's whereabouts (primarily due to Chris's previous experience on field trips with the professor), Chris is shown to be relieved that Tim had found the professor safe and sound in the ruins. \n\n===Pokémon===\nThis listing is of Chris's known in the games:\n\n \n\n===Voice actors===\n \n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chris Honor (Japanese: クリス・オナー Chris Honor) is the assistant of Professor Trevor Gordon in the game Detective Pikachu Returns."
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Chris is first introduced at the Southern Ruins alongside his partner , having set up camp outside to help assist with Professor Gordon's field research. When Tim and Rachel first meet him, he has worked on surveying the outside of the ruins, but had been unable to check on Professor Gordon although the professor had entered the ruins two days ago. He has also been cooking up curry using the Berries in the area to try out different flavors. Chris also mentions working at Ryme University alongside the professor."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "Although initially appearing unconcerned about Professor Gordon's whereabouts (primarily due to Chris's previous experience on field trips with the professor), Chris is shown to be relieved that Tim had found the professor safe and sound in the ruins."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Chris's known in the games:"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Chris Honor",
+    "pageType": "character",
+    "searchableText": "Chris Honor\nCategory:Detective Pikachu Returns characters\nChris Honor (Japanese: クリス・オナー Chris Honor) is the assistant of Professor Trevor Gordon in the game Detective Pikachu Returns.",
+    "sectionHeadings": [
+      "Lead",
+      "Detective Pikachu Returns",
+      "Personality and characteristics",
+      "Pokémon"
+    ],
+    "characterCount": 1120,
+    "sectionCount": 4
+  }
+}

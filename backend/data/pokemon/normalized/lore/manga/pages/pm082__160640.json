@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM082",
+    "slug": "pm082",
+    "pageId": 160640,
+    "revisionId": 4526902
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm082__160640.json",
+    "revisionTimestamp": "2026-04-09T15:11:21Z",
+    "fetchedAt": "2026-05-14T15:31:21.222Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Don't Accuse Me!! (Japanese: ぬれぎぬをはらせ！！ Don't Accuse Me!!) is the eighty-second chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Don't Accuse Me!! (Japanese: ぬれぎぬをはらせ！！ Don't Accuse Me!!) is the eighty-second chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nThe Underground store owners\nPolice officers\n\n===Pokémon===\n( ) \n( )\n( )\n(store owners')\n\n==Trivia==\n\n \n \n\nde:Kapitel 82 (Pokémon Pocket Monsters)\nit:PMM082",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Don't Accuse Me!! (Japanese: ぬれぎぬをはらせ！！ Don't Accuse Me!!) is the eighty-second chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "The Underground store owners\nPolice officers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(store owners')"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 82 (Pokémon Pocket Monsters)\nit:PMM082"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM082",
+    "pageType": "chapter",
+    "searchableText": "PM082\nCategory:Pokémon Pocket Monsters chapters\nDon't Accuse Me!! (Japanese: ぬれぎぬをはらせ！！ Don't Accuse Me!!) is the eighty-second chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 380,
+    "sectionCount": 4
+  }
+}

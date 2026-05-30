@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Kanto Nankai",
+    "slug": "kanto-nankai",
+    "pageId": 188350,
+    "revisionId": 4528412
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! characters",
+    "sourceFileName": "kanto-nankai__188350.json",
+    "revisionTimestamp": "2026-04-09T16:19:43Z",
+    "fetchedAt": "2026-05-14T15:23:13.542Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: 南海カント Kanto Nankai) is a character in Pokémon Battrio: Aim to be Battrio Master!.",
+  "plainText": "(Japanese: 南海カント Kanto Nankai) is a character in Pokémon Battrio: Aim to be Battrio Master!.\n\n==History==\nKanto appeared in ABM01 where Ryū entered the building he was in. Kanto challenged Ryū to a Battrio game where he sent out his legendary birds against Ryū's Sinnoh first partner Pokémon. Even though Ryū's side was mismatched in terms of strength, Ryū was able to defeat Kanto in the end by utilizing his Chimchar in the front side of the board.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 南海カント Kanto Nankai) is a character in Pokémon Battrio: Aim to be Battrio Master!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Kanto appeared in ABM01 where Ryū entered the building he was in. Kanto challenged Ryū to a Battrio game where he sent out his legendary birds against Ryū's Sinnoh first partner Pokémon. Even though Ryū's side was mismatched in terms of strength, Ryū was able to defeat Kanto in the end by utilizing his Chimchar in the front side of the board."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kanto Nankai",
+    "pageType": "character",
+    "searchableText": "Kanto Nankai\nCategory:Pokémon Battrio: Aim to be Battrio Master! characters\n(Japanese: 南海カント Kanto Nankai) is a character in Pokémon Battrio: Aim to be Battrio Master!.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 463,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Kayleigh",
+    "slug": "kayleigh",
+    "pageId": 199732,
+    "revisionId": 4289318
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kalos characters of the day",
+    "sourceFileName": "kayleigh__199732.json",
+    "revisionTimestamp": "2025-04-28T19:58:19Z",
+    "fetchedAt": "2026-05-14T14:28:48.635Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kayleigh (Japanese: カオリ Kaori) is a character of the day who appeared in Dreaming a Performer's Dream!. She is a Pokémon Performer from Brindille Town.\n\nShe was seen competing in the Rookie Class Pokémon Showcase in Lagoon Town with her . Her performance was going well until a suddenly appeared on the stage and crashed the performance. The Pancham jumped to the ceiling and grabbed a stage lamp, only to pull it down. As Pancham fell back onto the stage, Kayleigh ran off the stage in fear.",
+  "plainText": "Kayleigh (Japanese: カオリ Kaori) is a character of the day who appeared in Dreaming a Performer's Dream!. She is a Pokémon Performer from Brindille Town.\n\nShe was seen competing in the Rookie Class Pokémon Showcase in Lagoon Town with her . Her performance was going well until a suddenly appeared on the stage and crashed the performance. The Pancham jumped to the ceiling and grabbed a stage lamp, only to pull it down. As Pancham fell back onto the stage, Kayleigh ran off the stage in fear.\n\n==Pokémon==\n \n \n\n \n \n \n\n \n \n \n \n\nes:Kayleigh\nfr:Marylin\nit:Kaya\nja:カオリ\nzh:小馨",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kayleigh (Japanese: カオリ Kaori) is a character of the day who appeared in Dreaming a Performer's Dream!. She is a Pokémon Performer from Brindille Town.\n\nShe was seen competing in the Rookie Class Pokémon Showcase in Lagoon Town with her . Her performance was going well until a suddenly appeared on the stage and crashed the performance. The Pancham jumped to the ceiling and grabbed a stage lamp, only to pull it down. As Pancham fell back onto the stage, Kayleigh ran off the stage in fear."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "es:Kayleigh\nfr:Marylin\nit:Kaya\nja:カオリ\nzh:小馨"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kayleigh",
+    "pageType": "character",
+    "searchableText": "Kayleigh\nCategory:Kalos characters of the day\nKayleigh (Japanese: カオリ Kaori) is a character of the day who appeared in Dreaming a Performer's Dream!. She is a Pokémon Performer from Brindille Town.\n\nShe was seen competing in the Rookie Class Pokémon Showcase in Lagoon Town with her . Her performance was going well until a suddenly appeared on the stage and crashed the performance. The Pancham jumped to the ceiling and grabbed a stage lamp, only to pull it down. As Pancham fell back onto the stage, Kayleigh ran off the stage in fear.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 570,
+    "sectionCount": 2
+  }
+}

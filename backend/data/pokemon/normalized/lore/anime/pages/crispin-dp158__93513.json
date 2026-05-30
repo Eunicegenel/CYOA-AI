@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Crispin (DP158)",
+    "slug": "crispin-dp158",
+    "pageId": 93513,
+    "revisionId": 4256804
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "crispin-dp158__93513.json",
+    "revisionTimestamp": "2025-03-11T01:09:51Z",
+    "fetchedAt": "2026-05-14T14:10:36.795Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Crispin (Japanese: カツゾー Katsuzō) is a character of the day who appeared in Regaining the Home Advantage!. He is a who patrols a mountain area between Brussel Town and Daybreak Town. \n\nCrispin helped and solve the mystery behind and 's constant s, which were destroying a nearby town. He directed their attention to a flooded crater and revealed that the Pokémon regularly did battle in order to get rid of the excess power that built up inside of them, which were results from living on the magnetically charged mountain. With this in mind, the group worked to drain the crater, allowing Magnezone and Metagross to continue battling in the mountains.",
+  "plainText": "Crispin (Japanese: カツゾー Katsuzō) is a character of the day who appeared in Regaining the Home Advantage!. He is a who patrols a mountain area between Brussel Town and Daybreak Town. \n\nCrispin helped and solve the mystery behind and 's constant s, which were destroying a nearby town. He directed their attention to a flooded crater and revealed that the Pokémon regularly did battle in order to get rid of the excess power that built up inside of them, which were results from living on the magnetically charged mountain. With this in mind, the group worked to drain the crater, allowing Magnezone and Metagross to continue battling in the mountains.\n\n==Pokémon==\n===Supervised===\n \n \n\n \n\n==Voice actors==\n \n \n \n \n \n \n \n\nes:Crispin\nfr:Christophe (Sinnoh)\nit:Crispin",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Crispin (Japanese: カツゾー Katsuzō) is a character of the day who appeared in Regaining the Home Advantage!. He is a who patrols a mountain area between Brussel Town and Daybreak Town. \n\nCrispin helped and solve the mystery behind and 's constant s, which were destroying a nearby town. He directed their attention to a flooded crater and revealed that the Pokémon regularly did battle in order to get rid of the excess power that built up inside of them, which were results from living on the magnetically charged mountain. With this in mind, the group worked to drain the crater, allowing Magnezone and Metagross to continue battling in the mountains."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Crispin\nfr:Christophe (Sinnoh)\nit:Crispin"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Crispin (DP158)",
+    "pageType": "character",
+    "searchableText": "Crispin (DP158)\nCategory:Sinnoh characters of the day\nCrispin (Japanese: カツゾー Katsuzō) is a character of the day who appeared in Regaining the Home Advantage!. He is a who patrols a mountain area between Brussel Town and Daybreak Town. \n\nCrispin helped and solve the mystery behind and 's constant s, which were destroying a nearby town. He directed their attention to a flooded crater and revealed that the Pokémon regularly did battle in order to get rid of the excess power that built up inside of them, which were results from living on the magnetically charged mountain. With this in mind, the group worked to drain the crater, allowing Magnezone and Metagross to continue battling in the mountains.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 765,
+    "sectionCount": 2
+  }
+}

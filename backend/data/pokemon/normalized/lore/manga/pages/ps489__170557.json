@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PS489",
+    "slug": "ps489",
+    "pageId": 170557,
+    "revisionId": 4548866
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps489__170557.json",
+    "revisionTimestamp": "2026-05-11T00:46:24Z",
+    "fetchedAt": "2026-05-14T15:45:05.543Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Drawing Bridges (Japanese: VS ガマガル VS Palpitoad), titled VS Palpitoad in the Shogakukan Asia translation, is the 489th chapter of the Pokémon Adventures manga, and the 29th chapter of the .\n\nIt is subtitled Palpitoad (Japanese: 跳橋 Drawbridge) in the VIZ Media translation and Drawing Bridges in the Shogakukan Asia translation.",
+  "plainText": "Drawing Bridges (Japanese: VS ガマガル VS Palpitoad), titled VS Palpitoad in the Shogakukan Asia translation, is the 489th chapter of the Pokémon Adventures manga, and the 29th chapter of the .\n\nIt is subtitled Palpitoad (Japanese: 跳橋 Drawbridge) in the VIZ Media translation and Drawing Bridges in the Shogakukan Asia translation.\n\n==Plot==\n \n\n==Major events==\nA causes havoc on the Driftveil Drawbridge, making people unable to cross it.\nWith help from Elesa, gets past the drawbridge.\nBlack faces the trouble-making Zorua on the drawbridge.\nBlack defeats the Zorua, causing it to flee.\nBlack meets Clay, the Gym Leader.\n\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n(fantasy)\nElesa\nClay\n\n===Pokémon===\n(Brav; 's; fantasy)\n(Musha; 's)\n(Nite; 's)\n(Tula; 's)\n(Elesa's)\n(Elesa's; x2)\n( )\n(Clay's)\n(Clay's)\n( )\n( 's)\n( 's)\n( 's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n( 's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(illusion)\n(illusion)\n(illusion)\n\n \n\n==In other languages==\n \n \n \n \n\nde:VS. Mebrana\nes:PMS489\nfr:Chapitre 489 (Pocket Monsters Special)\nit:LGA489\nzh:宝可梦特别篇 第489话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Drawing Bridges (Japanese: VS ガマガル VS Palpitoad), titled VS Palpitoad in the Shogakukan Asia translation, is the 489th chapter of the Pokémon Adventures manga, and the 29th chapter of the .\n\nIt is subtitled Palpitoad (Japanese: 跳橋 Drawbridge) in the VIZ Media translation and Drawing Bridges in the Shogakukan Asia translation."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "A causes havoc on the Driftveil Drawbridge, making people unable to cross it.\nWith help from Elesa, gets past the drawbridge.\nBlack faces the trouble-making Zorua on the drawbridge.\nBlack defeats the Zorua, causing it to flee.\nBlack meets Clay, the Gym Leader."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(fantasy)\nElesa\nClay"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Brav; 's; fantasy)\n(Musha; 's)\n(Nite; 's)\n(Tula; 's)\n(Elesa's)\n(Elesa's; x2)\n( )\n(Clay's)\n(Clay's)\n( )\n( 's)\n( 's)\n( 's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n( 's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(illusion)\n(illusion)\n(illusion)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Mebrana\nes:PMS489\nfr:Chapitre 489 (Pocket Monsters Special)\nit:LGA489\nzh:宝可梦特别篇 第489话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS489",
+    "pageType": "chapter",
+    "searchableText": "PS489\nCategory:Pokémon Adventures chapters\nDrawing Bridges (Japanese: VS ガマガル VS Palpitoad), titled VS Palpitoad in the Shogakukan Asia translation, is the 489th chapter of the Pokémon Adventures manga, and the 29th chapter of the .\n\nIt is subtitled Palpitoad (Japanese: 跳橋 Drawbridge) in the VIZ Media translation and Drawing Bridges in the Shogakukan Asia translation.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1088,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon English Master",
+    "slug": "pokemon-english-master",
+    "pageId": 270666,
+    "revisionId": 4130992
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "pokemon-english-master__270666.json",
+    "revisionTimestamp": "2024-09-29T03:57:06Z",
+    "fetchedAt": "2026-05-14T15:36:24.673Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Korean: 포켓몬 영어 마스터 Pokémon English Master) is a Pokémon manhwa published in South Korea by Pokémon Korea, Inc. in 2015. It was written and illustrated by 배연오 and supervised by 박약우 (Volume 1) and 김태은 (Volume 2). It was developed to help children to learn English.",
+  "plainText": "(Korean: 포켓몬 영어 마스터 Pokémon English Master) is a Pokémon manhwa published in South Korea by Pokémon Korea, Inc. in 2015. It was written and illustrated by 배연오 and supervised by 박약우 (Volume 1) and 김태은 (Volume 2). It was developed to help children to learn English.\n\n==List of volumes==\n \n\n==List of chapters==\nVolume 1: 포켓몬과 비밀의 섬\nChapter 1: 모험의 시작!\nChapter 2: 새로운 동료와 새로운 목표!\nChapter 3: 신비로운 섬\nChapter 4: 예언 속 용사\nChapter 5: 연습배틀\nChapter 6: !!!\nVolume 2: 돌바위섬의 단서\nChapter 1: 포켓몬배틀 첫 승!\nChapter 2: 딥상어동과 돌바위섬\nChapter 3: 수지와 \nChapter 4: 단서\nChapter 5: 초초와 \nChapter 6: 동굴 속으로",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Korean: 포켓몬 영어 마스터 Pokémon English Master) is a Pokémon manhwa published in South Korea by Pokémon Korea, Inc. in 2015. It was written and illustrated by 배연오 and supervised by 박약우 (Volume 1) and 김태은 (Volume 2). It was developed to help children to learn English."
+    },
+    {
+      "heading": "List of chapters",
+      "level": 2,
+      "text": "Volume 1: 포켓몬과 비밀의 섬\nChapter 1: 모험의 시작!\nChapter 2: 새로운 동료와 새로운 목표!\nChapter 3: 신비로운 섬\nChapter 4: 예언 속 용사\nChapter 5: 연습배틀\nChapter 6: !!!\nVolume 2: 돌바위섬의 단서\nChapter 1: 포켓몬배틀 첫 승!\nChapter 2: 딥상어동과 돌바위섬\nChapter 3: 수지와 \nChapter 4: 단서\nChapter 5: 초초와 \nChapter 6: 동굴 속으로"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon English Master",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon English Master\nCategory:Manga stubs\n(Korean: 포켓몬 영어 마스터 Pokémon English Master) is a Pokémon manhwa published in South Korea by Pokémon Korea, Inc. in 2015. It was written and illustrated by 배연오 and supervised by 박약우 (Volume 1) and 김태은 (Volume 2). It was developed to help children to learn English.",
+    "sectionHeadings": [
+      "Lead",
+      "List of chapters"
+    ],
+    "characterCount": 570,
+    "sectionCount": 2
+  }
+}

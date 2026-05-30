@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS63",
+    "slug": "pmrs63",
+    "pageId": 161724,
+    "revisionId": 4527272
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs63__161724.json",
+    "revisionTimestamp": "2026-04-09T15:31:05Z",
+    "fetchedAt": "2026-05-14T15:33:52.057Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Special Pokémon Comic Strips! (Japanese: 特別編ポケモン4コマSP　Special Pokémon 4Koma) is the sixty-third and final chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Special Pokémon Comic Strips! (Japanese: 特別編ポケモン4コマSP　Special Pokémon 4Koma) is the sixty-third and final chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Special Pokémon Comic Strips! (Japanese: 特別編ポケモン4コマSP　Special Pokémon 4Koma) is the sixty-third and final chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS63",
+    "pageType": "chapter",
+    "searchableText": "PMRS63\nCategory:Pokémon Ruby-Sapphire chapters\nSpecial Pokémon Comic Strips! (Japanese: 特別編ポケモン4コマSP　Special Pokémon 4Koma) is the sixty-third and final chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 272,
+    "sectionCount": 2
+  }
+}

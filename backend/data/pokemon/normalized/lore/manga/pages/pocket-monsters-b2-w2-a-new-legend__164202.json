@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pocket Monsters B2 W2 ~ A New Legend ~",
+    "slug": "pocket-monsters-b2-w2-a-new-legend",
+    "pageId": 164202,
+    "revisionId": 4527732
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters B2 W2 ~ A New Legend ~",
+    "sourceFileName": "pocket-monsters-b2-w2-a-new-legend__164202.json",
+    "revisionTimestamp": "2026-04-09T15:51:23Z",
+    "fetchedAt": "2026-05-14T15:34:07.798Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Pocket Monsters B2 W2 ~ A New Legend ~ (Japanese: ポケットモンスターB2・W2 ~新たなる伝説~) is a Pokémon manga that was serialized in CoroCoro Comics starting in the June 2012 issue. The story spanned five chapters. It is written and illustrated by Satoshi Kanda.",
+  "plainText": "Pocket Monsters B2 W2 ~ A New Legend ~ (Japanese: ポケットモンスターB2・W2 ~新たなる伝説~) is a Pokémon manga that was serialized in CoroCoro Comics starting in the June 2012 issue. The story spanned five chapters. It is written and illustrated by Satoshi Kanda.\n\n==Publications==\n \n \n \n\n==List of chapters==\nANL1\nANL2\nANL3\nANL4\nANL5\n\n==External links==\nPocket Monsters B2 - W2 ~ A New Legend ~ on Dogasu's Backpack\n\n \n \n \n \n\nit:Pocket Monsters B2 W2 ~ A New Legend ~\nzh:寶可夢B2・W2 ～新的傳說～",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pocket Monsters B2 W2 ~ A New Legend ~ (Japanese: ポケットモンスターB2・W2 ~新たなる伝説~) is a Pokémon manga that was serialized in CoroCoro Comics starting in the June 2012 issue. The story spanned five chapters. It is written and illustrated by Satoshi Kanda."
+    },
+    {
+      "heading": "List of chapters",
+      "level": 2,
+      "text": "ANL1\nANL2\nANL3\nANL4\nANL5"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Pocket Monsters B2 - W2 ~ A New Legend ~ on Dogasu's Backpack\n\n \n \n \n \n\nit:Pocket Monsters B2 W2 ~ A New Legend ~\nzh:寶可夢B2・W2 ～新的傳說～"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters B2 W2 ~ A New Legend ~",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters B2 W2 ~ A New Legend ~\nCategory:Pocket Monsters B2 W2 ~ A New Legend ~\nPocket Monsters B2 W2 ~ A New Legend ~ (Japanese: ポケットモンスターB2・W2 ~新たなる伝説~) is a Pokémon manga that was serialized in CoroCoro Comics starting in the June 2012 issue. The story spanned five chapters. It is written and illustrated by Satoshi Kanda.",
+    "sectionHeadings": [
+      "Lead",
+      "List of chapters",
+      "External links"
+    ],
+    "characterCount": 470,
+    "sectionCount": 3
+  }
+}

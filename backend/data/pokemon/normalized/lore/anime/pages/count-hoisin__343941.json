@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Count Hoisin",
+    "slug": "count-hoisin",
+    "pageId": 343941,
+    "revisionId": 4521590
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "count-hoisin__343941.json",
+    "revisionTimestamp": "2026-04-02T08:57:25Z",
+    "fetchedAt": "2026-05-14T14:10:27.429Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Count Hoisin (Japanese: オイスター伯爵 Count Oyster) is recurring character who first appeared in Mega Evolution - Ult. He is a member of the Lost Mayo Maze. His battling partner is Shōyu.",
+  "plainText": "Count Hoisin (Japanese: オイスター伯爵 Count Oyster) is recurring character who first appeared in Mega Evolution - Ult. He is a member of the Lost Mayo Maze. His battling partner is Shōyu.\n\n==History==\n\n==Pokémon==\n \n\n==Voice actors==\n \n \n\n==Names==\n \n\n \n \n \n\nes:Conde Ostra\nzh:牡蛎伯爵",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Count Hoisin (Japanese: オイスター伯爵 Count Oyster) is recurring character who first appeared in Mega Evolution - Ult. He is a member of the Lost Mayo Maze. His battling partner is Shōyu."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Conde Ostra\nzh:牡蛎伯爵"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Count Hoisin",
+    "pageType": "character",
+    "searchableText": "Count Hoisin\nCategory:Animation characters\nCount Hoisin (Japanese: オイスター伯爵 Count Oyster) is recurring character who first appeared in Mega Evolution - Ult. He is a member of the Lost Mayo Maze. His battling partner is Shōyu.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 275,
+    "sectionCount": 2
+  }
+}

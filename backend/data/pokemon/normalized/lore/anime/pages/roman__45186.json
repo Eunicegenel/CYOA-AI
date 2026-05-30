@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Roman",
+    "slug": "roman",
+    "pageId": 45186,
+    "revisionId": 4479985
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "roman__45186.json",
+    "revisionTimestamp": "2026-02-01T16:41:36Z",
+    "fetchedAt": "2026-05-14T14:46:55.433Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Roman (Japanese: チアキ Chiaki) is a character of the day who appeared in A Full Course Tag Battle!. He appeared along with his fiancée Kylie.",
+  "plainText": "Roman (Japanese: チアキ Chiaki) is a character of the day who appeared in A Full Course Tag Battle!. He appeared along with his fiancée Kylie.\n\n==In animation==\nRoman is the owner of the Seven Stars Restaurant on the Valor Lakefront. s must battle him and his fiancée in a Double Battle in order to eat in the restaurant for free.\n\nRoman and Kylie first battled and and were easily defeated by them. They were about to battle and when broke into the restaurant and stole all of the food. Roman was upset by this and wondered what his father would say.\n\nAfter May and Dawn dealt with Team Rocket, Roman and Kylie officially started their battle with May and Dawn. Despite putting up a good fight, they were defeated in the end.\n\n===Pokémon===\nThis listing is of Roman's known in :\n \n \n\n===Voice actors===\n \n\n==In the games==\nA character named Roman appears at the Seven Stars Restaurant in the English translation of Sinnoh-based games and may also be battled in a Double Battle alongside a character named Kylie. However, the game Roman's Japanese name is リオ Rio and his only Pokémon is different from what is shown in the animated series. In the games, Roman's father is the head cook, while Kylie's father is the owner of the restaurant.\n\n===Pokémon===\nThis listing is of Roman's known Pokémon in the :\n==== ====\n \n \n \n \n \n \n==== ====\n \n \n \n \n \n \n==== ====\n \n \n \n \n \n \n===Quotes===\nBefore battle\n\"Fufufu, my date's really enjoying my dad's cooking. She has a dreamy expression after every bite!\"\n\"I'm feeling great! Sure, I'll have a battle with you. That's why you approached us, right?\"\n\nBeing defeated\n\"I never thought I'd lose at Papa's restaurant...\"\n\nAfter being defeated\n\"My prowess as a Trainer isn't up to snuff... It's not like my father's scrumptious cooking...\"\n\n==Trivia==\nRoman's Japanese name contains aki, meaning autumn. His fiancée's Japanese name contains natsu, meaning summer.\nPokémon.com's summary for the episode mentions Roman as Charleton, possibly indicating it was an initially planned name for him.\n \n\n \n\n \n \n \n \n \n \n \n\nde:Das „Sieben Sterne Restaurant“!#Roman\nes:Roman\nfr:Roman\nit:Roman",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Roman (Japanese: チアキ Chiaki) is a character of the day who appeared in A Full Course Tag Battle!. He appeared along with his fiancée Kylie."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "Roman is the owner of the Seven Stars Restaurant on the Valor Lakefront. s must battle him and his fiancée in a Double Battle in order to eat in the restaurant for free.\n\nRoman and Kylie first battled and and were easily defeated by them. They were about to battle and when broke into the restaurant and stole all of the food. Roman was upset by this and wondered what his father would say.\n\nAfter May and Dawn dealt with Team Rocket, Roman and Kylie officially started their battle with May and Dawn. Despite putting up a good fight, they were defeated in the end."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Roman's known in :"
+    },
+    {
+      "heading": "In the games",
+      "level": 2,
+      "text": "A character named Roman appears at the Seven Stars Restaurant in the English translation of Sinnoh-based games and may also be battled in a Double Battle alongside a character named Kylie. However, the game Roman's Japanese name is リオ Rio and his only Pokémon is different from what is shown in the animated series. In the games, Roman's father is the head cook, while Kylie's father is the owner of the restaurant."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Roman's known Pokémon in the :"
+    },
+    {
+      "heading": "Quotes",
+      "level": 3,
+      "text": "Before battle\n\"Fufufu, my date's really enjoying my dad's cooking. She has a dreamy expression after every bite!\"\n\"I'm feeling great! Sure, I'll have a battle with you. That's why you approached us, right?\"\n\nBeing defeated\n\"I never thought I'd lose at Papa's restaurant...\"\n\nAfter being defeated\n\"My prowess as a Trainer isn't up to snuff... It's not like my father's scrumptious cooking...\""
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Roman's Japanese name contains aki, meaning autumn. His fiancée's Japanese name contains natsu, meaning summer.\nPokémon.com's summary for the episode mentions Roman as Charleton, possibly indicating it was an initially planned name for him.\n \n\n \n\n \n \n \n \n \n \n \n\nde:Das „Sieben Sterne Restaurant“!#Roman\nes:Roman\nfr:Roman\nit:Roman"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Roman",
+    "pageType": "character",
+    "searchableText": "Roman\nCategory:Sinnoh characters of the day\nRoman (Japanese: チアキ Chiaki) is a character of the day who appeared in A Full Course Tag Battle!. He appeared along with his fiancée Kylie.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "Pokémon",
+      "In the games",
+      "Pokémon",
+      "Quotes",
+      "Trivia"
+    ],
+    "characterCount": 2114,
+    "sectionCount": 7
+  }
+}

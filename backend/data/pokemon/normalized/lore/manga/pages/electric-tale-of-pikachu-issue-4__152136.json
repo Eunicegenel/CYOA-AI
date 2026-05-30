@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Electric Tale of Pikachu issue 4",
+    "slug": "electric-tale-of-pikachu-issue-4",
+    "pageId": 152136,
+    "revisionId": 4130641
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu monthly issues",
+    "sourceFileName": "electric-tale-of-pikachu-issue-4__152136.json",
+    "revisionTimestamp": "2024-09-29T03:49:48Z",
+    "fetchedAt": "2026-05-14T15:18:01.140Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "The Electric Tale of Pikachu issue 4 is the fourth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the fourth chapter of the manga, Haunting My Dreams. \n\nThis issue was included as part of along with ET01, ET02, and ET03.",
+  "plainText": "The Electric Tale of Pikachu issue 4 is the fourth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the fourth chapter of the manga, Haunting My Dreams. \n\nThis issue was included as part of along with ET01, ET02, and ET03.\n\n==Publications==\n \n \n \n \n\n==Chapters==\nHaunting My Dreams\n\n==Important events==\nAsh challenges Sabrina to a Gym Battle and loses.\nSabrina has her soul eaten by Black Fog's attack, but her consciousness resides in her Abra.\nAsh, , and Sabrina defeat the Black Fog.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Electric Tale of Pikachu issue 4 is the fourth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the fourth chapter of the manga, Haunting My Dreams. \n\nThis issue was included as part of along with ET01, ET02, and ET03."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Haunting My Dreams"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Ash challenges Sabrina to a Gym Battle and loses.\nSabrina has her soul eaten by Black Fog's attack, but her consciousness resides in her Abra.\nAsh, , and Sabrina defeat the Black Fog."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Electric Tale of Pikachu issue 4",
+    "pageType": "general-manga-lore",
+    "searchableText": "Electric Tale of Pikachu issue 4\nCategory:Electric Tale of Pikachu monthly issues\nThe Electric Tale of Pikachu issue 4 is the fourth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the fourth chapter of the manga, Haunting My Dreams. \n\nThis issue was included as part of along with ET01, ET02, and ET03.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 542,
+    "sectionCount": 3
+  }
+}

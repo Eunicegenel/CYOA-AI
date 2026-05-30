@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Playism Declaration",
+    "slug": "playism-declaration",
+    "pageId": 80044,
+    "revisionId": 3378508
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese opening themes",
+    "sourceFileName": "playism-declaration__80044.json",
+    "revisionTimestamp": "2021-07-18T19:11:11Z",
+    "fetchedAt": "2026-05-14T14:42:17.124Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Playism Declaration (Japanese: アソビズム宣言 Asobizumu Sengen) is the Japanese opening theme of the Japanese Pikachu shorts PK05 and PK06.",
+  "plainText": "Playism Declaration (Japanese: アソビズム宣言 Asobizumu Sengen) is the Japanese opening theme of the Japanese Pikachu shorts PK05 and PK06.\n\n==Synopsis==\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n\n \n==Lyrics==\n \n\n \n \n \n\nja:アソビズム宣言",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Playism Declaration (Japanese: アソビズム宣言 Asobizumu Sengen) is the Japanese opening theme of the Japanese Pikachu shorts PK05 and PK06."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )"
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "ja:アソビズム宣言"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Playism Declaration",
+    "pageType": "general-anime-lore",
+    "searchableText": "Playism Declaration\nCategory:Japanese opening themes\nPlayism Declaration (Japanese: アソビズム宣言 Asobizumu Sengen) is the Japanese opening theme of the Japanese Pikachu shorts PK05 and PK06.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Lyrics"
+    ],
+    "characterCount": 228,
+    "sectionCount": 3
+  }
+}

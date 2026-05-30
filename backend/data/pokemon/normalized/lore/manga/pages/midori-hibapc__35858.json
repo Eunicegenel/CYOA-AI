@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Midori (HIBAPC)",
+    "slug": "midori-hibapc",
+    "pageId": 35858,
+    "revisionId": 4130993
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card characters",
+    "sourceFileName": "midori-hibapc__35858.json",
+    "revisionTimestamp": "2024-09-29T03:57:06Z",
+    "fetchedAt": "2026-05-14T15:26:29.403Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ミドリ Midori) is a in the manga series How I Became a Pokémon Card. He seems to live in Viridian Forest with a group of other Bug Catchers, all of whom see it as their duty to protect the forest from intruders.",
+  "plainText": "(Japanese: ミドリ Midori) is a in the manga series How I Became a Pokémon Card. He seems to live in Viridian Forest with a group of other Bug Catchers, all of whom see it as their duty to protect the forest from intruders.\n\n==Character==\nMidori is a Bug Catcher who wanted to protect the Viridian Forest from intruders but was too young and inexperienced to do so.\n\n==History==\nMidori first appeared in PW10 where he went to a campfire site and mentioned about being the best. He challenged after introducing himself where he was turned down twice until Blue gave up and sent out to battle him. During the battle, Midori's becomes sick and Blue tells him to take it to a guard house in Celadon City. Midori runs to the guard house and gets stopped by a group of on his way. Midori tried to have battling them but the Diglett juggled Caterpie around. With no other choice, Midori used as a weapon by smacking the Diglett.\n\nFinally arriving at the guard house, Midori noticed that a group of and were attacking the place. Caterpie and Metapod tried their best in fending off the s but the Ghost-types were too strong. In the nick of time, Butterfree woke up and defeated the group of Gastly and Haunter. With Butterfree feeling better, Midori celebrated in joy with Butterfree, Caterpie, and Metapod.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ミドリ Midori) is a in the manga series How I Became a Pokémon Card. He seems to live in Viridian Forest with a group of other Bug Catchers, all of whom see it as their duty to protect the forest from intruders."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Midori is a Bug Catcher who wanted to protect the Viridian Forest from intruders but was too young and inexperienced to do so."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Midori first appeared in PW10 where he went to a campfire site and mentioned about being the best. He challenged after introducing himself where he was turned down twice until Blue gave up and sent out to battle him. During the battle, Midori's becomes sick and Blue tells him to take it to a guard house in Celadon City. Midori runs to the guard house and gets stopped by a group of on his way. Midori tried to have battling them but the Diglett juggled Caterpie around. With no other choice, Midori used as a weapon by smacking the Diglett.\n\nFinally arriving at the guard house, Midori noticed that a group of and were attacking the place. Caterpie and Metapod tried their best in fending off the s but the Ghost-types were too strong. In the nick of time, Butterfree woke up and defeated the group of Gastly and Haunter. With Butterfree feeling better, Midori celebrated in joy with Butterfree, Caterpie, and Metapod."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Midori (HIBAPC)",
+    "pageType": "character",
+    "searchableText": "Midori (HIBAPC)\nCategory:How I Became a Pokémon Card characters\n(Japanese: ミドリ Midori) is a in the manga series How I Became a Pokémon Card. He seems to live in Viridian Forest with a group of other Bug Catchers, all of whom see it as their duty to protect the forest from intruders.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History"
+    ],
+    "characterCount": 1308,
+    "sectionCount": 3
+  }
+}

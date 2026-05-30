@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Kids Station",
+    "slug": "kids-station",
+    "pageId": 177842,
+    "revisionId": 4543478
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TV and VOD",
+    "sourceFileName": "kids-station__177842.json",
+    "revisionTimestamp": "2026-05-02T22:54:26Z",
+    "fetchedAt": "2026-05-14T14:29:29.457Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kids Station (Japanese: キッズステーション Kids Station) is a television cable channel showing animation and other cartoon material.",
+  "plainText": "Kids Station (Japanese: キッズステーション Kids Station) is a television cable channel showing animation and other cartoon material.\n\n==Information==\nKids Station reruns the original series, Pokémon the Series: Ruby and Sapphire, Pokémon the Series: Black & White and Pokémon the Series: XY episodes and movies.\n\n==External links==\nOfficial site \non Wikipedia\n\n \n\n \n\n \n\nit:Kids Station",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kids Station (Japanese: キッズステーション Kids Station) is a television cable channel showing animation and other cartoon material."
+    },
+    {
+      "heading": "Information",
+      "level": 2,
+      "text": "Kids Station reruns the original series, Pokémon the Series: Ruby and Sapphire, Pokémon the Series: Black & White and Pokémon the Series: XY episodes and movies."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official site \non Wikipedia\n\n \n\n \n\n \n\nit:Kids Station"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kids Station",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kids Station\nCategory:TV and VOD\nKids Station (Japanese: キッズステーション Kids Station) is a television cable channel showing animation and other cartoon material.",
+    "sectionHeadings": [
+      "Lead",
+      "Information",
+      "External links"
+    ],
+    "characterCount": 376,
+    "sectionCount": 3
+  }
+}

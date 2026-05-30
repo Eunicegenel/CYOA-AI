@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP13",
+    "slug": "sp13",
+    "pageId": 182463,
+    "revisionId": 4114546
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp13__182463.json",
+    "revisionTimestamp": "2024-09-16T20:30:06Z",
+    "fetchedAt": "2026-05-14T15:49:58.875Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Dream Potion Recipe!! (Japanese: 夢の秘薬の作り方！！ The Dream Potion Recipe!!) is the thirteenth chapter of the Ash & Pikachu manga.",
+  "plainText": "The Dream Potion Recipe!! (Japanese: 夢の秘薬の作り方！！ The Dream Potion Recipe!!) is the thirteenth chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nJessie\nJames\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( 's)\n\n \n \n\n \n\nit:SP13",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Dream Potion Recipe!! (Japanese: 夢の秘薬の作り方！！ The Dream Potion Recipe!!) is the thirteenth chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jessie\nJames"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( 's)\n\n \n \n\n \n\nit:SP13"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP13",
+    "pageType": "chapter",
+    "searchableText": "SP13\nCategory:Ash & Pikachu chapters\nThe Dream Potion Recipe!! (Japanese: 夢の秘薬の作り方！！ The Dream Potion Recipe!!) is the thirteenth chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 293,
+    "sectionCount": 3
+  }
+}

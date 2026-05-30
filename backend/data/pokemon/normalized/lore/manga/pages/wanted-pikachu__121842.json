@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Wanted: Pikachu",
+    "slug": "wanted-pikachu",
+    "pageId": 121842,
+    "revisionId": 4132960
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "wanted-pikachu__121842.json",
+    "revisionTimestamp": "2024-09-29T05:30:03Z",
+    "fetchedAt": "2026-05-14T15:52:34.238Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Wanted: Pikachu is the second monthly issue of the Pokémon Adventures manga to be released by VIZ Media. It contains the fourth, fifth, and sixth chapters of the . The chapters originally released in this book were later compiled into . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Wanted: Pikachu is the second monthly issue of the Pokémon Adventures manga to be released by VIZ Media. It contains the fourth, fifth, and sixth chapters of the . The chapters originally released in this book were later compiled into . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n \n \n \n\n==Chapters==\nChapter 4: Wanted: Pikachu!\nChapter 5: Onix is On!\nChapter 6: Gyarados Splashes In!\n\n==Important events==\ndefeats Brock.\nRed meets Misty for the first time.\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\nRed's Pikachu \"Pika\" in PS004.\n\n==Gym battles==\nRed defeats the following Gym Leaders:\nBrock in PS005\n\n==In other languages==\n \n\n \n \n\nfr:Volume 2 (Pokémon Adventures)\nit:Pikachu: Ricercato",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Wanted: Pikachu is the second monthly issue of the Pokémon Adventures manga to be released by VIZ Media. It contains the fourth, fifth, and sixth chapters of the . The chapters originally released in this book were later compiled into . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 4: Wanted: Pikachu!\nChapter 5: Onix is On!\nChapter 6: Gyarados Splashes In!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "defeats Brock.\nRed meets Misty for the first time."
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:\nRed's Pikachu \"Pika\" in PS004."
+    },
+    {
+      "heading": "Gym battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:\nBrock in PS005"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "fr:Volume 2 (Pokémon Adventures)\nit:Pikachu: Ricercato"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Wanted: Pikachu",
+    "pageType": "pokemon-related",
+    "searchableText": "Wanted: Pikachu\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Wanted: Pikachu is the second monthly issue of the Pokémon Adventures manga to be released by VIZ Media. It contains the fourth, fifth, and sixth chapters of the . The chapters originally released in this book were later compiled into . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Additions",
+      "Gym battles",
+      "In other languages"
+    ],
+    "characterCount": 827,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP32",
+    "slug": "pmdp32",
+    "pageId": 176411,
+    "revisionId": 4528398
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp32__176411.json",
+    "revisionTimestamp": "2026-04-09T16:19:10Z",
+    "fetchedAt": "2026-05-14T15:32:33.103Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピ うし！ ポケモン in Danger! The Entrance of Popular Pokémon) is the thirty-second chapter of the manga.",
+  "plainText": "(Japanese: ピッピ うし！ ポケモン in Danger! The Entrance of Popular Pokémon) is the thirty-second chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピ うし！ ポケモン in Danger! The Entrance of Popular Pokémon) is the thirty-second chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP32",
+    "pageType": "chapter",
+    "searchableText": "PMDP32\nCategory:Pocket Monsters DP chapters\n(Japanese: ピッピ うし！ ポケモン in Danger! The Entrance of Popular Pokémon) is the thirty-second chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 238,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW08",
+    "slug": "pmbw08",
+    "pageId": 171693,
+    "revisionId": 4528384
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw08__171693.json",
+    "revisionTimestamp": "2026-04-09T16:18:52Z",
+    "fetchedAt": "2026-05-14T15:31:48.437Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 運が良くなりた～い I Want Our Luck to Im~prove) is the eighth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 運が良くなりた～い I Want Our Luck to Im~prove) is the eighth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 運が良くなりた～い I Want Our Luck to Im~prove) is the eighth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW08",
+    "pageType": "chapter",
+    "searchableText": "PMBW08\nCategory:Pocket Monsters BW chapters\n(Japanese: 運が良くなりた～い I Want Our Luck to Im~prove) is the eighth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 237,
+    "sectionCount": 2
+  }
+}

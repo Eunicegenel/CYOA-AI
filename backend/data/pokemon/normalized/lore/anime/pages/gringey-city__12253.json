@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Gringey City",
+    "slug": "gringey-city",
+    "pageId": 12253,
+    "revisionId": 4261024
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "gringey-city__12253.json",
+    "revisionTimestamp": "2025-03-19T21:49:11Z",
+    "fetchedAt": "2026-05-14T14:21:26.264Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Gringey City (Japanese: グンジョウシティ Gunjou City) is an -exclusive location located in Kanto, between Celadon City and Fuchsia City. It was featured in Sparks Fly for Magnemite.\n\nAccording to a map that owned, Gringey City was originally bustling with activity, but the city eventually over-expanded the factories and power plants, resulting in the town becoming virtually abandoned as well as the sea nearby becoming polluted. Ash's Pikachu was sick, later determined to be caused by a problem with buildup of electricity in the creature's cheeks, and the nearest Pokémon Center was located there. An uncharacteristically ill-tempered Nurse Joy greeted Ash.\n\nDuring their time there, the power in the town went out, due to a large amount of clogging the tunnels that deliver water to power the hydroelectric generators. Ash, Brock, and Misty went to investigate the power plant and restore normal operations.\n\nPikachu, along with the and several , were able to ward off the Grimer. They also weakened a , which Ash ended up capturing. Power was restored and the waterways were cleared. The residents left in the city say that they will work hard to clean it up and make it beautiful again.",
+  "plainText": "Gringey City (Japanese: グンジョウシティ Gunjou City) is an -exclusive location located in Kanto, between Celadon City and Fuchsia City. It was featured in Sparks Fly for Magnemite.\n\nAccording to a map that owned, Gringey City was originally bustling with activity, but the city eventually over-expanded the factories and power plants, resulting in the town becoming virtually abandoned as well as the sea nearby becoming polluted. Ash's Pikachu was sick, later determined to be caused by a problem with buildup of electricity in the creature's cheeks, and the nearest Pokémon Center was located there. An uncharacteristically ill-tempered Nurse Joy greeted Ash.\n\nDuring their time there, the power in the town went out, due to a large amount of clogging the tunnels that deliver water to power the hydroelectric generators. Ash, Brock, and Misty went to investigate the power plant and restore normal operations.\n\nPikachu, along with the and several , were able to ward off the Grimer. They also weakened a , which Ash ended up capturing. Power was restored and the waterways were cleared. The residents left in the city say that they will work hard to clean it up and make it beautiful again.\n\n==Pokémon seen in Gringey City==\n \n\n===Caught Pokémon===\n \n\n==Trivia==\nGringey City, while not wholly incorporated, is briefly referenced in , where and were added as encounters in the Kanto Power Plant.\n\n==In other languages==\n \n \n \n \n\n \n\nde:Gringey City\nes:Ciudad Grisácea/Gringey\nfr:Salville\nit:Gringey City\nja:グンジョウシティ\nzh:黑雲市",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Gringey City (Japanese: グンジョウシティ Gunjou City) is an -exclusive location located in Kanto, between Celadon City and Fuchsia City. It was featured in Sparks Fly for Magnemite.\n\nAccording to a map that owned, Gringey City was originally bustling with activity, but the city eventually over-expanded the factories and power plants, resulting in the town becoming virtually abandoned as well as the sea nearby becoming polluted. Ash's Pikachu was sick, later determined to be caused by a problem with buildup of electricity in the creature's cheeks, and the nearest Pokémon Center was located there. An uncharacteristically ill-tempered Nurse Joy greeted Ash.\n\nDuring their time there, the power in the town went out, due to a large amount of clogging the tunnels that deliver water to power the hydroelectric generators. Ash, Brock, and Misty went to investigate the power plant and restore normal operations.\n\nPikachu, along with the and several , were able to ward off the Grimer. They also weakened a , which Ash ended up capturing. Power was restored and the waterways were cleared. The residents left in the city say that they will work hard to clean it up and make it beautiful again."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Gringey City, while not wholly incorporated, is briefly referenced in , where and were added as encounters in the Kanto Power Plant."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Gringey City\nes:Ciudad Grisácea/Gringey\nfr:Salville\nit:Gringey City\nja:グンジョウシティ\nzh:黑雲市"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Gringey City",
+    "pageType": "location",
+    "searchableText": "Gringey City\nCategory:Animated series-exclusive locations\nGringey City (Japanese: グンジョウシティ Gunjou City) is an -exclusive location located in Kanto, between Celadon City and Fuchsia City. It was featured in Sparks Fly for Magnemite.\n\nAccording to a map that owned, Gringey City was originally bustling with activity, but the city eventually over-expanded the factories and power plants, resulting in the town becoming virtually abandoned as well as the sea nearby becoming polluted. Ash's Pikachu was sick, later determined to be caused by a problem with buildup of electricity in the creature's cheeks, and the nearest Pokémon Center was located there. An uncharacteristically ill-tempered Nurse Joy greeted Ash.\n\nDuring their time there, the power in the town went out, due to a large amount of clogging the tunnels that deliver water to power the hydroelectric generators. Ash, Brock, and Misty went to investigate the power plant and restore normal operations.\n\nPikachu, along with the and several , were able to ward off the Grimer. They also weakened a , which Ash ended up capturing. Power was restored and the waterways were cleared. The residents left in the city say that they will work hard to clean it up and make it beautiful again.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1517,
+    "sectionCount": 3
+  }
+}

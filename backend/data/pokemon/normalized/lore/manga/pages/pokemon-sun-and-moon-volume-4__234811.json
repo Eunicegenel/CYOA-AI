@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Sun & Moon volume 4",
+    "slug": "pokemon-sun-and-moon-volume-4",
+    "pageId": 234811,
+    "revisionId": 4132947
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-sun-and-moon-volume-4__234811.json",
+    "revisionTimestamp": "2024-09-29T05:29:53Z",
+    "fetchedAt": "2026-05-14T15:37:50.883Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 4 is the fourth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+  "plainText": "Volume 4 is the fourth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version. \n\n==Publications==\n \n \n\n==Chapters==\nAdventure 11: Homecoming and the Brilliant Professional Golfer\nAdventure 12: The Wild Full-Power Pose of Fire\nAdventure 13: Unleashing the Incredible Z-Move\n\n \n\n \n\n \n\nfr:Volume 4 (Pokémon Sun&Moon)\nit:Pokémon Sun & Moon volume 4",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 4 is the fourth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 11: Homecoming and the Brilliant Professional Golfer\nAdventure 12: The Wild Full-Power Pose of Fire\nAdventure 13: Unleashing the Incredible Z-Move\n\n \n\n \n\n \n\nfr:Volume 4 (Pokémon Sun&Moon)\nit:Pokémon Sun & Moon volume 4"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Sun & Moon volume 4",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Sun & Moon volume 4\nCategory:Pokémon Adventures volumes\nVolume 4 is the fourth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 622,
+    "sectionCount": 2
+  }
+}

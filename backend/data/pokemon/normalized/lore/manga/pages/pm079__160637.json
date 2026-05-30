@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM079",
+    "slug": "pm079",
+    "pageId": 160637,
+    "revisionId": 4528485
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm079__160637.json",
+    "revisionTimestamp": "2026-04-09T16:23:47Z",
+    "fetchedAt": "2026-05-14T15:31:19.349Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Hardest Bug Pokémon Wins?! (Japanese: むしポケモンはかたさで勝負！？ The Hardest Bug Pokémon Wins?!) is the seventy-ninth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Hardest Bug Pokémon Wins?! (Japanese: むしポケモンはかたさで勝負！？ The Hardest Bug Pokémon Wins?!) is the seventy-ninth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nBugsy\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n(Bugsy's)\n(Bugsy's)\n(Bugsy's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 79 (Pokémon Pocket Monsters)\nit:PMM079",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Hardest Bug Pokémon Wins?! (Japanese: むしポケモンはかたさで勝負！？ The Hardest Bug Pokémon Wins?!) is the seventy-ninth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Bugsy"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )\n(Bugsy's)\n(Bugsy's)\n(Bugsy's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 79 (Pokémon Pocket Monsters)\nit:PMM079"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM079",
+    "pageType": "chapter",
+    "searchableText": "PM079\nCategory:Pokémon Pocket Monsters chapters\nThe Hardest Bug Pokémon Wins?! (Japanese: むしポケモンはかたさで勝負！？ The Hardest Bug Pokémon Wins?!) is the seventy-ninth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 390,
+    "sectionCount": 4
+  }
+}

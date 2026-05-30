@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Potter",
+    "slug": "potter",
+    "pageId": 13998,
+    "revisionId": 4357177
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu characters",
+    "sourceFileName": "potter__13998.json",
+    "revisionTimestamp": "2025-08-12T14:49:07Z",
+    "fetchedAt": "2026-05-14T15:38:36.624Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Potter (Japanese: イワカゼ Iwakaze) is a character of the day who appeared in Make Room for Gloom. He is the resident gardener of the Xanadu Nursery.",
+  "plainText": "Potter (Japanese: イワカゼ Iwakaze) is a character of the day who appeared in Make Room for Gloom. He is the resident gardener of the Xanadu Nursery.\n\n==In animation==\n and met Potter in Pallet Town's Xanadu Nursery, where he was tending the plants growing there. His personality was not well very well-defined in the episode since he appeared mostly as a background character. He appeared to be very helpful and kind, though, as he would hum whenever he gardens. He is a very good worker, as Florinda Showers, the Xanadu Nursery's owner, noticed, and even served Florinda, Ash, , and tea after getting a short break from work.\n\nTowards the end of the episode, his familiarity with Florinda was established when it was revealed that he fell in love with her ever since he started working for her. He kept this silent for a long time, and only revealed his emotions when Florinda revealed hers first.\n\n===Voice actors===\n \n\n==In the manga==\n \n===The Electric Tale of Pikachu===\nPotter appeared in Days of Gloom and Glory.\n\nPotter's personality in the manga is vastly different from his animated series counterpart. He was the butler for the Showers family. He was brave and brawny and didn't care what dangers lay in front of him, as long as he could make Florinda happy. He even fought two by himself and ran across water to rescue . He worked to retrieve Florinda's ruined things from her sunken home.\n\nHis only fear was that of snakes. When confronted by Jessie's Arbok, he was paralyzed with fear.\n\nPotter was very hostile and sometimes violent to anyone who he deemed a threat to Florinda. Despite this, he was kind and caring towards Florinda and also developed feelings for her.\n\n==Related articles==\n \n \n\n \n \n \n \n\nde:Potter\nes:Potter\nit:Potter\nzh:岩风",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Potter (Japanese: イワカゼ Iwakaze) is a character of the day who appeared in Make Room for Gloom. He is the resident gardener of the Xanadu Nursery."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "and met Potter in Pallet Town's Xanadu Nursery, where he was tending the plants growing there. His personality was not well very well-defined in the episode since he appeared mostly as a background character. He appeared to be very helpful and kind, though, as he would hum whenever he gardens. He is a very good worker, as Florinda Showers, the Xanadu Nursery's owner, noticed, and even served Florinda, Ash, , and tea after getting a short break from work.\n\nTowards the end of the episode, his familiarity with Florinda was established when it was revealed that he fell in love with her ever since he started working for her. He kept this silent for a long time, and only revealed his emotions when Florinda revealed hers first."
+    },
+    {
+      "heading": "The Electric Tale of Pikachu",
+      "level": 3,
+      "text": "Potter appeared in Days of Gloom and Glory.\n\nPotter's personality in the manga is vastly different from his animated series counterpart. He was the butler for the Showers family. He was brave and brawny and didn't care what dangers lay in front of him, as long as he could make Florinda happy. He even fought two by himself and ran across water to rescue . He worked to retrieve Florinda's ruined things from her sunken home.\n\nHis only fear was that of snakes. When confronted by Jessie's Arbok, he was paralyzed with fear.\n\nPotter was very hostile and sometimes violent to anyone who he deemed a threat to Florinda. Despite this, he was kind and caring towards Florinda and also developed feelings for her."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Potter\nes:Potter\nit:Potter\nzh:岩风"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Potter",
+    "pageType": "character",
+    "searchableText": "Potter\nCategory:Electric Tale of Pikachu characters\nPotter (Japanese: イワカゼ Iwakaze) is a character of the day who appeared in Make Room for Gloom. He is the resident gardener of the Xanadu Nursery.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "The Electric Tale of Pikachu",
+      "Related articles"
+    ],
+    "characterCount": 1752,
+    "sectionCount": 4
+  }
+}

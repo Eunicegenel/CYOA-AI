@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Toshiron (TCG GB)",
+    "slug": "toshiron-tcg-gb",
+    "pageId": 225375,
+    "revisionId": 4360645
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ghosts",
+    "sourceFileName": "toshiron-tcg-gb__225375.json",
+    "revisionTimestamp": "2025-08-19T02:10:58Z",
+    "fetchedAt": "2026-05-14T14:55:10.616Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Toshiron (Japanese: トシロン) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Toshiron can be found in the third of the nine statues in the main room. Players who defeat Toshiron will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game.",
+  "plainText": "Toshiron (Japanese: トシロン) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Toshiron can be found in the third of the nine statues in the main room. Players who defeat Toshiron will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game.\n\n==Trainer Imprison Deck==\nTrainer Imprison Deck (Japanese: トレーナーふういんデッキ) is the deck played by Toshiron. The deck features various types of Pokémon and includes numerous cards designed to cause or prevent Trainer cards from being played.\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Sprites===\n \n\n==Related articles==\n \n \n\n \n \n\nit:Toshiron\nja:トレーナーふういんデッキ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Toshiron (Japanese: トシロン) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Toshiron can be found in the third of the nine statues in the main room. Players who defeat Toshiron will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game."
+    },
+    {
+      "heading": "Trainer Imprison Deck",
+      "level": 2,
+      "text": "Trainer Imprison Deck (Japanese: トレーナーふういんデッキ) is the deck played by Toshiron. The deck features various types of Pokémon and includes numerous cards designed to cause or prevent Trainer cards from being played."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Toshiron\nja:トレーナーふういんデッキ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Toshiron (TCG GB)",
+    "pageType": "general-anime-lore",
+    "searchableText": "Toshiron (TCG GB)\nCategory:Ghosts\nToshiron (Japanese: トシロン) is one of the Ghost Masters located in the Sealed Fort, located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR! Toshiron can be found in the third of the nine statues in the main room. Players who defeat Toshiron will obtain a Present Pack, which can consist of any card that can be found in a booster pack in the game.",
+    "sectionHeadings": [
+      "Lead",
+      "Trainer Imprison Deck",
+      "Related articles"
+    ],
+    "characterCount": 718,
+    "sectionCount": 3
+  }
+}

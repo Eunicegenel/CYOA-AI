@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon 4Koma Encyclopedia Gold and Silver",
+    "slug": "pokemon-4koma-encyclopedia-gold-and-silver",
+    "pageId": 178205,
+    "revisionId": 4526373
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-4koma-encyclopedia-gold-and-silver__178205.json",
+    "revisionTimestamp": "2026-04-09T14:40:00Z",
+    "fetchedAt": "2026-05-14T15:34:46.065Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモン4コマ大百科 金・銀 Pokémon 4Koma Encyclopedia: Gold and Silver) is a one-volume Pokémon manga created by Takahiro Yamashita. It is based on .",
+  "plainText": "(Japanese: ポケモン4コマ大百科 金・銀 Pokémon 4Koma Encyclopedia: Gold and Silver) is a one-volume Pokémon manga created by Takahiro Yamashita. It is based on .\n\n==Publications==\n \n \n\n \n \n\n \n\nit:Pokémon 4Koma Encyclopedia Gold and Silver\nzh:宝可梦4格大百科 金・银",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン4コマ大百科 金・銀 Pokémon 4Koma Encyclopedia: Gold and Silver) is a one-volume Pokémon manga created by Takahiro Yamashita. It is based on ."
+    },
+    {
+      "heading": "Publications",
+      "level": 2,
+      "text": "it:Pokémon 4Koma Encyclopedia Gold and Silver\nzh:宝可梦4格大百科 金・银"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 4Koma Encyclopedia Gold and Silver",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 4Koma Encyclopedia Gold and Silver\nCategory:Pokémon 4Koma\n(Japanese: ポケモン4コマ大百科 金・銀 Pokémon 4Koma Encyclopedia: Gold and Silver) is a one-volume Pokémon manga created by Takahiro Yamashita. It is based on .",
+    "sectionHeadings": [
+      "Lead",
+      "Publications"
+    ],
+    "characterCount": 241,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMHGSS15",
+    "slug": "pmhgss15",
+    "pageId": 175318,
+    "revisionId": 4526363
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS chapters",
+    "sourceFileName": "pmhgss15__175318.json",
+    "revisionTimestamp": "2026-04-09T14:39:21Z",
+    "fetchedAt": "2026-05-14T15:33:00.205Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピィ、はじめてのお使い♪ 's First Mission♪) is the fifteenth chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ピィ、はじめてのお使い♪ 's First Mission♪) is the fifteenth chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Elm\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピィ、はじめてのお使い♪ 's First Mission♪) is the fifteenth chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Elm"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMHGSS15",
+    "pageType": "chapter",
+    "searchableText": "PMHGSS15\nCategory:Pocket Monsters HGSS chapters\n(Japanese: ピィ、はじめてのお使い♪ 's First Mission♪) is the fifteenth chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 263,
+    "sectionCount": 3
+  }
+}

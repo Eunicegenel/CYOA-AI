@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Jack (Detective Pikachu)",
+    "slug": "jack-detective-pikachu",
+    "pageId": 238142,
+    "revisionId": 4191300
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu characters",
+    "sourceFileName": "jack-detective-pikachu__238142.json",
+    "revisionTimestamp": "2024-11-24T02:35:16Z",
+    "fetchedAt": "2026-05-14T14:25:24.376Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Jack (Japanese: ジャック Jack) is one of the characters of . He is Tim Goodman's childhood friend from Leaventown and is portrayed by .",
+  "plainText": "Jack (Japanese: ジャック Jack) is one of the characters of . He is Tim Goodman's childhood friend from Leaventown and is portrayed by .\n\n==History==\nAt the beginning of the movie, Jack tried to assist Tim in a , lonely , hoping it would help Tim open up more. However, the attempt went awry, and the Cubone broke free. When Tim left for Ryme City after hearing about his father Harry's death, Jack remained in Leaventown.\n\n==Voice actors==\n \n\n==Names==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jack (Japanese: ジャック Jack) is one of the characters of . He is Tim Goodman's childhood friend from Leaventown and is portrayed by ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "At the beginning of the movie, Jack tried to assist Tim in a , lonely , hoping it would help Tim open up more. However, the attempt went awry, and the Cubone broke free. When Tim left for Ryme City after hearing about his father Harry's death, Jack remained in Leaventown."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jack (Detective Pikachu)",
+    "pageType": "character",
+    "searchableText": "Jack (Detective Pikachu)\nCategory:Detective Pikachu characters\nJack (Japanese: ジャック Jack) is one of the characters of . He is Tim Goodman's childhood friend from Leaventown and is portrayed by .",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 472,
+    "sectionCount": 2
+  }
+}

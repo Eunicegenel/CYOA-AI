@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Yoko Asada",
+    "slug": "yoko-asada",
+    "pageId": 56256,
+    "revisionId": 4323471
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "yoko-asada__56256.json",
+    "revisionTimestamp": "2025-06-24T03:30:43Z",
+    "fetchedAt": "2026-05-14T14:59:52.659Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yoko Asada (Japanese: 浅田葉子 Asada Yoko) is a Japanese voice actress for .",
+  "plainText": "Yoko Asada (Japanese: 浅田葉子 Asada Yoko) is a Japanese voice actress for .\n\n==Biography==\nAsada was born on May 23, 1969, in , , and became a voice actress as an adult. She joined during and voiced , one of 's older sisters. Asada is currently affiliated with the talent agency .\n\n==Pokémon roles==\n===Animation===\n==== ====\n\n==Other non-Pokémon roles==\nAlice Mizuki ( )\nAino Nozomi ( )\nD-Reaper, Juri Kato ( )\nPlotmon ( )\nRoseno ( )\n\n===Video game roles===\nLeeza ( )\nMia Ausa ( )\n( (arcade version))\nWill ( )\nRinka Yoshino ( )\n\n==External links==\n81 Produce profile\n\n \n\n \nja:浅田葉子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yoko Asada (Japanese: 浅田葉子 Asada Yoko) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Asada was born on May 23, 1969, in , , and became a voice actress as an adult. She joined during and voiced , one of 's older sisters. Asada is currently affiliated with the talent agency ."
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Alice Mizuki ( )\nAino Nozomi ( )\nD-Reaper, Juri Kato ( )\nPlotmon ( )\nRoseno ( )"
+    },
+    {
+      "heading": "Video game roles",
+      "level": 3,
+      "text": "Leeza ( )\nMia Ausa ( )\n( (arcade version))\nWill ( )\nRinka Yoshino ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "81 Produce profile\n\n \n\n \nja:浅田葉子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yoko Asada",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yoko Asada\nCategory:Japanese voice actors\nYoko Asada (Japanese: 浅田葉子 Asada Yoko) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Other non-Pokémon roles",
+      "Video game roles",
+      "External links"
+    ],
+    "characterCount": 578,
+    "sectionCount": 5
+  }
+}

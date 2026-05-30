@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Shu's father",
+    "slug": "shus-father",
+    "pageId": 93667,
+    "revisionId": 4398490
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "shus-father__93667.json",
+    "revisionTimestamp": "2025-10-12T11:59:37Z",
+    "fetchedAt": "2026-05-14T15:49:28.059Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Shu's father (Japanese: シュウの父 Shū's father) is a character from Pokémon: Yeah! I Got Pokémon!.",
+  "plainText": "Shu's father (Japanese: シュウの父 Shū's father) is a character from Pokémon: Yeah! I Got Pokémon!.\n\n==History==\nShu's father left home five years ago to try to capture , but the adventure proved frivolous. He did not catch Mew, but he did capture . \n\nShu's father is an accomplished inventor and is the creator of the Income device.\n\nHe wanted to name Shu , but his wife decided against it.\n\nShu once claimed his father used him as bait for catching his Pokémon, made him pass an intelligence test at the same time as a and made him eat Pokémon food.\n\n==Pokémon==\n \n \n \n \n \n\n \n \n \n\nfr:Père de Shū\nit:Padre di Shu",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shu's father (Japanese: シュウの父 Shū's father) is a character from Pokémon: Yeah! I Got Pokémon!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Shu's father left home five years ago to try to capture , but the adventure proved frivolous. He did not catch Mew, but he did capture . \n\nShu's father is an accomplished inventor and is the creator of the Income device.\n\nHe wanted to name Shu , but his wife decided against it.\n\nShu once claimed his father used him as bait for catching his Pokémon, made him pass an intelligence test at the same time as a and made him eat Pokémon food."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "fr:Père de Shū\nit:Padre di Shu"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shu's father",
+    "pageType": "character",
+    "searchableText": "Shu's father\nCategory:Pokémon: Yeah! I Got Pokémon! characters\nShu's father (Japanese: シュウの父 Shū's father) is a character from Pokémon: Yeah! I Got Pokémon!.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon"
+    ],
+    "characterCount": 608,
+    "sectionCount": 3
+  }
+}

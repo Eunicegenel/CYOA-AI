@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Battrio: Aim to be Battrio Master!",
+    "slug": "pokemon-battrio-aim-to-be-battrio-master",
+    "pageId": 79739,
+    "revisionId": 4528551
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master!",
+    "sourceFileName": "pokemon-battrio-aim-to-be-battrio-master__79739.json",
+    "revisionTimestamp": "2026-04-09T16:26:32Z",
+    "fetchedAt": "2026-05-14T15:35:48.844Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモンバトリオ めざせ! バトリオマスター Pokémon Battrio: Aim to be Battrio Master!) is a series based on the arcade game Pokémon Battrio. It is created by Takashi Teshirogi. The manga is about Ryū Tendō, who is trying to become a Battrio Master.",
+  "plainText": "(Japanese: ポケモンバトリオ めざせ! バトリオマスター Pokémon Battrio: Aim to be Battrio Master!) is a series based on the arcade game Pokémon Battrio. It is created by Takashi Teshirogi. The manga is about Ryū Tendō, who is trying to become a Battrio Master.\n\n==List of volumes==\n \n\n \n\n \n \n\nes:Pokémon Battrio: Mezase! Battrio Master\nfr:Pokémon Battrio Mezase! Battrio Master\nit:Pokémon Battrio: Aim to be Battrio Master!\nzh:宝可梦三只组对战 目标！三只组对战大师",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンバトリオ めざせ! バトリオマスター Pokémon Battrio: Aim to be Battrio Master!) is a series based on the arcade game Pokémon Battrio. It is created by Takashi Teshirogi. The manga is about Ryū Tendō, who is trying to become a Battrio Master."
+    },
+    {
+      "heading": "List of volumes",
+      "level": 2,
+      "text": "es:Pokémon Battrio: Mezase! Battrio Master\nfr:Pokémon Battrio Mezase! Battrio Master\nit:Pokémon Battrio: Aim to be Battrio Master!\nzh:宝可梦三只组对战 目标！三只组对战大师"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Battrio: Aim to be Battrio Master!",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Battrio: Aim to be Battrio Master!\nCategory:Pokémon Battrio: Aim to be Battrio Master!\n(Japanese: ポケモンバトリオ めざせ! バトリオマスター Pokémon Battrio: Aim to be Battrio Master!) is a series based on the arcade game Pokémon Battrio. It is created by Takashi Teshirogi. The manga is about Ryū Tendō, who is trying to become a Battrio Master.",
+    "sectionHeadings": [
+      "Lead",
+      "List of volumes"
+    ],
+    "characterCount": 425,
+    "sectionCount": 2
+  }
+}

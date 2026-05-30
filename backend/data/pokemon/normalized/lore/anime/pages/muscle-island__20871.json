@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Muscle Island",
+    "slug": "muscle-island",
+    "pageId": 20871,
+    "revisionId": 4550505
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "muscle-island__20871.json",
+    "revisionTimestamp": "2026-05-12T10:19:42Z",
+    "fetchedAt": "2026-05-14T14:38:38.510Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Muscle Island (Japanese: ガンガ島 Ganga Island) is an -exclusive island in Hoenn, found in between Lilycove City and Mossdeep City. It appeared in Training Wrecks.\n\nThe island is most famous for its bodybuilders and people interested in getting into shape. The unique part about the island is that they use Pokémon to help them accomplish this in addition to regular exercise equipment.\n\nWhen and visited Muscle Island, they were greeted by Rocky, who runs a fitness bootcamp on the island. Later, Rocky had a Double Battle with Ash, to prove that his training methods created strong Pokémon. Meanwhile , , Max and all exercised to the point of exhaustion.",
+  "plainText": "Muscle Island (Japanese: ガンガ島 Ganga Island) is an -exclusive island in Hoenn, found in between Lilycove City and Mossdeep City. It appeared in Training Wrecks.\n\nThe island is most famous for its bodybuilders and people interested in getting into shape. The unique part about the island is that they use Pokémon to help them accomplish this in addition to regular exercise equipment.\n\nWhen and visited Muscle Island, they were greeted by Rocky, who runs a fitness bootcamp on the island. Later, Rocky had a Double Battle with Ash, to prove that his training methods created strong Pokémon. Meanwhile , , Max and all exercised to the point of exhaustion.\n\n==Pokémon seen on Muscle Island==\n \n\n==Trivia==\nThe Japanese name of this location, \"Ganga Island\", is similar to the dub name of Gavin's hometown, Ganga Town.\nThe large mountain on the island looks like a muscular arm flexing its bicep, represented by the small mountain, which is most likely how the island got its name.\n \n \n \n\nes:Isla Músculo\nit:Isola dei Muscoli\nzh:剛迦島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Muscle Island (Japanese: ガンガ島 Ganga Island) is an -exclusive island in Hoenn, found in between Lilycove City and Mossdeep City. It appeared in Training Wrecks.\n\nThe island is most famous for its bodybuilders and people interested in getting into shape. The unique part about the island is that they use Pokémon to help them accomplish this in addition to regular exercise equipment.\n\nWhen and visited Muscle Island, they were greeted by Rocky, who runs a fitness bootcamp on the island. Later, Rocky had a Double Battle with Ash, to prove that his training methods created strong Pokémon. Meanwhile , , Max and all exercised to the point of exhaustion."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The Japanese name of this location, \"Ganga Island\", is similar to the dub name of Gavin's hometown, Ganga Town.\nThe large mountain on the island looks like a muscular arm flexing its bicep, represented by the small mountain, which is most likely how the island got its name.\n \n \n \n\nes:Isla Músculo\nit:Isola dei Muscoli\nzh:剛迦島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Muscle Island",
+    "pageType": "location",
+    "searchableText": "Muscle Island\nCategory:Animated series-exclusive locations\nMuscle Island (Japanese: ガンガ島 Ganga Island) is an -exclusive island in Hoenn, found in between Lilycove City and Mossdeep City. It appeared in Training Wrecks.\n\nThe island is most famous for its bodybuilders and people interested in getting into shape. The unique part about the island is that they use Pokémon to help them accomplish this in addition to regular exercise equipment.\n\nWhen and visited Muscle Island, they were greeted by Rocky, who runs a fitness bootcamp on the island. Later, Rocky had a Double Battle with Ash, to prove that his training methods created strong Pokémon. Meanwhile , , Max and all exercised to the point of exhaustion.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 1027,
+    "sectionCount": 2
+  }
+}

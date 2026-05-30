@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Allegra Clark",
+    "slug": "allegra-clark",
+    "pageId": 270688,
+    "revisionId": 4351702
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "allegra-clark__270688.json",
+    "revisionTimestamp": "2025-08-03T13:40:00Z",
+    "fetchedAt": "2026-05-14T14:00:43.905Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Allegra Gillian Clark (Born July 11, 1988) is an American voice actress. In the Pokémon franchise, she has mainly voiced characters in Pokémon: Twilight Wings. Clark joined the in , voicing Lyla and her .",
+  "plainText": "Allegra Gillian Clark (Born July 11, 1988) is an American voice actress. In the Pokémon franchise, she has mainly voiced characters in Pokémon: Twilight Wings. Clark joined the in , voicing Lyla and her .\n\n==Biography==\nAllegra Clark is an American voice actress based in California. After spending a childhood doing commercials and school plays in both French and English, Allegra studied theatre and Italian literature at , where she realized her knack for voice and accent work. Since then, she has worked on a number of different voiceover projects, including animation, video games, ADR, and commercials.\n\nIn addition to screaming into microphones in small padded rooms, Allegra also enjoys pushing her personal boundaries by doing improv, and making excellent use of her ten years of vocal training by serenading her cat. \n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nLyla\n\n=====Pokémon=====\n\n====Pokémon: Twilight Wings====\n=====Humans=====\nSonia \n\n=====Pokémon=====\n(Pokémon: Twilight Wings)\n(Pokémon: Twilight Wings) \n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nSister Ivry ( )\nHina ( )\nBeidou ( )\nFiona ( )\nSpider-Gwen ( )\nDorothea ( )\n\n==Trivia==\nSince she has a habit of acquiring collectables of characters she voices, Allegra has a collection of Cynthia statues. \n\n==External links==\nOfficial site\nStreamily\nInstagram\nTwiiter\nImdb\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Allegra Gillian Clark (Born July 11, 1988) is an American voice actress. In the Pokémon franchise, she has mainly voiced characters in Pokémon: Twilight Wings. Clark joined the in , voicing Lyla and her ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Allegra Clark is an American voice actress based in California. After spending a childhood doing commercials and school plays in both French and English, Allegra studied theatre and Italian literature at , where she realized her knack for voice and accent work. Since then, she has worked on a number of different voiceover projects, including animation, video games, ADR, and commercials.\n\nIn addition to screaming into microphones in small padded rooms, Allegra also enjoys pushing her personal boundaries by doing improv, and making excellent use of her ten years of vocal training by serenading her cat."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Lyla"
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Sonia"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(Pokémon: Twilight Wings)\n(Pokémon: Twilight Wings)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Sister Ivry ( )\nHina ( )\nBeidou ( )\nFiona ( )\nSpider-Gwen ( )\nDorothea ( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Since she has a habit of acquiring collectables of characters she voices, Allegra has a collection of Cynthia statues."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official site\nStreamily\nInstagram\nTwiiter\nImdb"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Allegra Clark",
+    "pageType": "general-anime-lore",
+    "searchableText": "Allegra Clark\nCategory:TPCi voice actors\nAllegra Gillian Clark (Born July 11, 1988) is an American voice actress. In the Pokémon franchise, she has mainly voiced characters in Pokémon: Twilight Wings. Clark joined the in , voicing Lyla and her .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Other non-Pokémon roles",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 1408,
+    "sectionCount": 8
+  }
+}

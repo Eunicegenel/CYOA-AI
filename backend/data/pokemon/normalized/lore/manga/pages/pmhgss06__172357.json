@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMHGSS06",
+    "slug": "pmhgss06",
+    "pageId": 172357,
+    "revisionId": 4528565
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS chapters",
+    "sourceFileName": "pmhgss06__172357.json",
+    "revisionTimestamp": "2026-04-09T16:26:55Z",
+    "fetchedAt": "2026-05-14T15:32:54.570Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: リニアでおでかけ！ Start Out on the Magnet Train!) is the sixth chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: リニアでおでかけ！ Start Out on the Magnet Train!) is the sixth chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n(multiple)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: リニアでおでかけ！ Start Out on the Magnet Train!) is the sixth chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(multiple)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMHGSS06",
+    "pageType": "chapter",
+    "searchableText": "PMHGSS06\nCategory:Pocket Monsters HGSS chapters\n(Japanese: リニアでおでかけ！ Start Out on the Magnet Train!) is the sixth chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 265,
+    "sectionCount": 2
+  }
+}

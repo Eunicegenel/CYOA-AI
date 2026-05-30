@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pocket Monsters DP chapters",
+    "slug": "list-of-pocket-monsters-dp-chapters",
+    "pageId": 176567,
+    "revisionId": 4131087
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "list-of-pocket-monsters-dp-chapters__176567.json",
+    "revisionTimestamp": "2024-09-29T03:59:03Z",
+    "fetchedAt": "2026-05-14T15:24:34.545Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The following is a list of chapters from the manga created by Kosaku Anakubo. Altogether, there are 59 chapters.",
+  "plainText": "The following is a list of chapters from the manga created by Kosaku Anakubo. Altogether, there are 59 chapters.\n\n== ==\n \n \n\n== ==\n \n \n\n== ==\n \n \n\n== ==\n \n \n\n== ==\n \n\n \n\n \n \n\nit:Elenco dei capitoli di Pocket Monsters DP",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of chapters from the manga created by Kosaku Anakubo. Altogether, there are 59 chapters."
+    },
+    {
+      "heading": "",
+      "level": 2,
+      "text": "it:Elenco dei capitoli di Pocket Monsters DP"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pocket Monsters DP chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Pocket Monsters DP chapters\nCategory:Pocket Monsters DP chapters\nThe following is a list of chapters from the manga created by Kosaku Anakubo. Altogether, there are 59 chapters.",
+    "sectionHeadings": [
+      "Lead",
+      ""
+    ],
+    "characterCount": 219,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Ms. Chandler",
+    "slug": "ms-chandler",
+    "pageId": 170227,
+    "revisionId": 4480420
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "ms-chandler__170227.json",
+    "revisionTimestamp": "2026-02-02T08:49:35Z",
+    "fetchedAt": "2026-05-14T14:38:31.005Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ms. Chandler (Japanese: チハヤ Chihaya) is a character of the day who appeared in Beauties Battling for Pride and Prestige!. She is the manager of the Flower Garden Troupe, which Moira, Mona, and Cher are a part of.\n\nShe watched the battles , , and had with the girls she manages, and was impressed by their performances. After Iris defeated Moira, she came in to congratulate her and asked if she, Ash and Cilan wanted to become part of the Flower Garden Troupe. This was not their intention however, and they fled from the building of the troupe immediately. Ms. Chandler ran after them but couldn't catch up, much to her dismay.",
+  "plainText": "Ms. Chandler (Japanese: チハヤ Chihaya) is a character of the day who appeared in Beauties Battling for Pride and Prestige!. She is the manager of the Flower Garden Troupe, which Moira, Mona, and Cher are a part of.\n\nShe watched the battles , , and had with the girls she manages, and was impressed by their performances. After Iris defeated Moira, she came in to congratulate her and asked if she, Ash and Cilan wanted to become part of the Flower Garden Troupe. This was not their intention however, and they fled from the building of the troupe immediately. Ms. Chandler ran after them but couldn't catch up, much to her dismay.\n\n==Voice actors==\n \n \n \n\n \n \n \n \n\nit:Ms. Chandler\nzh:千早",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ms. Chandler (Japanese: チハヤ Chihaya) is a character of the day who appeared in Beauties Battling for Pride and Prestige!. She is the manager of the Flower Garden Troupe, which Moira, Mona, and Cher are a part of.\n\nShe watched the battles , , and had with the girls she manages, and was impressed by their performances. After Iris defeated Moira, she came in to congratulate her and asked if she, Ash and Cilan wanted to become part of the Flower Garden Troupe. This was not their intention however, and they fled from the building of the troupe immediately. Ms. Chandler ran after them but couldn't catch up, much to her dismay."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Ms. Chandler\nzh:千早"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ms. Chandler",
+    "pageType": "character",
+    "searchableText": "Ms. Chandler\nCategory:Unova characters of the day\nMs. Chandler (Japanese: チハヤ Chihaya) is a character of the day who appeared in Beauties Battling for Pride and Prestige!. She is the manager of the Flower Garden Troupe, which Moira, Mona, and Cher are a part of.\n\nShe watched the battles , , and had with the girls she manages, and was impressed by their performances. After Iris defeated Moira, she came in to congratulate her and asked if she, Ash and Cilan wanted to become part of the Flower Garden Troupe. This was not their intention however, and they fled from the building of the troupe immediately. Ms. Chandler ran after them but couldn't catch up, much to her dismay.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 684,
+    "sectionCount": 2
+  }
+}

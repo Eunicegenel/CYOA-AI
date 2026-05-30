@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PDP21",
+    "slug": "pdp21",
+    "pageId": 179665,
+    "revisionId": 4527900
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp21__179665.json",
+    "revisionTimestamp": "2026-04-09T15:58:56Z",
+    "fetchedAt": "2026-05-14T15:29:48.592Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: サトシとヒカリが大ゲンカ!? and Huge Quarrel!?) is the twenty-first chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: サトシとヒカリが大ゲンカ!? and Huge Quarrel!?) is the twenty-first chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: サトシとヒカリが大ゲンカ!? and Huge Quarrel!?) is the twenty-first chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP21",
+    "pageType": "chapter",
+    "searchableText": "PDP21\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: サトシとヒカリが大ゲンカ!? and Huge Quarrel!?) is the twenty-first chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 235,
+    "sectionCount": 2
+  }
+}

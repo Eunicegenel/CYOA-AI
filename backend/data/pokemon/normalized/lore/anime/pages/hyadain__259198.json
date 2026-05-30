@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Hyadain",
+    "slug": "hyadain",
+    "pageId": 259198,
+    "revisionId": 4284178
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "hyadain__259198.json",
+    "revisionTimestamp": "2025-04-19T20:54:27Z",
+    "fetchedAt": "2026-05-14T14:23:08.886Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kenichi Maeyamada (Japanese: 前山田健一 Maeyamada Ken'ichi), also known as Hyadain (Japanese: ヒャダイン Hyadain) is a Japanese musician and one of the hosts of Meet Up at the Pokémon House?.",
+  "plainText": "Kenichi Maeyamada (Japanese: 前山田健一 Maeyamada Ken'ichi), also known as Hyadain (Japanese: ヒャダイン Hyadain) is a Japanese musician and one of the hosts of Meet Up at the Pokémon House?.\n\n==Biography==\nMaeyamada was born on July 4, 1980, in , , , . He began his musical career in 2007, and revealed his identity as Hyadain in 2010.\n\n==Pokémon roles==\n===Animation===\n==== ====\nKenichi\n\n==Musical appearances==\nPoké-Friends' Song (artist and lyricist)\nType: Wild (SM129-SM146; arranger)\nBehold! Pokémon Mezastar!! (lyricist and composer)\nBehold! Pokémon Mezastar! Super Tag (lyricist and composer)\nBehold! Pokémon Mezastar! Double Chain (lyricist and composer)\nFull Throttle! Pokémon Mezastar! Gorgeous Star (lyricist and composer)\n\n==See also==\nShōko Nakagawa\n\n==External links==\nOfficial website\nTwitter\n\n \n\n \n \n\nit:Hyadain\nja:ヒャダイン",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kenichi Maeyamada (Japanese: 前山田健一 Maeyamada Ken'ichi), also known as Hyadain (Japanese: ヒャダイン Hyadain) is a Japanese musician and one of the hosts of Meet Up at the Pokémon House?."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Maeyamada was born on July 4, 1980, in , , , . He began his musical career in 2007, and revealed his identity as Hyadain in 2010."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Kenichi"
+    },
+    {
+      "heading": "Musical appearances",
+      "level": 2,
+      "text": "Poké-Friends' Song (artist and lyricist)\nType: Wild (SM129-SM146; arranger)\nBehold! Pokémon Mezastar!! (lyricist and composer)\nBehold! Pokémon Mezastar! Super Tag (lyricist and composer)\nBehold! Pokémon Mezastar! Double Chain (lyricist and composer)\nFull Throttle! Pokémon Mezastar! Gorgeous Star (lyricist and composer)"
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "Shōko Nakagawa"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTwitter\n\n \n\n \n \n\nit:Hyadain\nja:ヒャダイン"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hyadain",
+    "pageType": "general-anime-lore",
+    "searchableText": "Hyadain\nCategory:Japanese voice actors\nKenichi Maeyamada (Japanese: 前山田健一 Maeyamada Ken'ichi), also known as Hyadain (Japanese: ヒャダイン Hyadain) is a Japanese musician and one of the hosts of Meet Up at the Pokémon House?.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Musical appearances",
+      "See also",
+      "External links"
+    ],
+    "characterCount": 828,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pikachu & Friends",
+    "slug": "pikachu-and-friends",
+    "pageId": 280659,
+    "revisionId": 4261580
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation home video",
+    "sourceFileName": "pikachu-and-friends__280659.json",
+    "revisionTimestamp": "2025-03-20T02:11:18Z",
+    "fetchedAt": "2026-05-14T14:41:46.452Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Pikachu & Friends is a collection of single-disc compilation DVDs by VIZ Media (distributed by Warner Home Video) that feature eight episodes of sourced from various seasons, each focusing on a specific Pokémon.",
+  "plainText": "Pikachu & Friends is a collection of single-disc compilation DVDs by VIZ Media (distributed by Warner Home Video) that feature eight episodes of sourced from various seasons, each focusing on a specific Pokémon.\n\n==Volumes==\n=== & Friends===\n \nReleased on June 1, 2021, with the ISBN number 7-82009-24726-5. Optional English-language captioning is included.\n \n \n \n \n \n \n \n \n \n \n\n===Pikachu & Friends - Starring ===\n \nReleased on September 20, 2022, with the ISBN number 7-82009-24759-3. Optional English-language captioning is included.\n \n \n \n \n \n \n \n \n \n \n\n==External links==\nVIZ Media's website\nPikachu & Friends\nPikachu & Friends - Starring Eevee",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pikachu & Friends is a collection of single-disc compilation DVDs by VIZ Media (distributed by Warner Home Video) that feature eight episodes of sourced from various seasons, each focusing on a specific Pokémon."
+    },
+    {
+      "heading": "& Friends",
+      "level": 3,
+      "text": "Released on June 1, 2021, with the ISBN number 7-82009-24726-5. Optional English-language captioning is included."
+    },
+    {
+      "heading": "Pikachu & Friends - Starring",
+      "level": 3,
+      "text": "Released on September 20, 2022, with the ISBN number 7-82009-24759-3. Optional English-language captioning is included."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "VIZ Media's website\nPikachu & Friends\nPikachu & Friends - Starring Eevee"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pikachu & Friends",
+    "pageType": "general-anime-lore",
+    "searchableText": "Pikachu & Friends\nCategory:Animation home video\nPikachu & Friends is a collection of single-disc compilation DVDs by VIZ Media (distributed by Warner Home Video) that feature eight episodes of sourced from various seasons, each focusing on a specific Pokémon.",
+    "sectionHeadings": [
+      "Lead",
+      "& Friends",
+      "Pikachu & Friends - Starring",
+      "External links"
+    ],
+    "characterCount": 649,
+    "sectionCount": 4
+  }
+}

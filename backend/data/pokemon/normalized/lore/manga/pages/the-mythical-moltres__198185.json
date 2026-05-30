@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "The Mythical Moltres",
+    "slug": "the-mythical-moltres",
+    "pageId": 198185,
+    "revisionId": 4336739
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "the-mythical-moltres__198185.json",
+    "revisionTimestamp": "2025-07-15T23:02:24Z",
+    "fetchedAt": "2026-05-14T15:51:37.869Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: The Mythical Moltres is the eleventh monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapter twenty-six of the . The chapter originally released in this book was later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: The Mythical Moltres is the eleventh monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapter twenty-six of the . The chapter originally released in this book was later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 26 - Holy Moltres\n\n==Important events==\ngets his Old Amber revived into an .\nTeam Rocket obtains , , and .\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\nRed's (\"Aero\") in PS026.\n\n==Gym battles==\nRed defeats the following Gym Leaders:\nin PS026\n\n \n \n\nfr:Volume 11 (Pokémon Adventures)\nit:The Mythical Moltres",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: The Mythical Moltres is the eleventh monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapter twenty-six of the . The chapter originally released in this book was later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 26 - Holy Moltres"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "gets his Old Amber revived into an .\nTeam Rocket obtains , , and ."
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:\nRed's (\"Aero\") in PS026."
+    },
+    {
+      "heading": "Gym battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:\nin PS026\n\n \n \n\nfr:Volume 11 (Pokémon Adventures)\nit:The Mythical Moltres"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Mythical Moltres",
+    "pageType": "pokemon-related",
+    "searchableText": "The Mythical Moltres\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: The Mythical Moltres is the eleventh monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapter twenty-six of the . The chapter originally released in this book was later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Additions",
+      "Gym battles"
+    ],
+    "characterCount": 768,
+    "sectionCount": 5
+  }
+}

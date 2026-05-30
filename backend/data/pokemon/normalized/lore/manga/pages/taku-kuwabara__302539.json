@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Taku Kuwabara",
+    "slug": "taku-kuwabara",
+    "pageId": 302539,
+    "revisionId": 4093230
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga crew",
+    "sourceFileName": "taku-kuwabara__302539.json",
+    "revisionTimestamp": "2024-08-31T01:26:56Z",
+    "fetchedAt": "2026-05-14T15:51:07.163Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Taku Kuwabara (Japanese: 桑原太矩 Kuwabara Taku, born May 20, 1985) is a mangaka that has worked on the Pokémon series, as the writer and artist on Snorlax's Dream Gourmet. To commemorate the release, he posted his Master Ball Rank rental team for players of Pokémon Scarlet and Violet to download and use in-game, which included a holding an Assault Vest. \n\nAccording to Kuwabara, the first game he ever played was Pokémon Red.",
+  "plainText": "Taku Kuwabara (Japanese: 桑原太矩 Kuwabara Taku, born May 20, 1985) is a mangaka that has worked on the Pokémon series, as the writer and artist on Snorlax's Dream Gourmet. To commemorate the release, he posted his Master Ball Rank rental team for players of Pokémon Scarlet and Violet to download and use in-game, which included a holding an Assault Vest. \n\nAccording to Kuwabara, the first game he ever played was Pokémon Red. \n\n==Designs==\n===Characters===\nThe following is a list of characters designed by Kuwabara.\n\n \n\n==Works==\n===Pokémon & GAME FREAK releases===\n\n \n \n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Taku Kuwabara (Japanese: 桑原太矩 Kuwabara Taku, born May 20, 1985) is a mangaka that has worked on the Pokémon series, as the writer and artist on Snorlax's Dream Gourmet. To commemorate the release, he posted his Master Ball Rank rental team for players of Pokémon Scarlet and Violet to download and use in-game, which included a holding an Assault Vest. \n\nAccording to Kuwabara, the first game he ever played was Pokémon Red."
+    },
+    {
+      "heading": "Characters",
+      "level": 3,
+      "text": "The following is a list of characters designed by Kuwabara."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Taku Kuwabara",
+    "pageType": "manga-series",
+    "searchableText": "Taku Kuwabara\nCategory:Manga crew\nTaku Kuwabara (Japanese: 桑原太矩 Kuwabara Taku, born May 20, 1985) is a mangaka that has worked on the Pokémon series, as the writer and artist on Snorlax's Dream Gourmet. To commemorate the release, he posted his Master Ball Rank rental team for players of Pokémon Scarlet and Violet to download and use in-game, which included a holding an Assault Vest. \n\nAccording to Kuwabara, the first game he ever played was Pokémon Red.",
+    "sectionHeadings": [
+      "Lead",
+      "Characters"
+    ],
+    "characterCount": 586,
+    "sectionCount": 2
+  }
+}

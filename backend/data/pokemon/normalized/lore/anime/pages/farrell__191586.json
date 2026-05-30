@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Farrell",
+    "slug": "farrell",
+    "pageId": 191586,
+    "revisionId": 4095672
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kalos characters of the day",
+    "sourceFileName": "farrell__191586.json",
+    "revisionTimestamp": "2024-09-01T00:37:09Z",
+    "fetchedAt": "2026-05-14T14:18:54.001Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Farrell (Japanese: ファレル Farrell) is a character of the day who appeared in Breaking Titles at the Chateau!. He is a participating at the Battle Chateau, where he holds the rank of .\n\nWhen Nico, who also holds the rank of Baron, came to the Battle Chateau, Duke Turner announced him in the salon, where the Trainers meet up. As Trainers at the Battle Chateau are only allowed to fight Trainers with the same rank, Farrell came forward and accepted Nico's challenge to a . Farrell started off the match strong, though Nico and his ultimately won and Farrell congratulated Nico with a respectful nod.",
+  "plainText": "Farrell (Japanese: ファレル Farrell) is a character of the day who appeared in Breaking Titles at the Chateau!. He is a participating at the Battle Chateau, where he holds the rank of .\n\nWhen Nico, who also holds the rank of Baron, came to the Battle Chateau, Duke Turner announced him in the salon, where the Trainers meet up. As Trainers at the Battle Chateau are only allowed to fight Trainers with the same rank, Farrell came forward and accepted Nico's challenge to a . Farrell started off the match strong, though Nico and his ultimately won and Farrell congratulated Nico with a respectful nod.\n\n==Pokémon==\n \n==Achievements==\n \n=====Battle Chateau=====\nFarrell achieved the following ranks in Battle Chateau:\n(prior to Breaking Titles at the Chateau!)\n \n\n==Voice actors==\n \n \n \n\n \n \n \n\nes:Farrell\nfr:Lancelot\nit:Flaviano\nzh:法雷尔",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Farrell (Japanese: ファレル Farrell) is a character of the day who appeared in Breaking Titles at the Chateau!. He is a participating at the Battle Chateau, where he holds the rank of .\n\nWhen Nico, who also holds the rank of Baron, came to the Battle Chateau, Duke Turner announced him in the salon, where the Trainers meet up. As Trainers at the Battle Chateau are only allowed to fight Trainers with the same rank, Farrell came forward and accepted Nico's challenge to a . Farrell started off the match strong, though Nico and his ultimately won and Farrell congratulated Nico with a respectful nod."
+    },
+    {
+      "heading": "Battle Chateau",
+      "level": 5,
+      "text": "Farrell achieved the following ranks in Battle Chateau:\n(prior to Breaking Titles at the Chateau!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Farrell\nfr:Lancelot\nit:Flaviano\nzh:法雷尔"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Farrell",
+    "pageType": "character",
+    "searchableText": "Farrell\nCategory:Kalos characters of the day\nFarrell (Japanese: ファレル Farrell) is a character of the day who appeared in Breaking Titles at the Chateau!. He is a participating at the Battle Chateau, where he holds the rank of .\n\nWhen Nico, who also holds the rank of Baron, came to the Battle Chateau, Duke Turner announced him in the salon, where the Trainers meet up. As Trainers at the Battle Chateau are only allowed to fight Trainers with the same rank, Farrell came forward and accepted Nico's challenge to a . Farrell started off the match strong, though Nico and his ultimately won and Farrell congratulated Nico with a respectful nod.",
+    "sectionHeadings": [
+      "Lead",
+      "Battle Chateau",
+      "Voice actors"
+    ],
+    "characterCount": 831,
+    "sectionCount": 3
+  }
+}

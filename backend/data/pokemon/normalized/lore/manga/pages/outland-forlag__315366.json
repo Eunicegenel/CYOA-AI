@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Outland forlag",
+    "slug": "outland-forlag",
+    "pageId": 315366,
+    "revisionId": 4473537
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga",
+    "sourceFileName": "outland-forlag__315366.json",
+    "revisionTimestamp": "2026-01-23T21:12:16Z",
+    "fetchedAt": "2026-05-14T15:28:01.277Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Outland forlag is a publishing company headquartered in Norway. They publish comics and manga in Norwegian, including Pokémon manga.",
+  "plainText": "Outland forlag is a publishing company headquartered in Norway. They publish comics and manga in Norwegian, including Pokémon manga. \n\n==Pokémon titles licensed by Outland forlag==\nPokémon Adventures (regular tankōbon volumes; each arc with its own numbering)\n(2021-2022, three volumes)\n(2022, four volumes)\n(2023-2025, eight volumes)\n(2025-present, ongoing)\n \n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Outland forlag is a publishing company headquartered in Norway. They publish comics and manga in Norwegian, including Pokémon manga."
+    },
+    {
+      "heading": "Pokémon titles licensed by Outland forlag",
+      "level": 2,
+      "text": "Pokémon Adventures (regular tankōbon volumes; each arc with its own numbering)\n(2021-2022, three volumes)\n(2022, four volumes)\n(2023-2025, eight volumes)\n(2025-present, ongoing)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Outland forlag",
+    "pageType": "manga-series",
+    "searchableText": "Outland forlag\nCategory:Manga\nOutland forlag is a publishing company headquartered in Norway. They publish comics and manga in Norwegian, including Pokémon manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon titles licensed by Outland forlag"
+    ],
+    "characterCount": 381,
+    "sectionCount": 2
+  }
+}

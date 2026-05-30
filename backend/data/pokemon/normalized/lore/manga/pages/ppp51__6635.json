@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "PPP51",
+    "slug": "ppp51",
+    "pageId": 6635,
+    "revisionId": 4527923
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp51__6635.json",
+    "revisionTimestamp": "2026-04-09T16:01:02Z",
+    "fetchedAt": "2026-05-14T15:39:08.634Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Go, Go, Apricot! (Part 1) (Japanese: 燃えよ、小梅！ (前編) Burn on, ! (Part 1)) is the fifty-first chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Go, Go, Apricot! (Part 1) (Japanese: 燃えよ、小梅！ (前編) Burn on, ! (Part 1)) is the fifty-first chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \n\n==Important characters and Pokémon==\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Go, Go, Apricot! (Part 1) (Japanese: 燃えよ、小梅！ (前編) Burn on, ! (Part 1)) is the fifty-first chapter of the Magical Pokémon Journey manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP51",
+    "pageType": "chapter",
+    "searchableText": "PPP51\nCategory:Magical Pokémon Journey chapters\nGo, Go, Apricot! (Part 1) (Japanese: 燃えよ、小梅！ (前編) Burn on, ! (Part 1)) is the fifty-first chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 236,
+    "sectionCount": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Squallville",
+    "slug": "squallville",
+    "pageId": 70529,
+    "revisionId": 4261266
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "squallville__70529.json",
+    "revisionTimestamp": "2025-03-19T21:52:12Z",
+    "fetchedAt": "2026-05-14T14:52:12.060Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Squallville (Japanese: ウインドタウン Wind Town) is an -exclusive location in the Sinnoh region. Strong wind currents frequently blow through the area, hence its name. It is also surrounded by mountains and cliffs.\n\nIt was featured in Pursuing a Lofty Goal!. A PokéRinger competition was held in the town in which , Paul, and James competed. Ash won the competition, with his evolving into .",
+  "plainText": "Squallville (Japanese: ウインドタウン Wind Town) is an -exclusive location in the Sinnoh region. Strong wind currents frequently blow through the area, hence its name. It is also surrounded by mountains and cliffs.\n\nIt was featured in Pursuing a Lofty Goal!. A PokéRinger competition was held in the town in which , Paul, and James competed. Ash won the competition, with his evolving into .\n\n==Trivia==\nThis is one of the very few locations created before the release of that is a town or city that does not end in \"Town\", \"City\", or \"Village\".\n\n==Names==\n \n \n\n \n \n \n\nes:Squallville\nit:Burrascopoli\nzh:強風鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Squallville (Japanese: ウインドタウン Wind Town) is an -exclusive location in the Sinnoh region. Strong wind currents frequently blow through the area, hence its name. It is also surrounded by mountains and cliffs.\n\nIt was featured in Pursuing a Lofty Goal!. A PokéRinger competition was held in the town in which , Paul, and James competed. Ash won the competition, with his evolving into ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This is one of the very few locations created before the release of that is a town or city that does not end in \"Town\", \"City\", or \"Village\"."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Squallville\nit:Burrascopoli\nzh:強風鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Squallville",
+    "pageType": "location",
+    "searchableText": "Squallville\nCategory:Animated series-exclusive locations\nSquallville (Japanese: ウインドタウン Wind Town) is an -exclusive location in the Sinnoh region. Strong wind currents frequently blow through the area, hence its name. It is also surrounded by mountains and cliffs.\n\nIt was featured in Pursuing a Lofty Goal!. A PokéRinger competition was held in the town in which , Paul, and James competed. Ash won the competition, with his evolving into .",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 599,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "The Final Challenge!",
+    "slug": "the-final-challenge",
+    "pageId": 198192,
+    "revisionId": 4132477
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "the-final-challenge__198192.json",
+    "revisionTimestamp": "2024-09-29T05:22:32Z",
+    "fetchedAt": "2026-05-14T15:51:34.176Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: The Final Challenge! is the eighteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapter forty of the . The chapter originally released in this book was later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: The Final Challenge! is the eighteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapter forty of the . The chapter originally released in this book was later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 40 - A Charizard...and a Champion\n\n==Important events==\ndefeats in the finals and becomes the Pokémon League Champion.\n\n \n\n \n\nfr:Volume 18 (Pokémon Adventures)\nit:The Final Challenge!",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: The Final Challenge! is the eighteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapter forty of the . The chapter originally released in this book was later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 40 - A Charizard...and a Champion"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "defeats in the finals and becomes the Pokémon League Champion.\n\n \n\n \n\nfr:Volume 18 (Pokémon Adventures)\nit:The Final Challenge!"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Final Challenge!",
+    "pageType": "pokemon-related",
+    "searchableText": "The Final Challenge!\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: The Final Challenge! is the eighteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapter forty of the . The chapter originally released in this book was later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 617,
+    "sectionCount": 3
+  }
+}

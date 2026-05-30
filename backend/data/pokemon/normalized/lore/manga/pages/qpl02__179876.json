@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "QPL02",
+    "slug": "qpl02",
+    "pageId": 179876,
+    "revisionId": 4231318
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters",
+    "sourceFileName": "qpl02__179876.json",
+    "revisionTimestamp": "2025-01-31T11:00:51Z",
+    "fetchedAt": "2026-05-14T15:46:59.744Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: Retrieve the Picnic Snacks, Pikka!!) is the second chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+  "plainText": "(Japanese: Retrieve the Picnic Snacks, Pikka!!) is the second chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n\n==Characters==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: Retrieve the Picnic Snacks, Pikka!!) is the second chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "QPL02",
+    "pageType": "chapter",
+    "searchableText": "QPL02\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters\n(Japanese: Retrieve the Picnic Snacks, Pikka!!) is the second chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 198,
+    "sectionCount": 1
+  }
+}

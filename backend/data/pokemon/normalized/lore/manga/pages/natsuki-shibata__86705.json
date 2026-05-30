@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Natsuki Shibata",
+    "slug": "natsuki-shibata",
+    "pageId": 86705,
+    "revisionId": 4528468
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Aim to Be a Card Master!! characters",
+    "sourceFileName": "natsuki-shibata__86705.json",
+    "revisionTimestamp": "2026-04-09T16:23:06Z",
+    "fetchedAt": "2026-05-14T15:27:35.262Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: 柴田夏希 Natsuki Shibata) is a character in Aim to Be a Card Master!!, a manga series taking place in the real world. She is a friend of Kenta, the main character of the series. She advises Kenta to go to the in to find other players of the Pokémon Trading Card Game to challenge.",
+  "plainText": "(Japanese: 柴田夏希 Natsuki Shibata) is a character in Aim to Be a Card Master!!, a manga series taking place in the real world. She is a friend of Kenta, the main character of the series. She advises Kenta to go to the in to find other players of the Pokémon Trading Card Game to challenge.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 柴田夏希 Natsuki Shibata) is a character in Aim to Be a Card Master!!, a manga series taking place in the real world. She is a friend of Kenta, the main character of the series. She advises Kenta to go to the in to find other players of the Pokémon Trading Card Game to challenge."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Natsuki Shibata",
+    "pageType": "character",
+    "searchableText": "Natsuki Shibata\nCategory:Aim to Be a Card Master!! characters\n(Japanese: 柴田夏希 Natsuki Shibata) is a character in Aim to Be a Card Master!!, a manga series taking place in the real world. She is a friend of Kenta, the main character of the series. She advises Kenta to go to the in to find other players of the Pokémon Trading Card Game to challenge.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 287,
+    "sectionCount": 1
+  }
+}

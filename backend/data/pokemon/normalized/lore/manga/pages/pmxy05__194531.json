@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMXY05",
+    "slug": "pmxy05",
+    "pageId": 194531,
+    "revisionId": 4528644
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY chapters",
+    "sourceFileName": "pmxy05__194531.json",
+    "revisionTimestamp": "2026-04-09T16:32:47Z",
+    "fetchedAt": "2026-05-14T15:33:56.513Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: アイドルに届け！ピッピの熱いファン魂！！ Reaching an Idol! 's Intense Fan Spirit!) is the fifth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: アイドルに届け！ピッピの熱いファン魂！！ Reaching an Idol! 's Intense Fan Spirit!) is the fifth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nMoe-chan \n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMoe-chan\n\n===Pokémon===\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: アイドルに届け！ピッピの熱いファン魂！！ Reaching an Idol! 's Intense Fan Spirit!) is the fifth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Moe-chan"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Moe-chan"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMXY05",
+    "pageType": "chapter",
+    "searchableText": "PMXY05\nCategory:Pocket Monsters XY chapters\n(Japanese: アイドルに届け！ピッピの熱いファン魂！！ Reaching an Idol! 's Intense Fan Spirit!) is the fifth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 295,
+    "sectionCount": 4
+  }
+}

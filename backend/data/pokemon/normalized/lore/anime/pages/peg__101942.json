@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Peg",
+    "slug": "peg",
+    "pageId": 101942,
+    "revisionId": 4191107
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "peg__101942.json",
+    "revisionTimestamp": "2024-11-24T01:48:06Z",
+    "fetchedAt": "2026-05-14T14:41:02.533Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Peg (Japanese: プルーフ Proof) is a minor character who appeared in Zoroark: Master of Illusions.",
+  "plainText": "Peg (Japanese: プルーフ Proof) is a minor character who appeared in Zoroark: Master of Illusions.\n\n==History==\nPeg is a cheerful girl who is an avid fan of the Pokémon Baccer World Cup team Coronet Fighters, and her backpack is used to help cheer them on during matches. She is evacuated along with the rest of the city due to Zoroark's attack. Peg bursts in and confirms Officer Jenny's explanation of what is happening in Crown City, but does not interact with and after this. She is seen returning, following Kodai's defeat, watching the video exposing Kodai's evil schemes and commenting that he's a terrible man for doing such a thing. Peg is last seen cheering for the Coronet Fighters in the Pokémon Baccer World Cup.\n\nPeg's favorite Pokémon are , and . Her Magnemite-themed attire is also related to her backing of the Coronet Fighters team; Mt. Coronet is where Magneton evolves into Magnezone.\n\nPeg made a cameo appearance during the ending credits of White—Victini and Zekrom and Black—Victini and Reshiram.\n\n==Voice actors==\n \n\n==Trivia==\nPeg's Japanese name, Proof, is an English translation of another spelling of the name of her Japanese voice actress, Shōko. \nIn the dub version of Zoroark: Master of Illusions, Peg does a cheer and she includes the words Heart and Soul, which is possibly a reference to Pokémon HeartGold and SoulSilver Versions.\n\n==References==\n \n\n==Related articles==\n \n \n\nde:Peggy\nes:Peg\nfr:Peggy (film 13)\nit:Peg\nja:プルーフ\nzh:普露芙",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Peg (Japanese: プルーフ Proof) is a minor character who appeared in Zoroark: Master of Illusions."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Peg is a cheerful girl who is an avid fan of the Pokémon Baccer World Cup team Coronet Fighters, and her backpack is used to help cheer them on during matches. She is evacuated along with the rest of the city due to Zoroark's attack. Peg bursts in and confirms Officer Jenny's explanation of what is happening in Crown City, but does not interact with and after this. She is seen returning, following Kodai's defeat, watching the video exposing Kodai's evil schemes and commenting that he's a terrible man for doing such a thing. Peg is last seen cheering for the Coronet Fighters in the Pokémon Baccer World Cup.\n\nPeg's favorite Pokémon are , and . Her Magnemite-themed attire is also related to her backing of the Coronet Fighters team; Mt. Coronet is where Magneton evolves into Magnezone.\n\nPeg made a cameo appearance during the ending credits of White—Victini and Zekrom and Black—Victini and Reshiram."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Peg's Japanese name, Proof, is an English translation of another spelling of the name of her Japanese voice actress, Shōko. \nIn the dub version of Zoroark: Master of Illusions, Peg does a cheer and she includes the words Heart and Soul, which is possibly a reference to Pokémon HeartGold and SoulSilver Versions."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Peggy\nes:Peg\nfr:Peggy (film 13)\nit:Peg\nja:プルーフ\nzh:普露芙"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Peg",
+    "pageType": "movie",
+    "searchableText": "Peg\nCategory:Movie characters\nPeg (Japanese: プルーフ Proof) is a minor character who appeared in Zoroark: Master of Illusions.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1461,
+    "sectionCount": 4
+  }
+}

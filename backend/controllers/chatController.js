@@ -9,6 +9,7 @@ import {
   getActiveAlarms,
 } from "../models/alarmStore.js";
 import { buildLocalComputerContext } from "../localComputerContext.js";
+import { buildPokemonPromptContext } from "../services/pokemonPromptContextService.js";
 
 const OLLAMA_URL = process.env.OLLAMA_URL || "http://localhost:11434/api/chat";
 
@@ -339,6 +340,12 @@ export async function sendChatMessage(req, res) {
 
     const localComputerContext = buildLocalComputerContext(message);
 
+    const pokemonPromptContext = buildPokemonPromptContext({
+      message,
+      history,
+      mode,
+    });
+
     const systemPrompt = `
     ${selectedConfig.behavior}
 
@@ -349,6 +356,8 @@ export async function sendChatMessage(req, res) {
     Never write phrases like "the user wants", "I need to", "I should", "wait", "hmm", "final scene", or "let me".
 
     ${localComputerContext}
+
+    ${pokemonPromptContext}
     `.trim();
 
     const messages = [

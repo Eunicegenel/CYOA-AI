@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Tonio (Path to the Peak)",
+    "slug": "tonio-path-to-the-peak",
+    "pageId": 294827,
+    "revisionId": 4133063
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Path to the Peak characters",
+    "sourceFileName": "tonio-path-to-the-peak__294827.json",
+    "revisionTimestamp": "2024-09-29T05:31:28Z",
+    "fetchedAt": "2026-05-14T14:55:03.226Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Tonio is a character from Pokémon: Path to the Peak that appeared in Regionals. He was Ava's first opponent during the Regional Championships.",
+  "plainText": "Tonio is a character from Pokémon: Path to the Peak that appeared in Regionals. He was Ava's first opponent during the Regional Championships.\n==History==\nIn Regionals, Tonio played the first regional championship match against Ava, and despite being more experienced than her in the competition and Ava's insecurity, Tonio was easily defeated by her. He was later seen cheering her on in the finals against Celestine and took a picture with Ava, Joshua and Celestine.\n==Deck==\nTonio uses a deck, focused on .\n\nThe following list is incomplete due to the entire deck not being shown.\n \n \n \n \n==Pokémon competitions==\n===World Championships===\nRegional Championships - (Regionals)\n==Voice actors==\n \n\n==Names==\n \n \n \n \n\nes:Joshua (Pokémon: Senda a la cima)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tonio is a character from Pokémon: Path to the Peak that appeared in Regionals. He was Ava's first opponent during the Regional Championships."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "In Regionals, Tonio played the first regional championship match against Ava, and despite being more experienced than her in the competition and Ava's insecurity, Tonio was easily defeated by her. He was later seen cheering her on in the finals against Celestine and took a picture with Ava, Joshua and Celestine."
+    },
+    {
+      "heading": "Deck",
+      "level": 2,
+      "text": "Tonio uses a deck, focused on .\n\nThe following list is incomplete due to the entire deck not being shown."
+    },
+    {
+      "heading": "World Championships",
+      "level": 3,
+      "text": "Regional Championships - (Regionals)"
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Joshua (Pokémon: Senda a la cima)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tonio (Path to the Peak)",
+    "pageType": "character",
+    "searchableText": "Tonio (Path to the Peak)\nCategory:Pokémon: Path to the Peak characters\nTonio is a character from Pokémon: Path to the Peak that appeared in Regionals. He was Ava's first opponent during the Regional Championships.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Deck",
+      "World Championships",
+      "Names"
+    ],
+    "characterCount": 755,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASS08",
+    "slug": "pass08",
+    "pageId": 259433,
+    "revisionId": 4528210
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass08__259433.json",
+    "revisionTimestamp": "2026-04-09T16:10:16Z",
+    "fetchedAt": "2026-05-14T15:28:44.472Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Toasty!! Battle Against Toxapex (Japanese: ムンムン！！対決ドヒドイデ Steaming!! Showdown with ) is the eighth chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Toasty!! Battle Against Toxapex (Japanese: ムンムン！！対決ドヒドイデ Steaming!! Showdown with ) is the eighth chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nTwiggy evolves into .\nmeets Rose and Oleana.\nHenry starts his gym battle against Nessa.\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\nGigantamax \n\n==Characters==\n===Humans===\nHenry\nCasey\nHop (flashback)\nBede (flashback)\nMarnie (flashback)\nNessa\nSonia\nRose\nOleana\nMarvin\nCamera crew\nAnnouncer\n\n===Pokémon===\n(Twiggy; Henry's; evolves)\n(Twiggy; Henry's; newly evolved; debut)\n(Rotom Phone; Henry's)\n(Nessa's; debut)\n(Gigantamax; Nessa's)\n(Sonia's)\n(Sniffler; Marvin's)\n(Rose's; debut)\n\n==Trivia==\nUnlike in the magazine release, in the volume release, Rose is accompanied by a when he first meets .\n \n \n \n\nde:Duell mit Aggrostella\nes:PMSSwSh08\nfr:Chapitre 8 (Pocket Monsters Special Épée et Bouclier)\nit:PASS08\nzh:宝可梦特别篇 剑·盾篇 第8话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Toasty!! Battle Against Toxapex (Japanese: ムンムン！！対決ドヒドイデ Steaming!! Showdown with ) is the eighth chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Twiggy evolves into .\nmeets Rose and Oleana.\nHenry starts his gym battle against Nessa."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "Gigantamax"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nHop (flashback)\nBede (flashback)\nMarnie (flashback)\nNessa\nSonia\nRose\nOleana\nMarvin\nCamera crew\nAnnouncer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Twiggy; Henry's; evolves)\n(Twiggy; Henry's; newly evolved; debut)\n(Rotom Phone; Henry's)\n(Nessa's; debut)\n(Gigantamax; Nessa's)\n(Sonia's)\n(Sniffler; Marvin's)\n(Rose's; debut)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Unlike in the magazine release, in the volume release, Rose is accompanied by a when he first meets .\n \n \n \n\nde:Duell mit Aggrostella\nes:PMSSwSh08\nfr:Chapitre 8 (Pocket Monsters Special Épée et Bouclier)\nit:PASS08\nzh:宝可梦特别篇 剑·盾篇 第8话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS08",
+    "pageType": "chapter",
+    "searchableText": "PASS08\nCategory:Pokémon Adventures chapters\nToasty!! Battle Against Toxapex (Japanese: ムンムン！！対決ドヒドイデ Steaming!! Showdown with ) is the eighth chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 918,
+    "sectionCount": 6
+  }
+}

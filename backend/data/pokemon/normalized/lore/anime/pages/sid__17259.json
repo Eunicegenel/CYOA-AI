@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Sid",
+    "slug": "sid",
+    "pageId": 17259,
+    "revisionId": 4514995
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "sid__17259.json",
+    "revisionTimestamp": "2026-03-23T02:27:22Z",
+    "fetchedAt": "2026-05-14T14:49:43.572Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Sid (Japanese: ショウタ Shōta) is a major character who appeared in the Destiny Deoxys.",
+  "plainText": "Sid (Japanese: ショウタ Shōta) is a major character who appeared in the Destiny Deoxys.\n\n==In the movies==\n \n===History===\n====Destiny Deoxys====\nSid, along with his friends Rafe, , Audrey and Kathryn, came to LaRousse City to compete at the . While there, he met and . Once he saw , he became smitten with her, and throughout the movie he did his best to garner her attention, but with little success. Once at the Battle Tower, Sid and Rafe were assigned a Double Battle against Ash and Tory Lund using their and against Ash's Pikachu and (who was borrowed by Tory at the time). Thanks to Sid's Blastoise, he and Rafe won the match.\n\nLater, arrived and unleashed numerous clones to abduct every human and Pokémon in sight, and when one of the clones went after May, Sid sacrificed himself to save her, and was taken prisoner by Deoxys. Thanks to the efforts of Ash and his friends, Sid and the others were saved. When energy needed to be restored to the city, Sid helped by having his Blastoise use to move the windmills. Even after everything was resolved, May still refused to give him a hug.\n\n====The Rise of Darkrai====\nSid briefly reappeared in a montage in The Rise of Darkrai, which chronicled the preceding nine s.\n\n===Character===\nSid comes off as a jolly guy who is willing to act in times of need. He also has a crush on and tries his best to win her over. Unfortunately for him, May does not reciprocate his feelings, and treats him more as a friend.\n\n===Pokémon===\n \n \n\n===Achievements===\n====Pokémon competitions====\nSid has competed in the following :\nBattle Tower- (with Rafe; Destiny Deoxys)\n\n===Artwork===\n \n\n===Voice actors===\n \n\n==In the manga==\n===Movie adaptations===\n \nSid appears in the manga adaptation of . Though his role in the manga is the same as in the film, his involvement is in a lesser capacity.\n\n====Pokémon====\n \n \n\n==In the TCG==\nThis listing is of cards mentioning or featuring Sid or his Pokémon in the Pokémon Trading Card Game.\n\n \n \n \n\n==Trivia==\nSid is similar to from the . Both have similar builds and outfits, both own a , and both have a crush on ’s female traveling companion at the time—Tierno towards , and Sid towards .\n\n==In other languages==\n \n\n==Related articles==\n \n \n\nde:Sid\nes:Sid\nfr:Sid\nit:Sid\nja:ショウタ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sid (Japanese: ショウタ Shōta) is a major character who appeared in the Destiny Deoxys."
+    },
+    {
+      "heading": "Destiny Deoxys",
+      "level": 4,
+      "text": "Sid, along with his friends Rafe, , Audrey and Kathryn, came to LaRousse City to compete at the . While there, he met and . Once he saw , he became smitten with her, and throughout the movie he did his best to garner her attention, but with little success. Once at the Battle Tower, Sid and Rafe were assigned a Double Battle against Ash and Tory Lund using their and against Ash's Pikachu and (who was borrowed by Tory at the time). Thanks to Sid's Blastoise, he and Rafe won the match.\n\nLater, arrived and unleashed numerous clones to abduct every human and Pokémon in sight, and when one of the clones went after May, Sid sacrificed himself to save her, and was taken prisoner by Deoxys. Thanks to the efforts of Ash and his friends, Sid and the others were saved. When energy needed to be restored to the city, Sid helped by having his Blastoise use to move the windmills. Even after everything was resolved, May still refused to give him a hug."
+    },
+    {
+      "heading": "The Rise of Darkrai",
+      "level": 4,
+      "text": "Sid briefly reappeared in a montage in The Rise of Darkrai, which chronicled the preceding nine s."
+    },
+    {
+      "heading": "Character",
+      "level": 3,
+      "text": "Sid comes off as a jolly guy who is willing to act in times of need. He also has a crush on and tries his best to win her over. Unfortunately for him, May does not reciprocate his feelings, and treats him more as a friend."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 4,
+      "text": "Sid has competed in the following :\nBattle Tower- (with Rafe; Destiny Deoxys)"
+    },
+    {
+      "heading": "Movie adaptations",
+      "level": 3,
+      "text": "Sid appears in the manga adaptation of . Though his role in the manga is the same as in the film, his involvement is in a lesser capacity."
+    },
+    {
+      "heading": "In the TCG",
+      "level": 2,
+      "text": "This listing is of cards mentioning or featuring Sid or his Pokémon in the Pokémon Trading Card Game."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Sid is similar to from the . Both have similar builds and outfits, both own a , and both have a crush on ’s female traveling companion at the time—Tierno towards , and Sid towards ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Sid\nes:Sid\nfr:Sid\nit:Sid\nja:ショウタ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sid",
+    "pageType": "movie",
+    "searchableText": "Sid\nCategory:Movie characters\nSid (Japanese: ショウタ Shōta) is a major character who appeared in the Destiny Deoxys.",
+    "sectionHeadings": [
+      "Lead",
+      "Destiny Deoxys",
+      "The Rise of Darkrai",
+      "Character",
+      "Pokémon competitions",
+      "Movie adaptations",
+      "In the TCG",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 2256,
+    "sectionCount": 9
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "User:PardescanSlowbro/Chōta",
+    "slug": "user-pardescanslowbro-chota",
+    "pageId": 251522,
+    "revisionId": 4096236
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "user-pardescanslowbro-chota__251522.json",
+    "revisionTimestamp": "2024-09-01T01:52:42Z",
+    "fetchedAt": "2026-05-14T14:56:31.529Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n\n \n(Japanese: 秋葉原博士 Chōta) is a character of the day who appeared in the worldwide banned episode AG101 (unaired).\n\n and arrived on Jojo Island and helped Chōta, a local Trainer, battle several who were causing tremors across Jojo Island.",
+  "plainText": "----\n\n \n(Japanese: 秋葉原博士 Chōta) is a character of the day who appeared in the worldwide banned episode AG101 (unaired).\n\n and arrived on Jojo Island and helped Chōta, a local Trainer, battle several who were causing tremors across Jojo Island.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n\n \n(Japanese: 秋葉原博士 Chōta) is a character of the day who appeared in the worldwide banned episode AG101 (unaired).\n\n and arrived on Jojo Island and helped Chōta, a local Trainer, battle several who were causing tremors across Jojo Island."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "User:PardescanSlowbro/Chōta",
+    "pageType": "character",
+    "searchableText": "User:PardescanSlowbro/Chōta\nCategory:Hoenn characters of the day\n----\n\n \n(Japanese: 秋葉原博士 Chōta) is a character of the day who appeared in the worldwide banned episode AG101 (unaired).\n\n and arrived on Jojo Island and helped Chōta, a local Trainer, battle several who were causing tremors across Jojo Island.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 256,
+    "sectionCount": 1
+  }
+}

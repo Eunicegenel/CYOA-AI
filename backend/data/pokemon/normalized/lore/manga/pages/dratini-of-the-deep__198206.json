@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Dratini Of The Deep",
+    "slug": "dratini-of-the-deep",
+    "pageId": 198206,
+    "revisionId": 4130815
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "dratini-of-the-deep__198206.json",
+    "revisionTimestamp": "2024-09-29T03:53:26Z",
+    "fetchedAt": "2026-05-14T15:17:41.982Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Dratini Of The Deep is the 26th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 20, 21, and 22 of the . The chapters originally released in this book were later re-released as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Dratini Of The Deep is the 26th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 20, 21, and 22 of the . The chapters originally released in this book were later re-released as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 60 - Breath of the Dragonair Part 1\nChapter 61 - Breath of the Dragonair Part 2\nChapter 62 - Breath of the Dragonair Part 3\n\n==Important events==\nLance destroys Vermilion City.\nLance tells part of the plan to get rid of humans.\nPika learns to .\nYellow battles Lance of the Kanto Elite Four and seemingly defeats him.\n\n \n \n\nfr:Volume 26 (Pokémon Adventures)\nit:Dratini Of The Deep",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Dratini Of The Deep is the 26th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 20, 21, and 22 of the . The chapters originally released in this book were later re-released as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 60 - Breath of the Dragonair Part 1\nChapter 61 - Breath of the Dragonair Part 2\nChapter 62 - Breath of the Dragonair Part 3"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Lance destroys Vermilion City.\nLance tells part of the plan to get rid of humans.\nPika learns to .\nYellow battles Lance of the Kanto Elite Four and seemingly defeats him.\n\n \n \n\nfr:Volume 26 (Pokémon Adventures)\nit:Dratini Of The Deep"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dratini Of The Deep",
+    "pageType": "pokemon-related",
+    "searchableText": "Dratini Of The Deep\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Dratini Of The Deep is the 26th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 20, 21, and 22 of the . The chapters originally released in this book were later re-released as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 819,
+    "sectionCount": 3
+  }
+}

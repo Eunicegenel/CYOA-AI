@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP51",
+    "slug": "pmdp51",
+    "pageId": 176431,
+    "revisionId": 4526483
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp51__176431.json",
+    "revisionTimestamp": "2026-04-09T14:49:56Z",
+    "fetchedAt": "2026-05-14T15:32:45.233Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 恐怖のロストタワー！！ Lost Tower Terror!!) is the fifty-first chapter of the manga.",
+  "plainText": "(Japanese: 恐怖のロストタワー！！ Lost Tower Terror!!) is the fifty-first chapter of the manga.\n\n==Synopsis==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 恐怖のロストタワー！！ Lost Tower Terror!!) is the fifty-first chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP51",
+    "pageType": "chapter",
+    "searchableText": "PMDP51\nCategory:Pocket Monsters DP chapters\n(Japanese: 恐怖のロストタワー！！ Lost Tower Terror!!) is the fifty-first chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 216,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Nene (Alola)",
+    "slug": "nene-alola",
+    "pageId": 229335,
+    "revisionId": 4358288
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "nene-alola__229335.json",
+    "revisionTimestamp": "2025-08-15T07:08:26Z",
+    "fetchedAt": "2026-05-14T14:39:09.198Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Nene (Japanese: 少女ネネ Young Nene) is a minor recurring character who first appeared in Why Not Give Me a Z-Ring Sometime?. In the Japanese version, she and Piko refer to Acerola as \"Big Sis\".\n\nNene is close friends with Piko. They asked Acerola to read them a story, which she did. They later watched as Acerola was captured by a .\n\nNene reappeared in Tough Guy Trials! at Acerola's house alongside Piko.",
+  "plainText": "Nene (Japanese: 少女ネネ Young Nene) is a minor recurring character who first appeared in Why Not Give Me a Z-Ring Sometime?. In the Japanese version, she and Piko refer to Acerola as \"Big Sis\".\n\nNene is close friends with Piko. They asked Acerola to read them a story, which she did. They later watched as Acerola was captured by a .\n\nNene reappeared in Tough Guy Trials! at Acerola's house alongside Piko.\n\n==Voice actors==\n \n\n \n \n\nit:Nene (Alola)\nzh:内内",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Nene (Japanese: 少女ネネ Young Nene) is a minor recurring character who first appeared in Why Not Give Me a Z-Ring Sometime?. In the Japanese version, she and Piko refer to Acerola as \"Big Sis\".\n\nNene is close friends with Piko. They asked Acerola to read them a story, which she did. They later watched as Acerola was captured by a .\n\nNene reappeared in Tough Guy Trials! at Acerola's house alongside Piko."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Nene (Alola)\nzh:内内"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Nene (Alola)",
+    "pageType": "character",
+    "searchableText": "Nene (Alola)\nCategory:Animation characters\nNene (Japanese: 少女ネネ Young Nene) is a minor recurring character who first appeared in Why Not Give Me a Z-Ring Sometime?. In the Japanese version, she and Piko refer to Acerola as \"Big Sis\".\n\nNene is close friends with Piko. They asked Acerola to read them a story, which she did. They later watched as Acerola was captured by a .\n\nNene reappeared in Tough Guy Trials! at Acerola's house alongside Piko.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 451,
+    "sectionCount": 2
+  }
+}

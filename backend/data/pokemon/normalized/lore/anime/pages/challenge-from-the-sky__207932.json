@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Challenge from the Sky",
+    "slug": "challenge-from-the-sky",
+    "pageId": 207932,
+    "revisionId": 4262901
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Planetarium specials",
+    "sourceFileName": "challenge-from-the-sky__207932.json",
+    "revisionTimestamp": "2025-03-21T23:02:03Z",
+    "fetchedAt": "2026-05-14T14:09:07.559Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "(Japanese: ポケットモンスターアドバンスジェネレーション　プラネタリウム　天空からの挑戦 Advanced Generation: Planetarium: Challenge from the Sky) is an animated series special that was shown at various planetariums and museums in Japan, being the first of such specials.",
+  "plainText": "(Japanese: ポケットモンスターアドバンスジェネレーション　プラネタリウム　天空からの挑戦 Advanced Generation: Planetarium: Challenge from the Sky) is an animated series special that was shown at various planetariums and museums in Japan, being the first of such specials.\n\n==Plot==\n \n\n==Characters==\n===Humans===\n\nJessie\nJames\n\n===Pokémon===\n( )\n( )\n\n==External links==\nList of special episodes of the animated series\n\n \n \n\n \n\nes:PL01\nzh:寶可夢 天文館 第1集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケットモンスターアドバンスジェネレーション　プラネタリウム　天空からの挑戦 Advanced Generation: Planetarium: Challenge from the Sky) is an animated series special that was shown at various planetariums and museums in Japan, being the first of such specials."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jessie\nJames"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "List of special episodes of the animated series\n\n \n \n\n \n\nes:PL01\nzh:寶可夢 天文館 第1集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Challenge from the Sky",
+    "pageType": "general-anime-lore",
+    "searchableText": "Challenge from the Sky\nCategory:Planetarium specials\n(Japanese: ポケットモンスターアドバンスジェネレーション　プラネタリウム　天空からの挑戦 Advanced Generation: Planetarium: Challenge from the Sky) is an animated series special that was shown at various planetariums and museums in Japan, being the first of such specials.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "External links"
+    ],
+    "characterCount": 410,
+    "sectionCount": 4
+  }
+}

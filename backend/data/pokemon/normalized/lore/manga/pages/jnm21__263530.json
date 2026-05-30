@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "JNM21",
+    "slug": "jnm21",
+    "pageId": 263530,
+    "revisionId": 4528566
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm21__263530.json",
+    "revisionTimestamp": "2026-04-09T16:26:56Z",
+    "fetchedAt": "2026-05-14T15:22:53.596Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Leaping Toward the Dream! (Japanese: レッツゴー！プロジェクト・ミュウ！！ Let's Go! Project Mew!!) is the twenty-first chapter of the manga. It is based on the animated series episode by the same name.",
+  "plainText": "Leaping Toward the Dream! (Japanese: レッツゴー！プロジェクト・ミュウ！！ Let's Go! Project Mew!!) is the twenty-first chapter of the manga. It is based on the animated series episode by the same name.\n\n==Plot==\n \n\n==Major events==\nand Goh meet Danika and Quillon, members of Project Mew, and Professor Amaranth, its leader.\nGoh an , qualifying him to start receiving Trial Missions.\n\n===Debuts===\n====Pokémon debuts====\n( )\n( )\n(Alolan form)\n( )\n\n==Characters==\n===Humans===\n\nGoh\nDanika\nQuillon\nProfessor Amaranth\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( ; Alolan form; new)\n(Professor Cerise's; Rotom Phone; ×2)\n(Quillon's; )\n(Quillon's; Rotom Phone)\n(Professor Amaranth's)\n( ; image)\n\n==Differences between the animated series and the manga==\n's appearance is omitted.\nAs the events of Finding a Legend! and Restore and Renew! were skipped, Goh's Misdreavus and debut here.\n\n==Errors==\nIn the English print, is misspelled as Ninetails.\n\n \n \n \n\nde:Gohs Chance! (Pokémon Reisen)\nes:PV021\nit:JNM21",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Leaping Toward the Dream! (Japanese: レッツゴー！プロジェクト・ミュウ！！ Let's Go! Project Mew!!) is the twenty-first chapter of the manga. It is based on the animated series episode by the same name."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and Goh meet Danika and Quillon, members of Project Mew, and Professor Amaranth, its leader.\nGoh an , qualifying him to start receiving Trial Missions."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )\n(Alolan form)\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nDanika\nQuillon\nProfessor Amaranth"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( ; Alolan form; new)\n(Professor Cerise's; Rotom Phone; ×2)\n(Quillon's; )\n(Quillon's; Rotom Phone)\n(Professor Amaranth's)\n( ; image)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "'s appearance is omitted.\nAs the events of Finding a Legend! and Restore and Renew! were skipped, Goh's Misdreavus and debut here."
+    },
+    {
+      "heading": "Errors",
+      "level": 2,
+      "text": "In the English print, is misspelled as Ninetails.\n\n \n \n \n\nde:Gohs Chance! (Pokémon Reisen)\nes:PV021\nit:JNM21"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM21",
+    "pageType": "chapter",
+    "searchableText": "JNM21\nCategory:Pokémon Journeys chapters\nLeaping Toward the Dream! (Japanese: レッツゴー！プロジェクト・ミュウ！！ Let's Go! Project Mew!!) is the twenty-first chapter of the manga. It is based on the animated series episode by the same name.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga",
+      "Errors"
+    ],
+    "characterCount": 991,
+    "sectionCount": 7
+  }
+}

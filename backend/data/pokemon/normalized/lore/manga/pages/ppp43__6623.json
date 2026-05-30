@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP43",
+    "slug": "ppp43",
+    "pageId": 6623,
+    "revisionId": 4527858
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp43__6623.json",
+    "revisionTimestamp": "2026-04-09T15:56:14Z",
+    "fetchedAt": "2026-05-14T15:39:03.477Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Rock-A-Bye Pokémon (Part 2) (Japanese: アーモンドを救え！！ (後編) Save Almond! (Part 2)), is the seventh chapter of the seventh volume of Magical Pokémon Journey.",
+  "plainText": "Rock-A-Bye Pokémon (Part 2) (Japanese: アーモンドを救え！！ (後編) Save Almond! (Part 2)), is the seventh chapter of the seventh volume of Magical Pokémon Journey.\n\n==Plot==\n \nHazel and Coconut find that the source of Almond's deep sleep is a pair of prankster Pokémon, and . They've put him to sleep and are eating his dreams! What's more, he's having romantic dreams, and so the two are eating his will to love as well!\n\n==Important characters and Pokémon==\nHazel\nCoconut\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Rock-A-Bye Pokémon (Part 2) (Japanese: アーモンドを救え！！ (後編) Save Almond! (Part 2)), is the seventh chapter of the seventh volume of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Hazel and Coconut find that the source of Almond's deep sleep is a pair of prankster Pokémon, and . They've put him to sleep and are eating his dreams! What's more, he's having romantic dreams, and so the two are eating his will to love as well!"
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Hazel\nCoconut"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP43",
+    "pageType": "chapter",
+    "searchableText": "PPP43\nCategory:Magical Pokémon Journey chapters\nRock-A-Bye Pokémon (Part 2) (Japanese: アーモンドを救え！！ (後編) Save Almond! (Part 2)), is the seventh chapter of the seventh volume of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon"
+    ],
+    "characterCount": 512,
+    "sectionCount": 3
+  }
+}

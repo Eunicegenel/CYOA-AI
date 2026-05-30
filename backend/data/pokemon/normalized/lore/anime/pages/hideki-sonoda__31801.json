@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Hideki Sonoda",
+    "slug": "hideki-sonoda",
+    "pageId": 31801,
+    "revisionId": 4216833
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation writers",
+    "sourceFileName": "hideki-sonoda__31801.json",
+    "revisionTimestamp": "2025-01-07T18:32:33Z",
+    "fetchedAt": "2026-05-14T14:22:18.654Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Hideki Sonoda (Japanese: Sonoda Hideki) is the writer of several Pokémon movies. He has also written various episodes of , the first being the episode Challenge of the Samurai.",
+  "plainText": "Hideki Sonoda (Japanese: Sonoda Hideki) is the writer of several Pokémon movies. He has also written various episodes of , the first being the episode Challenge of the Samurai.\n\n==Movies==\nSpell of the Unown: Entei (co-written with Takeshi Shudō)\nCelebi: The Voice of the Forest\nPokémon Heroes: Latios & Latias\nJirachi: Wish Maker\nDestiny Deoxys\nLucario and the Mystery of Mew\nPokémon Ranger and the Temple of the Sea\nThe Rise of Darkrai\nGiratina and the Sky Warrior\nArceus and the Jewel of Life\nZoroark: Master of Illusions\nVictini and the Black Hero: Zekrom / Victini and the White Hero: Reshiram\nKyurem vs. The Sword of Justice\nGenesect and the Legend Awakened\nDiancie and the Cocoon of Destruction\n\n==See also==\n\n \n \n\nit:Hideki Sonoda\nja:園田英樹",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hideki Sonoda (Japanese: Sonoda Hideki) is the writer of several Pokémon movies. He has also written various episodes of , the first being the episode Challenge of the Samurai."
+    },
+    {
+      "heading": "Movies",
+      "level": 2,
+      "text": "Spell of the Unown: Entei (co-written with Takeshi Shudō)\nCelebi: The Voice of the Forest\nPokémon Heroes: Latios & Latias\nJirachi: Wish Maker\nDestiny Deoxys\nLucario and the Mystery of Mew\nPokémon Ranger and the Temple of the Sea\nThe Rise of Darkrai\nGiratina and the Sky Warrior\nArceus and the Jewel of Life\nZoroark: Master of Illusions\nVictini and the Black Hero: Zekrom / Victini and the White Hero: Reshiram\nKyurem vs. The Sword of Justice\nGenesect and the Legend Awakened\nDiancie and the Cocoon of Destruction"
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "it:Hideki Sonoda\nja:園田英樹"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hideki Sonoda",
+    "pageType": "general-anime-lore",
+    "searchableText": "Hideki Sonoda\nCategory:Animation writers\nHideki Sonoda (Japanese: Sonoda Hideki) is the writer of several Pokémon movies. He has also written various episodes of , the first being the episode Challenge of the Samurai.",
+    "sectionHeadings": [
+      "Lead",
+      "Movies",
+      "See also"
+    ],
+    "characterCount": 746,
+    "sectionCount": 3
+  }
+}

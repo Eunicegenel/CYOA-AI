@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Emeragrove Town",
+    "slug": "emeragrove-town",
+    "pageId": 27827,
+    "revisionId": 4261279
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "emeragrove-town__27827.json",
+    "revisionTimestamp": "2025-03-19T21:52:24Z",
+    "fetchedAt": "2026-05-14T14:15:13.016Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Emeragrove Town (Japanese: タジキタウン Tajiki Town) is an -exclusive location in the Sinnoh region. It is a small, quaint town located between Hearthome City and Solaceon Town. It was featured in Once There Were Greenfields.\n\nWhile on their way toward Veilstone City, and stopped by Emeragrove Town, where they encountered the Eterna City Gym Leader Gardenia, who was visiting Emeragrove to promote Pokémon battles for young kids to see.\n\nAsh and had a Tag Battle against Gardenia and James, using their and against Gardenia's and James's Cacnea. After the battle, which ended in a victory for the team of Ash and Dawn, Gardenia offered to train Cacnea so it could master its unreliable .\n\nAfter some soul searching and a session with Ash, James realized his Cacnea would be better off with Gardenia and agreed to let her train it.",
+  "plainText": "Emeragrove Town (Japanese: タジキタウン Tajiki Town) is an -exclusive location in the Sinnoh region. It is a small, quaint town located between Hearthome City and Solaceon Town. It was featured in Once There Were Greenfields.\n\nWhile on their way toward Veilstone City, and stopped by Emeragrove Town, where they encountered the Eterna City Gym Leader Gardenia, who was visiting Emeragrove to promote Pokémon battles for young kids to see.\n\nAsh and had a Tag Battle against Gardenia and James, using their and against Gardenia's and James's Cacnea. After the battle, which ended in a victory for the team of Ash and Dawn, Gardenia offered to train Cacnea so it could master its unreliable .\n\nAfter some soul searching and a session with Ash, James realized his Cacnea would be better off with Gardenia and agreed to let her train it.\n \n==Names==\n \n \n \n \n \n\nes:Pueblo Emeragrove/Cueva Esmeralda\nit:Bosco Smeraldino\nzh:塔吉西鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Emeragrove Town (Japanese: タジキタウン Tajiki Town) is an -exclusive location in the Sinnoh region. It is a small, quaint town located between Hearthome City and Solaceon Town. It was featured in Once There Were Greenfields.\n\nWhile on their way toward Veilstone City, and stopped by Emeragrove Town, where they encountered the Eterna City Gym Leader Gardenia, who was visiting Emeragrove to promote Pokémon battles for young kids to see.\n\nAsh and had a Tag Battle against Gardenia and James, using their and against Gardenia's and James's Cacnea. After the battle, which ended in a victory for the team of Ash and Dawn, Gardenia offered to train Cacnea so it could master its unreliable .\n\nAfter some soul searching and a session with Ash, James realized his Cacnea would be better off with Gardenia and agreed to let her train it."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Pueblo Emeragrove/Cueva Esmeralda\nit:Bosco Smeraldino\nzh:塔吉西鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Emeragrove Town",
+    "pageType": "location",
+    "searchableText": "Emeragrove Town\nCategory:Animated series-exclusive locations\nEmeragrove Town (Japanese: タジキタウン Tajiki Town) is an -exclusive location in the Sinnoh region. It is a small, quaint town located between Hearthome City and Solaceon Town. It was featured in Once There Were Greenfields.\n\nWhile on their way toward Veilstone City, and stopped by Emeragrove Town, where they encountered the Eterna City Gym Leader Gardenia, who was visiting Emeragrove to promote Pokémon battles for young kids to see.\n\nAsh and had a Tag Battle against Gardenia and James, using their and against Gardenia's and James's Cacnea. After the battle, which ended in a victory for the team of Ash and Dawn, Gardenia offered to train Cacnea so it could master its unreliable .\n\nAfter some soul searching and a session with Ash, James realized his Cacnea would be better off with Gardenia and agreed to let her train it.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 914,
+    "sectionCount": 2
+  }
+}

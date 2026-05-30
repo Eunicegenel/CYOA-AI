@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Horizon volume 2",
+    "slug": "pokemon-horizon-volume-2",
+    "pageId": 234820,
+    "revisionId": 4298321
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Horizon volumes",
+    "sourceFileName": "pokemon-horizon-volume-2__234820.json",
+    "revisionTimestamp": "2025-05-11T10:03:48Z",
+    "fetchedAt": "2026-05-14T15:36:32.131Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 2 is the second volume of the Pokémon Horizon is a Pokémon manga created by やぶのてんや Tenya Yabuno.",
+  "plainText": "Volume 2 is the second volume of the Pokémon Horizon is a Pokémon manga created by やぶのてんや Tenya Yabuno.\n\n==Publications==\n \n \n \n \n \n \n \n \n\n==Chapters==\nEvent 06: Lycanroc Evolution!\nEvent 07: Attack on the Headquarters\nEvent 08: The Legend Revealed\nEvent 09: Power of the Bond\nEvent 10: The Opened Wormhole\nEvent 11: To a New Horizon!\n\n==Important events==\nTokio betrays and Mana.\n\n \n\n \n\nit:Pokémon Horizon volume 2\nzh:宝可梦地平线2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume of the Pokémon Horizon is a Pokémon manga created by やぶのてんや Tenya Yabuno."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Event 06: Lycanroc Evolution!\nEvent 07: Attack on the Headquarters\nEvent 08: The Legend Revealed\nEvent 09: Power of the Bond\nEvent 10: The Opened Wormhole\nEvent 11: To a New Horizon!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Tokio betrays and Mana.\n\n \n\n \n\nit:Pokémon Horizon volume 2\nzh:宝可梦地平线2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Horizon volume 2",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Horizon volume 2\nCategory:Pokémon Horizon volumes\nVolume 2 is the second volume of the Pokémon Horizon is a Pokémon manga created by やぶのてんや Tenya Yabuno.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 426,
+    "sectionCount": 3
+  }
+}

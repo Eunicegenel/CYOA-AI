@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMHGSS22",
+    "slug": "pmhgss22",
+    "pageId": 175325,
+    "revisionId": 4527902
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS chapters",
+    "sourceFileName": "pmhgss22__175325.json",
+    "revisionTimestamp": "2026-04-09T15:59:08Z",
+    "fetchedAt": "2026-05-14T15:33:04.581Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: バルキーのゴージャス生活!! Gorgeous Livelihood) is the twenty-second chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: バルキーのゴージャス生活!! Gorgeous Livelihood) is the twenty-second chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nPokémon Fan Club Chairman (flashback)\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: バルキーのゴージャス生活!! Gorgeous Livelihood) is the twenty-second chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Pokémon Fan Club Chairman (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMHGSS22",
+    "pageType": "chapter",
+    "searchableText": "PMHGSS22\nCategory:Pocket Monsters HGSS chapters\n(Japanese: バルキーのゴージャス生活!! Gorgeous Livelihood) is the twenty-second chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 295,
+    "sectionCount": 3
+  }
+}

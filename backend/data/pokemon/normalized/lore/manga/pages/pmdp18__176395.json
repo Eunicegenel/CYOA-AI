@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP18",
+    "slug": "pmdp18",
+    "pageId": 176395,
+    "revisionId": 4528285
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp18__176395.json",
+    "revisionTimestamp": "2026-04-09T16:13:29Z",
+    "fetchedAt": "2026-05-14T15:32:24.400Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: お ゲット ！！ The Big Plan! Get the Treasure!!) is the eighteenth chapter of the manga.",
+  "plainText": "(Japanese: お ゲット ！！ The Big Plan! Get the Treasure!!) is the eighteenth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )\n( )\n\n \n \n \n\nit:PMDP18",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: お ゲット ！！ The Big Plan! Get the Treasure!!) is the eighteenth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )\n( )\n\n \n \n \n\nit:PMDP18"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP18",
+    "pageType": "chapter",
+    "searchableText": "PMDP18\nCategory:Pocket Monsters DP chapters\n(Japanese: お ゲット ！！ The Big Plan! Get the Treasure!!) is the eighteenth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 243,
+    "sectionCount": 2
+  }
+}

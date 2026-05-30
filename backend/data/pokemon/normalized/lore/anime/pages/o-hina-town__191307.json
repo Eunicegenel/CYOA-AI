@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "O-Hina Town",
+    "slug": "o-hina-town",
+    "pageId": 191307,
+    "revisionId": 4261060
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "o-hina-town__191307.json",
+    "revisionTimestamp": "2025-03-19T21:49:48Z",
+    "fetchedAt": "2026-05-14T14:39:50.124Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "(Japanese: オヒナタウン O-Hina Town) is an -exclusive location in Kanto, situated somewhere between Fuchsia City and Cinnabar Island. It appeared in Princess vs. Princess.\n\nIt hosts the annual Princess Festival, which includes a tournament exclusively for girls, known as the Queen of the Princess Festival. entered this tournament and managed to win against Jessie and her newly during the finals.",
+  "plainText": "(Japanese: オヒナタウン O-Hina Town) is an -exclusive location in Kanto, situated somewhere between Fuchsia City and Cinnabar Island. It appeared in Princess vs. Princess.\n\nIt hosts the annual Princess Festival, which includes a tournament exclusively for girls, known as the Queen of the Princess Festival. entered this tournament and managed to win against Jessie and her newly during the finals.\n\n==Pokémon seen in O-Hina Town==\n \n\n==Trivia==\nThe name of the town comes from おひな o-hina, which are dolls traditionally displayed on . It was the winning prize for the Princess Festival.\n \n \n \n\n \n\nit:O-Hina Town\nzh:玩偶鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: オヒナタウン O-Hina Town) is an -exclusive location in Kanto, situated somewhere between Fuchsia City and Cinnabar Island. It appeared in Princess vs. Princess.\n\nIt hosts the annual Princess Festival, which includes a tournament exclusively for girls, known as the Queen of the Princess Festival. entered this tournament and managed to win against Jessie and her newly during the finals."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The name of the town comes from おひな o-hina, which are dolls traditionally displayed on . It was the winning prize for the Princess Festival.\n \n \n \n\n \n\nit:O-Hina Town\nzh:玩偶鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "O-Hina Town",
+    "pageType": "location",
+    "searchableText": "O-Hina Town\nCategory:Animated series-exclusive locations\n(Japanese: オヒナタウン O-Hina Town) is an -exclusive location in Kanto, situated somewhere between Fuchsia City and Cinnabar Island. It appeared in Princess vs. Princess.\n\nIt hosts the annual Princess Festival, which includes a tournament exclusively for girls, known as the Queen of the Princess Festival. entered this tournament and managed to win against Jessie and her newly during the finals.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 612,
+    "sectionCount": 2
+  }
+}

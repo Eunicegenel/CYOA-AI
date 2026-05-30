@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Ash & Pikachu volumes",
+    "slug": "list-of-ash-and-pikachu-volumes",
+    "pageId": 88522,
+    "revisionId": 4130704
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu volumes",
+    "sourceFileName": "list-of-ash-and-pikachu-volumes__88522.json",
+    "revisionTimestamp": "2024-09-29T03:51:07Z",
+    "fetchedAt": "2026-05-14T15:24:16.359Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "This is a list of volumes of the Ash & Pikachu manga created by Takashi Teshirogi. There are six volumes in total, all of which have been translated into English by Chuang Yi.",
+  "plainText": "This is a list of volumes of the Ash & Pikachu manga created by Takashi Teshirogi. There are six volumes in total, all of which have been translated into English by Chuang Yi.\n\n==List of volumes==\n \n\n \n\n \n \n\nit:Elenco dei volumi di Ash & Pikachu\nzh:小智与皮卡丘单行本列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of volumes of the Ash & Pikachu manga created by Takashi Teshirogi. There are six volumes in total, all of which have been translated into English by Chuang Yi."
+    },
+    {
+      "heading": "List of volumes",
+      "level": 2,
+      "text": "it:Elenco dei volumi di Ash & Pikachu\nzh:小智与皮卡丘单行本列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Ash & Pikachu volumes",
+    "pageType": "general-manga-lore",
+    "searchableText": "List of Ash & Pikachu volumes\nCategory:Ash & Pikachu volumes\nThis is a list of volumes of the Ash & Pikachu manga created by Takashi Teshirogi. There are six volumes in total, all of which have been translated into English by Chuang Yi.",
+    "sectionHeadings": [
+      "Lead",
+      "List of volumes"
+    ],
+    "characterCount": 260,
+    "sectionCount": 2
+  }
+}

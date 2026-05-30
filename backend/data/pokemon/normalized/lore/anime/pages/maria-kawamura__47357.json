@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Maria Kawamura",
+    "slug": "maria-kawamura",
+    "pageId": 47357,
+    "revisionId": 4323648
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "maria-kawamura__47357.json",
+    "revisionTimestamp": "2025-06-24T03:33:49Z",
+    "fetchedAt": "2026-05-14T14:34:55.274Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Maria Kawamura (Japanese: 川村万梨阿 Kawamura Maria) is a Japanese voice actress for .",
+  "plainText": "Maria Kawamura (Japanese: 川村万梨阿 Kawamura Maria) is a Japanese voice actress for .\n\n==Biography==\nKawamura was born as Shigeyo Kawamura (川村繁代 Kawamura Shigeyo) on November 21, 1961, in , , , and became a voice actress as an adult. Kawamura has had various roles throughout , including the voice of Elite Four member Lorelei (Prima). Her most recent role was that of Fennel during . She was once affiliated with , but is now freelancing. She married manga artist on November 8, 1991.\n\n==Pokémon roles==\n===Animation===\n==== ====\nLorelei\nCheryl\nFennel\nYuma\n\n==Other non-Pokémon roles==\n( )\nSakurako Miyagawa ( )\nNaga the Serpent ( )\nChum Huau ( )\nFrei ( )\nJung Freud ( )\nKyōko Zeppelin Soryu ( )\nLilith ( )\nFreya ( )\nShizuka Isozaki ( )\n\n==External links==\nMusical profile\n\n \n \n\nit:Maria Kawamura\nja:川村万梨阿\nzh:川村万梨阿",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Maria Kawamura (Japanese: 川村万梨阿 Kawamura Maria) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kawamura was born as Shigeyo Kawamura (川村繁代 Kawamura Shigeyo) on November 21, 1961, in , , , and became a voice actress as an adult. Kawamura has had various roles throughout , including the voice of Elite Four member Lorelei (Prima). Her most recent role was that of Fennel during . She was once affiliated with , but is now freelancing. She married manga artist on November 8, 1991."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Lorelei\nCheryl\nFennel\nYuma"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "( )\nSakurako Miyagawa ( )\nNaga the Serpent ( )\nChum Huau ( )\nFrei ( )\nJung Freud ( )\nKyōko Zeppelin Soryu ( )\nLilith ( )\nFreya ( )\nShizuka Isozaki ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Musical profile\n\n \n \n\nit:Maria Kawamura\nja:川村万梨阿\nzh:川村万梨阿"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Maria Kawamura",
+    "pageType": "general-anime-lore",
+    "searchableText": "Maria Kawamura\nCategory:Japanese voice actors\nMaria Kawamura (Japanese: 川村万梨阿 Kawamura Maria) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 811,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Lauren Kammerling",
+    "slug": "lauren-kammerling",
+    "pageId": 233152,
+    "revisionId": 4323537
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "lauren-kammerling__233152.json",
+    "revisionTimestamp": "2025-06-24T03:31:57Z",
+    "fetchedAt": "2026-05-14T14:30:37.650Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Lauren Kammerling is a voice actress for the English-language dub of .",
+  "plainText": "Lauren Kammerling is a voice actress for the English-language dub of .\n\n==Biography==\nKammerling was born in Louisville, Kentucky, and became a voice actress as an adult. She joined the during , where she voiced Acerola. Kammerling is currently based in New York and affiliated with Ingrid French Management. In 2021, Kammerling married fellow Pokémon Voice Actor Jeremy Levy.\n\n==Pokémon roles==\n===Animation===\n==== ====\nAcerola\n\n==Other non-Pokémon roles==\nBonnie (Damage Control) \nBelle (Princesses at the Bar Table)\nJane/Tootles (Peter Pan)\nAlice (Best Christmas Pageant Ever)\n\n==External links==\nFacebook\nTwitter\nOfficial website\nInstagram\n\n \n \n\nit:Lauren Kammerling",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lauren Kammerling is a voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kammerling was born in Louisville, Kentucky, and became a voice actress as an adult. She joined the during , where she voiced Acerola. Kammerling is currently based in New York and affiliated with Ingrid French Management. In 2021, Kammerling married fellow Pokémon Voice Actor Jeremy Levy."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Acerola"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Bonnie (Damage Control) \nBelle (Princesses at the Bar Table)\nJane/Tootles (Peter Pan)\nAlice (Best Christmas Pageant Ever)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Facebook\nTwitter\nOfficial website\nInstagram\n\n \n \n\nit:Lauren Kammerling"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lauren Kammerling",
+    "pageType": "general-anime-lore",
+    "searchableText": "Lauren Kammerling\nCategory:TPCi voice actors\nLauren Kammerling is a voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 671,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Black and White volume 12",
+    "slug": "pokemon-black-and-white-volume-12",
+    "pageId": 174902,
+    "revisionId": 4131509
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-black-and-white-volume-12__174902.json",
+    "revisionTimestamp": "2024-09-29T04:21:04Z",
+    "fetchedAt": "2026-05-14T15:35:53.439Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 12 is the twelfth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 12 is the twelfth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n \n\n==Chapters==\nAdventure 38 - Decisions, Decisions\nAdventure 39 - School of Hard Knocks\nAdventure 40 - With a Little Help from My Friends\n\n==Party changes==\n===Additions===\nis revealed to have captured a named Dorothy, an named Nancy, and a named Sally in PS500\n\n \n \n\nde:Band 12 (Pokémon Black and White)\nes:Tomo 12 (Pokémon Black and White)\nfr:Volume 12 (Pokémon Black and White)\nit:Pokémon Nero e Bianco volume 12",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 12 is the twelfth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 38 - Decisions, Decisions\nAdventure 39 - School of Hard Knocks\nAdventure 40 - With a Little Help from My Friends"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "is revealed to have captured a named Dorothy, an named Nancy, and a named Sally in PS500\n\n \n \n\nde:Band 12 (Pokémon Black and White)\nes:Tomo 12 (Pokémon Black and White)\nfr:Volume 12 (Pokémon Black and White)\nit:Pokémon Nero e Bianco volume 12"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Black and White volume 12",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Black and White volume 12\nCategory:Pokémon Adventures volumes\nVolume 12 is the twelfth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions"
+    ],
+    "characterCount": 838,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Everyone's Story Music Collection",
+    "slug": "everyones-story-music-collection",
+    "pageId": 230884,
+    "revisionId": 4275594
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie soundtracks",
+    "sourceFileName": "everyones-story-music-collection__230884.json",
+    "revisionTimestamp": "2025-04-03T13:03:50Z",
+    "fetchedAt": "2026-05-14T14:18:38.088Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "----\n \nPokémon the Movie: Everyone's Story Music Collection (Japanese: 「劇場版ポケットモンスター　みんなの物語」ミュージックコレクション) is the Japanese soundtrack for the twenty-first movie. It was released in Japan on July 25, 2018.",
+  "plainText": "----\n \nPokémon the Movie: Everyone's Story Music Collection (Japanese: 「劇場版ポケットモンスター　みんなの物語」ミュージックコレクション) is the Japanese soundtrack for the twenty-first movie. It was released in Japan on July 25, 2018.\n\n==Tracklist==\n \n\n==Related articles==\n \n \n \n\n \n \n\nzh:我們的故事 音樂收藏",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \nPokémon the Movie: Everyone's Story Music Collection (Japanese: 「劇場版ポケットモンスター　みんなの物語」ミュージックコレクション) is the Japanese soundtrack for the twenty-first movie. It was released in Japan on July 25, 2018."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "zh:我們的故事 音樂收藏"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Everyone's Story Music Collection",
+    "pageType": "movie",
+    "searchableText": "Everyone's Story Music Collection\nCategory:Movie soundtracks\n----\n \nPokémon the Movie: Everyone's Story Music Collection (Japanese: 「劇場版ポケットモンスター　みんなの物語」ミュージックコレクション) is the Japanese soundtrack for the twenty-first movie. It was released in Japan on July 25, 2018.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 268,
+    "sectionCount": 2
+  }
+}

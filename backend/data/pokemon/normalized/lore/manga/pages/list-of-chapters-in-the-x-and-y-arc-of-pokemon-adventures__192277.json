@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "List of chapters in the X & Y arc of Pokémon Adventures",
+    "slug": "list-of-chapters-in-the-x-and-y-arc-of-pokemon-adventures",
+    "pageId": 192277,
+    "revisionId": 4307321
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures",
+    "sourceFileName": "list-of-chapters-in-the-x-and-y-arc-of-pokemon-adventures__192277.json",
+    "revisionTimestamp": "2025-05-19T19:09:31Z",
+    "fetchedAt": "2026-05-14T15:24:25.782Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "",
+  "plainText": "== ==\n \n\n \n \n\n \n\n \n \n\nes:Capítulos de la saga XY de Pocket Monsters Special\nfr:Liste des chapitres de l'arc X et Y de Pocket Monsters Special\nit:Elenco dei capitoli nel dodicesimo arco di Pokémon: La Grande Avventura\nzh:宝可梦特别篇第十二章列表",
+  "sections": [
+    {
+      "heading": "",
+      "level": 2,
+      "text": "es:Capítulos de la saga XY de Pocket Monsters Special\nfr:Liste des chapitres de l'arc X et Y de Pocket Monsters Special\nit:Elenco dei capitoli nel dodicesimo arco di Pokémon: La Grande Avventura\nzh:宝可梦特别篇第十二章列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of chapters in the X & Y arc of Pokémon Adventures",
+    "pageType": "chapter",
+    "searchableText": "List of chapters in the X & Y arc of Pokémon Adventures\nCategory:Pokémon Adventures",
+    "sectionHeadings": [
+      ""
+    ],
+    "characterCount": 232,
+    "sectionCount": 1
+  }
+}

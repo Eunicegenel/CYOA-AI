@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Blue Returns",
+    "slug": "blue-returns",
+    "pageId": 198201,
+    "revisionId": 4336695
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "blue-returns__198201.json",
+    "revisionTimestamp": "2025-07-15T22:11:26Z",
+    "fetchedAt": "2026-05-14T15:14:19.088Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Blue Returns is the twenty-second monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters eight, nine, and ten of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Blue Returns is the twenty-second monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters eight, nine, and ten of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 48 - Paras Sight\nChapter 49 - As Gastly as Before\nChapter 50 - Lapras Lazily\n\n==Important events==\n, aided by Brock, Misty, Erika and , defeats , and Pika is freed.\nMisty, Brock, Erika, and Blaine head off to find .\nYellow meets and goes off with him to train.\nYellow is given an Omanyte from Misty and a from Brock.\nBlue is revealed to have caught a .\n\n \n\n \n\nfr:Volume 22 (Pokémon Adventures)\nit:Blue Returns",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Blue Returns is the twenty-second monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters eight, nine, and ten of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 48 - Paras Sight\nChapter 49 - As Gastly as Before\nChapter 50 - Lapras Lazily"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": ", aided by Brock, Misty, Erika and , defeats , and Pika is freed.\nMisty, Brock, Erika, and Blaine head off to find .\nYellow meets and goes off with him to train.\nYellow is given an Omanyte from Misty and a from Brock.\nBlue is revealed to have caught a .\n\n \n\n \n\nfr:Volume 22 (Pokémon Adventures)\nit:Blue Returns"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Blue Returns",
+    "pageType": "pokemon-related",
+    "searchableText": "Blue Returns\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Blue Returns is the twenty-second monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters eight, nine, and ten of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 856,
+    "sectionCount": 3
+  }
+}

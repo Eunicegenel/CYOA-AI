@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Ryan William Downey",
+    "slug": "ryan-william-downey",
+    "pageId": 224869,
+    "revisionId": 4323371
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "ryan-william-downey__224869.json",
+    "revisionTimestamp": "2025-06-24T03:29:03Z",
+    "fetchedAt": "2026-05-14T14:47:24.415Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Ryan William Downey is an American actor who works on the English-language dub of .",
+  "plainText": "Ryan William Downey is an American actor who works on the English-language dub of .\n\n==Biography==\nDowney was born on May 2, 1984 in Elyria, Ohio. He received a Bachelor of Arts in Theatre Studies from Kent State University, where he studied to become a playwright. Upon graduating from college, Downey became a playwright, actor, musician, and producer. He started voicing characters for during , becoming best known for his roles as Ippei and in its form in Hoopa and the Clash of Ages. He currently resides in New York City, New York.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nIppei\nSophocles's father\n\n======Minor======\nOne of Viren's henchmen\nWorker (XY132)\nChauffeur (SM017)\n\n=====Pokémon=====\n======Major======\nClemont's Heliolisk\n(Unbound)\n\n======Minor======\n\n(SM020)\n\n==Trivia==\nDowney was once in a small writing group that also included Theresa Buchheister, another voice actor for .\n\n==External links==\nTwitter\nInstagram\n\n \n \n\nit:Ryan William Downey",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ryan William Downey is an American actor who works on the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Downey was born on May 2, 1984 in Elyria, Ohio. He received a Bachelor of Arts in Theatre Studies from Kent State University, where he studied to become a playwright. Upon graduating from college, Downey became a playwright, actor, musician, and producer. He started voicing characters for during , becoming best known for his roles as Ippei and in its form in Hoopa and the Clash of Ages. He currently resides in New York City, New York."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Ippei\nSophocles's father"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "One of Viren's henchmen\nWorker (XY132)\nChauffeur (SM017)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Clemont's Heliolisk\n(Unbound)"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(SM020)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Downey was once in a small writing group that also included Theresa Buchheister, another voice actor for ."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nInstagram\n\n \n \n\nit:Ryan William Downey"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ryan William Downey",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ryan William Downey\nCategory:TPCi voice actors\nRyan William Downey is an American actor who works on the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 999,
+    "sectionCount": 8
+  }
+}

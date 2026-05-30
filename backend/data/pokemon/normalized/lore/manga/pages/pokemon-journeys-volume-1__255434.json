@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Journeys volume 1",
+    "slug": "pokemon-journeys-volume-1",
+    "pageId": 255434,
+    "revisionId": 4124177
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys volumes",
+    "sourceFileName": "pokemon-journeys-volume-1__255434.json",
+    "revisionTimestamp": "2024-09-23T16:15:36Z",
+    "fetchedAt": "2026-05-14T15:36:33.397Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume of the manga created by Machito Gomi.",
+  "plainText": "Volume 1 is the first volume of the manga created by Machito Gomi.\n\n==Publications==\n \n \n \n \n \n\n==Chapters==\nChapter 1 - Legend? Check! Friends? Check!\nChapter 2 - Being Stalked by a Scorbunny–and Challenging a Snorlax in Dynamax Form?!\nChapter 3 - Battle Frontier Challenge: The Flute Cup!\nChapter 4 - Flash of the Titans!\nChapter 5 - The Climb to Be the Very Best!\nChapter 6 - Kicking It from Here into Tomorrow!\n\n \n\n \n\n \n\nde:Band 1 (Pokémon Reisen)\nes:Tomo 1 (Pokémon Viaje)\nit:Pokémon Journeys volume 1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the manga created by Machito Gomi."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 1 - Legend? Check! Friends? Check!\nChapter 2 - Being Stalked by a Scorbunny–and Challenging a Snorlax in Dynamax Form?!\nChapter 3 - Battle Frontier Challenge: The Flute Cup!\nChapter 4 - Flash of the Titans!\nChapter 5 - The Climb to Be the Very Best!\nChapter 6 - Kicking It from Here into Tomorrow!\n\n \n\n \n\n \n\nde:Band 1 (Pokémon Reisen)\nes:Tomo 1 (Pokémon Viaje)\nit:Pokémon Journeys volume 1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Journeys volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Journeys volume 1\nCategory:Pokémon Journeys volumes\nVolume 1 is the first volume of the manga created by Machito Gomi.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 506,
+    "sectionCount": 2
+  }
+}

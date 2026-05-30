@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Return to Viridian Gym",
+    "slug": "return-to-viridian-gym",
+    "pageId": 198190,
+    "revisionId": 4132883
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "return-to-viridian-gym__198190.json",
+    "revisionTimestamp": "2024-09-29T05:28:44Z",
+    "fetchedAt": "2026-05-14T15:48:16.337Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Return to Viridian Gym is the sixteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-six and thirty-seven of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Return to Viridian Gym is the sixteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-six and thirty-seven of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 36 - Drat That Dratini!\nChapter 37 - Golly, Golem!\n\n==Important events==\nlearns who really is.\nRed begins his battle with Giovanni.\n\n==Party changes==\n===Additions=== \nThe following Pokémon are obtained:\nYellow's (\"Ratty\") in PS036.\n\n \n \n\nfr:Volume 16 (Pokémon Adventures)\nit:Return to Viridian Gym",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Return to Viridian Gym is the sixteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-six and thirty-seven of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 36 - Drat That Dratini!\nChapter 37 - Golly, Golem!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "learns who really is.\nRed begins his battle with Giovanni."
+    },
+    {
+      "heading": "Party changes",
+      "level": 2,
+      "text": "===Additions=== \nThe following Pokémon are obtained:\nYellow's (\"Ratty\") in PS036.\n\n \n \n\nfr:Volume 16 (Pokémon Adventures)\nit:Return to Viridian Gym"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Return to Viridian Gym",
+    "pageType": "pokemon-related",
+    "searchableText": "Return to Viridian Gym\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Return to Viridian Gym is the sixteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-six and thirty-seven of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Party changes"
+    ],
+    "characterCount": 758,
+    "sectionCount": 4
+  }
+}

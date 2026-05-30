@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Ellery",
+    "slug": "ellery",
+    "pageId": 268437,
+    "revisionId": 4106025
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "ellery__268437.json",
+    "revisionTimestamp": "2024-09-05T18:35:01Z",
+    "fetchedAt": "2026-05-14T14:15:11.161Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ellery (Japanese: ヒロタ Hirota) is a character of the day who appeared in Lighting the Way Home!. He is a scientist working at the Mossdeep Space Center in the Hoenn region.\n\nEllery was working with as the 2 asteroid probe was heading back to the after collecting a rock sample from an asteroid. With the help of an owned by Molayne, they were among the team tasked with guiding it back home. Their efforts failed when a piece of equipment was damaged by accident by and Ampharos losing confidence resulting in its light failing.\n\nAfter Sophocles, , and Goh had helped Ampharos to regain its confidence, they rejoined Ellery and reconnected with Talonflame2, safely guiding it back to the planet.",
+  "plainText": "Ellery (Japanese: ヒロタ Hirota) is a character of the day who appeared in Lighting the Way Home!. He is a scientist working at the Mossdeep Space Center in the Hoenn region.\n\nEllery was working with as the 2 asteroid probe was heading back to the after collecting a rock sample from an asteroid. With the help of an owned by Molayne, they were among the team tasked with guiding it back home. Their efforts failed when a piece of equipment was damaged by accident by and Ampharos losing confidence resulting in its light failing.\n\nAfter Sophocles, , and Goh had helped Ampharos to regain its confidence, they rejoined Ellery and reconnected with Talonflame2, safely guiding it back to the planet.\n\n==Voice actors==\n \n\n \n \n\n \n \n \n\nes:Hirota\nit:Ellerio",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ellery (Japanese: ヒロタ Hirota) is a character of the day who appeared in Lighting the Way Home!. He is a scientist working at the Mossdeep Space Center in the Hoenn region.\n\nEllery was working with as the 2 asteroid probe was heading back to the after collecting a rock sample from an asteroid. With the help of an owned by Molayne, they were among the team tasked with guiding it back home. Their efforts failed when a piece of equipment was damaged by accident by and Ampharos losing confidence resulting in its light failing.\n\nAfter Sophocles, , and Goh had helped Ampharos to regain its confidence, they rejoined Ellery and reconnected with Talonflame2, safely guiding it back to the planet."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Hirota\nit:Ellerio"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ellery",
+    "pageType": "character",
+    "searchableText": "Ellery\nCategory:Journeys characters of the day\nEllery (Japanese: ヒロタ Hirota) is a character of the day who appeared in Lighting the Way Home!. He is a scientist working at the Mossdeep Space Center in the Hoenn region.\n\nEllery was working with as the 2 asteroid probe was heading back to the after collecting a rock sample from an asteroid. With the help of an owned by Molayne, they were among the team tasked with guiding it back home. Their efforts failed when a piece of equipment was damaged by accident by and Ampharos losing confidence resulting in its light failing.\n\nAfter Sophocles, , and Goh had helped Ampharos to regain its confidence, they rejoined Ellery and reconnected with Talonflame2, safely guiding it back to the planet.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 748,
+    "sectionCount": 2
+  }
+}

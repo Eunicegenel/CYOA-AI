@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Astilbe Town",
+    "slug": "astilbe-town",
+    "pageId": 160028,
+    "revisionId": 4318469
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "astilbe-town__160028.json",
+    "revisionTimestamp": "2025-06-11T18:19:45Z",
+    "fetchedAt": "2026-05-14T14:04:07.770Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Astilbe Town (Japanese: アスチルベタウン Astilbe Town) is an -exclusive location in the Unova region that appeared in Evolution by Fire!. It is a village located between Mistralton City and Icirrus City, and it lies directly outside of Twist Mountain.\n\nThe town has a Battle Club, where met the original Trainer of his , Shamus. Ash faced Shamus in a Double Battle, using his Tepig and against Shamus's and . During the battle, Tepig evolved into and proved his strength to Shamus, who offered him a spot on his team. However, Pignite rejected him, preferring to stay with Ash.",
+  "plainText": "Astilbe Town (Japanese: アスチルベタウン Astilbe Town) is an -exclusive location in the Unova region that appeared in Evolution by Fire!. It is a village located between Mistralton City and Icirrus City, and it lies directly outside of Twist Mountain.\n\nThe town has a Battle Club, where met the original Trainer of his , Shamus. Ash faced Shamus in a Double Battle, using his Tepig and against Shamus's and . During the battle, Tepig evolved into and proved his strength to Shamus, who offered him a spot on his team. However, Pignite rejected him, preferring to stay with Ash.\n\n==Names==\n \n \n \n \n\n \n\nit:Villaggio delle Astilbe\nja:アスチルベタウン\nzh:彩穗蓬花鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Astilbe Town (Japanese: アスチルベタウン Astilbe Town) is an -exclusive location in the Unova region that appeared in Evolution by Fire!. It is a village located between Mistralton City and Icirrus City, and it lies directly outside of Twist Mountain.\n\nThe town has a Battle Club, where met the original Trainer of his , Shamus. Ash faced Shamus in a Double Battle, using his Tepig and against Shamus's and . During the battle, Tepig evolved into and proved his strength to Shamus, who offered him a spot on his team. However, Pignite rejected him, preferring to stay with Ash."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "it:Villaggio delle Astilbe\nja:アスチルベタウン\nzh:彩穗蓬花鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Astilbe Town",
+    "pageType": "location",
+    "searchableText": "Astilbe Town\nCategory:Animated series-exclusive locations\nAstilbe Town (Japanese: アスチルベタウン Astilbe Town) is an -exclusive location in the Unova region that appeared in Evolution by Fire!. It is a village located between Mistralton City and Icirrus City, and it lies directly outside of Twist Mountain.\n\nThe town has a Battle Club, where met the original Trainer of his , Shamus. Ash faced Shamus in a Double Battle, using his Tepig and against Shamus's and . During the battle, Tepig evolved into and proved his strength to Shamus, who offered him a spot on his team. However, Pignite rejected him, preferring to stay with Ash.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 640,
+    "sectionCount": 2
+  }
+}

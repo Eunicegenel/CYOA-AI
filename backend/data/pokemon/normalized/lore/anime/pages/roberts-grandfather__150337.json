@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Robert's grandfather",
+    "slug": "roberts-grandfather",
+    "pageId": 150337,
+    "revisionId": 4430519
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "roberts-grandfather__150337.json",
+    "revisionTimestamp": "2025-11-24T17:46:31Z",
+    "fetchedAt": "2026-05-14T14:46:45.443Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Robert's grandfather (Japanese: ロバートの祖父 Robert's grandfather) is a character of the day who appeared during 's flashbacks in The Four Seasons of Sawsbuck!.\n\nHe was a Pokémon photographer who traveled around the . His grandson Robert admired his grandfather's works, particularly a photo of all four of in one place. After showing and his grandfather's album, they agreed to help Robert replicate the rare snapshot.",
+  "plainText": "Robert's grandfather (Japanese: ロバートの祖父 Robert's grandfather) is a character of the day who appeared during 's flashbacks in The Four Seasons of Sawsbuck!.\n\nHe was a Pokémon photographer who traveled around the . His grandson Robert admired his grandfather's works, particularly a photo of all four of in one place. After showing and his grandfather's album, they agreed to help Robert replicate the rare snapshot.\n\n==Voice actors==\n \n\n \n\n \n \n \n \n\nit:Nonno di Roberto",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Robert's grandfather (Japanese: ロバートの祖父 Robert's grandfather) is a character of the day who appeared during 's flashbacks in The Four Seasons of Sawsbuck!.\n\nHe was a Pokémon photographer who traveled around the . His grandson Robert admired his grandfather's works, particularly a photo of all four of in one place. After showing and his grandfather's album, they agreed to help Robert replicate the rare snapshot."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Nonno di Roberto"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Robert's grandfather",
+    "pageType": "character",
+    "searchableText": "Robert's grandfather\nCategory:Unova characters of the day\nRobert's grandfather (Japanese: ロバートの祖父 Robert's grandfather) is a character of the day who appeared during 's flashbacks in The Four Seasons of Sawsbuck!.\n\nHe was a Pokémon photographer who traveled around the . His grandson Robert admired his grandfather's works, particularly a photo of all four of in one place. After showing and his grandfather's album, they agreed to help Robert replicate the rare snapshot.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 467,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB43",
+    "slug": "rb43",
+    "pageId": 154482,
+    "revisionId": 4246099
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb43__154482.json",
+    "revisionTimestamp": "2025-02-23T04:37:32Z",
+    "fetchedAt": "2026-05-14T15:47:42.924Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 二人の力 The Power of Two) is the 43rd chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 二人の力 The Power of Two) is the 43rd chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nRyouga and Fraud's battle finally ends in a tie.\nYappy ends up back where he started with the stolen Burst Hearts.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nFraud\nHariru\nRyouga\nMiruto\nYappy\n\nRush\nLoren\nEurou\nPikke\nRurimaru\nDokan\nRabine\nAfron\nGerubu\nKaruta\nCarola\nPlayers\n\n===Pokémon===\n(Ryouga's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB43",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 二人の力 The Power of Two) is the 43rd chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga and Fraud's battle finally ends in a tie.\nYappy ends up back where he started with the stolen Burst Hearts."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Fraud\nHariru\nRyouga\nMiruto\nYappy\n\nRush\nLoren\nEurou\nPikke\nRurimaru\nDokan\nRabine\nAfron\nGerubu\nKaruta\nCarola\nPlayers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ryouga's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB43"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB43",
+    "pageType": "chapter",
+    "searchableText": "RB43\nCategory:Pokémon RéBURST chapters\n(Japanese: 二人の力 The Power of Two) is the 43rd chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 463,
+    "sectionCount": 4
+  }
+}

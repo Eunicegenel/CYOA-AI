@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB63",
+    "slug": "rb63",
+    "pageId": 163696,
+    "revisionId": 4252903
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb63__163696.json",
+    "revisionTimestamp": "2025-03-04T04:43:01Z",
+    "fetchedAt": "2026-05-14T15:47:55.600Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ハリルの進化 Hariru's Evolution) is the 63rd chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: ハリルの進化 Hariru's Evolution) is the 63rd chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nHariru defeats Ganku and Rovy, but faints from exhaustion soon after.\nRyouga continues his battle against Amu.\n===Debuts===\n\n====Pokémon debuts====\n==Characters==\n===Humans===\nHariru\nMiruto\nYappy\nRovy\nGanku\nRug \nKaruta\nCarola\nRyouga\nAmu\n\n===Pokémon===\n(Hariru's)\n(Rovy's)\n(Ganku's)\n(Ryouga's)\n(Amu's)\n\n \n \n \n\n \n\nzh:RB63",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ハリルの進化 Hariru's Evolution) is the 63rd chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hariru defeats Ganku and Rovy, but faints from exhaustion soon after.\nRyouga continues his battle against Amu."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hariru\nMiruto\nYappy\nRovy\nGanku\nRug \nKaruta\nCarola\nRyouga\nAmu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hariru's)\n(Rovy's)\n(Ganku's)\n(Ryouga's)\n(Amu's)\n\n \n \n \n\n \n\nzh:RB63"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB63",
+    "pageType": "chapter",
+    "searchableText": "RB63\nCategory:Pokémon RéBURST chapters\n(Japanese: ハリルの進化 Hariru's Evolution) is the 63rd chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 437,
+    "sectionCount": 4
+  }
+}

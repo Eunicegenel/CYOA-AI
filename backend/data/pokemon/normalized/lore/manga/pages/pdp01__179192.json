@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PDP01",
+    "slug": "pdp01",
+    "pageId": 179192,
+    "revisionId": 4528615
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp01__179192.json",
+    "revisionTimestamp": "2026-04-09T16:30:45Z",
+    "fetchedAt": "2026-05-14T15:29:36.005Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 新人トレーナー、ヒカリ Newcomer Trainer, ) is the first chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: 新人トレーナー、ヒカリ Newcomer Trainer, ) is the first chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \nThe chapter begins with , a rookie Pokémon Trainer, trying to catch a ... with her bare hands! She lunges for the Pokémon, but it leaps out of her grasp. Instead she falls onto a passing . As she stands up, wiping off the Grimer's slime, she hears someone ask what she is doing. The person asks if she has any Pokémon with her. Dawn deflects the question, asking the stranger if they are a Trainer too. When the trainer responds that they are, Dawn declares that the person is her senior (senpai in the original Japanese). \n\nThe Pikachu that caught Dawn's attention then runs past, and Dawn chases after it, saying a quick goodbye to the stranger. He calls out to her, but Dawn has already begun leaping after the Pikachu. She dives to grab it, but grabs a wild instead. She tries again, and is this time grabbed by a . Exhausted from the chase, Dawn declares she will use her , and pretends to faint. The Pikachu looks back at her curiously and begins to approach. Dawn is confident the Pikachu will come close enough to her to grab, but as it draws near it leaps right over her. It lands in its Trainer's arms, who happens to be the Trainer Dawn met earlier. \n\nThe Trainer introduces himself as from Pallet Town. Dawn realizes that the Pikachu belonged to Ash, and Ash explains that the two had been separated and had been searching for each other. Dawn thinks to herself that they look happy together, and it's nice they were reunited. The chapter ends, declaring that the two trainers' journey had begun.\n\n==Major events==\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n( )\n\n(silhouette)\n(silhouette)\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n\n(silhouette)\n(silhouette)\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 新人トレーナー、ヒカリ Newcomer Trainer, ) is the first chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "The chapter begins with , a rookie Pokémon Trainer, trying to catch a ... with her bare hands! She lunges for the Pokémon, but it leaps out of her grasp. Instead she falls onto a passing . As she stands up, wiping off the Grimer's slime, she hears someone ask what she is doing. The person asks if she has any Pokémon with her. Dawn deflects the question, asking the stranger if they are a Trainer too. When the trainer responds that they are, Dawn declares that the person is her senior (senpai in the original Japanese). \n\nThe Pikachu that caught Dawn's attention then runs past, and Dawn chases after it, saying a quick goodbye to the stranger. He calls out to her, but Dawn has already begun leaping after the Pikachu. She dives to grab it, but grabs a wild instead. She tries again, and is this time grabbed by a . Exhausted from the chase, Dawn declares she will use her , and pretends to faint. The Pikachu looks back at her curiously and begins to approach. Dawn is confident the Pikachu will come close enough to her to grab, but as it draws near it leaps right over her. It lands in its Trainer's arms, who happens to be the Trainer Dawn met earlier. \n\nThe Trainer introduces himself as from Pallet Town. Dawn realizes that the Pikachu belonged to Ash, and Ash explains that the two had been separated and had been searching for each other. Dawn thinks to herself that they look happy together, and it's nice they were reunited. The chapter ends, declaring that the two trainers' journey had begun."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n\n(silhouette)\n(silhouette)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n\n(silhouette)\n(silhouette)\n\n}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP01",
+    "pageType": "chapter",
+    "searchableText": "PDP01\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: 新人トレーナー、ヒカリ Newcomer Trainer, ) is the first chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 1811,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Erina",
+    "slug": "erina",
+    "pageId": 148535,
+    "revisionId": 4095047
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "erina__148535.json",
+    "revisionTimestamp": "2024-09-01T00:12:53Z",
+    "fetchedAt": "2026-05-14T14:18:28.680Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Erina (Japanese: エリナ Erina) is a Pokémon Trainer and a character of the day who appeared in Lost at the Stamp Rally!.\n\nErina was first seen searching for her lost in Gear Station. Eventually, she asked for help as he gathered stamps for the Subway Bosses' Stamp Rally. He accompanied her on her search, and they eventually found a note posted as a clue to Axew's location, which had been left by and . Cilan asked Emmet and Ingo to help them track down Axew's location. They quickly locate Axew, who was reunited with Erina.\n\nHowever, with all of the time spent searching for Axew, Cilan had failed to complete his own goal, to collect all of the stamps he needed to battle Ingo and Emmet. Erina allowed him to have her stamp sheet, which had the stamp Cilan required to complete the Stamp Rally. She watched the battle alongside Iris, and afterwards, the four of them rode the Ferris wheel together.",
+  "plainText": "Erina (Japanese: エリナ Erina) is a Pokémon Trainer and a character of the day who appeared in Lost at the Stamp Rally!.\n\nErina was first seen searching for her lost in Gear Station. Eventually, she asked for help as he gathered stamps for the Subway Bosses' Stamp Rally. He accompanied her on her search, and they eventually found a note posted as a clue to Axew's location, which had been left by and . Cilan asked Emmet and Ingo to help them track down Axew's location. They quickly locate Axew, who was reunited with Erina.\n\nHowever, with all of the time spent searching for Axew, Cilan had failed to complete his own goal, to collect all of the stamps he needed to battle Ingo and Emmet. Erina allowed him to have her stamp sheet, which had the stamp Cilan required to complete the Stamp Rally. She watched the battle alongside Iris, and afterwards, the four of them rode the Ferris wheel together.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n \n\n \n \n \n\nes:Erina\nfr:Irina\nit:Erina\nja:エリナ\nzh:惠里奈",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Erina (Japanese: エリナ Erina) is a Pokémon Trainer and a character of the day who appeared in Lost at the Stamp Rally!.\n\nErina was first seen searching for her lost in Gear Station. Eventually, she asked for help as he gathered stamps for the Subway Bosses' Stamp Rally. He accompanied her on her search, and they eventually found a note posted as a clue to Axew's location, which had been left by and . Cilan asked Emmet and Ingo to help them track down Axew's location. They quickly locate Axew, who was reunited with Erina.\n\nHowever, with all of the time spent searching for Axew, Cilan had failed to complete his own goal, to collect all of the stamps he needed to battle Ingo and Emmet. Erina allowed him to have her stamp sheet, which had the stamp Cilan required to complete the Stamp Rally. She watched the battle alongside Iris, and afterwards, the four of them rode the Ferris wheel together."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Erina\nfr:Irina\nit:Erina\nja:エリナ\nzh:惠里奈"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Erina",
+    "pageType": "character",
+    "searchableText": "Erina\nCategory:Unova characters of the day\nErina (Japanese: エリナ Erina) is a Pokémon Trainer and a character of the day who appeared in Lost at the Stamp Rally!.\n\nErina was first seen searching for her lost in Gear Station. Eventually, she asked for help as he gathered stamps for the Subway Bosses' Stamp Rally. He accompanied her on her search, and they eventually found a note posted as a clue to Axew's location, which had been left by and . Cilan asked Emmet and Ingo to help them track down Axew's location. They quickly locate Axew, who was reunited with Erina.\n\nHowever, with all of the time spent searching for Axew, Cilan had failed to complete his own goal, to collect all of the stamps he needed to battle Ingo and Emmet. Erina allowed him to have her stamp sheet, which had the stamp Cilan required to complete the Stamp Rally. She watched the battle alongside Iris, and afterwards, the four of them rode the Ferris wheel together.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 987,
+    "sectionCount": 2
+  }
+}

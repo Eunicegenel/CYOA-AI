@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Claudina",
+    "slug": "claudina",
+    "pageId": 54794,
+    "revisionId": 4257090
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "claudina__54794.json",
+    "revisionTimestamp": "2025-03-12T00:11:02Z",
+    "fetchedAt": "2026-05-14T14:09:56.231Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Claudina (Japanese: トラミ Torami) is a character of the day who appeared in Two Degrees of Separation!.\n\nClaudina is a truck driver who met in Pewter City when he was trying to hitch a ride to Sinnoh. She and Brock encountered when he was traveling on .\n\nBrock was attracted to her and was planning on traveling with her, but all of that changed when he found out she already had a boyfriend. She said goodbye to Brock, thanked him for the lunch and dinner he made for her, and drove off.",
+  "plainText": "Claudina (Japanese: トラミ Torami) is a character of the day who appeared in Two Degrees of Separation!.\n\nClaudina is a truck driver who met in Pewter City when he was trying to hitch a ride to Sinnoh. She and Brock encountered when he was traveling on .\n\nBrock was attracted to her and was planning on traveling with her, but all of that changed when he found out she already had a boyfriend. She said goodbye to Brock, thanked him for the lunch and dinner he made for her, and drove off.\n\n==Voice actors==\n \n\n==Trivia==\nHer Japanese name is based on トラック truck.\n\n \n\n \n \n \n\nde:Gib niemals auf!#Claudina\nes:Claudina\nit:Claudina\nzh:虎美",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Claudina (Japanese: トラミ Torami) is a character of the day who appeared in Two Degrees of Separation!.\n\nClaudina is a truck driver who met in Pewter City when he was trying to hitch a ride to Sinnoh. She and Brock encountered when he was traveling on .\n\nBrock was attracted to her and was planning on traveling with her, but all of that changed when he found out she already had a boyfriend. She said goodbye to Brock, thanked him for the lunch and dinner he made for her, and drove off."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Her Japanese name is based on トラック truck.\n\n \n\n \n \n \n\nde:Gib niemals auf!#Claudina\nes:Claudina\nit:Claudina\nzh:虎美"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Claudina",
+    "pageType": "character",
+    "searchableText": "Claudina\nCategory:Sinnoh characters of the day\nClaudina (Japanese: トラミ Torami) is a character of the day who appeared in Two Degrees of Separation!.\n\nClaudina is a truck driver who met in Pewter City when he was trying to hitch a ride to Sinnoh. She and Brock encountered when he was traveling on .\n\nBrock was attracted to her and was planning on traveling with her, but all of that changed when he found out she already had a boyfriend. She said goodbye to Brock, thanked him for the lunch and dinner he made for her, and drove off.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 630,
+    "sectionCount": 2
+  }
+}

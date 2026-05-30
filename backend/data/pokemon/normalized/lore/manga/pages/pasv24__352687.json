@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PASV24",
+    "slug": "pasv24",
+    "pageId": 352687,
+    "revisionId": 4511079
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasv24__352687.json",
+    "revisionTimestamp": "2026-03-17T20:00:21Z",
+    "fetchedAt": "2026-05-14T15:29:22.053Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 開始！おとりかえ大作戦！！ Start! The Great Decoy Operation!!) is the 24th chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS テツノワダチ 前編 VS Part One).",
+  "plainText": "(Japanese: 開始！おとりかえ大作戦！！ Start! The Great Decoy Operation!!) is the 24th chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS テツノワダチ 前編 VS Part One).\n\n==Plot==\n \n\n==Major events==\nThe from before is revealed to have become alongside .\nis revealed to have caught a during the time stole .\nViolet and begin their battle with Iron Treads and Great Tusk.\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nKoga (picture)\nJanine (picture)\nClavell\nRaifort\nGiacomo (fantasy)\nMela (fantasy)\nAtticus\nOrtega (fantasy; silhouette) \nEri (fantasy; silhouette) \nYoussef\ns\n\n===Pokémon===\n( )\n( 's)\n( 's)\n(Rotom Phone; Old Roto; 's)\n( 's)\n(Rotom Phone; 's)\n( 's)\n( 's)\n(Rotom Phone; Raifort's)\n(Mela's; fantasy; silhouette)\n( )\n( )\n \n \n \n\nde:Kapitel 24 (Karmesin und Purpur Arc)\nes:PMSSV24\nfr:Chapitre 24 (Pocket Monsters Special Écarlate et Violet)\nzh:宝可梦特别篇 朱·紫篇 第18话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 開始！おとりかえ大作戦！！ Start! The Great Decoy Operation!!) is the 24th chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS テツノワダチ 前編 VS Part One)."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "The from before is revealed to have become alongside .\nis revealed to have caught a during the time stole .\nViolet and begin their battle with Iron Treads and Great Tusk."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Koga (picture)\nJanine (picture)\nClavell\nRaifort\nGiacomo (fantasy)\nMela (fantasy)\nAtticus\nOrtega (fantasy; silhouette) \nEri (fantasy; silhouette) \nYoussef\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's)\n( 's)\n(Rotom Phone; Old Roto; 's)\n( 's)\n(Rotom Phone; 's)\n( 's)\n( 's)\n(Rotom Phone; Raifort's)\n(Mela's; fantasy; silhouette)\n( )\n( )\n \n \n \n\nde:Kapitel 24 (Karmesin und Purpur Arc)\nes:PMSSV24\nfr:Chapitre 24 (Pocket Monsters Special Écarlate et Violet)\nzh:宝可梦特别篇 朱·紫篇 第18话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASV24",
+    "pageType": "chapter",
+    "searchableText": "PASV24\nCategory:Pokémon Adventures chapters\n(Japanese: 開始！おとりかえ大作戦！！ Start! The Great Decoy Operation!!) is the 24th chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS テツノワダチ 前編 VS Part One).",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 899,
+    "sectionCount": 4
+  }
+}

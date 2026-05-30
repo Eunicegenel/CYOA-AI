@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Vanessa Crawford",
+    "slug": "vanessa-crawford",
+    "pageId": 202183,
+    "revisionId": 3777522
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Aim to Be a Card Master!! characters",
+    "sourceFileName": "vanessa-crawford__202183.json",
+    "revisionTimestamp": "2023-08-21T14:31:47Z",
+    "fetchedAt": "2026-05-14T15:52:21.029Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: バネッサ・クロフォード Vanessa Crawford) is a character in the Aim to Be a Card Master!! manga. She appeared in Cross-Cultural Battle \"The Golden-Haired Lady\".",
+  "plainText": "(Japanese: バネッサ・クロフォード Vanessa Crawford) is a character in the Aim to Be a Card Master!! manga. She appeared in Cross-Cultural Battle \"The Golden-Haired Lady\".\n\n==Deck==\nVanessa used the following cards in Cross-Cultural Battle \"The Golden-Haired Lady\".",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: バネッサ・クロフォード Vanessa Crawford) is a character in the Aim to Be a Card Master!! manga. She appeared in Cross-Cultural Battle \"The Golden-Haired Lady\"."
+    },
+    {
+      "heading": "Deck",
+      "level": 2,
+      "text": "Vanessa used the following cards in Cross-Cultural Battle \"The Golden-Haired Lady\"."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Vanessa Crawford",
+    "pageType": "character",
+    "searchableText": "Vanessa Crawford\nCategory:Aim to Be a Card Master!! characters\n(Japanese: バネッサ・クロフォード Vanessa Crawford) is a character in the Aim to Be a Card Master!! manga. She appeared in Cross-Cultural Battle \"The Golden-Haired Lady\".",
+    "sectionHeadings": [
+      "Lead",
+      "Deck"
+    ],
+    "characterCount": 253,
+    "sectionCount": 2
+  }
+}

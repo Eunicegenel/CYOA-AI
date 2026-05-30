@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Shizune",
+    "slug": "shizune",
+    "pageId": 321819,
+    "revisionId": 4542823
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "shizune__321819.json",
+    "revisionTimestamp": "2026-05-02T00:25:46Z",
+    "fetchedAt": "2026-05-14T14:49:34.561Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Shizune (Japanese: シズネ Shizune) is a minor non-playable character from Pokémon Scarlet and Violet. She is the daughter of the Mossui Town 's caretaker.",
+  "plainText": "Shizune (Japanese: シズネ Shizune) is a minor non-playable character from Pokémon Scarlet and Violet. She is the daughter of the Mossui Town 's caretaker.\n\n==In the core series games==\nShizune makes an appearance in The Teal Mask. She is a that can be battled on Reveler's Road.\n\n===Pokémon===\n=====Before completing =====\n \n \n \n \n\n=====After completing The Way Home=====\n \n \n \n\n===Quotes===\nBefore being spoken to\n\"Kitakami Hall!\"\n\nBefore battle\n\"Kitakami Hall is bursting full of fun things to check out!\"\n\nUpon being defeated\n\"The Festival of Masks is at Kitakami Hall too!\"\n\nAfter being defeated\n\"Have you met the caretaker at the community center? He's actually my dad.\"\n\n==In animation==\n===Pokémon Horizons: The Series===\nShizune appeared in Roy is Crocalor, and Crocalor is Roy!, participating in the Countryside Harvest Festival. She was seen being tended to by Mollie, as she and lot of other festival participants had blisters on their feet due to the sandals used with the traditional festival jinbei. She and the others were helped by Liko, Roy, and Dot. Later, she thanked Roy for helping her earlier that night, which led to her father, the 's caretaker, allowing the Rising Volt Tacklers to visit the Crystal Pool.\n\n====Voice actors====\n \n \n\n==Names==\n \n \n \n\n \n \n \n \n\nEs:Paola\nfr:Lucile\nit:Agnese\nzh:宁音",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shizune (Japanese: シズネ Shizune) is a minor non-playable character from Pokémon Scarlet and Violet. She is the daughter of the Mossui Town 's caretaker."
+    },
+    {
+      "heading": "In the core series games",
+      "level": 2,
+      "text": "Shizune makes an appearance in The Teal Mask. She is a that can be battled on Reveler's Road."
+    },
+    {
+      "heading": "Quotes",
+      "level": 3,
+      "text": "Before being spoken to\n\"Kitakami Hall!\"\n\nBefore battle\n\"Kitakami Hall is bursting full of fun things to check out!\"\n\nUpon being defeated\n\"The Festival of Masks is at Kitakami Hall too!\"\n\nAfter being defeated\n\"Have you met the caretaker at the community center? He's actually my dad.\""
+    },
+    {
+      "heading": "Pokémon Horizons: The Series",
+      "level": 3,
+      "text": "Shizune appeared in Roy is Crocalor, and Crocalor is Roy!, participating in the Countryside Harvest Festival. She was seen being tended to by Mollie, as she and lot of other festival participants had blisters on their feet due to the sandals used with the traditional festival jinbei. She and the others were helped by Liko, Roy, and Dot. Later, she thanked Roy for helping her earlier that night, which led to her father, the 's caretaker, allowing the Rising Volt Tacklers to visit the Crystal Pool."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "Es:Paola\nfr:Lucile\nit:Agnese\nzh:宁音"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shizune",
+    "pageType": "character",
+    "searchableText": "Shizune\nCategory:Animation characters\nShizune (Japanese: シズネ Shizune) is a minor non-playable character from Pokémon Scarlet and Violet. She is the daughter of the Mossui Town 's caretaker.",
+    "sectionHeadings": [
+      "Lead",
+      "In the core series games",
+      "Quotes",
+      "Pokémon Horizons: The Series",
+      "Names"
+    ],
+    "characterCount": 1315,
+    "sectionCount": 5
+  }
+}

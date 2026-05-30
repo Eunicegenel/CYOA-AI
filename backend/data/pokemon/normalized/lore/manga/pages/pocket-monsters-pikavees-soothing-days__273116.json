@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pocket Monsters: PikaVee's Soothing DAYS",
+    "slug": "pocket-monsters-pikavees-soothing-days",
+    "pageId": 273116,
+    "revisionId": 4528419
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "pocket-monsters-pikavees-soothing-days__273116.json",
+    "revisionTimestamp": "2026-04-09T16:19:52Z",
+    "fetchedAt": "2026-05-14T15:34:37.131Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "----\n \n(Japanese: Pocket Monsters: PikaVee's Soothing DAYS) is a colored written by Sanae Suzuki and illustrated by Tomoko Fujinoki. It was serialized in the magazine from the June 2019 issue (released on April 30, 2019) to the September 2020 issue (released on July 31, 2020). It is followed by Welcome! Pokémon Café: PikaVee's Mixing à la mode. The collected volume is 32 pages long.",
+  "plainText": "----\n \n(Japanese: Pocket Monsters: PikaVee's Soothing DAYS) is a colored written by Sanae Suzuki and illustrated by Tomoko Fujinoki. It was serialized in the magazine from the June 2019 issue (released on April 30, 2019) to the September 2020 issue (released on July 31, 2020). It is followed by Welcome! Pokémon Café: PikaVee's Mixing à la mode. The collected volume is 32 pages long.\n\n==Publications==\n \n \n \n\n==Chapters==\n \nThe collected volume contains the first 13 chapters published in Pucchigumi.\n\n \n\n===Uncompiled===\nTwo chapters that were not compiled into volume were published in the following issues of Pucchigumi.\n\nPucchigumi July / August 2020 page 42 (June 1, 2020). \nPucchigumi September 2020 page 76 (July 31, 2020). \n\n==In other languages==\n \n\n==References==\n \n\n==External links==\nShogakukan's website\nBeijing Science and Technology Publishing Co.,Ltd.'s website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \n(Japanese: Pocket Monsters: PikaVee's Soothing DAYS) is a colored written by Sanae Suzuki and illustrated by Tomoko Fujinoki. It was serialized in the magazine from the June 2019 issue (released on April 30, 2019) to the September 2020 issue (released on July 31, 2020). It is followed by Welcome! Pokémon Café: PikaVee's Mixing à la mode. The collected volume is 32 pages long."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The collected volume contains the first 13 chapters published in Pucchigumi."
+    },
+    {
+      "heading": "Uncompiled",
+      "level": 3,
+      "text": "Two chapters that were not compiled into volume were published in the following issues of Pucchigumi.\n\nPucchigumi July / August 2020 page 42 (June 1, 2020). \nPucchigumi September 2020 page 76 (July 31, 2020)."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Shogakukan's website\nBeijing Science and Technology Publishing Co.,Ltd.'s website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters: PikaVee's Soothing DAYS",
+    "pageType": "manga-series",
+    "searchableText": "Pocket Monsters: PikaVee's Soothing DAYS\nCategory:Manga stubs\n----\n \n(Japanese: Pocket Monsters: PikaVee's Soothing DAYS) is a colored written by Sanae Suzuki and illustrated by Tomoko Fujinoki. It was serialized in the magazine from the June 2019 issue (released on April 30, 2019) to the September 2020 issue (released on July 31, 2020). It is followed by Welcome! Pokémon Café: PikaVee's Mixing à la mode. The collected volume is 32 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Uncompiled",
+      "External links"
+    ],
+    "characterCount": 879,
+    "sectionCount": 4
+  }
+}

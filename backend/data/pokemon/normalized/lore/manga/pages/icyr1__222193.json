@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "ICYR1",
+    "slug": "icyr1",
+    "pageId": 222193,
+    "revisionId": 4527860
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "icyr1__222193.json",
+    "revisionTimestamp": "2026-04-09T15:56:16Z",
+    "fetchedAt": "2026-05-14T15:21:59.989Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "(Japanese: サトシ＆ピカチュウ ビギニング and Pikachu's Beginning) is the first chapter of Pocket Monsters the Movie: I Choose You! Remix.",
+  "plainText": "(Japanese: サトシ＆ピカチュウ ビギニング and Pikachu's Beginning) is the first chapter of Pocket Monsters the Movie: I Choose You! Remix.\n\n==Plot==\n \n\n==Major events==\nand Pikachu battle a on Poni Island.\nAsh flashes back to the day he met Pikachu.\nAfter defeating a flock of , a Rainbow Wing falls from the sky as flies above Ash and Pikachu.\nAsh and Pikachu defeat the Totem Kommo-o with .\n\n==Characters==\n===Humans===\n\n(flashback)\n(flashback)\n\n===Pokémon===\n( ; Alola Cap)\n( 's; flashback)\n( 's; flashback)\n( 's; flashback)\n( )\n( ; flashback)\n(flashback)\n(multiple; flashback)\n\n==In other languages==\n \n\n \n\nit:Gekijouban Pocket Monsters: Kimi ni kimeta! (one-shot)\nzh:M20R01",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: サトシ＆ピカチュウ ビギニング and Pikachu's Beginning) is the first chapter of Pocket Monsters the Movie: I Choose You! Remix."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and Pikachu battle a on Poni Island.\nAsh flashes back to the day he met Pikachu.\nAfter defeating a flock of , a Rainbow Wing falls from the sky as flies above Ash and Pikachu.\nAsh and Pikachu defeat the Totem Kommo-o with ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(flashback)\n(flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; Alola Cap)\n( 's; flashback)\n( 's; flashback)\n( 's; flashback)\n( )\n( ; flashback)\n(flashback)\n(multiple; flashback)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Gekijouban Pocket Monsters: Kimi ni kimeta! (one-shot)\nzh:M20R01"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ICYR1",
+    "pageType": "manga-series",
+    "searchableText": "ICYR1\nCategory:Manga stubs\n(Japanese: サトシ＆ピカチュウ ビギニング and Pikachu's Beginning) is the first chapter of Pocket Monsters the Movie: I Choose You! Remix.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 663,
+    "sectionCount": 5
+  }
+}

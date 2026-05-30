@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon the Movie 2000 (graphic novel)",
+    "slug": "pokemon-the-movie-2000-graphic-novel",
+    "pageId": 84143,
+    "revisionId": 4298514
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ani-Manga",
+    "sourceFileName": "pokemon-the-movie-2000-graphic-novel__84143.json",
+    "revisionTimestamp": "2025-05-11T10:05:25Z",
+    "fetchedAt": "2026-05-14T15:38:05.364Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon the Movie 2000 is a graphic novel published by VIZ Media in North America and Shogakukan in Japan. It is a manga-style book (called \"Animation Comics\" by VIZ at the time of publication, now branded as \"Ani-Manga\") which retells the plotlines of The Power of One and Pikachu's Rescue Adventure using screenshots from both films. The book credits Satoshi Tajiri and Tsunekazu Ishihara as the authors.\n\nLike the graphic novel, Pokémon the Movie 2000 was originally published in Japan as simply one bound volume. For the North American release, it was split up into five monthly issues: four for The Power of One and one for Pikachu's Rescue Adventure. After the release of the monthly issues, the story was rereleased as one bound volume.\n\nThe Pikachu's Rescue Adventure chapter was later reprinted in the All That Pikachu! graphic novel.",
+  "plainText": "Pokémon the Movie 2000 is a graphic novel published by VIZ Media in North America and Shogakukan in Japan. It is a manga-style book (called \"Animation Comics\" by VIZ at the time of publication, now branded as \"Ani-Manga\") which retells the plotlines of The Power of One and Pikachu's Rescue Adventure using screenshots from both films. The book credits Satoshi Tajiri and Tsunekazu Ishihara as the authors.\n\nLike the graphic novel, Pokémon the Movie 2000 was originally published in Japan as simply one bound volume. For the North American release, it was split up into five monthly issues: four for The Power of One and one for Pikachu's Rescue Adventure. After the release of the monthly issues, the story was rereleased as one bound volume.\n\nThe Pikachu's Rescue Adventure chapter was later reprinted in the All That Pikachu! graphic novel.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Synopsis==\nThe contents of this book are adapted from the film of the same name and the Pikachu short Pikachu's Rescue Adventure.\n\n===Chapters===\nPrologue\nChapter 1: Shamouti Island\nChapter 2: The Legend Begins\nChapter 3: Escape!\nChapter 4: The Titan of the Sea\nPikachu's Rescue Adventure\n\n== Characters ==\n\n===Pokémon===\n( )\n( )\n\n==Related articles==\n \n \n \n\n \n\nit:Pokémon the Movie 2000 (graphic novel)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon the Movie 2000 is a graphic novel published by VIZ Media in North America and Shogakukan in Japan. It is a manga-style book (called \"Animation Comics\" by VIZ at the time of publication, now branded as \"Ani-Manga\") which retells the plotlines of The Power of One and Pikachu's Rescue Adventure using screenshots from both films. The book credits Satoshi Tajiri and Tsunekazu Ishihara as the authors.\n\nLike the graphic novel, Pokémon the Movie 2000 was originally published in Japan as simply one bound volume. For the North American release, it was split up into five monthly issues: four for The Power of One and one for Pikachu's Rescue Adventure. After the release of the monthly issues, the story was rereleased as one bound volume.\n\nThe Pikachu's Rescue Adventure chapter was later reprinted in the All That Pikachu! graphic novel."
+    },
+    {
+      "heading": "Synopsis",
+      "level": 2,
+      "text": "The contents of this book are adapted from the film of the same name and the Pikachu short Pikachu's Rescue Adventure."
+    },
+    {
+      "heading": "Chapters",
+      "level": 3,
+      "text": "Prologue\nChapter 1: Shamouti Island\nChapter 2: The Legend Begins\nChapter 3: Escape!\nChapter 4: The Titan of the Sea\nPikachu's Rescue Adventure"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Pokémon the Movie 2000 (graphic novel)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon the Movie 2000 (graphic novel)",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon the Movie 2000 (graphic novel)\nCategory:Ani-Manga\nPokémon the Movie 2000 is a graphic novel published by VIZ Media in North America and Shogakukan in Japan. It is a manga-style book (called \"Animation Comics\" by VIZ at the time of publication, now branded as \"Ani-Manga\") which retells the plotlines of The Power of One and Pikachu's Rescue Adventure using screenshots from both films. The book credits Satoshi Tajiri and Tsunekazu Ishihara as the authors.\n\nLike the graphic novel, Pokémon the Movie 2000 was originally published in Japan as simply one bound volume. For the North American release, it was split up into five monthly issues: four for The Power of One and one for Pikachu's Rescue Adventure. After the release of the monthly issues, the story was rereleased as one bound volume.\n\nThe Pikachu's Rescue Adventure chapter was later reprinted in the All That Pikachu! graphic novel.",
+    "sectionHeadings": [
+      "Lead",
+      "Synopsis",
+      "Chapters",
+      "Pokémon",
+      "Related articles"
+    ],
+    "characterCount": 1282,
+    "sectionCount": 5
+  }
+}

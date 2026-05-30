@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Electric Pikachu Boogaloo issue 2",
+    "slug": "electric-pikachu-boogaloo-issue-2",
+    "pageId": 188913,
+    "revisionId": 4130830
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu monthly issues",
+    "sourceFileName": "electric-pikachu-boogaloo-issue-2__188913.json",
+    "revisionTimestamp": "2024-09-29T03:53:39Z",
+    "fetchedAt": "2026-05-14T15:17:57.429Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Electric Pikachu Boogaloo issue 2 is the tenth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the eleventh chapter of the manga, as well as some bonus content that was not in the original volume. \n\nThe contents of this issue were later rereleased by VIZ Media as part of .",
+  "plainText": "Electric Pikachu Boogaloo issue 2 is the tenth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the eleventh chapter of the manga, as well as some bonus content that was not in the original volume. \n\nThe contents of this issue were later rereleased by VIZ Media as part of .\n\n==Publications==\n \n \n\n==Chapters==\nDays of Gloom and Glory\n\n==Important events==\nbecomes officially qualified to enter the Indigo League and participate in the Indigo Plateau Conference.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Electric Pikachu Boogaloo issue 2 is the tenth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the eleventh chapter of the manga, as well as some bonus content that was not in the original volume. \n\nThe contents of this issue were later rereleased by VIZ Media as part of ."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Days of Gloom and Glory"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "becomes officially qualified to enter the Indigo League and participate in the Indigo Plateau Conference."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Electric Pikachu Boogaloo issue 2",
+    "pageType": "general-manga-lore",
+    "searchableText": "Electric Pikachu Boogaloo issue 2\nCategory:Electric Tale of Pikachu monthly issues\nElectric Pikachu Boogaloo issue 2 is the tenth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the eleventh chapter of the manga, as well as some bonus content that was not in the original volume. \n\nThe contents of this issue were later rereleased by VIZ Media as part of .",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 517,
+    "sectionCount": 3
+  }
+}

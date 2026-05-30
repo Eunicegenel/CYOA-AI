@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP32",
+    "slug": "sp32",
+    "pageId": 182547,
+    "revisionId": 4114554
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp32__182547.json",
+    "revisionTimestamp": "2024-09-16T20:30:17Z",
+    "fetchedAt": "2026-05-14T15:50:11.468Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Start Of The Pokémon League!! (Japanese: ポケモンリーグ開幕!! The Start of the Pokémon League!!) is the thirty second chapter of the Ash & Pikachu manga.",
+  "plainText": "Start Of The Pokémon League!! (Japanese: ポケモンリーグ開幕!! The Start of the Pokémon League!!) is the thirty second chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMax\nMorrison\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n(Morrison's)\n(Morrison's)\n(Morrison's)\n(Morrison's)\n(Morrison's)\n(Trainer's)\n\n \n \n\n \n\nit:SP32",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Start Of The Pokémon League!! (Japanese: ポケモンリーグ開幕!! The Start of the Pokémon League!!) is the thirty second chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max\nMorrison"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )\n( )\n(Morrison's)\n(Morrison's)\n(Morrison's)\n(Morrison's)\n(Morrison's)\n(Trainer's)\n\n \n \n\n \n\nit:SP32"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP32",
+    "pageType": "chapter",
+    "searchableText": "SP32\nCategory:Ash & Pikachu chapters\nStart Of The Pokémon League!! (Japanese: ポケモンリーグ開幕!! The Start of the Pokémon League!!) is the thirty second chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 392,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "CCP16",
+    "slug": "ccp16",
+    "pageId": 174920,
+    "revisionId": 4543526
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp16__174920.json",
+    "revisionTimestamp": "2026-05-03T04:16:48Z",
+    "fetchedAt": "2026-05-14T15:15:17.597Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピの強い花ちゃも! Mighty Flower (chamo!)) is the 16th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: ピッピの強い花ちゃも! Mighty Flower (chamo!)) is the 16th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n stumbles across a disgruntled over by , , and . Clefairy complains to Kanata that he keeps getting bullied due to not being strong enough. Kanata responds by giving each of the Pokémon a \"Mighty Flower\" seed. He tells them that anyone who consumes a Mighty Flower will be given amazing strength, but the flower itself is very difficult to grow. Each Pokémon decides to compete to grow the best flower.\n\nAs time goes on, Clefairy has his friend water the flowers. Pikachu and Clefairy work hard to tend to theirs, while Torchic and Poochyena are less motivated. A month later, the group decides to compare their flowers. Clefairy's is far closest to blooming, impressing everyone. When Clefairy gives it a gentle touch, it suddenly blossoms into a large and vibrant flower. \n\nKanata congratulates Clefairy, then confesses that the flowers are not \"mighty\" at all. Despite this, he claims the flowers are very difficult to grow, and Clefairy's ability to do so serves as a testament to his strength. Clefairy thanks Kanata, then marvels at the beauty of his flower.\n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n(Rainy Form)\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( )\n(Rainy Form)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピの強い花ちゃも! Mighty Flower (chamo!)) is the 16th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "stumbles across a disgruntled over by , , and . Clefairy complains to Kanata that he keeps getting bullied due to not being strong enough. Kanata responds by giving each of the Pokémon a \"Mighty Flower\" seed. He tells them that anyone who consumes a Mighty Flower will be given amazing strength, but the flower itself is very difficult to grow. Each Pokémon decides to compete to grow the best flower.\n\nAs time goes on, Clefairy has his friend water the flowers. Pikachu and Clefairy work hard to tend to theirs, while Torchic and Poochyena are less motivated. A month later, the group decides to compare their flowers. Clefairy's is far closest to blooming, impressing everyone. When Clefairy gives it a gentle touch, it suddenly blossoms into a large and vibrant flower. \n\nKanata congratulates Clefairy, then confesses that the flowers are not \"mighty\" at all. Despite this, he claims the flowers are very difficult to grow, and Clefairy's ability to do so serves as a testament to his strength. Clefairy thanks Kanata, then marvels at the beauty of his flower."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Rainy Form)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n(Rainy Form)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP16",
+    "pageType": "chapter",
+    "searchableText": "CCP16\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: ピッピの強い花ちゃも! Mighty Flower (chamo!)) is the 16th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 1327,
+    "sectionCount": 4
+  }
+}

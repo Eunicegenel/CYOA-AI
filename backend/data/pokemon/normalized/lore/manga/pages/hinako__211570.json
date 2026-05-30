@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Hinako",
+    "slug": "hinako",
+    "pageId": 211570,
+    "revisionId": 4526922
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "hinako__211570.json",
+    "revisionTimestamp": "2026-04-09T15:11:51Z",
+    "fetchedAt": "2026-05-14T15:21:31.116Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ヒナコ Hinako) is a character who appeared in Pokémon: Yeah! I Got Pokémon!.",
+  "plainText": "(Japanese: ヒナコ Hinako) is a character who appeared in Pokémon: Yeah! I Got Pokémon!.\n\n==History==\nHinako appeared in GDZ45 when he made fun of Momoyo after she fell and hurt her leg.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ヒナコ Hinako) is a character who appeared in Pokémon: Yeah! I Got Pokémon!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Hinako appeared in GDZ45 when he made fun of Momoyo after she fell and hurt her leg."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hinako",
+    "pageType": "character",
+    "searchableText": "Hinako\nCategory:Pokémon: Yeah! I Got Pokémon! characters\n(Japanese: ヒナコ Hinako) is a character who appeared in Pokémon: Yeah! I Got Pokémon!.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 195,
+    "sectionCount": 2
+  }
+}

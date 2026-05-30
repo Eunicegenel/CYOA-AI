@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Try Adventure volume 1",
+    "slug": "pokemon-try-adventure-volume-1",
+    "pageId": 175423,
+    "revisionId": 4298425
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure volumes",
+    "sourceFileName": "pokemon-try-adventure-volume-1__175423.json",
+    "revisionTimestamp": "2025-05-11T10:04:27Z",
+    "fetchedAt": "2026-05-14T15:38:09.045Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume of the Pokémon Try Adventure manga created by Miho Asada, Jun Keijima, and Laboratory.",
+  "plainText": "Volume 1 is the first volume of the Pokémon Try Adventure manga created by Miho Asada, Jun Keijima, and Laboratory.\n\n==Publications==\n \n \n \n \n \n\n==Chapters==\nChapter 1: A Fateful Meeting\nChapter 2: A Strong Man\nChapter 3: The Guardian of the Volcano\nChapter 4: The Legendary Pokémon Appears\nChapter 5: Capture Entei!\nChapter 6: Great Escape!\nChapter 7: Protect the Harmony of the Forest!\nChapter 8: Mystery of the Mansion\nChapter 9: Rescue Eevee\nChapter 10: Phantom Thief Haidoru\nChapter 11: Treasure Hunt in the Sea\nChapter 12: Who's the Best?\nChapter 13: Mythical Pokémon\nChapter 14: The Lost Two\n\n \n \n \n \n\nes:Tomo 1 (Pokémon Try Adventure)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the Pokémon Try Adventure manga created by Miho Asada, Jun Keijima, and Laboratory."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 1: A Fateful Meeting\nChapter 2: A Strong Man\nChapter 3: The Guardian of the Volcano\nChapter 4: The Legendary Pokémon Appears\nChapter 5: Capture Entei!\nChapter 6: Great Escape!\nChapter 7: Protect the Harmony of the Forest!\nChapter 8: Mystery of the Mansion\nChapter 9: Rescue Eevee\nChapter 10: Phantom Thief Haidoru\nChapter 11: Treasure Hunt in the Sea\nChapter 12: Who's the Best?\nChapter 13: Mythical Pokémon\nChapter 14: The Lost Two\n\n \n \n \n \n\nes:Tomo 1 (Pokémon Try Adventure)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Try Adventure volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Try Adventure volume 1\nCategory:Pokémon Try Adventure volumes\nVolume 1 is the first volume of the Pokémon Try Adventure manga created by Miho Asada, Jun Keijima, and Laboratory.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 642,
+    "sectionCount": 2
+  }
+}

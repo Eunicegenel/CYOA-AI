@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASS32",
+    "slug": "pass32",
+    "pageId": 281146,
+    "revisionId": 4528585
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass32__281146.json",
+    "revisionTimestamp": "2026-04-09T16:28:59Z",
+    "fetchedAt": "2026-05-14T15:28:59.822Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Boom!! Reunion in a New Land (Japanese: ビシビシ！！新天地での再会 Relentless!! Another Encounter in the New Land) is the 32nd chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Boom!! Reunion in a New Land (Japanese: ビシビシ！！新天地での再会 Relentless!! Another Encounter in the New Land) is the 32nd chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nHop, Marnie, and Bede meet Peony and Peonia.\nand Marvin find .\n\n \n \n\n===Debuts===\n====Humans====\nPeony\nPeonia\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHenry\nCasey\nHop\nBede\nMarnie\nAvery\nKlara\nMustard\n\nHyde\nPeony\nPeonia\nSonia (flashback)\nRose (fantasy)\nOleana (image)\nMarvin\n\n===Pokémon===\n(Hop's)\n(Rotom Phone; Hop's)\n(Rotom Phone; Bede's)\n(Marnie's; )\n(Marnie's)\n(Rotom Phone; Marnie's)\n(Mustard's)\n(Peony's)\n\n==Trivia==\n \n \n \n\nde:Wiedersehen an einem fremden Ort\nes:PMSSwSh32\nfr:Chapitre 32 (Pocket Monsters Special Épée et Bouclier)\nit:PASS32\nzh:宝可梦特别篇 剑·盾篇 第32话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Boom!! Reunion in a New Land (Japanese: ビシビシ！！新天地での再会 Relentless!! Another Encounter in the New Land) is the 32nd chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hop, Marnie, and Bede meet Peony and Peonia.\nand Marvin find ."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Peony\nPeonia"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nHop\nBede\nMarnie\nAvery\nKlara\nMustard\n\nHyde\nPeony\nPeonia\nSonia (flashback)\nRose (fantasy)\nOleana (image)\nMarvin"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hop's)\n(Rotom Phone; Hop's)\n(Rotom Phone; Bede's)\n(Marnie's; )\n(Marnie's)\n(Rotom Phone; Marnie's)\n(Mustard's)\n(Peony's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Wiedersehen an einem fremden Ort\nes:PMSSwSh32\nfr:Chapitre 32 (Pocket Monsters Special Épée et Bouclier)\nit:PASS32\nzh:宝可梦特别篇 剑·盾篇 第32话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS32",
+    "pageType": "chapter",
+    "searchableText": "PASS32\nCategory:Pokémon Adventures chapters\nBoom!! Reunion in a New Land (Japanese: ビシビシ！！新天地での再会 Relentless!! Another Encounter in the New Land) is the 32nd chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 770,
+    "sectionCount": 6
+  }
+}

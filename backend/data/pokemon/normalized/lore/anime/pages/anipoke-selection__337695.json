@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Anipoke Selection",
+    "slug": "anipoke-selection",
+    "pageId": 337695,
+    "revisionId": 4336294
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon animated series",
+    "sourceFileName": "anipoke-selection__337695.json",
+    "revisionTimestamp": "2025-07-15T07:28:28Z",
+    "fetchedAt": "2026-05-14T14:02:50.054Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Anipoke Selection (Japanese: アニポケセレクション Anime \"Pocket Monsters\" Selection) was a series of reruns of 57 select episodes from past series of on The Pokémon Company's official Japanese YouTube channel.\n\nThere are 15 episodes from the original series, as well as 7 episodes each from , , , , , and .",
+  "plainText": "Anipoke Selection (Japanese: アニポケセレクション Anime \"Pocket Monsters\" Selection) was a series of reruns of 57 select episodes from past series of on The Pokémon Company's official Japanese YouTube channel.\n\nThere are 15 episodes from the original series, as well as 7 episodes each from , , , , , and .\n\n==Episodes==\n \n\n==External links==\nAnipoke Selection on Youtube (Japanese, Geo-locked to Japan)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Anipoke Selection (Japanese: アニポケセレクション Anime \"Pocket Monsters\" Selection) was a series of reruns of 57 select episodes from past series of on The Pokémon Company's official Japanese YouTube channel.\n\nThere are 15 episodes from the original series, as well as 7 episodes each from , , , , , and ."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anipoke Selection on Youtube (Japanese, Geo-locked to Japan)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Anipoke Selection",
+    "pageType": "pokemon-related",
+    "searchableText": "Anipoke Selection\nCategory:Pokémon animated series\nAnipoke Selection (Japanese: アニポケセレクション Anime \"Pocket Monsters\" Selection) was a series of reruns of 57 select episodes from past series of on The Pokémon Company's official Japanese YouTube channel.\n\nThere are 15 episodes from the original series, as well as 7 episodes each from , , , , , and .",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 393,
+    "sectionCount": 2
+  }
+}

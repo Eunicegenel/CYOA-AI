@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Polkamon",
+    "slug": "polkamon",
+    "pageId": 17255,
+    "revisionId": 4220576
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:English movie ending themes",
+    "sourceFileName": "polkamon__17255.json",
+    "revisionTimestamp": "2025-01-13T23:30:31Z",
+    "fetchedAt": "2026-05-14T14:44:12.035Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Polkamon is one of the ending themes for the English dub of The Power of One. It is featured on the film's soundtrack and is performed by .",
+  "plainText": "Polkamon is one of the ending themes for the English dub of The Power of One. It is featured on the film's soundtrack and is performed by .\n\n==Lyrics==\n===Movie version===\n , , ,\n , , and ,\n , , ,\n , and ,\n , , ,\n , and ,\n , and -\nEverybody, Polkamon!\n\n , and ,\n , and .\nDon't forget about ,\n , and ,\n , and -\nEverybody, Polkamon!\n\nEverybody, Polkamon!\n\nEverybody, Polkamon! \n\n===Full version===\n , , ,\n , , and ,\n , , ,\n , and ,\n , , ,\n , and ,\n , and -\nEverybody, Polkamon!\n\n , , ,\n , and ,\n , Ditto, ,\n , and ol' ,\n , , , ,\n , and of course ,\n , and -\nEverybody, Polkamon!\n\nIt's time to Polka,\nFor and too.\nCome on, put on your lederhosen,\nAnd try not to step on little .\nYou better grab yourself a partner,\nLike or . (Bulbasaur!)\nHold on a minute, there's still at least a hundred and twenty-seven more,\n\nIncluding and ,\n , , and ,\n , and ,\n , and .\nDon't forget about ,\n , and ,\n , and -\nEverybody, Polkamon!\n\nEverybody, Polkamon!\n\nEverybody, Polkamon! \n\n==Trivia==\nis listed twice, probably a reference to its name and characteristics.\nBoth times it is on the third line, as the second one named.\nThe song states that there are \"at least 127 more\" Pokémon. This is because the number 27 is a running gag within Weird Al's songs. Since this song was released during Generation II, this is actually accurate, since there are 210 remaining Pokémon between Generations I and II that aren't listed in the first two verses and the bridge (and 196 more that aren't listed in the song as a whole).\nWhen The Power of One is aired in syndication, this is the only ending theme.\nIn 2017, Weird Al tried to include the song on Medium Rarities, an exclusive bonus disc consisting of singles and other rare tracks, as part of his compilation box set Squeeze Box: The Complete Works of \"Weird Al\" Yankovic, but he was denied permission, allegedly due to Pokémon's recent rise in popularity resulting from the 20th anniversary events and Pokémon GO. \n\n==References==\n \n\n==Related articles==\n \n \n \n\n \n\nde:Polkamon\nes:ED2P02\nzh:Polkamon",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Polkamon is one of the ending themes for the English dub of The Power of One. It is featured on the film's soundtrack and is performed by ."
+    },
+    {
+      "heading": "Movie version",
+      "level": 3,
+      "text": ", , ,\n , , and ,\n , , ,\n , and ,\n , , ,\n , and ,\n , and -\nEverybody, Polkamon!\n\n , and ,\n , and .\nDon't forget about ,\n , and ,\n , and -\nEverybody, Polkamon!\n\nEverybody, Polkamon!\n\nEverybody, Polkamon!"
+    },
+    {
+      "heading": "Full version",
+      "level": 3,
+      "text": ", , ,\n , , and ,\n , , ,\n , and ,\n , , ,\n , and ,\n , and -\nEverybody, Polkamon!\n\n , , ,\n , and ,\n , Ditto, ,\n , and ol' ,\n , , , ,\n , and of course ,\n , and -\nEverybody, Polkamon!\n\nIt's time to Polka,\nFor and too.\nCome on, put on your lederhosen,\nAnd try not to step on little .\nYou better grab yourself a partner,\nLike or . (Bulbasaur!)\nHold on a minute, there's still at least a hundred and twenty-seven more,\n\nIncluding and ,\n , , and ,\n , and ,\n , and .\nDon't forget about ,\n , and ,\n , and -\nEverybody, Polkamon!\n\nEverybody, Polkamon!\n\nEverybody, Polkamon!"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "is listed twice, probably a reference to its name and characteristics.\nBoth times it is on the third line, as the second one named.\nThe song states that there are \"at least 127 more\" Pokémon. This is because the number 27 is a running gag within Weird Al's songs. Since this song was released during Generation II, this is actually accurate, since there are 210 remaining Pokémon between Generations I and II that aren't listed in the first two verses and the bridge (and 196 more that aren't listed in the song as a whole).\nWhen The Power of One is aired in syndication, this is the only ending theme.\nIn 2017, Weird Al tried to include the song on Medium Rarities, an exclusive bonus disc consisting of singles and other rare tracks, as part of his compilation box set Squeeze Box: The Complete Works of \"Weird Al\" Yankovic, but he was denied permission, allegedly due to Pokémon's recent rise in popularity resulting from the 20th anniversary events and Pokémon GO."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Polkamon\nes:ED2P02\nzh:Polkamon"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Polkamon",
+    "pageType": "movie",
+    "searchableText": "Polkamon\nCategory:English movie ending themes\nPolkamon is one of the ending themes for the English dub of The Power of One. It is featured on the film's soundtrack and is performed by .",
+    "sectionHeadings": [
+      "Lead",
+      "Movie version",
+      "Full version",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 2024,
+    "sectionCount": 5
+  }
+}

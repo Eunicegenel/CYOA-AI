@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM080",
+    "slug": "pm080",
+    "pageId": 160638,
+    "revisionId": 4527698
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm080__160638.json",
+    "revisionTimestamp": "2026-04-09T15:49:20Z",
+    "fetchedAt": "2026-05-14T15:31:19.978Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy is a Mama! (Japanese: ピッピママ奮闘記！ Mama 's Struggling Chronicle!) is the eightieth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Clefairy is a Mama! (Japanese: ピッピママ奮闘記！ Mama 's Struggling Chronicle!) is the eightieth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 80 (Pokémon Pocket Monsters)\nit:PMM080",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy is a Mama! (Japanese: ピッピママ奮闘記！ Mama 's Struggling Chronicle!) is the eightieth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 80 (Pokémon Pocket Monsters)\nit:PMM080"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM080",
+    "pageType": "chapter",
+    "searchableText": "PM080\nCategory:Pokémon Pocket Monsters chapters\nClefairy is a Mama! (Japanese: ピッピママ奮闘記！ Mama 's Struggling Chronicle!) is the eightieth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 327,
+    "sectionCount": 3
+  }
+}

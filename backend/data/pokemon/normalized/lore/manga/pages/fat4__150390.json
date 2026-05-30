@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "FAT4",
+    "slug": "fat4",
+    "pageId": 150390,
+    "revisionId": 3778302
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW: The Heroes of Fire and Thunder",
+    "sourceFileName": "fat4__150390.json",
+    "revisionTimestamp": "2023-08-22T10:10:08Z",
+    "fetchedAt": "2026-05-14T15:18:46.976Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Get the Legendary Pokémon! (Japanese: 伝説のポケモンを手に入れろ! Get the Legendary Pokémon!) is the fourth chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga.",
+  "plainText": "Get the Legendary Pokémon! (Japanese: 伝説のポケモンを手に入れろ! Get the Legendary Pokémon!) is the fourth chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga.\n\n==Plot==\n \n\n==Major events==\nAlder takes Shin to Relic Castle to find the Light Stone, then betrays him and claims it for himself.\ndefeats Alder's and he reveals it was all part of a plan of N's for him to be accepted as a Hero by the Light Stone.\nShin becomes the Hero of Fire and flies off to confront N.\n===Debuts===\n\n====Pokémon debuts====\n\nThe Original Pokémon (partially obscured)\n(Alder's)\n\n==Characters==\n===Humans===\nAlder\n\nMarshal\nN\n\n===Pokémon===\n( )\n( 's)\n(N's)\n(Alder's)\n\nThe Original Pokémon (partially obscured)\n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Get the Legendary Pokémon! (Japanese: 伝説のポケモンを手に入れろ! Get the Legendary Pokémon!) is the fourth chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Alder takes Shin to Relic Castle to find the Light Stone, then betrays him and claims it for himself.\ndefeats Alder's and he reveals it was all part of a plan of N's for him to be accepted as a Hero by the Light Stone.\nShin becomes the Hero of Fire and flies off to confront N."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "The Original Pokémon (partially obscured)\n(Alder's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Alder\n\nMarshal\nN"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's)\n(N's)\n(Alder's)\n\nThe Original Pokémon (partially obscured)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "FAT4",
+    "pageType": "general-manga-lore",
+    "searchableText": "FAT4\nCategory:Pocket Monsters BW: The Heroes of Fire and Thunder\nGet the Legendary Pokémon! (Japanese: 伝説のポケモンを手に入れろ! Get the Legendary Pokémon!) is the fourth chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 707,
+    "sectionCount": 5
+  }
+}

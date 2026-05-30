@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "ICYR3",
+    "slug": "icyr3",
+    "pageId": 224550,
+    "revisionId": 4528622
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "icyr3__224550.json",
+    "revisionTimestamp": "2026-04-09T16:31:05Z",
+    "fetchedAt": "2026-05-14T15:22:01.234Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "(Japanese: 虹の勇者編 The Rainbow Hero) is the third chapter of Pocket Monsters the Movie: I Choose You! Remix.",
+  "plainText": "(Japanese: 虹の勇者編 The Rainbow Hero) is the third chapter of Pocket Monsters the Movie: I Choose You! Remix.\n\n==Plot==\n \n\n==Major events==\n\n==Characters==\n===Humans===\n\nSorrel\nVerity\nCross\nBonji\nTownspeople (flashback)\n\n===Pokémon===\n( )\n( ; evolves)\n( ; newly evolved)\n( ; Cross's)\n(Cross's)\n( )\n( ; flashback)\n(flashback)\n(flashback)\n(flashback)\n\n(multiple)\n\n==In other languages==\n \n\n \n\nit:Niji no yūsha hen\nzh:M20R03",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 虹の勇者編 The Rainbow Hero) is the third chapter of Pocket Monsters the Movie: I Choose You! Remix."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Sorrel\nVerity\nCross\nBonji\nTownspeople (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( ; evolves)\n( ; newly evolved)\n( ; Cross's)\n(Cross's)\n( )\n( ; flashback)\n(flashback)\n(flashback)\n(flashback)\n\n(multiple)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Niji no yūsha hen\nzh:M20R03"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ICYR3",
+    "pageType": "manga-series",
+    "searchableText": "ICYR3\nCategory:Manga stubs\n(Japanese: 虹の勇者編 The Rainbow Hero) is the third chapter of Pocket Monsters the Movie: I Choose You! Remix.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 418,
+    "sectionCount": 4
+  }
+}

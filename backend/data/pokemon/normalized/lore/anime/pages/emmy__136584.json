@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Emmy",
+    "slug": "emmy",
+    "pageId": 136584,
+    "revisionId": 4143636
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "emmy__136584.json",
+    "revisionTimestamp": "2024-10-11T21:32:13Z",
+    "fetchedAt": "2026-05-14T14:15:22.907Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Emmy (Japanese: エミー Emmy) is a character of the day who appeared in The Dragon Master's Path!.\n\nEmmy appeared after her was spotted by and . It attacked them, but soon after, found the source of Druddigon's anger. Emmy seemed to have trouble battling with her Pokémon, so Iris offered her help since she wants to become a Dragon Master. Ash suggested a with her, and Emmy accepted. Iris served as Emmy's coach during the match.\n\nDuring the battle, Emmy used Druddigon against Ash's Tepig. With help from Iris, Emmy and Druddigon were able to defeat Ash's Tepig. Soon after, appeared and stole Druddigon and . As Team Rocket escaped, Druddigon and Axew were able to cause Team Rocket's mecha to fall down, and Ash and the others soon caught up. During the battle with Team Rocket, Druddigon was able to use , and then, Axew was able to successfully use to finish Team Rocket off.",
+  "plainText": "Emmy (Japanese: エミー Emmy) is a character of the day who appeared in The Dragon Master's Path!.\n\nEmmy appeared after her was spotted by and . It attacked them, but soon after, found the source of Druddigon's anger. Emmy seemed to have trouble battling with her Pokémon, so Iris offered her help since she wants to become a Dragon Master. Ash suggested a with her, and Emmy accepted. Iris served as Emmy's coach during the match.\n\nDuring the battle, Emmy used Druddigon against Ash's Tepig. With help from Iris, Emmy and Druddigon were able to defeat Ash's Tepig. Soon after, appeared and stole Druddigon and . As Team Rocket escaped, Druddigon and Axew were able to cause Team Rocket's mecha to fall down, and Ash and the others soon caught up. During the battle with Team Rocket, Druddigon was able to use , and then, Axew was able to successfully use to finish Team Rocket off.\n\n==Pokémon==\nThis listing is of Emmy's known in :\n\n===On hand=== \n \n\n===Traded away===\nEmmy mentioned that she received Druddigon in a trade, indicating that she had another Pokémon.\n\n==Voice actors==\n \n \n \n\n \n \n \n\nes:Emmy\nfr:Eva\nit:Emmy\nja:エミー",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Emmy (Japanese: エミー Emmy) is a character of the day who appeared in The Dragon Master's Path!.\n\nEmmy appeared after her was spotted by and . It attacked them, but soon after, found the source of Druddigon's anger. Emmy seemed to have trouble battling with her Pokémon, so Iris offered her help since she wants to become a Dragon Master. Ash suggested a with her, and Emmy accepted. Iris served as Emmy's coach during the match.\n\nDuring the battle, Emmy used Druddigon against Ash's Tepig. With help from Iris, Emmy and Druddigon were able to defeat Ash's Tepig. Soon after, appeared and stole Druddigon and . As Team Rocket escaped, Druddigon and Axew were able to cause Team Rocket's mecha to fall down, and Ash and the others soon caught up. During the battle with Team Rocket, Druddigon was able to use , and then, Axew was able to successfully use to finish Team Rocket off."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Emmy's known in :\n\n===On hand==="
+    },
+    {
+      "heading": "Traded away",
+      "level": 3,
+      "text": "Emmy mentioned that she received Druddigon in a trade, indicating that she had another Pokémon."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Emmy\nfr:Eva\nit:Emmy\nja:エミー"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Emmy",
+    "pageType": "character",
+    "searchableText": "Emmy\nCategory:Unova characters of the day\nEmmy (Japanese: エミー Emmy) is a character of the day who appeared in The Dragon Master's Path!.\n\nEmmy appeared after her was spotted by and . It attacked them, but soon after, found the source of Druddigon's anger. Emmy seemed to have trouble battling with her Pokémon, so Iris offered her help since she wants to become a Dragon Master. Ash suggested a with her, and Emmy accepted. Iris served as Emmy's coach during the match.\n\nDuring the battle, Emmy used Druddigon against Ash's Tepig. With help from Iris, Emmy and Druddigon were able to defeat Ash's Tepig. Soon after, appeared and stole Druddigon and . As Team Rocket escaped, Druddigon and Axew were able to cause Team Rocket's mecha to fall down, and Ash and the others soon caught up. During the battle with Team Rocket, Druddigon was able to use , and then, Axew was able to successfully use to finish Team Rocket off.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Traded away",
+      "Voice actors"
+    ],
+    "characterCount": 1123,
+    "sectionCount": 4
+  }
+}

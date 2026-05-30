@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ78",
+    "slug": "gdz78",
+    "pageId": 188469,
+    "revisionId": 4528437
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz78__188469.json",
+    "revisionTimestamp": "2026-04-09T16:20:30Z",
+    "fetchedAt": "2026-05-14T15:20:11.091Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ファーストキッスはあくまのキッス！？ My First Kiss is a !?) is the 78th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ファーストキッスはあくまのキッス！？ My First Kiss is a !?) is the 78th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nFemale Trainer\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's; new)\n(Trainer's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ファーストキッスはあくまのキッス！？ My First Kiss is a !?) is the 78th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nFemale Trainer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's; new)\n(Trainer's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ78",
+    "pageType": "chapter",
+    "searchableText": "GDZ78\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ファーストキッスはあくまのキッス！？ My First Kiss is a !?) is the 78th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 282,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon RéBURST volume 4",
+    "slug": "pokemon-reburst-volume-4",
+    "pageId": 157951,
+    "revisionId": 3405333
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST volumes",
+    "sourceFileName": "pokemon-reburst-volume-4__157951.json",
+    "revisionTimestamp": "2021-09-27T19:02:27Z",
+    "fetchedAt": "2026-05-14T15:37:29.301Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 4 is the fourth volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+  "plainText": "Volume 4 is the fourth volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.\n\n==Publications==\n \n \n\n \n==Chapters==\nChapter 01 (28): Grown Strength...!\nChapter 02 (29): The Winner and The Loser...\nChapter 03 (30): The Remaining Four\nChapter 04 (31): Their Hidden Feelings...\nChapter 05 (32): Seesaw Balloon Survival\nChapter 06 (33): Pleasure of Fighting\nChapter 07 (34): Reversals and Secrets\nChapter 08 (35): Truth\nChapter 09 (36): The Switched Past\nChapter 10 (37): The Perfect Defense\n\n==Important events==\n \nFraud is revealed to be the leader of Great Gavel.\n\n \n \n \n\nit:Pokémon RéBURST volume 4",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 4 is the fourth volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 01 (28): Grown Strength...!\nChapter 02 (29): The Winner and The Loser...\nChapter 03 (30): The Remaining Four\nChapter 04 (31): Their Hidden Feelings...\nChapter 05 (32): Seesaw Balloon Survival\nChapter 06 (33): Pleasure of Fighting\nChapter 07 (34): Reversals and Secrets\nChapter 08 (35): Truth\nChapter 09 (36): The Switched Past\nChapter 10 (37): The Perfect Defense"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Fraud is revealed to be the leader of Great Gavel.\n\n \n \n \n\nit:Pokémon RéBURST volume 4"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon RéBURST volume 4",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon RéBURST volume 4\nCategory:Pokémon RéBURST volumes\nVolume 4 is the fourth volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 638,
+    "sectionCount": 3
+  }
+}

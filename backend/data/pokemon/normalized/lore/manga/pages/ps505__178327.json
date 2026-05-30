@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PS505",
+    "slug": "ps505",
+    "pageId": 178327,
+    "revisionId": 4549033
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps505__178327.json",
+    "revisionTimestamp": "2026-05-11T00:54:42Z",
+    "fetchedAt": "2026-05-14T15:45:16.214Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "A Cold Reception (Japanese: VS ツンベアー VS Beartic), titled VS Beartic in the Shogakukan Asia translation, is the 505th chapter of the Pokémon Adventures manga, and the 45th chapter of the .\n\nIt is subtitled Beartic (Japanese: 条件 Conditions) in the VIZ Media translation and A Cold Reception in the Shogakukan Asia translation.",
+  "plainText": "A Cold Reception (Japanese: VS ツンベアー VS Beartic), titled VS Beartic in the Shogakukan Asia translation, is the 505th chapter of the Pokémon Adventures manga, and the 45th chapter of the .\n\nIt is subtitled Beartic (Japanese: 条件 Conditions) in the VIZ Media translation and A Cold Reception in the Shogakukan Asia translation.\n\n==Plot==\n \n\n==Major events==\nCosta evolves into .\ndefeats Brycen and earns the .\nBlack obtains the Light Stone.\nBlack attempts to summon , but fails.\nBlack learns that the League's date has been pushed up and becomes worried that he won't be able to compete in the League without eight Badges.\nBrycen tells Black about the .\nIris suggests that he try to awaken Reshiram, but Black claims that it's impossible and runs off.\n\n \n \n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n(fantasy)\nBrycen\nDrayden\nIris\nAlder (fantasy)\nGhetsis (fantasy)\nLogan\nKimi\ns (fantasy)\n\n===Pokémon===\n(Musha; 's)\n(Costa; 's; evolves)\n(Costa; 's; newly evolved)\n(Brycen's)\n(Drayden's)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)\n\n==Trivia==\nIn the original Japanese magazine version, the last few pages of this chapter were originally published as a part of PS508. Since the pages caused a continuity error by leading into the events of PS508 and leaving no room for encounter with the Swords of Justice, the pages were moved when collected into .\nThis part of the last few pages of this chapter in the European French version is named \"Le choix de Watson\" (Drayden's Choice). In the VIZ Media mini volume, the title is \"A Week to Go\".\n\n==In other languages==\n \n \n \n \n\nde:VS. Siberio\nes:PMS505\nfr:Chapitre 505 (Pocket Monsters Special)\nit:LGA505\nzh:宝可梦特别篇 第505话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Cold Reception (Japanese: VS ツンベアー VS Beartic), titled VS Beartic in the Shogakukan Asia translation, is the 505th chapter of the Pokémon Adventures manga, and the 45th chapter of the .\n\nIt is subtitled Beartic (Japanese: 条件 Conditions) in the VIZ Media translation and A Cold Reception in the Shogakukan Asia translation."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Costa evolves into .\ndefeats Brycen and earns the .\nBlack obtains the Light Stone.\nBlack attempts to summon , but fails.\nBlack learns that the League's date has been pushed up and becomes worried that he won't be able to compete in the League without eight Badges.\nBrycen tells Black about the .\nIris suggests that he try to awaken Reshiram, but Black claims that it's impossible and runs off."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(fantasy)\nBrycen\nDrayden\nIris\nAlder (fantasy)\nGhetsis (fantasy)\nLogan\nKimi\ns (fantasy)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Musha; 's)\n(Costa; 's; evolves)\n(Costa; 's; newly evolved)\n(Brycen's)\n(Drayden's)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the original Japanese magazine version, the last few pages of this chapter were originally published as a part of PS508. Since the pages caused a continuity error by leading into the events of PS508 and leaving no room for encounter with the Swords of Justice, the pages were moved when collected into .\nThis part of the last few pages of this chapter in the European French version is named \"Le choix de Watson\" (Drayden's Choice). In the VIZ Media mini volume, the title is \"A Week to Go\"."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Siberio\nes:PMS505\nfr:Chapitre 505 (Pocket Monsters Special)\nit:LGA505\nzh:宝可梦特别篇 第505话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS505",
+    "pageType": "chapter",
+    "searchableText": "PS505\nCategory:Pokémon Adventures chapters\nA Cold Reception (Japanese: VS ツンベアー VS Beartic), titled VS Beartic in the Shogakukan Asia translation, is the 505th chapter of the Pokémon Adventures manga, and the 45th chapter of the .\n\nIt is subtitled Beartic (Japanese: 条件 Conditions) in the VIZ Media translation and A Cold Reception in the Shogakukan Asia translation.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1703,
+    "sectionCount": 6
+  }
+}

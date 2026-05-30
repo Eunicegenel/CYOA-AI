@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM060",
+    "slug": "pm060",
+    "pageId": 160489,
+    "revisionId": 4527760
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm060__160489.json",
+    "revisionTimestamp": "2026-04-09T15:52:08Z",
+    "fetchedAt": "2026-05-14T15:31:07.441Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "I Want to Become Popular!! (Japanese: 人気者になりたい！！ I Want to Become Popular!!) is the sixtieth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "I Want to Become Popular!! (Japanese: 人気者になりたい！！ I Want to Become Popular!!) is the sixtieth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nBoy\nPeople\n\n===Pokémon===\n( ) \n( )\n(boy's)\n(boy's)\n(boy's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 60 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "I Want to Become Popular!! (Japanese: 人気者になりたい！！ I Want to Become Popular!!) is the sixtieth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Boy\nPeople"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n(boy's)\n(boy's)\n(boy's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 60 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM060",
+    "pageType": "chapter",
+    "searchableText": "PM060\nCategory:Pokémon Pocket Monsters chapters\nI Want to Become Popular!! (Japanese: 人気者になりたい！！ I Want to Become Popular!!) is the sixtieth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 353,
+    "sectionCount": 4
+  }
+}

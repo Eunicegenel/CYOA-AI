@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "SP12",
+    "slug": "sp12",
+    "pageId": 182459,
+    "revisionId": 4114566
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp12__182459.json",
+    "revisionTimestamp": "2024-09-16T20:30:32Z",
+    "fetchedAt": "2026-05-14T15:49:58.254Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Tyrogue's Thoughts (Japanese: バルキーの思い Thoughts) is the twelfth chapter of the Ash & Pikachu manga.",
+  "plainText": "The Tyrogue's Thoughts (Japanese: バルキーの思い Thoughts) is the twelfth chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nKiyo\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nJessie\nJames\nKiyo\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n\n \n \n\n \n\nit:SP12",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Tyrogue's Thoughts (Japanese: バルキーの思い Thoughts) is the twelfth chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Kiyo"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jessie\nJames\nKiyo"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n\n \n \n\n \n\nit:SP12"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP12",
+    "pageType": "chapter",
+    "searchableText": "SP12\nCategory:Ash & Pikachu chapters\nThe Tyrogue's Thoughts (Japanese: バルキーの思い Thoughts) is the twelfth chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 290,
+    "sectionCount": 4
+  }
+}

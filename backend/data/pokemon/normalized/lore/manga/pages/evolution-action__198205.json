@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Evolution Action",
+    "slug": "evolution-action",
+    "pageId": 198205,
+    "revisionId": 4130602
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "evolution-action__198205.json",
+    "revisionTimestamp": "2024-09-29T03:49:03Z",
+    "fetchedAt": "2026-05-14T15:18:35.852Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Evolution Action is the 25th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 17, 18, and 19 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Evolution Action is the 25th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 17, 18, and 19 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 57 - Ekans the Ecstasy\nChapter 58 - The Kindest Tentacruel\nChapter 59 - Hitmonlee, Baby! (One More Time)\n\n==Important events==\nsaves everyone on board the S.S. Anne.\nThe S.S. Anne sinks in the .\nYellow is told about the legend of the Vermilion Harbor by the Pokémon Fan Club Chairman.\ntries to convince to let her use his Pokémon Storage System.\n\n \n\n \n\nfr:Volume 25 (Pokémon Adventures)\nit:Evolution Action",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Evolution Action is the 25th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 17, 18, and 19 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 57 - Ekans the Ecstasy\nChapter 58 - The Kindest Tentacruel\nChapter 59 - Hitmonlee, Baby! (One More Time)"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "saves everyone on board the S.S. Anne.\nThe S.S. Anne sinks in the .\nYellow is told about the legend of the Vermilion Harbor by the Pokémon Fan Club Chairman.\ntries to convince to let her use his Pokémon Storage System.\n\n \n\n \n\nfr:Volume 25 (Pokémon Adventures)\nit:Evolution Action"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Evolution Action",
+    "pageType": "pokemon-related",
+    "searchableText": "Evolution Action\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Evolution Action is the 25th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 17, 18, and 19 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 842,
+    "sectionCount": 3
+  }
+}

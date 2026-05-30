@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Team Kings",
+    "slug": "team-kings",
+    "pageId": 234859,
+    "revisionId": 4525928
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Horizon",
+    "sourceFileName": "team-kings__234859.json",
+    "revisionTimestamp": "2026-04-09T14:06:53Z",
+    "fetchedAt": "2026-05-14T15:51:15.584Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Team Kings (Japanese: Kings-dan, literally Kings Gang) is a villainous team based in the Alola region. It appears in the Pokémon Horizon , which is loosely based on . Their design may have been inspired by Team Skull and the Aether Foundation, both of which appeared in the games.",
+  "plainText": "Team Kings (Japanese: Kings-dan, literally Kings Gang) is a villainous team based in the Alola region. It appears in the Pokémon Horizon , which is loosely based on . Their design may have been inspired by Team Skull and the Aether Foundation, both of which appeared in the games.\n\n==Related articles==\n \n \n \n\n \n \n\nes:Team Kings\nit:Team Kings",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Team Kings (Japanese: Kings-dan, literally Kings Gang) is a villainous team based in the Alola region. It appears in the Pokémon Horizon , which is loosely based on . Their design may have been inspired by Team Skull and the Aether Foundation, both of which appeared in the games."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Team Kings\nit:Team Kings"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Team Kings",
+    "pageType": "pokemon-related",
+    "searchableText": "Team Kings\nCategory:Pokémon Horizon\nTeam Kings (Japanese: Kings-dan, literally Kings Gang) is a villainous team based in the Alola region. It appears in the Pokémon Horizon , which is loosely based on . Their design may have been inspired by Team Skull and the Aether Foundation, both of which appeared in the games.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 342,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM072",
+    "slug": "pm072",
+    "pageId": 160630,
+    "revisionId": 4528007
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm072__160630.json",
+    "revisionTimestamp": "2026-04-09T16:02:56Z",
+    "fetchedAt": "2026-05-14T15:31:14.968Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Rampage at the Ruins of Alph!! (Japanese: アルフの遺跡で大暴れ！！ Rampage at the Ruins of Alph!!) is the seventy-second chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Rampage at the Ruins of Alph!! (Japanese: アルフの遺跡で大暴れ！！ Rampage at the Ruins of Alph!!) is the seventy-second chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n(all forms)\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n\n(multiple)\n\n==Trivia==\n\n \n \n\nde:Kapitel 72 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Rampage at the Ruins of Alph!! (Japanese: アルフの遺跡で大暴れ！！ Rampage at the Ruins of Alph!!) is the seventy-second chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(all forms)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )\n\n(multiple)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 72 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM072",
+    "pageType": "chapter",
+    "searchableText": "PM072\nCategory:Pokémon Pocket Monsters chapters\nRampage at the Ruins of Alph!! (Japanese: アルフの遺跡で大暴れ！！ Rampage at the Ruins of Alph!!) is the seventy-second chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 365,
+    "sectionCount": 4
+  }
+}

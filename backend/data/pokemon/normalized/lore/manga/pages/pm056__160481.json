@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM056",
+    "slug": "pm056",
+    "pageId": 160481,
+    "revisionId": 4526541
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm056__160481.json",
+    "revisionTimestamp": "2026-04-09T14:55:01Z",
+    "fetchedAt": "2026-05-14T15:31:04.931Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Ancient Pokémon Discovery! (Japanese: 古代ポケモン発見！？ The Ancient Pokémon Discovery!?) is the fifty-sixth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Ancient Pokémon Discovery! (Japanese: 古代ポケモン発見！？ The Ancient Pokémon Discovery!?) is the fifty-sixth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 56 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Ancient Pokémon Discovery! (Japanese: 古代ポケモン発見！？ The Ancient Pokémon Discovery!?) is the fifty-sixth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 56 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM056",
+    "pageType": "chapter",
+    "searchableText": "PM056\nCategory:Pokémon Pocket Monsters chapters\nThe Ancient Pokémon Discovery! (Japanese: 古代ポケモン発見！？ The Ancient Pokémon Discovery!?) is the fifty-sixth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 333,
+    "sectionCount": 3
+  }
+}

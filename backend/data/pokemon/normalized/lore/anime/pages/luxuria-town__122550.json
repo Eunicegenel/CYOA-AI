@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Luxuria Town",
+    "slug": "luxuria-town",
+    "pageId": 122550,
+    "revisionId": 4487243
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "luxuria-town__122550.json",
+    "revisionTimestamp": "2026-02-16T01:45:14Z",
+    "fetchedAt": "2026-05-14T14:33:43.351Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Luxuria Town (Japanese: カレントタウン Current Town) is an -exclusive location in Unova, which appeared in A Rival Battle for Club Champ!. It is located somewhere between Striaton City and Nacrene City. It is quite a large town with colorful buildings. There is shown to be a garbage dump in the town, and a half constructed road leading to the town.\n\nLuxuria Town, like Accumula Town, has its own Battle Club which is run by the local Don George. battled Trip here and lost. Jessie, James, and were supposed to meet Pierce of Team Rocket at a garbage dump. Soon, Officer Jenny and the police had followed them there and tried to intercept them. However, Pierce came and escaped with the trio.",
+  "plainText": "Luxuria Town (Japanese: カレントタウン Current Town) is an -exclusive location in Unova, which appeared in A Rival Battle for Club Champ!. It is located somewhere between Striaton City and Nacrene City. It is quite a large town with colorful buildings. There is shown to be a garbage dump in the town, and a half constructed road leading to the town.\n\nLuxuria Town, like Accumula Town, has its own Battle Club which is run by the local Don George. battled Trip here and lost. Jessie, James, and were supposed to meet Pierce of Team Rocket at a garbage dump. Soon, Officer Jenny and the police had followed them there and tried to intercept them. However, Pierce came and escaped with the trio.\n\n==Names==\n \n \n \n \n\n \n\nde:Pracht-Stadt\nes:Pueblo Luxuria/Lujoso\nit:Sfarzopoli\nja:カレントタウン\nzh:卡蓮多鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Luxuria Town (Japanese: カレントタウン Current Town) is an -exclusive location in Unova, which appeared in A Rival Battle for Club Champ!. It is located somewhere between Striaton City and Nacrene City. It is quite a large town with colorful buildings. There is shown to be a garbage dump in the town, and a half constructed road leading to the town.\n\nLuxuria Town, like Accumula Town, has its own Battle Club which is run by the local Don George. battled Trip here and lost. Jessie, James, and were supposed to meet Pierce of Team Rocket at a garbage dump. Soon, Officer Jenny and the police had followed them there and tried to intercept them. However, Pierce came and escaped with the trio."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:Pracht-Stadt\nes:Pueblo Luxuria/Lujoso\nit:Sfarzopoli\nja:カレントタウン\nzh:卡蓮多鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Luxuria Town",
+    "pageType": "location",
+    "searchableText": "Luxuria Town\nCategory:Animated series-exclusive locations\nLuxuria Town (Japanese: カレントタウン Current Town) is an -exclusive location in Unova, which appeared in A Rival Battle for Club Champ!. It is located somewhere between Striaton City and Nacrene City. It is quite a large town with colorful buildings. There is shown to be a garbage dump in the town, and a half constructed road leading to the town.\n\nLuxuria Town, like Accumula Town, has its own Battle Club which is run by the local Don George. battled Trip here and lost. Jessie, James, and were supposed to meet Pierce of Team Rocket at a garbage dump. Soon, Officer Jenny and the police had followed them there and tried to intercept them. However, Pierce came and escaped with the trio.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 783,
+    "sectionCount": 2
+  }
+}

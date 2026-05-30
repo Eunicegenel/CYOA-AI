@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Toho",
+    "slug": "toho",
+    "pageId": 220542,
+    "revisionId": 4528401
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon animated series",
+    "sourceFileName": "toho__220542.json",
+    "revisionTimestamp": "2026-04-09T16:19:15Z",
+    "fetchedAt": "2026-05-14T14:54:50.012Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Toho Co., Ltd. (東宝株式会社 Tōhō Kabushiki-gaisha) is Japanese film, theater production and distribution company. This company serves as the distributor of Pokémon movies in Japan.",
+  "plainText": "Toho Co., Ltd. (東宝株式会社 Tōhō Kabushiki-gaisha) is Japanese film, theater production and distribution company. This company serves as the distributor of Pokémon movies in Japan.\n\n==Pokémon and Toho==\nThe following is a list of Pokémon movies distributed by Toho in Japan:\nPokémon: The First Movie (1998)\nPokémon: The Movie 2000 (1999)\nPokémon 3: The Movie (2000)\nPokémon 4Ever (2001)\nPokémon Heroes (2002)\nPokémon: Jirachi Wishmaker (2003)\nPokémon: Destiny Deoxys (2004)\nPokémon: Lucario and the Mystery of Mew (2005)\nPokémon Ranger and the Temple of the Sea (2006)\nPokémon: The Rise of Darkrai (2007)\nPokémon: Giratina and the Sky Warrior (2008)\nPokémon: Arceus and the Jewel of Life (2009)\nPokémon: Zoroark: Master of Illusions (2010)\nPokémon the Movie: Black—Victini and Reshiram (2011)\nPokémon the Movie: White—Victini and Zekrom (2011)\nPokémon the Movie: Kyurem vs. the Sword of Justice (2012)\nPokémon the Movie: Genesect and the Legend Awakened (2013)\nPokémon the Movie: Diancie and the Cocoon of Destruction (2014)\nPokémon the Movie: Hoopa and the Clash of Ages (2015)\nPokémon the Movie: Volcanion and the Mechanical Marvel (2016)\nPokémon the Movie: I Choose You! (2017)\nPokémon the Movie: The Power of Us (2018)\nPokémon: Mewtwo Strikes Back—Evolution (2019)\nPokémon the Movie: Secrets of the Jungle (2020)\n\n==External links==\nOfficial website (Japanese)\nCompany information (English)\n\n \n \n\n \n\n \n \n\nit:Toho\nzh:东宝株式会社",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Toho Co., Ltd. (東宝株式会社 Tōhō Kabushiki-gaisha) is Japanese film, theater production and distribution company. This company serves as the distributor of Pokémon movies in Japan."
+    },
+    {
+      "heading": "Pokémon and Toho",
+      "level": 2,
+      "text": "The following is a list of Pokémon movies distributed by Toho in Japan:\nPokémon: The First Movie (1998)\nPokémon: The Movie 2000 (1999)\nPokémon 3: The Movie (2000)\nPokémon 4Ever (2001)\nPokémon Heroes (2002)\nPokémon: Jirachi Wishmaker (2003)\nPokémon: Destiny Deoxys (2004)\nPokémon: Lucario and the Mystery of Mew (2005)\nPokémon Ranger and the Temple of the Sea (2006)\nPokémon: The Rise of Darkrai (2007)\nPokémon: Giratina and the Sky Warrior (2008)\nPokémon: Arceus and the Jewel of Life (2009)\nPokémon: Zoroark: Master of Illusions (2010)\nPokémon the Movie: Black—Victini and Reshiram (2011)\nPokémon the Movie: White—Victini and Zekrom (2011)\nPokémon the Movie: Kyurem vs. the Sword of Justice (2012)\nPokémon the Movie: Genesect and the Legend Awakened (2013)\nPokémon the Movie: Diancie and the Cocoon of Destruction (2014)\nPokémon the Movie: Hoopa and the Clash of Ages (2015)\nPokémon the Movie: Volcanion and the Mechanical Marvel (2016)\nPokémon the Movie: I Choose You! (2017)\nPokémon the Movie: The Power of Us (2018)\nPokémon: Mewtwo Strikes Back—Evolution (2019)\nPokémon the Movie: Secrets of the Jungle (2020)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website (Japanese)\nCompany information (English)\n\n \n \n\n \n\n \n \n\nit:Toho\nzh:东宝株式会社"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Toho",
+    "pageType": "pokemon-related",
+    "searchableText": "Toho\nCategory:Pokémon animated series\nToho Co., Ltd. (東宝株式会社 Tōhō Kabushiki-gaisha) is Japanese film, theater production and distribution company. This company serves as the distributor of Pokémon movies in Japan.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon and Toho",
+      "External links"
+    ],
+    "characterCount": 1421,
+    "sectionCount": 3
+  }
+}

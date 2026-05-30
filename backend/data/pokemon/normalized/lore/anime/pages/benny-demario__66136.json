@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Benny Demario",
+    "slug": "benny-demario",
+    "pageId": 66136,
+    "revisionId": 4095814
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Chronicles characters of the day",
+    "sourceFileName": "benny-demario__66136.json",
+    "revisionTimestamp": "2024-09-01T00:42:10Z",
+    "fetchedAt": "2026-05-14T14:05:02.604Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Benny Demario (Japanese: カンタ Kanta) is a character of the day who appeared in Those Darn Electabuzz!.\n\nBenny is the younger brother of Corey Demario, star pitcher of the Electabuzz baseball team. Corey gives Benny a Charizard—nicknamed Don—which had lost its fire and ability to fly. This paralleled Corey's own fears.\n\n helped the pair regain their confidence, and Don was presumably returned to Corey at the end of the episode.",
+  "plainText": "Benny Demario (Japanese: カンタ Kanta) is a character of the day who appeared in Those Darn Electabuzz!.\n\nBenny is the younger brother of Corey Demario, star pitcher of the Electabuzz baseball team. Corey gives Benny a Charizard—nicknamed Don—which had lost its fire and ability to fly. This paralleled Corey's own fears.\n\n helped the pair regain their confidence, and Don was presumably returned to Corey at the end of the episode.\n\n==Pokémon==\n===Borrowed===\n \n\n==Voice actors==\n \n \n \n\n \n \n \n \n\nes:Benny Demario\nit:Benny Demario",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Benny Demario (Japanese: カンタ Kanta) is a character of the day who appeared in Those Darn Electabuzz!.\n\nBenny is the younger brother of Corey Demario, star pitcher of the Electabuzz baseball team. Corey gives Benny a Charizard—nicknamed Don—which had lost its fire and ability to fly. This paralleled Corey's own fears.\n\n helped the pair regain their confidence, and Don was presumably returned to Corey at the end of the episode."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Benny Demario\nit:Benny Demario"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Benny Demario",
+    "pageType": "character",
+    "searchableText": "Benny Demario\nCategory:Chronicles characters of the day\nBenny Demario (Japanese: カンタ Kanta) is a character of the day who appeared in Those Darn Electabuzz!.\n\nBenny is the younger brother of Corey Demario, star pitcher of the Electabuzz baseball team. Corey gives Benny a Charizard—nicknamed Don—which had lost its fire and ability to fly. This paralleled Corey's own fears.\n\n helped the pair regain their confidence, and Don was presumably returned to Corey at the end of the episode.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 527,
+    "sectionCount": 2
+  }
+}

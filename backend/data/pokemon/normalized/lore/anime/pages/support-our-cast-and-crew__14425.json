@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Support Our Cast And Crew",
+    "slug": "support-our-cast-and-crew",
+    "pageId": 14425,
+    "revisionId": 4098868
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:English dub of the Pokémon animated series",
+    "sourceFileName": "support-our-cast-and-crew__14425.json",
+    "revisionTimestamp": "2024-09-02T01:50:06Z",
+    "fetchedAt": "2026-05-14T14:52:45.670Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Support our Cast and Crew (formerly known as Support Our New Voice Actors, or SONVA) was a Pokémon community–driven campaign to support the voice actors used in the Pokémon the Series English dub from season nine onward.",
+  "plainText": "Support our Cast and Crew (formerly known as Support Our New Voice Actors, or SONVA) was a Pokémon community–driven campaign to support the voice actors used in the Pokémon the Series English dub from season nine onward.\n\n==History==\nFandom tension over the recasting controversy peaked during the weekend following the premiere of the season nine Pokémon the Series dub on September 8, 2006. One of the supporters of the new dub, Habunake, decided to create a club in support of the new voice actors, in the vein of SOVA.\n\nAfter initial activity the club became dormant; it is still a recognized part of the events of the controversy.\n\n==External links==\nSupport Our Cast and Crew (SOCC)\nDiscussion about saving the new VAs at Bulbagarden Forums",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Support our Cast and Crew (formerly known as Support Our New Voice Actors, or SONVA) was a Pokémon community–driven campaign to support the voice actors used in the Pokémon the Series English dub from season nine onward."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Fandom tension over the recasting controversy peaked during the weekend following the premiere of the season nine Pokémon the Series dub on September 8, 2006. One of the supporters of the new dub, Habunake, decided to create a club in support of the new voice actors, in the vein of SOVA.\n\nAfter initial activity the club became dormant; it is still a recognized part of the events of the controversy."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Support Our Cast and Crew (SOCC)\nDiscussion about saving the new VAs at Bulbagarden Forums"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Support Our Cast And Crew",
+    "pageType": "pokemon-related",
+    "searchableText": "Support Our Cast And Crew\nCategory:English dub of the Pokémon animated series\nSupport our Cast and Crew (formerly known as Support Our New Voice Actors, or SONVA) was a Pokémon community–driven campaign to support the voice actors used in the Pokémon the Series English dub from season nine onward.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "External links"
+    ],
+    "characterCount": 746,
+    "sectionCount": 3
+  }
+}

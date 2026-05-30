@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM019",
+    "slug": "pm019",
+    "pageId": 158813,
+    "revisionId": 4527316
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm019__158813.json",
+    "revisionTimestamp": "2026-04-09T15:32:39Z",
+    "fetchedAt": "2026-05-14T15:30:41.378Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Aim to be the No. 1 Pokémon!! (Japanese: めざせ、ポケモンＮｏ。１！！ Aim to be the No. 1 Pokémon!!) is the nineteenth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Aim to be the No. 1 Pokémon!! (Japanese: めざせ、ポケモンＮｏ。１！！ Aim to be the No. 1 Pokémon!!) is the nineteenth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\nwins the No. 1 Pokémon contest.\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMisty\nKoga\nSabrina\n\nErika\n\n===Pokémon===\n( ) \n( )\n( )\n( 's)\n( 's)\n(Koga's)\n(Erika's; evolves)\n(Erika's; newly evolved; evolves)\n(Erika's; newly evolved)\n(Sabrina's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 19 (Pokémon Pocket Monsters)\nit:PMM019\nzh:宝可梦欢乐祭 第19话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Aim to be the No. 1 Pokémon!! (Japanese: めざせ、ポケモンＮｏ。１！！ Aim to be the No. 1 Pokémon!!) is the nineteenth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "wins the No. 1 Pokémon contest."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Misty\nKoga\nSabrina\n\nErika"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( 's)\n( 's)\n(Koga's)\n(Erika's; evolves)\n(Erika's; newly evolved; evolves)\n(Erika's; newly evolved)\n(Sabrina's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 19 (Pokémon Pocket Monsters)\nit:PMM019\nzh:宝可梦欢乐祭 第19话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM019",
+    "pageType": "chapter",
+    "searchableText": "PM019\nCategory:Pokémon Pocket Monsters chapters\nAim to be the No. 1 Pokémon!! (Japanese: めざせ、ポケモンＮｏ。１！！ Aim to be the No. 1 Pokémon!!) is the nineteenth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 528,
+    "sectionCount": 5
+  }
+}

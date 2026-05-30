@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon: Yeah! I Got Pokémon! volume 3",
+    "slug": "pokemon-yeah-i-got-pokemon-volume-3",
+    "pageId": 162595,
+    "revisionId": 4528646
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! volumes",
+    "sourceFileName": "pokemon-yeah-i-got-pokemon-volume-3__162595.json",
+    "revisionTimestamp": "2026-04-09T16:32:49Z",
+    "fetchedAt": "2026-05-14T15:38:31.098Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 3 is the third volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada.",
+  "plainText": "Volume 3 is the third volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada.\n\n==Publications==\n \n \n \n \n \n\n==Chapters==\nGet 1: Encounter with a Ghost!?\nGet 2: Pandemonium in the World of Dreams\nGet 3: Save Charmander!\nGet 4: On Land! Kigan Island\nGet 5: Kigan Island is Full of Mystery!\nGet 6: Pokémon Paradise\nGet 7: Dance Battle!\nGet 8: Clash!? The 3 Turtle Siblings!\nGet 9: Goodbye, Mikuri\nGet 10: Pikachu's First Love\nGet 11: We've Come a Long Way, New Bark Town!\nGet 12: Alright! I Caught My First GS Pokémon!\nGet 13: The Plan to Catch Hoothoot!\nGet 14: Rin, Ran, and Spinarak, the Big Feud!\nGet 15: Who'll be Miss Empress!?\nGet 16: Mom is the Strongest Trainer!\n\n==Important events==\n\n==Party changes==\n===Additions===\n\n==Trivia==\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 3 is the third volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Get 1: Encounter with a Ghost!?\nGet 2: Pandemonium in the World of Dreams\nGet 3: Save Charmander!\nGet 4: On Land! Kigan Island\nGet 5: Kigan Island is Full of Mystery!\nGet 6: Pokémon Paradise\nGet 7: Dance Battle!\nGet 8: Clash!? The 3 Turtle Siblings!\nGet 9: Goodbye, Mikuri\nGet 10: Pikachu's First Love\nGet 11: We've Come a Long Way, New Bark Town!\nGet 12: Alright! I Caught My First GS Pokémon!\nGet 13: The Plan to Catch Hoothoot!\nGet 14: Rin, Ran, and Spinarak, the Big Feud!\nGet 15: Who'll be Miss Empress!?\nGet 16: Mom is the Strongest Trainer!"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon: Yeah! I Got Pokémon! volume 3",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon: Yeah! I Got Pokémon! volume 3\nCategory:Pokémon: Yeah! I Got Pokémon! volumes\nVolume 3 is the third volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Trivia"
+    ],
+    "characterCount": 757,
+    "sectionCount": 3
+  }
+}

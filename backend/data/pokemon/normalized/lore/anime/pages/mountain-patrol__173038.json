@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Mountain Patrol",
+    "slug": "mountain-patrol",
+    "pageId": 173038,
+    "revisionId": 4115972
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "mountain-patrol__173038.json",
+    "revisionTimestamp": "2024-09-18T16:39:07Z",
+    "fetchedAt": "2026-05-14T14:38:11.897Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Mountain Patrol is an animated series-exclusive organization which operates in a mountainous area near Ecruteak City, in Johto.\n\nThe Mountain Patrol use their Pokémon to help those in danger; they can be seen as the precursor to s. Their only appearance to date is in Mountain Time, with Benji and his father. It is revealed that when one's 's back spots glow red, the Ledian and its Pokémon Trainer are ready to become officers.\n\nIt members are trained to work on foot, be resourceful and capable of dealing with all weather conditions. The training regimes are designed to train a Mountain Patrol officer and their Pokémon to fast and develop a strong stamina, examples including running through forest courses and flying against simulated wind gusts. Knowledge of the terrain and radio contact are also critical for officers because of the isolated and treacherous often conditions faced in the mountain wilderness.",
+  "plainText": "The Mountain Patrol is an animated series-exclusive organization which operates in a mountainous area near Ecruteak City, in Johto.\n\nThe Mountain Patrol use their Pokémon to help those in danger; they can be seen as the precursor to s. Their only appearance to date is in Mountain Time, with Benji and his father. It is revealed that when one's 's back spots glow red, the Ledian and its Pokémon Trainer are ready to become officers.\n\nIt members are trained to work on foot, be resourceful and capable of dealing with all weather conditions. The training regimes are designed to train a Mountain Patrol officer and their Pokémon to fast and develop a strong stamina, examples including running through forest courses and flying against simulated wind gusts. Knowledge of the terrain and radio contact are also critical for officers because of the isolated and treacherous often conditions faced in the mountain wilderness.\n\n==Members==\nBenji\nBenji's father\n\n===Pokémon===\n====Part of the organisation====\n \n\n \n\n \n\n==In other languages==\n \n\n \n \n \n\nit:Pattuglia Montana",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Mountain Patrol is an animated series-exclusive organization which operates in a mountainous area near Ecruteak City, in Johto.\n\nThe Mountain Patrol use their Pokémon to help those in danger; they can be seen as the precursor to s. Their only appearance to date is in Mountain Time, with Benji and his father. It is revealed that when one's 's back spots glow red, the Ledian and its Pokémon Trainer are ready to become officers.\n\nIt members are trained to work on foot, be resourceful and capable of dealing with all weather conditions. The training regimes are designed to train a Mountain Patrol officer and their Pokémon to fast and develop a strong stamina, examples including running through forest courses and flying against simulated wind gusts. Knowledge of the terrain and radio contact are also critical for officers because of the isolated and treacherous often conditions faced in the mountain wilderness."
+    },
+    {
+      "heading": "Members",
+      "level": 2,
+      "text": "Benji\nBenji's father"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Pattuglia Montana"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mountain Patrol",
+    "pageType": "character",
+    "searchableText": "Mountain Patrol\nCategory:Animation characters\nThe Mountain Patrol is an animated series-exclusive organization which operates in a mountainous area near Ecruteak City, in Johto.\n\nThe Mountain Patrol use their Pokémon to help those in danger; they can be seen as the precursor to s. Their only appearance to date is in Mountain Time, with Benji and his father. It is revealed that when one's 's back spots glow red, the Ledian and its Pokémon Trainer are ready to become officers.\n\nIt members are trained to work on foot, be resourceful and capable of dealing with all weather conditions. The training regimes are designed to train a Mountain Patrol officer and their Pokémon to fast and develop a strong stamina, examples including running through forest courses and flying against simulated wind gusts. Knowledge of the terrain and radio contact are also critical for officers because of the isolated and treacherous often conditions faced in the mountain wilderness.",
+    "sectionHeadings": [
+      "Lead",
+      "Members",
+      "In other languages"
+    ],
+    "characterCount": 1067,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Luxray (Detective Pikachu)",
+    "slug": "luxray-detective-pikachu",
+    "pageId": 323474,
+    "revisionId": 4179518
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "luxray-detective-pikachu__323474.json",
+    "revisionTimestamp": "2024-11-13T17:33:51Z",
+    "fetchedAt": "2026-05-14T14:33:42.732Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Luxray (Japanese: レントラー Rentorar) is a character in the game Detective Pikachu Returns. Luxray is first encountered at the Ryme City Police Station, where he assists and the others in escaping the police station where they are wrongfully detained.",
+  "plainText": "Luxray (Japanese: レントラー Rentorar) is a character in the game Detective Pikachu Returns. Luxray is first encountered at the Ryme City Police Station, where he assists and the others in escaping the police station where they are wrongfully detained.\n\n==In the games==\n===Detective Pikachu Returns===\nLuxray is first introduced as a detained Pokémon at the Ryme City Police Station where Pikachu is also being wrongfully detained at. As the leader of the Pokémon at the police station, Luxray is initially suspicious of Pikachu's inquiries and so attacks him with an move. Although intended to be a weak attack, this causes Pikachu to faint. \n\nLuxray however later cooperates with Pikachu after noting Pikachu's competence when Pikachu beats in a jewel finding contest. Luxray uses his ability to see through walls to assist Pikachu in investigating the rest of the police station while avoiding humans. Together they are able to find proof of Pikachu's innocence and evidence incriminating Butler. Luxray, alongside Pikachu and the rest of the detained Pokémon, also cooperate to allow them to escape detainment at the station. \n\nLuxray is later recruited by Pikachu in the final case investigating Unitas at the Pokémon Unity Lab. Luxray's ability to see through walls is again used to navigate various rooms at the lab. Luxray also helps Tim and the rest of the group escape from Unitas members by buying them time by battling against Unitas members. Luxray is later brought in by Merloch alongside , , and at the climax of the game under the effects of a Control Cube, although it is freed from its effects when Merloch (fused with ) accidentally breaks the cube controller.\n\n===Personality and characteristics===\nAs a natural leader, Luxray commands attention from others and will sometimes use his power to test other Pokémon. However Luxray is shown to be helpful, as he willingly cooperated with Pikachu to investigate the police station. He is also seen to be caring, and would often inquire about his friend who he had been unable to see since becoming detained.\n\n===Ride action===\n \nLuxray can be ridden on by Pikachu at various points in the game. When Luxray is near something that he can see through, a \"See through objects\" message will display. Pressing the R button at this time will cause Luxray's eyes to gleam and reveal what is behind walls and other objects. If Pikachu and Luxray are caught by a police office or Unitas member, the puzzle will be automatically restarted.\n \n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Luxray (Japanese: レントラー Rentorar) is a character in the game Detective Pikachu Returns. Luxray is first encountered at the Ryme City Police Station, where he assists and the others in escaping the police station where they are wrongfully detained."
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Luxray is first introduced as a detained Pokémon at the Ryme City Police Station where Pikachu is also being wrongfully detained at. As the leader of the Pokémon at the police station, Luxray is initially suspicious of Pikachu's inquiries and so attacks him with an move. Although intended to be a weak attack, this causes Pikachu to faint. \n\nLuxray however later cooperates with Pikachu after noting Pikachu's competence when Pikachu beats in a jewel finding contest. Luxray uses his ability to see through walls to assist Pikachu in investigating the rest of the police station while avoiding humans. Together they are able to find proof of Pikachu's innocence and evidence incriminating Butler. Luxray, alongside Pikachu and the rest of the detained Pokémon, also cooperate to allow them to escape detainment at the station. \n\nLuxray is later recruited by Pikachu in the final case investigating Unitas at the Pokémon Unity Lab. Luxray's ability to see through walls is again used to navigate various rooms at the lab. Luxray also helps Tim and the rest of the group escape from Unitas members by buying them time by battling against Unitas members. Luxray is later brought in by Merloch alongside , , and at the climax of the game under the effects of a Control Cube, although it is freed from its effects when Merloch (fused with ) accidentally breaks the cube controller."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "As a natural leader, Luxray commands attention from others and will sometimes use his power to test other Pokémon. However Luxray is shown to be helpful, as he willingly cooperated with Pikachu to investigate the police station. He is also seen to be caring, and would often inquire about his friend who he had been unable to see since becoming detained."
+    },
+    {
+      "heading": "Ride action",
+      "level": 3,
+      "text": "Luxray can be ridden on by Pikachu at various points in the game. When Luxray is near something that he can see through, a \"See through objects\" message will display. Pressing the R button at this time will cause Luxray's eyes to gleam and reveal what is behind walls and other objects. If Pikachu and Luxray are caught by a police office or Unitas member, the puzzle will be automatically restarted."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Luxray (Detective Pikachu)",
+    "pageType": "character",
+    "searchableText": "Luxray (Detective Pikachu)\nCategory:Detective Pikachu Returns characters\nLuxray (Japanese: レントラー Rentorar) is a character in the game Detective Pikachu Returns. Luxray is first encountered at the Ryme City Police Station, where he assists and the others in escaping the police station where they are wrongfully detained.",
+    "sectionHeadings": [
+      "Lead",
+      "Detective Pikachu Returns",
+      "Personality and characteristics",
+      "Ride action"
+    ],
+    "characterCount": 2514,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PS575",
+    "slug": "ps575",
+    "pageId": 206931,
+    "revisionId": 4307012
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps575__206931.json",
+    "revisionTimestamp": "2025-05-19T02:42:52Z",
+    "fetchedAt": "2026-05-14T15:46:00.261Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Changing Gengar (Japanese: ゲンガー、化わる , Change) is the 575th chapter of the Pokémon Adventures manga, and the 27th chapter of the .",
+  "plainText": "Changing Gengar (Japanese: ゲンガー、化わる , Change) is the 575th chapter of the Pokémon Adventures manga, and the 27th chapter of the .\n\n==Plot==\n \n\n==Major events==\nThe battle against Team Flare continues.\nGurkinn frees from his bindings and teaches him about Mega Evolution.\nX battles Essentia while Korrina goes after Celosia.\nMalva reveals herself and seals Diantha inside a .\nGurkinn gives X his , which is given the nickname Garma.\nX Mega Evolves Garma into Mega Gengar and defeats Essentia's .\nKorrina arrives at Celosia's location and begins attacking her.\n\n \n \n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nKorrina \nMalva\nDiantha\nGurkinn \nCelosia\nEssentia\nVaniville Town residents\n\n===Pokémon===\n(Kanga; 's)\n(Li'l Kanga; 's)\n(Marisso; 's)\n(Salamè; 's)\n(Élec; 's)\n(Garma; 's; Mega Gengar)\n(Fletchy; 's)\n(Veevee; 's)\n(Croaky; 's)\n( 's)\n(Kitty; 's)\n( 's; flashback)\n( ; Mega Lucario)\n( )\n( ; Mega Gardevoir)\n(Celosia's)\n(Celosia's)\n(Gurkinn's)\n(Essentia's)\n(Adventures; tree form)\n\n==Trivia==\n\n===Errors===\nEssentia's was affected by , despite s being immune to it.\n\n \n \n \n \n\nde:Gengar verwandelt sich\nes:PMS575\nfr:Chapitre 575 (Pocket Monsters Special)\nit:LGA575\nzh:宝可梦特别篇 第575话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Changing Gengar (Japanese: ゲンガー、化わる , Change) is the 575th chapter of the Pokémon Adventures manga, and the 27th chapter of the ."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "The battle against Team Flare continues.\nGurkinn frees from his bindings and teaches him about Mega Evolution.\nX battles Essentia while Korrina goes after Celosia.\nMalva reveals herself and seals Diantha inside a .\nGurkinn gives X his , which is given the nickname Garma.\nX Mega Evolves Garma into Mega Gengar and defeats Essentia's .\nKorrina arrives at Celosia's location and begins attacking her."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Korrina \nMalva\nDiantha\nGurkinn \nCelosia\nEssentia\nVaniville Town residents"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Kanga; 's)\n(Li'l Kanga; 's)\n(Marisso; 's)\n(Salamè; 's)\n(Élec; 's)\n(Garma; 's; Mega Gengar)\n(Fletchy; 's)\n(Veevee; 's)\n(Croaky; 's)\n( 's)\n(Kitty; 's)\n( 's; flashback)\n( ; Mega Lucario)\n( )\n( ; Mega Gardevoir)\n(Celosia's)\n(Celosia's)\n(Gurkinn's)\n(Essentia's)\n(Adventures; tree form)"
+    },
+    {
+      "heading": "Errors",
+      "level": 3,
+      "text": "Essentia's was affected by , despite s being immune to it.\n\n \n \n \n \n\nde:Gengar verwandelt sich\nes:PMS575\nfr:Chapitre 575 (Pocket Monsters Special)\nit:LGA575\nzh:宝可梦特别篇 第575话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS575",
+    "pageType": "chapter",
+    "searchableText": "PS575\nCategory:Pokémon Adventures chapters\nChanging Gengar (Japanese: ゲンガー、化わる , Change) is the 575th chapter of the Pokémon Adventures manga, and the 27th chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Errors"
+    ],
+    "characterCount": 1201,
+    "sectionCount": 5
+  }
+}

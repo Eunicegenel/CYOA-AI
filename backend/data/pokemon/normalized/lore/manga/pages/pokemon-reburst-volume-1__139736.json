@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon RéBURST volume 1",
+    "slug": "pokemon-reburst-volume-1",
+    "pageId": 139736,
+    "revisionId": 4132982
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST volumes",
+    "sourceFileName": "pokemon-reburst-volume-1__139736.json",
+    "revisionTimestamp": "2024-09-29T05:30:20Z",
+    "fetchedAt": "2026-05-14T15:37:27.446Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+  "plainText": "Volume 1 is the first volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.\n\n==Publications==\n \n \n\n \n==Chapters==\nChapter 1: The Beginning of the Adventure!\nChapter 2: Ryouga's Secret\nChapter 3: The Perilous Mt. Serables\nChapter 4: The First Battle\nChapter 5: An Overwhelming Drawback...!\nChapter 6: Ryouga's Feelings...\nChapter 7: A New Friend!?\n\n==Important events==\n \nRyouga meets Miruto and is given a Burst Heart from his grandfather.\nRyouga battles the Great Gavel organization and uses Burst for the first time.\nRyouga and Miruto climb Mt. Serbales and meet Tougo, a mountain climber.\nRyouga and Miruto learn of the Great Gavel's Seven Warriors and meets the first, Major Hilgreitz.\nRyouga battles Hilgreitz and eventually emerges the victor.\nRyouga and Miruto meet Yappy, an aspiring reporter.\n\n \n \n\nit:Pokémon RéBURST volume 1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 1: The Beginning of the Adventure!\nChapter 2: Ryouga's Secret\nChapter 3: The Perilous Mt. Serables\nChapter 4: The First Battle\nChapter 5: An Overwhelming Drawback...!\nChapter 6: Ryouga's Feelings...\nChapter 7: A New Friend!?"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Ryouga meets Miruto and is given a Burst Heart from his grandfather.\nRyouga battles the Great Gavel organization and uses Burst for the first time.\nRyouga and Miruto climb Mt. Serbales and meet Tougo, a mountain climber.\nRyouga and Miruto learn of the Great Gavel's Seven Warriors and meets the first, Major Hilgreitz.\nRyouga battles Hilgreitz and eventually emerges the victor.\nRyouga and Miruto meet Yappy, an aspiring reporter.\n\n \n \n\nit:Pokémon RéBURST volume 1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon RéBURST volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon RéBURST volume 1\nCategory:Pokémon RéBURST volumes\nVolume 1 is the first volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 876,
+    "sectionCount": 3
+  }
+}

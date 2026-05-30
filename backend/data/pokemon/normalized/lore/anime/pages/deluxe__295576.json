@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Deluxe",
+    "slug": "deluxe",
+    "pageId": 295576,
+    "revisionId": 4527424
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Anime stubs",
+    "sourceFileName": "deluxe__295576.json",
+    "revisionTimestamp": "2026-04-09T15:37:58Z",
+    "fetchedAt": "2026-05-14T14:11:37.386Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Deluxe Media Inc. (stylized as simply Deluxe) is a production company and recording studio founded in 1915 currently owned by the firm Platinum Equity that produces the English dubs of Pokémon animation through their offices in .",
+  "plainText": "Deluxe Media Inc. (stylized as simply Deluxe) is a production company and recording studio founded in 1915 currently owned by the firm Platinum Equity that produces the English dubs of Pokémon animation through their offices in . \n\n==English projects==\nPokémon Generations\nPokémon: Twilight Wings\nPokémon: Hisuian Snow\n\n==English voice directors==\nEllyn Stern (Pokémon Generations)\nLaura Post (Pokémon: Twilight Wings, Pokémon: Hisuian Snow)\n\n==External links==\nOfficial website\nOfficial Twitter account\non Wikipedia",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Deluxe Media Inc. (stylized as simply Deluxe) is a production company and recording studio founded in 1915 currently owned by the firm Platinum Equity that produces the English dubs of Pokémon animation through their offices in ."
+    },
+    {
+      "heading": "English projects",
+      "level": 2,
+      "text": "Pokémon Generations\nPokémon: Twilight Wings\nPokémon: Hisuian Snow"
+    },
+    {
+      "heading": "English voice directors",
+      "level": 2,
+      "text": "Ellyn Stern (Pokémon Generations)\nLaura Post (Pokémon: Twilight Wings, Pokémon: Hisuian Snow)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nOfficial Twitter account\non Wikipedia"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Deluxe",
+    "pageType": "general-anime-lore",
+    "searchableText": "Deluxe\nCategory:Anime stubs\nDeluxe Media Inc. (stylized as simply Deluxe) is a production company and recording studio founded in 1915 currently owned by the firm Platinum Equity that produces the English dubs of Pokémon animation through their offices in .",
+    "sectionHeadings": [
+      "Lead",
+      "English projects",
+      "English voice directors",
+      "External links"
+    ],
+    "characterCount": 516,
+    "sectionCount": 4
+  }
+}

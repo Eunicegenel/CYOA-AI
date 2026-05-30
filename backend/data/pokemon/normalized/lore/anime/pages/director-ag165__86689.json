@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Director (AG165)",
+    "slug": "director-ag165",
+    "pageId": 86689,
+    "revisionId": 4289186
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Battle Frontier characters of the day",
+    "sourceFileName": "director-ag165__86689.json",
+    "revisionTimestamp": "2025-04-28T19:49:39Z",
+    "fetchedAt": "2026-05-14T14:12:01.172Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Director is a character of the day who appeared in King and Queen for a Day!. Since he was not given an official name, he will be henceforth referred to as \"the Director\" within the context of this article.\n\nThe Director works on the television program King and Queen which features a playing the King, and a playing the Queen. He works with staff such as a Filmer and a Soundman. 's and James's were mistaken as the king and queen.",
+  "plainText": "The Director is a character of the day who appeared in King and Queen for a Day!. Since he was not given an official name, he will be henceforth referred to as \"the Director\" within the context of this article.\n\nThe Director works on the television program King and Queen which features a playing the King, and a playing the Queen. He works with staff such as a Filmer and a Soundman. 's and James's were mistaken as the king and queen.\n\n==Pokémon==\n===Takes care of===\n \n \n\n \n\n==Voice actors==\n \n\n==Trivia==\nThe Director shares a resemblance with Japanese director Kunihiko Yuyama.\n\n \n \n \n \n \n\nes:Director\nit:Direttore (RZ165)\nzh:导演（AG164）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Director is a character of the day who appeared in King and Queen for a Day!. Since he was not given an official name, he will be henceforth referred to as \"the Director\" within the context of this article.\n\nThe Director works on the television program King and Queen which features a playing the King, and a playing the Queen. He works with staff such as a Filmer and a Soundman. 's and James's were mistaken as the king and queen."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The Director shares a resemblance with Japanese director Kunihiko Yuyama.\n\n \n \n \n \n \n\nes:Director\nit:Direttore (RZ165)\nzh:导演（AG164）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Director (AG165)",
+    "pageType": "character",
+    "searchableText": "Director (AG165)\nCategory:Battle Frontier characters of the day\nThe Director is a character of the day who appeared in King and Queen for a Day!. Since he was not given an official name, he will be henceforth referred to as \"the Director\" within the context of this article.\n\nThe Director works on the television program King and Queen which features a playing the King, and a playing the Queen. He works with staff such as a Filmer and a Soundman. 's and James's were mistaken as the king and queen.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 640,
+    "sectionCount": 2
+  }
+}

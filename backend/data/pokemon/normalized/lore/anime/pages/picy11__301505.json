@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PICY11",
+    "slug": "picy11",
+    "pageId": 301505,
+    "revisionId": 4528643
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! chapters",
+    "sourceFileName": "picy11__301505.json",
+    "revisionTimestamp": "2026-04-09T16:32:46Z",
+    "fetchedAt": "2026-05-14T14:41:35.552Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Chapter 11 (Japanese: 第１１話 Chapter 11) is the 11th chapter of Pokémon the Movie: I Choose You!",
+  "plainText": "Chapter 11 (Japanese: 第１１話 Chapter 11) is the 11th chapter of Pokémon the Movie: I Choose You!\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Humans====\nBonji\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nVerity\nSorrel\nBonji\nJessie\nJames\nCross\n\n===Pokémon===\n( 's)\n( )\n(Verity's)\n(Sorrel's)\n(Cross's)\n(Cross's; )\n\n( ; flashback)\n\n==Differences between the movie and the manga==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chapter 11 (Japanese: 第１１話 Chapter 11) is the 11th chapter of Pokémon the Movie: I Choose You!"
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Bonji"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Verity\nSorrel\nBonji\nJessie\nJames\nCross"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( )\n(Verity's)\n(Sorrel's)\n(Cross's)\n(Cross's; )\n\n( ; flashback)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PICY11",
+    "pageType": "movie",
+    "searchableText": "PICY11\nCategory:Pokémon the Movie: I Choose You! chapters\nChapter 11 (Japanese: 第１１話 Chapter 11) is the 11th chapter of Pokémon the Movie: I Choose You!",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 386,
+    "sectionCount": 4
+  }
+}

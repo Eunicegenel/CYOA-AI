@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PBK7",
+    "slug": "pbk7",
+    "pageId": 176470,
+    "revisionId": 4528465
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Platinum: Aim to be Battle King!! chapters",
+    "sourceFileName": "pbk7__176470.json",
+    "revisionTimestamp": "2026-04-09T16:23:01Z",
+    "fetchedAt": "2026-05-14T15:29:27.816Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 遊ＶＳ信、ライバル対決！！ Yū vs. Shin, Rival Showdown!!) is the seventh chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga.",
+  "plainText": "(Japanese: 遊ＶＳ信、ライバル対決！！ Yū vs. Shin, Rival Showdown!!) is the seventh chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nYū Shirogane\n\n===Pokémon===\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 遊ＶＳ信、ライバル対決！！ Yū vs. Shin, Rival Showdown!!) is the seventh chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Yū Shirogane"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PBK7",
+    "pageType": "chapter",
+    "searchableText": "PBK7\nCategory:Pocket Monsters Platinum: Aim to be Battle King!! chapters\n(Japanese: 遊ＶＳ信、ライバル対決！！ Yū vs. Shin, Rival Showdown!!) is the seventh chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 271,
+    "sectionCount": 3
+  }
+}

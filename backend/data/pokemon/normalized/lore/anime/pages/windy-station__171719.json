@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Windy Station",
+    "slug": "windy-station",
+    "pageId": 171719,
+    "revisionId": 4261257
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie locations",
+    "sourceFileName": "windy-station__171719.json",
+    "revisionTimestamp": "2025-03-19T21:52:04Z",
+    "fetchedAt": "2026-05-14T14:57:47.630Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Windy Station (Japanese: 風の駅 Wind Station) is an -exclusive location in Unova. It is one of the settings of Kyurem VS. The Sword of Justice.\n\nIt is a station on the train line to Roshan City, and the train stops here for exactly three minutes. Travelers can rush out to buy , Ice, and other goods to enjoy from Malin's stall. Other than the several buildings on its platform, the station appears to be isolated.\n\nWhile and were on their way to Roshan City, they made use of the three-minute-long stop to buy a large supply of the Darumaka boxed lunches.",
+  "plainText": "Windy Station (Japanese: 風の駅 Wind Station) is an -exclusive location in Unova. It is one of the settings of Kyurem VS. The Sword of Justice.\n\nIt is a station on the train line to Roshan City, and the train stops here for exactly three minutes. Travelers can rush out to buy , Ice, and other goods to enjoy from Malin's stall. Other than the several buildings on its platform, the station appears to be isolated.\n\nWhile and were on their way to Roshan City, they made use of the three-minute-long stop to buy a large supply of the Darumaka boxed lunches.\n\n==Pokémon seen in Windy Station==\n \n\n==In other languages==\n \n \n\n==Related articles==\n \n \n \n\n \n\nes:Estación Viento\nit:Stazione ventosa\nja:風の駅",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Windy Station (Japanese: 風の駅 Wind Station) is an -exclusive location in Unova. It is one of the settings of Kyurem VS. The Sword of Justice.\n\nIt is a station on the train line to Roshan City, and the train stops here for exactly three minutes. Travelers can rush out to buy , Ice, and other goods to enjoy from Malin's stall. Other than the several buildings on its platform, the station appears to be isolated.\n\nWhile and were on their way to Roshan City, they made use of the three-minute-long stop to buy a large supply of the Darumaka boxed lunches."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Estación Viento\nit:Stazione ventosa\nja:風の駅"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Windy Station",
+    "pageType": "movie",
+    "searchableText": "Windy Station\nCategory:Movie locations\nWindy Station (Japanese: 風の駅 Wind Station) is an -exclusive location in Unova. It is one of the settings of Kyurem VS. The Sword of Justice.\n\nIt is a station on the train line to Roshan City, and the train stops here for exactly three minutes. Travelers can rush out to buy , Ice, and other goods to enjoy from Malin's stall. Other than the several buildings on its platform, the station appears to be isolated.\n\nWhile and were on their way to Roshan City, they made use of the three-minute-long stop to buy a large supply of the Darumaka boxed lunches.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 696,
+    "sectionCount": 2
+  }
+}

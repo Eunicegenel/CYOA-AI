@@ -1,0 +1,2093 @@
+{
+  "generatedAt": "2026-05-14T16:27:29.572Z",
+  "totals": {
+    "allNormalizedRecords": 378,
+    "matchedBoth": 311,
+    "pokeapiOnly": 60,
+    "showdownOnly": 7,
+    "neither": 0
+  },
+  "preview": {
+    "matchedBothFirst25": [
+      {
+        "matchKey": "adaptability",
+        "displayName": "Adaptability",
+        "pokeapiSlug": "adaptability",
+        "pokeapiAbilityId": 91,
+        "showdownKey": "adaptability",
+        "conciseDescription": "This Pokemon's same-type attack bonus (STAB) is 2 instead of 1.5.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "aerilate",
+        "displayName": "Aerilate",
+        "pokeapiSlug": "aerilate",
+        "pokeapiAbilityId": 184,
+        "showdownKey": "aerilate",
+        "conciseDescription": "This Pokemon's Normal-type moves become Flying type and have 1.2x power.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "aftermath",
+        "displayName": "Aftermath",
+        "pokeapiSlug": "aftermath",
+        "pokeapiAbilityId": 106,
+        "showdownKey": "aftermath",
+        "conciseDescription": "If this Pokemon is KOed with a contact move, that move's user loses 1/4 its max HP.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "airlock",
+        "displayName": "Air Lock",
+        "pokeapiSlug": "air-lock",
+        "pokeapiAbilityId": 76,
+        "showdownKey": "airlock",
+        "conciseDescription": "While this Pokemon is active, the effects of weather conditions are disabled.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "analytic",
+        "displayName": "Analytic",
+        "pokeapiSlug": "analytic",
+        "pokeapiAbilityId": 148,
+        "showdownKey": "analytic",
+        "conciseDescription": "This Pokemon's attacks have 1.3x power if it is the last to move in a turn.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "angerpoint",
+        "displayName": "Anger Point",
+        "pokeapiSlug": "anger-point",
+        "pokeapiAbilityId": 83,
+        "showdownKey": "angerpoint",
+        "conciseDescription": "If this Pokemon (not its substitute) takes a critical hit, its Attack is raised 12 stages.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "angershell",
+        "displayName": "Anger Shell",
+        "pokeapiSlug": "anger-shell",
+        "pokeapiAbilityId": 271,
+        "showdownKey": "angershell",
+        "conciseDescription": "At 1/2 or less of this Pokemon's max HP: +1 Atk, Sp. Atk, Spe, and -1 Def, Sp. Def.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "anticipation",
+        "displayName": "Anticipation",
+        "pokeapiSlug": "anticipation",
+        "pokeapiAbilityId": 107,
+        "showdownKey": "anticipation",
+        "conciseDescription": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "arenatrap",
+        "displayName": "Arena Trap",
+        "pokeapiSlug": "arena-trap",
+        "pokeapiAbilityId": 71,
+        "showdownKey": "arenatrap",
+        "conciseDescription": "Prevents opposing Pokemon from choosing to switch out unless they are airborne.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "armortail",
+        "displayName": "Armor Tail",
+        "pokeapiSlug": "armor-tail",
+        "pokeapiAbilityId": 296,
+        "showdownKey": "armortail",
+        "conciseDescription": "This Pokemon and its allies are protected from opposing priority moves.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "aromaveil",
+        "displayName": "Aroma Veil",
+        "pokeapiSlug": "aroma-veil",
+        "pokeapiAbilityId": 165,
+        "showdownKey": "aromaveil",
+        "conciseDescription": "Protects user/allies from Attract, Disable, Encore, Heal Block, Taunt, and Torment.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "asoneglastrier",
+        "displayName": "As One (Glastrier)",
+        "pokeapiSlug": "as-one-glastrier",
+        "pokeapiAbilityId": 266,
+        "showdownKey": "asoneglastrier",
+        "conciseDescription": "Combination of the Unnerve and Chilling Neigh Abilities.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "asonespectrier",
+        "displayName": "As One (Spectrier)",
+        "pokeapiSlug": "as-one-spectrier",
+        "pokeapiAbilityId": 267,
+        "showdownKey": "asonespectrier",
+        "conciseDescription": "Combination of the Unnerve and Grim Neigh Abilities.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "aurabreak",
+        "displayName": "Aura Break",
+        "pokeapiSlug": "aura-break",
+        "pokeapiAbilityId": 188,
+        "showdownKey": "aurabreak",
+        "conciseDescription": "While this Pokemon is active, the Dark Aura and Fairy Aura power modifier is 0.75x.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "baddreams",
+        "displayName": "Bad Dreams",
+        "pokeapiSlug": "bad-dreams",
+        "pokeapiAbilityId": 123,
+        "showdownKey": "baddreams",
+        "conciseDescription": "Causes sleeping foes to lose 1/8 of their max HP at the end of each turn.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "ballfetch",
+        "displayName": "Ball Fetch",
+        "pokeapiSlug": "ball-fetch",
+        "pokeapiAbilityId": 237,
+        "showdownKey": "ballfetch",
+        "conciseDescription": "No competitive use.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "battery",
+        "displayName": "Battery",
+        "pokeapiSlug": "battery",
+        "pokeapiAbilityId": 217,
+        "showdownKey": "battery",
+        "conciseDescription": "This Pokemon's allies have the power of their special attacks multiplied by 1.3.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "battlearmor",
+        "displayName": "Battle Armor",
+        "pokeapiSlug": "battle-armor",
+        "pokeapiAbilityId": 4,
+        "showdownKey": "battlearmor",
+        "conciseDescription": "This Pokemon cannot be struck by a critical hit.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "battlebond",
+        "displayName": "Battle Bond",
+        "pokeapiSlug": "battle-bond",
+        "pokeapiAbilityId": 210,
+        "showdownKey": "battlebond",
+        "conciseDescription": "After KOing a Pokemon: raises Attack, Sp. Atk, Speed by 1 stage. Once per battle.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "beadsofruin",
+        "displayName": "Beads of Ruin",
+        "pokeapiSlug": "beads-of-ruin",
+        "pokeapiAbilityId": 287,
+        "showdownKey": "beadsofruin",
+        "conciseDescription": "Active Pokemon without this Ability have their Special Defense multiplied by 0.75.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "beastboost",
+        "displayName": "Beast Boost",
+        "pokeapiSlug": "beast-boost",
+        "pokeapiAbilityId": 224,
+        "showdownKey": "beastboost",
+        "conciseDescription": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "berserk",
+        "displayName": "Berserk",
+        "pokeapiSlug": "berserk",
+        "pokeapiAbilityId": 201,
+        "showdownKey": "berserk",
+        "conciseDescription": "This Pokemon's Sp. Atk is raised by 1 when it reaches 1/2 or less of its max HP.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "bigpecks",
+        "displayName": "Big Pecks",
+        "pokeapiSlug": "big-pecks",
+        "pokeapiAbilityId": 145,
+        "showdownKey": "bigpecks",
+        "conciseDescription": "Prevents other Pokemon from lowering this Pokemon's Defense stat stage.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "blaze",
+        "displayName": "Blaze",
+        "pokeapiSlug": "blaze",
+        "pokeapiAbilityId": 66,
+        "showdownKey": "blaze",
+        "conciseDescription": "At 1/3 or less of its max HP, this Pokemon's offensive stat is 1.5x with Fire attacks.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "bulletproof",
+        "displayName": "Bulletproof",
+        "pokeapiSlug": "bulletproof",
+        "pokeapiAbilityId": 171,
+        "showdownKey": "bulletproof",
+        "conciseDescription": "This Pokemon is immune to bullet moves.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": true
+        }
+      }
+    ],
+    "pokeapiOnlyFirst100": [
+      {
+        "matchKey": "aquaboost",
+        "displayName": "Aqua Boost",
+        "pokeapiSlug": "aqua-boost",
+        "pokeapiAbilityId": 10055,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "blackhole",
+        "displayName": "Black Hole",
+        "pokeapiSlug": "black-hole",
+        "pokeapiAbilityId": 10048,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "bodyguard",
+        "displayName": "Bodyguard",
+        "pokeapiSlug": "bodyguard",
+        "pokeapiAbilityId": 10027,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "bonanza",
+        "displayName": "Bonanza",
+        "pokeapiSlug": "bonanza",
+        "pokeapiAbilityId": 10044,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "calming",
+        "displayName": "Calming",
+        "pokeapiSlug": "calming",
+        "pokeapiAbilityId": 10037,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "celebrate",
+        "displayName": "Celebrate",
+        "pokeapiSlug": "celebrate",
+        "pokeapiAbilityId": 10035,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "climber",
+        "displayName": "Climber",
+        "pokeapiSlug": "climber",
+        "pokeapiAbilityId": 10053,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "confidence",
+        "displayName": "Confidence",
+        "pokeapiSlug": "confidence",
+        "pokeapiAbilityId": 10042,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "conqueror",
+        "displayName": "Conqueror",
+        "pokeapiSlug": "conqueror",
+        "pokeapiAbilityId": 10057,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "daze",
+        "displayName": "Daze",
+        "pokeapiSlug": "daze",
+        "pokeapiAbilityId": 10038,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "decoy",
+        "displayName": "Decoy",
+        "pokeapiSlug": "decoy",
+        "pokeapiAbilityId": 10059,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "deepsleep",
+        "displayName": "Deep Sleep",
+        "pokeapiSlug": "deep-sleep",
+        "pokeapiAbilityId": 10013,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "disgust",
+        "displayName": "Disgust",
+        "pokeapiSlug": "disgust",
+        "pokeapiAbilityId": 10051,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "dodge",
+        "displayName": "Dodge",
+        "pokeapiSlug": "dodge",
+        "pokeapiAbilityId": 10008,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "embodyaspect",
+        "displayName": "Embody Aspect",
+        "pokeapiSlug": "embody-aspect",
+        "pokeapiAbilityId": 303,
+        "showdownKey": null,
+        "conciseDescription": "Embody Aspect boosts a particular stat, depending on the form of a Terastallized Ogerpon",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "explode",
+        "displayName": "Explode",
+        "pokeapiSlug": "explode",
+        "pokeapiAbilityId": 10045,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "flameboost",
+        "displayName": "Flame Boost",
+        "pokeapiSlug": "flame-boost",
+        "pokeapiAbilityId": 10054,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "fortune",
+        "displayName": "Fortune",
+        "pokeapiSlug": "fortune",
+        "pokeapiAbilityId": 10043,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "frighten",
+        "displayName": "Frighten",
+        "pokeapiSlug": "frighten",
+        "pokeapiAbilityId": 10039,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "frostbite",
+        "displayName": "Frostbite",
+        "pokeapiSlug": "frostbite",
+        "pokeapiAbilityId": 10010,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "grasscloak",
+        "displayName": "Grass Cloak",
+        "pokeapiSlug": "grass-cloak",
+        "pokeapiAbilityId": 10034,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "gulp",
+        "displayName": "Gulp",
+        "pokeapiSlug": "gulp",
+        "pokeapiAbilityId": 10017,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "herbivore",
+        "displayName": "Herbivore",
+        "pokeapiSlug": "herbivore",
+        "pokeapiAbilityId": 10018,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "hero",
+        "displayName": "Hero",
+        "pokeapiSlug": "hero",
+        "pokeapiAbilityId": 10028,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "highrise",
+        "displayName": "High-rise",
+        "pokeapiSlug": "high-rise",
+        "pokeapiAbilityId": 10052,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "hotblooded",
+        "displayName": "Hot Blooded",
+        "pokeapiSlug": "hot-blooded",
+        "pokeapiAbilityId": 10020,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "instinct",
+        "displayName": "Instinct",
+        "pokeapiSlug": "instinct",
+        "pokeapiAbilityId": 10007,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "interference",
+        "displayName": "Interference",
+        "pokeapiSlug": "interference",
+        "pokeapiAbilityId": 10040,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "jaggededge",
+        "displayName": "Jagged Edge",
+        "pokeapiSlug": "jagged-edge",
+        "pokeapiAbilityId": 10009,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "lastbastion",
+        "displayName": "Last Bastion",
+        "pokeapiSlug": "last-bastion",
+        "pokeapiAbilityId": 10029,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "lifeforce",
+        "displayName": "Life Force",
+        "pokeapiSlug": "life-force",
+        "pokeapiAbilityId": 10022,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "lullaby",
+        "displayName": "Lullaby",
+        "pokeapiSlug": "lullaby",
+        "pokeapiAbilityId": 10036,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "lunchbox",
+        "displayName": "Lunchbox",
+        "pokeapiSlug": "lunchbox",
+        "pokeapiAbilityId": 10023,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "medic",
+        "displayName": "Medic",
+        "pokeapiSlug": "medic",
+        "pokeapiAbilityId": 10021,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "melee",
+        "displayName": "Melee",
+        "pokeapiSlug": "melee",
+        "pokeapiAbilityId": 10025,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "moodmaker",
+        "displayName": "Mood Maker",
+        "pokeapiSlug": "mood-maker",
+        "pokeapiAbilityId": 10041,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "nomad",
+        "displayName": "Nomad",
+        "pokeapiSlug": "nomad",
+        "pokeapiAbilityId": 10032,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "nurse",
+        "displayName": "Nurse",
+        "pokeapiSlug": "nurse",
+        "pokeapiAbilityId": 10024,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "omnipotent",
+        "displayName": "Omnipotent",
+        "pokeapiSlug": "omnipotent",
+        "pokeapiAbilityId": 10046,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "parry",
+        "displayName": "Parry",
+        "pokeapiSlug": "parry",
+        "pokeapiAbilityId": 10006,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "perception",
+        "displayName": "Perception",
+        "pokeapiSlug": "perception",
+        "pokeapiAbilityId": 10005,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "powernap",
+        "displayName": "Power Nap",
+        "pokeapiSlug": "power-nap",
+        "pokeapiAbilityId": 10014,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "pride",
+        "displayName": "Pride",
+        "pokeapiSlug": "pride",
+        "pokeapiAbilityId": 10012,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "runup",
+        "displayName": "Run Up",
+        "pokeapiSlug": "run-up",
+        "pokeapiAbilityId": 10056,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "sandpit",
+        "displayName": "Sandpit",
+        "pokeapiSlug": "sandpit",
+        "pokeapiAbilityId": 10019,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "sequence",
+        "displayName": "Sequence",
+        "pokeapiSlug": "sequence",
+        "pokeapiAbilityId": 10033,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "shackle",
+        "displayName": "Shackle",
+        "pokeapiSlug": "shackle",
+        "pokeapiAbilityId": 10058,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "shadowdash",
+        "displayName": "Shadow Dash",
+        "pokeapiSlug": "shadow-dash",
+        "pokeapiAbilityId": 10049,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "share",
+        "displayName": "Share",
+        "pokeapiSlug": "share",
+        "pokeapiAbilityId": 10047,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "shield",
+        "displayName": "Shield",
+        "pokeapiSlug": "shield",
+        "pokeapiAbilityId": 10060,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "skater",
+        "displayName": "Skater",
+        "pokeapiSlug": "skater",
+        "pokeapiAbilityId": 10003,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "spirit",
+        "displayName": "Spirit",
+        "pokeapiSlug": "spirit",
+        "pokeapiAbilityId": 10015,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "sponge",
+        "displayName": "Sponge",
+        "pokeapiSlug": "sponge",
+        "pokeapiAbilityId": 10026,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "sprint",
+        "displayName": "Sprint",
+        "pokeapiSlug": "sprint",
+        "pokeapiAbilityId": 10050,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "stealth",
+        "displayName": "Stealth",
+        "pokeapiSlug": "stealth",
+        "pokeapiAbilityId": 10030,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "tenacity",
+        "displayName": "Tenacity",
+        "pokeapiSlug": "tenacity",
+        "pokeapiAbilityId": 10011,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "thrust",
+        "displayName": "Thrust",
+        "pokeapiSlug": "thrust",
+        "pokeapiAbilityId": 10004,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "vanguard",
+        "displayName": "Vanguard",
+        "pokeapiSlug": "vanguard",
+        "pokeapiAbilityId": 10031,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "warmblanket",
+        "displayName": "Warm Blanket",
+        "pokeapiSlug": "warm-blanket",
+        "pokeapiAbilityId": 10016,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "waverider",
+        "displayName": "Wave Rider",
+        "pokeapiSlug": "wave-rider",
+        "pokeapiAbilityId": 10002,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      }
+    ],
+    "showdownOnlyFirst100": [
+      {
+        "matchKey": "embodyaspectcornerstone",
+        "displayName": "Embody Aspect (Cornerstone)",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "embodyaspectcornerstone",
+        "conciseDescription": "On switch-in, this Pokemon's Defense is raised by 1 stage.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "embodyaspecthearthflame",
+        "displayName": "Embody Aspect (Hearthflame)",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "embodyaspecthearthflame",
+        "conciseDescription": "On switch-in, this Pokemon's Attack is raised by 1 stage.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "embodyaspectteal",
+        "displayName": "Embody Aspect (Teal)",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "embodyaspectteal",
+        "conciseDescription": "On switch-in, this Pokemon's Speed is raised by 1 stage.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "embodyaspectwellspring",
+        "displayName": "Embody Aspect (Wellspring)",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "embodyaspectwellspring",
+        "conciseDescription": "On switch-in, this Pokemon's Special Defense is raised by 1 stage.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "noability",
+        "displayName": "No Ability",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "noability",
+        "conciseDescription": "Does nothing.",
+        "isNonstandard": "Past",
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "persistent",
+        "displayName": "Persistent",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "persistent",
+        "conciseDescription": "When used, Gravity/Heal Block/Safeguard/Tailwind/Room effects last 2 more turns.",
+        "isNonstandard": "CAP",
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "rebound",
+        "displayName": "Rebound",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "rebound",
+        "conciseDescription": "On switch-in, blocks certain status moves and bounces them back to the user.",
+        "isNonstandard": "CAP",
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      }
+    ],
+    "neither": []
+  },
+  "fullLists": {
+    "pokeapiOnly": [
+      {
+        "matchKey": "aquaboost",
+        "displayName": "Aqua Boost",
+        "pokeapiSlug": "aqua-boost",
+        "pokeapiAbilityId": 10055,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "blackhole",
+        "displayName": "Black Hole",
+        "pokeapiSlug": "black-hole",
+        "pokeapiAbilityId": 10048,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "bodyguard",
+        "displayName": "Bodyguard",
+        "pokeapiSlug": "bodyguard",
+        "pokeapiAbilityId": 10027,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "bonanza",
+        "displayName": "Bonanza",
+        "pokeapiSlug": "bonanza",
+        "pokeapiAbilityId": 10044,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "calming",
+        "displayName": "Calming",
+        "pokeapiSlug": "calming",
+        "pokeapiAbilityId": 10037,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "celebrate",
+        "displayName": "Celebrate",
+        "pokeapiSlug": "celebrate",
+        "pokeapiAbilityId": 10035,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "climber",
+        "displayName": "Climber",
+        "pokeapiSlug": "climber",
+        "pokeapiAbilityId": 10053,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "confidence",
+        "displayName": "Confidence",
+        "pokeapiSlug": "confidence",
+        "pokeapiAbilityId": 10042,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "conqueror",
+        "displayName": "Conqueror",
+        "pokeapiSlug": "conqueror",
+        "pokeapiAbilityId": 10057,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "daze",
+        "displayName": "Daze",
+        "pokeapiSlug": "daze",
+        "pokeapiAbilityId": 10038,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "decoy",
+        "displayName": "Decoy",
+        "pokeapiSlug": "decoy",
+        "pokeapiAbilityId": 10059,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "deepsleep",
+        "displayName": "Deep Sleep",
+        "pokeapiSlug": "deep-sleep",
+        "pokeapiAbilityId": 10013,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "disgust",
+        "displayName": "Disgust",
+        "pokeapiSlug": "disgust",
+        "pokeapiAbilityId": 10051,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "dodge",
+        "displayName": "Dodge",
+        "pokeapiSlug": "dodge",
+        "pokeapiAbilityId": 10008,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "embodyaspect",
+        "displayName": "Embody Aspect",
+        "pokeapiSlug": "embody-aspect",
+        "pokeapiAbilityId": 303,
+        "showdownKey": null,
+        "conciseDescription": "Embody Aspect boosts a particular stat, depending on the form of a Terastallized Ogerpon",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "explode",
+        "displayName": "Explode",
+        "pokeapiSlug": "explode",
+        "pokeapiAbilityId": 10045,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "flameboost",
+        "displayName": "Flame Boost",
+        "pokeapiSlug": "flame-boost",
+        "pokeapiAbilityId": 10054,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "fortune",
+        "displayName": "Fortune",
+        "pokeapiSlug": "fortune",
+        "pokeapiAbilityId": 10043,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "frighten",
+        "displayName": "Frighten",
+        "pokeapiSlug": "frighten",
+        "pokeapiAbilityId": 10039,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "frostbite",
+        "displayName": "Frostbite",
+        "pokeapiSlug": "frostbite",
+        "pokeapiAbilityId": 10010,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "grasscloak",
+        "displayName": "Grass Cloak",
+        "pokeapiSlug": "grass-cloak",
+        "pokeapiAbilityId": 10034,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "gulp",
+        "displayName": "Gulp",
+        "pokeapiSlug": "gulp",
+        "pokeapiAbilityId": 10017,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "herbivore",
+        "displayName": "Herbivore",
+        "pokeapiSlug": "herbivore",
+        "pokeapiAbilityId": 10018,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "hero",
+        "displayName": "Hero",
+        "pokeapiSlug": "hero",
+        "pokeapiAbilityId": 10028,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "highrise",
+        "displayName": "High-rise",
+        "pokeapiSlug": "high-rise",
+        "pokeapiAbilityId": 10052,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "hotblooded",
+        "displayName": "Hot Blooded",
+        "pokeapiSlug": "hot-blooded",
+        "pokeapiAbilityId": 10020,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "instinct",
+        "displayName": "Instinct",
+        "pokeapiSlug": "instinct",
+        "pokeapiAbilityId": 10007,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "interference",
+        "displayName": "Interference",
+        "pokeapiSlug": "interference",
+        "pokeapiAbilityId": 10040,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "jaggededge",
+        "displayName": "Jagged Edge",
+        "pokeapiSlug": "jagged-edge",
+        "pokeapiAbilityId": 10009,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "lastbastion",
+        "displayName": "Last Bastion",
+        "pokeapiSlug": "last-bastion",
+        "pokeapiAbilityId": 10029,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "lifeforce",
+        "displayName": "Life Force",
+        "pokeapiSlug": "life-force",
+        "pokeapiAbilityId": 10022,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "lullaby",
+        "displayName": "Lullaby",
+        "pokeapiSlug": "lullaby",
+        "pokeapiAbilityId": 10036,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "lunchbox",
+        "displayName": "Lunchbox",
+        "pokeapiSlug": "lunchbox",
+        "pokeapiAbilityId": 10023,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "medic",
+        "displayName": "Medic",
+        "pokeapiSlug": "medic",
+        "pokeapiAbilityId": 10021,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "melee",
+        "displayName": "Melee",
+        "pokeapiSlug": "melee",
+        "pokeapiAbilityId": 10025,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "moodmaker",
+        "displayName": "Mood Maker",
+        "pokeapiSlug": "mood-maker",
+        "pokeapiAbilityId": 10041,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "nomad",
+        "displayName": "Nomad",
+        "pokeapiSlug": "nomad",
+        "pokeapiAbilityId": 10032,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "nurse",
+        "displayName": "Nurse",
+        "pokeapiSlug": "nurse",
+        "pokeapiAbilityId": 10024,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "omnipotent",
+        "displayName": "Omnipotent",
+        "pokeapiSlug": "omnipotent",
+        "pokeapiAbilityId": 10046,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "parry",
+        "displayName": "Parry",
+        "pokeapiSlug": "parry",
+        "pokeapiAbilityId": 10006,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "perception",
+        "displayName": "Perception",
+        "pokeapiSlug": "perception",
+        "pokeapiAbilityId": 10005,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "powernap",
+        "displayName": "Power Nap",
+        "pokeapiSlug": "power-nap",
+        "pokeapiAbilityId": 10014,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "pride",
+        "displayName": "Pride",
+        "pokeapiSlug": "pride",
+        "pokeapiAbilityId": 10012,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "runup",
+        "displayName": "Run Up",
+        "pokeapiSlug": "run-up",
+        "pokeapiAbilityId": 10056,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "sandpit",
+        "displayName": "Sandpit",
+        "pokeapiSlug": "sandpit",
+        "pokeapiAbilityId": 10019,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "sequence",
+        "displayName": "Sequence",
+        "pokeapiSlug": "sequence",
+        "pokeapiAbilityId": 10033,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "shackle",
+        "displayName": "Shackle",
+        "pokeapiSlug": "shackle",
+        "pokeapiAbilityId": 10058,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "shadowdash",
+        "displayName": "Shadow Dash",
+        "pokeapiSlug": "shadow-dash",
+        "pokeapiAbilityId": 10049,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "share",
+        "displayName": "Share",
+        "pokeapiSlug": "share",
+        "pokeapiAbilityId": 10047,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "shield",
+        "displayName": "Shield",
+        "pokeapiSlug": "shield",
+        "pokeapiAbilityId": 10060,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "skater",
+        "displayName": "Skater",
+        "pokeapiSlug": "skater",
+        "pokeapiAbilityId": 10003,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "spirit",
+        "displayName": "Spirit",
+        "pokeapiSlug": "spirit",
+        "pokeapiAbilityId": 10015,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "sponge",
+        "displayName": "Sponge",
+        "pokeapiSlug": "sponge",
+        "pokeapiAbilityId": 10026,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "sprint",
+        "displayName": "Sprint",
+        "pokeapiSlug": "sprint",
+        "pokeapiAbilityId": 10050,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "stealth",
+        "displayName": "Stealth",
+        "pokeapiSlug": "stealth",
+        "pokeapiAbilityId": 10030,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "tenacity",
+        "displayName": "Tenacity",
+        "pokeapiSlug": "tenacity",
+        "pokeapiAbilityId": 10011,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "thrust",
+        "displayName": "Thrust",
+        "pokeapiSlug": "thrust",
+        "pokeapiAbilityId": 10004,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "vanguard",
+        "displayName": "Vanguard",
+        "pokeapiSlug": "vanguard",
+        "pokeapiAbilityId": 10031,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "warmblanket",
+        "displayName": "Warm Blanket",
+        "pokeapiSlug": "warm-blanket",
+        "pokeapiAbilityId": 10016,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      },
+      {
+        "matchKey": "waverider",
+        "displayName": "Wave Rider",
+        "pokeapiSlug": "wave-rider",
+        "pokeapiAbilityId": 10002,
+        "showdownKey": null,
+        "conciseDescription": null,
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": true,
+          "hasShowdownAbility": false
+        }
+      }
+    ],
+    "showdownOnly": [
+      {
+        "matchKey": "embodyaspectcornerstone",
+        "displayName": "Embody Aspect (Cornerstone)",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "embodyaspectcornerstone",
+        "conciseDescription": "On switch-in, this Pokemon's Defense is raised by 1 stage.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "embodyaspecthearthflame",
+        "displayName": "Embody Aspect (Hearthflame)",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "embodyaspecthearthflame",
+        "conciseDescription": "On switch-in, this Pokemon's Attack is raised by 1 stage.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "embodyaspectteal",
+        "displayName": "Embody Aspect (Teal)",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "embodyaspectteal",
+        "conciseDescription": "On switch-in, this Pokemon's Speed is raised by 1 stage.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "embodyaspectwellspring",
+        "displayName": "Embody Aspect (Wellspring)",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "embodyaspectwellspring",
+        "conciseDescription": "On switch-in, this Pokemon's Special Defense is raised by 1 stage.",
+        "isNonstandard": null,
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "noability",
+        "displayName": "No Ability",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "noability",
+        "conciseDescription": "Does nothing.",
+        "isNonstandard": "Past",
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "persistent",
+        "displayName": "Persistent",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "persistent",
+        "conciseDescription": "When used, Gravity/Heal Block/Safeguard/Tailwind/Room effects last 2 more turns.",
+        "isNonstandard": "CAP",
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      },
+      {
+        "matchKey": "rebound",
+        "displayName": "Rebound",
+        "pokeapiSlug": null,
+        "pokeapiAbilityId": null,
+        "showdownKey": "rebound",
+        "conciseDescription": "On switch-in, blocks certain status moves and bounces them back to the user.",
+        "isNonstandard": "CAP",
+        "sourceCoverage": {
+          "hasPokeApiAbility": false,
+          "hasShowdownAbility": true
+        }
+      }
+    ],
+    "neither": []
+  }
+}

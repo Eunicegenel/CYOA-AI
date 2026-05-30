@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Travis",
+    "slug": "travis",
+    "pageId": 5021,
+    "revisionId": 4529812
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands characters of the day",
+    "sourceFileName": "travis__5021.json",
+    "revisionTimestamp": "2026-04-10T13:58:19Z",
+    "fetchedAt": "2026-05-14T14:55:25.069Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Travis (Japanese: コウジ Kōji) is a character of the day who appeared in a flashback in Pokémon Double Trouble. He is the son of Luana, the Gym Leader of Kumquat Island and the fourth member of the Orange Crew. He left his home to become a Pokémon Master.\n\nTravis is a doppelgänger of , at least according to Luana. He is also similar to Ash in that he started his with a . Little else is known about Travis, as he only appeared in a flashback and had no speaking lines.",
+  "plainText": "Travis (Japanese: コウジ Kōji) is a character of the day who appeared in a flashback in Pokémon Double Trouble. He is the son of Luana, the Gym Leader of Kumquat Island and the fourth member of the Orange Crew. He left his home to become a Pokémon Master.\n\nTravis is a doppelgänger of , at least according to Luana. He is also similar to Ash in that he started his with a . Little else is known about Travis, as he only appeared in a flashback and had no speaking lines.\n\n==Pokémon==\nThis listing is of Travis's known Pokémon:\n \n\n \n \n \n \n \n\nde:Der Pokémon-Doppelkampf#Travis\nes:Travis\nfr:Quentin\nit:Travis\nzh:浩二（橘子群岛）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Travis (Japanese: コウジ Kōji) is a character of the day who appeared in a flashback in Pokémon Double Trouble. He is the son of Luana, the Gym Leader of Kumquat Island and the fourth member of the Orange Crew. He left his home to become a Pokémon Master.\n\nTravis is a doppelgänger of , at least according to Luana. He is also similar to Ash in that he started his with a . Little else is known about Travis, as he only appeared in a flashback and had no speaking lines."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Travis's known Pokémon:\n \n\n \n \n \n \n \n\nde:Der Pokémon-Doppelkampf#Travis\nes:Travis\nfr:Quentin\nit:Travis\nzh:浩二（橘子群岛）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Travis",
+    "pageType": "character",
+    "searchableText": "Travis\nCategory:Orange Islands characters of the day\nTravis (Japanese: コウジ Kōji) is a character of the day who appeared in a flashback in Pokémon Double Trouble. He is the son of Luana, the Gym Leader of Kumquat Island and the fourth member of the Orange Crew. He left his home to become a Pokémon Master.\n\nTravis is a doppelgänger of , at least according to Luana. He is also similar to Ash in that he started his with a . Little else is known about Travis, as he only appeared in a flashback and had no speaking lines.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 614,
+    "sectionCount": 2
+  }
+}

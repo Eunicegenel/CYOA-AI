@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Yanga",
+    "slug": "yanga",
+    "pageId": 314749,
+    "revisionId": 4509248
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Horizons: The Series characters",
+    "sourceFileName": "yanga__314749.json",
+    "revisionTimestamp": "2026-03-16T07:24:07Z",
+    "fetchedAt": "2026-05-14T14:59:43.378Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Yanga (Japanese: ヤンガ Yanga) is a recurring character who first appeared in The Treasure of Eternity. He is a researcher working for Exceed, and a of Friede from his time with the company.",
+  "plainText": "Yanga (Japanese: ヤンガ Yanga) is a recurring character who first appeared in The Treasure of Eternity. He is a researcher working for Exceed, and a of Friede from his time with the company.\n\n==History==\n \nIn HZ131, Yanga met Friede at a bar in Levincia. After reporting to his former colleague about the situation at Exceed, Friede showed him the research he had done on Laquium and its effects on Pokémon. After initially declining to help, Yanga agreed to assist Friede in uncovering the truth about the mysterious component.\n\n==Pokémon==\n===On hand===\n \n\n===Borrowed===\n \n\n==Voice actors==\n \n\n==Trivia==\nYanga was never named during his debut episode. As such, his English dub name is currently only known through closed captions.\n\n==Names==\n \n \n\n==Notes==\n \n\n==Related articles==\n \n \n\n \n \n\nfr:Yanga\nes:Yanga\nit:Yanga\nzh:揚加",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yanga (Japanese: ヤンガ Yanga) is a recurring character who first appeared in The Treasure of Eternity. He is a researcher working for Exceed, and a of Friede from his time with the company."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "In HZ131, Yanga met Friede at a bar in Levincia. After reporting to his former colleague about the situation at Exceed, Friede showed him the research he had done on Laquium and its effects on Pokémon. After initially declining to help, Yanga agreed to assist Friede in uncovering the truth about the mysterious component."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Yanga was never named during his debut episode. As such, his English dub name is currently only known through closed captions."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "fr:Yanga\nes:Yanga\nit:Yanga\nzh:揚加"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yanga",
+    "pageType": "character",
+    "searchableText": "Yanga\nCategory:Pokémon Horizons: The Series characters\nYanga (Japanese: ヤンガ Yanga) is a recurring character who first appeared in The Treasure of Eternity. He is a researcher working for Exceed, and a of Friede from his time with the company.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 824,
+    "sectionCount": 4
+  }
+}

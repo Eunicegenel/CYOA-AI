@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Ruby-Sapphire volume 3",
+    "slug": "pokemon-ruby-sapphire-volume-3",
+    "pageId": 84320,
+    "revisionId": 4354751
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire volumes",
+    "sourceFileName": "pokemon-ruby-sapphire-volume-3__84320.json",
+    "revisionTimestamp": "2025-08-08T19:03:31Z",
+    "fetchedAt": "2026-05-14T15:37:36.128Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 3 is the third volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 3 is the third volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\nChristmas Night Is Battle Night!\nDescent Of The Weather God!!\nA Formidable Rival!\nWe're A Family!!\nDieting In A Pot!!\nWelcome To 100-Yen Paradise!\nClefairy Transforms?!\nWild Boy Goes Home!!\nRare Pokémon!!\nClefairy, Form Teacher Of Class 1P!!\n\n==Important events==\n\n==Party changes==\n===Additions===\n\n===Evolutions===\nThe following Pokémon evolve:\n\n==Gym Battles==\n\n==Character summary==\n\n===Red's Party===\n \n\n==Trivia==\n\n \n\n \n\nit:Pokémon Ruby-Sapphire volume 3\nzh:宝可梦欢乐祭 红宝石・蓝宝石篇3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 3 is the third volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Christmas Night Is Battle Night!\nDescent Of The Weather God!!\nA Formidable Rival!\nWe're A Family!!\nDieting In A Pot!!\nWelcome To 100-Yen Paradise!\nClefairy Transforms?!\nWild Boy Goes Home!!\nRare Pokémon!!\nClefairy, Form Teacher Of Class 1P!!"
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "The following Pokémon evolve:"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "it:Pokémon Ruby-Sapphire volume 3\nzh:宝可梦欢乐祭 红宝石・蓝宝石篇3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Ruby-Sapphire volume 3",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Ruby-Sapphire volume 3\nCategory:Pokémon Ruby-Sapphire volumes\nVolume 3 is the third volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Evolutions",
+      "Trivia"
+    ],
+    "characterCount": 623,
+    "sectionCount": 4
+  }
+}

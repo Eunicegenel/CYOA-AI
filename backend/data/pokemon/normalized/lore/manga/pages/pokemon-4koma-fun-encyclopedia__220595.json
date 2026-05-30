@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Pokémon 4Koma Fun Encyclopedia",
+    "slug": "pokemon-4koma-fun-encyclopedia",
+    "pageId": 220595,
+    "revisionId": 4528305
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-4koma-fun-encyclopedia__220595.json",
+    "revisionTimestamp": "2026-04-09T16:15:03Z",
+    "fetchedAt": "2026-05-14T15:34:47.311Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモン4コマ笑事典 Pokémon 4Koma Fun Encyclopedia) is a Pokémon 4Koma .\n\n \n \n\n \n\n \n\nzh:宝可梦四格笑事典",
+  "plainText": "(Japanese: ポケモン4コマ笑事典 Pokémon 4Koma Fun Encyclopedia) is a Pokémon 4Koma .\n\n \n \n\n \n\n \n\nzh:宝可梦四格笑事典",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン4コマ笑事典 Pokémon 4Koma Fun Encyclopedia) is a Pokémon 4Koma .\n\n \n \n\n \n\n \n\nzh:宝可梦四格笑事典"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 4Koma Fun Encyclopedia",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 4Koma Fun Encyclopedia\nCategory:Pokémon 4Koma\n(Japanese: ポケモン4コマ笑事典 Pokémon 4Koma Fun Encyclopedia) is a Pokémon 4Koma .\n\n \n \n\n \n\n \n\nzh:宝可梦四格笑事典",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 98,
+    "sectionCount": 1
+  }
+}

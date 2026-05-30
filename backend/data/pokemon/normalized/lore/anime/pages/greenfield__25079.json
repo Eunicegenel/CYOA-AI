@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Greenfield",
+    "slug": "greenfield",
+    "pageId": 25079,
+    "revisionId": 4548852
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie locations",
+    "sourceFileName": "greenfield__25079.json",
+    "revisionTimestamp": "2026-05-11T00:45:59Z",
+    "fetchedAt": "2026-05-14T14:21:23.106Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Greenfield (Japanese: グリーンフィールド Greenfield) is an -exclusive town in Johto. This is the setting for Spell of the Unown: Entei. \n\nAccording to a map in , Greenfield is located just southeast of Goldenrod City, between Goldenrod City and Cherrygrove City.",
+  "plainText": "Greenfield (Japanese: グリーンフィールド Greenfield) is an -exclusive town in Johto. This is the setting for Spell of the Unown: Entei. \n\nAccording to a map in , Greenfield is located just southeast of Goldenrod City, between Goldenrod City and Cherrygrove City.\n\n==Geography==\nGreenfield's sweeping green valleys filled with fields of flowers and windmills make it an incredibly scenic location. According to , Greenfield is one of the most beautiful locations in Johto. It contains a Pokémon Center and a play park, where and battled. The Hale mansion is a significant landmark, being the home of researcher Spencer Hale, his wife, and their daughter Molly.\n\n==History==\nIn Greenfield, Molly discovered some tiles that her father left behind when he was kidnapped by the Unown and sent into the Unown Dimension. The tiles contained the , and over the course of the , the pristine environment was almost completely crystallized thanks to the Unown's efforts to fulfill Molly's fantasies. and intervened, they managed to get Molly to abandon her fantasy world in order to restore the real one. With her newfound belief, an illusory created by the Unown broke through the swarming Unown's barrier, which then restored Greenfield to its former beauty.\n\n==Gallery==\n \n\n==In other languages==\n \n\n==Related articles==\n \n \n \n\n \n \n\nde:Greenfield\nes:Villa Verde/Greenfield\nit:Greenfield\nja:グリーンフィールド\nzh:绿色草原",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Greenfield (Japanese: グリーンフィールド Greenfield) is an -exclusive town in Johto. This is the setting for Spell of the Unown: Entei. \n\nAccording to a map in , Greenfield is located just southeast of Goldenrod City, between Goldenrod City and Cherrygrove City."
+    },
+    {
+      "heading": "Geography",
+      "level": 2,
+      "text": "Greenfield's sweeping green valleys filled with fields of flowers and windmills make it an incredibly scenic location. According to , Greenfield is one of the most beautiful locations in Johto. It contains a Pokémon Center and a play park, where and battled. The Hale mansion is a significant landmark, being the home of researcher Spencer Hale, his wife, and their daughter Molly."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "In Greenfield, Molly discovered some tiles that her father left behind when he was kidnapped by the Unown and sent into the Unown Dimension. The tiles contained the , and over the course of the , the pristine environment was almost completely crystallized thanks to the Unown's efforts to fulfill Molly's fantasies. and intervened, they managed to get Molly to abandon her fantasy world in order to restore the real one. With her newfound belief, an illusory created by the Unown broke through the swarming Unown's barrier, which then restored Greenfield to its former beauty."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Greenfield\nes:Villa Verde/Greenfield\nit:Greenfield\nja:グリーンフィールド\nzh:绿色草原"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Greenfield",
+    "pageType": "movie",
+    "searchableText": "Greenfield\nCategory:Movie locations\nGreenfield (Japanese: グリーンフィールド Greenfield) is an -exclusive town in Johto. This is the setting for Spell of the Unown: Entei. \n\nAccording to a map in , Greenfield is located just southeast of Goldenrod City, between Goldenrod City and Cherrygrove City.",
+    "sectionHeadings": [
+      "Lead",
+      "Geography",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1390,
+    "sectionCount": 4
+  }
+}

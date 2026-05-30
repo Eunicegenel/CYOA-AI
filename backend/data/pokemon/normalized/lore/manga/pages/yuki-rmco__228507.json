@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Yuki (RMCO)",
+    "slug": "yuki-rmco",
+    "pageId": 228507,
+    "revisionId": 4214242
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond and Pearl: Regigigas Major Capture Operation!! characters",
+    "sourceFileName": "yuki-rmco__228507.json",
+    "revisionTimestamp": "2025-01-02T22:19:01Z",
+    "fetchedAt": "2026-05-14T15:53:05.382Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ユキ Yuki) is a character who appeared in Pocket Monsters Diamond and Pearl: Regigigas Major Capture Operation!!.",
+  "plainText": "(Japanese: ユキ Yuki) is a character who appeared in Pocket Monsters Diamond and Pearl: Regigigas Major Capture Operation!!.\n\n==History==\nAfter encountered a in Snowpoint Temple, he went to Yuki and spoke to her about it. She then decided to go to Professor Rowan as to how Kaito could catch it. After Professor Rowan spoke to them about it, they went to Kento as he had and the three legendary giants were needed to wake Regigigas up. With Kento on their side, they went back to Snowpoint Temple so that Kaito could encounter Regigigas. Regigigas woke up and this left Yuki and Kento hanging on the ice floor. When Kaito caught Regigigas, he accidentally left Yuki and Kento behind, still hanging on the ice floor.\n\n==Pokémon==\n \n\n \n\n \n \n \n \n\nit:Yuki (RHDS)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ユキ Yuki) is a character who appeared in Pocket Monsters Diamond and Pearl: Regigigas Major Capture Operation!!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "After encountered a in Snowpoint Temple, he went to Yuki and spoke to her about it. She then decided to go to Professor Rowan as to how Kaito could catch it. After Professor Rowan spoke to them about it, they went to Kento as he had and the three legendary giants were needed to wake Regigigas up. With Kento on their side, they went back to Snowpoint Temple so that Kaito could encounter Regigigas. Regigigas woke up and this left Yuki and Kento hanging on the ice floor. When Kaito caught Regigigas, he accidentally left Yuki and Kento behind, still hanging on the ice floor."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Yuki (RHDS)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yuki (RMCO)",
+    "pageType": "character",
+    "searchableText": "Yuki (RMCO)\nCategory:Pocket Monsters Diamond and Pearl: Regigigas Major Capture Operation!! characters\n(Japanese: ユキ Yuki) is a character who appeared in Pocket Monsters Diamond and Pearl: Regigigas Major Capture Operation!!.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon"
+    ],
+    "characterCount": 756,
+    "sectionCount": 3
+  }
+}

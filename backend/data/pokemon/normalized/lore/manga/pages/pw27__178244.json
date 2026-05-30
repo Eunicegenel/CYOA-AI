@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "PW27",
+    "slug": "pw27",
+    "pageId": 178244,
+    "revisionId": 4527876
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw27__178244.json",
+    "revisionTimestamp": "2026-04-09T15:57:11Z",
+    "fetchedAt": "2026-05-14T15:46:44.781Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: かせき＋ポケモン＝プテラ！？ Fossil + Pokémon = !?) is the twenty-seventh chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+  "plainText": "(Japanese: かせき＋ポケモン＝プテラ！？ Fossil + Pokémon = !?) is the twenty-seventh chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .\n\n==Plot==\n\n==Major events==\n\n==Characters==\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: かせき＋ポケモン＝プテラ！？ Fossil + Pokémon = !?) is the twenty-seventh chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is ."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW27",
+    "pageType": "chapter",
+    "searchableText": "PW27\nCategory:How I Became a Pokémon Card chapters\n(Japanese: かせき＋ポケモン＝プテラ！？ Fossil + Pokémon = !?) is the twenty-seventh chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 252,
+    "sectionCount": 1
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Emily Cramer",
+    "slug": "emily-cramer",
+    "pageId": 233605,
+    "revisionId": 4323434
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "emily-cramer__233605.json",
+    "revisionTimestamp": "2025-06-24T03:30:12Z",
+    "fetchedAt": "2026-05-14T14:15:18.574Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Emily Cramer is a voice actor for the English-language dub of . She is currently affiliated with KMR Talent Agency.",
+  "plainText": "Emily Cramer is a voice actor for the English-language dub of . She is currently affiliated with KMR Talent Agency.\n\n==Biography==\nCramer is an actress who joined the during . Several of her roles were previously done by Kate Bristol, who left the series at the same time as Cramer's arrival.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nSarah (SM082-SM145)\n(JN037, JN112)\nPikala\n(SM083)\n\n======Minor======\n(SM081)\nFemale Staff Flower (SM086)\n\n=====Pokémon=====\n======Major======\nSophocles's Togedemaru (SM081-SM112)\n( )\n\n======Minor======\n\n====Pokémon and Cat's Kitchen====\n\n==Other non-Pokémon roles==\nSkye Zaizen/Blue Angel ( )\nBloom ( (Season 8))\nGinja Spicy/Mushroom ( )\n\n==External links==\nOfficial website\nStreamily\nInstagram\nTwitter\nIMDb\nBehind the voice actors\n \n \n\nit:Emily Cramer",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Emily Cramer is a voice actor for the English-language dub of . She is currently affiliated with KMR Talent Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Cramer is an actress who joined the during . Several of her roles were previously done by Kate Bristol, who left the series at the same time as Cramer's arrival."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Sarah (SM082-SM145)\n(JN037, JN112)\nPikala\n(SM083)"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(SM081)\nFemale Staff Flower (SM086)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Sophocles's Togedemaru (SM081-SM112)\n( )"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Skye Zaizen/Blue Angel ( )\nBloom ( (Season 8))\nGinja Spicy/Mushroom ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nStreamily\nInstagram\nTwitter\nIMDb\nBehind the voice actors\n \n \n\nit:Emily Cramer"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Emily Cramer",
+    "pageType": "general-anime-lore",
+    "searchableText": "Emily Cramer\nCategory:TPCi voice actors\nEmily Cramer is a voice actor for the English-language dub of . She is currently affiliated with KMR Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 825,
+    "sectionCount": 7
+  }
+}

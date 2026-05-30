@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Tito",
+    "slug": "tito",
+    "pageId": 261688,
+    "revisionId": 4289355
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "tito__261688.json",
+    "revisionTimestamp": "2025-04-28T19:58:57Z",
+    "fetchedAt": "2026-05-14T14:54:39.993Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Tito (Japanese: リト Rito) is a minor recurring character in Pokémon Journeys: The Series.\n\nTito first appeared in The Cuteness Quotient!, in which he competed in the Friendship Festival with his but did not manage to win a prize.\n\nTito reappeared in On Land, In the Sea, and to the Future!, where he was among the competitors taking part in the Kids Marine Athletic Race. He ended up finishing third.",
+  "plainText": "Tito (Japanese: リト Rito) is a minor recurring character in Pokémon Journeys: The Series.\n\nTito first appeared in The Cuteness Quotient!, in which he competed in the Friendship Festival with his but did not manage to win a prize.\n\nTito reappeared in On Land, In the Sea, and to the Future!, where he was among the competitors taking part in the Kids Marine Athletic Race. He ended up finishing third.\n\n==Pokémon==\n \n \n\n===Achievements===\nTito has competed in the following :\nFriendship Festival - Unknown (The Cuteness Quotient!)\nKids Marine Athletic Race - Third (On Land, In the Sea, and to the Future!)\n\n \n \n \n\nes:Marin\nit:Terio\nzh:玛琳",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tito (Japanese: リト Rito) is a minor recurring character in Pokémon Journeys: The Series.\n\nTito first appeared in The Cuteness Quotient!, in which he competed in the Friendship Festival with his but did not manage to win a prize.\n\nTito reappeared in On Land, In the Sea, and to the Future!, where he was among the competitors taking part in the Kids Marine Athletic Race. He ended up finishing third."
+    },
+    {
+      "heading": "Achievements",
+      "level": 3,
+      "text": "Tito has competed in the following :\nFriendship Festival - Unknown (The Cuteness Quotient!)\nKids Marine Athletic Race - Third (On Land, In the Sea, and to the Future!)\n\n \n \n \n\nes:Marin\nit:Terio\nzh:玛琳"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tito",
+    "pageType": "character",
+    "searchableText": "Tito\nCategory:Animation characters\nTito (Japanese: リト Rito) is a minor recurring character in Pokémon Journeys: The Series.\n\nTito first appeared in The Cuteness Quotient!, in which he competed in the Friendship Festival with his but did not manage to win a prize.\n\nTito reappeared in On Land, In the Sea, and to the Future!, where he was among the competitors taking part in the Kids Marine Athletic Race. He ended up finishing third.",
+    "sectionHeadings": [
+      "Lead",
+      "Achievements"
+    ],
+    "characterCount": 636,
+    "sectionCount": 2
+  }
+}

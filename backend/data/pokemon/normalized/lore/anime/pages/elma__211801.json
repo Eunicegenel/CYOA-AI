@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Elma",
+    "slug": "elma",
+    "pageId": 211801,
+    "revisionId": 4289214
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Performers",
+    "sourceFileName": "elma__211801.json",
+    "revisionTimestamp": "2025-04-28T19:50:05Z",
+    "fetchedAt": "2026-05-14T14:15:12.390Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Elma (Japanese: エルマ Elma) is a minor recurring character in . She is a Pokémon Performer.",
+  "plainText": "Elma (Japanese: エルマ Elma) is a minor recurring character in . She is a Pokémon Performer.\n\n==History==\nElma first appeared in A Showcase Debut!, where she was seen participating in the Rookie Class Pokémon Showcase in Coumarine City. However, she was unable to make it to the Freestyle Performance.\n\nElma reappeared in Master Class Is in Session!, where she competed in the Master Class Pokémon Showcase in Gloire City. She participated in the first round, among the third group of Pokémon Performers, with her . However, she was eliminated.\n\n==Pokémon==\n \nThis listing is of Elma's known in :\n \n\n==Showcases==\n===Princess Keys obtained===\nThis listing is of the s Elma has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)\n\n===Master Class ranking===\nElma has achieved the following ranking in the Master Class tournament:\nShowcase - Top 28 (Master Class Is in Session!)\n\n===Other achievements===\nElma has competed in the following Rookie Class tournaments:\nShowcase - Theme Performance (A Showcase Debut!)\n\n==Voice actors==\n \n \n \n \n \n\nes:Elma\nit:Elma\nja:エルマ\nzh:艾爾瑪",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Elma (Japanese: エルマ Elma) is a minor recurring character in . She is a Pokémon Performer."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Elma first appeared in A Showcase Debut!, where she was seen participating in the Rookie Class Pokémon Showcase in Coumarine City. However, she was unable to make it to the Freestyle Performance.\n\nElma reappeared in Master Class Is in Session!, where she competed in the Master Class Pokémon Showcase in Gloire City. She participated in the first round, among the third group of Pokémon Performers, with her . However, she was eliminated."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Elma's known in :"
+    },
+    {
+      "heading": "Princess Keys obtained",
+      "level": 3,
+      "text": "This listing is of the s Elma has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)"
+    },
+    {
+      "heading": "Master Class ranking",
+      "level": 3,
+      "text": "Elma has achieved the following ranking in the Master Class tournament:\nShowcase - Top 28 (Master Class Is in Session!)"
+    },
+    {
+      "heading": "Other achievements",
+      "level": 3,
+      "text": "Elma has competed in the following Rookie Class tournaments:\nShowcase - Theme Performance (A Showcase Debut!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Elma\nit:Elma\nja:エルマ\nzh:艾爾瑪"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Elma",
+    "pageType": "general-anime-lore",
+    "searchableText": "Elma\nCategory:Performers\nElma (Japanese: エルマ Elma) is a minor recurring character in . She is a Pokémon Performer.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Princess Keys obtained",
+      "Master Class ranking",
+      "Other achievements",
+      "Voice actors"
+    ],
+    "characterCount": 1094,
+    "sectionCount": 7
+  }
+}

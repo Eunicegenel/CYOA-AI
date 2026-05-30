@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Mario",
+    "slug": "mario",
+    "pageId": 86691,
+    "revisionId": 4288129
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "mario__86691.json",
+    "revisionTimestamp": "2025-04-26T23:16:21Z",
+    "fetchedAt": "2026-05-14T14:35:05.937Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mario (Japanese: モブオ Mobuo) is a character of the day who appeared in Dressed for Jess Success!. He is a Pokémon Coordinator.\n\nMario competed in the Lilypad Town Pokémon Contest, hoping to win the Ribbon with his . He passed through the Performance Stage, but he lost against and her in the quarterfinals.",
+  "plainText": "Mario (Japanese: モブオ Mobuo) is a character of the day who appeared in Dressed for Jess Success!. He is a Pokémon Coordinator.\n\nMario competed in the Lilypad Town Pokémon Contest, hoping to win the Ribbon with his . He passed through the Performance Stage, but he lost against and her in the quarterfinals.\n \n==Pokémon==\n \n \nThis listing is of Mario's known in :\n \n\n==Contests==\nMario has competed in the following Pokémon Contests:\nContest - Top 8 (Dressed for Jess Success!)\n\n==Voice actors==\n \n\n \n\n \n \n \n \n\nes:Mario\nfr:Mario\nit:Mario",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mario (Japanese: モブオ Mobuo) is a character of the day who appeared in Dressed for Jess Success!. He is a Pokémon Coordinator.\n\nMario competed in the Lilypad Town Pokémon Contest, hoping to win the Ribbon with his . He passed through the Performance Stage, but he lost against and her in the quarterfinals."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Mario's known in :"
+    },
+    {
+      "heading": "Contests",
+      "level": 2,
+      "text": "Mario has competed in the following Pokémon Contests:\nContest - Top 8 (Dressed for Jess Success!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Mario\nfr:Mario\nit:Mario"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mario",
+    "pageType": "character",
+    "searchableText": "Mario\nCategory:Sinnoh characters of the day\nMario (Japanese: モブオ Mobuo) is a character of the day who appeared in Dressed for Jess Success!. He is a Pokémon Coordinator.\n\nMario competed in the Lilypad Town Pokémon Contest, hoping to win the Ribbon with his . He passed through the Performance Stage, but he lost against and her in the quarterfinals.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Contests",
+      "Voice actors"
+    ],
+    "characterCount": 535,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "MTM01",
+    "slug": "mtm01",
+    "pageId": 304389,
+    "revisionId": 4169316
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mezastar: Aim to Be a Tag Master! chapters",
+    "sourceFileName": "mtm01__304389.json",
+    "revisionTimestamp": "2024-10-27T20:43:43Z",
+    "fetchedAt": "2026-05-14T15:27:12.838Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the first chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the January 2021 issue of CoroCoro Ichiban!, released on November 21, 2020. It is 16 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.",
+  "plainText": "This is the first chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the January 2021 issue of CoroCoro Ichiban!, released on November 21, 2020. It is 16 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.\n\n==Plot==\n \n \n \n\n==Major events==\n===Debuts===\n====Humans====\nKira Hoshio\nSuguru Tsukino\n\n==Characters==\n===Humans===\nKira Hoshio\nSuguru Tsukino\nPokémon Mezastar players\n\n==Tags featured==\n \nInteleon (1-034)\nRillaboom (1-028)\nCinderace (1-031)\nCinderace (1-012)\nSirfetch'd (1-014)\nBoltund (1-047)\nOnix (1-069)\nDuraludon (1-015)\n\n==Trivia==\n \nThis chapter was published in an extra book of the CoroCoro Ichiban! January 2021 issue titled (Japanese: ポケモン４コマ　フルカラーコミック　＆　ポケモンメザスタ　大攻略！コミックＢＯＯＫ). \n\n==References==\n \n\n==External links==\nChapter 1 on Weekly CoroCoro Comics\nChapter 1 on CoroCoro Online",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the first chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the January 2021 issue of CoroCoro Ichiban!, released on November 21, 2020. It is 16 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Kira Hoshio\nSuguru Tsukino"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kira Hoshio\nSuguru Tsukino\nPokémon Mezastar players"
+    },
+    {
+      "heading": "Tags featured",
+      "level": 2,
+      "text": "Inteleon (1-034)\nRillaboom (1-028)\nCinderace (1-031)\nCinderace (1-012)\nSirfetch'd (1-014)\nBoltund (1-047)\nOnix (1-069)\nDuraludon (1-015)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This chapter was published in an extra book of the CoroCoro Ichiban! January 2021 issue titled (Japanese: ポケモン４コマ　フルカラーコミック　＆　ポケモンメザスタ　大攻略！コミックＢＯＯＫ)."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 1 on Weekly CoroCoro Comics\nChapter 1 on CoroCoro Online"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MTM01",
+    "pageType": "chapter",
+    "searchableText": "MTM01\nCategory:Pokémon Mezastar: Aim to Be a Tag Master! chapters\nThis is the first chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the January 2021 issue of CoroCoro Ichiban!, released on November 21, 2020. It is 16 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Tags featured",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 911,
+    "sectionCount": 6
+  }
+}

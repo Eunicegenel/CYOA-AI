@@ -1,0 +1,93 @@
+{
+  "identity": {
+    "title": "Risa Shimizu",
+    "slug": "risa-shimizu",
+    "pageId": 224481,
+    "revisionId": 4395858
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "risa-shimizu__224481.json",
+    "revisionTimestamp": "2025-10-08T15:37:48Z",
+    "fetchedAt": "2026-05-14T14:46:34.609Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Risa Shimizu (Japanese: 清水理沙 Shimizu Risa) is a Japanese voice actress for .",
+  "plainText": "Risa Shimizu (Japanese: 清水理沙 Shimizu Risa) is a Japanese voice actress for . \n\n==Biography==\nShimizu was born on September 9, 1988, in , , and became a voice actress as an adult. She started her work in the during , where she voiced Charlene, the apprentice of Olympia. However, her best known roles were Alola's Nurse Joys, Lana's Brionne and Primarina, and several recurring wild Pokémon, all of whom appeared in . She continued to voice various characters and in , most notably Officer Jenny and Goh's Beedrill. Shimizu is currently affiliated with the talent group Aksent.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nNurse Joy (Alola)\nOfficer Jenny ( )\n\n======Minor======\nCharlene\nMayor Oliver's secretary\n(JN016)\nManager (JN019)\nCrowd (JN031)\n\n=====Pokémon=====\n======Major======\nLana's Brionne and Primarina\nGoh's Beedrill\n( )\n( ; SM140)\n\nGoh's Flygon\n\n======Minor======\n( )\n(SM029)\n( ; SM035)\n\n(JN001)\n(JN006)\n(JN008)\n(JN010)\n(JN032)\n(JN074, JN075)\n\n==== ====\n\n===Video games===\n==== ====\nEmilia Christie\n\n==Other non-Pokémon roles==\n===Anime series===\nYouko Tamaki ( )\nMisaki Tōhōin ( )\nAmira ( )\nAngelica ( )\nKagari/Hai Phong ( )\nUkyō Yamato ( )\n\n===Dubbing roles===\nCarmen Cortez ( )\nViolet Baudelaire ( , )\nCat Valentine ( , )\n( )\n\n==External links==\nOfficial website\nTwitter\n\n \n \n\nit:Risa Shimizu\nja:清水理沙\nzh:清水理沙",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Risa Shimizu (Japanese: 清水理沙 Shimizu Risa) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Shimizu was born on September 9, 1988, in , , and became a voice actress as an adult. She started her work in the during , where she voiced Charlene, the apprentice of Olympia. However, her best known roles were Alola's Nurse Joys, Lana's Brionne and Primarina, and several recurring wild Pokémon, all of whom appeared in . She continued to voice various characters and in , most notably Officer Jenny and Goh's Beedrill. Shimizu is currently affiliated with the talent group Aksent."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Nurse Joy (Alola)\nOfficer Jenny ( )"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Charlene\nMayor Oliver's secretary\n(JN016)\nManager (JN019)\nCrowd (JN031)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Lana's Brionne and Primarina\nGoh's Beedrill\n( )\n( ; SM140)\n\nGoh's Flygon"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "( )\n(SM029)\n( ; SM035)\n\n(JN001)\n(JN006)\n(JN008)\n(JN010)\n(JN032)\n(JN074, JN075)"
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Emilia Christie"
+    },
+    {
+      "heading": "Anime series",
+      "level": 3,
+      "text": "Youko Tamaki ( )\nMisaki Tōhōin ( )\nAmira ( )\nAngelica ( )\nKagari/Hai Phong ( )\nUkyō Yamato ( )"
+    },
+    {
+      "heading": "Dubbing roles",
+      "level": 3,
+      "text": "Carmen Cortez ( )\nViolet Baudelaire ( , )\nCat Valentine ( , )\n( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTwitter\n\n \n \n\nit:Risa Shimizu\nja:清水理沙\nzh:清水理沙"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Risa Shimizu",
+    "pageType": "general-anime-lore",
+    "searchableText": "Risa Shimizu\nCategory:Japanese voice actors\nRisa Shimizu (Japanese: 清水理沙 Shimizu Risa) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "",
+      "Anime series",
+      "Dubbing roles",
+      "External links"
+    ],
+    "characterCount": 1360,
+    "sectionCount": 10
+  }
+}

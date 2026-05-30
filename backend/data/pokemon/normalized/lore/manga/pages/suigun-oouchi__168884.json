@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Suigun Oouchi",
+    "slug": "suigun-oouchi",
+    "pageId": 168884,
+    "revisionId": 4132913
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga crew",
+    "sourceFileName": "suigun-oouchi__168884.json",
+    "revisionTimestamp": "2024-09-29T05:29:10Z",
+    "fetchedAt": "2026-05-14T15:50:23.748Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Suigun Oouchi (Japanese: 大内 水軍) is an author who wrote and illustrated a variety of manga based on the Pokémon games throughout Generation III.",
+  "plainText": "Suigun Oouchi (Japanese: 大内 水軍) is an author who wrote and illustrated a variety of manga based on the Pokémon games throughout Generation III.\n\n== Pokémon manga works ==\nPokémon Ruby & Sapphire (CoroCoro Comic)\nPokémon Colosseum Snatchers\nPokémon Colosseum Snatcher Leo\n\n==External links==\nOouchi Suigun's personal website (Japanese language)\n\n \n \n\n \n\nit:Oouchi Suigun\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Suigun Oouchi (Japanese: 大内 水軍) is an author who wrote and illustrated a variety of manga based on the Pokémon games throughout Generation III."
+    },
+    {
+      "heading": "Pokémon manga works",
+      "level": 2,
+      "text": "Pokémon Ruby & Sapphire (CoroCoro Comic)\nPokémon Colosseum Snatchers\nPokémon Colosseum Snatcher Leo"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Oouchi Suigun's personal website (Japanese language)\n\n \n \n\n \n\nit:Oouchi Suigun"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Suigun Oouchi",
+    "pageType": "manga-series",
+    "searchableText": "Suigun Oouchi\nCategory:Manga crew\nSuigun Oouchi (Japanese: 大内 水軍) is an author who wrote and illustrated a variety of manga based on the Pokémon games throughout Generation III.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon manga works",
+      "External links"
+    ],
+    "characterCount": 385,
+    "sectionCount": 3
+  }
+}

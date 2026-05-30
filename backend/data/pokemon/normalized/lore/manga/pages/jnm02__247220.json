@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "JNM02",
+    "slug": "jnm02",
+    "pageId": 247220,
+    "revisionId": 4528310
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm02__247220.json",
+    "revisionTimestamp": "2026-04-09T16:15:17Z",
+    "fetchedAt": "2026-05-14T15:22:41.464Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Being Stalked by a Scorbunny—and Challenging a Snorlax in Dynamax Form?! (Japanese: ヒバニーとの出会い、ダイマックスの姿のカビゴンに挑め！ An Encounter with , Challenge the !) is the second chapter of the manga. It is based on the episodes Settling the Scorbunny! and Mind-Boggling Dynamax!.",
+  "plainText": "Being Stalked by a Scorbunny—and Challenging a Snorlax in Dynamax Form?! (Japanese: ヒバニーとの出会い、ダイマックスの姿のカビゴンに挑め！ An Encounter with , Challenge the !) is the second chapter of the manga. It is based on the episodes Settling the Scorbunny! and Mind-Boggling Dynamax!.\n\n==Plot==\n \n\n==Major events==\nGoh a , making it his first Pokémon.\n\n===Debuts===\n====Pokémon debuts====\n( )\n\n(Gigantamax)\n\n==Characters==\n===Humans===\n\nGoh\nChloe \nProfessor Cerise\nScone man\n\n===Pokémon===\n( )\n( ; new)\n(×3; debut)\n(multiple)\n(multiple)\n(×2)\n(Gigantamax)\n(flashback)\n\n==Differences between the animated series and the manga==\nThe chapter starts with and Goh already arriving in Galar.\nAsh and Goh stop to rest on a bench instead of eating scones, while the food stolen from them is changed to cupcakes.\n's backstory of covering its fur in mud to fit in with its friends is removed, nor does it battle with .\nThe scenes of Ash, Goh, and Scorbunny on the train are removed. Scorbunny trying to meet Goh in the Wild Area is also omitted. \nGoh's goal to is revealed here as it wasn't mentioned in the previous chapter.\nAsh and Goh get Gigantamax to jump over the train instead of moving off of the tracks.\n\n \n \n \n\nde:Hoppla, Hopplo & unfassbares Dynamax! (Pokémon Reisen)\nes:PV002\nit:JNM02\nzh:宝可梦 旅途 ～小智与小豪的故事！～ 第2话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Being Stalked by a Scorbunny—and Challenging a Snorlax in Dynamax Form?! (Japanese: ヒバニーとの出会い、ダイマックスの姿のカビゴンに挑め！ An Encounter with , Challenge the !) is the second chapter of the manga. It is based on the episodes Settling the Scorbunny! and Mind-Boggling Dynamax!."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Goh a , making it his first Pokémon."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n\n(Gigantamax)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nChloe \nProfessor Cerise\nScone man"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( ; new)\n(×3; debut)\n(multiple)\n(multiple)\n(×2)\n(Gigantamax)\n(flashback)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "The chapter starts with and Goh already arriving in Galar.\nAsh and Goh stop to rest on a bench instead of eating scones, while the food stolen from them is changed to cupcakes.\n's backstory of covering its fur in mud to fit in with its friends is removed, nor does it battle with .\nThe scenes of Ash, Goh, and Scorbunny on the train are removed. Scorbunny trying to meet Goh in the Wild Area is also omitted. \nGoh's goal to is revealed here as it wasn't mentioned in the previous chapter.\nAsh and Goh get Gigantamax to jump over the train instead of moving off of the tracks.\n\n \n \n \n\nde:Hoppla, Hopplo & unfassbares Dynamax! (Pokémon Reisen)\nes:PV002\nit:JNM02\nzh:宝可梦 旅途 ～小智与小豪的故事！～ 第2话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM02",
+    "pageType": "chapter",
+    "searchableText": "JNM02\nCategory:Pokémon Journeys chapters\nBeing Stalked by a Scorbunny—and Challenging a Snorlax in Dynamax Form?! (Japanese: ヒバニーとの出会い、ダイマックスの姿のカビゴンに挑め！ An Encounter with , Challenge the !) is the second chapter of the manga. It is based on the episodes Settling the Scorbunny! and Mind-Boggling Dynamax!.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 1291,
+    "sectionCount": 6
+  }
+}

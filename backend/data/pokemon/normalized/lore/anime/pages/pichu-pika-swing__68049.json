@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pichu Pika♪Swing",
+    "slug": "pichu-pika-swing",
+    "pageId": 68049,
+    "revisionId": 4319125
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese opening themes",
+    "sourceFileName": "pichu-pika-swing__68049.json",
+    "revisionTimestamp": "2025-06-13T05:47:20Z",
+    "fetchedAt": "2026-05-14T14:41:27.162Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Pichu Pika♪Swing (Japanese: ピチュピカ♪スウィング Pichu Pika♪Swing) is the Japanese opening theme of the Pikachu short Pikachu & Pichu and Trouble in Big Town.",
+  "plainText": "Pichu Pika♪Swing (Japanese: ピチュピカ♪スウィング Pichu Pika♪Swing) is the Japanese opening theme of the Pikachu short Pikachu & Pichu and Trouble in Big Town.\n\n==Synopsis==\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Pichu Brothers)\n\n \n\n==Lyrics==\n \n\n \n \n \n\nja:ピチュピカ♪スウィング",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pichu Pika♪Swing (Japanese: ピチュピカ♪スウィング Pichu Pika♪Swing) is the Japanese opening theme of the Pikachu short Pikachu & Pichu and Trouble in Big Town."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Pichu Brothers)"
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "ja:ピチュピカ♪スウィング"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pichu Pika♪Swing",
+    "pageType": "general-anime-lore",
+    "searchableText": "Pichu Pika♪Swing\nCategory:Japanese opening themes\nPichu Pika♪Swing (Japanese: ピチュピカ♪スウィング Pichu Pika♪Swing) is the Japanese opening theme of the Pikachu short Pikachu & Pichu and Trouble in Big Town.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Lyrics"
+    ],
+    "characterCount": 268,
+    "sectionCount": 3
+  }
+}

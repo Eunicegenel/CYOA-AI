@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GDZ72",
+    "slug": "gdz72",
+    "pageId": 188463,
+    "revisionId": 4526241
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz72__188463.json",
+    "revisionTimestamp": "2026-04-09T14:28:45Z",
+    "fetchedAt": "2026-05-14T15:20:07.330Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 激対決、デルビル軍団！ Fierce Showdown with the Pack!) is the 72nd chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 激対決、デルビル軍団！ Fierce Showdown with the Pack!) is the 72nd chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n(Shu's)\n\n==Characters==\n===Humans===\nShu\nHideki\n\n===Pokémon===\n( )\n(Shu's; new)\n(Shu's; new)\n\n(flashback)\n(background image)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 激対決、デルビル軍団！ Fierce Showdown with the Pack!) is the 72nd chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Shu's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nHideki"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's; new)\n(Shu's; new)\n\n(flashback)\n(background image)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ72",
+    "pageType": "chapter",
+    "searchableText": "GDZ72\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 激対決、デルビル軍団！ Fierce Showdown with the Pack!) is the 72nd chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 311,
+    "sectionCount": 4
+  }
+}

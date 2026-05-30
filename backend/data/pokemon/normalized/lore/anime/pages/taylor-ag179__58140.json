@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Taylor (AG179)",
+    "slug": "taylor-ag179",
+    "pageId": 58140,
+    "revisionId": 4341845
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Battle Frontier characters of the day",
+    "sourceFileName": "taylor-ag179__58140.json",
+    "revisionTimestamp": "2025-07-24T07:13:13Z",
+    "fetchedAt": "2026-05-14T14:53:15.146Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Taylor (Japanese: テイラー Taylor) is a character of the day who appeared in Slaking Kong!. He is a Berry farmer from Kanto, with orchards under his attendance.\n\nBefore the group met him, Taylor was used to the mountain Pokémon coming down and taking Berries from his orchard when they were hungry. Only recently, however, the wild Pokémon had been constantly coming to pillage his Berries. A traveler had reportedly sighted a giant monster in the area, which the group and Taylor later discovered was in reality a Slaking mecha operated by .\n\nTaylor helped the group retrieve their lost effects including Ash's hat and 's Ribbon case, and in the end, got his Berries back as well, with the aid of the other mountain Pokémon that stole them in the first place.",
+  "plainText": "Taylor (Japanese: テイラー Taylor) is a character of the day who appeared in Slaking Kong!. He is a Berry farmer from Kanto, with orchards under his attendance.\n\nBefore the group met him, Taylor was used to the mountain Pokémon coming down and taking Berries from his orchard when they were hungry. Only recently, however, the wild Pokémon had been constantly coming to pillage his Berries. A traveler had reportedly sighted a giant monster in the area, which the group and Taylor later discovered was in reality a Slaking mecha operated by .\n\nTaylor helped the group retrieve their lost effects including Ash's hat and 's Ribbon case, and in the end, got his Berries back as well, with the aid of the other mountain Pokémon that stole them in the first place.\n\n==Voice actors==\n \n \n \n \n \n \n\nes:Taylor\nit:Diego (RZ179)\nzh:泰勒（關都）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Taylor (Japanese: テイラー Taylor) is a character of the day who appeared in Slaking Kong!. He is a Berry farmer from Kanto, with orchards under his attendance.\n\nBefore the group met him, Taylor was used to the mountain Pokémon coming down and taking Berries from his orchard when they were hungry. Only recently, however, the wild Pokémon had been constantly coming to pillage his Berries. A traveler had reportedly sighted a giant monster in the area, which the group and Taylor later discovered was in reality a Slaking mecha operated by .\n\nTaylor helped the group retrieve their lost effects including Ash's hat and 's Ribbon case, and in the end, got his Berries back as well, with the aid of the other mountain Pokémon that stole them in the first place."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Taylor\nit:Diego (RZ179)\nzh:泰勒（關都）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Taylor (AG179)",
+    "pageType": "character",
+    "searchableText": "Taylor (AG179)\nCategory:Battle Frontier characters of the day\nTaylor (Japanese: テイラー Taylor) is a character of the day who appeared in Slaking Kong!. He is a Berry farmer from Kanto, with orchards under his attendance.\n\nBefore the group met him, Taylor was used to the mountain Pokémon coming down and taking Berries from his orchard when they were hungry. Only recently, however, the wild Pokémon had been constantly coming to pillage his Berries. A traveler had reportedly sighted a giant monster in the area, which the group and Taylor later discovered was in reality a Slaking mecha operated by .\n\nTaylor helped the group retrieve their lost effects including Ash's hat and 's Ribbon case, and in the end, got his Berries back as well, with the aid of the other mountain Pokémon that stole them in the first place.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 824,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "PMLT01",
+    "slug": "pmlt01",
+    "pageId": 283719,
+    "revisionId": 4528192
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monster: Liko's treasure chapters",
+    "sourceFileName": "pmlt01__283719.json",
+    "revisionTimestamp": "2026-04-09T16:09:54Z",
+    "fetchedAt": "2026-05-14T15:33:06.455Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: １ Episode 1) is the first regular chapter of the Pocket Monster: Liko's treasure manga. It was first published in the June 2023 issue of Ciao, released on May 2, 2023. It is based on the Pokémon Horizons: The Series episode The Pendant That Starts It All (Part One). It is 32 pages long.",
+  "plainText": "(Japanese: １ Episode 1) is the first regular chapter of the Pocket Monster: Liko's treasure manga. It was first published in the June 2023 issue of Ciao, released on May 2, 2023. It is based on the Pokémon Horizons: The Series episode The Pendant That Starts It All (Part One). It is 32 pages long.\n\n==Plot==\n \n\n==Major events==\nLiko receives a as her first partner Pokémon.\nLiko meets Amethio and gets on the radar of the mysterious Explorers organization.\nLiko meets Pokémon Professor Friede for the first time.\n\n===Debuts===\n====Humans====\nDiana (flashback)\nZirc\nOnia\n\n====Pokémon debuts====\n\n(Liko's; Amethio's; Rotom Phone)\n\n(Zirc's)\n( )\n(Friede's)\n\n==Characters==\n===Humans===\nLiko\nFriede\nAmethio\nOnia\nZirc\nDiana (flashback)\nTeacher\nStudents\n\n===Pokémon===\n( ; new)\n(Liko's; Rotom Phone)\n(Friede's)\n( )\n(Amethio's; Rotom Phone)\n(Zirc's)\n(×3)\n(×2)\n\n==Differences between the animated series and the manga==\n \nLiko's time adjusting to Indigo Academy is trimmed down.\nAnn doesn't appear in this manga.\n\n==References==\n \n\n \n \n \n \n\nes:LNT01\nit:PMLT01",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: １ Episode 1) is the first regular chapter of the Pocket Monster: Liko's treasure manga. It was first published in the June 2023 issue of Ciao, released on May 2, 2023. It is based on the Pokémon Horizons: The Series episode The Pendant That Starts It All (Part One). It is 32 pages long."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Liko receives a as her first partner Pokémon.\nLiko meets Amethio and gets on the radar of the mysterious Explorers organization.\nLiko meets Pokémon Professor Friede for the first time."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Diana (flashback)\nZirc\nOnia"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Liko's; Amethio's; Rotom Phone)\n\n(Zirc's)\n( )\n(Friede's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Liko\nFriede\nAmethio\nOnia\nZirc\nDiana (flashback)\nTeacher\nStudents"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; new)\n(Liko's; Rotom Phone)\n(Friede's)\n( )\n(Amethio's; Rotom Phone)\n(Zirc's)\n(×3)\n(×2)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "Liko's time adjusting to Indigo Academy is trimmed down.\nAnn doesn't appear in this manga."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "es:LNT01\nit:PMLT01"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMLT01",
+    "pageType": "chapter",
+    "searchableText": "PMLT01\nCategory:Pocket Monster: Liko's treasure chapters\n(Japanese: １ Episode 1) is the first regular chapter of the Pocket Monster: Liko's treasure manga. It was first published in the June 2023 issue of Ciao, released on May 2, 2023. It is based on the Pokémon Horizons: The Series episode The Pendant That Starts It All (Part One). It is 32 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga",
+      "References"
+    ],
+    "characterCount": 1051,
+    "sectionCount": 8
+  }
+}

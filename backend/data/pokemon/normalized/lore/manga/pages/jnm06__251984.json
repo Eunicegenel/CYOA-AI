@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "JNM06",
+    "slug": "jnm06",
+    "pageId": 251984,
+    "revisionId": 4528561
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm06__251984.json",
+    "revisionTimestamp": "2026-04-09T16:26:49Z",
+    "fetchedAt": "2026-05-14T15:22:43.967Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Kicking It from Here into Tomorrow! (Japanese: ヒバニー、炎のキック！明日に向かって！！ , Use Your Flaming Kick! Face Tomorrow!!) is the sixth chapter of the manga. It is based on the animated series episode by the same name.",
+  "plainText": "Kicking It from Here into Tomorrow! (Japanese: ヒバニー、炎のキック！明日に向かって！！ , Use Your Flaming Kick! Face Tomorrow!!) is the sixth chapter of the manga. It is based on the animated series episode by the same name.\n\n==Plot==\n \n\n==Major events==\nGoh is revealed to have a .\nGoh's learns and evolves into .\n\n===Debuts===\n====Pokémon debuts====\n( )\n( )\n\n==Characters==\n===Humans===\n\nGoh\nJessie\nJames\n\n===Pokémon===\n( )\n( )\n( )\n( ; evolves)\n( ; newly evolved)\n( ; )\n( )\n(Team Rocket's)\n(Team Rocket's)\n\n==Differences between the animated series and the manga==\nThe scene of playing \" Shiritori\" is omitted.\nAs the events of Ivysaur's Mysterious Tower! were skipped, Goh first encounters Team Rocket here.\n\n \n \n \n\nde:Der entscheidende Kick! (Pokémon Reisen)\nes:PV006\nit:JNM06",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kicking It from Here into Tomorrow! (Japanese: ヒバニー、炎のキック！明日に向かって！！ , Use Your Flaming Kick! Face Tomorrow!!) is the sixth chapter of the manga. It is based on the animated series episode by the same name."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Goh is revealed to have a .\nGoh's learns and evolves into ."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nJessie\nJames"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( ; evolves)\n( ; newly evolved)\n( ; )\n( )\n(Team Rocket's)\n(Team Rocket's)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "The scene of playing \" Shiritori\" is omitted.\nAs the events of Ivysaur's Mysterious Tower! were skipped, Goh first encounters Team Rocket here.\n\n \n \n \n\nde:Der entscheidende Kick! (Pokémon Reisen)\nes:PV006\nit:JNM06"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM06",
+    "pageType": "chapter",
+    "searchableText": "JNM06\nCategory:Pokémon Journeys chapters\nKicking It from Here into Tomorrow! (Japanese: ヒバニー、炎のキック！明日に向かって！！ , Use Your Flaming Kick! Face Tomorrow!!) is the sixth chapter of the manga. It is based on the animated series episode by the same name.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 761,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "List of chapters in the Ruby & Sapphire arc of Pokémon Adventures",
+    "slug": "list-of-chapters-in-the-ruby-and-sapphire-arc-of-pokemon-adventures",
+    "pageId": 14961,
+    "revisionId": 4345748
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures",
+    "sourceFileName": "list-of-chapters-in-the-ruby-and-sapphire-arc-of-pokemon-adventures__14961.json",
+    "revisionTimestamp": "2025-07-28T07:00:59Z",
+    "fetchedAt": "2026-05-14T15:24:23.270Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "",
+  "plainText": "== ==\n \n \n \n\n \n\n \n \n\nes:Capítulos de la saga Rubí y Zafiro de Pocket Monsters Special\nfr:Liste des chapitres de l'arc Rubis et Saphir de Pocket Monsters Special\nit:Elenco dei capitoli nel quarto arco di Pokémon: La Grande Avventura\nzh:宝可梦特别篇第四章列表",
+  "sections": [
+    {
+      "heading": "",
+      "level": 2,
+      "text": "es:Capítulos de la saga Rubí y Zafiro de Pocket Monsters Special\nfr:Liste des chapitres de l'arc Rubis et Saphir de Pocket Monsters Special\nit:Elenco dei capitoli nel quarto arco di Pokémon: La Grande Avventura\nzh:宝可梦特别篇第四章列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of chapters in the Ruby & Sapphire arc of Pokémon Adventures",
+    "pageType": "chapter",
+    "searchableText": "List of chapters in the Ruby & Sapphire arc of Pokémon Adventures\nCategory:Pokémon Adventures",
+    "sectionHeadings": [
+      ""
+    ],
+    "characterCount": 246,
+    "sectionCount": 1
+  }
+}

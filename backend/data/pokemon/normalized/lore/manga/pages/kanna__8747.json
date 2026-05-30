@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Kanna",
+    "slug": "kanna",
+    "pageId": 8747,
+    "revisionId": 4131797
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY: The Legend of the Pokémon Dragon King characters",
+    "sourceFileName": "kanna__8747.json",
+    "revisionTimestamp": "2024-09-29T04:25:30Z",
+    "fetchedAt": "2026-05-14T15:23:12.924Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: カンナ Kanna) is a character from Pocket Monsters XY: The Legend of the Pokémon Dragon King. She debuted in LDK1. She is 's sister.",
+  "plainText": "(Japanese: カンナ Kanna) is a character from Pocket Monsters XY: The Legend of the Pokémon Dragon King. She debuted in LDK1. She is 's sister.\n\n==Character==\nKanna has taken the role of looking out for Akira when he dealt with any tasks she saw to be dangerous.\n\n==History==\nWhile Akira was sneaking out the house to find the Charizardite X, he got caught by Kanna who didn't allow him to leave. Even though she became curious about his mission, Kanna decided to let him leave and then watches him as he flew off on his .\n\nLater, Kanna was one of the people in the audience watching Akira compete in the Dragon King Cup.\n\n==Pokémon==\n \n \n \n \n \n\nit:Kanna",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: カンナ Kanna) is a character from Pocket Monsters XY: The Legend of the Pokémon Dragon King. She debuted in LDK1. She is 's sister."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Kanna has taken the role of looking out for Akira when he dealt with any tasks she saw to be dangerous."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "While Akira was sneaking out the house to find the Charizardite X, he got caught by Kanna who didn't allow him to leave. Even though she became curious about his mission, Kanna decided to let him leave and then watches him as he flew off on his .\n\nLater, Kanna was one of the people in the audience watching Akira compete in the Dragon King Cup."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Kanna"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kanna",
+    "pageType": "character",
+    "searchableText": "Kanna\nCategory:Pocket Monsters XY: The Legend of the Pokémon Dragon King characters\n(Japanese: カンナ Kanna) is a character from Pocket Monsters XY: The Legend of the Pokémon Dragon King. She debuted in LDK1. She is 's sister.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History",
+      "Pokémon"
+    ],
+    "characterCount": 650,
+    "sectionCount": 4
+  }
+}

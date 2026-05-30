@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "ESEZ2",
+    "slug": "esez2",
+    "pageId": 230527,
+    "revisionId": 4549627
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "esez2__230527.json",
+    "revisionTimestamp": "2026-05-11T02:08:37Z",
+    "fetchedAt": "2026-05-14T15:18:18.776Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Norbert's Courage (Japanese: ノゾムの勇気 's Courage) is the second chapter of Pokémon the Movie: The Power of Us: Zeraora's Story.",
+  "plainText": "Norbert's Courage (Japanese: ノゾムの勇気 's Courage) is the second chapter of Pokémon the Movie: The Power of Us: Zeraora's Story.\n\n==Plot==\n \n\n==Major events==\nand Margo return to the simulation, but now view the events from the eyes of a boy named Norbert.\nNorbert is attacked by Agee, but is saved by , who defeats the Pokémon hunters and forces them to retreat.\nThe between Zeraora and Agee's ends up setting the area on fire.\nWhile Zeraora rescues the wild Pokémon, Norbert tries to escape, only for his to get trapped under some falling tree branches.\nNorbert and Zeraora work together to rescue Elekid, but once they save it, a large explosion occurs and Elekid is nowhere to be seen.\nAngered at the apparent loss of Elekid, Zeraora lets out a loud roar, which summons .\n\n===Debuts===\n====Humans====\nNorbert\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMargo\nDr. Hawthorn\nNorbert (simulation)\nAgee (simulation)\n(simulation)\n\n===Pokémon===\n( )\n(Dr. Hawthorn's)\n(Norbert's; simulation)\n(Agee's; simulation)\n( ; simulation)\n( ; simulation)\n(simulation)\n(simulation)\n(simulation)\n\n==In other languages==\n \n \n \nes:MP21-02\nit:ESEZ2\nzh:M21M02",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Norbert's Courage (Japanese: ノゾムの勇気 's Courage) is the second chapter of Pokémon the Movie: The Power of Us: Zeraora's Story."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and Margo return to the simulation, but now view the events from the eyes of a boy named Norbert.\nNorbert is attacked by Agee, but is saved by , who defeats the Pokémon hunters and forces them to retreat.\nThe between Zeraora and Agee's ends up setting the area on fire.\nWhile Zeraora rescues the wild Pokémon, Norbert tries to escape, only for his to get trapped under some falling tree branches.\nNorbert and Zeraora work together to rescue Elekid, but once they save it, a large explosion occurs and Elekid is nowhere to be seen.\nAngered at the apparent loss of Elekid, Zeraora lets out a loud roar, which summons ."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Norbert"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Margo\nDr. Hawthorn\nNorbert (simulation)\nAgee (simulation)\n(simulation)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Dr. Hawthorn's)\n(Norbert's; simulation)\n(Agee's; simulation)\n( ; simulation)\n( ; simulation)\n(simulation)\n(simulation)\n(simulation)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:MP21-02\nit:ESEZ2\nzh:M21M02"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ESEZ2",
+    "pageType": "manga-series",
+    "searchableText": "ESEZ2\nCategory:Manga stubs\nNorbert's Courage (Japanese: ノゾムの勇気 's Courage) is the second chapter of Pokémon the Movie: The Power of Us: Zeraora's Story.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1146,
+    "sectionCount": 6
+  }
+}

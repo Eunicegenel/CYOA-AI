@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB75",
+    "slug": "rb75",
+    "pageId": 168734,
+    "revisionId": 4256298
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb75__168734.json",
+    "revisionTimestamp": "2025-03-10T00:55:02Z",
+    "fetchedAt": "2026-05-14T15:48:03.055Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 永遠の塔 The Eternal Tower) is the 75th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 永遠の塔 The Eternal Tower) is the 75th chapter of the Pokémon RéBURST manga.\n==Plot==\n \n==Major events==\nFraud continues his broadcast to the world.\nRyouga arrives to battle again.\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nPeople\nFraud\nPauline\nSabin\nSabin's comrades\nRyouga\nRyouga's grandparents\nHaruna\nGaryū (photo)\n\n===Pokémon===\n(Ryouga's)\n(Fraud's)\n(Fraud's)\n(Fraud's)\n(Fraud's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB75",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 永遠の塔 The Eternal Tower) is the 75th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Fraud continues his broadcast to the world.\nRyouga arrives to battle again."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "People\nFraud\nPauline\nSabin\nSabin's comrades\nRyouga\nRyouga's grandparents\nHaruna\nGaryū (photo)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ryouga's)\n(Fraud's)\n(Fraud's)\n(Fraud's)\n(Fraud's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB75"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB75",
+    "pageType": "chapter",
+    "searchableText": "RB75\nCategory:Pokémon RéBURST chapters\n(Japanese: 永遠の塔 The Eternal Tower) is the 75th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 442,
+    "sectionCount": 4
+  }
+}

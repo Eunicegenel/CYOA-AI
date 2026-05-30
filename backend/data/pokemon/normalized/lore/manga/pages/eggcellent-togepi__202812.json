@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Eggcellent Togepi",
+    "slug": "eggcellent-togepi",
+    "pageId": 202812,
+    "revisionId": 4168561
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "eggcellent-togepi__202812.json",
+    "revisionTimestamp": "2024-10-26T18:56:01Z",
+    "fetchedAt": "2026-05-14T15:17:52.477Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Eggcellent Togepi is the twenty-second monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 33rd and 34th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Eggcellent Togepi is the twenty-second monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 33rd and 34th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n==Blurb==\nSURROGATE POKéMON\n\nHazel finds an egg floating down the river one day, but while Pikachu and Clefairy are acting as egg-sitters, the rest of the Pokémon are thinking about what kind of omelet they want to make! Will this egg hatch or become breakfast?\n\n==Publications==\n \n \n\n==Chapters==\nEggcellent Togepi\nThe Great Togepi Disaster\n\n==Important events==\nThis was the first Issue with Pokémon first introduced in the second generation.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Eggcellent Togepi is the twenty-second monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 33rd and 34th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "SURROGATE POKéMON\n\nHazel finds an egg floating down the river one day, but while Pikachu and Clefairy are acting as egg-sitters, the rest of the Pokémon are thinking about what kind of omelet they want to make! Will this egg hatch or become breakfast?"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Eggcellent Togepi\nThe Great Togepi Disaster"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "This was the first Issue with Pokémon first introduced in the second generation."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Eggcellent Togepi",
+    "pageType": "pokemon-related",
+    "searchableText": "Eggcellent Togepi\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Eggcellent Togepi is the twenty-second monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 33rd and 34th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 834,
+    "sectionCount": 4
+  }
+}

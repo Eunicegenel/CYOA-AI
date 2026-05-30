@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon: Yeah! I Got Pokémon! volume 5",
+    "slug": "pokemon-yeah-i-got-pokemon-volume-5",
+    "pageId": 162599,
+    "revisionId": 4526906
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! volumes",
+    "sourceFileName": "pokemon-yeah-i-got-pokemon-volume-5__162599.json",
+    "revisionTimestamp": "2026-04-09T15:11:34Z",
+    "fetchedAt": "2026-05-14T15:38:32.358Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 5 is the fifth and final volume of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "Volume 5 is the fifth and final volume of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Publications==\n \n \n \n\n==Chapters==\nGet 1: A Grand, Mid-air Battle with a Rival!\nGet 2: Hunting a Big One in the Desert!\nGet 3: Who'll Get Swinub-chan?\nGet 4: Real? Fake? The Scroll of Ho-Oh\nGet 5: Shu and the Twins, Battle of Tricksters!\nGet 6: A Battle of Wills, Wobbuffet!\nGet 7: Guardian Deity of the Sea (Part One)\nGet 8: Guardian Deity of the Sea (Part Two)\nGet 9: Goodbye, Pikachu!?\nGet 10: Enter Celebi!\nGet 11: Fierce Battle with the Houndour Pack!\nGet 12: I Caught Sneasel, But...!?\nGet 13: Sneasel's Troublesome Habit!\nGet 14: Catch Celebi! (Part One)\nGet 15: Catch Celebi! (Part Two)\nSpecial Get 1: Use Your Head to Catch Wooper!\nSpecial Get 2: My First Kiss is a Lovely Kiss!?\nSpecial Get 3: Going Pole-fishing, the Humongous Gyarados!\n\n==Important events==\n\n==Party changes==\n===Additions===\n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 5 is the fifth and final volume of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Get 1: A Grand, Mid-air Battle with a Rival!\nGet 2: Hunting a Big One in the Desert!\nGet 3: Who'll Get Swinub-chan?\nGet 4: Real? Fake? The Scroll of Ho-Oh\nGet 5: Shu and the Twins, Battle of Tricksters!\nGet 6: A Battle of Wills, Wobbuffet!\nGet 7: Guardian Deity of the Sea (Part One)\nGet 8: Guardian Deity of the Sea (Part Two)\nGet 9: Goodbye, Pikachu!?\nGet 10: Enter Celebi!\nGet 11: Fierce Battle with the Houndour Pack!\nGet 12: I Caught Sneasel, But...!?\nGet 13: Sneasel's Troublesome Habit!\nGet 14: Catch Celebi! (Part One)\nGet 15: Catch Celebi! (Part Two)\nSpecial Get 1: Use Your Head to Catch Wooper!\nSpecial Get 2: My First Kiss is a Lovely Kiss!?\nSpecial Get 3: Going Pole-fishing, the Humongous Gyarados!"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon: Yeah! I Got Pokémon! volume 5",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon: Yeah! I Got Pokémon! volume 5\nCategory:Pokémon: Yeah! I Got Pokémon! volumes\nVolume 5 is the fifth and final volume of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 902,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "TA42",
+    "slug": "ta42",
+    "pageId": 188216,
+    "revisionId": 2805088
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta42__188216.json",
+    "revisionTimestamp": "2018-06-09T06:15:30Z",
+    "fetchedAt": "2026-05-14T15:50:58.239Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ポカブの勇気 's Courage) is the 42nd chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: ポカブの勇気 's Courage) is the 42nd chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nToki\nManami\n\n===Pokémon===\n(Manami's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポカブの勇気 's Courage) is the 42nd chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Toki\nManami"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Manami's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA42",
+    "pageType": "chapter",
+    "searchableText": "TA42\nCategory:Pokémon Try Adventure chapters\n(Japanese: ポカブの勇気 's Courage) is the 42nd chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 220,
+    "sectionCount": 3
+  }
+}

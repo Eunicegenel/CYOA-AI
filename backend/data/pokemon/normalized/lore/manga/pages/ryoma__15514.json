@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Ryoma",
+    "slug": "ryoma",
+    "pageId": 15514,
+    "revisionId": 4398474
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "ryoma__15514.json",
+    "revisionTimestamp": "2025-10-12T11:59:29Z",
+    "fetchedAt": "2026-05-14T15:48:42.911Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ryoma (Japanese: リョウマ Ryōma) is a minor character in Pokémon: Yeah! I Got Pokémon! and a rival of Shu. He dresses as a and owns a highly mischievous .",
+  "plainText": "Ryoma (Japanese: リョウマ Ryōma) is a minor character in Pokémon: Yeah! I Got Pokémon! and a rival of Shu. He dresses as a and owns a highly mischievous .\n\n==Character==\nRyoma thought of Shu as an amateur Trainer when they first met. After the battle, Ryoma begins to respect him.\n\n==History==\nRyoma first appeared in A Farfetch'd Fencing Match! where he stopped Shu from catching his Farfetch'd, as Shū mistook it for a wild Pokémon. Ryoma explained that his Farfetch'd is unstoppable in terms of speed and power. This made Shu want to battle it in order to prove Ryoma wrong.\n\nThey go to Ryoma's dojo where the battle took place. Shu was in a disadvantage at first as Farfetch'd moved super quick. However, Pikachu was able to win using the technique, Thunder Sword, a technique that Shu came up with. With Ryoma defeated, he returns the belt that his Farfetch'd took earlier.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ryoma (Japanese: リョウマ Ryōma) is a minor character in Pokémon: Yeah! I Got Pokémon! and a rival of Shu. He dresses as a and owns a highly mischievous ."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Ryoma thought of Shu as an amateur Trainer when they first met. After the battle, Ryoma begins to respect him."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Ryoma first appeared in A Farfetch'd Fencing Match! where he stopped Shu from catching his Farfetch'd, as Shū mistook it for a wild Pokémon. Ryoma explained that his Farfetch'd is unstoppable in terms of speed and power. This made Shu want to battle it in order to prove Ryoma wrong.\n\nThey go to Ryoma's dojo where the battle took place. Shu was in a disadvantage at first as Farfetch'd moved super quick. However, Pikachu was able to win using the technique, Thunder Sword, a technique that Shu came up with. With Ryoma defeated, he returns the belt that his Farfetch'd took earlier."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ryoma",
+    "pageType": "character",
+    "searchableText": "Ryoma\nCategory:Pokémon: Yeah! I Got Pokémon! characters\nRyoma (Japanese: リョウマ Ryōma) is a minor character in Pokémon: Yeah! I Got Pokémon! and a rival of Shu. He dresses as a and owns a highly mischievous .",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History"
+    ],
+    "characterCount": 887,
+    "sectionCount": 3
+  }
+}

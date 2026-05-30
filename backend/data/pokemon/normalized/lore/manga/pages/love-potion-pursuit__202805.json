@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Love Potion Pursuit",
+    "slug": "love-potion-pursuit",
+    "pageId": 202805,
+    "revisionId": 4168528
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "love-potion-pursuit__202805.json",
+    "revisionTimestamp": "2024-10-26T18:09:44Z",
+    "fetchedAt": "2026-05-14T15:25:07.110Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Love Potion Pursuit is the fourteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 21st and 22nd chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Love Potion Pursuit is the fourteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 21st and 22nd chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n \n==Blurb==\nTHE PERFECT PLAN\n\nThat hunk of a Pokemon trainer Pistachio is back, and he brought his jealous Bulbasaur along too! This time, Gramps and Bulbasaur have struck a deal--if Bulbasaur can retrieve a special mushroom from the back of a Paras, Gramps will whip up a batch of love potion for it to charm Pistachio! But things do not go according to plan for Bulbasaur and soon it and the rest of the Pokemon find themselves in over their head...literally!\n\n==Publications==\n \n \n\n==Chapters==\nFollow that Love Potion!\nPidgeot Loves Pidgetta\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Love Potion Pursuit is the fourteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 21st and 22nd chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "THE PERFECT PLAN\n\nThat hunk of a Pokemon trainer Pistachio is back, and he brought his jealous Bulbasaur along too! This time, Gramps and Bulbasaur have struck a deal--if Bulbasaur can retrieve a special mushroom from the back of a Paras, Gramps will whip up a batch of love potion for it to charm Pistachio! But things do not go according to plan for Bulbasaur and soon it and the rest of the Pokemon find themselves in over their head...literally!"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Follow that Love Potion!\nPidgeot Loves Pidgetta"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Love Potion Pursuit",
+    "pageType": "pokemon-related",
+    "searchableText": "Love Potion Pursuit\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Love Potion Pursuit is the fourteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 21st and 22nd chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters"
+    ],
+    "characterCount": 956,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "FAT5",
+    "slug": "fat5",
+    "pageId": 150391,
+    "revisionId": 3778303
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW: The Heroes of Fire and Thunder",
+    "sourceFileName": "fat5__150391.json",
+    "revisionTimestamp": "2023-08-22T10:10:22Z",
+    "fetchedAt": "2026-05-14T15:18:47.607Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Clash! White Hero vs Black Hero (Japanese: 激突！白の英雄VS黒の英雄 Clash! White Hero vs Black Hero) is the fifth and final chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga.",
+  "plainText": "Clash! White Hero vs Black Hero (Japanese: 激突！白の英雄VS黒の英雄 Clash! White Hero vs Black Hero) is the fifth and final chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga.\n\n==Plot==\n \n\n==Major events==\nShin defeats N and gets him to disband Team Plasma and rethink his ideals.\n\n===Debuts===\n====Pokémon debuts====\n\n(both)\n\n==Characters==\n===Humans===\n\nN\nAlder\n\n===Pokémon===\n( )\n( 's)\n(N's)\n\n(×2; male and female)\n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clash! White Hero vs Black Hero (Japanese: 激突！白の英雄VS黒の英雄 Clash! White Hero vs Black Hero) is the fifth and final chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Shin defeats N and gets him to disband Team Plasma and rethink his ideals."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(both)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "N\nAlder"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's)\n(N's)\n\n(×2; male and female)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "FAT5",
+    "pageType": "general-manga-lore",
+    "searchableText": "FAT5\nCategory:Pocket Monsters BW: The Heroes of Fire and Thunder\nClash! White Hero vs Black Hero (Japanese: 激突！白の英雄VS黒の英雄 Clash! White Hero vs Black Hero) is the fifth and final chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 439,
+    "sectionCount": 5
+  }
+}

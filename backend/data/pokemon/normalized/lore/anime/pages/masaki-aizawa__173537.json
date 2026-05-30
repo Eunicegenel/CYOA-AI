@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Masaki Aizawa",
+    "slug": "masaki-aizawa",
+    "pageId": 173537,
+    "revisionId": 4323359
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "masaki-aizawa__173537.json",
+    "revisionTimestamp": "2025-06-24T03:28:45Z",
+    "fetchedAt": "2026-05-14T14:35:24.015Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Masaki Aizawa (相沢まさき Aizawa Masaki) is a Japanese voice actor for .",
+  "plainText": "Masaki Aizawa (相沢まさき Aizawa Masaki) is a Japanese voice actor for .\n\n==Biography==\nAizawa was born on January 19, 1965 in , . He began to provide voices for near the end of , where his first role was Professor Telesu. His most prominent roles are two villainous team leaders: Archie, the leader of Team Aqua from ; and Ghetsis, the leader of Team Plasma from . Later, in , he played one of the four island kahunas, Nanu. Aizawa is currently affiliated with OFFICE OSAWA.\n\n==Pokémon roles==\n===Animation===\n==== ====\nArchie\nGhetsis\nProfessor Telesu\nProprietor\nKeanan\nNanu\n\n==Other non-Pokémon roles==\nNoman ( )\nAllstars Group Manager Douglas ( )\nGonjo ( )\nTetsuya Omura ( )\nKentarumon ( )\nBilly ( )\nDate Eiji ( )\nSoichi Amami ( )\nEiji Date ( )\nHeikichi Todou ( )\nHirofumi Takatori ( )\nVincent ( )\nSidney Sithole ( )\nZest ( )\nJyuji Egami ( )\nHanzaki, Hachibi no Kyogyū ( )\nGyûki ( ; )\nIdeo and Wiper ( )\nTomonori Tachibana ( )\nMiguel ( )\nMonjirou Gori ( )\nSun Jian ( )\nShouryuu ( )\n\n==External links==\nTwitter\nAnime News Network\n\n \n \n\nit:Masaki Aizawa\nja:相沢まさき",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Masaki Aizawa (相沢まさき Aizawa Masaki) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Aizawa was born on January 19, 1965 in , . He began to provide voices for near the end of , where his first role was Professor Telesu. His most prominent roles are two villainous team leaders: Archie, the leader of Team Aqua from ; and Ghetsis, the leader of Team Plasma from . Later, in , he played one of the four island kahunas, Nanu. Aizawa is currently affiliated with OFFICE OSAWA."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Archie\nGhetsis\nProfessor Telesu\nProprietor\nKeanan\nNanu"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Noman ( )\nAllstars Group Manager Douglas ( )\nGonjo ( )\nTetsuya Omura ( )\nKentarumon ( )\nBilly ( )\nDate Eiji ( )\nSoichi Amami ( )\nEiji Date ( )\nHeikichi Todou ( )\nHirofumi Takatori ( )\nVincent ( )\nSidney Sithole ( )\nZest ( )\nJyuji Egami ( )\nHanzaki, Hachibi no Kyogyū ( )\nGyûki ( ; )\nIdeo and Wiper ( )\nTomonori Tachibana ( )\nMiguel ( )\nMonjirou Gori ( )\nSun Jian ( )\nShouryuu ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nAnime News Network\n\n \n \n\nit:Masaki Aizawa\nja:相沢まさき"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Masaki Aizawa",
+    "pageType": "general-anime-lore",
+    "searchableText": "Masaki Aizawa\nCategory:Japanese voice actors\nMasaki Aizawa (相沢まさき Aizawa Masaki) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1058,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pokémon Gold & Silver: The Golden Boys chapters",
+    "slug": "list-of-pokemon-gold-and-silver-the-golden-boys-chapters",
+    "pageId": 176461,
+    "revisionId": 4131929
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys chapters",
+    "sourceFileName": "list-of-pokemon-gold-and-silver-the-golden-boys-chapters__176461.json",
+    "revisionTimestamp": "2024-09-29T04:27:21Z",
+    "fetchedAt": "2026-05-14T15:24:47.104Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The following is a list of chapters from the Pokémon Gold & Silver: The Golden Boys manga created by Muneo Saitō. Altogether, there are 23 chapters.",
+  "plainText": "The following is a list of chapters from the Pokémon Gold & Silver: The Golden Boys manga created by Muneo Saitō. Altogether, there are 23 chapters.\n\n==List of chapters==\n \n\n \n\n \n \n\nit:Elenco dei capitoli di Gold & Silver: The Golden Boys\nzh:宝可梦金・银版 黄金少年回数列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of chapters from the Pokémon Gold & Silver: The Golden Boys manga created by Muneo Saitō. Altogether, there are 23 chapters."
+    },
+    {
+      "heading": "List of chapters",
+      "level": 2,
+      "text": "it:Elenco dei capitoli di Gold & Silver: The Golden Boys\nzh:宝可梦金・银版 黄金少年回数列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon Gold & Silver: The Golden Boys chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Pokémon Gold & Silver: The Golden Boys chapters\nCategory:Pokémon Gold & Silver: The Golden Boys chapters\nThe following is a list of chapters from the Pokémon Gold & Silver: The Golden Boys manga created by Muneo Saitō. Altogether, there are 23 chapters.",
+    "sectionHeadings": [
+      "Lead",
+      "List of chapters"
+    ],
+    "characterCount": 258,
+    "sectionCount": 2
+  }
+}

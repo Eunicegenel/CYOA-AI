@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Jim Malone",
+    "slug": "jim-malone",
+    "pageId": 222568,
+    "revisionId": 4190825
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:4Kids voice actors",
+    "sourceFileName": "jim-malone__222568.json",
+    "revisionTimestamp": "2024-11-24T01:42:17Z",
+    "fetchedAt": "2026-05-14T14:26:09.820Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Jim Malone is a voice actor for the English dub of . He also acted as a voice director from the first season through the fourth season at TAJ Productions.",
+  "plainText": "Jim Malone is a voice actor for the English dub of . He also acted as a voice director from the first season through the fourth season at TAJ Productions.\n\n==Pokémon roles==\n===Animation===\n==== ====\nDanny\n\n==Producer credits==\nPokémon Hoedown\nWe Will Meet Again\n\n \n\n \n\n \n \n \n\nit:Jim Malone",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jim Malone is a voice actor for the English dub of . He also acted as a voice director from the first season through the fourth season at TAJ Productions."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Danny"
+    },
+    {
+      "heading": "Producer credits",
+      "level": 2,
+      "text": "Pokémon Hoedown\nWe Will Meet Again\n\n \n\n \n\n \n \n \n\nit:Jim Malone"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jim Malone",
+    "pageType": "general-anime-lore",
+    "searchableText": "Jim Malone\nCategory:4Kids voice actors\nJim Malone is a voice actor for the English dub of . He also acted as a voice director from the first season through the fourth season at TAJ Productions.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Producer credits"
+    ],
+    "characterCount": 290,
+    "sectionCount": 3
+  }
+}

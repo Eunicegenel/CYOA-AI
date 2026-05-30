@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Saburo Sakaki",
+    "slug": "saburo-sakaki",
+    "pageId": 300764,
+    "revisionId": 4523854
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures characters",
+    "sourceFileName": "saburo-sakaki__300764.json",
+    "revisionTimestamp": "2026-04-06T14:05:26Z",
+    "fetchedAt": "2026-05-14T14:47:54.512Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Saburo Sakaki (Japanese: 榊三郎 Sakaki Saburō) is a character in A Pocketful of Adventures. He is a young designer who worked for Rocket Cosmetics.",
+  "plainText": "Saburo Sakaki (Japanese: 榊三郎 Sakaki Saburō) is a character in A Pocketful of Adventures. He is a young designer who worked for Rocket Cosmetics.\n==History==\n==Character==\n==Names==\n \n\n==Trivia==\nSaburo Sakaki's appearance and likeness are based on Giovanni.\nIt is said in the episode that he has three other brothers, a reference to the Four Rocket Brothers present in the Generation I games .\n\n==Names==\n \n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Saburo Sakaki (Japanese: 榊三郎 Sakaki Saburō) is a character in A Pocketful of Adventures. He is a young designer who worked for Rocket Cosmetics."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Saburo Sakaki's appearance and likeness are based on Giovanni.\nIt is said in the episode that he has three other brothers, a reference to the Four Rocket Brothers present in the Generation I games ."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Saburo Sakaki",
+    "pageType": "character",
+    "searchableText": "Saburo Sakaki\nCategory:A Pocketful of Adventures characters\nSaburo Sakaki (Japanese: 榊三郎 Sakaki Saburō) is a character in A Pocketful of Adventures. He is a young designer who worked for Rocket Cosmetics.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 422,
+    "sectionCount": 2
+  }
+}

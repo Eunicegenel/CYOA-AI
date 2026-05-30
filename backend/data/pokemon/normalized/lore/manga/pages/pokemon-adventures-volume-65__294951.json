@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Adventures volume 65",
+    "slug": "pokemon-adventures-volume-65",
+    "pageId": 294951,
+    "revisionId": 4463107
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-adventures-volume-65__294951.json",
+    "revisionTimestamp": "2026-01-06T13:39:48Z",
+    "fetchedAt": "2026-05-14T15:35:39.448Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 65 is the 65th volume of the Pokémon Adventures manga. It is both the fourth and final volume in the . It is authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.",
+  "plainText": "Volume 65 is the 65th volume of the Pokémon Adventures manga. It is both the fourth and final volume in the . It is authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.\n\n==Publications==\n \n \n\n==Chapters==\nPS617\n\n \n==Trivia==\nThe release date for this volume was delayed multiple times. It was initially scheduled to release on October 27, 2023, but was subsequently delayed to January 26, 2024, March 28, 2024, May 28, 2024, September 27, 2024, December 27, 2024, December 26, 2025, and June 26, 2026. The latter date, though, seems to be a placeholder since Satoshi Yamamoto stated the actual release date is yet to be confirmed.\n\n \n \n\nde:Band 65 (Pocket Monsters SPECIAL)\nes:Tomo 65 (Pocket Monsters Special)\nfr:Tome 65 (Pocket Monsters Special)\nja:ポケットモンスターSPECIAL 第65巻\nzh:宝可梦特别篇65",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 65 is the 65th volume of the Pokémon Adventures manga. It is both the fourth and final volume in the . It is authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "PS617"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The release date for this volume was delayed multiple times. It was initially scheduled to release on October 27, 2023, but was subsequently delayed to January 26, 2024, March 28, 2024, May 28, 2024, September 27, 2024, December 27, 2024, December 26, 2025, and June 26, 2026. The latter date, though, seems to be a placeholder since Satoshi Yamamoto stated the actual release date is yet to be confirmed.\n\n \n \n\nde:Band 65 (Pocket Monsters SPECIAL)\nes:Tomo 65 (Pocket Monsters Special)\nfr:Tome 65 (Pocket Monsters Special)\nja:ポケットモンスターSPECIAL 第65巻\nzh:宝可梦特别篇65"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Adventures volume 65",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Adventures volume 65\nCategory:Pokémon Adventures volumes\nVolume 65 is the 65th volume of the Pokémon Adventures manga. It is both the fourth and final volume in the . It is authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Trivia"
+    ],
+    "characterCount": 796,
+    "sectionCount": 3
+  }
+}

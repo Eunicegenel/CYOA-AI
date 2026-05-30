@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMDP60",
+    "slug": "pmdp60",
+    "pageId": 176441,
+    "revisionId": 4528101
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp60__176441.json",
+    "revisionTimestamp": "2026-04-09T16:06:58Z",
+    "fetchedAt": "2026-05-14T15:32:50.857Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: インチキスロットの秘密を探れ！！ Uncover the Secret of the Rigged Slots!!) is the sixtieth and final chapter of the manga.",
+  "plainText": "(Japanese: インチキスロットの秘密を探れ！！ Uncover the Secret of the Rigged Slots!!) is the sixtieth and final chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nCharon\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nLooker\nCharon\nTeam Galactic\n\n===Pokémon===\n( )\n( )\n( )\n(Charon's)\n(Charon's)\n(Charon's)\n(Charon's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: インチキスロットの秘密を探れ！！ Uncover the Secret of the Rigged Slots!!) is the sixtieth and final chapter of the manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Charon"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Looker\nCharon\nTeam Galactic"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Charon's)\n(Charon's)\n(Charon's)\n(Charon's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP60",
+    "pageType": "chapter",
+    "searchableText": "PMDP60\nCategory:Pocket Monsters DP chapters\n(Japanese: インチキスロットの秘密を探れ！！ Uncover the Secret of the Rigged Slots!!) is the sixtieth and final chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 336,
+    "sectionCount": 4
+  }
+}

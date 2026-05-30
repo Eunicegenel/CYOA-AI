@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "ABM10",
+    "slug": "abm10",
+    "pageId": 191812,
+    "revisionId": 4526475
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abm10__191812.json",
+    "revisionTimestamp": "2026-04-09T14:49:17Z",
+    "fetchedAt": "2026-05-14T15:12:11.793Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: バトリオマスターカップ決勝！！ Battrio Master Cup Finals!!) is the 10th chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: バトリオマスターカップ決勝！！ Battrio Master Cup Finals!!) is the 10th chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyū Tendō\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: バトリオマスターカップ決勝！！ Battrio Master Cup Finals!!) is the 10th chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryū Tendō"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABM10",
+    "pageType": "chapter",
+    "searchableText": "ABM10\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: バトリオマスターカップ決勝！！ Battrio Master Cup Finals!!) is the 10th chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 252,
+    "sectionCount": 2
+  }
+}

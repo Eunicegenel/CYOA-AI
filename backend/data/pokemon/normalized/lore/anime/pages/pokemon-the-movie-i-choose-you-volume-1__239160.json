@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon the Movie: I Choose You! volume 1",
+    "slug": "pokemon-the-movie-i-choose-you-volume-1",
+    "pageId": 239160,
+    "revisionId": 3952910
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! (manga)",
+    "sourceFileName": "pokemon-the-movie-i-choose-you-volume-1__239160.json",
+    "revisionTimestamp": "2024-03-11T15:30:48Z",
+    "fetchedAt": "2026-05-14T14:43:41.363Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Volume 1 is the first volume of the I Choose You! Pokémon manga created by 鷹岬 諒 Ryo Takamisaki.",
+  "plainText": "Volume 1 is the first volume of the I Choose You! Pokémon manga created by 鷹岬 諒 Ryo Takamisaki.\n\n==Publications==\n \n \n \n \n\n==Chapters==\nChapter 1\nChapter 2\nChapter 3\nChapter 4\nChapter 5\nChapter 6\nChapter 7\nThe following chapters were only included in Volume 1 in the VIZ Media release:\nChapter 8\nChapter 9\nChapter 10\nChapter 11\nChapter 12\nChapter 13\nChapter 14\nFinal Chapter\n\n \n\nzh:就决定是你了！（漫画）上",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the I Choose You! Pokémon manga created by 鷹岬 諒 Ryo Takamisaki."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 1\nChapter 2\nChapter 3\nChapter 4\nChapter 5\nChapter 6\nChapter 7\nThe following chapters were only included in Volume 1 in the VIZ Media release:\nChapter 8\nChapter 9\nChapter 10\nChapter 11\nChapter 12\nChapter 13\nChapter 14\nFinal Chapter\n\n \n\nzh:就决定是你了！（漫画）上"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon the Movie: I Choose You! volume 1",
+    "pageType": "movie",
+    "searchableText": "Pokémon the Movie: I Choose You! volume 1\nCategory:Pokémon the Movie: I Choose You! (manga)\nVolume 1 is the first volume of the I Choose You! Pokémon manga created by 鷹岬 諒 Ryo Takamisaki.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 394,
+    "sectionCount": 2
+  }
+}

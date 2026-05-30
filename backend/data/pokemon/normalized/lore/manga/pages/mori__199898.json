@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mori",
+    "slug": "mori",
+    "pageId": 199898,
+    "revisionId": 4532192
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY: The Legend of the Pokémon Dragon King characters",
+    "sourceFileName": "mori__199898.json",
+    "revisionTimestamp": "2026-04-14T20:38:27Z",
+    "fetchedAt": "2026-05-14T15:27:01.689Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: モリじい Old Man Mori) is a character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He debuted in LDK0. He is an old man who guided and to Mega Evolution.",
+  "plainText": "(Japanese: モリじい Old Man Mori) is a character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He debuted in LDK0. He is an old man who guided and to Mega Evolution.\n\n==Pokémon==\n \n\n \n\n \n \n \n \n\n \n \n\nit:Mori",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: モリじい Old Man Mori) is a character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He debuted in LDK0. He is an old man who guided and to Mega Evolution."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Mori"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mori",
+    "pageType": "character",
+    "searchableText": "Mori\nCategory:Pocket Monsters XY: The Legend of the Pokémon Dragon King characters\n(Japanese: モリじい Old Man Mori) is a character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He debuted in LDK0. He is an old man who guided and to Mega Evolution.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 218,
+    "sectionCount": 2
+  }
+}

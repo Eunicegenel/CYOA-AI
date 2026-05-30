@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pokémon Adventures chapters",
+    "slug": "list-of-pokemon-adventures-chapters",
+    "pageId": 35431,
+    "revisionId": 4364967
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "list-of-pokemon-adventures-chapters__35431.json",
+    "revisionTimestamp": "2025-08-24T10:30:43Z",
+    "fetchedAt": "2026-05-14T15:24:36.405Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "",
+  "plainText": "== Ranger Stories ==\nThese chapters were published exclusively for the Pokémon Daisuki Club, with the first five being based on the W mission of Pokémon Ranger, and the latter four being based on Pokémon Ranger: Shadows of Almia as a whole. Worked on by the duo of Kusaka and Yamamoto, Pokémon Ranger the Comic: Double Mission is referenced in The Final Dimensional Duel XI and its first chapter was included in The Art of Pokémon Adventures.\n\n=== Pokémon Ranger the Comic: Double Mission ===\n \n\n=== Pokémon Ranger: The Comic – Shadows of Almia ===\n \n \n \n \n\nde:Liste der Manga-Kapitel (Pocket Monsters SPECIAL)\nes:Lista de capítulos de Pocket Monsters Special\nfr:Liste des chapitres de Pocket Monsters Special\nit:Elenco dei capitoli di Pokémon: La Grande Avventura\nja:ポケットモンスターSPECIALのタイトル一覧\nzh:宝可梦特别篇回数列表",
+  "sections": [
+    {
+      "heading": "Ranger Stories",
+      "level": 2,
+      "text": "These chapters were published exclusively for the Pokémon Daisuki Club, with the first five being based on the W mission of Pokémon Ranger, and the latter four being based on Pokémon Ranger: Shadows of Almia as a whole. Worked on by the duo of Kusaka and Yamamoto, Pokémon Ranger the Comic: Double Mission is referenced in The Final Dimensional Duel XI and its first chapter was included in The Art of Pokémon Adventures."
+    },
+    {
+      "heading": "Pokémon Ranger: The Comic – Shadows of Almia",
+      "level": 3,
+      "text": "de:Liste der Manga-Kapitel (Pocket Monsters SPECIAL)\nes:Lista de capítulos de Pocket Monsters Special\nfr:Liste des chapitres de Pocket Monsters Special\nit:Elenco dei capitoli di Pokémon: La Grande Avventura\nja:ポケットモンスターSPECIALのタイトル一覧\nzh:宝可梦特别篇回数列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon Adventures chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Pokémon Adventures chapters\nCategory:Pokémon Adventures chapters",
+    "sectionHeadings": [
+      "Ranger Stories",
+      "Pokémon Ranger: The Comic – Shadows of Almia"
+    ],
+    "characterCount": 805,
+    "sectionCount": 2
+  }
+}

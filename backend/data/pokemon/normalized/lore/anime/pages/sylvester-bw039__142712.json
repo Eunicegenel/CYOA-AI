@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Sylvester (BW039)",
+    "slug": "sylvester-bw039",
+    "pageId": 142712,
+    "revisionId": 4201563
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "sylvester-bw039__142712.json",
+    "revisionTimestamp": "2024-12-12T05:24:32Z",
+    "fetchedAt": "2026-05-14T14:52:51.281Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Sylvester (Japanese: サンシロー Sanshirō) is a character of the day who appeared in Reunion Battles In Nimbasa!. He participated in the Club Battle tournament, but lost in a against Georgia, thus getting knocked out in the very first round.\n\nHe reappeared in a flashback in A Unova League Evolution!.",
+  "plainText": "Sylvester (Japanese: サンシロー Sanshirō) is a character of the day who appeared in Reunion Battles In Nimbasa!. He participated in the Club Battle tournament, but lost in a against Georgia, thus getting knocked out in the very first round.\n\nHe reappeared in a flashback in A Unova League Evolution!.\n\n==Pokémon==\n \n\nSylvester has at least two other Pokémon as those who entered the Club Battle were required to enter with three Pokémon.\n\n==Pokémon competitions==\nClub Battle - Top 16 (Reunion Battles In Nimbasa!)\n\n==Voice actors==\n \n\n==Trivia==\nSylvester's character design resembles that of Joltik's color scheme.\n \n \n\n \n \n \n\nes:Sylvester\nfr:Sylvain\nit:Sylvester (NB039)\nzh:三四郎",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sylvester (Japanese: サンシロー Sanshirō) is a character of the day who appeared in Reunion Battles In Nimbasa!. He participated in the Club Battle tournament, but lost in a against Georgia, thus getting knocked out in the very first round.\n\nHe reappeared in a flashback in A Unova League Evolution!."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "Sylvester has at least two other Pokémon as those who entered the Club Battle were required to enter with three Pokémon."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Club Battle - Top 16 (Reunion Battles In Nimbasa!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Sylvester's character design resembles that of Joltik's color scheme.\n \n \n\n \n \n \n\nes:Sylvester\nfr:Sylvain\nit:Sylvester (NB039)\nzh:三四郎"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sylvester (BW039)",
+    "pageType": "character",
+    "searchableText": "Sylvester (BW039)\nCategory:Unova characters of the day\nSylvester (Japanese: サンシロー Sanshirō) is a character of the day who appeared in Reunion Battles In Nimbasa!. He participated in the Club Battle tournament, but lost in a against Georgia, thus getting knocked out in the very first round.\n\nHe reappeared in a flashback in A Unova League Evolution!.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions",
+      "Trivia"
+    ],
+    "characterCount": 675,
+    "sectionCount": 4
+  }
+}

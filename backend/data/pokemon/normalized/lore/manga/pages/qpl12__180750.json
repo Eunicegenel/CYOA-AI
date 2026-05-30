@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "QPL12",
+    "slug": "qpl12",
+    "pageId": 180750,
+    "revisionId": 4231336
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters",
+    "sourceFileName": "qpl12__180750.json",
+    "revisionTimestamp": "2025-01-31T11:12:50Z",
+    "fetchedAt": "2026-05-14T15:47:06.041Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: Cute Detective Team Gets Active, Pikka!!) is the 12th chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+  "plainText": "(Japanese: Cute Detective Team Gets Active, Pikka!!) is the 12th chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n\n==Characters==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: Cute Detective Team Gets Active, Pikka!!) is the 12th chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "QPL12",
+    "pageType": "chapter",
+    "searchableText": "QPL12\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters\n(Japanese: Cute Detective Team Gets Active, Pikka!!) is the 12th chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 201,
+    "sectionCount": 1
+  }
+}

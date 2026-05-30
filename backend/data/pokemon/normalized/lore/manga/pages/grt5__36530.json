@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GRT5",
+    "slug": "grt5",
+    "pageId": 36530,
+    "revisionId": 4145137
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mystery Dungeon Ginji's Rescue Team chapters",
+    "sourceFileName": "grt5__36530.json",
+    "revisionTimestamp": "2024-10-14T03:30:03Z",
+    "fetchedAt": "2026-05-14T15:20:58.527Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Why I Became a Pokémon. The Answer Finally Revealed!! (Japanese: たたりの真実 The Truth of the Curse) is the fifth chapter of the Pokémon Mystery Dungeon: Ginji's Rescue Team manga.",
+  "plainText": "Why I Became a Pokémon. The Answer Finally Revealed!! (Japanese: たたりの真実 The Truth of the Curse) is the fifth chapter of the Pokémon Mystery Dungeon: Ginji's Rescue Team manga.\n \n\n==Plot==\nGinji and Mudkip reach a dungeon that is \"almost like a maze\", as said Mudkip. The two rush through and end up back at the start. They soon encounter Team A.C.T. who have, like Zapdos, Moltres, etc., been fooled by Gengar's rumors. Alakazam tells the two that they are on a rescue mission for Mudkip. Tyranitar snatches Ginji and Alakazam explains to Mudkip that he's the one being fooled. Ginji had defeated Zapdos and Moltres without training of any sort, and that that would normally be impossible. Ginji escapes from Tyranitar's grasp and a fight begins.\n\nCharizard uses , which both Ginji and Mudkip avoid. Tyranitar uses , from which Ginji tries to escape, but almost immediately, Alakazam unleashes . Mudkip and Ginji use and , respectively, on Tyranitar. Ginji uses a solo move combo of and , and Mudkip uses . Charizard faints. Alakazam's allies soon rise up and the brawl continues briefly. Ninetales arrives on the scene and the quarrel immediately ceases. Ninetales reveals that Ginji is not the cursed human being and that Gengar is the cursed human causing the natural disasters. Only Ginji can avert these calamities. Mudkip tries to convince Ginji not to fight the slowly awakening Groudon, but Ginji refuses to listen to Mudkip's ramblings. Team A.C.T. teams up with Ginji and Mudkip to fight Groudon.\n\n==Characters==\n===Pokémon===\n(Ginji)\n( )\n(Team A.C.T.)\n(Team A.C.T.)\n(Team A.C.T.)\n(Team Meanies)\n\n(flashback)\n(flashback)\n(flashback)\n\n===Humans===\nGinji (flashback)\nMultiple people (flashback)\n\n==Trivia==\nIn the English translation by VIZ Media, this chapter was only given a title in the magazine version published in Nintendo Power. In the volume version, it is simply titled Chapter Five.\n\n \n\n \n\nes:PMM005\nfr:PDM : Les secouristes de Ginji - Chapitre 5\nit:GRT5\nzh:GRT5",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Why I Became a Pokémon. The Answer Finally Revealed!! (Japanese: たたりの真実 The Truth of the Curse) is the fifth chapter of the Pokémon Mystery Dungeon: Ginji's Rescue Team manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Ginji and Mudkip reach a dungeon that is \"almost like a maze\", as said Mudkip. The two rush through and end up back at the start. They soon encounter Team A.C.T. who have, like Zapdos, Moltres, etc., been fooled by Gengar's rumors. Alakazam tells the two that they are on a rescue mission for Mudkip. Tyranitar snatches Ginji and Alakazam explains to Mudkip that he's the one being fooled. Ginji had defeated Zapdos and Moltres without training of any sort, and that that would normally be impossible. Ginji escapes from Tyranitar's grasp and a fight begins.\n\nCharizard uses , which both Ginji and Mudkip avoid. Tyranitar uses , from which Ginji tries to escape, but almost immediately, Alakazam unleashes . Mudkip and Ginji use and , respectively, on Tyranitar. Ginji uses a solo move combo of and , and Mudkip uses . Charizard faints. Alakazam's allies soon rise up and the brawl continues briefly. Ninetales arrives on the scene and the quarrel immediately ceases. Ninetales reveals that Ginji is not the cursed human being and that Gengar is the cursed human causing the natural disasters. Only Ginji can avert these calamities. Mudkip tries to convince Ginji not to fight the slowly awakening Groudon, but Ginji refuses to listen to Mudkip's ramblings. Team A.C.T. teams up with Ginji and Mudkip to fight Groudon."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ginji)\n( )\n(Team A.C.T.)\n(Team A.C.T.)\n(Team A.C.T.)\n(Team Meanies)\n\n(flashback)\n(flashback)\n(flashback)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ginji (flashback)\nMultiple people (flashback)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the English translation by VIZ Media, this chapter was only given a title in the magazine version published in Nintendo Power. In the volume version, it is simply titled Chapter Five.\n\n \n\n \n\nes:PMM005\nfr:PDM : Les secouristes de Ginji - Chapitre 5\nit:GRT5\nzh:GRT5"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GRT5",
+    "pageType": "chapter",
+    "searchableText": "GRT5\nCategory:Pokémon Mystery Dungeon Ginji's Rescue Team chapters\nWhy I Became a Pokémon. The Answer Finally Revealed!! (Japanese: たたりの真実 The Truth of the Curse) is the fifth chapter of the Pokémon Mystery Dungeon: Ginji's Rescue Team manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Pokémon",
+      "Humans",
+      "Trivia"
+    ],
+    "characterCount": 1981,
+    "sectionCount": 5
+  }
+}

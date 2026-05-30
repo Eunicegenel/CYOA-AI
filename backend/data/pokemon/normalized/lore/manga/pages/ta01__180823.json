@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "TA01",
+    "slug": "ta01",
+    "pageId": 180823,
+    "revisionId": 4549179
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta01__180823.json",
+    "revisionTimestamp": "2026-05-11T01:25:06Z",
+    "fetchedAt": "2026-05-14T15:50:32.795Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 運命の出会い A Fateful Meeting) is the first chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 運命の出会い A Fateful Meeting) is the first chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \nThe story starts with Katsuya engaged in a Pokemon battle against a man who was bullying a Cherubi. Katsuya's Shinx attacks the bully's Magmortar and this successfully scares off the bully. We then see that Katsuya was explaining the incident to a man working at a restaurant. The man compliments him on his battle skills, telling him that it was impressive that he was able to win with little Pokemon, but Katsuya says that it was all thanks to his team's combined power. Katsuya also reveals that he is here for a job, but doesn't quite reveal what it is yet. That's when we are introduced to Soro, who agrees with Katsuya that Pokemon are the best, although they both think different aspects of Pokemon are the best, with Katsuya saying that it's the battles while Soro says it's the collecting. They get a bit heated over this, but Toki is introduced as he tells them to be careful, but before he can fully explain they are all recognized as three talented trainers, and as such are immediately put in a simulation where their skills are put to the test.\n\n==Major events==\n\n===Debuts===\n====Humans====\nKatsuya\nSoro\nToki\nCaty\nMister Crow\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\nMister Crow (shadowed)\n\n===Pokémon===\n(Lin; Katsuya's)\n(Nanae; Katsuya's)\n(Hikoza; Katsuya's)\n(Chacha; Katsuya's)\n(Katsuya's)\n(Soro's)\n(Kamaru; Toki's)\n(Absō; Toki's)\n(Mister Crow's)\n\n==In other languages==\n \n \n\n \n \n \n\nes:PTR01",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 運命の出会い A Fateful Meeting) is the first chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "The story starts with Katsuya engaged in a Pokemon battle against a man who was bullying a Cherubi. Katsuya's Shinx attacks the bully's Magmortar and this successfully scares off the bully. We then see that Katsuya was explaining the incident to a man working at a restaurant. The man compliments him on his battle skills, telling him that it was impressive that he was able to win with little Pokemon, but Katsuya says that it was all thanks to his team's combined power. Katsuya also reveals that he is here for a job, but doesn't quite reveal what it is yet. That's when we are introduced to Soro, who agrees with Katsuya that Pokemon are the best, although they both think different aspects of Pokemon are the best, with Katsuya saying that it's the battles while Soro says it's the collecting. They get a bit heated over this, but Toki is introduced as he tells them to be careful, but before he can fully explain they are all recognized as three talented trainers, and as such are immediately put in a simulation where their skills are put to the test."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Katsuya\nSoro\nToki\nCaty\nMister Crow"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty\nMister Crow (shadowed)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Lin; Katsuya's)\n(Nanae; Katsuya's)\n(Hikoza; Katsuya's)\n(Chacha; Katsuya's)\n(Katsuya's)\n(Soro's)\n(Kamaru; Toki's)\n(Absō; Toki's)\n(Mister Crow's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:PTR01"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA01",
+    "pageType": "chapter",
+    "searchableText": "TA01\nCategory:Pokémon Try Adventure chapters\n(Japanese: 運命の出会い A Fateful Meeting) is the first chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1550,
+    "sectionCount": 6
+  }
+}

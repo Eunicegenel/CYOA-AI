@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Oscar (Unova)",
+    "slug": "oscar-unova",
+    "pageId": 180742,
+    "revisionId": 4242543
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "oscar-unova__180742.json",
+    "revisionTimestamp": "2025-02-18T23:59:20Z",
+    "fetchedAt": "2026-05-14T14:40:31.974Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Oscar (Japanese: オスカー Oscar) is a character of the day who appeared in Mewtwo — Prologue to Awakening. He lives in the mountains with his granddaughter .\n\nWhen Anna fell while they were hiking in the mountains, he had his rescue her in the nick of time. However, when Oscar was about to pull her back up, the three fell and things were about to get worse until arrived and them back up. It then flew off. When Virgil arrived at their home, making an emergency landing with his helicopter, Oscar told him the story about Mewtwo.\n\nLater, he, Anna, Virgil and a mysterious man named Dirk, who had also encountered Mewtwo, went to the mountains to find Mewtwo. They eventually found it and discovered Dirk had plans of capturing Mewtwo. Together they thwarted his plans, however.",
+  "plainText": "Oscar (Japanese: オスカー Oscar) is a character of the day who appeared in Mewtwo — Prologue to Awakening. He lives in the mountains with his granddaughter .\n\nWhen Anna fell while they were hiking in the mountains, he had his rescue her in the nick of time. However, when Oscar was about to pull her back up, the three fell and things were about to get worse until arrived and them back up. It then flew off. When Virgil arrived at their home, making an emergency landing with his helicopter, Oscar told him the story about Mewtwo.\n\nLater, he, Anna, Virgil and a mysterious man named Dirk, who had also encountered Mewtwo, went to the mountains to find Mewtwo. They eventually found it and discovered Dirk had plans of capturing Mewtwo. Together they thwarted his plans, however.\n\n==Pokémon==\n \n\n==Voice actors==\n \n \n \n\n \n \n \n \n\nes:Óscar\nit:Oscar (Unima)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Oscar (Japanese: オスカー Oscar) is a character of the day who appeared in Mewtwo — Prologue to Awakening. He lives in the mountains with his granddaughter .\n\nWhen Anna fell while they were hiking in the mountains, he had his rescue her in the nick of time. However, when Oscar was about to pull her back up, the three fell and things were about to get worse until arrived and them back up. It then flew off. When Virgil arrived at their home, making an emergency landing with his helicopter, Oscar told him the story about Mewtwo.\n\nLater, he, Anna, Virgil and a mysterious man named Dirk, who had also encountered Mewtwo, went to the mountains to find Mewtwo. They eventually found it and discovered Dirk had plans of capturing Mewtwo. Together they thwarted his plans, however."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Óscar\nit:Oscar (Unima)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Oscar (Unova)",
+    "pageType": "character",
+    "searchableText": "Oscar (Unova)\nCategory:Unova characters of the day\nOscar (Japanese: オスカー Oscar) is a character of the day who appeared in Mewtwo — Prologue to Awakening. He lives in the mountains with his granddaughter .\n\nWhen Anna fell while they were hiking in the mountains, he had his rescue her in the nick of time. However, when Oscar was about to pull her back up, the three fell and things were about to get worse until arrived and them back up. It then flew off. When Virgil arrived at their home, making an emergency landing with his helicopter, Oscar told him the story about Mewtwo.\n\nLater, he, Anna, Virgil and a mysterious man named Dirk, who had also encountered Mewtwo, went to the mountains to find Mewtwo. They eventually found it and discovered Dirk had plans of capturing Mewtwo. Together they thwarted his plans, however.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 850,
+    "sectionCount": 2
+  }
+}

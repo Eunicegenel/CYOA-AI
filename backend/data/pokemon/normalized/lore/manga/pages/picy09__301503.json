@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PICY09",
+    "slug": "picy09",
+    "pageId": 301503,
+    "revisionId": 4528659
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! chapters",
+    "sourceFileName": "picy09__301503.json",
+    "revisionTimestamp": "2026-04-09T16:33:14Z",
+    "fetchedAt": "2026-05-14T15:30:09.677Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Chapter 9 (Japanese: 第９話 Chapter 9) is the ninth chapter of Pokémon the Movie: I Choose You!",
+  "plainText": "Chapter 9 (Japanese: 第９話 Chapter 9) is the ninth chapter of Pokémon the Movie: I Choose You!\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Humans====\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nVerity\nSorrel\n\n===Pokémon===\n( 's)\n( 's; evolves)\n( 's; newly evolved)\n(Verity's)\n(Verity's)\n(Sorrel's)\n( )\n(multiple)\n(Sorrel's family's; flashback)\n\n==Differences between the movie and the manga==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chapter 9 (Japanese: 第９話 Chapter 9) is the ninth chapter of Pokémon the Movie: I Choose You!"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Verity\nSorrel"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( 's; evolves)\n( 's; newly evolved)\n(Verity's)\n(Verity's)\n(Sorrel's)\n( )\n(multiple)\n(Sorrel's family's; flashback)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PICY09",
+    "pageType": "chapter",
+    "searchableText": "PICY09\nCategory:Pokémon the Movie: I Choose You! chapters\nChapter 9 (Japanese: 第９話 Chapter 9) is the ninth chapter of Pokémon the Movie: I Choose You!",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 404,
+    "sectionCount": 3
+  }
+}

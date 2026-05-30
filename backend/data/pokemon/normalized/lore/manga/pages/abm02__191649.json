@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "ABM02",
+    "slug": "abm02",
+    "pageId": 191649,
+    "revisionId": 4526320
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abm02__191649.json",
+    "revisionTimestamp": "2026-04-09T14:35:56Z",
+    "fetchedAt": "2026-05-14T15:12:06.691Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: マスターパックを打ち破れ！ Break a Master Pack!) is the second chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: マスターパックを打ち破れ！ Break a Master Pack!) is the second chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyū Tendō\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: マスターパックを打ち破れ！ Break a Master Pack!) is the second chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryū Tendō"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABM02",
+    "pageType": "chapter",
+    "searchableText": "ABM02\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: マスターパックを打ち破れ！ Break a Master Pack!) is the second chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 246,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASM28",
+    "slug": "pasm28",
+    "pageId": 239189,
+    "revisionId": 4549262
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasm28__239189.json",
+    "revisionTimestamp": "2026-05-11T01:35:07Z",
+    "fetchedAt": "2026-05-14T15:28:33.339Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Arrival at the Scientific Megalopolis (Japanese: 到着！！科学の巨大都市！ Arrival!! The Megalopolis of Science!) is the 28th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Arrival at the Scientific Megalopolis (Japanese: 到着！！科学の巨大都市！ Arrival!! The Megalopolis of Science!) is the 28th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n==Major events==\nZossie introduces and to the Ultra Megalopolis.\nA arrives to battle .\nSun and Moon meet Soliera, another Ultra Recon Squad member.\nSoliera forces Sun and Moon to battle Stakataka to prove their strength.\nLusamine receives a large amount of Beast Balls from disguised as Colress, which she aims to use to capture Necrozma.\n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n(disguised as Colress; silhouette) \n\nLusamine\nZossie\nSoliera\n\n===Pokémon===\n( ; 's)\n(Rotom Pokédex; )\n( )\n( ; )\n( )\n( ; ; fantasy)\n(later 's)\n\n(multiple)\n\n==In other languages==\n \n\n \n\n \n \n \n\nde:Ankunft in der Stadt der Wissenschaft\nes:PMSSM28\nit:PASM28\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第28话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Arrival at the Scientific Megalopolis (Japanese: 到着！！科学の巨大都市！ Arrival!! The Megalopolis of Science!) is the 28th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Zossie introduces and to the Ultra Megalopolis.\nA arrives to battle .\nSun and Moon meet Soliera, another Ultra Recon Squad member.\nSoliera forces Sun and Moon to battle Stakataka to prove their strength.\nLusamine receives a large amount of Beast Balls from disguised as Colress, which she aims to use to capture Necrozma."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(disguised as Colress; silhouette) \n\nLusamine\nZossie\nSoliera"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; 's)\n(Rotom Pokédex; )\n( )\n( ; )\n( )\n( ; ; fantasy)\n(later 's)\n\n(multiple)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Ankunft in der Stadt der Wissenschaft\nes:PMSSM28\nit:PASM28\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第28话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASM28",
+    "pageType": "chapter",
+    "searchableText": "PASM28\nCategory:Pokémon Adventures chapters\nArrival at the Scientific Megalopolis (Japanese: 到着！！科学の巨大都市！ Arrival!! The Megalopolis of Science!) is the 28th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 864,
+    "sectionCount": 5
+  }
+}

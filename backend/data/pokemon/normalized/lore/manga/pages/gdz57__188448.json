@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GDZ57",
+    "slug": "gdz57",
+    "pageId": 188448,
+    "revisionId": 4527709
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz57__188448.json",
+    "revisionTimestamp": "2026-04-09T15:50:38Z",
+    "fetchedAt": "2026-05-14T15:19:57.847Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: でんきポケモン初対決！ First Showdown of the Electric Pokémon!) is the 57th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: でんきポケモン初対決！ First Showdown of the Electric Pokémon!) is the 57th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nTrainer\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nTrainer\n\n===Pokémon===\n( )\n(Trainer's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: でんきポケモン初対決！ First Showdown of the Electric Pokémon!) is the 57th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Trainer"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nTrainer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Trainer's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ57",
+    "pageType": "chapter",
+    "searchableText": "GDZ57\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: でんきポケモン初対決！ First Showdown of the Electric Pokémon!) is the 57th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 290,
+    "sectionCount": 4
+  }
+}

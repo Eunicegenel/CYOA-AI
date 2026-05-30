@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PW01",
+    "slug": "pw01",
+    "pageId": 73002,
+    "revisionId": 4527824
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw01__73002.json",
+    "revisionTimestamp": "2026-04-09T15:55:15Z",
+    "fetchedAt": "2026-05-14T15:46:28.502Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Day Dratini Grew Up (Japanese: ミニリュウがひとつおとなになつた日 The Day Grew Up) is the first chapter of the How I Became a Pokémon Card manga created by Kagemaru Himeno. The card featured in this chapter is .",
+  "plainText": "The Day Dratini Grew Up (Japanese: ミニリュウがひとつおとなになつた日 The Day Grew Up) is the first chapter of the How I Became a Pokémon Card manga created by Kagemaru Himeno. The card featured in this chapter is .\n\n \n\n==Plot==\n wants to be with humans, but when it does, it is captured by humans. The humans are hostile and suspicious with Dratini and lock it in a cage, \nbut Bill convinces them to let him take care of Dratini. When Dratini's parents come to take it back, Bill gives it a seed as a parting gift. The Pokémon Card shows Dratini patiently waiting for the seed to grow. \n\n==Major events==\nwants to be with humans.\n\n==Characters==\n===Humans===\nBill\n\n===Pokémon===\n\n \n \n\nit:PW01",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Day Dratini Grew Up (Japanese: ミニリュウがひとつおとなになつた日 The Day Grew Up) is the first chapter of the How I Became a Pokémon Card manga created by Kagemaru Himeno. The card featured in this chapter is ."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "wants to be with humans, but when it does, it is captured by humans. The humans are hostile and suspicious with Dratini and lock it in a cage, \nbut Bill convinces them to let him take care of Dratini. When Dratini's parents come to take it back, Bill gives it a seed as a parting gift. The Pokémon Card shows Dratini patiently waiting for the seed to grow."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "wants to be with humans."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Bill"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "it:PW01"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW01",
+    "pageType": "chapter",
+    "searchableText": "PW01\nCategory:How I Became a Pokémon Card chapters\nThe Day Dratini Grew Up (Japanese: ミニリュウがひとつおとなになつた日 The Day Grew Up) is the first chapter of the How I Became a Pokémon Card manga created by Kagemaru Himeno. The card featured in this chapter is .",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 676,
+    "sectionCount": 5
+  }
+}

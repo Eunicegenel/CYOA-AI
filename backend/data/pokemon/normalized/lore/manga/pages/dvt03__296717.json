@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "DVT03",
+    "slug": "dvt03",
+    "pageId": 296717,
+    "revisionId": 4528434
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters ~The Detouring Volt Tacklers!!~ chapters",
+    "sourceFileName": "dvt03__296717.json",
+    "revisionTimestamp": "2026-04-09T16:20:14Z",
+    "fetchedAt": "2026-05-14T15:17:48.118Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ３びきめ：ホゲータ 3rd Monster: ) is the third chapter of the Pocket Monsters ~The Detouring Volt Tacklers!!~ manga. It was first published in the November 2023 issue of Ciao, released on October 3, 2023. It is eight pages long.",
+  "plainText": "(Japanese: ３びきめ：ホゲータ 3rd Monster: ) is the third chapter of the Pocket Monsters ~The Detouring Volt Tacklers!!~ manga. It was first published in the November 2023 issue of Ciao, released on October 3, 2023. It is eight pages long.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\nRoy\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\nLiko\nRoy\n\n===Pokémon===\n( )\n(Liko's; Rotom Phone)\n( )\n\n==References==\n \n\n \n \n \n \n\nit:DVT03",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ３びきめ：ホゲータ 3rd Monster: ) is the third chapter of the Pocket Monsters ~The Detouring Volt Tacklers!!~ manga. It was first published in the November 2023 issue of Ciao, released on October 3, 2023. It is eight pages long."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Roy"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Liko\nRoy"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Liko's; Rotom Phone)\n( )"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:DVT03"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "DVT03",
+    "pageType": "chapter",
+    "searchableText": "DVT03\nCategory:Pocket Monsters ~The Detouring Volt Tacklers!!~ chapters\n(Japanese: ３びきめ：ホゲータ 3rd Monster: ) is the third chapter of the Pocket Monsters ~The Detouring Volt Tacklers!!~ manga. It was first published in the November 2023 issue of Ciao, released on October 3, 2023. It is eight pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "References"
+    ],
+    "characterCount": 440,
+    "sectionCount": 6
+  }
+}

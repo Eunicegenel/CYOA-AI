@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Lee Quick",
+    "slug": "lee-quick",
+    "pageId": 148243,
+    "revisionId": 4323493
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:4Kids voice actors",
+    "sourceFileName": "lee-quick__148243.json",
+    "revisionTimestamp": "2025-06-24T03:31:11Z",
+    "fetchedAt": "2026-05-14T14:30:44.593Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Lee Quick is a voice actress for the English dub of . She is also credited as Heather Quick or Heather Lee.",
+  "plainText": "Lee Quick is a voice actress for the English dub of . She is also credited as Heather Quick or Heather Lee.\n\n==Biography==\nQuick was born on August 30, 1968, in Jefferson County, Kentucky. During the 1990s and 2000s, she had a career as a voice actress. Though she got few roles overall, her best-known one was as Officer Jenny from the first season to the seventh season of . Jamie Davyous Owens took over the role in the following season, and Quick has not had any major roles since. She currently resides in New York City, New York.\n\n==Pokémon roles==\n===Animation===\n==== ====\nOfficer Jenny (EP002-AG065, M01-M07, Pokémon Chronicles)\n\n==Other non-Pokémon roles==\nShun Kisaragi/Dorm Lady ( )\nOld Woman ( )\nAi Amatsu/Genshu Amatsu/Mai Amatsu ( )\n\n==External links==\nOfficial website\nAnime News Network\n\n \n \n\nit:Lee Quick",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lee Quick is a voice actress for the English dub of . She is also credited as Heather Quick or Heather Lee."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Quick was born on August 30, 1968, in Jefferson County, Kentucky. During the 1990s and 2000s, she had a career as a voice actress. Though she got few roles overall, her best-known one was as Officer Jenny from the first season to the seventh season of . Jamie Davyous Owens took over the role in the following season, and Quick has not had any major roles since. She currently resides in New York City, New York."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Officer Jenny (EP002-AG065, M01-M07, Pokémon Chronicles)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Shun Kisaragi/Dorm Lady ( )\nOld Woman ( )\nAi Amatsu/Genshu Amatsu/Mai Amatsu ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nAnime News Network\n\n \n \n\nit:Lee Quick"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lee Quick",
+    "pageType": "general-anime-lore",
+    "searchableText": "Lee Quick\nCategory:4Kids voice actors\nLee Quick is a voice actress for the English dub of . She is also credited as Heather Quick or Heather Lee.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 822,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Snorlax's Dream Gourmet",
+    "slug": "snorlaxs-dream-gourmet",
+    "pageId": 302661,
+    "revisionId": 4197159
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga",
+    "sourceFileName": "snorlaxs-dream-gourmet__302661.json",
+    "revisionTimestamp": "2024-12-04T20:04:57Z",
+    "fetchedAt": "2026-05-14T15:49:42.890Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "]]\n(Japanese: カビゴンの夢グルメ 's Dream Gourmet) is a six-chapter Pokémon web manga created by Taku Kuwabara as part of Project Snorlax, being released each Friday at 09:00 UTC. . It was announced in June 2023, originally scheduled for a release in Fall 2023, quietly being delayed until the first chapter released simultaneously on January 19, 2024 on Twitter and Instagram. The final chapter released on February 23rd, 2024. \n\nThe story is about Kumura, a student at Uva Academy who prepares food for her Snorlax.",
+  "plainText": "]]\n(Japanese: カビゴンの夢グルメ 's Dream Gourmet) is a six-chapter Pokémon web manga created by Taku Kuwabara as part of Project Snorlax, being released each Friday at 09:00 UTC. . It was announced in June 2023, originally scheduled for a release in Fall 2023, quietly being delayed until the first chapter released simultaneously on January 19, 2024 on Twitter and Instagram. The final chapter released on February 23rd, 2024. \n\nThe story is about Kumura, a student at Uva Academy who prepares food for her Snorlax.\n\n==Chapters==\n \n\n==Related articles==\nProject Snorlax\n\n==References==\n \n\n \n\n \n\nde:Kabigon no Yume Gourmet\nes:Kabigon no Yume Gurume\nzh:卡比獸的夢想美食",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "]]\n(Japanese: カビゴンの夢グルメ 's Dream Gourmet) is a six-chapter Pokémon web manga created by Taku Kuwabara as part of Project Snorlax, being released each Friday at 09:00 UTC. . It was announced in June 2023, originally scheduled for a release in Fall 2023, quietly being delayed until the first chapter released simultaneously on January 19, 2024 on Twitter and Instagram. The final chapter released on February 23rd, 2024. \n\nThe story is about Kumura, a student at Uva Academy who prepares food for her Snorlax."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Project Snorlax"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "de:Kabigon no Yume Gourmet\nes:Kabigon no Yume Gurume\nzh:卡比獸的夢想美食"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Snorlax's Dream Gourmet",
+    "pageType": "manga-series",
+    "searchableText": "Snorlax's Dream Gourmet\nCategory:Manga\n]]\n(Japanese: カビゴンの夢グルメ 's Dream Gourmet) is a six-chapter Pokémon web manga created by Taku Kuwabara as part of Project Snorlax, being released each Friday at 09:00 UTC. . It was announced in June 2023, originally scheduled for a release in Fall 2023, quietly being delayed until the first chapter released simultaneously on January 19, 2024 on Twitter and Instagram. The final chapter released on February 23rd, 2024. \n\nThe story is about Kumura, a student at Uva Academy who prepares food for her Snorlax.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles",
+      "References"
+    ],
+    "characterCount": 652,
+    "sectionCount": 3
+  }
+}

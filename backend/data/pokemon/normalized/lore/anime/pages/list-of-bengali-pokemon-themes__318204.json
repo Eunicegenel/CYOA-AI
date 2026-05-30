@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "List of Bengali Pokémon themes",
+    "slug": "list-of-bengali-pokemon-themes",
+    "pageId": 318204,
+    "revisionId": 4452836
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Opening themes",
+    "sourceFileName": "list-of-bengali-pokemon-themes__318204.json",
+    "revisionTimestamp": "2025-12-22T10:38:39Z",
+    "fetchedAt": "2026-05-14T14:31:30.684Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "This is a list of themes and other songs that have been played with the Pokémon animated series when aired in the Bengali dub.",
+  "plainText": "This is a list of themes and other songs that have been played with the Pokémon animated series when aired in the Bengali dub.\n\n==Original songs==\nThese are original themes made for the Bengali dub, which are not based on any theme from the English or Japanese versions.\n\n===Opening themes===\n \n\n===Ending themes===\n \n\n==Openings==\nCurrently, seasons Pokémon: Indigo League through Pokémon the Series: Sun & Moon – Ultra Legends and movies have not been dubbed into Bengali. For Pokémon Journeys: The Series, Pokémon Master Journeys: The Series, and Pokémon Ultimate Journeys: The Series released on the Pokémon Asia Official (Bengali) YouTube channel, the English versions of the themes were left undubbed. \n \n==Related articles==\nPokémon in South Asia\nList of Hindi Pokémon themes\nList of Tamil Pokémon themes\nList of Telugu Pokémon themes",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of themes and other songs that have been played with the Pokémon animated series when aired in the Bengali dub."
+    },
+    {
+      "heading": "Original songs",
+      "level": 2,
+      "text": "These are original themes made for the Bengali dub, which are not based on any theme from the English or Japanese versions."
+    },
+    {
+      "heading": "Openings",
+      "level": 2,
+      "text": "Currently, seasons Pokémon: Indigo League through Pokémon the Series: Sun & Moon – Ultra Legends and movies have not been dubbed into Bengali. For Pokémon Journeys: The Series, Pokémon Master Journeys: The Series, and Pokémon Ultimate Journeys: The Series released on the Pokémon Asia Official (Bengali) YouTube channel, the English versions of the themes were left undubbed."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Pokémon in South Asia\nList of Hindi Pokémon themes\nList of Tamil Pokémon themes\nList of Telugu Pokémon themes"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Bengali Pokémon themes",
+    "pageType": "pokemon-related",
+    "searchableText": "List of Bengali Pokémon themes\nCategory:Opening themes\nThis is a list of themes and other songs that have been played with the Pokémon animated series when aired in the Bengali dub.",
+    "sectionHeadings": [
+      "Lead",
+      "Original songs",
+      "Openings",
+      "Related articles"
+    ],
+    "characterCount": 841,
+    "sectionCount": 4
+  }
+}

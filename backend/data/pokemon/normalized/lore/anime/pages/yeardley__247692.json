@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Yeardley",
+    "slug": "yeardley",
+    "pageId": 247692,
+    "revisionId": 4143939
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "yeardley__247692.json",
+    "revisionTimestamp": "2024-10-12T01:24:40Z",
+    "fetchedAt": "2026-05-14T14:59:48.350Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Yeardley (Japanese: ユウト Yūto) is a recurring character in Pokémon Journeys: The Series. He is a classmate of Chloe's in the Vermilion City school.",
+  "plainText": "Yeardley (Japanese: ユウト Yūto) is a recurring character in Pokémon Journeys: The Series. He is a classmate of Chloe's in the Vermilion City school.\n\n==History==\nYeardley first appeared in Best Friend...Worst Nightmare!, where he answered a question asked by his homeroom teacher.\n\nIn There's a New Kid in Town!, he was present in Chloe's class. Another schoolmate asked Yeardley to catch Pokémon after class.\n\nYeardley appeared briefly in Breaking the Ice!, welcoming Regina. However, when he and other students crowded close to Regina, her attacked the students thinking they were bullying her. When Regina reconciled with the class, Yeardley joined the other students to play in the park made of ice by , Goh, and Regina's Pokémon.\n\n==Voice actors==\n \n \n\n \n \n\nes:Yeardley\nit:Iacopo\nzh:悠斗",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yeardley (Japanese: ユウト Yūto) is a recurring character in Pokémon Journeys: The Series. He is a classmate of Chloe's in the Vermilion City school."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Yeardley first appeared in Best Friend...Worst Nightmare!, where he answered a question asked by his homeroom teacher.\n\nIn There's a New Kid in Town!, he was present in Chloe's class. Another schoolmate asked Yeardley to catch Pokémon after class.\n\nYeardley appeared briefly in Breaking the Ice!, welcoming Regina. However, when he and other students crowded close to Regina, her attacked the students thinking they were bullying her. When Regina reconciled with the class, Yeardley joined the other students to play in the park made of ice by , Goh, and Regina's Pokémon."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Yeardley\nit:Iacopo\nzh:悠斗"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yeardley",
+    "pageType": "character",
+    "searchableText": "Yeardley\nCategory:Animation characters\nYeardley (Japanese: ユウト Yūto) is a recurring character in Pokémon Journeys: The Series. He is a classmate of Chloe's in the Vermilion City school.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Voice actors"
+    ],
+    "characterCount": 788,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Ingredients Seller",
+    "slug": "ingredients-seller",
+    "pageId": 297505,
+    "revisionId": 4321757
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "ingredients-seller__297505.json",
+    "revisionTimestamp": "2025-06-20T19:19:25Z",
+    "fetchedAt": "2026-05-14T14:24:56.774Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ingredients Sellers (Japanese: 食材屋 Ingredient Seller) are NPCs who sell ingredients for making curry. Ingredients Sellers can be found in the Wild Area and on the Isle of Armor. They have the appearance of s.",
+  "plainText": "Ingredients Sellers (Japanese: 食材屋 Ingredient Seller) are NPCs who sell ingredients for making curry. Ingredients Sellers can be found in the Wild Area and on the Isle of Armor. They have the appearance of s.\n\n==In the core series games==\nThree Ingredients Sellers can be found in fixed locations across the Galar region:\nRolling Fields, by a tree across from the Meetup Spot\nHammerlocke Hills, next to the entrance to Hammerlocke\nFields of Honor, by the farmland in front of the Master Dojo (after the enters the dojo for the first time)\n\nEach Ingredients Seller has a pool of ingredients to sell from, and their stock changes daily.\n\n===Rolling Fields===\nThis Ingredients Seller sells six items at a time: three items from the 150 pool, two or three items from the 400 pool, and up to one item from the 950 pool.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Hammerlocke Hills and Fields of Honor===\nThe Hammerlocke Hills Ingredients Seller sells six items at a time: three items from the 400 pool, two or three items from the 950 pool, and up to one item from the 2,200 pool.\n\nThe Fields of Honor Ingredients Seller sells four, five, or six items at a time. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n===Quotes===\n\"Love to cook? You've come to the right place! I've got all the finest ingredients right here!\"\n\"How many , then?\"\n\"If it's to be ... I'll be asking for ! All right by you?\"\nYes: \"And here you are! Cook up something scrummy, won't you?\"\n\"Give us another visit tomorrow!\"\n\n==In animation==\n \n===Pokémon the Series===\n==== ====\nAn Ingredients Seller appeared in A One-Stick Wonder!, supplying Ash and Goh with curry ingredients while they were camping out in the Wild Area. In the dub, he was simply referred to as a .\n\n===Pokémon Horizons: The Series===\nAnother Ingredients Seller appeared in As Long as I'm with My Friends, selling curry ingredients to Liko, Roy, and Dot.\n\n===Voice actors===\n \n\n==In other languages==\n \n\n \n \n \n\n \n \n\nit:Venditore di ingredienti\nzh:食材商人",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ingredients Sellers (Japanese: 食材屋 Ingredient Seller) are NPCs who sell ingredients for making curry. Ingredients Sellers can be found in the Wild Area and on the Isle of Armor. They have the appearance of s."
+    },
+    {
+      "heading": "In the core series games",
+      "level": 2,
+      "text": "Three Ingredients Sellers can be found in fixed locations across the Galar region:\nRolling Fields, by a tree across from the Meetup Spot\nHammerlocke Hills, next to the entrance to Hammerlocke\nFields of Honor, by the farmland in front of the Master Dojo (after the enters the dojo for the first time)\n\nEach Ingredients Seller has a pool of ingredients to sell from, and their stock changes daily."
+    },
+    {
+      "heading": "Rolling Fields",
+      "level": 3,
+      "text": "This Ingredients Seller sells six items at a time: three items from the 150 pool, two or three items from the 400 pool, and up to one item from the 950 pool."
+    },
+    {
+      "heading": "Hammerlocke Hills and Fields of Honor",
+      "level": 3,
+      "text": "The Hammerlocke Hills Ingredients Seller sells six items at a time: three items from the 400 pool, two or three items from the 950 pool, and up to one item from the 2,200 pool.\n\nThe Fields of Honor Ingredients Seller sells four, five, or six items at a time."
+    },
+    {
+      "heading": "Quotes",
+      "level": 3,
+      "text": "\"Love to cook? You've come to the right place! I've got all the finest ingredients right here!\"\n\"How many , then?\"\n\"If it's to be ... I'll be asking for ! All right by you?\"\nYes: \"And here you are! Cook up something scrummy, won't you?\"\n\"Give us another visit tomorrow!\""
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "An Ingredients Seller appeared in A One-Stick Wonder!, supplying Ash and Goh with curry ingredients while they were camping out in the Wild Area. In the dub, he was simply referred to as a ."
+    },
+    {
+      "heading": "Pokémon Horizons: The Series",
+      "level": 3,
+      "text": "Another Ingredients Seller appeared in As Long as I'm with My Friends, selling curry ingredients to Liko, Roy, and Dot."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Venditore di ingredienti\nzh:食材商人"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ingredients Seller",
+    "pageType": "character",
+    "searchableText": "Ingredients Seller\nCategory:Animation characters\nIngredients Sellers (Japanese: 食材屋 Ingredient Seller) are NPCs who sell ingredients for making curry. Ingredients Sellers can be found in the Wild Area and on the Isle of Armor. They have the appearance of s.",
+    "sectionHeadings": [
+      "Lead",
+      "In the core series games",
+      "Rolling Fields",
+      "Hammerlocke Hills and Fields of Honor",
+      "Quotes",
+      "",
+      "Pokémon Horizons: The Series",
+      "In other languages"
+    ],
+    "characterCount": 1961,
+    "sectionCount": 8
+  }
+}

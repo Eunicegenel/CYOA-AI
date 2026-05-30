@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mitsuhisa Tamura",
+    "slug": "mitsuhisa-tamura",
+    "pageId": 131152,
+    "revisionId": 4528324
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga crew",
+    "sourceFileName": "mitsuhisa-tamura__131152.json",
+    "revisionTimestamp": "2026-04-09T16:15:54Z",
+    "fetchedAt": "2026-05-14T15:26:49.218Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Mitsuhisa Tamura (Japanese: 田村光久), born July 17, 1980, is the manga author of the Pokémon RéBURST manga series. He was also known for co-authoring the BakéGyamon manga series.",
+  "plainText": "Mitsuhisa Tamura (Japanese: 田村光久), born July 17, 1980, is the manga author of the Pokémon RéBURST manga series. He was also known for co-authoring the BakéGyamon manga series.\n\n==External links==\nOfficial site\nMitsuhisa Tamura on Twitter\n\n \n \n \n\nde:Mitsuhisa Tamura\nit:Mitsuhisa Tamura",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mitsuhisa Tamura (Japanese: 田村光久), born July 17, 1980, is the manga author of the Pokémon RéBURST manga series. He was also known for co-authoring the BakéGyamon manga series."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official site\nMitsuhisa Tamura on Twitter\n\n \n \n \n\nde:Mitsuhisa Tamura\nit:Mitsuhisa Tamura"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mitsuhisa Tamura",
+    "pageType": "manga-series",
+    "searchableText": "Mitsuhisa Tamura\nCategory:Manga crew\nMitsuhisa Tamura (Japanese: 田村光久), born July 17, 1980, is the manga author of the Pokémon RéBURST manga series. He was also known for co-authoring the BakéGyamon manga series.",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 285,
+    "sectionCount": 2
+  }
+}

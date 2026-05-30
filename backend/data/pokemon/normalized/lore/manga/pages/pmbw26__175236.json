@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMBW26",
+    "slug": "pmbw26",
+    "pageId": 175236,
+    "revisionId": 4528320
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw26__175236.json",
+    "revisionTimestamp": "2026-04-09T16:15:47Z",
+    "fetchedAt": "2026-05-14T15:31:59.703Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: レッド流ＧＷ攻略法！ Red's Style Golden Week Strategy!) is the twenty-sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: レッド流ＧＷ攻略法！ Red's Style Golden Week Strategy!) is the twenty-sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Juniper\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: レッド流ＧＷ攻略法！ Red's Style Golden Week Strategy!) is the twenty-sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Juniper"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW26",
+    "pageType": "chapter",
+    "searchableText": "PMBW26\nCategory:Pocket Monsters BW chapters\n(Japanese: レッド流ＧＷ攻略法！ Red's Style Golden Week Strategy!) is the twenty-sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 273,
+    "sectionCount": 3
+  }
+}

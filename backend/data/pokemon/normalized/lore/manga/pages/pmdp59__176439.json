@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP59",
+    "slug": "pmdp59",
+    "pageId": 176439,
+    "revisionId": 4526753
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp59__176439.json",
+    "revisionTimestamp": "2026-04-09T15:06:14Z",
+    "fetchedAt": "2026-05-14T15:32:50.230Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ストップ鼻水大作戦！ The Master Plan to Stop Runny Noses!) is the fifty-ninth chapter of the manga.",
+  "plainText": "(Japanese: ストップ鼻水大作戦！ The Master Plan to Stop Runny Noses!) is the fifty-ninth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ストップ鼻水大作戦！ The Master Plan to Stop Runny Noses!) is the fifty-ninth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP59",
+    "pageType": "chapter",
+    "searchableText": "PMDP59\nCategory:Pocket Monsters DP chapters\n(Japanese: ストップ鼻水大作戦！ The Master Plan to Stop Runny Noses!) is the fifty-ninth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 224,
+    "sectionCount": 2
+  }
+}

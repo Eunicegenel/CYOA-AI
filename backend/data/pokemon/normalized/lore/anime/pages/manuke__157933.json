@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Manuke",
+    "slug": "manuke",
+    "pageId": 157933,
+    "revisionId": 4191308
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "manuke__157933.json",
+    "revisionTimestamp": "2024-11-24T03:12:55Z",
+    "fetchedAt": "2026-05-14T14:34:45.272Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Manuke (Japanese: マヌーク Manuke) is a minor supporting character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram. He lives in the arid desert, where he works for his village's leader Ravine.",
+  "plainText": "Manuke (Japanese: マヌーク Manuke) is a minor supporting character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram. He lives in the arid desert, where he works for his village's leader Ravine.\n\n==In the movies==\nIn White—Victini and Zekrom, Manuke witnessed, along with the rest of the village, Damon summoning in order to save them from a tornado and a rampaging herd of . In Black—Victini and Reshiram, he was seen in Damon's flashback of him asking Ravine to support his idea. After Ravine tossed Damon's book on the ground, refusing his idea, Manuke picked it up and handed it to him.\n\nManuke was later seen with Ravine and Luisa, along with the people of the tundra village, in both movies, where they show their support for Damon's idea.\n\n===Voice actors===\n \n\n==In the manga==\n===Movie adaptations===\nManuke appears in the manga adaptation of , where he serves much the same role as he does in the movie.\n\n==Related articles==\nDonuke\n\n \n \n\n \n\nit:Manuke",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Manuke (Japanese: マヌーク Manuke) is a minor supporting character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram. He lives in the arid desert, where he works for his village's leader Ravine."
+    },
+    {
+      "heading": "In the movies",
+      "level": 2,
+      "text": "In White—Victini and Zekrom, Manuke witnessed, along with the rest of the village, Damon summoning in order to save them from a tornado and a rampaging herd of . In Black—Victini and Reshiram, he was seen in Damon's flashback of him asking Ravine to support his idea. After Ravine tossed Damon's book on the ground, refusing his idea, Manuke picked it up and handed it to him.\n\nManuke was later seen with Ravine and Luisa, along with the people of the tundra village, in both movies, where they show their support for Damon's idea."
+    },
+    {
+      "heading": "Movie adaptations",
+      "level": 3,
+      "text": "Manuke appears in the manga adaptation of , where he serves much the same role as he does in the movie."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Donuke\n\n \n \n\n \n\nit:Manuke"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Manuke",
+    "pageType": "movie",
+    "searchableText": "Manuke\nCategory:Movie characters\nManuke (Japanese: マヌーク Manuke) is a minor supporting character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram. He lives in the arid desert, where he works for his village's leader Ravine.",
+    "sectionHeadings": [
+      "Lead",
+      "In the movies",
+      "Movie adaptations",
+      "Related articles"
+    ],
+    "characterCount": 979,
+    "sectionCount": 4
+  }
+}

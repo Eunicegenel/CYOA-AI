@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Saffron City Showdown",
+    "slug": "saffron-city-showdown",
+    "pageId": 198188,
+    "revisionId": 4132933
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "saffron-city-showdown__198188.json",
+    "revisionTimestamp": "2024-09-29T05:29:34Z",
+    "fetchedAt": "2026-05-14T15:48:49.698Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Saffron City Showdown is the fourteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-two and thirty-three of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Saffron City Showdown is the fourteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-two and thirty-three of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 32 - A Little Kadabra'll Do It\nChapter 33 - The Winged Legends\n\n==Important events==\nsteals the from Sabrina and gives it to .\n, , and defeat Team Rocket in Saffron City.\n's Moon Stone evolves Green's , Clefy, into .\nRed's , Saur, evolves into .\n\n==Party changes==\n===Evolutions===\nThe following Pokémon evolve:\nRed's evolves into in PS033.\nGreen's evolves into in PS033.\n\n \n \n\nfr:Volume 14 (Pokémon Adventures)\nit:Saffron City Showdown",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Saffron City Showdown is the fourteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-two and thirty-three of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 32 - A Little Kadabra'll Do It\nChapter 33 - The Winged Legends"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "steals the from Sabrina and gives it to .\n, , and defeat Team Rocket in Saffron City.\n's Moon Stone evolves Green's , Clefy, into .\nRed's , Saur, evolves into ."
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "The following Pokémon evolve:\nRed's evolves into in PS033.\nGreen's evolves into in PS033.\n\n \n \n\nfr:Volume 14 (Pokémon Adventures)\nit:Saffron City Showdown"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Saffron City Showdown",
+    "pageType": "pokemon-related",
+    "searchableText": "Saffron City Showdown\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Saffron City Showdown is the fourteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-two and thirty-three of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Evolutions"
+    ],
+    "characterCount": 896,
+    "sectionCount": 4
+  }
+}

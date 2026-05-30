@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "DPAS6",
+    "slug": "dpas6",
+    "pageId": 90809,
+    "revisionId": 4130668
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Diamond and Pearl Adventure! chapters",
+    "sourceFileName": "dpas6__90809.json",
+    "revisionTimestamp": "2024-09-29T03:50:17Z",
+    "fetchedAt": "2026-05-14T15:17:34.329Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Hareta's Future (Japanese: ハレタの向かう先 Hareta's Journey Continues) is the sixth special chapter of the Pokémon Diamond and Pearl Adventure! manga.",
+  "plainText": "Hareta's Future (Japanese: ハレタの向かう先 Hareta's Journey Continues) is the sixth special chapter of the Pokémon Diamond and Pearl Adventure! manga.\n\n==Plot==\n \nSince the Tournament, Hareta has returned to his home in the forest, spending time playing with the Pokémon. However, like all good things, it doesn't last as Koya arrives. Hareta hasn't seen him since the Tournament and asks if he wants to play, but Koya is here on business. While Team Galactic may be gone, new evil syndicates are moving in and he heard that Hareta had been living in the forest since the Tournament and came to request that he join the International Police.\n\nJust then, Hareta smells something, something familiar. He runs off in the direction of the smell, the Pokémon following him as he declares it to be the smell of adventure. However, in all the excitement, Hareta and the others end up trampling Mitsumi. Hareta asks if she was the source of the smell, which manages to offend her before she then gives him his new upgraded National Pokédex. Mitsumi then asks if he's up for another journey together, which Hareta naturally accepts. Mitsumi then gives Hareta his traveling outfit and he runs off to get changed. Mitsumi then turns to address Koya asking if he'd come to recruit Hareta into the International Police, to which Koya replies he did but Hareta didn't seem very interested. Mitsumi replies that there was no way Hareta could be tied down like that, he's completely free, a force of nature like a wild Pokémon. Koya takes a moment before agreeing that Mitsumi is right.\n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHareta\nMitsumi\nKoya\n\n===Pokémon===\n( )\n( )\n(Hareta's)\n(Hareta's)\n( )\n( )\n(Koya's)\n\n \n\n \n\nit:DPAS6\nzh:DPAS6",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hareta's Future (Japanese: ハレタの向かう先 Hareta's Journey Continues) is the sixth special chapter of the Pokémon Diamond and Pearl Adventure! manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Since the Tournament, Hareta has returned to his home in the forest, spending time playing with the Pokémon. However, like all good things, it doesn't last as Koya arrives. Hareta hasn't seen him since the Tournament and asks if he wants to play, but Koya is here on business. While Team Galactic may be gone, new evil syndicates are moving in and he heard that Hareta had been living in the forest since the Tournament and came to request that he join the International Police.\n\nJust then, Hareta smells something, something familiar. He runs off in the direction of the smell, the Pokémon following him as he declares it to be the smell of adventure. However, in all the excitement, Hareta and the others end up trampling Mitsumi. Hareta asks if she was the source of the smell, which manages to offend her before she then gives him his new upgraded National Pokédex. Mitsumi then asks if he's up for another journey together, which Hareta naturally accepts. Mitsumi then gives Hareta his traveling outfit and he runs off to get changed. Mitsumi then turns to address Koya asking if he'd come to recruit Hareta into the International Police, to which Koya replies he did but Hareta didn't seem very interested. Mitsumi replies that there was no way Hareta could be tied down like that, he's completely free, a force of nature like a wild Pokémon. Koya takes a moment before agreeing that Mitsumi is right."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hareta\nMitsumi\nKoya"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Hareta's)\n(Hareta's)\n( )\n( )\n(Koya's)\n\n \n\n \n\nit:DPAS6\nzh:DPAS6"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "DPAS6",
+    "pageType": "chapter",
+    "searchableText": "DPAS6\nCategory:Pokémon Diamond and Pearl Adventure! chapters\nHareta's Future (Japanese: ハレタの向かう先 Hareta's Journey Continues) is the sixth special chapter of the Pokémon Diamond and Pearl Adventure! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1755,
+    "sectionCount": 4
+  }
+}

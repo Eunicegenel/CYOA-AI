@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pikachu Land",
+    "slug": "pikachu-land",
+    "pageId": 205533,
+    "revisionId": 4261112
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "pikachu-land__205533.json",
+    "revisionTimestamp": "2025-03-19T21:50:20Z",
+    "fetchedAt": "2026-05-14T14:41:47.072Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Pikachu Land (Japanese: ピカチュウランド Pikachu Land) is an -exclusive location in the Kalos region. It is a film set found in between Laverre City and Dendemille Town. It is owned by Frank, a movie director, and the location for his movie, .\n\nIn Lights! Camera! Pika!, and passed Pikachu Land on their way to Dendemille Town. They noticed a large group of dancing there and decided to check it out. There they met Frank and his granddaughter Jean, and decided to assist Frank in filming his movie called Lightning Fast! Brave and Strong! Super-Pikachu!. In the movie, Pikachu Land is a peaceful town inhabited only by Pikachu.",
+  "plainText": "Pikachu Land (Japanese: ピカチュウランド Pikachu Land) is an -exclusive location in the Kalos region. It is a film set found in between Laverre City and Dendemille Town. It is owned by Frank, a movie director, and the location for his movie, .\n\nIn Lights! Camera! Pika!, and passed Pikachu Land on their way to Dendemille Town. They noticed a large group of dancing there and decided to check it out. There they met Frank and his granddaughter Jean, and decided to assist Frank in filming his movie called Lightning Fast! Brave and Strong! Super-Pikachu!. In the movie, Pikachu Land is a peaceful town inhabited only by Pikachu.\n\n==In other languages==\n \n\n \n \n \n\nit:Pikachulandia\nzh:皮卡丘园地",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pikachu Land (Japanese: ピカチュウランド Pikachu Land) is an -exclusive location in the Kalos region. It is a film set found in between Laverre City and Dendemille Town. It is owned by Frank, a movie director, and the location for his movie, .\n\nIn Lights! Camera! Pika!, and passed Pikachu Land on their way to Dendemille Town. They noticed a large group of dancing there and decided to check it out. There they met Frank and his granddaughter Jean, and decided to assist Frank in filming his movie called Lightning Fast! Brave and Strong! Super-Pikachu!. In the movie, Pikachu Land is a peaceful town inhabited only by Pikachu."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Pikachulandia\nzh:皮卡丘园地"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pikachu Land",
+    "pageType": "location",
+    "searchableText": "Pikachu Land\nCategory:Animated series-exclusive locations\nPikachu Land (Japanese: ピカチュウランド Pikachu Land) is an -exclusive location in the Kalos region. It is a film set found in between Laverre City and Dendemille Town. It is owned by Frank, a movie director, and the location for his movie, .\n\nIn Lights! Camera! Pika!, and passed Pikachu Land on their way to Dendemille Town. They noticed a large group of dancing there and decided to check it out. There they met Frank and his granddaughter Jean, and decided to assist Frank in filming his movie called Lightning Fast! Brave and Strong! Super-Pikachu!. In the movie, Pikachu Land is a peaceful town inhabited only by Pikachu.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 680,
+    "sectionCount": 2
+  }
+}

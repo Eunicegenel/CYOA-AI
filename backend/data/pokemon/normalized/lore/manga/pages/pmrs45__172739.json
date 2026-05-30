@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS45",
+    "slug": "pmrs45",
+    "pageId": 172739,
+    "revisionId": 4264649
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs45__172739.json",
+    "revisionTimestamp": "2025-03-23T18:32:40Z",
+    "fetchedAt": "2026-05-14T15:33:40.489Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Find The Ancient Pokémon!! (Japanese: 古代ポケモンをさがせ！！ Find The Ancient Pokémon!!) is the forty-fifth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Find The Ancient Pokémon!! (Japanese: 古代ポケモンをさがせ！！ Find The Ancient Pokémon!!) is the forty-fifth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Find The Ancient Pokémon!! (Japanese: 古代ポケモンをさがせ！！ Find The Ancient Pokémon!!) is the forty-fifth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS45",
+    "pageType": "chapter",
+    "searchableText": "PMRS45\nCategory:Pokémon Ruby-Sapphire chapters\nFind The Ancient Pokémon!! (Japanese: 古代ポケモンをさがせ！！ Find The Ancient Pokémon!!) is the forty-fifth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 265,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB26",
+    "slug": "rb26",
+    "pageId": 148450,
+    "revisionId": 4242877
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb26__148450.json",
+    "revisionTimestamp": "2025-02-19T14:57:05Z",
+    "fetchedAt": "2026-05-14T15:47:32.239Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ガスの中の攻防！ Battle in the Gas!) is the 26th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: ガスの中の攻防！ Battle in the Gas!) is the 26th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n== Major events ==\nRyouga defeats Dokan.\nPauline takes someone's Burst Heart.\nRurimaru and battle each other.\nHariru arrives to challenge Ryouga to a battle.\n\n=== Debuts ===\n\n==== Pokémon debuts ====\n\n== Characters ==\n=== Humans ===\nDokan\nRyouga\nRabine\nPauline\nMiruto\nYappy\n\nRurimaru\nHariru\n=== Pokémon ===\n(Dokan's)\n(Ryouga's)\n(Pauline's)\n(Pauline's)\n(Rurimaru's)\n( 's)\n\n \n \n \n\n \n\nzh:RB26",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ガスの中の攻防！ Battle in the Gas!) is the 26th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga defeats Dokan.\nPauline takes someone's Burst Heart.\nRurimaru and battle each other.\nHariru arrives to challenge Ryouga to a battle."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Dokan\nRyouga\nRabine\nPauline\nMiruto\nYappy\n\nRurimaru\nHariru"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Dokan's)\n(Ryouga's)\n(Pauline's)\n(Pauline's)\n(Rurimaru's)\n( 's)\n\n \n \n \n\n \n\nzh:RB26"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB26",
+    "pageType": "chapter",
+    "searchableText": "RB26\nCategory:Pokémon RéBURST chapters\n(Japanese: ガスの中の攻防！ Battle in the Gas!) is the 26th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 491,
+    "sectionCount": 4
+  }
+}

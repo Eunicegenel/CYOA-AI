@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "PS050",
+    "slug": "ps050",
+    "pageId": 65866,
+    "revisionId": 4242954
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps050__65866.json",
+    "revisionTimestamp": "2025-02-19T15:32:23Z",
+    "fetchedAt": "2026-05-14T15:40:29.716Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Lapras Lazily (Japanese: VS ラプラス VS ) is the 50th chapter of the Pokémon Adventures manga, and the 10th chapter of the .",
+  "plainText": "Lapras Lazily (Japanese: VS ラプラス VS ) is the 50th chapter of the Pokémon Adventures manga, and the 10th chapter of the .\n\n==Plot==\n \n begins to tell what he was doing while was battling .\n\nIn a flashback, Blue is surfing across the sea on his , when he gets attacked by a wild . After a short battle Blue catches the Lapras and heads to shore to check its Pokédex entry. As he does so, he is approached by a young boy who tells him to give his Lapras back. Blue comments that he shouldn't have been able to catch it if it belonged to another Trainer, to which the boy responds that he'd been tracking it for weeks. Blue points out that doesn't make it the boy's and begins to walk off, at which point the boy begs him for help.\n\nLater at a Pokémon Center, Blue contacts for advice, and is told that what the boy is saying is true. There are shadows that have been floating out of the abandoned Power Plant, attracting Pokémon inside. Blue than says that he will accompany the boy to the Power Plant to get his back, and heads towards the site, where a wild floats around and an old lady stands, with Ghost Pokémon by her side.\n\n==Major events==\nBlue begins to tell his story about before meeting at the Indigo Plateau.\nIn a flashback, catches a .\n\n \n \n\n===Debuts===\n====Pokémon debuts====\n( 's)\n\n==Characters==\n===Humans===\n(flashback)\n(off panel pre-flashback; flashback)\n(off panel)\n(flashback)\n(flashback)\nAgatha (flashback; silhouette)\nEvan (flashback)\n\n===Pokémon===\n( ; flashback)\n( 's; new; flashback)\n( 's; flashback)\n( 's; flashback)\n( 's; flashback)\n(Agatha's; flashback)\n( ; ×2; flashback)\n(Agatha's; flashback)\n(Evan's; flashback)\n(Adventures; flashback)\n(flashback)\n(multiple; flashback)\n\n===Other===\n(flashback)\n\n==Trivia==\n\n===Errors===\n\n==In other languages==\n \n \n \n \n\nde:VS. Lapras (Gelb Arc)\nes:PMS050\nfr:Chapitre 50 (Pocket Monsters Special)\nit:LGA050\nzh:宝可梦特别篇 第50话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lapras Lazily (Japanese: VS ラプラス VS ) is the 50th chapter of the Pokémon Adventures manga, and the 10th chapter of the ."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "begins to tell what he was doing while was battling .\n\nIn a flashback, Blue is surfing across the sea on his , when he gets attacked by a wild . After a short battle Blue catches the Lapras and heads to shore to check its Pokédex entry. As he does so, he is approached by a young boy who tells him to give his Lapras back. Blue comments that he shouldn't have been able to catch it if it belonged to another Trainer, to which the boy responds that he'd been tracking it for weeks. Blue points out that doesn't make it the boy's and begins to walk off, at which point the boy begs him for help.\n\nLater at a Pokémon Center, Blue contacts for advice, and is told that what the boy is saying is true. There are shadows that have been floating out of the abandoned Power Plant, attracting Pokémon inside. Blue than says that he will accompany the boy to the Power Plant to get his back, and heads towards the site, where a wild floats around and an old lady stands, with Ghost Pokémon by her side."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Blue begins to tell his story about before meeting at the Indigo Plateau.\nIn a flashback, catches a ."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( 's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(flashback)\n(off panel pre-flashback; flashback)\n(off panel)\n(flashback)\n(flashback)\nAgatha (flashback; silhouette)\nEvan (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; flashback)\n( 's; new; flashback)\n( 's; flashback)\n( 's; flashback)\n( 's; flashback)\n(Agatha's; flashback)\n( ; ×2; flashback)\n(Agatha's; flashback)\n(Evan's; flashback)\n(Adventures; flashback)\n(flashback)\n(multiple; flashback)"
+    },
+    {
+      "heading": "Other",
+      "level": 3,
+      "text": "(flashback)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Lapras (Gelb Arc)\nes:PMS050\nfr:Chapitre 50 (Pocket Monsters Special)\nit:LGA050\nzh:宝可梦特别篇 第50话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS050",
+    "pageType": "chapter",
+    "searchableText": "PS050\nCategory:Pokémon Adventures chapters\nLapras Lazily (Japanese: VS ラプラス VS ) is the 50th chapter of the Pokémon Adventures manga, and the 10th chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Other",
+      "In other languages"
+    ],
+    "characterCount": 1885,
+    "sectionCount": 8
+  }
+}

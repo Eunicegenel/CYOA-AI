@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Bart",
+    "slug": "bart",
+    "pageId": 17229,
+    "revisionId": 4492646
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "bart__17229.json",
+    "revisionTimestamp": "2026-02-24T22:22:04Z",
+    "fetchedAt": "2026-05-14T14:04:43.685Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Bart (Japanese: バール Bar) is a character of the day who appeared in Unfair Weather Friends. He is the manager of the Weather Institute in the Hoenn region.\n\nBart was in the middle of training Millie, a new employee. He was also in charge of protecting the data on the ancient , and , all accessed with a key card which he kept on his person at all times.\n\nWhen Team Aqua overran the Institute, Bart gave the key card to his and told it to give the data to Millie. Along with and , Millie kept the data out of Team Aqua's hands. However, Millie turned out to be a double agent called Brodie, a member of Team Magma and master of disguises. He flew away on his jet pack with the data on ancient Pokémon.\n\nBart was freed by Ash and the others. Moments later, the real Millie showed up at the Weather Institute for her first day. Bart quickly showed her to a chaotic study room, and Millie gladly agreed to manually re-enter all of ancient Pokémon data into the Institute's computers.",
+  "plainText": "Bart (Japanese: バール Bar) is a character of the day who appeared in Unfair Weather Friends. He is the manager of the Weather Institute in the Hoenn region.\n\nBart was in the middle of training Millie, a new employee. He was also in charge of protecting the data on the ancient , and , all accessed with a key card which he kept on his person at all times.\n\nWhen Team Aqua overran the Institute, Bart gave the key card to his and told it to give the data to Millie. Along with and , Millie kept the data out of Team Aqua's hands. However, Millie turned out to be a double agent called Brodie, a member of Team Magma and master of disguises. He flew away on his jet pack with the data on ancient Pokémon.\n\nBart was freed by Ash and the others. Moments later, the real Millie showed up at the Weather Institute for her first day. Bart quickly showed her to a chaotic study room, and Millie gladly agreed to manually re-enter all of ancient Pokémon data into the Institute's computers.\n\n==Pokémon==\n \n \n\n==Voice actors==\n \n \n \n \n \n \n \n\nes:Bart\nfr:Luc\nit:Bart\nzh:巴鲁",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bart (Japanese: バール Bar) is a character of the day who appeared in Unfair Weather Friends. He is the manager of the Weather Institute in the Hoenn region.\n\nBart was in the middle of training Millie, a new employee. He was also in charge of protecting the data on the ancient , and , all accessed with a key card which he kept on his person at all times.\n\nWhen Team Aqua overran the Institute, Bart gave the key card to his and told it to give the data to Millie. Along with and , Millie kept the data out of Team Aqua's hands. However, Millie turned out to be a double agent called Brodie, a member of Team Magma and master of disguises. He flew away on his jet pack with the data on ancient Pokémon.\n\nBart was freed by Ash and the others. Moments later, the real Millie showed up at the Weather Institute for her first day. Bart quickly showed her to a chaotic study room, and Millie gladly agreed to manually re-enter all of ancient Pokémon data into the Institute's computers."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Bart\nfr:Luc\nit:Bart\nzh:巴鲁"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bart",
+    "pageType": "character",
+    "searchableText": "Bart\nCategory:Hoenn characters of the day\nBart (Japanese: バール Bar) is a character of the day who appeared in Unfair Weather Friends. He is the manager of the Weather Institute in the Hoenn region.\n\nBart was in the middle of training Millie, a new employee. He was also in charge of protecting the data on the ancient , and , all accessed with a key card which he kept on his person at all times.\n\nWhen Team Aqua overran the Institute, Bart gave the key card to his and told it to give the data to Millie. Along with and , Millie kept the data out of Team Aqua's hands. However, Millie turned out to be a double agent called Brodie, a member of Team Magma and master of disguises. He flew away on his jet pack with the data on ancient Pokémon.\n\nBart was freed by Ash and the others. Moments later, the real Millie showed up at the Weather Institute for her first day. Bart quickly showed her to a chaotic study room, and Millie gladly agreed to manually re-enter all of ancient Pokémon data into the Institute's computers.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 1058,
+    "sectionCount": 2
+  }
+}

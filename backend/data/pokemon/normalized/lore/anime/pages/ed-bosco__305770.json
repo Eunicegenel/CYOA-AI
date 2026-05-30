@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Ed Bosco",
+    "slug": "ed-bosco",
+    "pageId": 305770,
+    "revisionId": 4473455
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "ed-bosco__305770.json",
+    "revisionTimestamp": "2026-01-23T20:52:45Z",
+    "fetchedAt": "2026-05-14T14:14:54.478Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Ed Bosco is an American actor for the English-language dub of and .",
+  "plainText": "Ed Bosco is an American actor for the English-language dub of and .\n\n==Biography==\nBosco was born on January 24, 1986, in Chicago, Illinois, and became a voice actor as an adult. Bosco first worked on Pokémon by voicing characters in and Pokémon: Twilight Wings before joining the during . During Journeys, Bosco was credited as Edward Bosco before becoming credited as Ed Bosco in .\n\n==Pokémon roles==\n===Animation===\n==== ====\nDrake (JN088)\n\n==== ====\nFriede's Charizard\n\n====Secrets of the Jungle====\nDada\n\n====Pokémon: Twilight Wings====\n=====Humans=====\nPiers\n\n=====Pokémon=====\nLeon's Charizard\n\n==Other non-Pokémon roles==\nJyaku Kaioh ( )\nUdon Ise ( )\nMartin Lazzari ( )\n\n==External links==\nBehind the Voice Actors\nWebsite\nTwitter\n\n \n \n\nit:Ed Bosco",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ed Bosco is an American actor for the English-language dub of and ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Bosco was born on January 24, 1986, in Chicago, Illinois, and became a voice actor as an adult. Bosco first worked on Pokémon by voicing characters in and Pokémon: Twilight Wings before joining the during . During Journeys, Bosco was credited as Edward Bosco before becoming credited as Ed Bosco in ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Drake (JN088)"
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Friede's Charizard"
+    },
+    {
+      "heading": "Secrets of the Jungle",
+      "level": 4,
+      "text": "Dada"
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Piers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "Leon's Charizard"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Jyaku Kaioh ( )\nUdon Ise ( )\nMartin Lazzari ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Behind the Voice Actors\nWebsite\nTwitter\n\n \n \n\nit:Ed Bosco"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ed Bosco",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ed Bosco\nCategory:TPCi voice actors\nEd Bosco is an American actor for the English-language dub of and .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "",
+      "Secrets of the Jungle",
+      "Humans",
+      "Pokémon",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 755,
+    "sectionCount": 9
+  }
+}

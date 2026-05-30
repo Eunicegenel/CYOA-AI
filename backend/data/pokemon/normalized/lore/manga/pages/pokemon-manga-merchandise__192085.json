@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Pokémon manga merchandise",
+    "slug": "pokemon-manga-merchandise",
+    "pageId": 192085,
+    "revisionId": 4262907
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga",
+    "sourceFileName": "pokemon-manga-merchandise__192085.json",
+    "revisionTimestamp": "2025-03-21T23:14:02Z",
+    "fetchedAt": "2026-05-14T15:36:37.145Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Various Pokémon merchandise has been released in connection with different series of Pokémon manga. Due to the comparatively higher popularity of the , , and , there is significantly less manga tie-in merchandise than there is compared to other Pokémon media. Regardless, several items have been released for retail sale and as promotional items.",
+  "plainText": "Various Pokémon merchandise has been released in connection with different series of Pokémon manga. Due to the comparatively higher popularity of the , , and , there is significantly less manga tie-in merchandise than there is compared to other Pokémon media. Regardless, several items have been released for retail sale and as promotional items.\n\n==Magical Pokémon Journey==\nA deck of playing cards featuring characters from Magical Pokémon Journey was released as a promotional item with Ciao magazine. Each suit in the set features a different character from the series - spades is , hearts is , clubs is and diamonds is . The majority of the artwork on the cards was created exclusively for this set. All of the Queens in the set feature Hazel alongside the suit's Pokémon, and all the Jacks likewise feature Almond. The Jokers in the set feature Grandpa. There is also a card included with the set which has no function in regular play but features all four Pokémon.\n\n \n\n==Pokémon Adventures==\nIn commemoration of VIZ Media's 25th anniversary, a swag bag was distributed at in 2011. The bag and its contents featured several of VIZ Media's licenses, including Pokémon. The bag itself featured an image of Pika from Pokémon Adventures, and included was a manga sampler featuring multiple story arcs from the Adventures series.\n\n==Pokémon Pocket Monsters==\nA paper fan featuring characters from the Pokémon Pocket Monsters manga was given away as a promotional item at the Shogakukan Comic Fair in 1997. The fan features , Red's Clefairy, and several other Pokémon which debuted in Generation I. Artwork appears on one side of the fan in full colour and on the opposite side alternate artwork appears printed in red.\n\n \n\n==Movie manga adaptations==\nA promotional tote bag was released at San Diego Comic Con in 2008, commemorating five years since the first issue of VIZ Media's . It is yellow in colour and features artwork of characters from several of VIZ Media's licenses, including and from the movie manga adaptation .\n\n==Multiple series==\n===Manga boxed sets===\n \nVIZ Media has released several boxed sets of Pokémon manga, including Pokémon Adventures and Pokémon Diamond and Pearl Adventure!. In addition to the collection of volumes in a specially made box, these sets typically include an incentive for purchasing the entire set, typically a small poster featuring artwork from the manga.\n\n===Manga samplers===\n \nSeveral sampler versions of Pokémon manga series have been distributed by various means, including promotional events and as bonuses with home video releases of Pokémon animation.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Various Pokémon merchandise has been released in connection with different series of Pokémon manga. Due to the comparatively higher popularity of the , , and , there is significantly less manga tie-in merchandise than there is compared to other Pokémon media. Regardless, several items have been released for retail sale and as promotional items."
+    },
+    {
+      "heading": "Magical Pokémon Journey",
+      "level": 2,
+      "text": "A deck of playing cards featuring characters from Magical Pokémon Journey was released as a promotional item with Ciao magazine. Each suit in the set features a different character from the series - spades is , hearts is , clubs is and diamonds is . The majority of the artwork on the cards was created exclusively for this set. All of the Queens in the set feature Hazel alongside the suit's Pokémon, and all the Jacks likewise feature Almond. The Jokers in the set feature Grandpa. There is also a card included with the set which has no function in regular play but features all four Pokémon."
+    },
+    {
+      "heading": "Pokémon Adventures",
+      "level": 2,
+      "text": "In commemoration of VIZ Media's 25th anniversary, a swag bag was distributed at in 2011. The bag and its contents featured several of VIZ Media's licenses, including Pokémon. The bag itself featured an image of Pika from Pokémon Adventures, and included was a manga sampler featuring multiple story arcs from the Adventures series."
+    },
+    {
+      "heading": "Pokémon Pocket Monsters",
+      "level": 2,
+      "text": "A paper fan featuring characters from the Pokémon Pocket Monsters manga was given away as a promotional item at the Shogakukan Comic Fair in 1997. The fan features , Red's Clefairy, and several other Pokémon which debuted in Generation I. Artwork appears on one side of the fan in full colour and on the opposite side alternate artwork appears printed in red."
+    },
+    {
+      "heading": "Movie manga adaptations",
+      "level": 2,
+      "text": "A promotional tote bag was released at San Diego Comic Con in 2008, commemorating five years since the first issue of VIZ Media's . It is yellow in colour and features artwork of characters from several of VIZ Media's licenses, including and from the movie manga adaptation ."
+    },
+    {
+      "heading": "Manga boxed sets",
+      "level": 3,
+      "text": "VIZ Media has released several boxed sets of Pokémon manga, including Pokémon Adventures and Pokémon Diamond and Pearl Adventure!. In addition to the collection of volumes in a specially made box, these sets typically include an incentive for purchasing the entire set, typically a small poster featuring artwork from the manga."
+    },
+    {
+      "heading": "Manga samplers",
+      "level": 3,
+      "text": "Several sampler versions of Pokémon manga series have been distributed by various means, including promotional events and as bonuses with home video releases of Pokémon animation."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon manga merchandise",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon manga merchandise\nCategory:Manga\nVarious Pokémon merchandise has been released in connection with different series of Pokémon manga. Due to the comparatively higher popularity of the , , and , there is significantly less manga tie-in merchandise than there is compared to other Pokémon media. Regardless, several items have been released for retail sale and as promotional items.",
+    "sectionHeadings": [
+      "Lead",
+      "Magical Pokémon Journey",
+      "Pokémon Adventures",
+      "Pokémon Pocket Monsters",
+      "Movie manga adaptations",
+      "Manga boxed sets",
+      "Manga samplers"
+    ],
+    "characterCount": 2606,
+    "sectionCount": 7
+  }
+}

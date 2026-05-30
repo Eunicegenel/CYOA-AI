@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "CPD06",
+    "slug": "cpd06",
+    "pageId": 343694,
+    "revisionId": 4398745
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Countdown Pokémon Day chapters",
+    "sourceFileName": "cpd06__343694.json",
+    "revisionTimestamp": "2025-10-12T21:54:11Z",
+    "fetchedAt": "2026-05-14T15:16:20.795Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the sixth chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 25, 2025 at 8:00 PM JST. It is 16 pages long.",
+  "plainText": "This is the sixth chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 25, 2025 at 8:00 PM JST. It is 16 pages long.\n\n==Plot==\n \n \n \n\n==Major events==\n \n===Debuts===\n====Pokémon debuts====\n\n( )\n\n(Umina's)\n\n==Characters==\n===Humans===\n\n(voice)\n\n===Pokémon===\n(Yūsuke's)\n(Daichi's)\n(Tokio's)\n(Yadoyan; Umina's; evolves)\n(Yadoyan; Umina's; newly evolved)\n(Run-chan; Yuki's)\n(Gyara-chan; Ai's)\n(evolves with Slowpoke)\n\n(flashback)\n\n(multiple)\n( ; multiple)\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the sixth chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 25, 2025 at 8:00 PM JST. It is 16 pages long."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n\n(Umina's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(voice)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Yūsuke's)\n(Daichi's)\n(Tokio's)\n(Yadoyan; Umina's; evolves)\n(Yadoyan; Umina's; newly evolved)\n(Run-chan; Yuki's)\n(Gyara-chan; Ai's)\n(evolves with Slowpoke)\n\n(flashback)\n\n(multiple)\n( ; multiple)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CPD06",
+    "pageType": "chapter",
+    "searchableText": "CPD06\nCategory:Countdown Pokémon Day chapters\nThis is the sixth chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 25, 2025 at 8:00 PM JST. It is 16 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 508,
+    "sectionCount": 4
+  }
+}

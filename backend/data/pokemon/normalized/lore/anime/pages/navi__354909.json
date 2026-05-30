@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Navi",
+    "slug": "navi",
+    "pageId": 354909,
+    "revisionId": 4550613
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Horizons: The Series characters",
+    "sourceFileName": "navi__354909.json",
+    "revisionTimestamp": "2026-05-12T15:35:21Z",
+    "fetchedAt": "2026-05-14T14:39:02.906Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ナヴィ Navi) is a major supporting character in , introduced in the Wonder Voyage arc.",
+  "plainText": "(Japanese: ナヴィ Navi) is a major supporting character in , introduced in the Wonder Voyage arc. \n\n \n\n==Gallery==\n===Artwork===\n \n\n \n\n==Names==\n \n\n==References==\n \n\n==Related articles==\n \nImages on the Bulbagarden Archives\n \n\n \n\nes:Navi\nfr:Navi\nit:Navi\nzh:娜薇",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ナヴィ Navi) is a major supporting character in , introduced in the Wonder Voyage arc."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Images on the Bulbagarden Archives\n \n\n \n\nes:Navi\nfr:Navi\nit:Navi\nzh:娜薇"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Navi",
+    "pageType": "character",
+    "searchableText": "Navi\nCategory:Pokémon Horizons: The Series characters\n(Japanese: ナヴィ Navi) is a major supporting character in , introduced in the Wonder Voyage arc.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 256,
+    "sectionCount": 2
+  }
+}

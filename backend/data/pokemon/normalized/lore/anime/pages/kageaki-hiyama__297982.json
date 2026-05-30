@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Kageaki Hiyama",
+    "slug": "kageaki-hiyama",
+    "pageId": 297982,
+    "revisionId": 4531629
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures characters",
+    "sourceFileName": "kageaki-hiyama__297982.json",
+    "revisionTimestamp": "2026-04-14T02:14:24Z",
+    "fetchedAt": "2026-05-14T14:28:19.189Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kageaki Hiyama (Japanese: 桧山景明 Hiyama Kageaki) is a main character in A Pocketful of Adventures.",
+  "plainText": "Kageaki Hiyama (Japanese: 桧山景明 Hiyama Kageaki) is a main character in A Pocketful of Adventures. \n==History==\n===Past===\nAt school, Kageaki Hiyama was a very studious student who wanted to be a designer, for years he studied for that, but in his first job, he went into the sales sector, which completely demotivated him. During this time, he met two other designers, Syo Sawamura and Kenji Ebiwara, who were friends of his, but moved away from Hiyama over time. Some time later, Hiyama left that company and joined ADventure, once again in the position of selling the company's services.\n===Season One===\n\n==Character==\n==Pokémon==\nThis list is of the Pokémon used by Hiyama in PPA06. Hiyama had two other Pokémon used off-screen, as he faced Madoka in a 5 on 5 battle.\n \n\n==Achievements==\n \nTokyo Short Film Contest - Runner-up (with Madoka Akagi; PPA06)\n \n\n==Names==\n \n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kageaki Hiyama (Japanese: 桧山景明 Hiyama Kageaki) is a main character in A Pocketful of Adventures."
+    },
+    {
+      "heading": "Past",
+      "level": 3,
+      "text": "At school, Kageaki Hiyama was a very studious student who wanted to be a designer, for years he studied for that, but in his first job, he went into the sales sector, which completely demotivated him. During this time, he met two other designers, Syo Sawamura and Kenji Ebiwara, who were friends of his, but moved away from Hiyama over time. Some time later, Hiyama left that company and joined ADventure, once again in the position of selling the company's services."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This list is of the Pokémon used by Hiyama in PPA06. Hiyama had two other Pokémon used off-screen, as he faced Madoka in a 5 on 5 battle."
+    },
+    {
+      "heading": "Achievements",
+      "level": 2,
+      "text": "Tokyo Short Film Contest - Runner-up (with Madoka Akagi; PPA06)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kageaki Hiyama",
+    "pageType": "character",
+    "searchableText": "Kageaki Hiyama\nCategory:A Pocketful of Adventures characters\nKageaki Hiyama (Japanese: 桧山景明 Hiyama Kageaki) is a main character in A Pocketful of Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Past",
+      "Pokémon",
+      "Achievements"
+    ],
+    "characterCount": 886,
+    "sectionCount": 4
+  }
+}

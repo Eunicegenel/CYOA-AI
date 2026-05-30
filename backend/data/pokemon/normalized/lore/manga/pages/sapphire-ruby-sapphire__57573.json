@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Sapphire (Ruby-Sapphire)",
+    "slug": "sapphire-ruby-sapphire",
+    "pageId": 57573,
+    "revisionId": 4263565
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire characters",
+    "sourceFileName": "sapphire-ruby-sapphire__57573.json",
+    "revisionTimestamp": "2025-03-22T19:11:29Z",
+    "fetchedAt": "2026-05-14T15:48:58.150Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Sapphire (Japanese: ルビー Ruby) is a character from Pokémon Ruby-Sapphire who first appeared in Let's Try To Be Idols!!. She is based on from and is one of 's rivals.",
+  "plainText": "Sapphire (Japanese: ルビー Ruby) is a character from Pokémon Ruby-Sapphire who first appeared in Let's Try To Be Idols!!. She is based on from and is one of 's rivals.\n\n==History==\nSapphire is a Pokémon Coordinator from Hoenn who introduced herself to Red when he entered the building with his Pokémon. Red takes a liking to her , seeing that it was the one that he was about to go on a journey with before going to Hoenn. Sapphire recommends him to partake in a Pokémon Contest in which Red does. When it was Sapphire turn to perform on stage, she manages to get a perfect score and wins the competition, placing Red in second place.\n\n==Character==\nDespite being rivals with Red during the Pokémon Contest both of them competed in, she was shown to have some friendly advice.\n\n==Pokémon==\n \n\n==Trivia==\nHer and 's original names were switched in Chuang Yi's English translation of the manga, possibly to match the names of corresponding characters in Pokémon Adventures manga.\n \n \n \n \n \n\nde:Sapphire (Pocket Monster R S (Ruby and Sapphire))\nit:Sapphire (Ruby-Sapphire)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sapphire (Japanese: ルビー Ruby) is a character from Pokémon Ruby-Sapphire who first appeared in Let's Try To Be Idols!!. She is based on from and is one of 's rivals."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Sapphire is a Pokémon Coordinator from Hoenn who introduced herself to Red when he entered the building with his Pokémon. Red takes a liking to her , seeing that it was the one that he was about to go on a journey with before going to Hoenn. Sapphire recommends him to partake in a Pokémon Contest in which Red does. When it was Sapphire turn to perform on stage, she manages to get a perfect score and wins the competition, placing Red in second place."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Despite being rivals with Red during the Pokémon Contest both of them competed in, she was shown to have some friendly advice."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Her and 's original names were switched in Chuang Yi's English translation of the manga, possibly to match the names of corresponding characters in Pokémon Adventures manga.\n \n \n \n \n \n\nde:Sapphire (Pocket Monster R S (Ruby and Sapphire))\nit:Sapphire (Ruby-Sapphire)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sapphire (Ruby-Sapphire)",
+    "pageType": "character",
+    "searchableText": "Sapphire (Ruby-Sapphire)\nCategory:Pokémon Ruby-Sapphire characters\nSapphire (Japanese: ルビー Ruby) is a character from Pokémon Ruby-Sapphire who first appeared in Let's Try To Be Idols!!. She is based on from and is one of 's rivals.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Trivia"
+    ],
+    "characterCount": 1066,
+    "sectionCount": 4
+  }
+}

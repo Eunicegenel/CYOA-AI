@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Get Fired Up! Dragon Type!",
+    "slug": "get-fired-up-dragon-type",
+    "pageId": 220693,
+    "revisionId": 4528687
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "get-fired-up-dragon-type__220693.json",
+    "revisionTimestamp": "2026-04-09T16:41:21Z",
+    "fetchedAt": "2026-05-14T15:20:14.244Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "(Japanese: 燃えよ！ドラゴンタイプ！ Get Fired Up! Dragon Type!) is a created by 山下たかひろ Takahiro Yamashita. It is available online on the Japanese Dragon Pokémon official web page. , , , , , , , and are each featured in their own four-panel comic strip.\n\n \n \n \n\nzh:燃烧吧！龙属性！",
+  "plainText": "(Japanese: 燃えよ！ドラゴンタイプ！ Get Fired Up! Dragon Type!) is a created by 山下たかひろ Takahiro Yamashita. It is available online on the Japanese Dragon Pokémon official web page. , , , , , , , and are each featured in their own four-panel comic strip.\n\n \n \n \n\nzh:燃烧吧！龙属性！",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 燃えよ！ドラゴンタイプ！ Get Fired Up! Dragon Type!) is a created by 山下たかひろ Takahiro Yamashita. It is available online on the Japanese Dragon Pokémon official web page. , , , , , , , and are each featured in their own four-panel comic strip.\n\n \n \n \n\nzh:燃烧吧！龙属性！"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Get Fired Up! Dragon Type!",
+    "pageType": "manga-series",
+    "searchableText": "Get Fired Up! Dragon Type!\nCategory:Manga stubs\n(Japanese: 燃えよ！ドラゴンタイプ！ Get Fired Up! Dragon Type!) is a created by 山下たかひろ Takahiro Yamashita. It is available online on the Japanese Dragon Pokémon official web page. , , , , , , , and are each featured in their own four-panel comic strip.\n\n \n \n \n\nzh:燃烧吧！龙属性！",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 260,
+    "sectionCount": 1
+  }
+}

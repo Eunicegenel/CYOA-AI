@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS41",
+    "slug": "pmrs41",
+    "pageId": 172734,
+    "revisionId": 4264645
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs41__172734.json",
+    "revisionTimestamp": "2025-03-23T18:32:04Z",
+    "fetchedAt": "2026-05-14T15:33:37.943Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "P1 Grand Championship Begins! (Japanese: 開催！！P1グランプリ！ Exhibition!! P1 Grand Prix!) is the forty-first chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "P1 Grand Championship Begins! (Japanese: 開催！！P1グランプリ！ Exhibition!! P1 Grand Prix!) is the forty-first chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "P1 Grand Championship Begins! (Japanese: 開催！！P1グランプリ！ Exhibition!! P1 Grand Prix!) is the forty-first chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS41",
+    "pageType": "chapter",
+    "searchableText": "PMRS41\nCategory:Pokémon Ruby-Sapphire chapters\nP1 Grand Championship Begins! (Japanese: 開催！！P1グランプリ！ Exhibition!! P1 Grand Prix!) is the forty-first chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 269,
+    "sectionCount": 2
+  }
+}

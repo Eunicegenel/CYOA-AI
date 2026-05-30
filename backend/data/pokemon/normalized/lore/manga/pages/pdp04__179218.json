@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PDP04",
+    "slug": "pdp04",
+    "pageId": 179218,
+    "revisionId": 4528026
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp04__179218.json",
+    "revisionTimestamp": "2026-04-09T16:04:05Z",
+    "fetchedAt": "2026-05-14T15:29:37.893Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 急げ！ヒカリのピンチ！！ Hurry Up! 's Pinch!!) is the fourth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: 急げ！ヒカリのピンチ！！ Hurry Up! 's Pinch!!) is the fourth chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nNurse Joy\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nNurse Joy\n\n===Pokémon===\n( )\n( )\n\n \n \n \n\nit:PDP04",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 急げ！ヒカリのピンチ！！ Hurry Up! 's Pinch!!) is the fourth chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Nurse Joy"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Nurse Joy"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n\n \n \n \n\nit:PDP04"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP04",
+    "pageType": "chapter",
+    "searchableText": "PDP04\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: 急げ！ヒカリのピンチ！！ Hurry Up! 's Pinch!!) is the fourth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 286,
+    "sectionCount": 4
+  }
+}

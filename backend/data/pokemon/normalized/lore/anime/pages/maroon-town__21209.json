@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Maroon Town",
+    "slug": "maroon-town",
+    "pageId": 21209,
+    "revisionId": 4261321
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "maroon-town__21209.json",
+    "revisionTimestamp": "2025-03-19T21:52:42Z",
+    "fetchedAt": "2026-05-14T14:35:14.692Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Maroon Town (Japanese: エビチャタウン Ebicha Town) is a small, -exclusive town located in Johto. It is found in between Mahogany Town and Blackthorn City. It was featured in Will the Real Oak Please Stand Up?.\n\nDJ Mary and planned to host a live audience show at the local fairgrounds, with posters placed around town to announce the event. learned about the broadcast, along with its free lunch banquet, and subsequently posed as Mary, Oak, and a producer to get inside.\n\nWhen the real Oak and Mary arrived the following day, they were stunned to see Jessie and James parading as them. With the help of a contest, which was broadcast as the radio show, the local Nurse Joy was able to determine that Jessie and James were in disguise and identify the real Oak and Mary. Once they were out of the way, Oak and Mary began their interview and started answering fans' questions.",
+  "plainText": "Maroon Town (Japanese: エビチャタウン Ebicha Town) is a small, -exclusive town located in Johto. It is found in between Mahogany Town and Blackthorn City. It was featured in Will the Real Oak Please Stand Up?.\n\nDJ Mary and planned to host a live audience show at the local fairgrounds, with posters placed around town to announce the event. learned about the broadcast, along with its free lunch banquet, and subsequently posed as Mary, Oak, and a producer to get inside.\n\nWhen the real Oak and Mary arrived the following day, they were stunned to see Jessie and James parading as them. With the help of a contest, which was broadcast as the radio show, the local Nurse Joy was able to determine that Jessie and James were in disguise and identify the real Oak and Mary. Once they were out of the way, Oak and Mary began their interview and started answering fans' questions.\n\n==In other languages==\n \n \n \n \n \n\nde:Maroon City\nes:Ciudad Marrón/Pueblo Castaño\nit:Città Purpurea\nzh:汇比镇",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Maroon Town (Japanese: エビチャタウン Ebicha Town) is a small, -exclusive town located in Johto. It is found in between Mahogany Town and Blackthorn City. It was featured in Will the Real Oak Please Stand Up?.\n\nDJ Mary and planned to host a live audience show at the local fairgrounds, with posters placed around town to announce the event. learned about the broadcast, along with its free lunch banquet, and subsequently posed as Mary, Oak, and a producer to get inside.\n\nWhen the real Oak and Mary arrived the following day, they were stunned to see Jessie and James parading as them. With the help of a contest, which was broadcast as the radio show, the local Nurse Joy was able to determine that Jessie and James were in disguise and identify the real Oak and Mary. Once they were out of the way, Oak and Mary began their interview and started answering fans' questions."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Maroon City\nes:Ciudad Marrón/Pueblo Castaño\nit:Città Purpurea\nzh:汇比镇"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Maroon Town",
+    "pageType": "location",
+    "searchableText": "Maroon Town\nCategory:Animated series-exclusive locations\nMaroon Town (Japanese: エビチャタウン Ebicha Town) is a small, -exclusive town located in Johto. It is found in between Mahogany Town and Blackthorn City. It was featured in Will the Real Oak Please Stand Up?.\n\nDJ Mary and planned to host a live audience show at the local fairgrounds, with posters placed around town to announce the event. learned about the broadcast, along with its free lunch banquet, and subsequently posed as Mary, Oak, and a producer to get inside.\n\nWhen the real Oak and Mary arrived the following day, they were stunned to see Jessie and James parading as them. With the help of a contest, which was broadcast as the radio show, the local Nurse Joy was able to determine that Jessie and James were in disguise and identify the real Oak and Mary. Once they were out of the way, Oak and Mary began their interview and started answering fans' questions.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 975,
+    "sectionCount": 2
+  }
+}

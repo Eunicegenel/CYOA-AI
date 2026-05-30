@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Calanthe Town",
+    "slug": "calanthe-town",
+    "pageId": 192821,
+    "revisionId": 4487316
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "calanthe-town__192821.json",
+    "revisionTimestamp": "2026-02-16T01:49:51Z",
+    "fetchedAt": "2026-05-14T14:08:13.346Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Calanthe Town (Japanese: エビネタウン Ebine Town) is an -exclusive location in Kalos. It is located between Cyllage City and Geosenge Town. It has a Pokémon Center and the Calanthe Town Central Hospital, which treats humans.\n\nAs Florence fell ill, she was taken to the local hospital by ambulance. While there, even though she had recovered from her illness, she went into a state of emotional despair because the that lived with her and her husband had gone missing. When and were passing through town, Grey rushed towards them because they had Flabébé with them, as they had found her earlier. Flabébé needed a new fairy flower to survive, and so Ash and his friends went to look for one in the highlands neighboring Calanthe Town. When they found one, they paid a visit to the hospital where Flabébé was reunited with Florence.",
+  "plainText": "Calanthe Town (Japanese: エビネタウン Ebine Town) is an -exclusive location in Kalos. It is located between Cyllage City and Geosenge Town. It has a Pokémon Center and the Calanthe Town Central Hospital, which treats humans.\n\nAs Florence fell ill, she was taken to the local hospital by ambulance. While there, even though she had recovered from her illness, she went into a state of emotional despair because the that lived with her and her husband had gone missing. When and were passing through town, Grey rushed towards them because they had Flabébé with them, as they had found her earlier. Flabébé needed a new fairy flower to survive, and so Ash and his friends went to look for one in the highlands neighboring Calanthe Town. When they found one, they paid a visit to the hospital where Flabébé was reunited with Florence.\n\n==Pokémon seen in Calanthe Town==\n \n \n\n==Names==\n \n\n \n \n \n\n \n\nes:Pueblo Calanthe\nfr:Florenville\nit:Petalonia\nzh:耶比那鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Calanthe Town (Japanese: エビネタウン Ebine Town) is an -exclusive location in Kalos. It is located between Cyllage City and Geosenge Town. It has a Pokémon Center and the Calanthe Town Central Hospital, which treats humans.\n\nAs Florence fell ill, she was taken to the local hospital by ambulance. While there, even though she had recovered from her illness, she went into a state of emotional despair because the that lived with her and her husband had gone missing. When and were passing through town, Grey rushed towards them because they had Flabébé with them, as they had found her earlier. Flabébé needed a new fairy flower to survive, and so Ash and his friends went to look for one in the highlands neighboring Calanthe Town. When they found one, they paid a visit to the hospital where Flabébé was reunited with Florence."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Pueblo Calanthe\nfr:Florenville\nit:Petalonia\nzh:耶比那鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Calanthe Town",
+    "pageType": "location",
+    "searchableText": "Calanthe Town\nCategory:Animated series-exclusive locations\nCalanthe Town (Japanese: エビネタウン Ebine Town) is an -exclusive location in Kalos. It is located between Cyllage City and Geosenge Town. It has a Pokémon Center and the Calanthe Town Central Hospital, which treats humans.\n\nAs Florence fell ill, she was taken to the local hospital by ambulance. While there, even though she had recovered from her illness, she went into a state of emotional despair because the that lived with her and her husband had gone missing. When and were passing through town, Grey rushed towards them because they had Flabébé with them, as they had found her earlier. Flabébé needed a new fairy flower to survive, and so Ash and his friends went to look for one in the highlands neighboring Calanthe Town. When they found one, they paid a visit to the hospital where Flabébé was reunited with Florence.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 942,
+    "sectionCount": 2
+  }
+}

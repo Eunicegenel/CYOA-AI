@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "My Besties♡COMIC",
+    "slug": "my-besties-comic",
+    "pageId": 328076,
+    "revisionId": 4528478
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "my-besties-comic__328076.json",
+    "revisionTimestamp": "2026-04-09T16:23:23Z",
+    "fetchedAt": "2026-05-14T15:27:27.813Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "My Besties♡COMIC (Japanese: ) is a Pokémon 4Koma by momo irone created to promote ＃POKÉGENIC in Shibuya ～My Besties♡～. It was published from October 4 to November 8, 2024 on the official Japanese Pokémon Instagram account and from October 4 to November 15, 2024 on Poké Times. It consists of 12 comic strips divided into four mini-arcs.",
+  "plainText": "My Besties♡COMIC (Japanese: ) is a Pokémon 4Koma by momo irone created to promote ＃POKÉGENIC in Shibuya ～My Besties♡～. It was published from October 4 to November 8, 2024 on the official Japanese Pokémon Instagram account and from October 4 to November 15, 2024 on Poké Times. It consists of 12 comic strips divided into four mini-arcs.\n\n==Comics==\n \n\n==References==\n \n\n==External links==\nOfficial website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "My Besties♡COMIC (Japanese: ) is a Pokémon 4Koma by momo irone created to promote ＃POKÉGENIC in Shibuya ～My Besties♡～. It was published from October 4 to November 8, 2024 on the official Japanese Pokémon Instagram account and from October 4 to November 15, 2024 on Poké Times. It consists of 12 comic strips divided into four mini-arcs."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "My Besties♡COMIC",
+    "pageType": "manga-series",
+    "searchableText": "My Besties♡COMIC\nCategory:Manga stubs\nMy Besties♡COMIC (Japanese: ) is a Pokémon 4Koma by momo irone created to promote ＃POKÉGENIC in Shibuya ～My Besties♡～. It was published from October 4 to November 8, 2024 on the official Japanese Pokémon Instagram account and from October 4 to November 15, 2024 on Poké Times. It consists of 12 comic strips divided into four mini-arcs.",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 405,
+    "sectionCount": 2
+  }
+}

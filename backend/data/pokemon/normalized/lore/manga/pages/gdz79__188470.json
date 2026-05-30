@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ79",
+    "slug": "gdz79",
+    "pageId": 188470,
+    "revisionId": 4527528
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz79__188470.json",
+    "revisionTimestamp": "2026-04-09T15:41:43Z",
+    "fetchedAt": "2026-05-14T15:20:11.724Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 一本づりだぜ、特大ギャラドス！ Going Pole-fishing, the Humongous Gyarados!) is the 79th and final chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 一本づりだぜ、特大ギャラドス！ Going Pole-fishing, the Humongous Gyarados!) is the 79th and final chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nFisherman\n\n===Pokémon===\n( )\n(Shu's; new)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 一本づりだぜ、特大ギャラドス！ Going Pole-fishing, the Humongous Gyarados!) is the 79th and final chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nFisherman"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's; new)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ79",
+    "pageType": "chapter",
+    "searchableText": "GDZ79\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 一本づりだぜ、特大ギャラドス！ Going Pole-fishing, the Humongous Gyarados!) is the 79th and final chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 286,
+    "sectionCount": 3
+  }
+}

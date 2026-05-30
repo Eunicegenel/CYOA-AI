@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP27",
+    "slug": "sp27",
+    "pageId": 182542,
+    "revisionId": 4114564
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp27__182542.json",
+    "revisionTimestamp": "2024-09-16T20:30:31Z",
+    "fetchedAt": "2026-05-14T15:50:08.357Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Tale Of The Friendship Between Pikachu And Meowth (Japanese: ピカチュウ &bull; ニャースの友情物語 Tale of the Friendship Between Pikachu and ) s the twenty seventh chapter of the Ash & Pikachu manga.",
+  "plainText": "Tale Of The Friendship Between Pikachu And Meowth (Japanese: ピカチュウ &bull; ニャースの友情物語 Tale of the Friendship Between Pikachu and ) s the twenty seventh chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMax\nJessie\nJames\n\n===Pokémon===\n( )\n( )\n( )\n\n(flashback)\n\n \n \n\n \n\nit:SP27",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tale Of The Friendship Between Pikachu And Meowth (Japanese: ピカチュウ &bull; ニャースの友情物語 Tale of the Friendship Between Pikachu and ) s the twenty seventh chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max\nJessie\nJames"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n(flashback)\n\n \n \n\n \n\nit:SP27"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP27",
+    "pageType": "chapter",
+    "searchableText": "SP27\nCategory:Ash & Pikachu chapters\nTale Of The Friendship Between Pikachu And Meowth (Japanese: ピカチュウ &bull; ニャースの友情物語 Tale of the Friendship Between Pikachu and ) s the twenty seventh chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 357,
+    "sectionCount": 3
+  }
+}

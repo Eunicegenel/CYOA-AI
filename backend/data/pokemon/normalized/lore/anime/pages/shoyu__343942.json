@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Shōyu",
+    "slug": "shoyu",
+    "pageId": 343942,
+    "revisionId": 4530170
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "shoyu__343942.json",
+    "revisionTimestamp": "2026-04-11T07:19:39Z",
+    "fetchedAt": "2026-05-14T14:49:39.217Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Shōyu (Japanese: ショウユ Shōyu) or Shōyu Ninja (Japanese: 忍びのショウユ Shōyu the Shinobi) is recurring character who first appeared in Mega Evolution - Ult. He is a member of the Lost Mayo Maze. His battling partner is Count Hoisin.",
+  "plainText": "Shōyu (Japanese: ショウユ Shōyu) or Shōyu Ninja (Japanese: 忍びのショウユ Shōyu the Shinobi) is recurring character who first appeared in Mega Evolution - Ult. He is a member of the Lost Mayo Maze. His battling partner is Count Hoisin.\n\n==History==\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n \n\n==Names==\n \n\n \n\n \n \n \n\nes:Ninja Soja\nzh:醬油忍者",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shōyu (Japanese: ショウユ Shōyu) or Shōyu Ninja (Japanese: 忍びのショウユ Shōyu the Shinobi) is recurring character who first appeared in Mega Evolution - Ult. He is a member of the Lost Mayo Maze. His battling partner is Count Hoisin."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Ninja Soja\nzh:醬油忍者"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shōyu",
+    "pageType": "character",
+    "searchableText": "Shōyu\nCategory:Animation characters\nShōyu (Japanese: ショウユ Shōyu) or Shōyu Ninja (Japanese: 忍びのショウユ Shōyu the Shinobi) is recurring character who first appeared in Mega Evolution - Ult. He is a member of the Lost Mayo Maze. His battling partner is Count Hoisin.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 321,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM049",
+    "slug": "pm049",
+    "pageId": 160476,
+    "revisionId": 4527927
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm049__160476.json",
+    "revisionTimestamp": "2026-04-09T16:01:14Z",
+    "fetchedAt": "2026-05-14T15:31:00.560Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Fighting Over Otoshidama!! (Japanese: お年玉争奪戦バトル!? Fighting Over Otoshidama!?) is the forty-ninth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Fighting Over Otoshidama!! (Japanese: お年玉争奪戦バトル!? Fighting Over Otoshidama!?) is the forty-ninth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n( 's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 49 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Fighting Over Otoshidama!! (Japanese: お年玉争奪戦バトル!? Fighting Over Otoshidama!?) is the forty-ninth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 49 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM049",
+    "pageType": "chapter",
+    "searchableText": "PM049\nCategory:Pokémon Pocket Monsters chapters\nFighting Over Otoshidama!! (Japanese: お年玉争奪戦バトル!? Fighting Over Otoshidama!?) is the forty-ninth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 335,
+    "sectionCount": 3
+  }
+}

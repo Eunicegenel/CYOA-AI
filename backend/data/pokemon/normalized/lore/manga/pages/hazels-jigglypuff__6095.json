@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Hazel's Jigglypuff",
+    "slug": "hazels-jigglypuff",
+    "pageId": 6095,
+    "revisionId": 4528330
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga characters (Pokémon)",
+    "sourceFileName": "hazels-jigglypuff__6095.json",
+    "revisionTimestamp": "2026-04-09T16:16:00Z",
+    "fetchedAt": "2026-05-14T15:21:20.464Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Jigglypuff (Japanese: プリン Purin) is one of the main characters of Magical Pokémon Journey.",
+  "plainText": "Jigglypuff (Japanese: プリン Purin) is one of the main characters of Magical Pokémon Journey.\n \n\n== Personality and characteristics ==\nJigglypuff's family is apparently rich, since she and her sister live in a mansion with maids and a butler . \n\nJigglypuff is very spoiled. She's used to being treated like a little princess and always getting her own way. Whenever she gets mad, she puffs up to an enormous size. She also puffs up to float, and once when she fell from a cliff. She also loves to cook, but everything she makes tastes absolutely vile. In fact, some of the food she makes has almost killed people, or made them explode or faint. Only can handle her food.\n\nShe likes to follow butterflies.\n\n==Moves used==\n \n \n \n \n \n \n \n\n==Related articles==\n \n \n \n \n\n \n \n \n \n\nfr:Rondoudou (PiPiPi)\nit:Jigglypuff di Nocciola\nja:プリン (ポケットモンスター PiPiPi★アドベンチャー)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jigglypuff (Japanese: プリン Purin) is one of the main characters of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 2,
+      "text": "Jigglypuff's family is apparently rich, since she and her sister live in a mansion with maids and a butler . \n\nJigglypuff is very spoiled. She's used to being treated like a little princess and always getting her own way. Whenever she gets mad, she puffs up to an enormous size. She also puffs up to float, and once when she fell from a cliff. She also loves to cook, but everything she makes tastes absolutely vile. In fact, some of the food she makes has almost killed people, or made them explode or faint. Only can handle her food.\n\nShe likes to follow butterflies."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "fr:Rondoudou (PiPiPi)\nit:Jigglypuff di Nocciola\nja:プリン (ポケットモンスター PiPiPi★アドベンチャー)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hazel's Jigglypuff",
+    "pageType": "character",
+    "searchableText": "Hazel's Jigglypuff\nCategory:Manga characters (Pokémon)\nJigglypuff (Japanese: プリン Purin) is one of the main characters of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Personality and characteristics",
+      "Related articles"
+    ],
+    "characterCount": 853,
+    "sectionCount": 3
+  }
+}

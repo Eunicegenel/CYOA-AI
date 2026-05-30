@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP58",
+    "slug": "pmdp58",
+    "pageId": 176438,
+    "revisionId": 4528383
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp58__176438.json",
+    "revisionTimestamp": "2026-04-09T16:18:51Z",
+    "fetchedAt": "2026-05-14T15:32:49.589Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: おぼっちゃまとガチバトル！！ Serious Battle with a Rich Boy!!) is the fifty-eighth chapter of the manga.",
+  "plainText": "(Japanese: おぼっちゃまとガチバトル！！ Serious Battle with a Rich Boy!!) is the fifty-eighth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( 's)\n( 's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: おぼっちゃまとガチバトル！！ Serious Battle with a Rich Boy!!) is the fifty-eighth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( 's)\n( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP58",
+    "pageType": "chapter",
+    "searchableText": "PMDP58\nCategory:Pocket Monsters DP chapters\n(Japanese: おぼっちゃまとガチバトル！！ Serious Battle with a Rich Boy!!) is the fifty-eighth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 237,
+    "sectionCount": 2
+  }
+}

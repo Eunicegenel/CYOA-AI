@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP69",
+    "slug": "ppp69",
+    "pageId": 6653,
+    "revisionId": 4528378
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp69__6653.json",
+    "revisionTimestamp": "2026-04-09T16:18:47Z",
+    "fetchedAt": "2026-05-14T15:39:19.874Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "True Identities (Japanese: 素顔のままで With Our Masks Off) is the sixty-ninth chapter of the Magical Pokémon Journey manga. It is the final regular chapter in the manga, not including bonus stories.",
+  "plainText": "True Identities (Japanese: 素顔のままで With Our Masks Off) is the sixty-ninth chapter of the Magical Pokémon Journey manga. It is the final regular chapter in the manga, not including bonus stories.\n\n==Plot==\n \n \n\n==Important characters and Pokémon==\nWalnut\nApricot\nMaster Ditto\n\n==Character introductions==\n\n==Important events==\nWalnut and Apricot become a couple.\n\n \n \n\nit:PPP69",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "True Identities (Japanese: 素顔のままで With Our Masks Off) is the sixty-ninth chapter of the Magical Pokémon Journey manga. It is the final regular chapter in the manga, not including bonus stories."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Walnut\nApricot\nMaster Ditto"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Walnut and Apricot become a couple.\n\n \n \n\nit:PPP69"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP69",
+    "pageType": "chapter",
+    "searchableText": "PPP69\nCategory:Magical Pokémon Journey chapters\nTrue Identities (Japanese: 素顔のままで With Our Masks Off) is the sixty-ninth chapter of the Magical Pokémon Journey manga. It is the final regular chapter in the manga, not including bonus stories.",
+    "sectionHeadings": [
+      "Lead",
+      "Important characters and Pokémon",
+      "Important events"
+    ],
+    "characterCount": 375,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PWs1",
+    "slug": "pws1",
+    "pageId": 178245,
+    "revisionId": 4528494
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pws1__178245.json",
+    "revisionTimestamp": "2026-04-09T16:24:11Z",
+    "fetchedAt": "2026-05-14T15:46:52.253Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: おこりんぼうのヒマナッツ Short-Tempered ) is the first side chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. As it is a side chapter, this story doesn't feature a particular card.",
+  "plainText": "(Japanese: おこりんぼうのヒマナッツ Short-Tempered ) is the first side chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. As it is a side chapter, this story doesn't feature a particular card.\n\n==Plot==\n\n==Major events==\n\n==Characters==\n\n===Pokémon===\n\n(multiple)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: おこりんぼうのヒマナッツ Short-Tempered ) is the first side chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. As it is a side chapter, this story doesn't feature a particular card."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(multiple)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PWs1",
+    "pageType": "chapter",
+    "searchableText": "PWs1\nCategory:How I Became a Pokémon Card chapters\n(Japanese: おこりんぼうのヒマナッツ Short-Tempered ) is the first side chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. As it is a side chapter, this story doesn't feature a particular card.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 284,
+    "sectionCount": 2
+  }
+}

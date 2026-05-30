@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "The Gastly Ghosts",
+    "slug": "the-gastly-ghosts",
+    "pageId": 122905,
+    "revisionId": 4132675
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "the-gastly-ghosts__122905.json",
+    "revisionTimestamp": "2024-09-29T05:25:40Z",
+    "fetchedAt": "2026-05-14T15:51:34.791Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: The Gastly Ghosts is the fifth monthly issue of the Pokémon Adventures released by VIZ Media. It contains chapters thirteen, fourteen, and fifteen of the . The chapters originally released in this book were later compiled into the final two chapters of and the first chapter of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: The Gastly Ghosts is the fifth monthly issue of the Pokémon Adventures released by VIZ Media. It contains chapters thirteen, fourteen, and fifteen of the . The chapters originally released in this book were later compiled into the final two chapters of and the first chapter of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n \n \n\n==Chapters==\nChapter 13: Sigh for Psyduck\nChapter 14: That Awful Arbok!\nChapter 15: Wartortle Wars\n\n==Important events==\nmeets .\n\n==Party changes==\n===Evolutions===\nThe following Pokémon evolve:\nRed's (\"Saur\") evolves into in PS015.\n\n==Trivia==\nThis was the final issue of Pokémon Adventures to be released in .\n\n==In other languages==\n \n\n \n \n\nfr:Volume 5 (Pokémon Adventures)\nit:I Grotteschi Gastly",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: The Gastly Ghosts is the fifth monthly issue of the Pokémon Adventures released by VIZ Media. It contains chapters thirteen, fourteen, and fifteen of the . The chapters originally released in this book were later compiled into the final two chapters of and the first chapter of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 13: Sigh for Psyduck\nChapter 14: That Awful Arbok!\nChapter 15: Wartortle Wars"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "meets ."
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "The following Pokémon evolve:\nRed's (\"Saur\") evolves into in PS015."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This was the final issue of Pokémon Adventures to be released in ."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "fr:Volume 5 (Pokémon Adventures)\nit:I Grotteschi Gastly"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Gastly Ghosts",
+    "pageType": "pokemon-related",
+    "searchableText": "The Gastly Ghosts\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: The Gastly Ghosts is the fifth monthly issue of the Pokémon Adventures released by VIZ Media. It contains chapters thirteen, fourteen, and fifteen of the . The chapters originally released in this book were later compiled into the final two chapters of and the first chapter of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Evolutions",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 838,
+    "sectionCount": 6
+  }
+}

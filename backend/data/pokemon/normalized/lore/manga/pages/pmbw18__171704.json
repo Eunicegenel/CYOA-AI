@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW18",
+    "slug": "pmbw18",
+    "pageId": 171704,
+    "revisionId": 4528423
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw18__171704.json",
+    "revisionTimestamp": "2026-04-09T16:19:56Z",
+    "fetchedAt": "2026-05-14T15:31:54.688Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピの鬼たいじ！ 's Demon Extermination) is the eighteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ピッピの鬼たいじ！ 's Demon Extermination) is the eighteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピの鬼たいじ！ 's Demon Extermination) is the eighteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW18",
+    "pageType": "chapter",
+    "searchableText": "PMBW18\nCategory:Pocket Monsters BW chapters\n(Japanese: ピッピの鬼たいじ！ 's Demon Extermination) is the eighteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 240,
+    "sectionCount": 2
+  }
+}

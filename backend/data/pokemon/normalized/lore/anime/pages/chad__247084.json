@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Chad",
+    "slug": "chad",
+    "pageId": 247084,
+    "revisionId": 4240354
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "chad__247084.json",
+    "revisionTimestamp": "2025-02-15T12:50:37Z",
+    "fetchedAt": "2026-05-14T14:09:06.297Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Chad (Japanese: クリオ Kurio) is a character of the day who appeared in Finding a Legend!. His hometown is Ecruteak City.\n\nChad met and Goh after hit his Pokémon with . He later explained why he used his and to pose as and introduced them to his grandfather Jaye. They later headed up the Bell Tower, where they encountered a and who were standing guard. After being distracted by Stantler's illusions, the group reached the top of the tower after Goh caught both Stantler and Misdreavus. Everyone called out to Ho-Oh without success, and Chad proceeded to leave with Ash and Goh.",
+  "plainText": "Chad (Japanese: クリオ Kurio) is a character of the day who appeared in Finding a Legend!. His hometown is Ecruteak City.\n\nChad met and Goh after hit his Pokémon with . He later explained why he used his and to pose as and introduced them to his grandfather Jaye. They later headed up the Bell Tower, where they encountered a and who were standing guard. After being distracted by Stantler's illusions, the group reached the top of the tower after Goh caught both Stantler and Misdreavus. Everyone called out to Ho-Oh without success, and Chad proceeded to leave with Ash and Goh.\n\n==Pokémon==\n \n\n \n\n==Voice actors==\n \n\n==Trivia==\nChad shares his Japanese and English name with Chad on .\n\n==Names==\n \n \n \n\n \n \n \n\nes:Chad\nfr:Lucas (Johto)\nit:Karel\nja:クリオ\nzh:栗生",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chad (Japanese: クリオ Kurio) is a character of the day who appeared in Finding a Legend!. His hometown is Ecruteak City.\n\nChad met and Goh after hit his Pokémon with . He later explained why he used his and to pose as and introduced them to his grandfather Jaye. They later headed up the Bell Tower, where they encountered a and who were standing guard. After being distracted by Stantler's illusions, the group reached the top of the tower after Goh caught both Stantler and Misdreavus. Everyone called out to Ho-Oh without success, and Chad proceeded to leave with Ash and Goh."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Chad shares his Japanese and English name with Chad on ."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Chad\nfr:Lucas (Johto)\nit:Karel\nja:クリオ\nzh:栗生"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Chad",
+    "pageType": "character",
+    "searchableText": "Chad\nCategory:Journeys characters of the day\nChad (Japanese: クリオ Kurio) is a character of the day who appeared in Finding a Legend!. His hometown is Ecruteak City.\n\nChad met and Goh after hit his Pokémon with . He later explained why he used his and to pose as and introduced them to his grandfather Jaye. They later headed up the Bell Tower, where they encountered a and who were standing guard. After being distracted by Stantler's illusions, the group reached the top of the tower after Goh caught both Stantler and Misdreavus. Everyone called out to Ho-Oh without success, and Chad proceeded to leave with Ash and Goh.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 756,
+    "sectionCount": 3
+  }
+}

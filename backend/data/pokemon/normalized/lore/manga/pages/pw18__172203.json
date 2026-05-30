@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "PW18",
+    "slug": "pw18",
+    "pageId": 172203,
+    "revisionId": 4526362
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw18__172203.json",
+    "revisionTimestamp": "2026-04-09T14:39:15Z",
+    "fetchedAt": "2026-05-14T15:46:39.142Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 信じ合う力、ヤドランの奇跡 The Power of Believing, 's Miracle) is the eighteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+  "plainText": "(Japanese: 信じ合う力、ヤドランの奇跡 The Power of Believing, 's Miracle) is the eighteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .\n\n==Plot==\n \n\n==Major events==\n\n==Characters==\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 信じ合う力、ヤドランの奇跡 The Power of Believing, 's Miracle) is the eighteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is ."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW18",
+    "pageType": "chapter",
+    "searchableText": "PW18\nCategory:How I Became a Pokémon Card chapters\n(Japanese: 信じ合う力、ヤドランの奇跡 The Power of Believing, 's Miracle) is the eighteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 262,
+    "sectionCount": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Naomi Shindō",
+    "slug": "naomi-shindo",
+    "pageId": 125023,
+    "revisionId": 4528069
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "naomi-shindo__125023.json",
+    "revisionTimestamp": "2026-04-09T16:05:43Z",
+    "fetchedAt": "2026-05-14T14:38:55.691Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Naomi Shindō (Japanese: 進藤尚美 Shindō Naomi, born November 9, 1972 in , ) is a Japanese voice actress for . Shindō began her work on Pokémon during . Her most significant role is providing the voice for Professor Juniper.",
+  "plainText": "Naomi Shindō (Japanese: 進藤尚美 Shindō Naomi, born November 9, 1972 in , ) is a Japanese voice actress for . Shindō began her work on Pokémon during . Her most significant role is providing the voice for Professor Juniper.\n\n== Pokémon roles ==\n===Animation===\n==== ====\n===== Humans =====\nProfessor Juniper\n\n(AG087)\nNicole\n\nToby\nYoung Ferris\nCadbury\nLotus\n===== Pokémon =====\n(BW029)\n\n===Video games===\n====Pokémon Masters EX====\n\n== Other non-Pokémon roles ==\n( and )\nVera ( )\nNoike Kamiki Jurai ( )\nAries Turner ( OVA)\nHeppokomaru ( )\nKalifa ( )\nKuroudo Marume ( )\nIrene Ellet ( )\nLindsay Thorndyke and Danny ( )\nDecori and Maji-Kayo ( )\nYuu and Ally Rain ( )\nShizuru Fujino ( )\nShizuru Viola ( )\n\n== External links ==\nAoni Production\n \n \n\n \n\nit:Naomi Shindō\nja:進藤尚美",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Naomi Shindō (Japanese: 進藤尚美 Shindō Naomi, born November 9, 1972 in , ) is a Japanese voice actress for . Shindō began her work on Pokémon during . Her most significant role is providing the voice for Professor Juniper."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Professor Juniper\n\n(AG087)\nNicole\n\nToby\nYoung Ferris\nCadbury\nLotus"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(BW029)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "( and )\nVera ( )\nNoike Kamiki Jurai ( )\nAries Turner ( OVA)\nHeppokomaru ( )\nKalifa ( )\nKuroudo Marume ( )\nIrene Ellet ( )\nLindsay Thorndyke and Danny ( )\nDecori and Maji-Kayo ( )\nYuu and Ally Rain ( )\nShizuru Fujino ( )\nShizuru Viola ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Aoni Production\n \n \n\n \n\nit:Naomi Shindō\nja:進藤尚美"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Naomi Shindō",
+    "pageType": "general-anime-lore",
+    "searchableText": "Naomi Shindō\nCategory:Japanese voice actors\nNaomi Shindō (Japanese: 進藤尚美 Shindō Naomi, born November 9, 1972 in , ) is a Japanese voice actress for . Shindō began her work on Pokémon during . Her most significant role is providing the voice for Professor Juniper.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 765,
+    "sectionCount": 5
+  }
+}

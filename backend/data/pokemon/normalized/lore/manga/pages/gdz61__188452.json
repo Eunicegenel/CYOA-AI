@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GDZ61",
+    "slug": "gdz61",
+    "pageId": 188452,
+    "revisionId": 4527716
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz61__188452.json",
+    "revisionTimestamp": "2026-04-09T15:50:47Z",
+    "fetchedAt": "2026-05-14T15:20:00.342Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピチューとピカチュウ Pichu and Pikachu) is the 61st chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ピチューとピカチュウ Pichu and Pikachu) is the 61st chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n(Pichu Brothers)\n\n==Characters==\n===Humans===\nPichu's family\nPikachu's Trainer\nCitizens\n\n===Pokémon===\n(Pichu Brothers)\n\n \n\n \n \n\nit:GDZ61",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピチューとピカチュウ Pichu and Pikachu) is the 61st chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Pichu Brothers)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Pichu's family\nPikachu's Trainer\nCitizens"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Pichu Brothers)\n\n \n\n \n \n\nit:GDZ61"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ61",
+    "pageType": "chapter",
+    "searchableText": "GDZ61\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ピチューとピカチュウ Pichu and Pikachu) is the 61st chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 310,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "To Catch A Caterpie",
+    "slug": "to-catch-a-caterpie",
+    "pageId": 198202,
+    "revisionId": 4132548
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "to-catch-a-caterpie__198202.json",
+    "revisionTimestamp": "2024-09-29T05:23:36Z",
+    "fetchedAt": "2026-05-14T15:51:48.327Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: To Catch A Caterpie is the twenty-third monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters eleven, twelve, and thirteen of the . The chapters originally released in this book were later rereleased as part of and . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: To Catch A Caterpie is the twenty-third monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters eleven, twelve, and thirteen of the . The chapters originally released in this book were later rereleased as part of and . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 51 - Electro Magneton\nChapter 52 - Growing Out of Gengar\nChapter 53 - Can't Catch Caterpie!\n\n==Important events==\n\n \n \n \n\nfr:Volume 23 (Pokémon Adventures)\nit:To Catch A Caterpie",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: To Catch A Caterpie is the twenty-third monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters eleven, twelve, and thirteen of the . The chapters originally released in this book were later rereleased as part of and . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 51 - Electro Magneton\nChapter 52 - Growing Out of Gengar\nChapter 53 - Can't Catch Caterpie!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "fr:Volume 23 (Pokémon Adventures)\nit:To Catch A Caterpie"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "To Catch A Caterpie",
+    "pageType": "pokemon-related",
+    "searchableText": "To Catch A Caterpie\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: To Catch A Caterpie is the twenty-third monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters eleven, twelve, and thirteen of the . The chapters originally released in this book were later rereleased as part of and . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 643,
+    "sectionCount": 3
+  }
+}

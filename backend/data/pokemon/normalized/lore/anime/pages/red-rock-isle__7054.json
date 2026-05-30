@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Red Rock Isle",
+    "slug": "red-rock-isle",
+    "pageId": 7054,
+    "revisionId": 4463368
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "red-rock-isle__7054.json",
+    "revisionTimestamp": "2026-01-06T19:02:26Z",
+    "fetchedAt": "2026-05-14T14:45:54.730Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Red Rock Isle (Japanese: 赤岩島 Isle) is an -exclusive location in Johto, and one of many small islands in the Whirl Islands archipelago. The Whirl Cup is held here, in Scarlet City.",
+  "plainText": "Red Rock Isle (Japanese: 赤岩島 Isle) is an -exclusive location in Johto, and one of many small islands in the Whirl Islands archipelago. The Whirl Cup is held here, in Scarlet City.\n\n==In animation==\n \n and arrived on Red Rock Isle at the end of Mantine Overboard!, when they were taken there by .\n\nIt was the setting for the episodes from Octillery The Outcast to Plant It Now... Diglett Later.\n\nThe events of Octillery The Outcast, Dueling Heroes, and The Perfect Match! follow the annual Whirl Cup competition.\n\nIn, Plant It Now... Diglett Later Ash and his friends visited Diglett Village. During the episode, they tried to protect the older residents of the town from a group of thieves who are attempting to steal the town's upon which the local economy is based, only to find out the thieves were the children of the older residents and were trying to help their parents.\n \n===Locations===\n====Cities and towns====\nScarlet City\nDiglett Village\nTransit Town\n\n===Gallery===\n \n\n==In other languages==\n \n \n \n \n\n \n \n\nde:Red Rock Insel\nes:Isla Roca Roja\nit:Isola Roccia Rossa\nzh:赤岩島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Red Rock Isle (Japanese: 赤岩島 Isle) is an -exclusive location in Johto, and one of many small islands in the Whirl Islands archipelago. The Whirl Cup is held here, in Scarlet City."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "and arrived on Red Rock Isle at the end of Mantine Overboard!, when they were taken there by .\n\nIt was the setting for the episodes from Octillery The Outcast to Plant It Now... Diglett Later.\n\nThe events of Octillery The Outcast, Dueling Heroes, and The Perfect Match! follow the annual Whirl Cup competition.\n\nIn, Plant It Now... Diglett Later Ash and his friends visited Diglett Village. During the episode, they tried to protect the older residents of the town from a group of thieves who are attempting to steal the town's upon which the local economy is based, only to find out the thieves were the children of the older residents and were trying to help their parents."
+    },
+    {
+      "heading": "Cities and towns",
+      "level": 4,
+      "text": "Scarlet City\nDiglett Village\nTransit Town"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Red Rock Insel\nes:Isla Roca Roja\nit:Isola Roccia Rossa\nzh:赤岩島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Red Rock Isle",
+    "pageType": "location",
+    "searchableText": "Red Rock Isle\nCategory:Animated series-exclusive locations\nRed Rock Isle (Japanese: 赤岩島 Isle) is an -exclusive location in Johto, and one of many small islands in the Whirl Islands archipelago. The Whirl Cup is held here, in Scarlet City.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "Cities and towns",
+      "In other languages"
+    ],
+    "characterCount": 1081,
+    "sectionCount": 4
+  }
+}

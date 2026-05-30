@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Goro",
+    "slug": "goro",
+    "pageId": 199897,
+    "revisionId": 4129701
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY: The Legend of the Pokémon Dragon King characters",
+    "sourceFileName": "goro__199897.json",
+    "revisionTimestamp": "2024-09-28T03:41:04Z",
+    "fetchedAt": "2026-05-14T15:20:44.109Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "{Japanese: ゴロー Gorō) is a character who appeared in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He was a competitor in the Dragon King Cup who battled and lost.",
+  "plainText": "{Japanese: ゴロー Gorō) is a character who appeared in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He was a competitor in the Dragon King Cup who battled and lost.\n\n==Pokémon==\n \n \n \n \n\n \n\nit:Goro",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "{Japanese: ゴロー Gorō) is a character who appeared in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He was a competitor in the Dragon King Cup who battled and lost."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Goro"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Goro",
+    "pageType": "character",
+    "searchableText": "Goro\nCategory:Pocket Monsters XY: The Legend of the Pokémon Dragon King characters\n{Japanese: ゴロー Gorō) is a character who appeared in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He was a competitor in the Dragon King Cup who battled and lost.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 208,
+    "sectionCount": 2
+  }
+}

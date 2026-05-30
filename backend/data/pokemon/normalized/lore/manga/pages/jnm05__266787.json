@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "JNM05",
+    "slug": "jnm05",
+    "pageId": 266787,
+    "revisionId": 4528408
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm05__266787.json",
+    "revisionTimestamp": "2026-04-09T16:19:36Z",
+    "fetchedAt": "2026-05-14T15:22:43.340Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Climb to Be the Very Best! (Japanese: サトシ対ダンデ！最強への道！！ VS ! The Road to the Strongest!!) is the fifth chapter of the manga. It is based on the animated series episode by the same name.",
+  "plainText": "The Climb to Be the Very Best! (Japanese: サトシ対ダンデ！最強への道！！ VS ! The Road to the Strongest!!) is the fifth chapter of the manga. It is based on the animated series episode by the same name.\n\n==Plot==\n \n\n==Major events==\nAsh's Pikachu is revealed to be able to Gigantamax.\nand Goh properly meet for the first time.\nThe Gigantamax is defeated and returned to normal.\nAsh learns about the World Coronation Series ranking system.\nAsh receives a Dynamax Band from Leon.\nAsh has an unofficial with Leon and loses.\nAsh decides to challenge the World Coronation Series to one day have an official battle with Leon.\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nGoh\n\nDan\n\n===Pokémon===\n( ; Gigantamax)\n( )\n( ; Gigantamax)\n( ; Gigantamax)\n\n==Differences between the animated series and the manga==\nTeam Rocket's involvement with Drednaw and the wild are removed.\nDan debuts here, as his appearance in Flash of the Titans! was omitted in Flash of the Titans!.\nGoh catching his is omitted.\n\n \n \n \n\nes:PV005\nit:JNM05",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Climb to Be the Very Best! (Japanese: サトシ対ダンデ！最強への道！！ VS ! The Road to the Strongest!!) is the fifth chapter of the manga. It is based on the animated series episode by the same name."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ash's Pikachu is revealed to be able to Gigantamax.\nand Goh properly meet for the first time.\nThe Gigantamax is defeated and returned to normal.\nAsh learns about the World Coronation Series ranking system.\nAsh receives a Dynamax Band from Leon.\nAsh has an unofficial with Leon and loses.\nAsh decides to challenge the World Coronation Series to one day have an official battle with Leon."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\n\nDan"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; Gigantamax)\n( )\n( ; Gigantamax)\n( ; Gigantamax)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "Team Rocket's involvement with Drednaw and the wild are removed.\nDan debuts here, as his appearance in Flash of the Titans! was omitted in Flash of the Titans!.\nGoh catching his is omitted.\n\n \n \n \n\nes:PV005\nit:JNM05"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM05",
+    "pageType": "chapter",
+    "searchableText": "JNM05\nCategory:Pokémon Journeys chapters\nThe Climb to Be the Very Best! (Japanese: サトシ対ダンデ！最強への道！！ VS ! The Road to the Strongest!!) is the fifth chapter of the manga. It is based on the animated series episode by the same name.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 1038,
+    "sectionCount": 5
+  }
+}

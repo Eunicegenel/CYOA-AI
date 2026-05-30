@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Journeys volume 4",
+    "slug": "pokemon-journeys-volume-4",
+    "pageId": 264465,
+    "revisionId": 4124178
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys volumes",
+    "sourceFileName": "pokemon-journeys-volume-4__264465.json",
+    "revisionTimestamp": "2024-09-23T16:17:35Z",
+    "fetchedAt": "2026-05-14T15:36:35.265Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 4 is the fourth and final volume of the manga created by Machito Gomi.",
+  "plainText": "Volume 4 is the fourth and final volume of the manga created by Machito Gomi.\n\n==Publications==\n \n \n \n \n \n\n==Chapters==\nChapter 19 - Thrash of the Titans!\nChapter 20 - Advice to Goh!\nChapter 21 - Leaping Toward the Dream!\nChapter 22 - Detective Drizzile!\nChapter 23 - Ultra Exciting from the Shocking Start! & Trial on a Golden Scale! (Part 1)\nChapter 24 - Ultra Exciting from the Shocking Start! & Trial on a Golden Scale! (Part 2)\n\n \n\n \n\n \n\nde:Band 4 (Pokémon Reisen)\nes:Tomo 4 (Pokémon Viaje)\nit:Pokémon Journeys volume 4",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 4 is the fourth and final volume of the manga created by Machito Gomi."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 19 - Thrash of the Titans!\nChapter 20 - Advice to Goh!\nChapter 21 - Leaping Toward the Dream!\nChapter 22 - Detective Drizzile!\nChapter 23 - Ultra Exciting from the Shocking Start! & Trial on a Golden Scale! (Part 1)\nChapter 24 - Ultra Exciting from the Shocking Start! & Trial on a Golden Scale! (Part 2)\n\n \n\n \n\n \n\nde:Band 4 (Pokémon Reisen)\nes:Tomo 4 (Pokémon Viaje)\nit:Pokémon Journeys volume 4"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Journeys volume 4",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Journeys volume 4\nCategory:Pokémon Journeys volumes\nVolume 4 is the fourth and final volume of the manga created by Machito Gomi.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 524,
+    "sectionCount": 2
+  }
+}

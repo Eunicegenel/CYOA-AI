@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pocket Monsters DP volumes",
+    "slug": "list-of-pocket-monsters-dp-volumes",
+    "pageId": 84297,
+    "revisionId": 4130979
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP volumes",
+    "sourceFileName": "list-of-pocket-monsters-dp-volumes__84297.json",
+    "revisionTimestamp": "2024-09-29T03:56:51Z",
+    "fetchedAt": "2026-05-14T15:24:35.159Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "This is a list of volumes of the manga created by Kosaku Anakubo. There are five volumes in total. The Pocket Monsters DP manga has never been officially translated into English.",
+  "plainText": "This is a list of volumes of the manga created by Kosaku Anakubo. There are five volumes in total. The Pocket Monsters DP manga has never been officially translated into English.\n\n==List of volumes==\n \n\n \n\n \n \n\nit:Elenco dei volumi di Pocket Monsters DP\nzh:寶可夢歡樂祭 鑽石・珍珠篇單行本列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of volumes of the manga created by Kosaku Anakubo. There are five volumes in total. The Pocket Monsters DP manga has never been officially translated into English."
+    },
+    {
+      "heading": "List of volumes",
+      "level": 2,
+      "text": "it:Elenco dei volumi di Pocket Monsters DP\nzh:寶可夢歡樂祭 鑽石・珍珠篇單行本列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pocket Monsters DP volumes",
+    "pageType": "general-manga-lore",
+    "searchableText": "List of Pocket Monsters DP volumes\nCategory:Pocket Monsters DP volumes\nThis is a list of volumes of the manga created by Kosaku Anakubo. There are five volumes in total. The Pocket Monsters DP manga has never been officially translated into English.",
+    "sectionHeadings": [
+      "Lead",
+      "List of volumes"
+    ],
+    "characterCount": 275,
+    "sectionCount": 2
+  }
+}

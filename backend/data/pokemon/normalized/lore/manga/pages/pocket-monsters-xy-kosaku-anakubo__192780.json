@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters XY (Kosaku Anakubo)",
+    "slug": "pocket-monsters-xy-kosaku-anakubo",
+    "pageId": 192780,
+    "revisionId": 4528315
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY",
+    "sourceFileName": "pocket-monsters-xy-kosaku-anakubo__192780.json",
+    "revisionTimestamp": "2026-04-09T16:15:40Z",
+    "fetchedAt": "2026-05-14T15:34:33.988Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "(Japanese: ポケットモンスターXY Pocket Monsters XY) is a Pokémon manga created by 穴久保幸作 Kosaku Anakubo. It is follow-up to the series, following the legacy of sequels to the original Pokémon Pocket Monsters series. The plot follows the adventures of and his Pokémon as they travel to the Kalos region. It is chiefly a gag manga using crude humor and slapstick. It was succeeded by Pocket Monsters Sun Moon.",
+  "plainText": "(Japanese: ポケットモンスターXY Pocket Monsters XY) is a Pokémon manga created by 穴久保幸作 Kosaku Anakubo. It is follow-up to the series, following the legacy of sequels to the original Pokémon Pocket Monsters series. The plot follows the adventures of and his Pokémon as they travel to the Kalos region. It is chiefly a gag manga using crude humor and slapstick. It was succeeded by Pocket Monsters Sun Moon.\n\n==List of volumes==\n \n\n \n\n \n \n \n\nde:Pocket Monsters X/Y (Kosaku Anakubo)\nes:Pocket Monsters X Y-hen\nit:Pocket Monsters XY (Kosaku Anakubo)\nzh:宝可梦欢乐祭 X・Y篇",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケットモンスターXY Pocket Monsters XY) is a Pokémon manga created by 穴久保幸作 Kosaku Anakubo. It is follow-up to the series, following the legacy of sequels to the original Pokémon Pocket Monsters series. The plot follows the adventures of and his Pokémon as they travel to the Kalos region. It is chiefly a gag manga using crude humor and slapstick. It was succeeded by Pocket Monsters Sun Moon."
+    },
+    {
+      "heading": "List of volumes",
+      "level": 2,
+      "text": "de:Pocket Monsters X/Y (Kosaku Anakubo)\nes:Pocket Monsters X Y-hen\nit:Pocket Monsters XY (Kosaku Anakubo)\nzh:宝可梦欢乐祭 X・Y篇"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters XY (Kosaku Anakubo)",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters XY (Kosaku Anakubo)\nCategory:Pocket Monsters XY\n(Japanese: ポケットモンスターXY Pocket Monsters XY) is a Pokémon manga created by 穴久保幸作 Kosaku Anakubo. It is follow-up to the series, following the legacy of sequels to the original Pokémon Pocket Monsters series. The plot follows the adventures of and his Pokémon as they travel to the Kalos region. It is chiefly a gag manga using crude humor and slapstick. It was succeeded by Pocket Monsters Sun Moon.",
+    "sectionHeadings": [
+      "Lead",
+      "List of volumes"
+    ],
+    "characterCount": 552,
+    "sectionCount": 2
+  }
+}

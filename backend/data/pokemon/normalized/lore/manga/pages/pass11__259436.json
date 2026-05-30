@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASS11",
+    "slug": "pass11",
+    "pageId": 259436,
+    "revisionId": 4528294
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass11__259436.json",
+    "revisionTimestamp": "2026-04-09T16:14:11Z",
+    "fetchedAt": "2026-05-14T15:28:46.415Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Gulp!! Gulp Pokémon (Japanese: ゴクゴク！！うのみポケモン Glug!! The Gulp Pokémon) is the 11th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Gulp!! Gulp Pokémon (Japanese: ゴクゴク！！うのみポケモン Glug!! The Gulp Pokémon) is the 11th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nrescues Kilo from a .\nHop catches the Cramorant.\nHenry and Casey earn the .\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n(Gigantamax)\n(regular and )\n\n==Characters==\n===Humans===\nHenry\nCasey\nHop\nBede (image)\nMarnie (image)\nKabu \nRaihan\nLeon (flashback)\nMarvin\ns (flashback)\nAnnouncer \n\n===Pokémon===\n(Rotom Bike; Henry's)\n(Kilo; Dynamax; Casey's)\n( )\n(Rotom Phone; Casey's)\n(Hop's)\n(Hop's)\n(Hop's)\n(Hop's)\n(Hop's; ; new)\n(Gigantamax; Kabu's)\n(Raihan's; debut)\n\n \n\n \n \n \n\nde:Begegnung mit dem Schling-Pokémon\nes:PMSSwSh11\nfr:Chapitre 11 (Pocket Monsters Special Épée et Bouclier)\nit:PASS11\nzh:宝可梦特别篇 剑·盾篇 第11话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Gulp!! Gulp Pokémon (Japanese: ゴクゴク！！うのみポケモン Glug!! The Gulp Pokémon) is the 11th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "rescues Kilo from a .\nHop catches the Cramorant.\nHenry and Casey earn the ."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Gigantamax)\n(regular and )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nHop\nBede (image)\nMarnie (image)\nKabu \nRaihan\nLeon (flashback)\nMarvin\ns (flashback)\nAnnouncer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Rotom Bike; Henry's)\n(Kilo; Dynamax; Casey's)\n( )\n(Rotom Phone; Casey's)\n(Hop's)\n(Hop's)\n(Hop's)\n(Hop's)\n(Hop's; ; new)\n(Gigantamax; Kabu's)\n(Raihan's; debut)\n\n \n\n \n \n \n\nde:Begegnung mit dem Schling-Pokémon\nes:PMSSwSh11\nfr:Chapitre 11 (Pocket Monsters Special Épée et Bouclier)\nit:PASS11\nzh:宝可梦特别篇 剑·盾篇 第11话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS11",
+    "pageType": "chapter",
+    "searchableText": "PASS11\nCategory:Pokémon Adventures chapters\nGulp!! Gulp Pokémon (Japanese: ゴクゴク！！うのみポケモン Glug!! The Gulp Pokémon) is the 11th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 782,
+    "sectionCount": 5
+  }
+}

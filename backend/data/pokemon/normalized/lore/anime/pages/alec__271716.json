@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Alec",
+    "slug": "alec",
+    "pageId": 271716,
+    "revisionId": 4287967
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Hisuian Snow characters",
+    "sourceFileName": "alec__271716.json",
+    "revisionTimestamp": "2025-04-26T19:47:58Z",
+    "fetchedAt": "2026-05-14T14:00:28.511Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Alec (Japanese: アキオ Akio) is the protagonist of Pokémon: Hisuian Snow.",
+  "plainText": "Alec (Japanese: アキオ Akio) is the protagonist of Pokémon: Hisuian Snow.\n\n==History==\n \n===Past===\nAs shown in Onto the Icy Blue, Alec was a very energetic and playful young man. One day, while walking with his , Alec hears the legend of a who lived in the forest and was vexed by humans. Not long after that, Alec decided to take a little walk through the woods where he finds a . When approaching this Pokémon, the two end up falling out and, during the fight, they go downhill.\n\nIn Fiery Reflections in Snow, Alec had lost consciousness in the fall and soon wakes up to see Zorua staring down at him. The two help each other out, Alec pushing Zorua up and free and Zorua healing Alec's injured leg with a leek. After the duo managed to escape, Alec eventually finds his father again. Afterwards, a pack of Zorua and Zoroark appear in front of them to retrieve the Shiny Zorua. After the pack leaves, Alec and his father leave as Alec is saddened for losing his new friend.\n\n===Present Days===\nYears have passed, and an adult Alec is traveling to Jubilife Village to meet with his father. During the trip, he is informed that the village has been attacked by a mysterious Pokémon.\n\n==Character==\nAlec was a boy who lives in Jubilife Village with his . Despite being quite energetic, Alec has a deep respect for his father. Once a year, they go down to the forest to fetch firewood, which makes them interact little with the population of Hisui.\n\nAs a child, Alec had a mask, but he lost it when he met his friend. As an adult, his father made him a new mask, one of a Hisuian Zoroark.\n\n==Pokémon==\n===Befriended===\n \n\n==Voice actors==\n \n\n==Artwork==\n \n \n==Names==\n \n \n \n\nde:Alec\nes:Alec\nit:Alec\nzh:曉星",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Alec (Japanese: アキオ Akio) is the protagonist of Pokémon: Hisuian Snow."
+    },
+    {
+      "heading": "Past",
+      "level": 3,
+      "text": "As shown in Onto the Icy Blue, Alec was a very energetic and playful young man. One day, while walking with his , Alec hears the legend of a who lived in the forest and was vexed by humans. Not long after that, Alec decided to take a little walk through the woods where he finds a . When approaching this Pokémon, the two end up falling out and, during the fight, they go downhill.\n\nIn Fiery Reflections in Snow, Alec had lost consciousness in the fall and soon wakes up to see Zorua staring down at him. The two help each other out, Alec pushing Zorua up and free and Zorua healing Alec's injured leg with a leek. After the duo managed to escape, Alec eventually finds his father again. Afterwards, a pack of Zorua and Zoroark appear in front of them to retrieve the Shiny Zorua. After the pack leaves, Alec and his father leave as Alec is saddened for losing his new friend."
+    },
+    {
+      "heading": "Present Days",
+      "level": 3,
+      "text": "Years have passed, and an adult Alec is traveling to Jubilife Village to meet with his father. During the trip, he is informed that the village has been attacked by a mysterious Pokémon."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Alec was a boy who lives in Jubilife Village with his . Despite being quite energetic, Alec has a deep respect for his father. Once a year, they go down to the forest to fetch firewood, which makes them interact little with the population of Hisui.\n\nAs a child, Alec had a mask, but he lost it when he met his friend. As an adult, his father made him a new mask, one of a Hisuian Zoroark."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:Alec\nes:Alec\nit:Alec\nzh:曉星"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Alec",
+    "pageType": "character",
+    "searchableText": "Alec\nCategory:Pokémon: Hisuian Snow characters\nAlec (Japanese: アキオ Akio) is the protagonist of Pokémon: Hisuian Snow.",
+    "sectionHeadings": [
+      "Lead",
+      "Past",
+      "Present Days",
+      "Character",
+      "Names"
+    ],
+    "characterCount": 1700,
+    "sectionCount": 5
+  }
+}

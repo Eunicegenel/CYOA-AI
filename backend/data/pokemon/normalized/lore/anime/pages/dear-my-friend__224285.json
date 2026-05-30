@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Dear My Friend",
+    "slug": "dear-my-friend",
+    "pageId": 224285,
+    "revisionId": 3957579
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Korean movie ending themes",
+    "sourceFileName": "dear-my-friend__224285.json",
+    "revisionTimestamp": "2024-03-17T13:48:40Z",
+    "fetchedAt": "2026-05-14T14:11:30.590Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "is the ending theme for the Korean dub of Pokémon: Giratina and the Sky Warrior. It is performed by W&Whale.",
+  "plainText": "is the ending theme for the Korean dub of Pokémon: Giratina and the Sky Warrior. It is performed by W&Whale.\n\n==Lyrics==\n \n! Korean\n! English\n\n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\nDear my friend\nNever forget you\nRemember when we there\n\nDear my friend\nNever forget us\nRemember we will be there\n\nDear my friend\nNever forget you\nRemember when we there\n\nDear my friend\nNever forget us\nRemember we will be there \n\nYour quiet message\nIt gives me a feel-good smile\n\nBehind those white clouds\nOver the very high sky\nYou will always be smiling\n\nWas our too quick\nFamiliarity regretful?\nEven though you leave without a word\n\nI won't forget you my friend\nI'll remember your name\nEven your somewhat awkward smile\n\nI'll be waiting here\nI'll remember your promise\nLike the time we first met\n\nOccasionally speak to me\nThough I won't be able to see you\nIf you also want to see me\n\nEven now, on top of that wall\nAlways, inside our photos \nThere's something that seems so good\n\nWas our too quick\nFamiliarity regretful?\nEven though you leave without a word\n\nI won't forget you my friend\nI'll remember your name\nEven your somewhat awkward smile\n\nI'll be waiting here\nI'll remember your promise\nLike the time we first met\n\nThough my story seems foolish\nEven though it is useless now\nI even sometimes disliked you\n\nI won't forget you my friend\nI'll remember how warm you were\nLike our last day together\n\nDear my friend\nNever forget you\nRemember when we there\n\nDear my friend\nNever forget us\nRemember we will be there\n\nDear my friend\nNever forget you\nRemember when we there\n\nDear my friend\nNever forget us\nRemember we will be there \n\n \n \n \n\nzh:寶可夢電影 韓語片尾曲11",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "is the ending theme for the Korean dub of Pokémon: Giratina and the Sky Warrior. It is performed by W&Whale."
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "! Korean\n! English\n\n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\nDear my friend\nNever forget you\nRemember when we there\n\nDear my friend\nNever forget us\nRemember we will be there\n\nDear my friend\nNever forget you\nRemember when we there\n\nDear my friend\nNever forget us\nRemember we will be there \n\nYour quiet message\nIt gives me a feel-good smile\n\nBehind those white clouds\nOver the very high sky\nYou will always be smiling\n\nWas our too quick\nFamiliarity regretful?\nEven though you leave without a word\n\nI won't forget you my friend\nI'll remember your name\nEven your somewhat awkward smile\n\nI'll be waiting here\nI'll remember your promise\nLike the time we first met\n\nOccasionally speak to me\nThough I won't be able to see you\nIf you also want to see me\n\nEven now, on top of that wall\nAlways, inside our photos \nThere's something that seems so good\n\nWas our too quick\nFamiliarity regretful?\nEven though you leave without a word\n\nI won't forget you my friend\nI'll remember your name\nEven your somewhat awkward smile\n\nI'll be waiting here\nI'll remember your promise\nLike the time we first met\n\nThough my story seems foolish\nEven though it is useless now\nI even sometimes disliked you\n\nI won't forget you my friend\nI'll remember how warm you were\nLike our last day together\n\nDear my friend\nNever forget you\nRemember when we there\n\nDear my friend\nNever forget us\nRemember we will be there\n\nDear my friend\nNever forget you\nRemember when we there\n\nDear my friend\nNever forget us\nRemember we will be there \n\n \n \n \n\nzh:寶可夢電影 韓語片尾曲11"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dear My Friend",
+    "pageType": "movie",
+    "searchableText": "Dear My Friend\nCategory:Korean movie ending themes\nis the ending theme for the Korean dub of Pokémon: Giratina and the Sky Warrior. It is performed by W&Whale.",
+    "sectionHeadings": [
+      "Lead",
+      "Lyrics"
+    ],
+    "characterCount": 1679,
+    "sectionCount": 2
+  }
+}

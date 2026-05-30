@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Pokémon Diamond & Pearl 4Koma Comic Compilation",
+    "slug": "pokemon-diamond-and-pearl-4koma-comic-compilation",
+    "pageId": 220585,
+    "revisionId": 3790784
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-diamond-and-pearl-4koma-comic-compilation__220585.json",
+    "revisionTimestamp": "2023-09-02T11:35:40Z",
+    "fetchedAt": "2026-05-14T15:36:17.250Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモンダイヤモンド・パール 4コマまんが全集 Pokémon Diamond & Pearl 4Koma Comic Compilation) is a Pokémon 4Koma by Santa Harukaze.",
+  "plainText": "(Japanese: ポケモンダイヤモンド・パール 4コマまんが全集 Pokémon Diamond & Pearl 4Koma Comic Compilation) is a Pokémon 4Koma by Santa Harukaze.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンダイヤモンド・パール 4コマまんが全集 Pokémon Diamond & Pearl 4Koma Comic Compilation) is a Pokémon 4Koma by Santa Harukaze."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Diamond & Pearl 4Koma Comic Compilation",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Diamond & Pearl 4Koma Comic Compilation\nCategory:Pokémon 4Koma\n(Japanese: ポケモンダイヤモンド・パール 4コマまんが全集 Pokémon Diamond & Pearl 4Koma Comic Compilation) is a Pokémon 4Koma by Santa Harukaze.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 121,
+    "sectionCount": 1
+  }
+}

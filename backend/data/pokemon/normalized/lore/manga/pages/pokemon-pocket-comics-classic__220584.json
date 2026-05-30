@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Pocket Comics: Classic",
+    "slug": "pokemon-pocket-comics-classic",
+    "pageId": 220584,
+    "revisionId": 4130703
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-pocket-comics-classic__220584.json",
+    "revisionTimestamp": "2024-09-29T03:51:07Z",
+    "fetchedAt": "2026-05-14T15:36:48.204Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Pocket Comics: Classic (Japanese: ポケモン４コマまんが全集 Pokémon 4Koma Comic Compilation) is a Pokémon 4Koma created by Santa Harukaze. It is 224 pages long.",
+  "plainText": "Pokémon Pocket Comics: Classic (Japanese: ポケモン４コマまんが全集 Pokémon 4Koma Comic Compilation) is a Pokémon 4Koma created by Santa Harukaze. It is 224 pages long.\n\n==Publications==\n \n \n \n\n==Related articles==\nPokémon Pocket Comics: Black & White\nPokémon Pocket Comics: Legendary Pokémon\nPokémon Pocket Comics: XY\nPokémon Pocket Comics: Sun & Moon\n\n==External links==\nVIZ Media's website\n\n \n \n \n\n \n\nit:Pokémon Pocket Comics: Classic",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Pocket Comics: Classic (Japanese: ポケモン４コマまんが全集 Pokémon 4Koma Comic Compilation) is a Pokémon 4Koma created by Santa Harukaze. It is 224 pages long."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Pokémon Pocket Comics: Black & White\nPokémon Pocket Comics: Legendary Pokémon\nPokémon Pocket Comics: XY\nPokémon Pocket Comics: Sun & Moon"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "VIZ Media's website\n\n \n \n \n\n \n\nit:Pokémon Pocket Comics: Classic"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pocket Comics: Classic",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pocket Comics: Classic\nCategory:Pokémon 4Koma\nPokémon Pocket Comics: Classic (Japanese: ポケモン４コマまんが全集 Pokémon 4Koma Comic Compilation) is a Pokémon 4Koma created by Santa Harukaze. It is 224 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles",
+      "External links"
+    ],
+    "characterCount": 424,
+    "sectionCount": 3
+  }
+}

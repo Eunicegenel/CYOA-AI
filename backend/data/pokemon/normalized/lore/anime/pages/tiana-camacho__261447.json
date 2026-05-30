@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Tiana Camacho",
+    "slug": "tiana-camacho",
+    "pageId": 261447,
+    "revisionId": 4191223
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "tiana-camacho__261447.json",
+    "revisionTimestamp": "2024-11-24T01:54:49Z",
+    "fetchedAt": "2026-05-14T14:54:24.011Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Tiana Camacho is a non-binary voice actor for the English-language dub of . They are currently affiliated with Atlas Talent Agency.",
+  "plainText": "Tiana Camacho is a non-binary voice actor for the English-language dub of . They are currently affiliated with Atlas Talent Agency.\n\n==Biography==\nCamacho is an American voice actor, born and raised in Brooklyn (Coney Island), New York. They joined the during , voicing Galar Gym Leader Bea.\n\n==Pokémon roles==\n===Animation===\n==== ====\nBea\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nWhite Blood Cell (Neutrophil) (1212) (Cells at Work! CODE BLACK)\nChristina (Great Pretender)\nSheama (Shironeko Project ZERO CHRONICLE)\nSteph (Ancient Frontier)\nFirebird, Claire Temple (Avengers Academy)\nQi'Tara (Awesomenauts)\nFemale Berserker (Ballistic Overkill)\nJorgen (Beefcake Boys)\nUnavowed (Galene, Sammy, Janey)\nMultiple characters (Droners)\n\n==External links==\nBehind The Voice Actors\nOfficial website\nTwitter\n\n \n \n \n \n\nit:Tiana Camacho",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tiana Camacho is a non-binary voice actor for the English-language dub of . They are currently affiliated with Atlas Talent Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Camacho is an American voice actor, born and raised in Brooklyn (Coney Island), New York. They joined the during , voicing Galar Gym Leader Bea."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Bea"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "White Blood Cell (Neutrophil) (1212) (Cells at Work! CODE BLACK)\nChristina (Great Pretender)\nSheama (Shironeko Project ZERO CHRONICLE)\nSteph (Ancient Frontier)\nFirebird, Claire Temple (Avengers Academy)\nQi'Tara (Awesomenauts)\nFemale Berserker (Ballistic Overkill)\nJorgen (Beefcake Boys)\nUnavowed (Galene, Sammy, Janey)\nMultiple characters (Droners)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Behind The Voice Actors\nOfficial website\nTwitter\n\n \n \n \n \n\nit:Tiana Camacho"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tiana Camacho",
+    "pageType": "general-anime-lore",
+    "searchableText": "Tiana Camacho\nCategory:TPCi voice actors\nTiana Camacho is a non-binary voice actor for the English-language dub of . They are currently affiliated with Atlas Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 860,
+    "sectionCount": 5
+  }
+}

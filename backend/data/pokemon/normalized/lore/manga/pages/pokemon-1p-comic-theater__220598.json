@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Pokémon 1P Comic Theater",
+    "slug": "pokemon-1p-comic-theater",
+    "pageId": 220598,
+    "revisionId": 4528067
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-1p-comic-theater__220598.json",
+    "revisionTimestamp": "2026-04-09T16:05:42Z",
+    "fetchedAt": "2026-05-14T15:34:41.675Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケットモンスター1Pコミック劇場 Pokémon 1P Comic Theater) is a by Miho Narita (成田 美穂).\n\n \n \n\n \n\n \n\nit:Pokémon 1P Comic Theater\nzh:宝可梦1P漫画剧场",
+  "plainText": "(Japanese: ポケットモンスター1Pコミック劇場 Pokémon 1P Comic Theater) is a by Miho Narita (成田 美穂).\n\n \n \n\n \n\n \n\nit:Pokémon 1P Comic Theater\nzh:宝可梦1P漫画剧场",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケットモンスター1Pコミック劇場 Pokémon 1P Comic Theater) is a by Miho Narita (成田 美穂).\n\n \n \n\n \n\n \n\nit:Pokémon 1P Comic Theater\nzh:宝可梦1P漫画剧场"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 1P Comic Theater",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 1P Comic Theater\nCategory:Pokémon 4Koma\n(Japanese: ポケットモンスター1Pコミック劇場 Pokémon 1P Comic Theater) is a by Miho Narita (成田 美穂).\n\n \n \n\n \n\n \n\nit:Pokémon 1P Comic Theater\nzh:宝可梦1P漫画剧场",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 136,
+    "sectionCount": 1
+  }
+}

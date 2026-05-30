@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMDP23",
+    "slug": "pmdp23",
+    "pageId": 176402,
+    "revisionId": 4528354
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp23__176402.json",
+    "revisionTimestamp": "2026-04-09T16:17:16Z",
+    "fetchedAt": "2026-05-14T15:32:27.530Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ブリーフ の ！！ Professor Briefs' Strange Inventions!!) is the twenty-third chapter of the manga.",
+  "plainText": "(Japanese: ブリーフ の ！！ Professor Briefs' Strange Inventions!!) is the twenty-third chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Briefs\n\n===Pokémon===\n( )\n( )\n( )\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ブリーフ の ！！ Professor Briefs' Strange Inventions!!) is the twenty-third chapter of the manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Briefs"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP23",
+    "pageType": "chapter",
+    "searchableText": "PMDP23\nCategory:Pocket Monsters DP chapters\n(Japanese: ブリーフ の ！！ Professor Briefs' Strange Inventions!!) is the twenty-third chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 248,
+    "sectionCount": 3
+  }
+}

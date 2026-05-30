@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Viaplay",
+    "slug": "viaplay",
+    "pageId": 251687,
+    "revisionId": 4333942
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TV and VOD",
+    "sourceFileName": "viaplay__251687.json",
+    "revisionTimestamp": "2025-07-10T17:28:27Z",
+    "fetchedAt": "2026-05-14T14:56:47.972Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Viaplay is a subscription service and digital media store owned and operated by . Launched in May 2007 as Viasat OnDemand, the service was renamed as Viaplay in March 2011, and is available in , , , and . Content is accessible by different methods; some is available through a monthly subscription, and others can be purchased or rented.",
+  "plainText": "Viaplay is a subscription service and digital media store owned and operated by . Launched in May 2007 as Viasat OnDemand, the service was renamed as Viaplay in March 2011, and is available in , , , and . Content is accessible by different methods; some is available through a monthly subscription, and others can be purchased or rented.\n\n==Availability of the animated series==\nAs of May 2020, the following is available with a Viaplay subscription in Sweden , Norway , Denmark and Finland :\n\nSeason 14 - Pokémon: Black & White\nSeason 15 - Pokémon BW: Rival Destinies\nSeason 16 - Pokémon BW: Adventures in Unova and Beyond\nSeason 17 - Pokémon the Series: XY\nSeason 18 - Pokémon the Series: XY Kalos Quest\nSeason 19 - Pokémon the Series: XYZ\nSeason 20 - Pokémon the Series: Sun & Moon\nSeason 21 - Pokémon the Series: Sun & Moon—Ultra Adventures\nSeason 22 - Pokémon the Series: Sun & Moon—Ultra Legends\n\n==Availability of the movies==\nAs of May 2020, the following is available:\n\nPokémon 4Ever - Celebi: The Voice of the Forest\nDenmark - Rental: 39 \nNorway - Rental: 39 \nFinland - Rental: 3.99 \n\nPokémon the Movie: I Choose You!\nSweden - Rental: 29 \nDenmark - Rental: 29 DKK\nNorway - Rental: 29 NOK\nFinland - Rental: 2.99 EUR\n\nSweden - Rental: 49 SEK / Purchase: 99 SEK\nDenmark - Rental: 49 DKK / Purchase: 99 DKK\nNorway - Rental: 49 NOK / Purchase: 99 NOK\nFinland - Rental: 4.99 EUR / Purchase: 9.99 EUR\n\n==External links==\nViaplay on Wikipedia: , , \non Wikipedia (English) \n\nViaplay\nWebsite: Sweden - Norway - Denmark - Finland - Iceland\niOS app\nAndroid app\n\n==References==\n \n\n==Related articles==\nPrime Video\nNetflix",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Viaplay is a subscription service and digital media store owned and operated by . Launched in May 2007 as Viasat OnDemand, the service was renamed as Viaplay in March 2011, and is available in , , , and . Content is accessible by different methods; some is available through a monthly subscription, and others can be purchased or rented."
+    },
+    {
+      "heading": "Availability of the animated series",
+      "level": 2,
+      "text": "As of May 2020, the following is available with a Viaplay subscription in Sweden , Norway , Denmark and Finland :\n\nSeason 14 - Pokémon: Black & White\nSeason 15 - Pokémon BW: Rival Destinies\nSeason 16 - Pokémon BW: Adventures in Unova and Beyond\nSeason 17 - Pokémon the Series: XY\nSeason 18 - Pokémon the Series: XY Kalos Quest\nSeason 19 - Pokémon the Series: XYZ\nSeason 20 - Pokémon the Series: Sun & Moon\nSeason 21 - Pokémon the Series: Sun & Moon—Ultra Adventures\nSeason 22 - Pokémon the Series: Sun & Moon—Ultra Legends"
+    },
+    {
+      "heading": "Availability of the movies",
+      "level": 2,
+      "text": "As of May 2020, the following is available:\n\nPokémon 4Ever - Celebi: The Voice of the Forest\nDenmark - Rental: 39 \nNorway - Rental: 39 \nFinland - Rental: 3.99 \n\nPokémon the Movie: I Choose You!\nSweden - Rental: 29 \nDenmark - Rental: 29 DKK\nNorway - Rental: 29 NOK\nFinland - Rental: 2.99 EUR\n\nSweden - Rental: 49 SEK / Purchase: 99 SEK\nDenmark - Rental: 49 DKK / Purchase: 99 DKK\nNorway - Rental: 49 NOK / Purchase: 99 NOK\nFinland - Rental: 4.99 EUR / Purchase: 9.99 EUR"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Viaplay on Wikipedia: , , \non Wikipedia (English) \n\nViaplay\nWebsite: Sweden - Norway - Denmark - Finland - Iceland\niOS app\nAndroid app"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Prime Video\nNetflix"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Viaplay",
+    "pageType": "general-anime-lore",
+    "searchableText": "Viaplay\nCategory:TV and VOD\nViaplay is a subscription service and digital media store owned and operated by . Launched in May 2007 as Viasat OnDemand, the service was renamed as Viaplay in March 2011, and is available in , , , and . Content is accessible by different methods; some is available through a monthly subscription, and others can be purchased or rented.",
+    "sectionHeadings": [
+      "Lead",
+      "Availability of the animated series",
+      "Availability of the movies",
+      "External links",
+      "Related articles"
+    ],
+    "characterCount": 1618,
+    "sectionCount": 5
+  }
+}

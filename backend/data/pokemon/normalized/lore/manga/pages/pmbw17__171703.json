@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMBW17",
+    "slug": "pmbw17",
+    "pageId": 171703,
+    "revisionId": 4528271
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw17__171703.json",
+    "revisionTimestamp": "2026-04-09T16:12:05Z",
+    "fetchedAt": "2026-05-14T15:31:54.065Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ＳＬ燃料を ほり当てる！ Use SL Fuel to Dig!) is the seventeenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ＳＬ燃料を ほり当てる！ Use SL Fuel to Dig!) is the seventeenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nClay\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ＳＬ燃料を ほり当てる！ Use SL Fuel to Dig!) is the seventeenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Clay"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW17",
+    "pageType": "chapter",
+    "searchableText": "PMBW17\nCategory:Pocket Monsters BW chapters\n(Japanese: ＳＬ燃料を ほり当てる！ Use SL Fuel to Dig!) is the seventeenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 247,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "CXY00",
+    "slug": "cxy00",
+    "pageId": 189797,
+    "revisionId": 4351526
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Let's Play the Pokémon Card Game XY! chapters",
+    "sourceFileName": "cxy00__189797.json",
+    "revisionTimestamp": "2025-08-03T02:25:46Z",
+    "fetchedAt": "2026-05-14T15:16:31.291Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the prologue chapter of the Let's Play the Pokémon Card Game XY! manga. It was first published in the January 2014 issue of CoroCoro Ichiban!, released on November 21, 2013. It is four pages long.",
+  "plainText": "This is the prologue chapter of the Let's Play the Pokémon Card Game XY! manga. It was first published in the January 2014 issue of CoroCoro Ichiban!, released on November 21, 2013. It is four pages long.\n\n==Plot==\nAfter opening a pack of the new , Manabu meets the Pokémon Card Game secret trick researcher Hiroshi Uratane, who explains the new and how powerful the Xerneas-EX card Manabu pulled is. Along with that, Uratane alludes to the new Mega Evolution mechanic. Manabu is immediately interested and asks Uratane to teach him how to perform it. Uratane agrees and says he will teach Manabu the secrets to becoming strong at the Pokémon Card Game.\n\n==Major events==\nManabu meets Uratane for the first time.\nUratane agrees to teach Manabu how to become strong at the Pokémon Card Game.\n\n===Debuts===\n====Humans====\nManabu Kadoo\nHiroshi Uratane\n\n==Characters==\n===Humans===\nManabu Kadoo\nHiroshi Uratane\n\nOther depictions\n( box)\n\n===Pokémon===\n\n( )\n( )\n\nOther depictions\n( box)\n(XY Beginning Set box)\n(XY Beginning Set box)\n(XY Beginning Set box)\n(XY Beginning Set box)\n(XY Beginning Set box)\n( pack)\n( pack)\n\n==Cards featured==\nManabu's cards:\nXerneas-EX (Collection X 44)\n\n==External links==\nPrologue chapter on the Pokémon Card Game official website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the prologue chapter of the Let's Play the Pokémon Card Game XY! manga. It was first published in the January 2014 issue of CoroCoro Ichiban!, released on November 21, 2013. It is four pages long."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "After opening a pack of the new , Manabu meets the Pokémon Card Game secret trick researcher Hiroshi Uratane, who explains the new and how powerful the Xerneas-EX card Manabu pulled is. Along with that, Uratane alludes to the new Mega Evolution mechanic. Manabu is immediately interested and asks Uratane to teach him how to perform it. Uratane agrees and says he will teach Manabu the secrets to becoming strong at the Pokémon Card Game."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Manabu meets Uratane for the first time.\nUratane agrees to teach Manabu how to become strong at the Pokémon Card Game."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Manabu Kadoo\nHiroshi Uratane"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Manabu Kadoo\nHiroshi Uratane\n\nOther depictions\n( box)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n\nOther depictions\n( box)\n(XY Beginning Set box)\n(XY Beginning Set box)\n(XY Beginning Set box)\n(XY Beginning Set box)\n(XY Beginning Set box)\n( pack)\n( pack)"
+    },
+    {
+      "heading": "Cards featured",
+      "level": 2,
+      "text": "Manabu's cards:\nXerneas-EX (Collection X 44)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Prologue chapter on the Pokémon Card Game official website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CXY00",
+    "pageType": "chapter",
+    "searchableText": "CXY00\nCategory:Let's Play the Pokémon Card Game XY! chapters\nThis is the prologue chapter of the Let's Play the Pokémon Card Game XY! manga. It was first published in the January 2014 issue of CoroCoro Ichiban!, released on November 21, 2013. It is four pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Cards featured",
+      "External links"
+    ],
+    "characterCount": 1255,
+    "sectionCount": 8
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Cocoa",
+    "slug": "cocoa",
+    "pageId": 47678,
+    "revisionId": 4143396
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "cocoa__47678.json",
+    "revisionTimestamp": "2024-10-11T19:39:54Z",
+    "fetchedAt": "2026-05-14T14:10:11.212Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Cocoa (Japanese: チョウコ Chōko) is a character of the day who appeared in Arriving in Style!. She is a famous Pokémon Stylist from Hearthome City.\n\nShe entered the Hearthome Collection fashion show alongside , , and Jessilina. Cocoa appeared to be conceited and somewhat of a snob. For example, she yelled at Dawn's Buneary because the latter wanted to touch her dress. She also made fun of her for no discernible reason.\n\nDuring the competition, Cocoa put on a show with her . However, Hermione, one of the judges, was not impressed. Cocoa nonetheless made it into the top three, along with Ash and Dawn. Much to her dislike, she ended up in second place, while Dawn won the prize.",
+  "plainText": "Cocoa (Japanese: チョウコ Chōko) is a character of the day who appeared in Arriving in Style!. She is a famous Pokémon Stylist from Hearthome City.\n\nShe entered the Hearthome Collection fashion show alongside , , and Jessilina. Cocoa appeared to be conceited and somewhat of a snob. For example, she yelled at Dawn's Buneary because the latter wanted to touch her dress. She also made fun of her for no discernible reason.\n\nDuring the competition, Cocoa put on a show with her . However, Hermione, one of the judges, was not impressed. Cocoa nonetheless made it into the top three, along with Ash and Dawn. Much to her dislike, she ended up in second place, while Dawn won the prize.\n\n==Pokémon==\n \nThis listing is of Cocoa's known in :\n \n\n==Pokémon competitions==\nCocoa has competed in the following :\nHearthome Collection - Runner-up (Arriving in Style!)\n\n==Voice actors==\n \n\n==Trivia==\nCocoa's name is likely a reference to the famous French fashion designer, .\n \n \n\n \n \n \n \n\nes:Cocoa\nfr:Cassandra (Sinnoh)\nit:Cocoa\nzh:裘可",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Cocoa (Japanese: チョウコ Chōko) is a character of the day who appeared in Arriving in Style!. She is a famous Pokémon Stylist from Hearthome City.\n\nShe entered the Hearthome Collection fashion show alongside , , and Jessilina. Cocoa appeared to be conceited and somewhat of a snob. For example, she yelled at Dawn's Buneary because the latter wanted to touch her dress. She also made fun of her for no discernible reason.\n\nDuring the competition, Cocoa put on a show with her . However, Hermione, one of the judges, was not impressed. Cocoa nonetheless made it into the top three, along with Ash and Dawn. Much to her dislike, she ended up in second place, while Dawn won the prize."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Cocoa's known in :"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Cocoa has competed in the following :\nHearthome Collection - Runner-up (Arriving in Style!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Cocoa's name is likely a reference to the famous French fashion designer, .\n \n \n\n \n \n \n \n\nes:Cocoa\nfr:Cassandra (Sinnoh)\nit:Cocoa\nzh:裘可"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Cocoa",
+    "pageType": "character",
+    "searchableText": "Cocoa\nCategory:Sinnoh characters of the day\nCocoa (Japanese: チョウコ Chōko) is a character of the day who appeared in Arriving in Style!. She is a famous Pokémon Stylist from Hearthome City.\n\nShe entered the Hearthome Collection fashion show alongside , , and Jessilina. Cocoa appeared to be conceited and somewhat of a snob. For example, she yelled at Dawn's Buneary because the latter wanted to touch her dress. She also made fun of her for no discernible reason.\n\nDuring the competition, Cocoa put on a show with her . However, Hermione, one of the judges, was not impressed. Cocoa nonetheless made it into the top three, along with Ash and Dawn. Much to her dislike, she ended up in second place, while Dawn won the prize.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions",
+      "Trivia"
+    ],
+    "characterCount": 1020,
+    "sectionCount": 4
+  }
+}

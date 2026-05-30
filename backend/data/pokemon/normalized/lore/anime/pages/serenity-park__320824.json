@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Serenity Park",
+    "slug": "serenity-park",
+    "pageId": 320824,
+    "revisionId": 4242752
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns",
+    "sourceFileName": "serenity-park__320824.json",
+    "revisionTimestamp": "2025-02-19T07:41:16Z",
+    "fetchedAt": "2026-05-14T14:49:02.840Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Serenity Park (Japanese: 憩いの公園 Relaxation Park) is a location in the game Detective Pikachu Returns. It is located on the east side of Ryme City.\n\nTim and Pikachu explore the park looking for a who they believe is related to the theft of the Aurora Drop. They first encounter Charles Merloch in the park.",
+  "plainText": "Serenity Park (Japanese: 憩いの公園 Relaxation Park) is a location in the game Detective Pikachu Returns. It is located on the east side of Ryme City.\n\nTim and Pikachu explore the park looking for a who they believe is related to the theft of the Aurora Drop. They first encounter Charles Merloch in the park.\n\n==Geography==\n \nSerenity Park consists of paths leading through an area with light greenery. There are seats located throughout the park, as well as an open paved area towards the western side of the park with a central fountain. Further back, there is a terrace with a pond where 's rock can be found. Sanjeev Denis's mansion lies directly east of this terraced area, which allows Pawniard and to enter the upper floor of the residence.\n \n\n==Local concerns==\nThe following local concerns can be found at Serenity Park.\n \n\n==Pokémon==\n \n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Serenity Park (Japanese: 憩いの公園 Relaxation Park) is a location in the game Detective Pikachu Returns. It is located on the east side of Ryme City.\n\nTim and Pikachu explore the park looking for a who they believe is related to the theft of the Aurora Drop. They first encounter Charles Merloch in the park."
+    },
+    {
+      "heading": "Geography",
+      "level": 2,
+      "text": "Serenity Park consists of paths leading through an area with light greenery. There are seats located throughout the park, as well as an open paved area towards the western side of the park with a central fountain. Further back, there is a terrace with a pond where 's rock can be found. Sanjeev Denis's mansion lies directly east of this terraced area, which allows Pawniard and to enter the upper floor of the residence."
+    },
+    {
+      "heading": "Local concerns",
+      "level": 2,
+      "text": "The following local concerns can be found at Serenity Park."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Serenity Park",
+    "pageType": "general-anime-lore",
+    "searchableText": "Serenity Park\nCategory:Detective Pikachu Returns\nSerenity Park (Japanese: 憩いの公園 Relaxation Park) is a location in the game Detective Pikachu Returns. It is located on the east side of Ryme City.\n\nTim and Pikachu explore the park looking for a who they believe is related to the theft of the Aurora Drop. They first encounter Charles Merloch in the park.",
+    "sectionHeadings": [
+      "Lead",
+      "Geography",
+      "Local concerns"
+    ],
+    "characterCount": 866,
+    "sectionCount": 3
+  }
+}

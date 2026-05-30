@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM046",
+    "slug": "pm046",
+    "pageId": 160332,
+    "revisionId": 4526899
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm046__160332.json",
+    "revisionTimestamp": "2026-04-09T15:11:15Z",
+    "fetchedAt": "2026-05-14T15:30:58.692Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Giant Pikachu Robot (Japanese: 巨大ピカチュウロボ出現 The Giant Pikachu Robot) is the forty-sixth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Giant Pikachu Robot (Japanese: 巨大ピカチュウロボ出現 The Giant Pikachu Robot) is the forty-sixth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 46 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Giant Pikachu Robot (Japanese: 巨大ピカチュウロボ出現 The Giant Pikachu Robot) is the forty-sixth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 46 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM046",
+    "pageType": "chapter",
+    "searchableText": "PM046\nCategory:Pokémon Pocket Monsters chapters\nThe Giant Pikachu Robot (Japanese: 巨大ピカチュウロボ出現 The Giant Pikachu Robot) is the forty-sixth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 315,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Daisuki ♥ Pocket Monsters",
+    "slug": "daisuki-pocket-monsters",
+    "pageId": 251820,
+    "revisionId": 4198192
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga",
+    "sourceFileName": "daisuki-pocket-monsters__251820.json",
+    "revisionTimestamp": "2024-12-06T22:13:09Z",
+    "fetchedAt": "2026-05-14T15:16:39.350Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "(Japanese: だいすき♥ポケットモンスター Daisuki ♥ Pocket Monsters) is a manga series by Hinata Ayu (鮎ヒナタ). It is loosely based on . It was published in the Japanese magazine Ciao!. \n\nThe story revolves around the character , who together with the characters from Pokémon Journeys: The Series interacts with several Pokémon while looking to decide whether she will be a Pokémon Trainer.",
+  "plainText": "(Japanese: だいすき♥ポケットモンスター Daisuki ♥ Pocket Monsters) is a manga series by Hinata Ayu (鮎ヒナタ). It is loosely based on . It was published in the Japanese magazine Ciao!. \n\nThe story revolves around the character , who together with the characters from Pokémon Journeys: The Series interacts with several Pokémon while looking to decide whether she will be a Pokémon Trainer.\n\n==Characters==\n===Humans===\n\nChloe\nAsh Ketchum\nGoh\n\n===Pokémon===\n( )\n( )\n( )\n\n==Trivia==\nIn this manga, the running gag where electrocutes a female protagonist or their bike returns. In this case, Pikachu does this to Mika.\n\n==See also==\nPokémon Journeys: The Series \n\n \n\n \n\nit:Daisuki ♥ Pocket Monsters\nzh:最喜欢♥宝可梦",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: だいすき♥ポケットモンスター Daisuki ♥ Pocket Monsters) is a manga series by Hinata Ayu (鮎ヒナタ). It is loosely based on . It was published in the Japanese magazine Ciao!. \n\nThe story revolves around the character , who together with the characters from Pokémon Journeys: The Series interacts with several Pokémon while looking to decide whether she will be a Pokémon Trainer."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Chloe\nAsh Ketchum\nGoh"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In this manga, the running gag where electrocutes a female protagonist or their bike returns. In this case, Pikachu does this to Mika."
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "Pokémon Journeys: The Series \n\n \n\n \n\nit:Daisuki ♥ Pocket Monsters\nzh:最喜欢♥宝可梦"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Daisuki ♥ Pocket Monsters",
+    "pageType": "manga-series",
+    "searchableText": "Daisuki ♥ Pocket Monsters\nCategory:Manga\n(Japanese: だいすき♥ポケットモンスター Daisuki ♥ Pocket Monsters) is a manga series by Hinata Ayu (鮎ヒナタ). It is loosely based on . It was published in the Japanese magazine Ciao!. \n\nThe story revolves around the character , who together with the characters from Pokémon Journeys: The Series interacts with several Pokémon while looking to decide whether she will be a Pokémon Trainer.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia",
+      "See also"
+    ],
+    "characterCount": 688,
+    "sectionCount": 5
+  }
+}

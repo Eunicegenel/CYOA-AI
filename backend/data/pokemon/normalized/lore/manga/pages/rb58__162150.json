@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "RB58",
+    "slug": "rb58",
+    "pageId": 162150,
+    "revisionId": 4252898
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb58__162150.json",
+    "revisionTimestamp": "2025-03-04T04:20:02Z",
+    "fetchedAt": "2026-05-14T15:47:52.511Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ３人の刺客 The Three Assassins) is the 58th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: ３人の刺客 The Three Assassins) is the 58th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nThe remaining Seven Warriors and the Three Generals are revealed.\nKigyan, Lukov, and Toga, in a fit of boredom and anger, decide to take over Great Gavel.\nThe Three Generals receives the Burst Hearts containing , , and .\nGerubu brands Kigyan, Lukov, and Toga as traitors and commands the Three Generals to get rid of them.\n\n===Debuts===\n====Humans====\nKigyan\nLukov\nToga\nAmu\nRovy\nGanku\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyouga (fantasy)\nKaruta (fantasy)\nRug (fantasy)\nFraud \nHariru (fantasy)\nCarola (fantasy)\nHilgreitz (fantasy)\nZengai (fantasy)\nGerubu\nKigyan\nLukov\nToga\nAmu\nRovy\nGanku\nGreat Gavel members\n\n===Pokémon===\n(Kigyan's)\n(Lukov's)\n(Toga's)\n(Amu's)\n(Rovy's)\n(Ganku's)\n\n \n \n \n\n \n\nzh:RB58",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ３人の刺客 The Three Assassins) is the 58th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "The remaining Seven Warriors and the Three Generals are revealed.\nKigyan, Lukov, and Toga, in a fit of boredom and anger, decide to take over Great Gavel.\nThe Three Generals receives the Burst Hearts containing , , and .\nGerubu brands Kigyan, Lukov, and Toga as traitors and commands the Three Generals to get rid of them."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Kigyan\nLukov\nToga\nAmu\nRovy\nGanku"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga (fantasy)\nKaruta (fantasy)\nRug (fantasy)\nFraud \nHariru (fantasy)\nCarola (fantasy)\nHilgreitz (fantasy)\nZengai (fantasy)\nGerubu\nKigyan\nLukov\nToga\nAmu\nRovy\nGanku\nGreat Gavel members"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Kigyan's)\n(Lukov's)\n(Toga's)\n(Amu's)\n(Rovy's)\n(Ganku's)\n\n \n \n \n\n \n\nzh:RB58"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB58",
+    "pageType": "chapter",
+    "searchableText": "RB58\nCategory:Pokémon RéBURST chapters\n(Japanese: ３人の刺客 The Three Assassins) is the 58th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 832,
+    "sectionCount": 5
+  }
+}

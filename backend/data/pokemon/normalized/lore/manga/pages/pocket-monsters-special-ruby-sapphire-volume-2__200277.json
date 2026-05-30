@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters Special Ruby Sapphire volume 2",
+    "slug": "pocket-monsters-special-ruby-sapphire-volume-2",
+    "pageId": 200277,
+    "revisionId": 4528355
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pocket-monsters-special-ruby-sapphire-volume-2__200277.json",
+    "revisionTimestamp": "2026-04-09T16:17:19Z",
+    "fetchedAt": "2026-05-14T15:34:25.300Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケットモンスターSPECIAL ルビー・サファイア 2 Ruby Sapphire volume 2) is the second volume of an omnibus compilation of the of the Pokémon Adventures manga authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.\n\nThis volume is released under Shogakukan's \"My First Series\" (マイファーストシリーズ) brand, which are bargain-priced volumes sold only in Japanese convenience stores. It has no connection to the discontinued 2011 omnibus release of the .",
+  "plainText": "(Japanese: ポケットモンスターSPECIAL ルビー・サファイア 2 Ruby Sapphire volume 2) is the second volume of an omnibus compilation of the of the Pokémon Adventures manga authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.\n\nThis volume is released under Shogakukan's \"My First Series\" (マイファーストシリーズ) brand, which are bargain-priced volumes sold only in Japanese convenience stores. It has no connection to the discontinued 2011 omnibus release of the .\n\n==Publications==\n \n \n\n \n \n\nit:Pocket Monsters Special Ruby Sapphire volume 2\nzh:My First BIG Special 宝可梦特别篇红宝石·蓝宝石2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケットモンスターSPECIAL ルビー・サファイア 2 Ruby Sapphire volume 2) is the second volume of an omnibus compilation of the of the Pokémon Adventures manga authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.\n\nThis volume is released under Shogakukan's \"My First Series\" (マイファーストシリーズ) brand, which are bargain-priced volumes sold only in Japanese convenience stores. It has no connection to the discontinued 2011 omnibus release of the ."
+    },
+    {
+      "heading": "Publications",
+      "level": 2,
+      "text": "it:Pocket Monsters Special Ruby Sapphire volume 2\nzh:My First BIG Special 宝可梦特别篇红宝石·蓝宝石2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters Special Ruby Sapphire volume 2",
+    "pageType": "pokemon-related",
+    "searchableText": "Pocket Monsters Special Ruby Sapphire volume 2\nCategory:Pokémon Adventures volumes\n(Japanese: ポケットモンスターSPECIAL ルビー・サファイア 2 Ruby Sapphire volume 2) is the second volume of an omnibus compilation of the of the Pokémon Adventures manga authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.\n\nThis volume is released under Shogakukan's \"My First Series\" (マイファーストシリーズ) brand, which are bargain-priced volumes sold only in Japanese convenience stores. It has no connection to the discontinued 2011 omnibus release of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Publications"
+    ],
+    "characterCount": 560,
+    "sectionCount": 2
+  }
+}

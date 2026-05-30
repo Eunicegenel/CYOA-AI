@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon hunters (JN053)",
+    "slug": "pokemon-hunters-jn053",
+    "pageId": 260003,
+    "revisionId": 4289083
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "pokemon-hunters-jn053__260003.json",
+    "revisionTimestamp": "2025-04-28T19:47:40Z",
+    "fetchedAt": "2026-05-14T14:43:01.017Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Pokémon hunters (Japanese: ポケモンハンター Pokémon hunters) are characters of the day who appeared in Healing the Healer!. They capture for their boss.",
+  "plainText": "The Pokémon hunters (Japanese: ポケモンハンター Pokémon hunters) are characters of the day who appeared in Healing the Healer!. They capture for their boss.\n\n==In animation==\n===History===\nThey first had their poison a lake in order to lure out a . and Goh encountered the Pokémon hunters and tried to stop them when Suicune appeared. The hunters had their Pokémon attack Suicune, injuring and it. They tied it up, only for Goh to throw a at Suicune, allowing him to it. Goh proceeded to run away with Suicune as the hunters battled Ash.\n\nAfter overcoming Ash, the hunters continued their search for Goh and Suicune and soon found them. They were able to catch Suicune, only for it to break free from their net and freeze them, allowing them to be arrested by Officer Jenny.\n\n===Pokémon===\n \n====Boss====\n \n\n====Hunters====\n \n\n \n\n \n\n \n\n===Voice actors===\n \n \n\n==In the manga==\n \n===Pokémon Journeys===\nThe hunters appeared in Healing the Healer!, playing the same role as they did in .\n\n====Pokémon====\n=====Boss=====\n \n\n=====Hunters=====\n \n\n \n \n\n \n \n \n \n \n\nit:Cacciatori di Pokémon (EP053)\nzh:宝可梦猎人（城都）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Pokémon hunters (Japanese: ポケモンハンター Pokémon hunters) are characters of the day who appeared in Healing the Healer!. They capture for their boss."
+    },
+    {
+      "heading": "History",
+      "level": 3,
+      "text": "They first had their poison a lake in order to lure out a . and Goh encountered the Pokémon hunters and tried to stop them when Suicune appeared. The hunters had their Pokémon attack Suicune, injuring and it. They tied it up, only for Goh to throw a at Suicune, allowing him to it. Goh proceeded to run away with Suicune as the hunters battled Ash.\n\nAfter overcoming Ash, the hunters continued their search for Goh and Suicune and soon found them. They were able to catch Suicune, only for it to break free from their net and freeze them, allowing them to be arrested by Officer Jenny."
+    },
+    {
+      "heading": "Pokémon Journeys",
+      "level": 3,
+      "text": "The hunters appeared in Healing the Healer!, playing the same role as they did in ."
+    },
+    {
+      "heading": "Hunters",
+      "level": 5,
+      "text": "it:Cacciatori di Pokémon (EP053)\nzh:宝可梦猎人（城都）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon hunters (JN053)",
+    "pageType": "character",
+    "searchableText": "Pokémon hunters (JN053)\nCategory:Journeys characters of the day\nThe Pokémon hunters (Japanese: ポケモンハンター Pokémon hunters) are characters of the day who appeared in Healing the Healer!. They capture for their boss.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon Journeys",
+      "Hunters"
+    ],
+    "characterCount": 1095,
+    "sectionCount": 4
+  }
+}

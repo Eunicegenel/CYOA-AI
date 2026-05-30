@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMXY08",
+    "slug": "pmxy08",
+    "pageId": 202970,
+    "revisionId": 4528542
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY chapters",
+    "sourceFileName": "pmxy08__202970.json",
+    "revisionTimestamp": "2026-04-09T16:26:02Z",
+    "fetchedAt": "2026-05-14T15:33:58.378Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 伝説のアイドル誕生?! Birth of the Legendary Idol?!) is the eighth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 伝説のアイドル誕生?! Birth of the Legendary Idol?!) is the eighth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nMichiko\nAki\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMichiko\nAki\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 伝説のアイドル誕生?! Birth of the Legendary Idol?!) is the eighth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Michiko\nAki"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Michiko\nAki"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMXY08",
+    "pageType": "chapter",
+    "searchableText": "PMXY08\nCategory:Pocket Monsters XY chapters\n(Japanese: 伝説のアイドル誕生?! Birth of the Legendary Idol?!) is the eighth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 285,
+    "sectionCount": 4
+  }
+}

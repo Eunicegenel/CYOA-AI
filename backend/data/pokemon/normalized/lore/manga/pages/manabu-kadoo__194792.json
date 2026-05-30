@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Manabu Kadoo",
+    "slug": "manabu-kadoo",
+    "pageId": 194792,
+    "revisionId": 4525962
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Let's Play the Pokémon Card Game XY! characters",
+    "sourceFileName": "manabu-kadoo__194792.json",
+    "revisionTimestamp": "2026-04-09T14:07:45Z",
+    "fetchedAt": "2026-05-14T15:25:44.827Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n \n \n \n\nManabu Kadoo (Japanese: Kadoo Manabu) is a main character in Let's Play the Pokémon Card Game XY!.",
+  "plainText": "----\n \n \n \n\nManabu Kadoo (Japanese: Kadoo Manabu) is a main character in Let's Play the Pokémon Card Game XY!.\n \n\n==History==\nManabu would occasionally play cards with Hiroshi Uratane.\n\n==Pokémon==\n \n \n\n==Voice actors==\n \n\n==Names==\n \n\n \n \n \n \n\n \n\nzh:门尾学",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \n \n \n\nManabu Kadoo (Japanese: Kadoo Manabu) is a main character in Let's Play the Pokémon Card Game XY!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Manabu would occasionally play cards with Hiroshi Uratane."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "zh:门尾学"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Manabu Kadoo",
+    "pageType": "character",
+    "searchableText": "Manabu Kadoo\nCategory:Let's Play the Pokémon Card Game XY! characters\n----\n \n \n \n\nManabu Kadoo (Japanese: Kadoo Manabu) is a main character in Let's Play the Pokémon Card Game XY!.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Names"
+    ],
+    "characterCount": 254,
+    "sectionCount": 3
+  }
+}

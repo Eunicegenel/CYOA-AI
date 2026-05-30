@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pikachu's New Partner",
+    "slug": "pikachus-new-partner",
+    "pageId": 198193,
+    "revisionId": 4131708
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "pikachus-new-partner__198193.json",
+    "revisionTimestamp": "2024-09-29T04:24:12Z",
+    "fetchedAt": "2026-05-14T15:30:21.590Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Pikachu's New Partner is the nineteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters one and two of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Pikachu's New Partner is the nineteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters one and two of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 41 - Ponyta Tale\nChapter 42 - Do do that Doduo\n\n==Important events==\nleaves Pallet Town to battle his challenger.\nA month later, Pika returns alone and injured.\nretrieves Pika from Pallet Town.\ngives Red's Pokédex to Yellow.\n\n \n \n\nfr:Volume 19 (Pokémon Adventures)\nit:Pikachu's New Partner",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Pikachu's New Partner is the nineteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters one and two of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 41 - Ponyta Tale\nChapter 42 - Do do that Doduo"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "leaves Pallet Town to battle his challenger.\nA month later, Pika returns alone and injured.\nretrieves Pika from Pallet Town.\ngives Red's Pokédex to Yellow.\n\n \n \n\nfr:Volume 19 (Pokémon Adventures)\nit:Pikachu's New Partner"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pikachu's New Partner",
+    "pageType": "pokemon-related",
+    "searchableText": "Pikachu's New Partner\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Pikachu's New Partner is the nineteenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters one and two of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 733,
+    "sectionCount": 3
+  }
+}

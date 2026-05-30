@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "CPD07",
+    "slug": "cpd07",
+    "pageId": 343695,
+    "revisionId": 4398749
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Countdown Pokémon Day chapters",
+    "sourceFileName": "cpd07__343695.json",
+    "revisionTimestamp": "2025-10-12T22:10:06Z",
+    "fetchedAt": "2026-05-14T15:16:21.409Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the seventh chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 26, 2025 at 8:00 PM JST. It is 16 pages long.",
+  "plainText": "This is the seventh chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 26, 2025 at 8:00 PM JST. It is 16 pages long.\n\n==Plot==\n \n \n \n\n==Major events==\n \n===Debuts===\n====Humans====\n(in person)\n\n====Pokémon debuts====\n(Mayor's)\n\n==Characters==\n===Humans===\n\nTeacher (flashback)\nChildren (flashback)\nTrainer (flashback)\n\n===Pokémon===\n(Yūsuke's)\n(Daichi's)\n(Tokio's)\n(Yadoyan; Umina's)\n(Run-chan; Yuki's)\n(Gyara-chan; Ai's; flashback)\n(Mayor's)\n(Trainer's; flashback)\n(Trainer's; flashback)\n(Trainer's; flashback)\n(Trainer's; flashback)\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n( ; flashback)\n(illustration; drawing; flashback)\n(statue; photo; flashback)\n(illustration)\n(illustration)\n(illustration)\n(illustration)\n(illustration)\n( ; illustration)\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the seventh chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 26, 2025 at 8:00 PM JST. It is 16 pages long."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "(in person)"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Mayor's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Teacher (flashback)\nChildren (flashback)\nTrainer (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Yūsuke's)\n(Daichi's)\n(Tokio's)\n(Yadoyan; Umina's)\n(Run-chan; Yuki's)\n(Gyara-chan; Ai's; flashback)\n(Mayor's)\n(Trainer's; flashback)\n(Trainer's; flashback)\n(Trainer's; flashback)\n(Trainer's; flashback)\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n( ; flashback)\n(illustration; drawing; flashback)\n(statue; photo; flashback)\n(illustration)\n(illustration)\n(illustration)\n(illustration)\n(illustration)\n( ; illustration)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CPD07",
+    "pageType": "chapter",
+    "searchableText": "CPD07\nCategory:Countdown Pokémon Day chapters\nThis is the seventh chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 26, 2025 at 8:00 PM JST. It is 16 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 834,
+    "sectionCount": 5
+  }
+}

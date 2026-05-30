@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PNA4",
+    "slug": "pna4",
+    "pageId": 165503,
+    "revisionId": 4527963
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ chapters",
+    "sourceFileName": "pna4__165503.json",
+    "revisionTimestamp": "2026-04-09T16:01:48Z",
+    "fetchedAt": "2026-05-14T15:34:03.397Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 赤の巻：クノイチの事情 The Scarlet Scroll: Kunoichi's Situation) is the fourth chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga",
+  "plainText": "(Japanese: 赤の巻：クノイチの事情 The Scarlet Scroll: Kunoichi's Situation) is the fourth chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga\n\n==Plot==\n \n\n==Major events==\nKunoichi spies on Nixtorm Castle and steals Okuni's collection on the male Warlords.\nGracia and Okuni mistake Kunoichi's appearance as a scandalous elopement with Mitsuhide and tries to stop it.\nDuring the fight between them, an avalanche starts, only for Yukimura to arrive and save everyone. \nYukimura takes Kunoichi back to Terrera.\n\n===Debuts===\n====Humans====\nGracia\nOkuni\nKunoichi\nMasamune\nHanzō\nKotarō\nYukimura\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nGracia\nMitsuhide\nOkuni\nNō\nKunoichi\nMasamune\nKanetsugu\nHanzō\nKotarō\nYukimura\nWarriors\nShingen\n\n===Pokémon===\n(Gracia's)\n(Okuni's)\n(Nō's)\n(Kunoichi's)\n(Masamune's)\n(Kanetsugu's)\n(Hanzō's)\n(Kotarō's)\n(Mitsuhide's)\n(Kunoichi's)\n(Yukimura's)\n\n==Trivia==\n\n \n \n \n\nde:Aka no Maki: Kunoichi no Jijō\nzh:PNA4",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 赤の巻：クノイチの事情 The Scarlet Scroll: Kunoichi's Situation) is the fourth chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga"
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Kunoichi spies on Nixtorm Castle and steals Okuni's collection on the male Warlords.\nGracia and Okuni mistake Kunoichi's appearance as a scandalous elopement with Mitsuhide and tries to stop it.\nDuring the fight between them, an avalanche starts, only for Yukimura to arrive and save everyone. \nYukimura takes Kunoichi back to Terrera."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Gracia\nOkuni\nKunoichi\nMasamune\nHanzō\nKotarō\nYukimura"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Gracia\nMitsuhide\nOkuni\nNō\nKunoichi\nMasamune\nKanetsugu\nHanzō\nKotarō\nYukimura\nWarriors\nShingen"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Gracia's)\n(Okuni's)\n(Nō's)\n(Kunoichi's)\n(Masamune's)\n(Kanetsugu's)\n(Hanzō's)\n(Kotarō's)\n(Mitsuhide's)\n(Kunoichi's)\n(Yukimura's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Aka no Maki: Kunoichi no Jijō\nzh:PNA4"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PNA4",
+    "pageType": "chapter",
+    "searchableText": "PNA4\nCategory:Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ chapters\n(Japanese: 赤の巻：クノイチの事情 The Scarlet Scroll: Kunoichi's Situation) is the fourth chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 961,
+    "sectionCount": 6
+  }
+}

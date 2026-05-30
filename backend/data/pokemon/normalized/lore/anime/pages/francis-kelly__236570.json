@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Francis Kelly",
+    "slug": "francis-kelly",
+    "pageId": 236570,
+    "revisionId": 4527109
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "francis-kelly__236570.json",
+    "revisionTimestamp": "2026-04-09T15:20:32Z",
+    "fetchedAt": "2026-05-14T14:19:32.495Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Francis Kelly is an American voice actor for the English-language dub of .",
+  "plainText": "Francis Kelly is an American voice actor for the English-language dub of .\n\n==Biography==\nKelly started work for the during , where his only role was Porter, a group of cruise ship guides in the Decolore Islands.\n\n==Pokémon roles==\n===Animation===\n==== ====\nPorter\n\n==Other non-Pokémon roles==\nScottie (The In-Betweens of Holly Malone)\nAdditional voices ( )\n\n \n \n \n\nit:Francis Kelly",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Francis Kelly is an American voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kelly started work for the during , where his only role was Porter, a group of cruise ship guides in the Decolore Islands."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Porter"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Scottie (The In-Betweens of Holly Malone)\nAdditional voices ( )\n\n \n \n \n\nit:Francis Kelly"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Francis Kelly",
+    "pageType": "general-anime-lore",
+    "searchableText": "Francis Kelly\nCategory:TPCi voice actors\nFrancis Kelly is an American voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 382,
+    "sectionCount": 4
+  }
+}

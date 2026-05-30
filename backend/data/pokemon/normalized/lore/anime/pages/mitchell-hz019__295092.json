@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Mitchell (HZ019)",
+    "slug": "mitchell-hz019",
+    "pageId": 295092,
+    "revisionId": 4460639
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "mitchell-hz019__295092.json",
+    "revisionTimestamp": "2026-01-01T19:45:33Z",
+    "fetchedAt": "2026-05-14T14:37:41.319Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mitchell (Japanese: ミッチェル Mitchell) is a minor recurring character in . He is a and an old colleague of Murdock.",
+  "plainText": "Mitchell (Japanese: ミッチェル Mitchell) is a minor recurring character in . He is a and an old colleague of Murdock. \n\n==History==\nMitchell debuted in The Bittersweet Truth. While shopping in Galar, Liko, Roy, and Murdock paid a visit to Mitchell's Battle Café in Motostoke, hoping to obtain a -shaped cotton candy. Due to their shared animosity, Mitchell and Murdock were hostile towards each other.\n\nMurdock explained that some time ago, he and Mitchell were rivals working in a pastry shop. Together, they sold cakes made with cream from Murdock's . One day, Milcery evolved into a , which made its cream work better with Murdock's ruby cakes over Mitchell's matcha cakes. Jealous of Murdock's newfound success, Mitchell grew resentful towards his friend until one day, he lashed out at him. Murdock, furious at Mitchell's behavior, chose to leave the shop.\n\nHoping to get the two to reconcile, Liko suggested that she and Murdock face Mitchell in a battle together. The plan was a success, as the battle quickly became a sweets battle where Mitchell and Murdock competed in making cakes. With help from Liko, the pair combined their different styles to create a new way of decorating cakes. After Mitchell apologized for his past actions, he and Murdock agreed to become friends again.\n\nIn the next episode, Mitchell and Murdock watched as Liko and Roy went off with Kabu.\n\n==Pokémon==\n===On hand===\n \n\n \n\n \n\n===Partnered with===\n \n\n==Voice actors==\n \n\n==Artwork==\n \n\n==Trivia==\nMitchell seems to be based on the .\n \n\n==References==\n \n \n\n \n \n\nes:Mitchell (Galar)\nfr:Mitchell (Galar)\nit:Michel\nzh:米切尔",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mitchell (Japanese: ミッチェル Mitchell) is a minor recurring character in . He is a and an old colleague of Murdock."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Mitchell debuted in The Bittersweet Truth. While shopping in Galar, Liko, Roy, and Murdock paid a visit to Mitchell's Battle Café in Motostoke, hoping to obtain a -shaped cotton candy. Due to their shared animosity, Mitchell and Murdock were hostile towards each other.\n\nMurdock explained that some time ago, he and Mitchell were rivals working in a pastry shop. Together, they sold cakes made with cream from Murdock's . One day, Milcery evolved into a , which made its cream work better with Murdock's ruby cakes over Mitchell's matcha cakes. Jealous of Murdock's newfound success, Mitchell grew resentful towards his friend until one day, he lashed out at him. Murdock, furious at Mitchell's behavior, chose to leave the shop.\n\nHoping to get the two to reconcile, Liko suggested that she and Murdock face Mitchell in a battle together. The plan was a success, as the battle quickly became a sweets battle where Mitchell and Murdock competed in making cakes. With help from Liko, the pair combined their different styles to create a new way of decorating cakes. After Mitchell apologized for his past actions, he and Murdock agreed to become friends again.\n\nIn the next episode, Mitchell and Murdock watched as Liko and Roy went off with Kabu."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Mitchell seems to be based on the ."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "es:Mitchell (Galar)\nfr:Mitchell (Galar)\nit:Michel\nzh:米切尔"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mitchell (HZ019)",
+    "pageType": "character",
+    "searchableText": "Mitchell (HZ019)\nCategory:Animation characters\nMitchell (Japanese: ミッチェル Mitchell) is a minor recurring character in . He is a and an old colleague of Murdock.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia",
+      "References"
+    ],
+    "characterCount": 1599,
+    "sectionCount": 4
+  }
+}

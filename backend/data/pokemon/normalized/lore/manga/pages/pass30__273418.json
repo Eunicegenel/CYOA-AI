@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASS30",
+    "slug": "pass30",
+    "pageId": 273418,
+    "revisionId": 4528147
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass30__273418.json",
+    "revisionTimestamp": "2026-04-09T16:08:38Z",
+    "fetchedAt": "2026-05-14T15:28:58.333Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Oh My!! The Disappearance of Henry (Japanese: テレテレ！！消えた創人 Shine!! The Disappearing ) is the 30th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Oh My!! The Disappearance of Henry (Japanese: テレテレ！！消えた創人 Shine!! The Disappearing ) is the 30th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\n, , , and disappear.\nThe Rusted Sword and Shield disappear.\nLeon and the Gym Leaders are knocked unconscious by Eternatus's poison.\nThe Darkest Day ends.\nOleana plans to contact a to find an antidote for Eternatus's poison.\ntracks Henry's location to either the Isle of Armor or the Crown Tundra.\nRose resigns as chairman and is arrested.\nCasey, Hop, Marnie, and Bede decide to search for for Henry and the Rusted Sword and Shield.\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHenry\nCasey\nProfessor Magnolia\nHop\nBede\nMarnie\nSonia \nMilo\nNessa\nKabu\nBea\nAllister\nOpal\nGordie\nMelony\nPiers\nRaihan \nLeon \nKlara (silhouette)\nOleana\nRose \nSordward (flashback)\nShielbert (flashback)\nMarvin\nBall Guy\n(multiple)\n\n===Pokémon===\n(Rotom Phone; Hop's)\n(Bede's)\n(Marnie's; )\n(Allister's)\n(Piers's)\n(Raihan's; flashback)\n(Drone Rotom)\n(fantasy)\n( )\n( )\n( )\n\n==Trivia==\n \n \n \n\nde:Soros Verschwinden\nes:PMSSwSh30\nfr:Chapitre 30 (Pocket Monsters Special Épée et Bouclier)\nit:PASS30\nzh:宝可梦特别篇 剑·盾篇 第30话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Oh My!! The Disappearance of Henry (Japanese: テレテレ！！消えた創人 Shine!! The Disappearing ) is the 30th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": ", , , and disappear.\nThe Rusted Sword and Shield disappear.\nLeon and the Gym Leaders are knocked unconscious by Eternatus's poison.\nThe Darkest Day ends.\nOleana plans to contact a to find an antidote for Eternatus's poison.\ntracks Henry's location to either the Isle of Armor or the Crown Tundra.\nRose resigns as chairman and is arrested.\nCasey, Hop, Marnie, and Bede decide to search for for Henry and the Rusted Sword and Shield."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nProfessor Magnolia\nHop\nBede\nMarnie\nSonia \nMilo\nNessa\nKabu\nBea\nAllister\nOpal\nGordie\nMelony\nPiers\nRaihan \nLeon \nKlara (silhouette)\nOleana\nRose \nSordward (flashback)\nShielbert (flashback)\nMarvin\nBall Guy\n(multiple)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Rotom Phone; Hop's)\n(Bede's)\n(Marnie's; )\n(Allister's)\n(Piers's)\n(Raihan's; flashback)\n(Drone Rotom)\n(fantasy)\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Soros Verschwinden\nes:PMSSwSh30\nfr:Chapitre 30 (Pocket Monsters Special Épée et Bouclier)\nit:PASS30\nzh:宝可梦特别篇 剑·盾篇 第30话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS30",
+    "pageType": "chapter",
+    "searchableText": "PASS30\nCategory:Pokémon Adventures chapters\nOh My!! The Disappearance of Henry (Japanese: テレテレ！！消えた創人 Shine!! The Disappearing ) is the 30th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1199,
+    "sectionCount": 5
+  }
+}

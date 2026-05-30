@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Park warden",
+    "slug": "park-warden",
+    "pageId": 208448,
+    "revisionId": 4387399
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "park-warden__208448.json",
+    "revisionTimestamp": "2025-09-23T19:25:19Z",
+    "fetchedAt": "2026-05-14T14:40:45.164Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The park warden is a character of the day who appeared in One Trick Phony!. He is in charge of the .\n\nHe brought , who was working at the battle facility, more boxes of dirty s for cleaning and laughed off their disdain, saying he had the hard task of shopping and left Team Rocket in charge of the park while he went to get supplies.\n\nLater, when Team Rocket flew off with the Poké Balls and Ash's Pikachu, the warden ran out telling them that the Poké Balls belong to the Battle Park. After Ash's Totodile and Misty's Politoed brought down their balloon, Jessie and James sent out , , and to battle and . However, the rental Pokémon turned on them, as they were only obedient inside the park and blasted the trio off.",
+  "plainText": "The park warden is a character of the day who appeared in One Trick Phony!. He is in charge of the .\n\nHe brought , who was working at the battle facility, more boxes of dirty s for cleaning and laughed off their disdain, saying he had the hard task of shopping and left Team Rocket in charge of the park while he went to get supplies.\n\nLater, when Team Rocket flew off with the Poké Balls and Ash's Pikachu, the warden ran out telling them that the Poké Balls belong to the Battle Park. After Ash's Totodile and Misty's Politoed brought down their balloon, Jessie and James sent out , , and to battle and . However, the rental Pokémon turned on them, as they were only obedient inside the park and blasted the trio off.\n\n==Pokémon==\n===Rental Pokémon from the Battle Park===\n \n \n\n \n\n \n\n \n\n \n \n\n \n \n \n\nit:Guardiano del parco",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The park warden is a character of the day who appeared in One Trick Phony!. He is in charge of the .\n\nHe brought , who was working at the battle facility, more boxes of dirty s for cleaning and laughed off their disdain, saying he had the hard task of shopping and left Team Rocket in charge of the park while he went to get supplies.\n\nLater, when Team Rocket flew off with the Poké Balls and Ash's Pikachu, the warden ran out telling them that the Poké Balls belong to the Battle Park. After Ash's Totodile and Misty's Politoed brought down their balloon, Jessie and James sent out , , and to battle and . However, the rental Pokémon turned on them, as they were only obedient inside the park and blasted the trio off."
+    },
+    {
+      "heading": "Rental Pokémon from the Battle Park",
+      "level": 3,
+      "text": "it:Guardiano del parco"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Park warden",
+    "pageType": "character",
+    "searchableText": "Park warden\nCategory:Johto characters of the day\nThe park warden is a character of the day who appeared in One Trick Phony!. He is in charge of the .\n\nHe brought , who was working at the battle facility, more boxes of dirty s for cleaning and laughed off their disdain, saying he had the hard task of shopping and left Team Rocket in charge of the park while he went to get supplies.\n\nLater, when Team Rocket flew off with the Poké Balls and Ash's Pikachu, the warden ran out telling them that the Poké Balls belong to the Battle Park. After Ash's Totodile and Misty's Politoed brought down their balloon, Jessie and James sent out , , and to battle and . However, the rental Pokémon turned on them, as they were only obedient inside the park and blasted the trio off.",
+    "sectionHeadings": [
+      "Lead",
+      "Rental Pokémon from the Battle Park"
+    ],
+    "characterCount": 823,
+    "sectionCount": 2
+  }
+}

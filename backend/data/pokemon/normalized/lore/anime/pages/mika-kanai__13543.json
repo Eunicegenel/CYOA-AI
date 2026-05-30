@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Mika Kanai",
+    "slug": "mika-kanai",
+    "pageId": 13543,
+    "revisionId": 4323438
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "mika-kanai__13543.json",
+    "revisionTimestamp": "2025-06-24T03:30:13Z",
+    "fetchedAt": "2026-05-14T14:36:55.821Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Mika Kanai (Japanese: かないみか Kanai Mika) is a Japanese voice actress for .",
+  "plainText": "Mika Kanai (Japanese: かないみか Kanai Mika) is a Japanese voice actress for .\n\n==Biography==\nKanai was born on March 18, 1964, in , , and became a voice actress and singer as an adult. Her early famous roles in were , Tracey's Marill, and Ash's Bayleef, all during the original series. In , she started voicing Iris's Emolga and James's Yamask. In , she took over voicing from XY087 to XY100 when Mariya Ise went on . She was married to fellow voice actor Kōichi Yamadera from 1994 until their divorce in 2006. Kanai is currently affiliated with the talent agency Ken Production.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nMahri\nCherry\nMika\nHope\nKoume\nMabel\n(XY087-XY100)\n\n=====Pokémon=====\n======Major======\nAsh's Chikorita and Bayleef\nTracey's Marill\nIris's Emolga\nJames's Yamask\nSerena's Eevee and Sylveon\nSophocles's Togedemaru\nGary's Eevee\n\n======Minor======\n(Tony)\n\n(Pikachu Pop Star)\n\n(BW132 & PK27)\n(SM091)\n( ; SM109)\n( )\n\n(DP113)\n\n(PK23)\n\n===Video games===\n====Super Smash Bros. series====\n\n====Pokémon Puzzle League====\nGary's Nidoran♀\n\n==Other non-Pokémon roles==\nMikan Shiratori, Mimete ( )\nPyotr ( )\nSara ( )\nSatoko Houjou ( )\nArche Klein ( )\nSnorkmaiden ( )\nMelonpanna ( )\nRopes ( )\nSunny Funny ( )\nRika Tanako ( )\nTiffa Adill ( )\nKin ( )\nHistoire and Croire ( )\nPekorin/Cure Pekorin ( )\nLeroute ( )\nWormgildy ( )\nAki Habara ( )\nRozeria Haguro, Clerk ( )\nHistoire ( )\nYunitas ( )\nKaguya Sumeragi ( )\nAlice Twins ( )\n\n==External links==\nKen Production profile\nOfficial blog\nTwitter\n\n \n \n\nit:Mika Kanai\nja:かないみか\nzh:金井美香",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mika Kanai (Japanese: かないみか Kanai Mika) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kanai was born on March 18, 1964, in , , and became a voice actress and singer as an adult. Her early famous roles in were , Tracey's Marill, and Ash's Bayleef, all during the original series. In , she started voicing Iris's Emolga and James's Yamask. In , she took over voicing from XY087 to XY100 when Mariya Ise went on . She was married to fellow voice actor Kōichi Yamadera from 1994 until their divorce in 2006. Kanai is currently affiliated with the talent agency Ken Production."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Mahri\nCherry\nMika\nHope\nKoume\nMabel\n(XY087-XY100)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Ash's Chikorita and Bayleef\nTracey's Marill\nIris's Emolga\nJames's Yamask\nSerena's Eevee and Sylveon\nSophocles's Togedemaru\nGary's Eevee"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(Tony)\n\n(Pikachu Pop Star)\n\n(BW132 & PK27)\n(SM091)\n( ; SM109)\n( )\n\n(DP113)\n\n(PK23)"
+    },
+    {
+      "heading": "Pokémon Puzzle League",
+      "level": 4,
+      "text": "Gary's Nidoran♀"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Mikan Shiratori, Mimete ( )\nPyotr ( )\nSara ( )\nSatoko Houjou ( )\nArche Klein ( )\nSnorkmaiden ( )\nMelonpanna ( )\nRopes ( )\nSunny Funny ( )\nRika Tanako ( )\nTiffa Adill ( )\nKin ( )\nHistoire and Croire ( )\nPekorin/Cure Pekorin ( )\nLeroute ( )\nWormgildy ( )\nAki Habara ( )\nRozeria Haguro, Clerk ( )\nHistoire ( )\nYunitas ( )\nKaguya Sumeragi ( )\nAlice Twins ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Ken Production profile\nOfficial blog\nTwitter\n\n \n \n\nit:Mika Kanai\nja:かないみか\nzh:金井美香"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mika Kanai",
+    "pageType": "general-anime-lore",
+    "searchableText": "Mika Kanai\nCategory:Japanese voice actors\nMika Kanai (Japanese: かないみか Kanai Mika) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Major",
+      "Minor",
+      "Pokémon Puzzle League",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1546,
+    "sectionCount": 8
+  }
+}

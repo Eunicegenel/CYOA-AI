@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "User:Tiddlywinks/AdvInfo/header",
+    "slug": "user-tiddlywinks-advinfo-header",
+    "pageId": 294101,
+    "revisionId": 3762406
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "user-tiddlywinks-advinfo-header__294101.json",
+    "revisionTimestamp": "2023-08-07T01:32:00Z",
+    "fetchedAt": "2026-05-14T15:52:18.548Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "{ } \n {{#if: { }| | Please upload an image of this round. }} \n \n { } \n { } \n \n\n \n \n Info \n \n \n{| style=\"width: 100%\"",
+  "plainText": "{ } \n {{#if: { }| | Please upload an image of this round. }} \n \n { } \n { } \n \n\n \n \n Info \n \n \n{| style=\"width: 100%\"",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "{ } \n {{#if: { }| | Please upload an image of this round. }} \n \n { } \n { } \n \n\n \n \n Info \n \n \n{| style=\"width: 100%\""
+    }
+  ],
+  "aiReadySummary": {
+    "title": "User:Tiddlywinks/AdvInfo/header",
+    "pageType": "chapter",
+    "searchableText": "User:Tiddlywinks/AdvInfo/header\nCategory:Pokémon Adventures chapters\n{ } \n {{#if: { }| | Please upload an image of this round. }} \n \n { } \n { } \n \n\n \n \n Info \n \n \n{| style=\"width: 100%\"",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 116,
+    "sectionCount": 1
+  }
+}

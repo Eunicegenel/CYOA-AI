@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Jared",
+    "slug": "jared",
+    "pageId": 58102,
+    "revisionId": 4095829
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Chronicles characters of the day",
+    "sourceFileName": "jared__58102.json",
+    "revisionTimestamp": "2024-09-01T00:42:34Z",
+    "fetchedAt": "2026-05-14T14:25:45.220Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Jared (Japanese: タクミ Takumi) is a character of the day who appeared in the Pokémon Chronicles episode Putting the Air Back in Aerodactyl!.\n\nJared is a research assistant in the Sayda Lab, a part of the research team headed by Dora. He's put in charge of escorting and to Sayda Island and helps in the search for the missing . He was very excited to show Tracey and Professor Oak how well Gary had been doing.\n\nJared's character was not developed very much, as he had very little on-screen time and not many speaking parts, but he is a valued assistant to the research team at Sayda Laboratory.",
+  "plainText": "Jared (Japanese: タクミ Takumi) is a character of the day who appeared in the Pokémon Chronicles episode Putting the Air Back in Aerodactyl!.\n\nJared is a research assistant in the Sayda Lab, a part of the research team headed by Dora. He's put in charge of escorting and to Sayda Island and helps in the search for the missing . He was very excited to show Tracey and Professor Oak how well Gary had been doing.\n\nJared's character was not developed very much, as he had very little on-screen time and not many speaking parts, but he is a valued assistant to the research team at Sayda Laboratory. \n\n==Voice actors==\n \n\n \n \n \n \n \n\nes:Jared\nit:Jared",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jared (Japanese: タクミ Takumi) is a character of the day who appeared in the Pokémon Chronicles episode Putting the Air Back in Aerodactyl!.\n\nJared is a research assistant in the Sayda Lab, a part of the research team headed by Dora. He's put in charge of escorting and to Sayda Island and helps in the search for the missing . He was very excited to show Tracey and Professor Oak how well Gary had been doing.\n\nJared's character was not developed very much, as he had very little on-screen time and not many speaking parts, but he is a valued assistant to the research team at Sayda Laboratory."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Jared\nit:Jared"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jared",
+    "pageType": "character",
+    "searchableText": "Jared\nCategory:Chronicles characters of the day\nJared (Japanese: タクミ Takumi) is a character of the day who appeared in the Pokémon Chronicles episode Putting the Air Back in Aerodactyl!.\n\nJared is a research assistant in the Sayda Lab, a part of the research team headed by Dora. He's put in charge of escorting and to Sayda Island and helps in the search for the missing . He was very excited to show Tracey and Professor Oak how well Gary had been doing.\n\nJared's character was not developed very much, as he had very little on-screen time and not many speaking parts, but he is a valued assistant to the research team at Sayda Laboratory.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 644,
+    "sectionCount": 2
+  }
+}

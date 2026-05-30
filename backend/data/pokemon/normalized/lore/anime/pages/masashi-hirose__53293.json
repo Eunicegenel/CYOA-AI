@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Masashi Hirose",
+    "slug": "masashi-hirose",
+    "pageId": 53293,
+    "revisionId": 4323382
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "masashi-hirose__53293.json",
+    "revisionTimestamp": "2025-06-24T03:29:12Z",
+    "fetchedAt": "2026-05-14T14:35:29.107Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Masashi Hirose (Japanese: 広瀬正志 Hirose Masashi) is a Japanese voice actor for .",
+  "plainText": "Masashi Hirose (Japanese: 広瀬正志 Hirose Masashi) is a Japanese voice actor for .\n\n==Biography==\nHirose was born on November 6, 1947, in , , and became a voice actor as an adult. He first provided the voice of Poké Ball smith Kurt in of the . He then returned during , voicing character of the day Professor Malveaux. Hirose is currently affiliated with the talent agency .\n\n==Pokémon roles==\n===Animation===\n==== ====\nKurt\nProfessor Malveaux\n\n==Other non-Pokémon roles==\nRamba Ral ( )\nPannakokku ( )\nNeo China Soushi ( )\nOgura, Ushikubo, Werewolf ( )\nRoshi O ( )\nKatokk Alzamille ( )\nChief Haruo Osugi ( )\n( )\nRiku Dold III ( )\nAkaikami Aoikami ( )\nOscar Joaquin de la Rosa ( )\nSahib Ashman ( )\nNakamura ( )\nMayor Ryouzo Kusunoki ( )\nProfessor Tange ( )\nGeorge Hijikata ( )\nTsukiyomi Kanbei ( )\nHades ( )\nRisei Kotomine ( )\nMr. Ral ( )\n\n==External links==\nProduction Baobab profile\n\n \n\n \n\nit:Masashi Hirose",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Masashi Hirose (Japanese: 広瀬正志 Hirose Masashi) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hirose was born on November 6, 1947, in , , and became a voice actor as an adult. He first provided the voice of Poké Ball smith Kurt in of the . He then returned during , voicing character of the day Professor Malveaux. Hirose is currently affiliated with the talent agency ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Kurt\nProfessor Malveaux"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Ramba Ral ( )\nPannakokku ( )\nNeo China Soushi ( )\nOgura, Ushikubo, Werewolf ( )\nRoshi O ( )\nKatokk Alzamille ( )\nChief Haruo Osugi ( )\n( )\nRiku Dold III ( )\nAkaikami Aoikami ( )\nOscar Joaquin de la Rosa ( )\nSahib Ashman ( )\nNakamura ( )\nMayor Ryouzo Kusunoki ( )\nProfessor Tange ( )\nGeorge Hijikata ( )\nTsukiyomi Kanbei ( )\nHades ( )\nRisei Kotomine ( )\nMr. Ral ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Production Baobab profile\n\n \n\n \n\nit:Masashi Hirose"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Masashi Hirose",
+    "pageType": "general-anime-lore",
+    "searchableText": "Masashi Hirose\nCategory:Japanese voice actors\nMasashi Hirose (Japanese: 広瀬正志 Hirose Masashi) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 904,
+    "sectionCount": 5
+  }
+}

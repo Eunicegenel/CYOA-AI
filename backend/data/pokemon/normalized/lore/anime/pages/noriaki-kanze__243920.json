@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Noriaki Kanze",
+    "slug": "noriaki-kanze",
+    "pageId": 243920,
+    "revisionId": 4328138
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "noriaki-kanze__243920.json",
+    "revisionTimestamp": "2025-07-01T12:40:57Z",
+    "fetchedAt": "2026-05-14T14:39:36.606Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Noriaki Kanze (Japanese: 観世智顕 Kanze Noriaki) is a Japanese voice actor for .",
+  "plainText": "Noriaki Kanze (Japanese: 観世智顕 Kanze Noriaki) is a Japanese voice actor for . \n\n==Biography==\nKanze was born sometime on October 15. He started working on the with , voicing a number of characters, most notably Ren, one of Professor Cerise's assistants; and some of Goh's Pokémon. Kanze is currently affiliated with .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nRen\n\n======Minor======\nTrainer (JN002)\nPorter (JN004)\nStaff member (JN019)\n\n=====Pokémon=====\n======Major======\nGoh's Skwovet and Greedent\n\nGoh's Trapinch\n\n======Minor======\n(JN006)\n(JN015, JNS05)\n(M23)\n\n====POKÉTOON====\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nTakumi Kurumizawa ( )\n\n==External links==\nTwitter\nAnime Planet\n\n \n \n\nit:Noriaki Kanze\nja:観世智顕\nzh:觀世智顯",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Noriaki Kanze (Japanese: 観世智顕 Kanze Noriaki) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kanze was born sometime on October 15. He started working on the with , voicing a number of characters, most notably Ren, one of Professor Cerise's assistants; and some of Goh's Pokémon. Kanze is currently affiliated with ."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Ren"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Trainer (JN002)\nPorter (JN004)\nStaff member (JN019)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Goh's Skwovet and Greedent\n\nGoh's Trapinch"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(JN006)\n(JN015, JNS05)\n(M23)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Takumi Kurumizawa ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nAnime Planet\n\n \n \n\nit:Noriaki Kanze\nja:観世智顕\nzh:觀世智顯"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Noriaki Kanze",
+    "pageType": "general-anime-lore",
+    "searchableText": "Noriaki Kanze\nCategory:Japanese voice actors\nNoriaki Kanze (Japanese: 観世智顕 Kanze Noriaki) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 794,
+    "sectionCount": 8
+  }
+}

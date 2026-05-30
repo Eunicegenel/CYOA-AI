@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "QPL05",
+    "slug": "qpl05",
+    "pageId": 180157,
+    "revisionId": 4231323
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters",
+    "sourceFileName": "qpl05__180157.json",
+    "revisionTimestamp": "2025-01-31T11:03:10Z",
+    "fetchedAt": "2026-05-14T15:47:01.644Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: I Want to Eat a Lollipop, Pikka!!) is the fifth chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+  "plainText": "(Japanese: I Want to Eat a Lollipop, Pikka!!) is the fifth chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n\n==Characters==\n\n(multiple)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: I Want to Eat a Lollipop, Pikka!!) is the fifth chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga."
+    },
+    {
+      "heading": "Characters",
+      "level": 2,
+      "text": "(multiple)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "QPL05",
+    "pageType": "chapter",
+    "searchableText": "QPL05\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters\n(Japanese: I Want to Eat a Lollipop, Pikka!!) is the fifth chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Characters"
+    ],
+    "characterCount": 207,
+    "sectionCount": 2
+  }
+}

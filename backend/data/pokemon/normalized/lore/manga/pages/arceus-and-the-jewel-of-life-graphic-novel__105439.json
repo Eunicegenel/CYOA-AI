@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Arceus and the Jewel of Life (graphic novel)",
+    "slug": "arceus-and-the-jewel-of-life-graphic-novel",
+    "pageId": 105439,
+    "revisionId": 4298329
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ani-Manga",
+    "sourceFileName": "arceus-and-the-jewel-of-life-graphic-novel__105439.json",
+    "revisionTimestamp": "2025-05-11T10:03:51Z",
+    "fetchedAt": "2026-05-14T15:12:48.844Z"
+  },
+  "classification": {
+    "estimatedPageType": "arc"
+  },
+  "leadText": "Arceus and the Jewel of Life is a graphic novel published by Shogakukan in Japan. It is a manga-style book that retells the plot of Arceus and the Jewel of Life using screenshots from the film.",
+  "plainText": "Arceus and the Jewel of Life is a graphic novel published by Shogakukan in Japan. It is a manga-style book that retells the plot of Arceus and the Jewel of Life using screenshots from the film. \n\n==Publications==\n \n \n \n \n\n==Synopsis==\nThe contents of this book are adapted from the film of the same name.\n\n===Chapters===\nChapter 1 - Arceus's Rage\nChapter 2 - A World Changing Decision\n\n==Characters==\nAsh Ketchum\n\n===Pokémon===\n( )\n\n==Trivia==\nA forthcoming English release was announced on VIZ Media's website for this volume, and an ISBN was provided (ISBN 1421538032). However, no cover or release date information was revealed, and the release of this book has since been canceled.\n\n==Related articles==\n \n \n \n\n \n\nit:Arceus and the Jewel of Life (graphic novel)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Arceus and the Jewel of Life is a graphic novel published by Shogakukan in Japan. It is a manga-style book that retells the plot of Arceus and the Jewel of Life using screenshots from the film."
+    },
+    {
+      "heading": "Synopsis",
+      "level": 2,
+      "text": "The contents of this book are adapted from the film of the same name."
+    },
+    {
+      "heading": "Chapters",
+      "level": 3,
+      "text": "Chapter 1 - Arceus's Rage\nChapter 2 - A World Changing Decision"
+    },
+    {
+      "heading": "Characters",
+      "level": 2,
+      "text": "Ash Ketchum"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "A forthcoming English release was announced on VIZ Media's website for this volume, and an ISBN was provided (ISBN 1421538032). However, no cover or release date information was revealed, and the release of this book has since been canceled."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Arceus and the Jewel of Life (graphic novel)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Arceus and the Jewel of Life (graphic novel)",
+    "pageType": "arc",
+    "searchableText": "Arceus and the Jewel of Life (graphic novel)\nCategory:Ani-Manga\nArceus and the Jewel of Life is a graphic novel published by Shogakukan in Japan. It is a manga-style book that retells the plot of Arceus and the Jewel of Life using screenshots from the film.",
+    "sectionHeadings": [
+      "Lead",
+      "Synopsis",
+      "Chapters",
+      "Characters",
+      "Pokémon",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 765,
+    "sectionCount": 7
+  }
+}

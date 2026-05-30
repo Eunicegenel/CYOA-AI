@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Yoichi Nishijima",
+    "slug": "yoichi-nishijima",
+    "pageId": 264864,
+    "revisionId": 4323579
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "yoichi-nishijima__264864.json",
+    "revisionTimestamp": "2025-06-24T03:32:43Z",
+    "fetchedAt": "2026-05-14T14:59:50.798Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yoichi Nishijima (Japanese: 西嶋陽一 Nishijima Yōichi) is a Japanese voice actor for .",
+  "plainText": "Yoichi Nishijima (Japanese: 西嶋陽一 Nishijima Yōichi) is a Japanese voice actor for .\n\n==Biography==\nNishijima was born sometime on March 2 in , . He started working on the with , voicing Professor Amaranth.\n\n==Pokémon roles==\n===Animation===\n==== ====\nProfessor Amaranth\n\n==Other non-Pokémon roles==\nWonder White (The Wonderful 101)\nDokugozu (Project X Zone)\nAlain (Golgo 13)\nEgon Innkeeper (Claymore)\n\n==External links==\nwebsite\nBehind the Voice Actors\n\n \n \n\nit:Yoichi Nishijima\nja:西嶋陽一\nzh:西嶋陽一",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yoichi Nishijima (Japanese: 西嶋陽一 Nishijima Yōichi) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Nishijima was born sometime on March 2 in , . He started working on the with , voicing Professor Amaranth."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Professor Amaranth"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Wonder White (The Wonderful 101)\nDokugozu (Project X Zone)\nAlain (Golgo 13)\nEgon Innkeeper (Claymore)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "website\nBehind the Voice Actors\n\n \n \n\nit:Yoichi Nishijima\nja:西嶋陽一\nzh:西嶋陽一"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yoichi Nishijima",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yoichi Nishijima\nCategory:Japanese voice actors\nYoichi Nishijima (Japanese: 西嶋陽一 Nishijima Yōichi) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 493,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Brian Kim",
+    "slug": "brian-kim",
+    "pageId": 240588,
+    "revisionId": 4527591
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "brian-kim__240588.json",
+    "revisionTimestamp": "2026-04-09T15:43:23Z",
+    "fetchedAt": "2026-05-14T14:06:05.565Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Brian Kim (full name Brian Kim McCormick) is a voice actor for the English-language dub of . He is currently affiliated with Avalon Artist Group.",
+  "plainText": "Brian Kim (full name Brian Kim McCormick) is a voice actor for the English-language dub of . He is currently affiliated with Avalon Artist Group.\n\n==Biography==\nKim became a voice actor as an adult. He joined the during , where he voiced recurring character .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n\nUsher (SM041)\n\n=====Pokémon=====\n(SM042)\n\n==External links==\nInstagram\nIMDb\n\n \n \n\n \n\nit:Brian Kim",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Brian Kim (full name Brian Kim McCormick) is a voice actor for the English-language dub of . He is currently affiliated with Avalon Artist Group."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kim became a voice actor as an adult. He joined the during , where he voiced recurring character ."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Usher (SM041)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(SM042)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Instagram\nIMDb\n\n \n \n\n \n\nit:Brian Kim"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Brian Kim",
+    "pageType": "general-anime-lore",
+    "searchableText": "Brian Kim\nCategory:TPCi voice actors\nBrian Kim (full name Brian Kim McCormick) is a voice actor for the English-language dub of . He is currently affiliated with Avalon Artist Group.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "External links"
+    ],
+    "characterCount": 420,
+    "sectionCount": 5
+  }
+}

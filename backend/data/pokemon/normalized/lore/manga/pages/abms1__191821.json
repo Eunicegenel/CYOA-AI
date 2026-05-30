@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "ABMS1",
+    "slug": "abms1",
+    "pageId": 191821,
+    "revisionId": 4526479
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abms1__191821.json",
+    "revisionTimestamp": "2026-04-09T14:49:35Z",
+    "fetchedAt": "2026-05-14T15:12:15.570Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 伝説のバトリオマスター！？　Legendary Battrio Master!?) is the sixteenth and final chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: 伝説のバトリオマスター！？　Legendary Battrio Master!?) is the sixteenth and final chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyū Tendō\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 伝説のバトリオマスター！？　Legendary Battrio Master!?) is the sixteenth and final chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryū Tendō"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABMS1",
+    "pageType": "chapter",
+    "searchableText": "ABMS1\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: 伝説のバトリオマスター！？　Legendary Battrio Master!?) is the sixteenth and final chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 263,
+    "sectionCount": 2
+  }
+}

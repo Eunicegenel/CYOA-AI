@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM037",
+    "slug": "pm037",
+    "pageId": 160304,
+    "revisionId": 4527600
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm037__160304.json",
+    "revisionTimestamp": "2026-04-09T15:43:36Z",
+    "fetchedAt": "2026-05-14T15:30:52.730Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Get that 10 Billion Yen!! (Special Side-Story) (Japanese: 百億円をうばえ！！（特別読きり番外編) Get that 10 Billion Yen!! (Special Side-Story)) is the thirty-seventh chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Get that 10 Billion Yen!! (Special Side-Story) (Japanese: 百億円をうばえ！！（特別読きり番外編) Get that 10 Billion Yen!! (Special Side-Story)) is the thirty-seventh chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\ns\n\nGiovanni's twin brother\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 37 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Get that 10 Billion Yen!! (Special Side-Story) (Japanese: 百億円をうばえ！！（特別読きり番外編) Get that 10 Billion Yen!! (Special Side-Story)) is the thirty-seventh chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "s\n\nGiovanni's twin brother"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 37 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM037",
+    "pageType": "chapter",
+    "searchableText": "PM037\nCategory:Pokémon Pocket Monsters chapters\nGet that 10 Billion Yen!! (Special Side-Story) (Japanese: 百億円をうばえ！！（特別読きり番外編) Get that 10 Billion Yen!! (Special Side-Story)) is the thirty-seventh chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 412,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Baker Detective Agency",
+    "slug": "baker-detective-agency",
+    "pageId": 235990,
+    "revisionId": 4545636
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu locations",
+    "sourceFileName": "baker-detective-agency__235990.json",
+    "revisionTimestamp": "2026-05-06T09:53:45Z",
+    "fetchedAt": "2026-05-14T14:04:31.813Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Baker Detective Agency (Japanese: ベイカー Baker Detective Agency) is a detective agency based in Ryme City in the game . Their offices are located on the second floor of a building south of Tahnti Park, above the Hi-Hat Café. It is first visited at the end of Chapter 1.\n\nThe director of the agency is Mike Baker, who is assisted by Amanda Blackstone.",
+  "plainText": "The Baker Detective Agency (Japanese: ベイカー Baker Detective Agency) is a detective agency based in Ryme City in the game . Their offices are located on the second floor of a building south of Tahnti Park, above the Hi-Hat Café. It is first visited at the end of Chapter 1.\n\nThe director of the agency is Mike Baker, who is assisted by Amanda Blackstone.\n\n==Pokémon==\n \n\n==In other languages==\n \n\n \n \n\n \n \n\nzh:貝克偵探事務所",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Baker Detective Agency (Japanese: ベイカー Baker Detective Agency) is a detective agency based in Ryme City in the game . Their offices are located on the second floor of a building south of Tahnti Park, above the Hi-Hat Café. It is first visited at the end of Chapter 1.\n\nThe director of the agency is Mike Baker, who is assisted by Amanda Blackstone."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "zh:貝克偵探事務所"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Baker Detective Agency",
+    "pageType": "location",
+    "searchableText": "Baker Detective Agency\nCategory:Detective Pikachu locations\nThe Baker Detective Agency (Japanese: ベイカー Baker Detective Agency) is a detective agency based in Ryme City in the game . Their offices are located on the second floor of a building south of Tahnti Park, above the Hi-Hat Café. It is first visited at the end of Chapter 1.\n\nThe director of the agency is Mike Baker, who is assisted by Amanda Blackstone.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 415,
+    "sectionCount": 2
+  }
+}

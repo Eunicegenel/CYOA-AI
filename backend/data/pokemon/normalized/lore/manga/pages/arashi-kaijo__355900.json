@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Arashi Kaijō",
+    "slug": "arashi-kaijo",
+    "pageId": 355900,
+    "revisionId": 4548081
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Let's Play the Pokémon Card Game XY! characters",
+    "sourceFileName": "arashi-kaijo__355900.json",
+    "revisionTimestamp": "2026-05-10T16:30:31Z",
+    "fetchedAt": "2026-05-14T15:12:45.133Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n \n \n \n\nArashi Kaijō (Japanese: Kaijō Arashi) is a character in Let's Play the Pokémon Card Game XY!.",
+  "plainText": "----\n \n \n \n\nArashi Kaijō (Japanese: Kaijō Arashi) is a character in Let's Play the Pokémon Card Game XY!.\n \n\n==History==\n==Pokémon==\n \n \n\n==Names==\n \n\n \n\n==References==\n \n\n \n \n \n\n \n\nzh:门尾学",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \n \n \n\nArashi Kaijō (Japanese: Kaijō Arashi) is a character in Let's Play the Pokémon Card Game XY!."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "zh:门尾学"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Arashi Kaijō",
+    "pageType": "character",
+    "searchableText": "Arashi Kaijō\nCategory:Let's Play the Pokémon Card Game XY! characters\n----\n \n \n \n\nArashi Kaijō (Japanese: Kaijō Arashi) is a character in Let's Play the Pokémon Card Game XY!.",
+    "sectionHeadings": [
+      "Lead",
+      "References"
+    ],
+    "characterCount": 188,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Get Together! Pokémon Planet Center",
+    "slug": "get-together-pokemon-planet-center",
+    "pageId": 207933,
+    "revisionId": 4262893
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Planetarium specials",
+    "sourceFileName": "get-together-pokemon-planet-center__207933.json",
+    "revisionTimestamp": "2025-03-21T22:55:48Z",
+    "fetchedAt": "2026-05-14T14:20:13.019Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケットモンスターダイヤモンドパール・あつまれ！ポケモンプラネットセンター Diamond & Pearl: Get Together! Pokémon Planet Center) is an animated series special that was shown at various planetariums and museums in Japan, being the second of such specials.",
+  "plainText": "(Japanese: ポケットモンスターダイヤモンドパール・あつまれ！ポケモンプラネットセンター Diamond & Pearl: Get Together! Pokémon Planet Center) is an animated series special that was shown at various planetariums and museums in Japan, being the second of such specials.\n\n==Blurb==\n \n\n==Plot==\n \n\n==Characters==\n\n===Humans===\n\nJessie\nJames\nProfessor Oak\n\n===Pokémon===\n( )\n( )\n( )\n\n==External links==\nList of special episodes of the animated series\nDescription of the episode (archive)\n\n \n \n\n \n\nes:PL02\nzh:寶可夢 天文館 第2集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケットモンスターダイヤモンドパール・あつまれ！ポケモンプラネットセンター Diamond & Pearl: Get Together! Pokémon Planet Center) is an animated series special that was shown at various planetariums and museums in Japan, being the second of such specials."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jessie\nJames\nProfessor Oak"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "List of special episodes of the animated series\nDescription of the episode (archive)\n\n \n \n\n \n\nes:PL02\nzh:寶可夢 天文館 第2集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Get Together! Pokémon Planet Center",
+    "pageType": "pokemon-related",
+    "searchableText": "Get Together! Pokémon Planet Center\nCategory:Planetarium specials\n(Japanese: ポケットモンスターダイヤモンドパール・あつまれ！ポケモンプラネットセンター Diamond & Pearl: Get Together! Pokémon Planet Center) is an animated series special that was shown at various planetariums and museums in Japan, being the second of such specials.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "External links"
+    ],
+    "characterCount": 475,
+    "sectionCount": 4
+  }
+}

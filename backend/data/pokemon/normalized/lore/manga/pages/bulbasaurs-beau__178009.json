@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Bulbasaur's Beau",
+    "slug": "bulbasaurs-beau",
+    "pageId": 178009,
+    "revisionId": 4168526
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "bulbasaurs-beau__178009.json",
+    "revisionTimestamp": "2024-10-26T18:01:33Z",
+    "fetchedAt": "2026-05-14T15:14:41.856Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Bulbasaur's Beau is the thirteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 19th and 20th chapters of the manga. The chapters originally released in this book were later re-released as part of .",
+  "plainText": "Magical Pokémon Journey: Bulbasaur's Beau is the thirteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 19th and 20th chapters of the manga. The chapters originally released in this book were later re-released as part of .\n==Blurb==\nMEET THE PARENTS\n\nSquirtle takes Almond and Hazel to its home to meet the family. But when they get there. Squirtle's strangely feminine family drops both through trap doors and forces them to pass tests to determine if they are worthy enough to be Squirtle's friends. Can they pass all the tests and gain the family's trust? \n\nThen. Peanut's handsome older brother, Pistacho, takes a liking to Almond only to find Bulbasaur has a touch of jealousy. Can Almond and Bulbasaur mend their friendship?\n\n==Publications==\n \n \n\n==Chapters==\nThe Five Sisters of Squirtle\nGreen-Eyed Bulbasaur\n\n==Important events==\n's family is introduced.\nPistachio and appear for the first time.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Bulbasaur's Beau is the thirteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 19th and 20th chapters of the manga. The chapters originally released in this book were later re-released as part of ."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "MEET THE PARENTS\n\nSquirtle takes Almond and Hazel to its home to meet the family. But when they get there. Squirtle's strangely feminine family drops both through trap doors and forces them to pass tests to determine if they are worthy enough to be Squirtle's friends. Can they pass all the tests and gain the family's trust? \n\nThen. Peanut's handsome older brother, Pistacho, takes a liking to Almond only to find Bulbasaur has a touch of jealousy. Can Almond and Bulbasaur mend their friendship?"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The Five Sisters of Squirtle\nGreen-Eyed Bulbasaur"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "'s family is introduced.\nPistachio and appear for the first time."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bulbasaur's Beau",
+    "pageType": "pokemon-related",
+    "searchableText": "Bulbasaur's Beau\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Bulbasaur's Beau is the thirteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 19th and 20th chapters of the manga. The chapters originally released in this book were later re-released as part of .",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 976,
+    "sectionCount": 4
+  }
+}

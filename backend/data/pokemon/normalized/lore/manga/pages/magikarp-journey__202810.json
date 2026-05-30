@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Magikarp Journey",
+    "slug": "magikarp-journey",
+    "pageId": 202810,
+    "revisionId": 4168540
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "magikarp-journey__202810.json",
+    "revisionTimestamp": "2024-10-26T18:42:25Z",
+    "fetchedAt": "2026-05-14T15:25:34.798Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Magikarp Journey is the twentieth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 11th and 12th bonus chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Magikarp Journey is the twentieth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 11th and 12th bonus chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n \n==Blurb==\nWHERE'S THE LOVE?\n\nSpring is in bloom and love is in the air...for Machamp! When this burly Pokémon falls head over heels for Vaporeon, can Pikachu and friends become matchmakers for the two, or will Machamp's lack of suave doom the relationship from the start? \n\nThen, Coconut and Hazel learn that Magikarp whiskers can make someone fall in love with the wielder and the race is on to steal Almond's heart!\n\n==Publications==\n \n \n\n==Chapters==\nMagikarp Journey\nGone Fishing!?\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Magikarp Journey is the twentieth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 11th and 12th bonus chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "WHERE'S THE LOVE?\n\nSpring is in bloom and love is in the air...for Machamp! When this burly Pokémon falls head over heels for Vaporeon, can Pikachu and friends become matchmakers for the two, or will Machamp's lack of suave doom the relationship from the start? \n\nThen, Coconut and Hazel learn that Magikarp whiskers can make someone fall in love with the wielder and the race is on to steal Almond's heart!"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Magikarp Journey\nGone Fishing!?"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Magikarp Journey",
+    "pageType": "pokemon-related",
+    "searchableText": "Magikarp Journey\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Magikarp Journey is the twentieth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 11th and 12th bonus chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters"
+    ],
+    "characterCount": 900,
+    "sectionCount": 3
+  }
+}

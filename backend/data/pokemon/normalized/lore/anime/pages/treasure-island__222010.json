@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Treasure Island",
+    "slug": "treasure-island",
+    "pageId": 222010,
+    "revisionId": 4323022
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "treasure-island__222010.json",
+    "revisionTimestamp": "2025-06-23T13:39:52Z",
+    "fetchedAt": "2026-05-14T14:55:26.339Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Treasure Island (Japanese: たから島 Treasure Island) is an -exclusive island in the Alola region. It is located near Melemele Island and is by humans; however, it is home to many wild Pokémon.\n\nTreasure Island was visited by and his in Partner Promises! following the recommendation of a saleswoman, who mentions that the island is full of wild Pokémon as well as materials to help make accessories for her shop. Ash and Pikachu spend most of the day there, where they played with the local Pokémon and helped a that was lost and separated from its group. It was also where they spotted the spirit guardian of Akala Island, , for the first time.\n\nIt appeared in a flashback in The Island Whisperer!, when Ash remembered seeing .\n\nIt reappeared in Alola, Alola!, when Ash took there along with , who was visiting the region, while riding on some Poké Ride .",
+  "plainText": "Treasure Island (Japanese: たから島 Treasure Island) is an -exclusive island in the Alola region. It is located near Melemele Island and is by humans; however, it is home to many wild Pokémon.\n\nTreasure Island was visited by and his in Partner Promises! following the recommendation of a saleswoman, who mentions that the island is full of wild Pokémon as well as materials to help make accessories for her shop. Ash and Pikachu spend most of the day there, where they played with the local Pokémon and helped a that was lost and separated from its group. It was also where they spotted the spirit guardian of Akala Island, , for the first time.\n\nIt appeared in a flashback in The Island Whisperer!, when Ash remembered seeing .\n\nIt reappeared in Alola, Alola!, when Ash took there along with , who was visiting the region, while riding on some Poké Ride .\n\n \n\n==Pokémon seen on Treasure Island==\n \n\n===Previously seen===\n \n\n==Trivia==\nThe island's name is a reference to the by Scottish author , narrating a tale of \"buccaneers and buried gold.\" Its influence is enormous on popular perceptions of pirates, including such elements as treasure maps marked with an “X,” schooners, the Black Spot, tropical islands, and one-legged seamen bearing parrots on their shoulders.\n\n==In other languages==\n \n\n \n \n\n \n\nes:Isla del Tesoro\nit:Isola del Tesoro\nzh:宝物岛",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Treasure Island (Japanese: たから島 Treasure Island) is an -exclusive island in the Alola region. It is located near Melemele Island and is by humans; however, it is home to many wild Pokémon.\n\nTreasure Island was visited by and his in Partner Promises! following the recommendation of a saleswoman, who mentions that the island is full of wild Pokémon as well as materials to help make accessories for her shop. Ash and Pikachu spend most of the day there, where they played with the local Pokémon and helped a that was lost and separated from its group. It was also where they spotted the spirit guardian of Akala Island, , for the first time.\n\nIt appeared in a flashback in The Island Whisperer!, when Ash remembered seeing .\n\nIt reappeared in Alola, Alola!, when Ash took there along with , who was visiting the region, while riding on some Poké Ride ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The island's name is a reference to the by Scottish author , narrating a tale of \"buccaneers and buried gold.\" Its influence is enormous on popular perceptions of pirates, including such elements as treasure maps marked with an “X,” schooners, the Black Spot, tropical islands, and one-legged seamen bearing parrots on their shoulders."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Isla del Tesoro\nit:Isola del Tesoro\nzh:宝物岛"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Treasure Island",
+    "pageType": "location",
+    "searchableText": "Treasure Island\nCategory:Animated series-exclusive locations\nTreasure Island (Japanese: たから島 Treasure Island) is an -exclusive island in the Alola region. It is located near Melemele Island and is by humans; however, it is home to many wild Pokémon.\n\nTreasure Island was visited by and his in Partner Promises! following the recommendation of a saleswoman, who mentions that the island is full of wild Pokémon as well as materials to help make accessories for her shop. Ash and Pikachu spend most of the day there, where they played with the local Pokémon and helped a that was lost and separated from its group. It was also where they spotted the spirit guardian of Akala Island, , for the first time.\n\nIt appeared in a flashback in The Island Whisperer!, when Ash remembered seeing .\n\nIt reappeared in Alola, Alola!, when Ash took there along with , who was visiting the region, while riding on some Poké Ride .",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1348,
+    "sectionCount": 3
+  }
+}

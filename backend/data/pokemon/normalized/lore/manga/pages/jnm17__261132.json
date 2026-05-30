@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "JNM17",
+    "slug": "jnm17",
+    "pageId": 261132,
+    "revisionId": 4528060
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm17__261132.json",
+    "revisionTimestamp": "2026-04-09T16:05:35Z",
+    "fetchedAt": "2026-05-14T15:22:50.936Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "When a House Is Not a Home! (Japanese: 迷子のサルノリ！トレーナーは誰だ！？ The Lost ! Who is the Trainer!?) is the seventeenth chapter of the manga. It is based on the animated series episode by the same name.",
+  "plainText": "When a House Is Not a Home! (Japanese: 迷子のサルノリ！トレーナーは誰だ！？ The Lost ! Who is the Trainer!?) is the seventeenth chapter of the manga. It is based on the animated series episode by the same name.\n\n==Plot==\n \n\n==Major events==\nA belonging to Team Rocket itself and joins Goh's team.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nGoh\nChloe\nJessie\nJames\nProfessor Cerise\nCamille (dream)\nWalker (dream)\ns\nPoké Mart clerk\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( ; new; formerly )\n( )\n(Professor Cerise's; Rotom Phone)\n(Team Rocket's)\n(Trainer's)\n(Trainer's)\n(×2; dream)\n\n==Differences between the animated series and the manga==\nAs all of its previous appearances were skipped, Goh's Sobble debuts here.\n\n \n \n \n\nde:Trautes Heim, Glück allein! (Pokémon Reisen)\nes:PV017\nit:JNM17",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "When a House Is Not a Home! (Japanese: 迷子のサルノリ！トレーナーは誰だ！？ The Lost ! Who is the Trainer!?) is the seventeenth chapter of the manga. It is based on the animated series episode by the same name."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "A belonging to Team Rocket itself and joins Goh's team."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nChloe\nJessie\nJames\nProfessor Cerise\nCamille (dream)\nWalker (dream)\ns\nPoké Mart clerk"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( ; new; formerly )\n( )\n(Professor Cerise's; Rotom Phone)\n(Team Rocket's)\n(Trainer's)\n(Trainer's)\n(×2; dream)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "As all of its previous appearances were skipped, Goh's Sobble debuts here.\n\n \n \n \n\nde:Trautes Heim, Glück allein! (Pokémon Reisen)\nes:PV017\nit:JNM17"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM17",
+    "pageType": "chapter",
+    "searchableText": "JNM17\nCategory:Pokémon Journeys chapters\nWhen a House Is Not a Home! (Japanese: 迷子のサルノリ！トレーナーは誰だ！？ The Lost ! Who is the Trainer!?) is the seventeenth chapter of the manga. It is based on the animated series episode by the same name.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 783,
+    "sectionCount": 5
+  }
+}

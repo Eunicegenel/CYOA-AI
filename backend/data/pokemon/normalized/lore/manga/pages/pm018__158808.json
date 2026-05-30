@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM018",
+    "slug": "pm018",
+    "pageId": 158808,
+    "revisionId": 4526587
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm018__158808.json",
+    "revisionTimestamp": "2026-04-09T14:57:17Z",
+    "fetchedAt": "2026-05-14T15:30:40.753Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Which One is the Real Clefairy!? (Japanese: 二人のピッピ、本物はどっち！？ Which One is the Real !?) is the eighteenth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Which One is the Real Clefairy!? (Japanese: 二人のピッピ、本物はどっち！？ Which One is the Real !?) is the eighteenth chapter of the Pokémon Pocket Monsters manga.\n \n\n==Plot==\n \n \nClefairy and Pikachu hide in Red's jacket. Unfortunately, the real grunts found out about the trio and their kicked them up in the air which gave Red a bad day. He landed in the Pokémon Sea House where he volunteered to work there as the cook. As Clefairy had poor skills, the customers left. Clefairy then became a mummy in a haunted house. Giovanni, his twin brother, and Ditto, who was disguised as a Clefairy, find Red and their Ditto took on Red's Clefairy. Both sides kept mimicking each other until the food eating contest where Red's Clefairy was triumphant in and the other Clefairy revealed itself to them as Ditto. Even though Clefairy won, he kept eating until the place was about to blow up.\n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nGiovanni's twin brother\ns\n\n===Pokémon===\n( ) \n( )\n( 's)\n( s')\n\n(multiple)\n\n==Trivia==\n\n \n \n\nde:Kapitel 18 (Pokémon Pocket Monsters)\nes:PPM018\nit:PMM018\nzh:宝可梦欢乐祭 第18话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Which One is the Real Clefairy!? (Japanese: 二人のピッピ、本物はどっち！？ Which One is the Real !?) is the eighteenth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Clefairy and Pikachu hide in Red's jacket. Unfortunately, the real grunts found out about the trio and their kicked them up in the air which gave Red a bad day. He landed in the Pokémon Sea House where he volunteered to work there as the cook. As Clefairy had poor skills, the customers left. Clefairy then became a mummy in a haunted house. Giovanni, his twin brother, and Ditto, who was disguised as a Clefairy, find Red and their Ditto took on Red's Clefairy. Both sides kept mimicking each other until the food eating contest where Red's Clefairy was triumphant in and the other Clefairy revealed itself to them as Ditto. Even though Clefairy won, he kept eating until the place was about to blow up."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Giovanni's twin brother\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( 's)\n( s')\n\n(multiple)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 18 (Pokémon Pocket Monsters)\nes:PPM018\nit:PMM018\nzh:宝可梦欢乐祭 第18话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM018",
+    "pageType": "chapter",
+    "searchableText": "PM018\nCategory:Pokémon Pocket Monsters chapters\nWhich One is the Real Clefairy!? (Japanese: 二人のピッピ、本物はどっち！？ Which One is the Real !?) is the eighteenth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1123,
+    "sectionCount": 5
+  }
+}

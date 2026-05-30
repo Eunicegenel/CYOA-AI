@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Kōichi Sakaguchi",
+    "slug": "koichi-sakaguchi",
+    "pageId": 20735,
+    "revisionId": 4434502
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "koichi-sakaguchi__20735.json",
+    "revisionTimestamp": "2025-12-02T13:11:16Z",
+    "fetchedAt": "2026-05-14T14:29:48.933Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kōichi Sakaguchi (Japanese: 坂口候一 Sakaguchi Kōichi) is a Japanese voice actor for .",
+  "plainText": "Kōichi Sakaguchi (Japanese: 坂口候一 Sakaguchi Kōichi) is a Japanese voice actor for .\n\n==Biography==\nSakaguchi was born on February 10, 1968 in , , and became a voice actor as an adult. He joined early on, playing various roles, usually as Pokémon. His most prominent roles are those of , as well as Raoul Contesta.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nRaoul Contesta\nScott\nPryce (young)\n\n======Minor======\n\nSheldon\n's father\n\nFitzwilliam\nLen\n\nTsuyoshi\nVitzo\n\nCarlos\nJohnny\nSonny\nMarcello (young)\nHaircut brother\nEphraim's father\nSimon's father\nBeedrill Trainer\nCTV news cameraman (M03)\n\nVarious guest characters\n\n=====Pokémon=====\n======Major======\n\n======Minor======\nOfficer Jenny's Growlithe\n\nCasey's Beedrill\nHarrison's Houndoom\n\nRoxanne's Nosepass\nTate's Solrock\n\n*\n\n(Pichu Posse)\n(PK13)\n(PK15)\n\n \n\n==Other non-Pokémon roles==\nEdward ( )\nAndy ( )\nTanTan ( )\nCid, Kelk Ronso ( )\nCid ( )\nDuke Org Yabaiba ( )\nMoriya ( )\nBakutofuji-ER of the Timer ( )\n\n \n \n\nit:Kōichi Sakaguchi\nja:坂口候一\nzh:坂口候一",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kōichi Sakaguchi (Japanese: 坂口候一 Sakaguchi Kōichi) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Sakaguchi was born on February 10, 1968 in , , and became a voice actor as an adult. He joined early on, playing various roles, usually as Pokémon. His most prominent roles are those of , as well as Raoul Contesta."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Raoul Contesta\nScott\nPryce (young)"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Sheldon\n's father\n\nFitzwilliam\nLen\n\nTsuyoshi\nVitzo\n\nCarlos\nJohnny\nSonny\nMarcello (young)\nHaircut brother\nEphraim's father\nSimon's father\nBeedrill Trainer\nCTV news cameraman (M03)\n\nVarious guest characters"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Officer Jenny's Growlithe\n\nCasey's Beedrill\nHarrison's Houndoom\n\nRoxanne's Nosepass\nTate's Solrock\n\n*\n\n(Pichu Posse)\n(PK13)\n(PK15)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Edward ( )\nAndy ( )\nTanTan ( )\nCid, Kelk Ronso ( )\nCid ( )\nDuke Org Yabaiba ( )\nMoriya ( )\nBakutofuji-ER of the Timer ( )\n\n \n \n\nit:Kōichi Sakaguchi\nja:坂口候一\nzh:坂口候一"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kōichi Sakaguchi",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kōichi Sakaguchi\nCategory:Japanese voice actors\nKōichi Sakaguchi (Japanese: 坂口候一 Sakaguchi Kōichi) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Minor",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 1035,
+    "sectionCount": 6
+  }
+}

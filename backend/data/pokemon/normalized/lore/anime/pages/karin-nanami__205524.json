@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Karin Nanami",
+    "slug": "karin-nanami",
+    "pageId": 205524,
+    "revisionId": 4323542
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "karin-nanami__205524.json",
+    "revisionTimestamp": "2025-06-24T03:32:01Z",
+    "fetchedAt": "2026-05-14T14:28:34.219Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Karin Nanami (Japanese: 奈波果林 Nanami Karin) is a Japanese voice actress for .",
+  "plainText": "Karin Nanami (Japanese: 奈波果林 Nanami Karin) is a Japanese voice actress for .\n\n==Biography==\nAs an adult, Nanami became a voice actress and was involved with a few anime series. She became involved with the during , voicing Team Flare scientist Celosia as well as Lucianne, one of Baraz and Meray's childhood friends from Arche Valley. In addition, Nanami voiced , a character in Pokkén Tournament.\n\n==Pokémon roles==\n===Animation===\n==== ====\nCelosia\nLucianne\n\n===Video games===\n====Pokkén Tournament====\n\n==Other non-Pokémon roles==\nMai Iduki ( )\nChacha ( )\nKojirō ( , )\nYoung Justice \"Seigi\" Akatsuka ( )\nYuriko Nishinotōin ( )\n\n==External links==\nTwitter\nAnime News Network\n\n \n\n \n\nit:Karin Nanami",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Karin Nanami (Japanese: 奈波果林 Nanami Karin) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "As an adult, Nanami became a voice actress and was involved with a few anime series. She became involved with the during , voicing Team Flare scientist Celosia as well as Lucianne, one of Baraz and Meray's childhood friends from Arche Valley. In addition, Nanami voiced , a character in Pokkén Tournament."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Celosia\nLucianne"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Mai Iduki ( )\nChacha ( )\nKojirō ( , )\nYoung Justice \"Seigi\" Akatsuka ( )\nYuriko Nishinotōin ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nAnime News Network\n\n \n\n \n\nit:Karin Nanami"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Karin Nanami",
+    "pageType": "general-anime-lore",
+    "searchableText": "Karin Nanami\nCategory:Japanese voice actors\nKarin Nanami (Japanese: 奈波果林 Nanami Karin) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 699,
+    "sectionCount": 5
+  }
+}

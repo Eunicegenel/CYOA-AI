@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "King of the People of the Vale",
+    "slug": "king-of-the-people-of-the-vale",
+    "pageId": 143420,
+    "revisionId": 4242551
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Deceased characters",
+    "sourceFileName": "king-of-the-people-of-the-vale__143420.json",
+    "revisionTimestamp": "2025-02-19T00:00:24Z",
+    "fetchedAt": "2026-05-14T15:23:32.194Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The King of the People of the Vale is a supporting character who appeared in flashbacks in White—Victini and Zekrom and Black—Victini and Reshiram.",
+  "plainText": "The King of the People of the Vale is a supporting character who appeared in flashbacks in White—Victini and Zekrom and Black—Victini and Reshiram.\n\n==History==\nHe lived one thousand years ago in the Kingdom of the Vale, where he was the leader of the People of the Vale. His kingdom was vibrant and prosperous due to his people's skilled, wise use of the Dragon Force radiating from the earth. However, his sons—the Hero of Truth and Hero of Ideals, respectively controlling and —began fighting, and the Dragon Force became corrupted and destructive.\n\nIn order to right this horrible wrong, the King borrowed the power of his friend and moved his castle and the People of the Earth to the cliffside where Eindoak Town would later be founded. He told Victini that should the castle ever be moved again, it will unleash the destructive power of the Dragon Force once more. He died shortly thereafter, before he was able to shut down the Protecting Pillars and therefore trapping Victini in the space around the castle.\n\n==Pokémon==\n===Befriended===\n \n\n==Voice actors==\n \n\n==Related articles==\n \n \n\n \n \n \n \n\nde:König des Tieflandes\nes:Rey de la gente del Valle\nit:Re del Popolo della Valle",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The King of the People of the Vale is a supporting character who appeared in flashbacks in White—Victini and Zekrom and Black—Victini and Reshiram."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "He lived one thousand years ago in the Kingdom of the Vale, where he was the leader of the People of the Vale. His kingdom was vibrant and prosperous due to his people's skilled, wise use of the Dragon Force radiating from the earth. However, his sons—the Hero of Truth and Hero of Ideals, respectively controlling and —began fighting, and the Dragon Force became corrupted and destructive.\n\nIn order to right this horrible wrong, the King borrowed the power of his friend and moved his castle and the People of the Earth to the cliffside where Eindoak Town would later be founded. He told Victini that should the castle ever be moved again, it will unleash the destructive power of the Dragon Force once more. He died shortly thereafter, before he was able to shut down the Protecting Pillars and therefore trapping Victini in the space around the castle."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:König des Tieflandes\nes:Rey de la gente del Valle\nit:Re del Popolo della Valle"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "King of the People of the Vale",
+    "pageType": "character",
+    "searchableText": "King of the People of the Vale\nCategory:Deceased characters\nThe King of the People of the Vale is a supporting character who appeared in flashbacks in White—Victini and Zekrom and Black—Victini and Reshiram.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1187,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMDP15",
+    "slug": "pmdp15",
+    "pageId": 176393,
+    "revisionId": 4528178
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp15__176393.json",
+    "revisionTimestamp": "2026-04-09T16:09:28Z",
+    "fetchedAt": "2026-05-14T15:32:22.504Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ！？ピッピのポケモンセンター 's Pokémon Center is Super Useful!?) is the fifteenth chapter of the manga.",
+  "plainText": "(Japanese: ！？ピッピのポケモンセンター 's Pokémon Center is Super Useful!?) is the fifteenth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nAaron\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nAaron\n\n===Pokémon===\n( )\n(Red's)\n( )\n(Aaron's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ！？ピッピのポケモンセンター 's Pokémon Center is Super Useful!?) is the fifteenth chapter of the manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Aaron"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Aaron"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )\n(Aaron's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP15",
+    "pageType": "chapter",
+    "searchableText": "PMDP15\nCategory:Pocket Monsters DP chapters\n(Japanese: ！？ピッピのポケモンセンター 's Pokémon Center is Super Useful!?) is the fifteenth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 267,
+    "sectionCount": 4
+  }
+}

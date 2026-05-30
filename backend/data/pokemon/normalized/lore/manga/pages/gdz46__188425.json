@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GDZ46",
+    "slug": "gdz46",
+    "pageId": 188425,
+    "revisionId": 4527830
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz46__188425.json",
+    "revisionTimestamp": "2026-04-09T15:55:24Z",
+    "fetchedAt": "2026-05-14T15:19:50.744Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 母さんは最強トレーナー！ Mom is the Strongest Trainer!) is the 46th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 母さんは最強トレーナー！ Mom is the Strongest Trainer!) is the 46th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nShu's mother\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nShu's mother\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's mother's)\n\n \n\n \n \n\nit:GDZ46",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 母さんは最強トレーナー！ Mom is the Strongest Trainer!) is the 46th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Shu's mother"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nShu's mother"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's mother's)\n\n \n\n \n \n\nit:GDZ46"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ46",
+    "pageType": "chapter",
+    "searchableText": "GDZ46\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 母さんは最強トレーナー！ Mom is the Strongest Trainer!) is the 46th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 322,
+    "sectionCount": 4
+  }
+}

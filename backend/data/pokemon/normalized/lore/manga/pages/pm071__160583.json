@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM071",
+    "slug": "pm071",
+    "pageId": 160583,
+    "revisionId": 4527051
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm071__160583.json",
+    "revisionTimestamp": "2026-04-09T15:17:05Z",
+    "fetchedAt": "2026-05-14T15:31:14.349Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy Rangers to the Rescue!! (Japanese: ピッピ隊参上！！ Rangers to the Rescue!!) is the seventy-first chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Clefairy Rangers to the Rescue!! (Japanese: ピッピ隊参上！！ Rangers to the Rescue!!) is the seventy-first chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n(×5; Clefairy Rangers)\n\n==Trivia==\n\n \n \n\nde:Kapitel 71 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy Rangers to the Rescue!! (Japanese: ピッピ隊参上！！ Rangers to the Rescue!!) is the seventy-first chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(×5; Clefairy Rangers)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 71 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM071",
+    "pageType": "chapter",
+    "searchableText": "PM071\nCategory:Pokémon Pocket Monsters chapters\nClefairy Rangers to the Rescue!! (Japanese: ピッピ隊参上！！ Rangers to the Rescue!!) is the seventy-first chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 350,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Tatsuo",
+    "slug": "tatsuo",
+    "pageId": 213557,
+    "revisionId": 4289187
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "tatsuo__213557.json",
+    "revisionTimestamp": "2025-04-28T19:49:39Z",
+    "fetchedAt": "2026-05-14T14:53:13.901Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: タツオ Tatsuo) is a character of the day who appeared in Wobbu-Palooza!. He is a man who lives in Wobbuffet Village.\n\nHis was attacked by the Wobbuffet Festival crashers, during the Wobbuffet Festival, and he was the third person of the village whose Wobbuffet was attacked. The Wobbuffet Festival Crashers attacked and defeated Tatsuo's Wobbuffet right in front of the other Wobbuffet Village citizens. Afterwards, , and Norio arrived on the scene and took over the fight.",
+  "plainText": "(Japanese: タツオ Tatsuo) is a character of the day who appeared in Wobbu-Palooza!. He is a man who lives in Wobbuffet Village.\n\nHis was attacked by the Wobbuffet Festival crashers, during the Wobbuffet Festival, and he was the third person of the village whose Wobbuffet was attacked. The Wobbuffet Festival Crashers attacked and defeated Tatsuo's Wobbuffet right in front of the other Wobbuffet Village citizens. Afterwards, , and Norio arrived on the scene and took over the fight.\n \n==Pokémon==\n \n \n\n \n \n \n\nit:Tatsuro",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: タツオ Tatsuo) is a character of the day who appeared in Wobbu-Palooza!. He is a man who lives in Wobbuffet Village.\n\nHis was attacked by the Wobbuffet Festival crashers, during the Wobbuffet Festival, and he was the third person of the village whose Wobbuffet was attacked. The Wobbuffet Festival Crashers attacked and defeated Tatsuo's Wobbuffet right in front of the other Wobbuffet Village citizens. Afterwards, , and Norio arrived on the scene and took over the fight."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Tatsuro"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tatsuo",
+    "pageType": "character",
+    "searchableText": "Tatsuo\nCategory:Johto characters of the day\n(Japanese: タツオ Tatsuo) is a character of the day who appeared in Wobbu-Palooza!. He is a man who lives in Wobbuffet Village.\n\nHis was attacked by the Wobbuffet Festival crashers, during the Wobbuffet Festival, and he was the third person of the village whose Wobbuffet was attacked. The Wobbuffet Festival Crashers attacked and defeated Tatsuo's Wobbuffet right in front of the other Wobbuffet Village citizens. Afterwards, , and Norio arrived on the scene and took over the fight.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 518,
+    "sectionCount": 2
+  }
+}

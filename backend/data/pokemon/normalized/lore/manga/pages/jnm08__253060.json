@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "JNM08",
+    "slug": "jnm08",
+    "pageId": 253060,
+    "revisionId": 4528065
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm08__253060.json",
+    "revisionTimestamp": "2026-04-09T16:05:40Z",
+    "fetchedAt": "2026-05-14T15:22:45.221Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Caring for a Mystery! (Japanese: とどけ波導！サトシと不思議なタマゴ！！ Convey the ! and the Mysterious Egg!!) is the eighth chapter of the manga. It is based on the animated series episode by the same name.",
+  "plainText": "Caring for a Mystery! (Japanese: とどけ波導！サトシと不思議なタマゴ！！ Convey the ! and the Mysterious Egg!!) is the eighth chapter of the manga. It is based on the animated series episode by the same name.\n\n==Plot==\n \n\n==Major events==\nis revealed to have a and a .\nAsh receives a Pokémon Egg from Nurse Joy that hatches into a .\n\n===Debuts===\n====Pokémon debuts====\n( )\n( )\n( )\n\n==Characters==\n===Humans===\n\nGoh\nChloe\nNurse Joy\nProfessor Cerise\nHayden\n\n===Pokémon===\n( )\n( ; debut)\n( ; debut)\n( ; hatched)\n( )\n( )\n(Professor Cerise's; Rotom Phone)\n(Hayden's)\n\n(×2)\n(×2)\n\n(×4)\n(×2)\n\n==Differences between the animated series and the manga==\nAs the events of A Test in Paradise! and A Chilling Curse! were skipped, Ash's Dragonite and debut here.\nAs Ash only registers for the World Coronation Series in the next chapter, the battle against Hayden is just a normal battle between the two Trainers.\nGoh is never shown an .\nAsh catches immediately after driving the off instead of taking it to a Pokémon Center first.\n\n \n \n \n\nde:Das rätselhafte Ei! (Pokémon Reisen)\nes:PV008\nit:JNM08",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Caring for a Mystery! (Japanese: とどけ波導！サトシと不思議なタマゴ！！ Convey the ! and the Mysterious Egg!!) is the eighth chapter of the manga. It is based on the animated series episode by the same name."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "is revealed to have a and a .\nAsh receives a Pokémon Egg from Nurse Joy that hatches into a ."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nChloe\nNurse Joy\nProfessor Cerise\nHayden"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( ; debut)\n( ; debut)\n( ; hatched)\n( )\n( )\n(Professor Cerise's; Rotom Phone)\n(Hayden's)\n\n(×2)\n(×2)\n\n(×4)\n(×2)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "As the events of A Test in Paradise! and A Chilling Curse! were skipped, Ash's Dragonite and debut here.\nAs Ash only registers for the World Coronation Series in the next chapter, the battle against Hayden is just a normal battle between the two Trainers.\nGoh is never shown an .\nAsh catches immediately after driving the off instead of taking it to a Pokémon Center first.\n\n \n \n \n\nde:Das rätselhafte Ei! (Pokémon Reisen)\nes:PV008\nit:JNM08"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM08",
+    "pageType": "chapter",
+    "searchableText": "JNM08\nCategory:Pokémon Journeys chapters\nCaring for a Mystery! (Japanese: とどけ波導！サトシと不思議なタマゴ！！ Convey the ! and the Mysterious Egg!!) is the eighth chapter of the manga. It is based on the animated series episode by the same name.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 1063,
+    "sectionCount": 6
+  }
+}

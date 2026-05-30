@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Yaza",
+    "slug": "yaza",
+    "pageId": 139513,
+    "revisionId": 4426351
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Great Gavel",
+    "sourceFileName": "yaza__139513.json",
+    "revisionTimestamp": "2025-11-18T20:18:47Z",
+    "fetchedAt": "2026-05-14T15:52:56.180Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Captain Yaza (Japanese: ヤザ) is a villain in the Pokémon RéBURST manga. He is a member of the Great Gavel Organization.",
+  "plainText": "Captain Yaza (Japanese: ヤザ) is a villain in the Pokémon RéBURST manga. He is a member of the Great Gavel Organization.\n\n==History==\nYaza first appears after Ryouga beats several grunts while attempting to rescue several kidnapped Pokémon. He attacks Ryouga with his ararebo, sending him flying and is shocked to find out that he came out alive. He commands his subordinates to attach his ararebo to a cage filled with Pokémon; his weapon steals their life force to catch fire, giving it more strength.\n\nWith his stronger weapon, Yaza easily overpowers Ryouga and goes in for the kill. Before he can finish him off, Ryouga is saved by Miruto, who threw a smoke bomb to blind Yaza. While Ryouga and Miruto discuss what to do, Yaza grabs a little girl and threatens to kill her if Ryouga doesn't come out to fight him.\n\nRyouga comes out and pulls out his Burst Heart to use Burst, combining with the Legendary . Yaza immediately recognizes the technique and nervously tries to attack Ryouga but only has his weapon broken in the process. Ryouga takes the opportunity to send Yaza flying into a building, defeating him.\n\nMuch later in the story, Yaza reappears, now with the title of captain, replacing his former title of commander. He leads an operation to capture the legendary Pokémon by holding several other Pokémon as captives and demanding it lets them capture it or else they will not let the Pokémon free. The operation is successful, and Yaza manages to trap Cobalion without any trouble, along with and elsewhere.\n\n==Weapon==\n \nYaza uses an as his weapon of choice. By using the life force of Pokémon, it can be set on fire, greatly increasing its strength and damaging capabilities.\n\n==Related articles==\n \n \n \n \n \n\nde:Yaza\nit:Yaza",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Captain Yaza (Japanese: ヤザ) is a villain in the Pokémon RéBURST manga. He is a member of the Great Gavel Organization."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Yaza first appears after Ryouga beats several grunts while attempting to rescue several kidnapped Pokémon. He attacks Ryouga with his ararebo, sending him flying and is shocked to find out that he came out alive. He commands his subordinates to attach his ararebo to a cage filled with Pokémon; his weapon steals their life force to catch fire, giving it more strength.\n\nWith his stronger weapon, Yaza easily overpowers Ryouga and goes in for the kill. Before he can finish him off, Ryouga is saved by Miruto, who threw a smoke bomb to blind Yaza. While Ryouga and Miruto discuss what to do, Yaza grabs a little girl and threatens to kill her if Ryouga doesn't come out to fight him.\n\nRyouga comes out and pulls out his Burst Heart to use Burst, combining with the Legendary . Yaza immediately recognizes the technique and nervously tries to attack Ryouga but only has his weapon broken in the process. Ryouga takes the opportunity to send Yaza flying into a building, defeating him.\n\nMuch later in the story, Yaza reappears, now with the title of captain, replacing his former title of commander. He leads an operation to capture the legendary Pokémon by holding several other Pokémon as captives and demanding it lets them capture it or else they will not let the Pokémon free. The operation is successful, and Yaza manages to trap Cobalion without any trouble, along with and elsewhere."
+    },
+    {
+      "heading": "Weapon",
+      "level": 2,
+      "text": "Yaza uses an as his weapon of choice. By using the life force of Pokémon, it can be set on fire, greatly increasing its strength and damaging capabilities."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Yaza\nit:Yaza"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yaza",
+    "pageType": "general-manga-lore",
+    "searchableText": "Yaza\nCategory:Great Gavel\nCaptain Yaza (Japanese: ヤザ) is a villain in the Pokémon RéBURST manga. He is a member of the Great Gavel Organization.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Weapon",
+      "Related articles"
+    ],
+    "characterCount": 1740,
+    "sectionCount": 4
+  }
+}

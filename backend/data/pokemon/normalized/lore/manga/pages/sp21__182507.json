@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "SP21",
+    "slug": "sp21",
+    "pageId": 182507,
+    "revisionId": 4114565
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp21__182507.json",
+    "revisionTimestamp": "2024-09-16T20:30:31Z",
+    "fetchedAt": "2026-05-14T15:50:03.953Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Enchanting Pokémon Soul! (Japanese: 魅せます！ポケモン魂 Enchant! The Pokémon Soul) is the twenty first chapter of the Ash & Pikachu manga.",
+  "plainText": "The Enchanting Pokémon Soul! (Japanese: 魅せます！ポケモン魂 Enchant! The Pokémon Soul) is the twenty first chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nDrew\n\n====Pokémon debuts====\n( )\n( )\n\n==Characters==\n===Humans===\n\nMax\nDrew\n\n===Pokémon===\n( )\n( )\n( )\n( 's)\n\n \n \n\n \n\nit:SP21",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Enchanting Pokémon Soul! (Japanese: 魅せます！ポケモン魂 Enchant! The Pokémon Soul) is the twenty first chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Drew"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max\nDrew"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( 's)\n\n \n \n\n \n\nit:SP21"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP21",
+    "pageType": "chapter",
+    "searchableText": "SP21\nCategory:Ash & Pikachu chapters\nThe Enchanting Pokémon Soul! (Japanese: 魅せます！ポケモン魂 Enchant! The Pokémon Soul) is the twenty first chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 318,
+    "sectionCount": 5
+  }
+}

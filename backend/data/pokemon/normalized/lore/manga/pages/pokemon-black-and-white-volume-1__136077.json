@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Black and White volume 1",
+    "slug": "pokemon-black-and-white-volume-1",
+    "pageId": 136077,
+    "revisionId": 4131335
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-black-and-white-volume-1__136077.json",
+    "revisionTimestamp": "2024-09-29T04:17:17Z",
+    "fetchedAt": "2026-05-14T15:35:50.937Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 1 is the first volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n \n\n==Chapters==\nAdventure 1: Fussing and Fighting\nAdventure 2: Choices\nAdventure 3: A Nickname for Tepig\nAdventure 4: Black's First Trainer Battle\n\n==Important events==\nstarts his journey to beat the Pokémon League.\nand set off on their journeys to tell Black about the broken Pokédexes.\nBlack meets Andy and learns about Triple Battles.\n\n==Party changes==\n===Additions===\nBlack's Tepig \"Tep\" in PS462.\nCheren's in PS462.\nBianca's in PS462.\n \n\n \n\nde:Band 1 (Pokémon Black and White)\nes:Tomo 1 (Pokémon Black and White)\nfr:Pocket Monsters Special aux États-Unis#Pokémon Black and White\nit:Pokémon Nero e Bianco volume 1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 1: Fussing and Fighting\nAdventure 2: Choices\nAdventure 3: A Nickname for Tepig\nAdventure 4: Black's First Trainer Battle"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "starts his journey to beat the Pokémon League.\nand set off on their journeys to tell Black about the broken Pokédexes.\nBlack meets Andy and learns about Triple Battles."
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "Black's Tepig \"Tep\" in PS462.\nCheren's in PS462.\nBianca's in PS462.\n \n\n \n\nde:Band 1 (Pokémon Black and White)\nes:Tomo 1 (Pokémon Black and White)\nfr:Pocket Monsters Special aux États-Unis#Pokémon Black and White\nit:Pokémon Nero e Bianco volume 1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Black and White volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Black and White volume 1\nCategory:Pokémon Adventures volumes\nVolume 1 is the first volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Additions"
+    ],
+    "characterCount": 1037,
+    "sectionCount": 4
+  }
+}

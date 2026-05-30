@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters DP volume 2",
+    "slug": "pocket-monsters-dp-volume-2",
+    "pageId": 109649,
+    "revisionId": 4528057
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP volumes",
+    "sourceFileName": "pocket-monsters-dp-volume-2__109649.json",
+    "revisionTimestamp": "2026-04-09T16:05:33Z",
+    "fetchedAt": "2026-05-14T15:34:17.151Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 2 is the second volume of the manga created by Kosaku Anakubo.",
+  "plainText": "Volume 2 is the second volume of the manga created by Kosaku Anakubo.\n\n==Publications==\n \n \n \n\n==Chapters==\nHelping the Legendary Pokémon!!\nClash!! Clefairy VS Palkia!!\nClefairy's Pokémon Center is Super Useful!?\nClefairy's Surprising Great Evolution!\nJoining the Terrible Wigglytuff Dojo!!\nThe Big Plan! Get the Treasure!!\nThe Illusory Pokémon Darkrai Appears!!\nWelcome to the Celebrity Party!!\nThe Big Three Pokémon Election Battle!!\nLighthearted Flower-viewing Mayhem\nProfessor Briefs' Strange Inventions!!\nBig Cleaning Festivities\n\n \n\n \n\nzh:宝可梦欢乐祭 钻石・珍珠篇2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume of the manga created by Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Helping the Legendary Pokémon!!\nClash!! Clefairy VS Palkia!!\nClefairy's Pokémon Center is Super Useful!?\nClefairy's Surprising Great Evolution!\nJoining the Terrible Wigglytuff Dojo!!\nThe Big Plan! Get the Treasure!!\nThe Illusory Pokémon Darkrai Appears!!\nWelcome to the Celebrity Party!!\nThe Big Three Pokémon Election Battle!!\nLighthearted Flower-viewing Mayhem\nProfessor Briefs' Strange Inventions!!\nBig Cleaning Festivities\n\n \n\n \n\nzh:宝可梦欢乐祭 钻石・珍珠篇2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters DP volume 2",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters DP volume 2\nCategory:Pocket Monsters DP volumes\nVolume 2 is the second volume of the manga created by Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 559,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mr. Gold",
+    "slug": "mr-gold",
+    "pageId": 162502,
+    "revisionId": 4357200
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "mr-gold__162502.json",
+    "revisionTimestamp": "2025-08-12T14:49:26Z",
+    "fetchedAt": "2026-05-14T14:38:18.931Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mr. Gold (Japanese: ゴールド Gold) is a character of the day who appeared in An Epic Defense Force!. He is the president of Pokéstar Studios and the main producer behind a lot of successful movies. He approached , , , and Luke after he overheard their conversation about entering the Film Competition. He encouraged Luke to make a beautiful movie.\n\nAfter the movies made by the contestants were shown, Mr. Gold presented the prize for the best movie, which ultimately went to Luke. He commented to Luke that his movie was filled with a lot of love and that he looked forward to his next movie.",
+  "plainText": "Mr. Gold (Japanese: ゴールド Gold) is a character of the day who appeared in An Epic Defense Force!. He is the president of Pokéstar Studios and the main producer behind a lot of successful movies. He approached , , , and Luke after he overheard their conversation about entering the Film Competition. He encouraged Luke to make a beautiful movie.\n\nAfter the movies made by the contestants were shown, Mr. Gold presented the prize for the best movie, which ultimately went to Luke. He commented to Luke that his movie was filled with a lot of love and that he looked forward to his next movie. \n\n==Voice actors==\n \n \n\n \n \n \n \n\nes:Señor Gold\nit:Mr. Gold",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mr. Gold (Japanese: ゴールド Gold) is a character of the day who appeared in An Epic Defense Force!. He is the president of Pokéstar Studios and the main producer behind a lot of successful movies. He approached , , , and Luke after he overheard their conversation about entering the Film Competition. He encouraged Luke to make a beautiful movie.\n\nAfter the movies made by the contestants were shown, Mr. Gold presented the prize for the best movie, which ultimately went to Luke. He commented to Luke that his movie was filled with a lot of love and that he looked forward to his next movie."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Señor Gold\nit:Mr. Gold"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mr. Gold",
+    "pageType": "character",
+    "searchableText": "Mr. Gold\nCategory:Unova characters of the day\nMr. Gold (Japanese: ゴールド Gold) is a character of the day who appeared in An Epic Defense Force!. He is the president of Pokéstar Studios and the main producer behind a lot of successful movies. He approached , , , and Luke after he overheard their conversation about entering the Film Competition. He encouraged Luke to make a beautiful movie.\n\nAfter the movies made by the contestants were shown, Mr. Gold presented the prize for the best movie, which ultimately went to Luke. He commented to Luke that his movie was filled with a lot of love and that he looked forward to his next movie.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 648,
+    "sectionCount": 2
+  }
+}

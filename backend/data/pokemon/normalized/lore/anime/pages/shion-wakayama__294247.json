@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Shion Wakayama",
+    "slug": "shion-wakayama",
+    "pageId": 294247,
+    "revisionId": 4535057
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "shion-wakayama__294247.json",
+    "revisionTimestamp": "2026-04-20T02:21:33Z",
+    "fetchedAt": "2026-05-14T14:49:31.431Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Shion Wakayama (Japanese: 若山詩音 Shion Wakayama) is a Japanese voice actor for Pokémon animation.",
+  "plainText": "Shion Wakayama (Japanese: 若山詩音 Shion Wakayama) is a Japanese voice actor for Pokémon animation.\n\n==Biography==\nShion was born on Feb 10, 1998, Chiba Prefecture, Japan. Shion became a voice actor in 2006. Her first Pokémon role is voicing Ohara, in Pokémon: Paldean Winds.\n\n==Pokémon roles==\n===Animation===\n====Pokémon: Paldean Winds====\nOhara\n\n==Other non-Pokémon roles==\nMie, Ai ( )\nInoue, Takina ( )\nDestiny ( )\nMinami, Yume ( )\nTokutomi, Izumi ( )\nYukari ( )\nTomorrow ( )\nEllen Joe ( )\n\n==External links==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shion Wakayama (Japanese: 若山詩音 Shion Wakayama) is a Japanese voice actor for Pokémon animation."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Shion was born on Feb 10, 1998, Chiba Prefecture, Japan. Shion became a voice actor in 2006. Her first Pokémon role is voicing Ohara, in Pokémon: Paldean Winds."
+    },
+    {
+      "heading": "Pokémon: Paldean Winds",
+      "level": 4,
+      "text": "Ohara"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Mie, Ai ( )\nInoue, Takina ( )\nDestiny ( )\nMinami, Yume ( )\nTokutomi, Izumi ( )\nYukari ( )\nTomorrow ( )\nEllen Joe ( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shion Wakayama",
+    "pageType": "general-anime-lore",
+    "searchableText": "Shion Wakayama\nCategory:Japanese voice actors\nShion Wakayama (Japanese: 若山詩音 Shion Wakayama) is a Japanese voice actor for Pokémon animation.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Pokémon: Paldean Winds",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 509,
+    "sectionCount": 4
+  }
+}

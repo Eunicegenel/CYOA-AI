@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PokéMinutes",
+    "slug": "pokeminutes",
+    "pageId": 319318,
+    "revisionId": 4499410
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation",
+    "sourceFileName": "pokeminutes__319318.json",
+    "revisionTimestamp": "2026-03-03T14:50:50Z",
+    "fetchedAt": "2026-05-14T14:42:33.389Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "PokéMinutes (Japanese: \n \n \n \n \n \n \n \n \n \n \n}}",
+  "plainText": "PokéMinutes (Japanese: \n \n \n \n \n \n \n \n \n \n \n}}\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n\n==External links==\nPlaylists on YouTube: Japanese, Korean, English (South Asia), Bengali, Hindi, Tamil, Telugu \n\n \n \n\nde:PokéMinutes\nes:PokéMinutes\nja:PokéMinutes\nzh:宝可时分",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "PokéMinutes (Japanese: \n \n \n \n \n \n \n \n \n \n \n}}"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Playlists on YouTube: Japanese, Korean, English (South Asia), Bengali, Hindi, Tamil, Telugu \n\n \n \n\nde:PokéMinutes\nes:PokéMinutes\nja:PokéMinutes\nzh:宝可时分"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PokéMinutes",
+    "pageType": "general-anime-lore",
+    "searchableText": "PokéMinutes\nCategory:Animation\nPokéMinutes (Japanese: \n \n \n \n \n \n \n \n \n \n \n}}",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 310,
+    "sectionCount": 2
+  }
+}

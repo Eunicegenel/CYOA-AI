@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ55",
+    "slug": "gdz55",
+    "pageId": 188446,
+    "revisionId": 4527056
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz55__188446.json",
+    "revisionTimestamp": "2026-04-09T15:17:11Z",
+    "fetchedAt": "2026-05-14T15:19:56.575Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 子守もラクじゃない！ Babysitting Isn't Easy!) is the 55th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 子守もラクじゃない！ Babysitting Isn't Easy!) is the 55th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's)\n(Shu's)\n(Shu's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 子守もラクじゃない！ Babysitting Isn't Easy!) is the 55th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's)\n(Shu's)\n(Shu's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ55",
+    "pageType": "chapter",
+    "searchableText": "GDZ55\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 子守もラクじゃない！ Babysitting Isn't Easy!) is the 55th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 262,
+    "sectionCount": 3
+  }
+}

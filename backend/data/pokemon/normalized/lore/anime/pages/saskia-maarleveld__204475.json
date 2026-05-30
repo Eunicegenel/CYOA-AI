@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Saskia Maarleveld",
+    "slug": "saskia-maarleveld",
+    "pageId": 204475,
+    "revisionId": 4323628
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "saskia-maarleveld__204475.json",
+    "revisionTimestamp": "2025-06-24T03:33:30Z",
+    "fetchedAt": "2026-05-14T14:48:24.692Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Saskia Maarleveld is a voice actress for the English-language dub of . She is currently affiliated with Access Talent Agency.",
+  "plainText": "Saskia Maarleveld is a voice actress for the English-language dub of . She is currently affiliated with Access Talent Agency.\n\n==Biography==\nMaarleveld was born in New Zealand and became a voice actress as an adult. She joined the in the beginning of . Her most prominent role is Officer Jenny, replacing Lipica Shah, the previous voice actor for the character. Maarleveld currently resides in New York City, New York, and is also an audiobook narrator.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Major=====\nOfficer Jenny (XY002-XY135)\n\n=====Minor=====\nFemale (XY119)\n\n==Other non-Pokémon roles==\nYoko Sakaki ( )\nTecna ( ) (DuArt Film & Video/[[3Beep]) (Seasons 7-8)\n\n===Video game roles===\nRacer Girl (Gangstar Vegas)\n\n==External links==\nTwitter\n \n\n \n\nit:Saskia Maarleveld",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Saskia Maarleveld is a voice actress for the English-language dub of . She is currently affiliated with Access Talent Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Maarleveld was born in New Zealand and became a voice actress as an adult. She joined the in the beginning of . Her most prominent role is Officer Jenny, replacing Lipica Shah, the previous voice actor for the character. Maarleveld currently resides in New York City, New York, and is also an audiobook narrator."
+    },
+    {
+      "heading": "Major",
+      "level": 5,
+      "text": "Officer Jenny (XY002-XY135)"
+    },
+    {
+      "heading": "Minor",
+      "level": 5,
+      "text": "Female (XY119)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Yoko Sakaki ( )\nTecna ( ) (DuArt Film & Video/[[3Beep]) (Seasons 7-8)"
+    },
+    {
+      "heading": "Video game roles",
+      "level": 3,
+      "text": "Racer Girl (Gangstar Vegas)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\n \n\n \n\nit:Saskia Maarleveld"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Saskia Maarleveld",
+    "pageType": "general-anime-lore",
+    "searchableText": "Saskia Maarleveld\nCategory:TPCi voice actors\nSaskia Maarleveld is a voice actress for the English-language dub of . She is currently affiliated with Access Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "Video game roles",
+      "External links"
+    ],
+    "characterCount": 780,
+    "sectionCount": 7
+  }
+}

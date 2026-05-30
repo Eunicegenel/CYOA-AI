@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Gena",
+    "slug": "gena",
+    "pageId": 192549,
+    "revisionId": 4143384
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "gena__192549.json",
+    "revisionTimestamp": "2024-10-11T19:36:16Z",
+    "fetchedAt": "2026-05-14T14:20:03.343Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Gena (Japanese: モナーク Monarque) is a recurring character in . She is a famous Poké Puff .",
+  "plainText": "Gena (Japanese: モナーク Monarque) is a recurring character in . She is a famous Poké Puff .\n\n==History==\nGena debuted in A Battle by Any Other Name!, where she acted as the chief juror of the Poké Puff Contest. She was called on stage to announce the results of the preliminary round of the competition. As she was explaining to the audience what Poké Puffs meant to her, she was approached by , who proposed that she marry . After Clemont grabbed Bonnie and took her off stage, she announced that , Miette, and the Berrybaker kids would proceed to the final round.\n\nThe next day, she announced the results of the final round. She first told the audience what kind of Poké Puff each of the finalists had made. She then announced the winners to be the Berrybaker kids.\n\nShe reappeared in Performing with Fiery Charm!, where she was one of three judges during the Theme Performance of the Dendemille Town Rookie Class Pokémon Showcase, the other two being Santo and Delilah. She judged alongside her , allowing Miette, Jessilia, and advance to the Freestyle Performance. At the end of the Freestyle Performance, she voted along with the audience to decide the winner of the Pokémon Showcase, helping Serena secure her first Princess Key.\n\n==Character==\nGena has a bright personality. She focuses on the flavor and texture of a Poké Puff. She also appreciates complimentary features that reflect the friendship between a Trainer and their Pokémon.\n\n==Pokémon==\nThis listing is of Gena's known in :\n \n \n\n==Voice actors==\n \n\n \n\n \n \n\nes:Gena\nfr:Ginnie\nit:Gena\nzh:毛娜可",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Gena (Japanese: モナーク Monarque) is a recurring character in . She is a famous Poké Puff ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Gena debuted in A Battle by Any Other Name!, where she acted as the chief juror of the Poké Puff Contest. She was called on stage to announce the results of the preliminary round of the competition. As she was explaining to the audience what Poké Puffs meant to her, she was approached by , who proposed that she marry . After Clemont grabbed Bonnie and took her off stage, she announced that , Miette, and the Berrybaker kids would proceed to the final round.\n\nThe next day, she announced the results of the final round. She first told the audience what kind of Poké Puff each of the finalists had made. She then announced the winners to be the Berrybaker kids.\n\nShe reappeared in Performing with Fiery Charm!, where she was one of three judges during the Theme Performance of the Dendemille Town Rookie Class Pokémon Showcase, the other two being Santo and Delilah. She judged alongside her , allowing Miette, Jessilia, and advance to the Freestyle Performance. At the end of the Freestyle Performance, she voted along with the audience to decide the winner of the Pokémon Showcase, helping Serena secure her first Princess Key."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Gena has a bright personality. She focuses on the flavor and texture of a Poké Puff. She also appreciates complimentary features that reflect the friendship between a Trainer and their Pokémon."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Gena's known in :"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Gena\nfr:Ginnie\nit:Gena\nzh:毛娜可"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Gena",
+    "pageType": "character",
+    "searchableText": "Gena\nCategory:Animation characters\nGena (Japanese: モナーク Monarque) is a recurring character in . She is a famous Poké Puff .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Pokémon",
+      "Voice actors"
+    ],
+    "characterCount": 1557,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "ABM15",
+    "slug": "abm15",
+    "pageId": 191820,
+    "revisionId": 4528697
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abm15__191820.json",
+    "revisionTimestamp": "2026-04-09T16:44:14Z",
+    "fetchedAt": "2026-05-14T15:12:14.939Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 決着！ラストバトル！！ Conclusion! Last Battle!) is the fifteenth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: 決着！ラストバトル！！ Conclusion! Last Battle!) is the fifteenth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyū Tendō\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 決着！ラストバトル！！ Conclusion! Last Battle!) is the fifteenth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryū Tendō"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABM15",
+    "pageType": "chapter",
+    "searchableText": "ABM15\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: 決着！ラストバトル！！ Conclusion! Last Battle!) is the fifteenth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 250,
+    "sectionCount": 2
+  }
+}

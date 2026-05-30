@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "CPD05",
+    "slug": "cpd05",
+    "pageId": 343693,
+    "revisionId": 4398740
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Countdown Pokémon Day chapters",
+    "sourceFileName": "cpd05__343693.json",
+    "revisionTimestamp": "2025-10-12T21:35:10Z",
+    "fetchedAt": "2026-05-14T15:16:20.192Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the fifth chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 24, 2025 at 8:00 PM JST. It is 16 pages long.",
+  "plainText": "This is the fifth chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 24, 2025 at 8:00 PM JST. It is 16 pages long.\n\n==Plot==\n \n \n \n\n==Major events==\n \n===Debuts===\n====Pokémon debuts====\n(fantasy)\n\n==Characters==\n===Humans===\n\n===Pokémon===\n(Yūsuke's)\n(Daichi's)\n(Tokio's)\n(Yadoyan; Umina's)\n(Run-chan; Yuki's)\n(Gyara-chan; Ai's)\n(fantasy)\n(fantasy)\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the fifth chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 24, 2025 at 8:00 PM JST. It is 16 pages long."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(fantasy)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Yūsuke's)\n(Daichi's)\n(Tokio's)\n(Yadoyan; Umina's)\n(Run-chan; Yuki's)\n(Gyara-chan; Ai's)\n(fantasy)\n(fantasy)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CPD05",
+    "pageType": "chapter",
+    "searchableText": "CPD05\nCategory:Countdown Pokémon Day chapters\nThis is the fifth chapter of the Countdown Pokémon Day manga. It was first published on Poké Times on February 24, 2025 at 8:00 PM JST. It is 16 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 407,
+    "sectionCount": 3
+  }
+}

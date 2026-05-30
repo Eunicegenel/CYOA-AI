@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Block Bot",
+    "slug": "block-bot",
+    "pageId": 28003,
+    "revisionId": 4295025
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "block-bot__28003.json",
+    "revisionTimestamp": "2025-05-06T19:54:34Z",
+    "fetchedAt": "2026-05-14T14:05:31.768Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "A Block Bot (Japanese: ブロックボット Block Bot) is a type of robot seen in LaRousse City in Destiny Deoxys. They acted as the secondary antagonists near the end of the . They perform a number of functions, such as acting as a welcoming committee to visitors and taking pictures for passports. They can also join themselves together to form bridges, and act as LaRousse's defense system.\n\nHowever, because of an attack from a , their data was scrambled and became corrupt, causing them to attack innocent bystanders. In the final act, they flooded the streets and almost covered the Battle Tower. This indirectly led to the Evolution of a into a , which bounced on to get a passport to shut down the Block Bots.",
+  "plainText": "A Block Bot (Japanese: ブロックボット Block Bot) is a type of robot seen in LaRousse City in Destiny Deoxys. They acted as the secondary antagonists near the end of the . They perform a number of functions, such as acting as a welcoming committee to visitors and taking pictures for passports. They can also join themselves together to form bridges, and act as LaRousse's defense system.\n\nHowever, because of an attack from a , their data was scrambled and became corrupt, causing them to attack innocent bystanders. In the final act, they flooded the streets and almost covered the Battle Tower. This indirectly led to the Evolution of a into a , which bounced on to get a passport to shut down the Block Bots.\n\n==Functions==\nBlock Bots perform a number of functions, such as:\nWelcoming newcomers in LaRousse City\nTaking pictures for newcomers\nHanding out passports for newcomers and recording their point of origin\nRoaming around and acting as maps of the city\nActing as LaRousse City's defense system\nJoining together to form bridges\nWandering around certain areas and requesting passports from passers-by, approaching them on sight\nJoining together to form a screen with a flee-plan\nLending help to other devices (such as a hamburger machine) when threatened\nActing as guides to guide people to safe places in case of emergency\n\n==Voice actors==\n \n\n==Related articles==\n \n \n\n \n\nit:Block Bot",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Block Bot (Japanese: ブロックボット Block Bot) is a type of robot seen in LaRousse City in Destiny Deoxys. They acted as the secondary antagonists near the end of the . They perform a number of functions, such as acting as a welcoming committee to visitors and taking pictures for passports. They can also join themselves together to form bridges, and act as LaRousse's defense system.\n\nHowever, because of an attack from a , their data was scrambled and became corrupt, causing them to attack innocent bystanders. In the final act, they flooded the streets and almost covered the Battle Tower. This indirectly led to the Evolution of a into a , which bounced on to get a passport to shut down the Block Bots."
+    },
+    {
+      "heading": "Functions",
+      "level": 2,
+      "text": "Block Bots perform a number of functions, such as:\nWelcoming newcomers in LaRousse City\nTaking pictures for newcomers\nHanding out passports for newcomers and recording their point of origin\nRoaming around and acting as maps of the city\nActing as LaRousse City's defense system\nJoining together to form bridges\nWandering around certain areas and requesting passports from passers-by, approaching them on sight\nJoining together to form a screen with a flee-plan\nLending help to other devices (such as a hamburger machine) when threatened\nActing as guides to guide people to safe places in case of emergency"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Block Bot"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Block Bot",
+    "pageType": "movie",
+    "searchableText": "Block Bot\nCategory:Movie characters\nA Block Bot (Japanese: ブロックボット Block Bot) is a type of robot seen in LaRousse City in Destiny Deoxys. They acted as the secondary antagonists near the end of the . They perform a number of functions, such as acting as a welcoming committee to visitors and taking pictures for passports. They can also join themselves together to form bridges, and act as LaRousse's defense system.\n\nHowever, because of an attack from a , their data was scrambled and became corrupt, causing them to attack innocent bystanders. In the final act, they flooded the streets and almost covered the Battle Tower. This indirectly led to the Evolution of a into a , which bounced on to get a passport to shut down the Block Bots.",
+    "sectionHeadings": [
+      "Lead",
+      "Functions",
+      "Related articles"
+    ],
+    "characterCount": 1387,
+    "sectionCount": 3
+  }
+}

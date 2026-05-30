@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PS569",
+    "slug": "ps569",
+    "pageId": 260577,
+    "revisionId": 4549321
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps569__260577.json",
+    "revisionTimestamp": "2026-05-11T01:44:18Z",
+    "fetchedAt": "2026-05-14T15:45:56.541Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Glittering Diancie (Japanese: ディアンシー、光る Diancie, Shine) is the 569th chapter of the Pokémon Adventures manga, and the 21st chapter of the .",
+  "plainText": "Glittering Diancie (Japanese: ディアンシー、光る Diancie, Shine) is the 569th chapter of the Pokémon Adventures manga, and the 21st chapter of the .\n\n==Plot==\n \n\n==Major events==\n \n \n\n===Debuts===\n====Humans====\n====Pokémon debuts==== \n\n==Characters==\n===Humans===\nWallace (silhouette)\nKorrina\nWikstrom (fantasy)\nDrasna (fantasy) \nSiebold (fantasy)\nMalva\nDiantha\nGurkinn\nJewel thief\nAristocrat\nServants\n\n===Pokémon===\n( ; Mega Lucario)\n( ; Mega Gardevoir)\n(Gurkinn's; Mega Heracross)\n(female; Malva's)\n(Jewel thief's; multiple)\n(multiple)\n\n \n==In other languages==\n \n \n \n \n\nde:Spezial-Episode 7\nes:PMS569\nfr:Chapitre 569 (Pocket Monsters Special)\nit:LGA569\nzh:宝可梦特别篇 第569话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Glittering Diancie (Japanese: ディアンシー、光る Diancie, Shine) is the 569th chapter of the Pokémon Adventures manga, and the 21st chapter of the ."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "====Pokémon debuts===="
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Wallace (silhouette)\nKorrina\nWikstrom (fantasy)\nDrasna (fantasy) \nSiebold (fantasy)\nMalva\nDiantha\nGurkinn\nJewel thief\nAristocrat\nServants"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; Mega Lucario)\n( ; Mega Gardevoir)\n(Gurkinn's; Mega Heracross)\n(female; Malva's)\n(Jewel thief's; multiple)\n(multiple)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Spezial-Episode 7\nes:PMS569\nfr:Chapitre 569 (Pocket Monsters Special)\nit:LGA569\nzh:宝可梦特别篇 第569话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS569",
+    "pageType": "chapter",
+    "searchableText": "PS569\nCategory:Pokémon Adventures chapters\nGlittering Diancie (Japanese: ディアンシー、光る Diancie, Shine) is the 569th chapter of the Pokémon Adventures manga, and the 21st chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 663,
+    "sectionCount": 5
+  }
+}

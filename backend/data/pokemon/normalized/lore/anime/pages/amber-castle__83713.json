@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Amber Castle",
+    "slug": "amber-castle",
+    "pageId": 83713,
+    "revisionId": 4317499
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "amber-castle__83713.json",
+    "revisionTimestamp": "2025-06-08T16:23:05Z",
+    "fetchedAt": "2026-05-14T14:00:57.951Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Amber Castle (Japanese: の Amber Castle) is an -exclusive location in Sinnoh that appeared in An Angry Combeenation!. It is home to a large swarm of which create Enchanted Honey, which is said to be thousands of times sweeter than normal Honey. \n\n and accompanied Cheryl on her quest to find the Enchanted Honey with the help of her . They discovered the Amber Castle hidden behind a waterfall in Eterna Forest, and followed a network of tunnels to reach the main chamber. After the group and Cheryl stopped from destroying the Amber Castle, the hive queen rewarded them with a jar of Enchanted Honey.",
+  "plainText": "Amber Castle (Japanese: の Amber Castle) is an -exclusive location in Sinnoh that appeared in An Angry Combeenation!. It is home to a large swarm of which create Enchanted Honey, which is said to be thousands of times sweeter than normal Honey. \n\n and accompanied Cheryl on her quest to find the Enchanted Honey with the help of her . They discovered the Amber Castle hidden behind a waterfall in Eterna Forest, and followed a network of tunnels to reach the main chamber. After the group and Cheryl stopped from destroying the Amber Castle, the hive queen rewarded them with a jar of Enchanted Honey.\n\n==Pokémon seen in Amber Castle==\n \n\n \n\n==In other languages==\n \n\n \n \n \n\nes:Castillo Ámbar\nit:Castello Ambrato\nzh:琥珀之城",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Amber Castle (Japanese: の Amber Castle) is an -exclusive location in Sinnoh that appeared in An Angry Combeenation!. It is home to a large swarm of which create Enchanted Honey, which is said to be thousands of times sweeter than normal Honey. \n\n and accompanied Cheryl on her quest to find the Enchanted Honey with the help of her . They discovered the Amber Castle hidden behind a waterfall in Eterna Forest, and followed a network of tunnels to reach the main chamber. After the group and Cheryl stopped from destroying the Amber Castle, the hive queen rewarded them with a jar of Enchanted Honey."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Castillo Ámbar\nit:Castello Ambrato\nzh:琥珀之城"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Amber Castle",
+    "pageType": "location",
+    "searchableText": "Amber Castle\nCategory:Animated series-exclusive locations\nAmber Castle (Japanese: の Amber Castle) is an -exclusive location in Sinnoh that appeared in An Angry Combeenation!. It is home to a large swarm of which create Enchanted Honey, which is said to be thousands of times sweeter than normal Honey. \n\n and accompanied Cheryl on her quest to find the Enchanted Honey with the help of her . They discovered the Amber Castle hidden behind a waterfall in Eterna Forest, and followed a network of tunnels to reach the main chamber. After the group and Cheryl stopped from destroying the Amber Castle, the hive queen rewarded them with a jar of Enchanted Honey.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 719,
+    "sectionCount": 2
+  }
+}

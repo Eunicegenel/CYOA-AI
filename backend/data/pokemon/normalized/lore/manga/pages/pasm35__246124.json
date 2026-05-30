@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASM35",
+    "slug": "pasm35",
+    "pageId": 246124,
+    "revisionId": 4549356
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasm35__246124.json",
+    "revisionTimestamp": "2026-05-11T01:47:34Z",
+    "fetchedAt": "2026-05-14T15:28:38.094Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Transcend!! Ultra Necrozma! (Japanese: 超越！！ウルトラネクロズマ！ Transcendence!! Ultra Necrozma!) is the 35th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Transcend!! Ultra Necrozma! (Japanese: 超越！！ウルトラネクロズマ！ Transcendence!! Ultra Necrozma!) is the 35th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n==Major events==\n\n \n\n===Debuts===\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\nAcerola \nAnabel\nSamson Oak\nZossie\nDulse\nSoliera\nPhyco\n\n===Pokémon===\n(Rotom Pokédex; 's)\n(Acerola's)\n(Acerola's)\n(Lusamine's)\n(multiple; s')\n( ; )\n( )\n( )\n( ; )\n(multiple)\n\n==In other languages==\n \n\n \n \n \n \n\nde:Ultra-Necrozma!\nes:PMSSM35\nit:PASM35\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第35话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Transcend!! Ultra Necrozma! (Japanese: 超越！！ウルトラネクロズマ！ Transcendence!! Ultra Necrozma!) is the 35th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Acerola \nAnabel\nSamson Oak\nZossie\nDulse\nSoliera\nPhyco"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Rotom Pokédex; 's)\n(Acerola's)\n(Acerola's)\n(Lusamine's)\n(multiple; s')\n( ; )\n( )\n( )\n( ; )\n(multiple)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Ultra-Necrozma!\nes:PMSSM35\nit:PASM35\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第35话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASM35",
+    "pageType": "chapter",
+    "searchableText": "PASM35\nCategory:Pokémon Adventures chapters\nTranscend!! Ultra Necrozma! (Japanese: 超越！！ウルトラネクロズマ！ Transcendence!! Ultra Necrozma!) is the 35th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 530,
+    "sectionCount": 5
+  }
+}

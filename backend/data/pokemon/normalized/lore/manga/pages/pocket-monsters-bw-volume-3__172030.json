@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pocket Monsters BW volume 3",
+    "slug": "pocket-monsters-bw-volume-3",
+    "pageId": 172030,
+    "revisionId": 4528650
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW volumes",
+    "sourceFileName": "pocket-monsters-bw-volume-3__172030.json",
+    "revisionTimestamp": "2026-04-09T16:32:53Z",
+    "fetchedAt": "2026-05-14T15:34:10.267Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 3 is the third volume of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 3 is the third volume of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n\n==Chapters==\nInvincible Ultra-function Xtransceiver!?\nCurry Face-Off with the Elite Four!!\nRed's Style Golden Week Strategy!\nRun! Red VS Immunization!!\nGet the New Pokémon Information!\nMeloetta's Big Profit!?\nStop Keldeo!!\nMeeting Again! Champion Green!!\nMovie Director Clefairy is Born...!?\nClefairy's Big Aquarium Operation!\nGet a Laugh out of Hilarious Gags!\nOkonomiyaki Competition!!\n\n==Important events==\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 3 is the third volume of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Invincible Ultra-function Xtransceiver!?\nCurry Face-Off with the Elite Four!!\nRed's Style Golden Week Strategy!\nRun! Red VS Immunization!!\nGet the New Pokémon Information!\nMeloetta's Big Profit!?\nStop Keldeo!!\nMeeting Again! Champion Green!!\nMovie Director Clefairy is Born...!?\nClefairy's Big Aquarium Operation!\nGet a Laugh out of Hilarious Gags!\nOkonomiyaki Competition!!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters BW volume 3",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters BW volume 3\nCategory:Pocket Monsters BW volumes\nVolume 3 is the third volume of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 511,
+    "sectionCount": 3
+  }
+}

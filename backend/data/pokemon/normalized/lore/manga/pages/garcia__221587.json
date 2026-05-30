@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Garcia",
+    "slug": "garcia",
+    "pageId": 221587,
+    "revisionId": 4450561
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "garcia__221587.json",
+    "revisionTimestamp": "2025-12-19T20:02:14Z",
+    "fetchedAt": "2026-05-14T15:19:02.869Z"
+  },
+  "classification": {
+    "estimatedPageType": "arc"
+  },
+  "leadText": "Garcia (Japanese: ガルシア Garcia) is a character in the Pokémon Adventures . She is a resident of Vaniville Town who works at a grocery store.",
+  "plainText": "Garcia (Japanese: ガルシア Garcia) is a character in the Pokémon Adventures . She is a resident of Vaniville Town who works at a grocery store.\n\n==History==\nGarcia debuted in Gathering Klefki. She was one of the people who were kidnapped by Team Flare after attempting to escape from the destruction of Vaniville Town caused by the battle between Xerneas and . Garcia and the other kidnapped Vaniville Town residents were taken to the Team Flare Secret HQ, where they were locked inside jail cells.\n\nWhen Team Flare began the operation to retrieve the dormant tree form of Xerneas, Celosia used her to mind control the Vaniville townspeople in order to use them for slave labor. The townspeople were taken to , where they were made to load Xerneas's tree form into a vehicle so that it can be moved to Team Flare's base. Garcia was freed from the mind control when Korrina battled against Celosia and defeated Aegislash with her .\n\nAfterward, Garcia and the other Vaniville townspeople were taken to a Laverre City hospital to recuperate.\n\n==Trivia==\nAccording to Satoshi Yamamoto, several of the Vaniville Town residents are a reference to the long-running television series, . Garcia's design is a reference to the character . \n\n==References==\n \n \n\n \n \n \n\nit:Garcia",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Garcia (Japanese: ガルシア Garcia) is a character in the Pokémon Adventures . She is a resident of Vaniville Town who works at a grocery store."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Garcia debuted in Gathering Klefki. She was one of the people who were kidnapped by Team Flare after attempting to escape from the destruction of Vaniville Town caused by the battle between Xerneas and . Garcia and the other kidnapped Vaniville Town residents were taken to the Team Flare Secret HQ, where they were locked inside jail cells.\n\nWhen Team Flare began the operation to retrieve the dormant tree form of Xerneas, Celosia used her to mind control the Vaniville townspeople in order to use them for slave labor. The townspeople were taken to , where they were made to load Xerneas's tree form into a vehicle so that it can be moved to Team Flare's base. Garcia was freed from the mind control when Korrina battled against Celosia and defeated Aegislash with her .\n\nAfterward, Garcia and the other Vaniville townspeople were taken to a Laverre City hospital to recuperate."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "According to Satoshi Yamamoto, several of the Vaniville Town residents are a reference to the long-running television series, . Garcia's design is a reference to the character ."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:Garcia"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Garcia",
+    "pageType": "arc",
+    "searchableText": "Garcia\nCategory:Pokémon Adventures characters\nGarcia (Japanese: ガルシア Garcia) is a character in the Pokémon Adventures . She is a resident of Vaniville Town who works at a grocery store.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia",
+      "References"
+    ],
+    "characterCount": 1263,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Takayuki Masuda",
+    "slug": "takayuki-masuda",
+    "pageId": 258951,
+    "revisionId": 4323432
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "takayuki-masuda__258951.json",
+    "revisionTimestamp": "2025-06-24T03:30:07Z",
+    "fetchedAt": "2026-05-14T14:52:58.723Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Takayuki Masuda (Japanese: 増田隆之 Masuda Takayuki) is a Japanese voice actor for .",
+  "plainText": "Takayuki Masuda (Japanese: 増田隆之 Masuda Takayuki) is a Japanese voice actor for .\n\n==Biography==\nMasuda was born on January 16, 1984, in , and became a voice actor as an adult. He joined the during , where he voiced Goh's father Walker.\n\n==Pokémon roles==\n===Animation===\n==== ====\nWalker\n\n==Other non-Pokémon roles==\nMirror Man ( )\nShin Nemoto ( )\nHarz Lecter ( )\nMunetaka Murasako, Yasuzou Muramatsu, Towada ( )\n\n==External links==\nBehind the Voice Actors\nAnime Planet\nAnime News Network\n\n \n\n \n\nit:Takayuki Masuda\nja:増田隆之",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Takayuki Masuda (Japanese: 増田隆之 Masuda Takayuki) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Masuda was born on January 16, 1984, in , and became a voice actor as an adult. He joined the during , where he voiced Goh's father Walker."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Walker"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Mirror Man ( )\nShin Nemoto ( )\nHarz Lecter ( )\nMunetaka Murasako, Yasuzou Muramatsu, Towada ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Behind the Voice Actors\nAnime Planet\nAnime News Network\n\n \n\n \n\nit:Takayuki Masuda\nja:増田隆之"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Takayuki Masuda",
+    "pageType": "general-anime-lore",
+    "searchableText": "Takayuki Masuda\nCategory:Japanese voice actors\nTakayuki Masuda (Japanese: 増田隆之 Masuda Takayuki) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 522,
+    "sectionCount": 5
+  }
+}

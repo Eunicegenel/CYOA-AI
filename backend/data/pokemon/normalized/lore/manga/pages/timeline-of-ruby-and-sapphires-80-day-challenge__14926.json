@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Timeline of Ruby and Sapphire's 80-day challenge",
+    "slug": "timeline-of-ruby-and-sapphires-80-day-challenge",
+    "pageId": 14926,
+    "revisionId": 4132948
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures",
+    "sourceFileName": "timeline-of-ruby-and-sapphires-80-day-challenge__14926.json",
+    "revisionTimestamp": "2024-09-29T05:29:53Z",
+    "fetchedAt": "2026-05-14T15:51:47.089Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The fourth chapter of Pokémon Adventures is the story of and , their 80-day challenge, and the crisis caused by Team Aqua and Team Magma unleashing and .",
+  "plainText": "The fourth chapter of Pokémon Adventures is the story of and , their 80-day challenge, and the crisis caused by Team Aqua and Team Magma unleashing and .\n\n \n==Timeline==\n \n \n\n \n\nit:Cronologia della sfida degli 80 giorni tra Rubino e Zaffiro",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The fourth chapter of Pokémon Adventures is the story of and , their 80-day challenge, and the crisis caused by Team Aqua and Team Magma unleashing and ."
+    },
+    {
+      "heading": "Timeline",
+      "level": 2,
+      "text": "it:Cronologia della sfida degli 80 giorni tra Rubino e Zaffiro"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Timeline of Ruby and Sapphire's 80-day challenge",
+    "pageType": "pokemon-related",
+    "searchableText": "Timeline of Ruby and Sapphire's 80-day challenge\nCategory:Pokémon Adventures\nThe fourth chapter of Pokémon Adventures is the story of and , their 80-day challenge, and the crisis caused by Team Aqua and Team Magma unleashing and .",
+    "sectionHeadings": [
+      "Lead",
+      "Timeline"
+    ],
+    "characterCount": 240,
+    "sectionCount": 2
+  }
+}

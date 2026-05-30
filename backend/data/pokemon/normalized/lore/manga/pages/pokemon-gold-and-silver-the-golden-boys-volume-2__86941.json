@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon Gold & Silver: The Golden Boys volume 2",
+    "slug": "pokemon-gold-and-silver-the-golden-boys-volume-2",
+    "pageId": 86941,
+    "revisionId": 4298443
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys volumes",
+    "sourceFileName": "pokemon-gold-and-silver-the-golden-boys-volume-2__86941.json",
+    "revisionTimestamp": "2025-05-11T10:04:58Z",
+    "fetchedAt": "2026-05-14T15:36:27.777Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 2 is the second of three volumes in the Pokémon Gold & Silver: The Golden Boys manga series authored and illustrated by Muneo Saitō.",
+  "plainText": "Volume 2 is the second of three volumes in the Pokémon Gold & Silver: The Golden Boys manga series authored and illustrated by Muneo Saitō.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\nChapter 9: Let's Use Fighting Type Pokémon!!\nChapter 10: A Huge Mysterious Tree!!\nChapter 11: Gold and Black VS. Team Rocket\nChapter 12: The Legendary Pokémon\nChapter 13: A Promise Given To Miltank\nChapter 14: Let's Fight! The Mini Pokémon Tournament\nChapter 15: Escape From The Mystery Forest!\nChapter 16: The New Pokémon Is Hatched!!\n\n==Important events==\nwins a tournament held by the Pokémon Day Care and receives a .\nGold encounters for the first time.\nGold meets the three legendary beasts: , and .\nGold earns the and the .\nGold meets for the first time.\n\n==Party changes==\n===Additions===\n(GB09)\n(GB10)\n(Hatched from an Egg in GB16)\n\n===Evolutions===\n(GB10)\n(GB10)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second of three volumes in the Pokémon Gold & Silver: The Golden Boys manga series authored and illustrated by Muneo Saitō."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 9: Let's Use Fighting Type Pokémon!!\nChapter 10: A Huge Mysterious Tree!!\nChapter 11: Gold and Black VS. Team Rocket\nChapter 12: The Legendary Pokémon\nChapter 13: A Promise Given To Miltank\nChapter 14: Let's Fight! The Mini Pokémon Tournament\nChapter 15: Escape From The Mystery Forest!\nChapter 16: The New Pokémon Is Hatched!!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "wins a tournament held by the Pokémon Day Care and receives a .\nGold encounters for the first time.\nGold meets the three legendary beasts: , and .\nGold earns the and the .\nGold meets for the first time."
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "(GB09)\n(GB10)\n(Hatched from an Egg in GB16)"
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "(GB10)\n(GB10)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Gold & Silver: The Golden Boys volume 2",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Gold & Silver: The Golden Boys volume 2\nCategory:Pokémon Gold & Silver: The Golden Boys volumes\nVolume 2 is the second of three volumes in the Pokémon Gold & Silver: The Golden Boys manga series authored and illustrated by Muneo Saitō.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Additions",
+      "Evolutions"
+    ],
+    "characterCount": 857,
+    "sectionCount": 5
+  }
+}

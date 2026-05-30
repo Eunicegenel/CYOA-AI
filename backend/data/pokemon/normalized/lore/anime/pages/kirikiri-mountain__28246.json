@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Kirikiri Mountain",
+    "slug": "kirikiri-mountain",
+    "pageId": 28246,
+    "revisionId": 4261274
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "kirikiri-mountain__28246.json",
+    "revisionTimestamp": "2025-03-19T21:52:19Z",
+    "fetchedAt": "2026-05-14T14:29:41.326Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Kirikiri Mountain (Japanese: キリキリ山 Mt. Kirikiri) is an -exclusive location in Hoenn, found somewhere between Littleroot Town and Fortree City. It was featured in the episode Me, Myself and Time. The mountain is well known for its thick fog, which often leaves travelers disoriented.",
+  "plainText": "Kirikiri Mountain (Japanese: キリキリ山 Mt. Kirikiri) is an -exclusive location in Hoenn, found somewhere between Littleroot Town and Fortree City. It was featured in the episode Me, Myself and Time. The mountain is well known for its thick fog, which often leaves travelers disoriented.\n\n==Places of Interest==\n===Baltoy civilization ruins===\n \nThe Baltoy civilization ruins are a hidden location found within Kirikiri Mountain, only accessible via tree hollow. Entering the cave, there are glyphs on the wall from an ancient Baltoy civilization, as well as an ancient structure that, through a 's , allows a person and Pokémon to time travel.\n\nAfter being separated from , encountered , an amateur archaeologist who hoped to find the Baltoy civilization after receiving a peculiar phone call. Together, they met a mysterious woman who guided them to the ruins, revealing some of the civilization's secrets, including the time travel device. The mysterious woman later identified herself as an adult Calista before returning back to her own time.\n\n==In other languages==\n \n\n \n \n \n \n\nes:Montaña Kirikiri\nit:Montagna Kiri Kiri\nzh:迷霧山",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kirikiri Mountain (Japanese: キリキリ山 Mt. Kirikiri) is an -exclusive location in Hoenn, found somewhere between Littleroot Town and Fortree City. It was featured in the episode Me, Myself and Time. The mountain is well known for its thick fog, which often leaves travelers disoriented."
+    },
+    {
+      "heading": "Baltoy civilization ruins",
+      "level": 3,
+      "text": "The Baltoy civilization ruins are a hidden location found within Kirikiri Mountain, only accessible via tree hollow. Entering the cave, there are glyphs on the wall from an ancient Baltoy civilization, as well as an ancient structure that, through a 's , allows a person and Pokémon to time travel.\n\nAfter being separated from , encountered , an amateur archaeologist who hoped to find the Baltoy civilization after receiving a peculiar phone call. Together, they met a mysterious woman who guided them to the ruins, revealing some of the civilization's secrets, including the time travel device. The mysterious woman later identified herself as an adult Calista before returning back to her own time."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Montaña Kirikiri\nit:Montagna Kiri Kiri\nzh:迷霧山"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kirikiri Mountain",
+    "pageType": "location",
+    "searchableText": "Kirikiri Mountain\nCategory:Animated series-exclusive locations\nKirikiri Mountain (Japanese: キリキリ山 Mt. Kirikiri) is an -exclusive location in Hoenn, found somewhere between Littleroot Town and Fortree City. It was featured in the episode Me, Myself and Time. The mountain is well known for its thick fog, which often leaves travelers disoriented.",
+    "sectionHeadings": [
+      "Lead",
+      "Baltoy civilization ruins",
+      "In other languages"
+    ],
+    "characterCount": 1127,
+    "sectionCount": 3
+  }
+}

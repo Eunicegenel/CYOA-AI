@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "PPP09",
+    "slug": "ppp09",
+    "pageId": 6544,
+    "revisionId": 4132056
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp09__6544.json",
+    "revisionTimestamp": "2024-09-29T04:29:17Z",
+    "fetchedAt": "2026-05-14T15:38:42.197Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Eevee... Pokémon Genius! (Japanese: 天才ポケモン イーブイくん The Genius Pokémon -kun) is the ninth chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Eevee... Pokémon Genius! (Japanese: 天才ポケモン イーブイくん The Genius Pokémon -kun) is the ninth chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nAs Hazel and Grandpa are talking, a strange girl walks in the room with her Pokémon, , and Almond. This girl reveals herself as Coconut, Grandpa's biological granddaughter. Hazel and Coconut begin to argue about whom should be with Almond, leading Coconut to set a challenge. They decide that they will both get chocolates for Almond - and the first girl he gives candy to in return will be the one who gets to \"keep him\".\n\nLater, Hazel worries that Coconut might try to sneak a love potion into the chocolate she gives Almond. She asks and to spy on her and report back anything they see.\n\nMeanwhile, at Grandpa's house, Coconut is indeed trying to concoct a love potion. However, she constantly makes mistakes, causing many small fires and explosions. After destroying the laboratory, she ends up giving Almond store-bought chocolates instead. Before he can receive them, however, intercepts and eats them instead.\n\n==Major events==\nCoconut and are introduced.\nHazel and Coconut become rivals.\n \n\n===Debuts===\n====Humans====\nCoconut\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\nHazel\nCoconut\nGrandpa\nAlmond\n\n===Pokémon===\n( )\n( )\n( ; debut)\n( )\n\n \n\n \n \n\n \n\nes:MPJ09\nit:PPP09",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Eevee... Pokémon Genius! (Japanese: 天才ポケモン イーブイくん The Genius Pokémon -kun) is the ninth chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "As Hazel and Grandpa are talking, a strange girl walks in the room with her Pokémon, , and Almond. This girl reveals herself as Coconut, Grandpa's biological granddaughter. Hazel and Coconut begin to argue about whom should be with Almond, leading Coconut to set a challenge. They decide that they will both get chocolates for Almond - and the first girl he gives candy to in return will be the one who gets to \"keep him\".\n\nLater, Hazel worries that Coconut might try to sneak a love potion into the chocolate she gives Almond. She asks and to spy on her and report back anything they see.\n\nMeanwhile, at Grandpa's house, Coconut is indeed trying to concoct a love potion. However, she constantly makes mistakes, causing many small fires and explosions. After destroying the laboratory, she ends up giving Almond store-bought chocolates instead. Before he can receive them, however, intercepts and eats them instead."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Coconut and are introduced.\nHazel and Coconut become rivals."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Coconut"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nCoconut\nGrandpa\nAlmond"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( ; debut)\n( )\n\n \n\n \n \n\n \n\nes:MPJ09\nit:PPP09"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP09",
+    "pageType": "chapter",
+    "searchableText": "PPP09\nCategory:Magical Pokémon Journey chapters\nEevee... Pokémon Genius! (Japanese: 天才ポケモン イーブイくん The Genius Pokémon -kun) is the ninth chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1334,
+    "sectionCount": 7
+  }
+}

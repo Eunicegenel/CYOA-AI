@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PPP30",
+    "slug": "ppp30",
+    "pageId": 6601,
+    "revisionId": 4528145
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp30__6601.json",
+    "revisionTimestamp": "2026-04-09T16:08:37Z",
+    "fetchedAt": "2026-05-14T15:38:55.328Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Hazel's Holiday (Japanese: マロンのメリークリスマス Merry Christmas), is the sixth chapter of the fifth volume of Magical Pokémon Journey.",
+  "plainText": "Hazel's Holiday (Japanese: マロンのメリークリスマス Merry Christmas), is the sixth chapter of the fifth volume of Magical Pokémon Journey.\n\n==Plot==\n \nAlmond is ditching Hazel's Christmas party to go see a rare with the Pokémon Fan Club. Hazel decides she's better off without him and throws her party anyway, but the Pokémon can tell her heart isn't in it.\n\n==Important characters and Pokémon==\nHazel\nAlmond\nPeanut\n\n==Character introductions==\n\n==Important events==\n \n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hazel's Holiday (Japanese: マロンのメリークリスマス Merry Christmas), is the sixth chapter of the fifth volume of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Almond is ditching Hazel's Christmas party to go see a rare with the Pokémon Fan Club. Hazel decides she's better off without him and throws her party anyway, but the Pokémon can tell her heart isn't in it."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Hazel\nAlmond\nPeanut"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP30",
+    "pageType": "chapter",
+    "searchableText": "PPP30\nCategory:Magical Pokémon Journey chapters\nHazel's Holiday (Japanese: マロンのメリークリスマス Merry Christmas), is the sixth chapter of the fifth volume of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon",
+      "Important events"
+    ],
+    "characterCount": 459,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Celestine",
+    "slug": "celestine",
+    "pageId": 294476,
+    "revisionId": 4402859
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Path to the Peak characters",
+    "sourceFileName": "celestine__294476.json",
+    "revisionTimestamp": "2025-10-16T04:23:12Z",
+    "fetchedAt": "2026-05-14T14:09:00.621Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Celestine (Japanese: セレスティン Celestine) is Ava's former rival and friend in Pokémon: Path to the Peak.",
+  "plainText": "Celestine (Japanese: セレスティン Celestine) is Ava's former rival and friend in Pokémon: Path to the Peak.\n\n==History==\n \n \nIn The Club, Celestine first appeared when she saw Ava celebrating her victory over her school's Pokémon Club members and teased her if she would get that same result over professional players in the world championship.\n\nIn Regionals, Celestine was reunited with her rival again at the regional championship, after teasing Ava, Celestine had a match against Ava's father and despite Ava's father being an experienced player, he was defeated in a single round by Celestine.\n\nDuring the remainder of the competition, Celestine was beating her opponents one by one, and managed to reach the finals where she would finally face Ava.\n \n\n==Character==\nCelestine is considered the school's best Pokémon Trading Card Game player, during her encounter with Ava, she was shown to have a menacing and imposing posture.\n \n==Pokémon competitions==\nRegional Championships - Champion (prior to Regionals)\nRegional Championships - Runner-up (Regionals)\nPokémon International Championships - N/A (Internationals)\n\n==Voice actors==\n \n\n==Names==\n \n \n\n==Related articles==\n \n \n\n \n\nes:Celestine\nit:Celestine",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Celestine (Japanese: セレスティン Celestine) is Ava's former rival and friend in Pokémon: Path to the Peak."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "In The Club, Celestine first appeared when she saw Ava celebrating her victory over her school's Pokémon Club members and teased her if she would get that same result over professional players in the world championship.\n\nIn Regionals, Celestine was reunited with her rival again at the regional championship, after teasing Ava, Celestine had a match against Ava's father and despite Ava's father being an experienced player, he was defeated in a single round by Celestine.\n\nDuring the remainder of the competition, Celestine was beating her opponents one by one, and managed to reach the finals where she would finally face Ava."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Celestine is considered the school's best Pokémon Trading Card Game player, during her encounter with Ava, she was shown to have a menacing and imposing posture."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Regional Championships - Champion (prior to Regionals)\nRegional Championships - Runner-up (Regionals)\nPokémon International Championships - N/A (Internationals)"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Celestine\nit:Celestine"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Celestine",
+    "pageType": "character",
+    "searchableText": "Celestine\nCategory:Pokémon: Path to the Peak characters\nCelestine (Japanese: セレスティン Celestine) is Ava's former rival and friend in Pokémon: Path to the Peak.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Pokémon competitions",
+      "Related articles"
+    ],
+    "characterCount": 1205,
+    "sectionCount": 5
+  }
+}

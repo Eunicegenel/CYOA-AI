@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMDP52",
+    "slug": "pmdp52",
+    "pageId": 176432,
+    "revisionId": 4528273
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp52__176432.json",
+    "revisionTimestamp": "2026-04-09T16:12:17Z",
+    "fetchedAt": "2026-05-14T15:32:45.857Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 熱戦？日焼けコンテスト！！ Fierce Fighting? Tanning Contest!!) is the fifty-second chapter of the manga.",
+  "plainText": "(Japanese: 熱戦？日焼けコンテスト！！ Fierce Fighting? Tanning Contest!!) is the fifty-second chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nLooker\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 熱戦？日焼けコンテスト！！ Fierce Fighting? Tanning Contest!!) is the fifty-second chapter of the manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Looker"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP52",
+    "pageType": "chapter",
+    "searchableText": "PMDP52\nCategory:Pocket Monsters DP chapters\n(Japanese: 熱戦？日焼けコンテスト！！ Fierce Fighting? Tanning Contest!!) is the fifty-second chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 238,
+    "sectionCount": 3
+  }
+}

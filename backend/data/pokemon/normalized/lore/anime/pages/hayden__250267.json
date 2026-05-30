@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Hayden",
+    "slug": "hayden",
+    "pageId": 250267,
+    "revisionId": 4357201
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "hayden__250267.json",
+    "revisionTimestamp": "2025-08-12T14:49:27Z",
+    "fetchedAt": "2026-05-14T14:22:06.127Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Hayden (Japanese: ハシバ Hashiba) is a Pokémon Trainer from Fuchsia City.",
+  "plainText": "Hayden (Japanese: ハシバ Hashiba) is a Pokémon Trainer from Fuchsia City.\n\n==In animation==\nIn , Hayden is a character of the day who appeared in Caring for a Mystery!.\n\nHayden met and Goh while they were searching for a Pokémon Egg. Hayden challenged Ash to a Normal Class World Coronation Series , which Ash accepted. Hayden sent out his to battle but was defeated, causing his rank to go down.\n\n===Pokémon===\n \n\n===Achievements===\nHayden has competed in the following competitions:\n\nWorld Coronation Series Rank: 1,024 (Normal Class)\n\n===Voice actors===\n \n\n==In the manga==\n \n===Pokémon Journeys===\nHayden appeared in Caring for a Mystery!. In the manga, Hayden is just an regular Trainer that Ash battled in a normal battle unrelated to the World Coronation Series.\n\n====Pokémon====\n \n\n==Trivia==\nHayden wears items that refer to his Pokémon; a headband with a drawing of 's horns and a vest with cords resembling the tails of a Tauros.\nHayden's Japanese voice actor, Yasuhiro Mamiya, was born in . , the real-life counterpart of Fuchsia City, is also located in Chiba.\n\n==Related articles==\n \n \n\n \n \n \n\nes:Hayden\nfr:Aïden\nit:Alexander\nja:ハシバ\nzh:羽柴",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hayden (Japanese: ハシバ Hashiba) is a Pokémon Trainer from Fuchsia City."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "In , Hayden is a character of the day who appeared in Caring for a Mystery!.\n\nHayden met and Goh while they were searching for a Pokémon Egg. Hayden challenged Ash to a Normal Class World Coronation Series , which Ash accepted. Hayden sent out his to battle but was defeated, causing his rank to go down."
+    },
+    {
+      "heading": "Achievements",
+      "level": 3,
+      "text": "Hayden has competed in the following competitions:\n\nWorld Coronation Series Rank: 1,024 (Normal Class)"
+    },
+    {
+      "heading": "Pokémon Journeys",
+      "level": 3,
+      "text": "Hayden appeared in Caring for a Mystery!. In the manga, Hayden is just an regular Trainer that Ash battled in a normal battle unrelated to the World Coronation Series."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Hayden wears items that refer to his Pokémon; a headband with a drawing of 's horns and a vest with cords resembling the tails of a Tauros.\nHayden's Japanese voice actor, Yasuhiro Mamiya, was born in . , the real-life counterpart of Fuchsia City, is also located in Chiba."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Hayden\nfr:Aïden\nit:Alexander\nja:ハシバ\nzh:羽柴"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hayden",
+    "pageType": "character",
+    "searchableText": "Hayden\nCategory:Journeys characters of the day\nHayden (Japanese: ハシバ Hashiba) is a Pokémon Trainer from Fuchsia City.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "Achievements",
+      "Pokémon Journeys",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1149,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP24",
+    "slug": "pmdp24",
+    "pageId": 176403,
+    "revisionId": 4528369
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp24__176403.json",
+    "revisionTimestamp": "2026-04-09T16:18:19Z",
+    "fetchedAt": "2026-05-14T15:32:28.153Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: お ぎな Big Cleaning Festivities) is the twenty-forth chapter of the manga.",
+  "plainText": "(Japanese: お ぎな Big Cleaning Festivities) is the twenty-forth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )\n( 's)\n( 's)\n( 's)\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: お ぎな Big Cleaning Festivities) is the twenty-forth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )\n( 's)\n( 's)\n( 's)\n\n}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP24",
+    "pageType": "chapter",
+    "searchableText": "PMDP24\nCategory:Pocket Monsters DP chapters\n(Japanese: お ぎな Big Cleaning Festivities) is the twenty-forth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 233,
+    "sectionCount": 2
+  }
+}

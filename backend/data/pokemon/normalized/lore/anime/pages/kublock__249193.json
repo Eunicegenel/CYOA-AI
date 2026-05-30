@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Kublock",
+    "slug": "kublock",
+    "pageId": 249193,
+    "revisionId": 4468112
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "kublock__249193.json",
+    "revisionTimestamp": "2026-01-15T23:20:54Z",
+    "fetchedAt": "2026-05-14T14:30:00.940Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kublock (Japanese: コレダ Koreda) is a recurring character in Pokémon Journeys: The Series. He is a world-famous movie director.",
+  "plainText": "Kublock (Japanese: コレダ Koreda) is a recurring character in Pokémon Journeys: The Series. He is a world-famous movie director.\n\n==History==\nKublock first appeared in A Talent for Imitation!. Prior to the episode, he had taken a low-profile actor under his wing. The Ditto was able to use so well that it looked more real than the Pokémon it impersonated. Because of this, Kublock had high hopes of Ditto becoming a big movie star, but this also caused Kublock to become very strict towards Ditto.\n\nDitto was eventually cast in directed by Kublock; it was about twins, with Ditto portraying one of them. However, the production became difficult due to Kublock's short temper and Ditto losing its ability to transform properly. After a failed take, Kublock scolded Ditto, causing it to run away in tears. Despite what had happened, Kublock admitted to his set manager that only Ditto could play the part it was cast for. As such, production was unable to continue.\n\n , Goh, and the set manager went looking for Ditto. They found it with , who had befriended Ditto and taught it how to control its nerves. Ditto eventually returned to the set, and with its newfound confidence, it was able to properly transform into Gardevoir. This time, Kublock was satisfied with Ditto's performance and was able to finish his movie.\n\nKublock reappeared in Sobble Spies a Stealthy Strategy!. He directed a movie called , starring Jacqueline and her as a spy and her partner Pokémon. Unexpectedly, Team Rocket showed up in the middle of the shooting, trying to steal Inteleon, but they were stopped by Jacqueline, Ash, and Goh. Despite all of this being unplanned, Kublock loved it and chose to add it into the movie. Later, he also decided to use the footage that Team Rocket had recorded from a battle between them and Goh's Sobble.\n\n==Pokémon==\n===Hired===\n \n\n \n\n \n\n \n\n \n\n==Voice actors==\n \n\n==Trivia==\nIn the original Japanese version, Kublock has a tendency of using phrases with the word \" \" (this), playing on his Japanese name.\n\n==Names==\n \n \n\n \n\n \n \n \n \n\nes:Kublock\nfr:Kublock\nit:Kubrock\nzh:澤格",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kublock (Japanese: コレダ Koreda) is a recurring character in Pokémon Journeys: The Series. He is a world-famous movie director."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Kublock first appeared in A Talent for Imitation!. Prior to the episode, he had taken a low-profile actor under his wing. The Ditto was able to use so well that it looked more real than the Pokémon it impersonated. Because of this, Kublock had high hopes of Ditto becoming a big movie star, but this also caused Kublock to become very strict towards Ditto.\n\nDitto was eventually cast in directed by Kublock; it was about twins, with Ditto portraying one of them. However, the production became difficult due to Kublock's short temper and Ditto losing its ability to transform properly. After a failed take, Kublock scolded Ditto, causing it to run away in tears. Despite what had happened, Kublock admitted to his set manager that only Ditto could play the part it was cast for. As such, production was unable to continue.\n\n , Goh, and the set manager went looking for Ditto. They found it with , who had befriended Ditto and taught it how to control its nerves. Ditto eventually returned to the set, and with its newfound confidence, it was able to properly transform into Gardevoir. This time, Kublock was satisfied with Ditto's performance and was able to finish his movie.\n\nKublock reappeared in Sobble Spies a Stealthy Strategy!. He directed a movie called , starring Jacqueline and her as a spy and her partner Pokémon. Unexpectedly, Team Rocket showed up in the middle of the shooting, trying to steal Inteleon, but they were stopped by Jacqueline, Ash, and Goh. Despite all of this being unplanned, Kublock loved it and chose to add it into the movie. Later, he also decided to use the footage that Team Rocket had recorded from a battle between them and Goh's Sobble."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the original Japanese version, Kublock has a tendency of using phrases with the word \" \" (this), playing on his Japanese name."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Kublock\nfr:Kublock\nit:Kubrock\nzh:澤格"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kublock",
+    "pageType": "character",
+    "searchableText": "Kublock\nCategory:Animation characters\nKublock (Japanese: コレダ Koreda) is a recurring character in Pokémon Journeys: The Series. He is a world-famous movie director.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 2083,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "BET4",
+    "slug": "bet4",
+    "pageId": 167611,
+    "revisionId": 3778255
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mystery Dungeon: Blazing Exploration Team chapters",
+    "sourceFileName": "bet4__167611.json",
+    "revisionTimestamp": "2023-08-22T07:47:43Z",
+    "fetchedAt": "2026-05-14T15:13:57.398Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 再びめぐりあった相棒 Partners Reunited Once More) is the fourth chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.",
+  "plainText": "(Japanese: 再びめぐりあった相棒 Partners Reunited Once More) is the fourth chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.\n\n==Plot==\n \n\n==Major events==\nGrovyle and Honō are revealed to have been partners that tried to go into the past and change the Dark Future.\nCelebi sacrifices herself to allow the others to go back in time.\nHonō, Totodile, and Grovyle manage to make it back to the past.\nGrovyle leaves to gather the Time Gears again while Honō and Totodile go to find information on the Hidden Land.\nHonō and Totodile reunite with the other Wigglytuff Guild members, only to find the whole town frozen in time.\n\n===Debuts===\n==Characters==\n===Pokémon===\nHonō\n\nPrimal Dialga\n(×6)\n\n==Trivia==\n \n \n \n\nde:Chapter 4 (Pokémon Mystery Dungeon 2)\nzh:BET4",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 再びめぐりあった相棒 Partners Reunited Once More) is the fourth chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Grovyle and Honō are revealed to have been partners that tried to go into the past and change the Dark Future.\nCelebi sacrifices herself to allow the others to go back in time.\nHonō, Totodile, and Grovyle manage to make it back to the past.\nGrovyle leaves to gather the Time Gears again while Honō and Totodile go to find information on the Hidden Land.\nHonō and Totodile reunite with the other Wigglytuff Guild members, only to find the whole town frozen in time."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "Honō\n\nPrimal Dialga\n(×6)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Chapter 4 (Pokémon Mystery Dungeon 2)\nzh:BET4"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "BET4",
+    "pageType": "chapter",
+    "searchableText": "BET4\nCategory:Pokémon Mystery Dungeon: Blazing Exploration Team chapters\n(Japanese: 再びめぐりあった相棒 Partners Reunited Once More) is the fourth chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 767,
+    "sectionCount": 4
+  }
+}

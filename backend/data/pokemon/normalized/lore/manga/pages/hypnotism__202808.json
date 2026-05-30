@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Hypnotism",
+    "slug": "hypnotism",
+    "pageId": 202808,
+    "revisionId": 4168535
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "hypnotism__202808.json",
+    "revisionTimestamp": "2024-10-26T18:24:12Z",
+    "fetchedAt": "2026-05-14T15:21:55.625Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Hypnotism is the eighteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 27th and 28th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Hypnotism is the eighteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 27th and 28th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n \n==Blurb==\nMIND GAMES\n\nCoconut discovers she has the power to hypnotize Eevee, then decides to turn her hypnotic attentions toward Almond! Will Coconut be able to sway the mind and heart of Almond, or will her mental meddling backfire? \n\nMeanwhile, Wal is determined to become the greatest Pokémon trainer ever, and with trusty Clefairy at his side, decides to go into intensive training.\n\n==Publications==\n \n \n\n==Chapters==\nHypnotism\nWal of Power\n\n==Important events==\nCoconut hypnotizes Almond in an attempt to find out if he loves her or Hazel. Almond fails to provide an answer, leaving both girls wondering which one of them will end up with him.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Hypnotism is the eighteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 27th and 28th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "MIND GAMES\n\nCoconut discovers she has the power to hypnotize Eevee, then decides to turn her hypnotic attentions toward Almond! Will Coconut be able to sway the mind and heart of Almond, or will her mental meddling backfire? \n\nMeanwhile, Wal is determined to become the greatest Pokémon trainer ever, and with trusty Clefairy at his side, decides to go into intensive training."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Hypnotism\nWal of Power"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Coconut hypnotizes Almond in an attempt to find out if he loves her or Hazel. Almond fails to provide an answer, leaving both girls wondering which one of them will end up with him."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hypnotism",
+    "pageType": "pokemon-related",
+    "searchableText": "Hypnotism\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Hypnotism is the eighteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 27th and 28th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 1031,
+    "sectionCount": 4
+  }
+}

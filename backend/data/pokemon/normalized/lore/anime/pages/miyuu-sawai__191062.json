@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Miyuu Sawai",
+    "slug": "miyuu-sawai",
+    "pageId": 191062,
+    "revisionId": 4323697
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "miyuu-sawai__191062.json",
+    "revisionTimestamp": "2025-06-24T03:34:39Z",
+    "fetchedAt": "2026-05-14T14:37:46.498Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Miyuu Sawai (Japanese: 沢井美優 Sawai Miyū) is a Japanese voice actress for .",
+  "plainText": "Miyuu Sawai (Japanese: 沢井美優 Sawai Miyū) is a Japanese voice actress for .\n\n==Biography==\nSawai was born on October 23, 1987, in , . As an adult, she became a model and gravure idol, working since at least 2002. She later became a voice actress and worked on some anime series. Sawai voiced Astrid, a with a who appeared in of . In addition, she has acted in several live-action works. Sawai is currently affiliated with BOX Corporation.\n\n==Pokémon roles==\n===Animation===\n==== ====\nAstrid\n\n==Other non-Pokémon roles==\n===Anime===\nOlga Katina Betrenko ( )\nNoah ( )\nReira/Layla ( (ep. 14))\nV ( )\nClaudia ( )\nRieko Mikami ( (ep. 15))\nBeth Muscat ( )\nNatsumi ( )\n\n===Live-action roles===\n( )\nKanagawa Miyuu ( )\nErika Mutsuki ( )\nHigashida ( )\nAya Yamamoto ( )\nMika ( (eps. 9, 12))\nTōko Suzuki ( )\nMaster Pink ( )\n\n \n\n \n\nit:Miyū Sawai",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Miyuu Sawai (Japanese: 沢井美優 Sawai Miyū) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Sawai was born on October 23, 1987, in , . As an adult, she became a model and gravure idol, working since at least 2002. She later became a voice actress and worked on some anime series. Sawai voiced Astrid, a with a who appeared in of . In addition, she has acted in several live-action works. Sawai is currently affiliated with BOX Corporation."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Astrid"
+    },
+    {
+      "heading": "Anime",
+      "level": 3,
+      "text": "Olga Katina Betrenko ( )\nNoah ( )\nReira/Layla ( (ep. 14))\nV ( )\nClaudia ( )\nRieko Mikami ( (ep. 15))\nBeth Muscat ( )\nNatsumi ( )"
+    },
+    {
+      "heading": "Live-action roles",
+      "level": 3,
+      "text": "( )\nKanagawa Miyuu ( )\nErika Mutsuki ( )\nHigashida ( )\nAya Yamamoto ( )\nMika ( (eps. 9, 12))\nTōko Suzuki ( )\nMaster Pink ( )\n\n \n\n \n\nit:Miyū Sawai"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Miyuu Sawai",
+    "pageType": "general-anime-lore",
+    "searchableText": "Miyuu Sawai\nCategory:Japanese voice actors\nMiyuu Sawai (Japanese: 沢井美優 Sawai Miyū) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Anime",
+      "Live-action roles"
+    ],
+    "characterCount": 829,
+    "sectionCount": 5
+  }
+}

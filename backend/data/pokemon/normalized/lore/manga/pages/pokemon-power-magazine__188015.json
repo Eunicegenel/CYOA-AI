@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Power (magazine)",
+    "slug": "pokemon-power-magazine",
+    "pageId": 188015,
+    "revisionId": 4265725
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ani-Manga",
+    "sourceFileName": "pokemon-power-magazine__188015.json",
+    "revisionTimestamp": "2025-03-24T22:11:31Z",
+    "fetchedAt": "2026-05-14T15:37:09.557Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Power is the name of a series of mini-magazines which were included in the Nintendo Power magazine. The magazines were available as inserts in Nintendo Power volumes 111 through 116, spanning the months of August 1998 until January 1999. The magazines contained strategies for Pokémon Red and Blue Versions as well as Ani-Manga adaptations of the first six animated series episodes, translated from the Japanese Pocket Monsters Film Comic series.\n\nThe Ani-Manga chapters from these magazines was later released in a volume by VIZ Media, titled Pokémon TV Animation Comic - I Choose You!.",
+  "plainText": "Pokémon Power is the name of a series of mini-magazines which were included in the Nintendo Power magazine. The magazines were available as inserts in Nintendo Power volumes 111 through 116, spanning the months of August 1998 until January 1999. The magazines contained strategies for Pokémon Red and Blue Versions as well as Ani-Manga adaptations of the first six animated series episodes, translated from the Japanese Pocket Monsters Film Comic series.\n\nThe Ani-Manga chapters from these magazines was later released in a volume by VIZ Media, titled Pokémon TV Animation Comic - I Choose You!.\n\n==List of magazines==\n \n\n==In other languages==\nThe magazines were translated into with the title . At least the first four issues are known to have been translated.\n\n==Related articles==\n \n\n \n\n \n \n \n\nit:Pokémon Power (magazine)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Power is the name of a series of mini-magazines which were included in the Nintendo Power magazine. The magazines were available as inserts in Nintendo Power volumes 111 through 116, spanning the months of August 1998 until January 1999. The magazines contained strategies for Pokémon Red and Blue Versions as well as Ani-Manga adaptations of the first six animated series episodes, translated from the Japanese Pocket Monsters Film Comic series.\n\nThe Ani-Manga chapters from these magazines was later released in a volume by VIZ Media, titled Pokémon TV Animation Comic - I Choose You!."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "The magazines were translated into with the title . At least the first four issues are known to have been translated."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Pokémon Power (magazine)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Power (magazine)",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Power (magazine)\nCategory:Ani-Manga\nPokémon Power is the name of a series of mini-magazines which were included in the Nintendo Power magazine. The magazines were available as inserts in Nintendo Power volumes 111 through 116, spanning the months of August 1998 until January 1999. The magazines contained strategies for Pokémon Red and Blue Versions as well as Ani-Manga adaptations of the first six animated series episodes, translated from the Japanese Pocket Monsters Film Comic series.\n\nThe Ani-Manga chapters from these magazines was later released in a volume by VIZ Media, titled Pokémon TV Animation Comic - I Choose You!.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages",
+      "Related articles"
+    ],
+    "characterCount": 825,
+    "sectionCount": 3
+  }
+}

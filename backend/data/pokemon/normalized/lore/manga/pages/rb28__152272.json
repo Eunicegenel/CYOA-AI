@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB28",
+    "slug": "rb28",
+    "pageId": 152272,
+    "revisionId": 4243543
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb28__152272.json",
+    "revisionTimestamp": "2025-02-20T06:38:09Z",
+    "fetchedAt": "2026-05-14T15:47:33.477Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 成長力…！ Grown Strength...!) is the 28th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 成長力…！ Grown Strength...!) is the 28th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n== Major events ==\nCarola and Fraud begin a battle.\nCarola finds out Fraud's true identity.\nRyouga defeats Hariru.\n\n=== Debuts ===\n\n==== Pokémon debuts ====\n\n== Characters ==\n=== Humans ===\nRyouga\nFraud\nCarola\nRabine\nHariru\n\n=== Pokémon ===\n(Hariru's)\n(Ryouga's)\n(Carola's)\n\n \n \n \n\n \n\nzh:RB28",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 成長力…！ Grown Strength...!) is the 28th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Carola and Fraud begin a battle.\nCarola finds out Fraud's true identity.\nRyouga defeats Hariru."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nFraud\nCarola\nRabine\nHariru"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hariru's)\n(Ryouga's)\n(Carola's)\n\n \n \n \n\n \n\nzh:RB28"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB28",
+    "pageType": "chapter",
+    "searchableText": "RB28\nCategory:Pokémon RéBURST chapters\n(Japanese: 成長力…！ Grown Strength...!) is the 28th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 391,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "31 (artist)",
+    "slug": "31-artist",
+    "pageId": 303013,
+    "revisionId": 4247349
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation cast and crew",
+    "sourceFileName": "31-artist__303013.json",
+    "revisionTimestamp": "2025-02-24T18:40:28Z",
+    "fetchedAt": "2026-05-14T13:57:53.882Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "31 is a Korean animator who has contributed to the Pokémon series. Following a lengthy time as a fan artist on the series, he revealed himself as part of the Key Animation staff for Pokémon: Path to the Peak.",
+  "plainText": "31 is a Korean animator who has contributed to the Pokémon series. Following a lengthy time as a fan artist on the series, he revealed himself as part of the Key Animation staff for Pokémon: Path to the Peak. \n\n==Credits==\nCredits are listed in order of most senior role, then in order of their release.\n\n===Key animation===\nPokémon: Path to the Peak \n\n==Confirmed cuts==\nThis is a list of cuts confirmed to feature animation by 31.\n\n \n\n==Work==\n===Other works===\n \n \n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "31 is a Korean animator who has contributed to the Pokémon series. Following a lengthy time as a fan artist on the series, he revealed himself as part of the Key Animation staff for Pokémon: Path to the Peak."
+    },
+    {
+      "heading": "Credits",
+      "level": 2,
+      "text": "Credits are listed in order of most senior role, then in order of their release."
+    },
+    {
+      "heading": "Key animation",
+      "level": 3,
+      "text": "Pokémon: Path to the Peak"
+    },
+    {
+      "heading": "Confirmed cuts",
+      "level": 2,
+      "text": "This is a list of cuts confirmed to feature animation by 31."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "31 (artist)",
+    "pageType": "general-anime-lore",
+    "searchableText": "31 (artist)\nCategory:Animation cast and crew\n31 is a Korean animator who has contributed to the Pokémon series. Following a lengthy time as a fan artist on the series, he revealed himself as part of the Key Animation staff for Pokémon: Path to the Peak.",
+    "sectionHeadings": [
+      "Lead",
+      "Credits",
+      "Key animation",
+      "Confirmed cuts"
+    ],
+    "characterCount": 483,
+    "sectionCount": 4
+  }
+}

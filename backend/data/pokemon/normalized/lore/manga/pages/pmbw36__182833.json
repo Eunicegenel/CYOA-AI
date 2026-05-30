@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW36",
+    "slug": "pmbw36",
+    "pageId": 182833,
+    "revisionId": 4528521
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw36__182833.json",
+    "revisionTimestamp": "2026-04-09T16:24:59Z",
+    "fetchedAt": "2026-05-14T15:32:06.078Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 謎の宝の地図と甘いワナ The Mysterious Treasure Map and the Sweet Trap) is the thirty-sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 謎の宝の地図と甘いワナ The Mysterious Treasure Map and the Sweet Trap) is the thirty-sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 謎の宝の地図と甘いワナ The Mysterious Treasure Map and the Sweet Trap) is the thirty-sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW36",
+    "pageType": "chapter",
+    "searchableText": "PMBW36\nCategory:Pocket Monsters BW chapters\n(Japanese: 謎の宝の地図と甘いワナ The Mysterious Treasure Map and the Sweet Trap) is the thirty-sixth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 272,
+    "sectionCount": 2
+  }
+}

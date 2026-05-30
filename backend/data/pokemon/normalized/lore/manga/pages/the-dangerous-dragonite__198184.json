@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "The Dangerous Dragonite",
+    "slug": "the-dangerous-dragonite",
+    "pageId": 198184,
+    "revisionId": 4133035
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "the-dangerous-dragonite__198184.json",
+    "revisionTimestamp": "2024-09-29T05:31:03Z",
+    "fetchedAt": "2026-05-14T15:51:32.314Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: The Dangerous Dragonite is the tenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-four and twenty-five of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: The Dangerous Dragonite is the tenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-four and twenty-five of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n \n\n==Chapters==\nChapter 24 - What a Dragonite\nChapter 25 - You Know...Articuno!\n\n==Important events==\nattempts to obtain HM03 , but ultimately fails.\nMisty gives her , nicknamed Gyara, to and takes his in exchange.\nRed arrives at Seafoam Islands, meets , and encounters Team Rocket.\n\n==Party changes==\n===Trades===\nThe following Pokémon are traded:\nRed's for Misty's in PS025.\n\n==Trivia==\nThis was the final issue of Pokémon Adventures to be released in .\n\n==In other languages==\n \n\n \n \n\nfr:Volume 10 (Pokémon Adventures)\nit:The Dangerous Dragonite",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: The Dangerous Dragonite is the tenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-four and twenty-five of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 24 - What a Dragonite\nChapter 25 - You Know...Articuno!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "attempts to obtain HM03 , but ultimately fails.\nMisty gives her , nicknamed Gyara, to and takes his in exchange.\nRed arrives at Seafoam Islands, meets , and encounters Team Rocket."
+    },
+    {
+      "heading": "Trades",
+      "level": 3,
+      "text": "The following Pokémon are traded:\nRed's for Misty's in PS025."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This was the final issue of Pokémon Adventures to be released in ."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "fr:Volume 10 (Pokémon Adventures)\nit:The Dangerous Dragonite"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Dangerous Dragonite",
+    "pageType": "pokemon-related",
+    "searchableText": "The Dangerous Dragonite\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: The Dangerous Dragonite is the tenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-four and twenty-five of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Trades",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 983,
+    "sectionCount": 6
+  }
+}

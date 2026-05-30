@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Ryu",
+    "slug": "ryu",
+    "pageId": 181483,
+    "revisionId": 4487153
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "ryu__181483.json",
+    "revisionTimestamp": "2026-02-16T01:39:57Z",
+    "fetchedAt": "2026-05-14T15:48:44.757Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ryu (Japanese: リュウ Ryū), known as Ron in the Chuang Yi translation, is a character from Pokémon Adventures and is Clair's disciple.",
+  "plainText": "Ryu (Japanese: リュウ Ryū), known as Ron in the Chuang Yi translation, is a character from Pokémon Adventures and is Clair's disciple.\n\n==History==\nRyu was first seen having a battle with his master, Clair. Although he fought hard, Clair's Dragonair managed to easily defeat his and won the battle. Although she stated that Ryu needed more training before he could defeat her, Clair praised his use of and to block her vision. When Clair notes that a worthy challenger hasn't come by in a while, Ryu brings up the fact that only her cousin Lance was able to best her in battle. This angers Clair, who proceeds to kick Ryu in the face.\n\nRyu makes a cameo appearance in a flashback in Dealing With A Koffing Fit, where he overhears Clair's conversation with Lance over the Pokégear.\n\n==Character==\nRyu was considered to be interested in Clair as seen when he mentioned about her family history.\n\n==Pokémon==\n \n\n==Names==\n \n\n \n\n \n \n\nde:Luis\nes:Ryu/Ron\nit:Darin\nzh:龙（特别篇）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ryu (Japanese: リュウ Ryū), known as Ron in the Chuang Yi translation, is a character from Pokémon Adventures and is Clair's disciple."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Ryu was first seen having a battle with his master, Clair. Although he fought hard, Clair's Dragonair managed to easily defeat his and won the battle. Although she stated that Ryu needed more training before he could defeat her, Clair praised his use of and to block her vision. When Clair notes that a worthy challenger hasn't come by in a while, Ryu brings up the fact that only her cousin Lance was able to best her in battle. This angers Clair, who proceeds to kick Ryu in the face.\n\nRyu makes a cameo appearance in a flashback in Dealing With A Koffing Fit, where he overhears Clair's conversation with Lance over the Pokégear."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Ryu was considered to be interested in Clair as seen when he mentioned about her family history."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:Luis\nes:Ryu/Ron\nit:Darin\nzh:龙（特别篇）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ryu",
+    "pageType": "character",
+    "searchableText": "Ryu\nCategory:Pokémon Adventures characters\nRyu (Japanese: リュウ Ryū), known as Ron in the Chuang Yi translation, is a character from Pokémon Adventures and is Clair's disciple.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Names"
+    ],
+    "characterCount": 964,
+    "sectionCount": 4
+  }
+}

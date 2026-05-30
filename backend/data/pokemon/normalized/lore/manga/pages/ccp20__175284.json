@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "CCP20",
+    "slug": "ccp20",
+    "pageId": 175284,
+    "revisionId": 4526771
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp20__175284.json",
+    "revisionTimestamp": "2026-04-09T15:06:30Z",
+    "fetchedAt": "2026-05-14T15:15:20.081Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: オニゴーリとあそぶちゃも! Playing with (chamo!)) is the 20th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: オニゴーリとあそぶちゃも! Playing with (chamo!)) is the 20th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\nMaika \n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMaika \n\n===Pokémon===\n\n( )\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: オニゴーリとあそぶちゃも! Playing with (chamo!)) is the 20th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Debuts",
+      "level": 3,
+      "text": "Maika"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Maika"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP20",
+    "pageType": "chapter",
+    "searchableText": "CCP20\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: オニゴーリとあそぶちゃも! Playing with (chamo!)) is the 20th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 255,
+    "sectionCount": 4
+  }
+}

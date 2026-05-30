@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Ash & Pikachu volume 4",
+    "slug": "ash-and-pikachu-volume-4",
+    "pageId": 89474,
+    "revisionId": 4298523
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu volumes",
+    "sourceFileName": "ash-and-pikachu-volume-4__89474.json",
+    "revisionTimestamp": "2025-05-11T10:05:29Z",
+    "fetchedAt": "2026-05-14T15:12:59.435Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 4 is the fourth of six volumes of the Ash & Pikachu manga created by Takashi Teshirogi.",
+  "plainText": "Volume 4 is the fourth of six volumes of the Ash & Pikachu manga created by Takashi Teshirogi.\n\n==Publications==\n \n \n \n \n\n==Chapters==\nChapter 19: Trust In Each Other!!\nChapter 20: Brock, A Man Of Resolve!!\nChapter 21: The Enchanting Pokémon Soul!\nChapter 22: A Pokémon Battle Against An Entire Family?!\nChapter 23: Two Groups Attacking! Magma VS. Aqua\nChapter 24: A Mysterious Masked Man Appears!",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 4 is the fourth of six volumes of the Ash & Pikachu manga created by Takashi Teshirogi."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 19: Trust In Each Other!!\nChapter 20: Brock, A Man Of Resolve!!\nChapter 21: The Enchanting Pokémon Soul!\nChapter 22: A Pokémon Battle Against An Entire Family?!\nChapter 23: Two Groups Attacking! Magma VS. Aqua\nChapter 24: A Mysterious Masked Man Appears!"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ash & Pikachu volume 4",
+    "pageType": "general-manga-lore",
+    "searchableText": "Ash & Pikachu volume 4\nCategory:Ash & Pikachu volumes\nVolume 4 is the fourth of six volumes of the Ash & Pikachu manga created by Takashi Teshirogi.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 397,
+    "sectionCount": 2
+  }
+}

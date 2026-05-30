@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Ralph (EP176)",
+    "slug": "ralph-ep176",
+    "pageId": 176877,
+    "revisionId": 4199907
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "ralph-ep176__176877.json",
+    "revisionTimestamp": "2024-12-10T20:36:29Z",
+    "fetchedAt": "2026-05-14T14:45:36.486Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ralph (Japanese: サスケ Sasuke) is a character of the day who appeared in Ariados, Amigos. He is a student at the Pokémon Jujitsu Academy.\n\nRalph took the Red classes of the Academy which studies battle techniques. He battled Mickey and won.",
+  "plainText": "Ralph (Japanese: サスケ Sasuke) is a character of the day who appeared in Ariados, Amigos. He is a student at the Pokémon Jujitsu Academy.\n\nRalph took the Red classes of the Academy which studies battle techniques. He battled Mickey and won.\n\n==Pokémon==\n \n\n==Voice actors==\n \n \n \n\n \n \n \n \n\nes:Ralph (Johto)\nfr:Rolph\nit:Ralph (OA060)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ralph (Japanese: サスケ Sasuke) is a character of the day who appeared in Ariados, Amigos. He is a student at the Pokémon Jujitsu Academy.\n\nRalph took the Red classes of the Academy which studies battle techniques. He battled Mickey and won."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Ralph (Johto)\nfr:Rolph\nit:Ralph (OA060)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ralph (EP176)",
+    "pageType": "character",
+    "searchableText": "Ralph (EP176)\nCategory:Johto characters of the day\nRalph (Japanese: サスケ Sasuke) is a character of the day who appeared in Ariados, Amigos. He is a student at the Pokémon Jujitsu Academy.\n\nRalph took the Red classes of the Academy which studies battle techniques. He battled Mickey and won.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 330,
+    "sectionCount": 2
+  }
+}

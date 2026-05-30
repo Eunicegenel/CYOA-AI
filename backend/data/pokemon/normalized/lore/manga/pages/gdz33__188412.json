@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GDZ33",
+    "slug": "gdz33",
+    "pageId": 188412,
+    "revisionId": 4526862
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz33__188412.json",
+    "revisionTimestamp": "2026-04-09T15:09:09Z",
+    "fetchedAt": "2026-05-14T15:19:42.516Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ヒトカゲを救え！ Save !) is the 33rd chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ヒトカゲを救え！ Save !) is the 33rd chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nResearcher (flashback)\n\n====Pokémon debuts====\n\n(researcher's; flashback)\n\n==Characters==\n===Humans===\nShu\nResearcher (flashback)\n\n===Pokémon===\n( )\n(Shu's)\n(researcher's)\n(researcher's; flashback)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ヒトカゲを救え！ Save !) is the 33rd chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Researcher (flashback)"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(researcher's; flashback)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nResearcher (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(researcher's)\n(researcher's; flashback)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ33",
+    "pageType": "chapter",
+    "searchableText": "GDZ33\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ヒトカゲを救え！ Save !) is the 33rd chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 348,
+    "sectionCount": 5
+  }
+}

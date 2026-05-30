@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CCP35",
+    "slug": "ccp35",
+    "pageId": 175488,
+    "revisionId": 4528425
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp35__175488.json",
+    "revisionTimestamp": "2026-04-09T16:20:01Z",
+    "fetchedAt": "2026-05-14T15:15:29.455Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "{Japanese: ステキな大みそかチャモ A Lovely New Year's Eve (chamo)) is the 35th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "{Japanese: ステキな大みそかチャモ A Lovely New Year's Eve (chamo)) is the 35th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n( )\n(Chiru-Chiru)\n(debut)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "{Japanese: ステキな大みそかチャモ A Lovely New Year's Eve (chamo)) is the 35th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Pokémon Chamo-Chamo ☆ Pretty ♪)\n( )\n(Chiru-Chiru)\n(debut)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP35",
+    "pageType": "chapter",
+    "searchableText": "CCP35\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n{Japanese: ステキな大みそかチャモ A Lovely New Year's Eve (chamo)) is the 35th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 290,
+    "sectionCount": 2
+  }
+}

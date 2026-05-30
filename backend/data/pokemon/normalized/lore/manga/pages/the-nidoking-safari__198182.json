@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "The Nidoking Safari",
+    "slug": "the-nidoking-safari",
+    "pageId": 198182,
+    "revisionId": 4132831
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "the-nidoking-safari__198182.json",
+    "revisionTimestamp": "2024-09-29T05:27:59Z",
+    "fetchedAt": "2026-05-14T15:51:38.488Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: The Nidoking Safari is the eighth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty and twenty-one of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: The Nidoking Safari is the eighth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty and twenty-one of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n \n\n==Chapters==\nChapter 20 - Meanwhile...Vileplume!\nChapter 21 - Long Live the Nidoking!\n\n==Important events==\nRed defeats Erika.\nRed wins a .\n\n==In other languages==\n \n\n \n \n\nfr:Volume 8 (Pokémon Adventures)\nit:Caccia a Nidoking",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: The Nidoking Safari is the eighth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty and twenty-one of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 20 - Meanwhile...Vileplume!\nChapter 21 - Long Live the Nidoking!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Red defeats Erika.\nRed wins a ."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "fr:Volume 8 (Pokémon Adventures)\nit:Caccia a Nidoking"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Nidoking Safari",
+    "pageType": "pokemon-related",
+    "searchableText": "The Nidoking Safari\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: The Nidoking Safari is the eighth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty and twenty-one of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "In other languages"
+    ],
+    "characterCount": 654,
+    "sectionCount": 4
+  }
+}

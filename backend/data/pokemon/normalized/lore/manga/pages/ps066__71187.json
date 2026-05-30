@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "PS066",
+    "slug": "ps066",
+    "pageId": 71187,
+    "revisionId": 4336601
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps066__71187.json",
+    "revisionTimestamp": "2025-07-15T21:34:10Z",
+    "fetchedAt": "2026-05-14T15:40:39.759Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Punching Poliwrath (Japanese: VSニョロボン VS ) is the 66th chapter of the Pokémon Adventures manga, and the 26th chapter of the .",
+  "plainText": "Punching Poliwrath (Japanese: VSニョロボン VS ) is the 66th chapter of the Pokémon Adventures manga, and the 26th chapter of the .\n\n==Plot==\n \nThe chapter begins with Daisy Oak taking care of a . Suddenly, comes in, outraged with what is happening to Pewter City, Cerulean City, and Celadon City. Oak looks out of the lab at the burning cities as Misty is trying to defeat multiple in Cerulean City.\n\nMeanwhile on Cerise Island, , his , and meet with Lt. Surge and his , Sabrina and her , and Koga and his . Farther in the island, Lance orders Lorelei to call Bruno (who is looking to challenge back). Meanwhile, Bruno has a flashback about his battle with Red. In the flashback, Red is calling Bruno, when suddenly the cliff he is on breaks. Bruno sends out his , and it battles Pika. Pika is defeated and Hitmonlee is called back. Red sends out Poli and Bruno sends out . Using and , Poli is defeated. Now it is Gyara vs. . As the two battle, Lorelei has a flashback about how she and Agatha met.\n\n==Major events==\nMisty tries to save her city from the .\nIn a flashback, the battle between and Bruno starts.\n\n \n \n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMisty\nLt. Surge\nKoga\nSabrina\nLorelei\nBruno\nAgatha\nLance\nDaisy Oak\n\n===Pokémon===\n(Poli; 's)\n(Gyara; 's)\n( )\n(Pika; 's)\n( )\n(Lt. Surge's)\n(Koga's)\n(Sabrina's)\n( )\n(Bruno's)\n(Bruno's)\n( ; multiple)\n(Lance's)\n(Seych; Daisy Oak's)\n\n==Trivia==\n===Errors===\nIn the Chuang Yi and VIZ Media versions, addresses Daisy with her name from The Electric Tale of Pikachu manga, May.\nIn the VIZ Media second edition, Cerulean City is mistakenly called \"Celadon City\".\n\n==In other languages==\n \n \n \n \n\nde:VS. Quappo\nes:PMS066\nfr:Chapitre 66 (Pocket Monsters Special)\nit:LGA066\nzh:宝可梦特别篇 第66话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Punching Poliwrath (Japanese: VSニョロボン VS ) is the 66th chapter of the Pokémon Adventures manga, and the 26th chapter of the ."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "The chapter begins with Daisy Oak taking care of a . Suddenly, comes in, outraged with what is happening to Pewter City, Cerulean City, and Celadon City. Oak looks out of the lab at the burning cities as Misty is trying to defeat multiple in Cerulean City.\n\nMeanwhile on Cerise Island, , his , and meet with Lt. Surge and his , Sabrina and her , and Koga and his . Farther in the island, Lance orders Lorelei to call Bruno (who is looking to challenge back). Meanwhile, Bruno has a flashback about his battle with Red. In the flashback, Red is calling Bruno, when suddenly the cliff he is on breaks. Bruno sends out his , and it battles Pika. Pika is defeated and Hitmonlee is called back. Red sends out Poli and Bruno sends out . Using and , Poli is defeated. Now it is Gyara vs. . As the two battle, Lorelei has a flashback about how she and Agatha met."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Misty tries to save her city from the .\nIn a flashback, the battle between and Bruno starts."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Misty\nLt. Surge\nKoga\nSabrina\nLorelei\nBruno\nAgatha\nLance\nDaisy Oak"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Poli; 's)\n(Gyara; 's)\n( )\n(Pika; 's)\n( )\n(Lt. Surge's)\n(Koga's)\n(Sabrina's)\n( )\n(Bruno's)\n(Bruno's)\n( ; multiple)\n(Lance's)\n(Seych; Daisy Oak's)"
+    },
+    {
+      "heading": "Errors",
+      "level": 3,
+      "text": "In the Chuang Yi and VIZ Media versions, addresses Daisy with her name from The Electric Tale of Pikachu manga, May.\nIn the VIZ Media second edition, Cerulean City is mistakenly called \"Celadon City\"."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Quappo\nes:PMS066\nfr:Chapitre 66 (Pocket Monsters Special)\nit:LGA066\nzh:宝可梦特别篇 第66话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS066",
+    "pageType": "chapter",
+    "searchableText": "PS066\nCategory:Pokémon Adventures chapters\nPunching Poliwrath (Japanese: VSニョロボン VS ) is the 66th chapter of the Pokémon Adventures manga, and the 26th chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Errors",
+      "In other languages"
+    ],
+    "characterCount": 1751,
+    "sectionCount": 7
+  }
+}

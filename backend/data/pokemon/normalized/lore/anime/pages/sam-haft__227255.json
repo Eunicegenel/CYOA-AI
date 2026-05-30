@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Sam Haft",
+    "slug": "sam-haft",
+    "pageId": 227255,
+    "revisionId": 4323598
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "sam-haft__227255.json",
+    "revisionTimestamp": "2025-06-24T03:33:08Z",
+    "fetchedAt": "2026-05-14T14:48:07.822Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Sam Haft is an American actor who works on the English-language dub of . Until , he was credited as Sam Black. He is currently affiliated with Innovative Artists.",
+  "plainText": "Sam Haft is an American actor who works on the English-language dub of . Until , he was credited as Sam Black. He is currently affiliated with Innovative Artists.\n\n==Biography==\nHaft is an actor, musician, and songwriter and also works on a few English-dubbed versions of Japanese anime series. He joined the during . His most notable role so far is that of Kiawe's Marowak.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nHoracio\n\nHodge\n\n======Minor======\nMan (Purple) (SM030)\nCommercial Announcer (SM041)\nMan (SM041)\nPokémon battle announcer (M20)\nMale Farmer (SM056)\nAssistant Director (SM061)\nGuy 1 (SM063)\nOne of the Revengers\nMale Attendant (SM086)\n(M22)\n\n=====Pokémon=====\n======Major======\nKiawe's Marowak\n(M20)\n( )\nGoh's Scyther\n\n======Minor======\n(SM028)\n(SM042)\n\n====I Choose You! trilogy====\n=====Humans=====\n\n=====Pokémon=====\n(M20)\n\n==Other non-Pokémon roles==\nE. Vazer ( )\nMamoru Noro ( )\nKolter, Bohman, Knight, Roboppi ( )\n\n==External links==\nOfficial website\nTwitter\n\n \n \n\nit:Sam Haft",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sam Haft is an American actor who works on the English-language dub of . Until , he was credited as Sam Black. He is currently affiliated with Innovative Artists."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Haft is an actor, musician, and songwriter and also works on a few English-dubbed versions of Japanese anime series. He joined the during . His most notable role so far is that of Kiawe's Marowak."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Horacio\n\nHodge"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Man (Purple) (SM030)\nCommercial Announcer (SM041)\nMan (SM041)\nPokémon battle announcer (M20)\nMale Farmer (SM056)\nAssistant Director (SM061)\nGuy 1 (SM063)\nOne of the Revengers\nMale Attendant (SM086)\n(M22)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Kiawe's Marowak\n(M20)\n( )\nGoh's Scyther"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(SM028)\n(SM042)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(M20)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "E. Vazer ( )\nMamoru Noro ( )\nKolter, Bohman, Knight, Roboppi ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTwitter\n\n \n \n\nit:Sam Haft"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sam Haft",
+    "pageType": "general-anime-lore",
+    "searchableText": "Sam Haft\nCategory:TPCi voice actors\nSam Haft is an American actor who works on the English-language dub of . Until , he was credited as Sam Black. He is currently affiliated with Innovative Artists.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Pokémon",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1034,
+    "sectionCount": 9
+  }
+}

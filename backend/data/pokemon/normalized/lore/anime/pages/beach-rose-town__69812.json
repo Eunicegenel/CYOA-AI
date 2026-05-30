@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Beach Rose Town",
+    "slug": "beach-rose-town",
+    "pageId": 69812,
+    "revisionId": 4261165
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "beach-rose-town__69812.json",
+    "revisionTimestamp": "2025-03-19T21:50:59Z",
+    "fetchedAt": "2026-05-14T14:04:51.899Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Beach Rose Town (Japanese: ハマナスタウン Hamanasu Town) is an -exclusive location in Sinnoh. Like many other in the region, Beach Rose has its own Contest Hall, which makes it a popular destination among Pokémon Coordinators who plan on entering the Sinnoh Grand Festival.\n\nA Pokémon Contest was held in Beach Rose Town, the result of which was reported during Marian's television show in A Breed Stampede!. Nando was revealed to have won the competition with the help of his , earning his fourth Ribbon.",
+  "plainText": "Beach Rose Town (Japanese: ハマナスタウン Hamanasu Town) is an -exclusive location in Sinnoh. Like many other in the region, Beach Rose has its own Contest Hall, which makes it a popular destination among Pokémon Coordinators who plan on entering the Sinnoh Grand Festival.\n\nA Pokémon Contest was held in Beach Rose Town, the result of which was reported during Marian's television show in A Breed Stampede!. Nando was revealed to have won the competition with the help of his , earning his fourth Ribbon.\n\n==Names==\n \n\n \n \n \n\nit:Spiaggia delle Rose\nzh:海玫瑰鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Beach Rose Town (Japanese: ハマナスタウン Hamanasu Town) is an -exclusive location in Sinnoh. Like many other in the region, Beach Rose has its own Contest Hall, which makes it a popular destination among Pokémon Coordinators who plan on entering the Sinnoh Grand Festival.\n\nA Pokémon Contest was held in Beach Rose Town, the result of which was reported during Marian's television show in A Breed Stampede!. Nando was revealed to have won the competition with the help of his , earning his fourth Ribbon."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "it:Spiaggia delle Rose\nzh:海玫瑰鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Beach Rose Town",
+    "pageType": "location",
+    "searchableText": "Beach Rose Town\nCategory:Animated series-exclusive locations\nBeach Rose Town (Japanese: ハマナスタウン Hamanasu Town) is an -exclusive location in Sinnoh. Like many other in the region, Beach Rose has its own Contest Hall, which makes it a popular destination among Pokémon Coordinators who plan on entering the Sinnoh Grand Festival.\n\nA Pokémon Contest was held in Beach Rose Town, the result of which was reported during Marian's television show in A Breed Stampede!. Nando was revealed to have won the competition with the help of his , earning his fourth Ribbon.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 550,
+    "sectionCount": 2
+  }
+}

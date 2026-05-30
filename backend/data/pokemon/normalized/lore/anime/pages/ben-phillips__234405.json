@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Ben Phillips",
+    "slug": "ben-phillips",
+    "pageId": 234405,
+    "revisionId": 4364622
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "ben-phillips__234405.json",
+    "revisionTimestamp": "2025-08-23T12:20:31Z",
+    "fetchedAt": "2026-05-14T14:04:58.845Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Ben Phillips (also credited as Aaron Phillips) is a voice actor for the English-language dub of . He is currently affiliated with Atlas Talent Agency.",
+  "plainText": "Ben Phillips (also credited as Aaron Phillips) is a voice actor for the English-language dub of . He is currently affiliated with Atlas Talent Agency.\n\n==Biography==\nPhillips was born on August 27, 1980 in Fort Worth, Texas, and became a voice actor as an adult. Phillips joined the during , where he gained his most notable role of Hobbes, 's butler.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nHobbes\n\n======Minor======\nMr. Electric\nDriver (SM009)\nDeliveryman (SM057)\n(SM065)\n\n=====Pokémon=====\n\n====I Choose You! trilogy====\n\n==External links==\nOfficial website\nTwitter\n\n \n \n\nit:Ben Phillips",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ben Phillips (also credited as Aaron Phillips) is a voice actor for the English-language dub of . He is currently affiliated with Atlas Talent Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Phillips was born on August 27, 1980 in Fort Worth, Texas, and became a voice actor as an adult. Phillips joined the during , where he gained his most notable role of Hobbes, 's butler."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Hobbes"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Mr. Electric\nDriver (SM009)\nDeliveryman (SM057)\n(SM065)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTwitter\n\n \n \n\nit:Ben Phillips"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ben Phillips",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ben Phillips\nCategory:TPCi voice actors\nBen Phillips (also credited as Aaron Phillips) is a voice actor for the English-language dub of . He is currently affiliated with Atlas Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "External links"
+    ],
+    "characterCount": 630,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Misty Village",
+    "slug": "misty-village",
+    "pageId": 232933,
+    "revisionId": 4261029
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "misty-village__232933.json",
+    "revisionTimestamp": "2025-03-19T21:49:17Z",
+    "fetchedAt": "2026-05-14T14:37:30.890Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Misty Village is an -exclusive location in Hoenn that appeared in A Different Kind of Misty!. It is found between Slateport City and Mauville City. It was unnamed in the original Japanese version.\n\nThe township is also the hometown of Alyssa, her younger brother Thatcher, and their grandfather. Misty Village is largely agricultural, but its people are also responsible for protecting the historic Mountain Lighthouse and its precious light stone.\n\nThatcher escorted , calling him the town's \"legendary hero\", and his \" \" to the settlement after the former rescued the light stone from . Thatcher noted that Ash's blue coat and his partner Pokémon being a matched the details of the ancient legend.",
+  "plainText": "Misty Village is an -exclusive location in Hoenn that appeared in A Different Kind of Misty!. It is found between Slateport City and Mauville City. It was unnamed in the original Japanese version.\n\nThe township is also the hometown of Alyssa, her younger brother Thatcher, and their grandfather. Misty Village is largely agricultural, but its people are also responsible for protecting the historic Mountain Lighthouse and its precious light stone.\n\nThatcher escorted , calling him the town's \"legendary hero\", and his \" \" to the settlement after the former rescued the light stone from . Thatcher noted that Ash's blue coat and his partner Pokémon being a matched the details of the ancient legend.\n\n==Places of interest==\n \n===Mountain Lighthouse===\nThe Mountain Lighthouse (Japanese: 山の灯台 Mountain Lighthouse) has operated for centuries and is used to help guide people through the foggy mountains between Slateport City and Mauville City.\n\nIts source of light is known as the light stone, which uses electricity to create a bright light. According to legends, the light stone was given to Misty Village by a mysterious hero dressed in blue and with a . Thatcher and his older sister Alyssa run the facility and live in nearby Misty Village.\n\n became particularly interested in the light stone, and used their mecha Zapdos to saw off the top of the Mountain Lighthouse and snatch the precious rock. Fortunately, and intervened and retrieved the light stone.\n \n==Pokémon seen in Misty Village==\n \n\n \n \n\n \n\nit:Villaggio della Nebbia",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Misty Village is an -exclusive location in Hoenn that appeared in A Different Kind of Misty!. It is found between Slateport City and Mauville City. It was unnamed in the original Japanese version.\n\nThe township is also the hometown of Alyssa, her younger brother Thatcher, and their grandfather. Misty Village is largely agricultural, but its people are also responsible for protecting the historic Mountain Lighthouse and its precious light stone.\n\nThatcher escorted , calling him the town's \"legendary hero\", and his \" \" to the settlement after the former rescued the light stone from . Thatcher noted that Ash's blue coat and his partner Pokémon being a matched the details of the ancient legend."
+    },
+    {
+      "heading": "Mountain Lighthouse",
+      "level": 3,
+      "text": "The Mountain Lighthouse (Japanese: 山の灯台 Mountain Lighthouse) has operated for centuries and is used to help guide people through the foggy mountains between Slateport City and Mauville City.\n\nIts source of light is known as the light stone, which uses electricity to create a bright light. According to legends, the light stone was given to Misty Village by a mysterious hero dressed in blue and with a . Thatcher and his older sister Alyssa run the facility and live in nearby Misty Village.\n\n became particularly interested in the light stone, and used their mecha Zapdos to saw off the top of the Mountain Lighthouse and snatch the precious rock. Fortunately, and intervened and retrieved the light stone."
+    },
+    {
+      "heading": "Pokémon seen in Misty Village",
+      "level": 2,
+      "text": "it:Villaggio della Nebbia"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Misty Village",
+    "pageType": "location",
+    "searchableText": "Misty Village\nCategory:Animated series-exclusive locations\nMisty Village is an -exclusive location in Hoenn that appeared in A Different Kind of Misty!. It is found between Slateport City and Mauville City. It was unnamed in the original Japanese version.\n\nThe township is also the hometown of Alyssa, her younger brother Thatcher, and their grandfather. Misty Village is largely agricultural, but its people are also responsible for protecting the historic Mountain Lighthouse and its precious light stone.\n\nThatcher escorted , calling him the town's \"legendary hero\", and his \" \" to the settlement after the former rescued the light stone from . Thatcher noted that Ash's blue coat and his partner Pokémon being a matched the details of the ancient legend.",
+    "sectionHeadings": [
+      "Lead",
+      "Mountain Lighthouse",
+      "Pokémon seen in Misty Village"
+    ],
+    "characterCount": 1533,
+    "sectionCount": 3
+  }
+}

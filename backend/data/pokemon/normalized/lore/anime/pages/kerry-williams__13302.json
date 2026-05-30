@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Kerry Williams",
+    "slug": "kerry-williams",
+    "pageId": 13302,
+    "revisionId": 4538349
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "kerry-williams__13302.json",
+    "revisionTimestamp": "2026-04-26T22:38:57Z",
+    "fetchedAt": "2026-05-14T14:29:19.331Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kerry Williams is an American voice actress for the English-language dub of .",
+  "plainText": "Kerry Williams is an American voice actress for the English-language dub of .\n\n==Biography==\nWilliams was born in 1973 and became a voice actress as an adult. She joined in the third season and provided several voices until 4Kids Entertainment gave up their rights of the English dub to Pokémon USA. Years later, she returned to the series starting in Scraggy and the Demanding Gothita!, making her the first former 4Kids voice actor to return to the animated series in .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\n\nSakura\nMacy\nDomino\n\n======Minor======\n\nJanina\nMaizie\nTowa (young)\n\nCherry\nMika\nSerena (AG092)\nKatharine\n\nPeggy\n\n=====Pokémon=====\n\n==Other non-Pokémon roles==\nJosie/Reika Tamaki ( )\nFrances ( )\nTiff ( )\nNami (4Kids dub of )\nAmore and Flora ( ) (4Kids version)\nRebecca Hawkins ( )\nLukio ( )\n\n \n \n \n \n\nit:Kerry Williams",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kerry Williams is an American voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Williams was born in 1973 and became a voice actress as an adult. She joined in the third season and provided several voices until 4Kids Entertainment gave up their rights of the English dub to Pokémon USA. Years later, she returned to the series starting in Scraggy and the Demanding Gothita!, making her the first former 4Kids voice actor to return to the animated series in ."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Sakura\nMacy\nDomino"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Janina\nMaizie\nTowa (young)\n\nCherry\nMika\nSerena (AG092)\nKatharine\n\nPeggy"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Josie/Reika Tamaki ( )\nFrances ( )\nTiff ( )\nNami (4Kids dub of )\nAmore and Flora ( ) (4Kids version)\nRebecca Hawkins ( )\nLukio ( )\n\n \n \n \n \n\nit:Kerry Williams"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kerry Williams",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kerry Williams\nCategory:TPCi voice actors\nKerry Williams is an American voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 870,
+    "sectionCount": 5
+  }
+}

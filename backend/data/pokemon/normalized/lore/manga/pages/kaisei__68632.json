@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Kaisei",
+    "slug": "kaisei",
+    "pageId": 68632,
+    "revisionId": 4258969
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon DP Adventure characters",
+    "sourceFileName": "kaisei__68632.json",
+    "revisionTimestamp": "2025-03-15T23:59:52Z",
+    "fetchedAt": "2026-05-14T15:23:07.869Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kaisei (Japanese: カイセー Kaisē) is a character in Pokémon Diamond and Pearl Adventure!, a friend of Professor Rowan and the father of Hareta.",
+  "plainText": "Kaisei (Japanese: カイセー Kaisē) is a character in Pokémon Diamond and Pearl Adventure!, a friend of Professor Rowan and the father of Hareta.\n\n== History ==\nHe first appeared at the Sinnoh League Tournament to watch his son compete.\n\nFor an unknown reason, Kaisei knows where the Pokémon lives, and knows it personally. When his son Hareta was born, Kaisei gave him to Prof. Rowan so he could continue his journey. Much later, he came to the Pokémon League to watch his son compete. When Hareta was being beaten by his opponent Koya, Kaisei gave him a pep talk that made Hareta turn things around. However, the battle was interrupted by Neo Team Galactic. After they were defeated, Agent Hansom of the International Police attempted to arrest Kaisei, believing that he was planning to use Giratina for evil purposes.\n\n==Pokémon==\nThis listing is of Kaisei's known Pokémon:\n \n\n===Given away===\n \n\n==Names==\n \n\n==Related articles==\n \n\n \n \n \n \n\nes:Kaisei\nfr:Kaisei\nit:Kaisei\nja:カイセー\nzh:凱晴",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kaisei (Japanese: カイセー Kaisē) is a character in Pokémon Diamond and Pearl Adventure!, a friend of Professor Rowan and the father of Hareta."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "He first appeared at the Sinnoh League Tournament to watch his son compete.\n\nFor an unknown reason, Kaisei knows where the Pokémon lives, and knows it personally. When his son Hareta was born, Kaisei gave him to Prof. Rowan so he could continue his journey. Much later, he came to the Pokémon League to watch his son compete. When Hareta was being beaten by his opponent Koya, Kaisei gave him a pep talk that made Hareta turn things around. However, the battle was interrupted by Neo Team Galactic. After they were defeated, Agent Hansom of the International Police attempted to arrest Kaisei, believing that he was planning to use Giratina for evil purposes."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Kaisei's known Pokémon:"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Kaisei\nfr:Kaisei\nit:Kaisei\nja:カイセー\nzh:凱晴"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kaisei",
+    "pageType": "character",
+    "searchableText": "Kaisei\nCategory:Pokémon DP Adventure characters\nKaisei (Japanese: カイセー Kaisē) is a character in Pokémon Diamond and Pearl Adventure!, a friend of Professor Rowan and the father of Hareta.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Related articles"
+    ],
+    "characterCount": 983,
+    "sectionCount": 4
+  }
+}

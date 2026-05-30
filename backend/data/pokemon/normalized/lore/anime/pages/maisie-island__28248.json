@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Maisie Island",
+    "slug": "maisie-island",
+    "pageId": 28248,
+    "revisionId": 4261256
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "maisie-island__28248.json",
+    "revisionTimestamp": "2025-03-19T21:52:04Z",
+    "fetchedAt": "2026-05-14T14:34:23.202Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Maisie Island (Japanese: レフレ島 Refle Island) is an -exclusive location in Hoenn found between Lilycove City and Mossdeep City. The island is also nicknamed \"Clamperl Island\" because of the many that live nearby.\n\nIt appeared in Clamperl of Wisdom, when and met up with again. After Spoink lost its pink in the surrounding waters, a search of the island ensued. The group eventually reunited Spoink with its pink pearl, and the Clamperl research laboratory had its rare blue pearl returned, after it was taken by Spoink in its desperation to have a pearl.\n\nIsaiah lives on Maisie Island, where he runs his own Clamperl research laboratory, which is complete with a pool enclosure home for several of the Bivalve Pokémon. Many young s like also live on the island.",
+  "plainText": "Maisie Island (Japanese: レフレ島 Refle Island) is an -exclusive location in Hoenn found between Lilycove City and Mossdeep City. The island is also nicknamed \"Clamperl Island\" because of the many that live nearby.\n\nIt appeared in Clamperl of Wisdom, when and met up with again. After Spoink lost its pink in the surrounding waters, a search of the island ensued. The group eventually reunited Spoink with its pink pearl, and the Clamperl research laboratory had its rare blue pearl returned, after it was taken by Spoink in its desperation to have a pearl.\n\nIsaiah lives on Maisie Island, where he runs his own Clamperl research laboratory, which is complete with a pool enclosure home for several of the Bivalve Pokémon. Many young s like also live on the island.\n\n==Pokémon seen on and around Maisie Island==\n \n \n\n \n \n\n \n\nes:Isla Maisie\nit:Isola di Maisie\nzh:瑞弗勒島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Maisie Island (Japanese: レフレ島 Refle Island) is an -exclusive location in Hoenn found between Lilycove City and Mossdeep City. The island is also nicknamed \"Clamperl Island\" because of the many that live nearby.\n\nIt appeared in Clamperl of Wisdom, when and met up with again. After Spoink lost its pink in the surrounding waters, a search of the island ensued. The group eventually reunited Spoink with its pink pearl, and the Clamperl research laboratory had its rare blue pearl returned, after it was taken by Spoink in its desperation to have a pearl.\n\nIsaiah lives on Maisie Island, where he runs his own Clamperl research laboratory, which is complete with a pool enclosure home for several of the Bivalve Pokémon. Many young s like also live on the island."
+    },
+    {
+      "heading": "Pokémon seen on and around Maisie Island",
+      "level": 2,
+      "text": "es:Isla Maisie\nit:Isola di Maisie\nzh:瑞弗勒島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Maisie Island",
+    "pageType": "location",
+    "searchableText": "Maisie Island\nCategory:Animated series-exclusive locations\nMaisie Island (Japanese: レフレ島 Refle Island) is an -exclusive location in Hoenn found between Lilycove City and Mossdeep City. The island is also nicknamed \"Clamperl Island\" because of the many that live nearby.\n\nIt appeared in Clamperl of Wisdom, when and met up with again. After Spoink lost its pink in the surrounding waters, a search of the island ensued. The group eventually reunited Spoink with its pink pearl, and the Clamperl research laboratory had its rare blue pearl returned, after it was taken by Spoink in its desperation to have a pearl.\n\nIsaiah lives on Maisie Island, where he runs his own Clamperl research laboratory, which is complete with a pool enclosure home for several of the Bivalve Pokémon. Many young s like also live on the island.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon seen on and around Maisie Island"
+    ],
+    "characterCount": 862,
+    "sectionCount": 2
+  }
+}

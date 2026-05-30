@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Child of the Jungle",
+    "slug": "child-of-the-jungle",
+    "pageId": 267254,
+    "revisionId": 3957523
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Korean opening themes",
+    "sourceFileName": "child-of-the-jungle__267254.json",
+    "revisionTimestamp": "2024-03-17T13:22:30Z",
+    "fetchedAt": "2026-05-14T14:09:32.312Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Child of the Jungle (Korean: 정글의 아이 Jeongeurui Ai) is the opening theme for the Korean dub of Pokémon the Movie: Secrets of the Jungle . It is performed by FiNE.",
+  "plainText": "Child of the Jungle (Korean: 정글의 아이 Jeongeurui Ai) is the opening theme for the Korean dub of Pokémon the Movie: Secrets of the Jungle . It is performed by FiNE.\n\n==Lyrics==\n \n! Korean\n! English\n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\nOh oh now\n \n \nlight up the night\n \n \n\n \n \n \n \n \n \n\nA stray life blooms\nWithin a noble breath\nA dazzling light illuminates the path\nWarmth fills the same space\nTogether during this fateful time\nThe soft whisper of a young life\nListen\n\nWoo~~ woah woah~~\nWoo~~ woah woah~~\nIlluminating the darkness\nAre the moonlit translucent eyes\nHiding behind my back\nThe wings spread out\n\nOh oh now\nRight this moment\nBoth eyes filled\nLight up the night\nThis land blooms\nA small courage\n\nYou, me, us, and\nLooking upon the world heaven has given us\nA stray ray of life\nLet's make it\nWoo~ woah woah~\nAlways shine your light on this path\n \n\n==Video==\n \n\n \n \n\n \n\nzh:寶可夢電影 韓語片頭曲23",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Child of the Jungle (Korean: 정글의 아이 Jeongeurui Ai) is the opening theme for the Korean dub of Pokémon the Movie: Secrets of the Jungle . It is performed by FiNE."
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "! Korean\n! English\n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\nOh oh now\n \n \nlight up the night\n \n \n\n \n \n \n \n \n \n\nA stray life blooms\nWithin a noble breath\nA dazzling light illuminates the path\nWarmth fills the same space\nTogether during this fateful time\nThe soft whisper of a young life\nListen\n\nWoo~~ woah woah~~\nWoo~~ woah woah~~\nIlluminating the darkness\nAre the moonlit translucent eyes\nHiding behind my back\nThe wings spread out\n\nOh oh now\nRight this moment\nBoth eyes filled\nLight up the night\nThis land blooms\nA small courage\n\nYou, me, us, and\nLooking upon the world heaven has given us\nA stray ray of life\nLet's make it\nWoo~ woah woah~\nAlways shine your light on this path"
+    },
+    {
+      "heading": "Video",
+      "level": 2,
+      "text": "zh:寶可夢電影 韓語片頭曲23"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Child of the Jungle",
+    "pageType": "general-anime-lore",
+    "searchableText": "Child of the Jungle\nCategory:Korean opening themes\nChild of the Jungle (Korean: 정글의 아이 Jeongeurui Ai) is the opening theme for the Korean dub of Pokémon the Movie: Secrets of the Jungle . It is performed by FiNE.",
+    "sectionHeadings": [
+      "Lead",
+      "Lyrics",
+      "Video"
+    ],
+    "characterCount": 882,
+    "sectionCount": 3
+  }
+}

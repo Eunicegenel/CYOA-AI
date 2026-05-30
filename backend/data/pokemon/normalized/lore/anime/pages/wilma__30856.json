@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Wilma",
+    "slug": "wilma",
+    "pageId": 30856,
+    "revisionId": 4522718
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "wilma__30856.json",
+    "revisionTimestamp": "2026-04-03T19:39:32Z",
+    "fetchedAt": "2026-05-14T14:57:47.023Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Wilma, or Grandma Wilma (Japanese: タツばあさん Grandma Tatsu), is a Move Tutor found in , , , Brilliant Diamond, and Shining Pearl. She lives on the northern, foggy stretch of in the in the Sinnoh-based games, while she lives in Blackthorn City in the Johto-based games.",
+  "plainText": "Wilma, or Grandma Wilma (Japanese: タツばあさん Grandma Tatsu), is a Move Tutor found in , , , Brilliant Diamond, and Shining Pearl. She lives on the northern, foggy stretch of in the in the Sinnoh-based games, while she lives in Blackthorn City in the Johto-based games.\n\n==In the games==\nIn Pokémon Diamond, Pearl, Platinum, Brilliant Diamond, and Shining Pearl she mentions that she used to live in a famous city of s until she moved to Sinnoh, and due to this, she is able to teach the move to the 's Pokémon if its friendship is maxed out.\n\n==Gallery==\n===Sprites===\n \n\n==In animation==\nWilma's only appearance in animation was in the episode A Meteoric Rise to Excellence!. and met up with her after witnessing her teach an to use . She explained that many s, including Altaria's, leave their Pokémon with her so that she can teach them Draco Meteor.\n\nLater, a that Wilma knew showed up and she explained that it shows up frequently. Ash and his friends helped her rescue Altaria from and she later showed them the way to Daybreak Town.\n\n===Training===\n \n \n\n===Befriended===\n \n\n===Voice actors===\n \n\n==Names==\n \n \n\n==Related articles==\n \n \n\n \n \n \n \n\nde:Oma Ma\nes:Ela\nfr:Mamie Bertille\nit:Elmira\nja:タツばあさん\nzh:龍婆婆",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Wilma, or Grandma Wilma (Japanese: タツばあさん Grandma Tatsu), is a Move Tutor found in , , , Brilliant Diamond, and Shining Pearl. She lives on the northern, foggy stretch of in the in the Sinnoh-based games, while she lives in Blackthorn City in the Johto-based games."
+    },
+    {
+      "heading": "In the games",
+      "level": 2,
+      "text": "In Pokémon Diamond, Pearl, Platinum, Brilliant Diamond, and Shining Pearl she mentions that she used to live in a famous city of s until she moved to Sinnoh, and due to this, she is able to teach the move to the 's Pokémon if its friendship is maxed out."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "Wilma's only appearance in animation was in the episode A Meteoric Rise to Excellence!. and met up with her after witnessing her teach an to use . She explained that many s, including Altaria's, leave their Pokémon with her so that she can teach them Draco Meteor.\n\nLater, a that Wilma knew showed up and she explained that it shows up frequently. Ash and his friends helped her rescue Altaria from and she later showed them the way to Daybreak Town."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Oma Ma\nes:Ela\nfr:Mamie Bertille\nit:Elmira\nja:タツばあさん\nzh:龍婆婆"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Wilma",
+    "pageType": "character",
+    "searchableText": "Wilma\nCategory:Animation characters\nWilma, or Grandma Wilma (Japanese: タツばあさん Grandma Tatsu), is a Move Tutor found in , , , Brilliant Diamond, and Shining Pearl. She lives on the northern, foggy stretch of in the in the Sinnoh-based games, while she lives in Blackthorn City in the Johto-based games.",
+    "sectionHeadings": [
+      "Lead",
+      "In the games",
+      "In animation",
+      "Related articles"
+    ],
+    "characterCount": 1211,
+    "sectionCount": 4
+  }
+}

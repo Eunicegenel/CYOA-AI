@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Tsubasa (HIBAPC)",
+    "slug": "tsubasa-hibapc",
+    "pageId": 40689,
+    "revisionId": 4132251
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card characters",
+    "sourceFileName": "tsubasa-hibapc__40689.json",
+    "revisionTimestamp": "2024-09-29T05:18:48Z",
+    "fetchedAt": "2026-05-14T15:52:06.957Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Tsubasa (Japanese: ツバサ Tsubasa) is a young boy in the series How I Became a Pokémon Card. He lives in a small village which holds a contest to determine which villager will be known as the \"Air Master\", or the ultimate Trainer of bird . Tsubasa wants to become an Air Master, but has no Pokémon of his own, so he attempts to train his grandfather's , which does not take to him. He competes against Takaya and his .",
+  "plainText": "Tsubasa (Japanese: ツバサ Tsubasa) is a young boy in the series How I Became a Pokémon Card. He lives in a small village which holds a contest to determine which villager will be known as the \"Air Master\", or the ultimate Trainer of bird . Tsubasa wants to become an Air Master, but has no Pokémon of his own, so he attempts to train his grandfather's , which does not take to him. He competes against Takaya and his .\n\n==Pokémon==\n===Trained===\n \n \n \n \n \n \n\n \n \n\nit:Tsubasa",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tsubasa (Japanese: ツバサ Tsubasa) is a young boy in the series How I Became a Pokémon Card. He lives in a small village which holds a contest to determine which villager will be known as the \"Air Master\", or the ultimate Trainer of bird . Tsubasa wants to become an Air Master, but has no Pokémon of his own, so he attempts to train his grandfather's , which does not take to him. He competes against Takaya and his ."
+    },
+    {
+      "heading": "Trained",
+      "level": 3,
+      "text": "it:Tsubasa"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tsubasa (HIBAPC)",
+    "pageType": "character",
+    "searchableText": "Tsubasa (HIBAPC)\nCategory:How I Became a Pokémon Card characters\nTsubasa (Japanese: ツバサ Tsubasa) is a young boy in the series How I Became a Pokémon Card. He lives in a small village which holds a contest to determine which villager will be known as the \"Air Master\", or the ultimate Trainer of bird . Tsubasa wants to become an Air Master, but has no Pokémon of his own, so he attempts to train his grandfather's , which does not take to him. He competes against Takaya and his .",
+    "sectionHeadings": [
+      "Lead",
+      "Trained"
+    ],
+    "characterCount": 471,
+    "sectionCount": 2
+  }
+}

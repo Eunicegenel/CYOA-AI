@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS20",
+    "slug": "pmrs20",
+    "pageId": 161723,
+    "revisionId": 4264624
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs20__161723.json",
+    "revisionTimestamp": "2025-03-23T18:28:54Z",
+    "fetchedAt": "2026-05-14T15:33:20.330Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy Becomes A Billionaire?! (Japanese: 誕生！？億万長者ピッピ Billionaire is Born!?) is the twentieth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Clefairy Becomes A Billionaire?! (Japanese: 誕生！？億万長者ピッピ Billionaire is Born!?) is the twentieth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy Becomes A Billionaire?! (Japanese: 誕生！？億万長者ピッピ Billionaire is Born!?) is the twentieth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS20",
+    "pageType": "chapter",
+    "searchableText": "PMRS20\nCategory:Pokémon Ruby-Sapphire chapters\nClefairy Becomes A Billionaire?! (Japanese: 誕生！？億万長者ピッピ Billionaire is Born!?) is the twentieth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 263,
+    "sectionCount": 2
+  }
+}

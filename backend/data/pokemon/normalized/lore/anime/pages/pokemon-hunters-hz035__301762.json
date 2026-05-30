@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon hunters (HZ035)",
+    "slug": "pokemon-hunters-hz035",
+    "pageId": 301762,
+    "revisionId": 4287803
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "pokemon-hunters-hz035__301762.json",
+    "revisionTimestamp": "2025-04-26T13:09:48Z",
+    "fetchedAt": "2026-05-14T14:43:00.385Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The (Japanese: ポケモンハンター Pokémon hunters) are characters of the day who appeared in The Wild Pair, Friede and Cap!. They capture \"cute\" for their boss.",
+  "plainText": "The (Japanese: ポケモンハンター Pokémon hunters) are characters of the day who appeared in The Wild Pair, Friede and Cap!. They capture \"cute\" for their boss.\n\n==Pokémon==\n===Boss===\n \n\n===Hunters===\n \n\n \n\n \n\n==Voice actors==\n \n \n \n \n \n \n \n \n \n \n\nit:Bracconieri di Pokémon (OP035)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The (Japanese: ポケモンハンター Pokémon hunters) are characters of the day who appeared in The Wild Pair, Friede and Cap!. They capture \"cute\" for their boss."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Bracconieri di Pokémon (OP035)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon hunters (HZ035)",
+    "pageType": "character",
+    "searchableText": "Pokémon hunters (HZ035)\nCategory:Horizons characters of the day\nThe (Japanese: ポケモンハンター Pokémon hunters) are characters of the day who appeared in The Wild Pair, Friede and Cap!. They capture \"cute\" for their boss.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 272,
+    "sectionCount": 2
+  }
+}

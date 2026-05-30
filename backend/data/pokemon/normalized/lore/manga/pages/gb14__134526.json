@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GB14",
+    "slug": "gb14",
+    "pageId": 134526,
+    "revisionId": 4107961
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys chapters",
+    "sourceFileName": "gb14__134526.json",
+    "revisionTimestamp": "2024-09-09T07:12:20Z",
+    "fetchedAt": "2026-05-14T15:19:15.367Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Let's Fight! The Mini Pokémon Tournament (Japanese: 熱戦! ミニポケモン大会 A Close Game! Mini Pokémon Tournament) is the fourteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+  "plainText": "Let's Fight! The Mini Pokémon Tournament (Japanese: 熱戦! ミニポケモン大会 A Close Game! Mini Pokémon Tournament) is the fourteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga.\n\n==Plot==\n \nBecause Morty has to attend the grand reopening of Moomoo Farm, and then a month-long conference in Kanto the next day, he is unable to accept 's Gym challenge. He decides to just give Gold the for free, insisting that he has already seen Gold's true strength even though they have not battled yet. Gold refuses to accept it, because he feels like he has not truly earned it if he does not participate in a battle for it.\n\nGold follows Morty to Moomoo Farm, where he decides to enter a Pokémon tournament judged by Morty, in which the winner will battle him. Unlike other tournaments, however, it is restricted to small, low-level Pokémon. Gold decides to register with his .\n\nGold wins and battles his way up through the tournament, as does another Trainer, . They have a heated battle, with Gold's Elekid winning, despite Mareep lowering its stats with attacks such as and .\n\nThe tournament ends, but because it is past sunset, Morty is still unable to battle Gold. He gives the Fog Badge to Gold and tells him to keep it, at least until he can battle him to earn it for good. Gold agrees, and they part ways.\n\n==Major events==\nwins the Mini Pokémon Tournament.\nGold receives the .\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMorty\n\n===Pokémon===\n( )\n( )\n( )\n( 's)\n(Yuki's)\n(Akira's)\n\n \n \n \n\nes:GB14\nit:GB14",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Let's Fight! The Mini Pokémon Tournament (Japanese: 熱戦! ミニポケモン大会 A Close Game! Mini Pokémon Tournament) is the fourteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Because Morty has to attend the grand reopening of Moomoo Farm, and then a month-long conference in Kanto the next day, he is unable to accept 's Gym challenge. He decides to just give Gold the for free, insisting that he has already seen Gold's true strength even though they have not battled yet. Gold refuses to accept it, because he feels like he has not truly earned it if he does not participate in a battle for it.\n\nGold follows Morty to Moomoo Farm, where he decides to enter a Pokémon tournament judged by Morty, in which the winner will battle him. Unlike other tournaments, however, it is restricted to small, low-level Pokémon. Gold decides to register with his .\n\nGold wins and battles his way up through the tournament, as does another Trainer, . They have a heated battle, with Gold's Elekid winning, despite Mareep lowering its stats with attacks such as and .\n\nThe tournament ends, but because it is past sunset, Morty is still unable to battle Gold. He gives the Fog Badge to Gold and tells him to keep it, at least until he can battle him to earn it for good. Gold agrees, and they part ways."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "wins the Mini Pokémon Tournament.\nGold receives the ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Morty"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( 's)\n(Yuki's)\n(Akira's)\n\n \n \n \n\nes:GB14\nit:GB14"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GB14",
+    "pageType": "chapter",
+    "searchableText": "GB14\nCategory:Pokémon Gold & Silver: The Golden Boys chapters\nLet's Fight! The Mini Pokémon Tournament (Japanese: 熱戦! ミニポケモン大会 A Close Game! Mini Pokémon Tournament) is the fourteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1543,
+    "sectionCount": 5
+  }
+}

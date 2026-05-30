@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Lob",
+    "slug": "lob",
+    "pageId": 258986,
+    "revisionId": 4470657
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "lob__258986.json",
+    "revisionTimestamp": "2026-01-19T00:01:43Z",
+    "fetchedAt": "2026-05-14T14:33:04.759Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ロブ Lob) is a character of the day who appeared in A Festival Reunion!.\n\nLob was among the s competing in the World Coronation Series Battle Festival Challenge in Shalour City. He had a battle against , where he used his against . Although Lob had a good strategy against Pokémon, Ash was able to win, causing Lob's rank to go down.\n\nLob was later seen watching Ash's battle against .",
+  "plainText": "(Japanese: ロブ Lob) is a character of the day who appeared in A Festival Reunion!.\n\nLob was among the s competing in the World Coronation Series Battle Festival Challenge in Shalour City. He had a battle against , where he used his against . Although Lob had a good strategy against Pokémon, Ash was able to win, causing Lob's rank to go down.\n\nLob was later seen watching Ash's battle against .\n\n==Pokémon==\n \n \n\n==Achievements==\nLob has competed in the following :\n\nWorld Coronation Series Rank: Unknown (Normal Class)\n\n==Voice actors==\n \n\n==Names==\n \n\n==Trivia==\nLob and his make a reference to the fact that are a recurring part of cowboy cooking. They're often seen as mascots for restaurants with this theme.\n\n==Related articles==\n \n \n\n \n \n \n\nfr:Lob\nes:Lob\nit:Lob\nja:ロブ\nzh:罗伯",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ロブ Lob) is a character of the day who appeared in A Festival Reunion!.\n\nLob was among the s competing in the World Coronation Series Battle Festival Challenge in Shalour City. He had a battle against , where he used his against . Although Lob had a good strategy against Pokémon, Ash was able to win, causing Lob's rank to go down.\n\nLob was later seen watching Ash's battle against ."
+    },
+    {
+      "heading": "Achievements",
+      "level": 2,
+      "text": "Lob has competed in the following :\n\nWorld Coronation Series Rank: Unknown (Normal Class)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Lob and his make a reference to the fact that are a recurring part of cowboy cooking. They're often seen as mascots for restaurants with this theme."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "fr:Lob\nes:Lob\nit:Lob\nja:ロブ\nzh:罗伯"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lob",
+    "pageType": "character",
+    "searchableText": "Lob\nCategory:Journeys characters of the day\n(Japanese: ロブ Lob) is a character of the day who appeared in A Festival Reunion!.\n\nLob was among the s competing in the World Coronation Series Battle Festival Challenge in Shalour City. He had a battle against , where he used his against . Although Lob had a good strategy against Pokémon, Ash was able to win, causing Lob's rank to go down.\n\nLob was later seen watching Ash's battle against .",
+    "sectionHeadings": [
+      "Lead",
+      "Achievements",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 780,
+    "sectionCount": 4
+  }
+}

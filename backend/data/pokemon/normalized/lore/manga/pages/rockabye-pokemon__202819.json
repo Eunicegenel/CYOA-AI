@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Rockabye Pokémon",
+    "slug": "rockabye-pokemon",
+    "pageId": 202819,
+    "revisionId": 4168613
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "rockabye-pokemon__202819.json",
+    "revisionTimestamp": "2024-10-26T19:22:08Z",
+    "fetchedAt": "2026-05-14T15:48:23.860Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Rockabye Pokémon is the twenty-eighth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 42nd and 43rd chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Rockabye Pokémon is the twenty-eighth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 42nd and 43rd chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n\n==Publications==\n \n \n\n==Chapters==\nRock-A-Bye Pokémon (Part 1)\nRock-A-Bye Pokémon (Part 2)\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Rockabye Pokémon is the twenty-eighth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 42nd and 43rd chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Rock-A-Bye Pokémon (Part 1)\nRock-A-Bye Pokémon (Part 2)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rockabye Pokémon",
+    "pageType": "pokemon-related",
+    "searchableText": "Rockabye Pokémon\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Rockabye Pokémon is the twenty-eighth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 42nd and 43rd chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 502,
+    "sectionCount": 2
+  }
+}

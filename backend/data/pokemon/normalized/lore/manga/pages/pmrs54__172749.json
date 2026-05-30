@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS54",
+    "slug": "pmrs54",
+    "pageId": 172749,
+    "revisionId": 4264658
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs54__172749.json",
+    "revisionTimestamp": "2025-03-23T18:34:01Z",
+    "fetchedAt": "2026-05-14T15:33:46.283Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy Becomes A Work Of Art! (Japanese: ピッピ、芸術になる！！ Becomes A Work Of Art!!) is the fifty-fourth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Clefairy Becomes A Work Of Art! (Japanese: ピッピ、芸術になる！！ Becomes A Work Of Art!!) is the fifty-fourth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy Becomes A Work Of Art! (Japanese: ピッピ、芸術になる！！ Becomes A Work Of Art!!) is the fifty-fourth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS54",
+    "pageType": "chapter",
+    "searchableText": "PMRS54\nCategory:Pokémon Ruby-Sapphire chapters\nClefairy Becomes A Work Of Art! (Japanese: ピッピ、芸術になる！！ Becomes A Work Of Art!!) is the fifty-fourth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 267,
+    "sectionCount": 2
+  }
+}

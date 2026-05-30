@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Jacques",
+    "slug": "jacques",
+    "pageId": 227718,
+    "revisionId": 4099078
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "jacques__227718.json",
+    "revisionTimestamp": "2024-09-02T04:36:50Z",
+    "fetchedAt": "2026-05-14T14:25:29.980Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Not to be confused with Jacq.\n----\n \nJacques is a character of the day who appeared in Snubbull Snobbery. He is the head chef at Madame Muchmoney's Palm Hills estate.\n\nWhen and were dining with Madame Muchmoney, she noticed that her refused to eat. She tried to have Jacques prepare something special for Snubbull, but he replied that he already tried everything before, and Snubbull still wouldn't eat. Fortunately, gave Snubbull the rice balls that he had in his bag, and it ate them.\n \n\n \n\n \n \n \n \n\nit:Jacques",
+  "plainText": "Not to be confused with Jacq.\n----\n \nJacques is a character of the day who appeared in Snubbull Snobbery. He is the head chef at Madame Muchmoney's Palm Hills estate.\n\nWhen and were dining with Madame Muchmoney, she noticed that her refused to eat. She tried to have Jacques prepare something special for Snubbull, but he replied that he already tried everything before, and Snubbull still wouldn't eat. Fortunately, gave Snubbull the rice balls that he had in his bag, and it ate them.\n \n\n \n\n \n \n \n \n\nit:Jacques",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Not to be confused with Jacq.\n----\n \nJacques is a character of the day who appeared in Snubbull Snobbery. He is the head chef at Madame Muchmoney's Palm Hills estate.\n\nWhen and were dining with Madame Muchmoney, she noticed that her refused to eat. She tried to have Jacques prepare something special for Snubbull, but he replied that he already tried everything before, and Snubbull still wouldn't eat. Fortunately, gave Snubbull the rice balls that he had in his bag, and it ate them.\n \n\n \n\n \n \n \n \n\nit:Jacques"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jacques",
+    "pageType": "character",
+    "searchableText": "Jacques\nCategory:Johto characters of the day\nNot to be confused with Jacq.\n----\n \nJacques is a character of the day who appeared in Snubbull Snobbery. He is the head chef at Madame Muchmoney's Palm Hills estate.\n\nWhen and were dining with Madame Muchmoney, she noticed that her refused to eat. She tried to have Jacques prepare something special for Snubbull, but he replied that he already tried everything before, and Snubbull still wouldn't eat. Fortunately, gave Snubbull the rice balls that he had in his bag, and it ate them.\n \n\n \n\n \n \n \n \n\nit:Jacques",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 512,
+    "sectionCount": 1
+  }
+}

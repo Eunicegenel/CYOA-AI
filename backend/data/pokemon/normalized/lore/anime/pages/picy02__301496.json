@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PICY02",
+    "slug": "picy02",
+    "pageId": 301496,
+    "revisionId": 4528458
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! chapters",
+    "sourceFileName": "picy02__301496.json",
+    "revisionTimestamp": "2026-04-09T16:22:29Z",
+    "fetchedAt": "2026-05-14T14:41:29.690Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Chapter 2 (Japanese: 第２話 Chapter 2) is the second chapter of Pokémon the Movie: I Choose You!",
+  "plainText": "Chapter 2 (Japanese: 第２話 Chapter 2) is the second chapter of Pokémon the Movie: I Choose You!\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nNurse Joy\nJessie\nJames\nVerity\nSorrel\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nNurse Joy\nJessie\nJames\nVerity\nSorrel\n\n===Pokémon===\n( 's)\n( 's; new)\n( )\n(Verity's)\n(Sorrel's)\n(Nurse Joy's)\n(Trainer's)\n\n==Differences between the movie and the manga==\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chapter 2 (Japanese: 第２話 Chapter 2) is the second chapter of Pokémon the Movie: I Choose You!"
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Nurse Joy\nJessie\nJames\nVerity\nSorrel"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Nurse Joy\nJessie\nJames\nVerity\nSorrel"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( 's; new)\n( )\n(Verity's)\n(Sorrel's)\n(Nurse Joy's)\n(Trainer's)"
+    },
+    {
+      "heading": "Differences between the movie and the manga",
+      "level": 2,
+      "text": "}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PICY02",
+    "pageType": "movie",
+    "searchableText": "PICY02\nCategory:Pokémon the Movie: I Choose You! chapters\nChapter 2 (Japanese: 第２話 Chapter 2) is the second chapter of Pokémon the Movie: I Choose You!",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Differences between the movie and the manga"
+    ],
+    "characterCount": 416,
+    "sectionCount": 5
+  }
+}

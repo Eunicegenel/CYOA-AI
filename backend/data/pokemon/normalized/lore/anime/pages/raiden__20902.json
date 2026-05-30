@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Raiden",
+    "slug": "raiden",
+    "pageId": 20902,
+    "revisionId": 4335815
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "raiden__20902.json",
+    "revisionTimestamp": "2025-07-13T16:08:44Z",
+    "fetchedAt": "2026-05-14T14:45:32.155Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Raiden (Japanese: ライデン Raiden) is a character of the day who appeared in Ring Masters. He was once a who, like , was for the Johto League, until he came across Rikishii Town and gained interest in the town's Sumo Conference. \n\nWhile traveling through Johto, Ash and met Raiden in Rikishii Town. He was the current champion of the town's Sumo Conference, and was entering again to defend his title. Ash entered the competition as well with his .\n\nEventually, the two ended up facing each other in the final round of the tournament. Raiden was using his , who had helped him reach victory in the previous year's competition. However, the was no match for Ash's Snorlax, who ended up defeating the champion, winning Ash a King's Rock and a year's supply of Pokémon food. Although he lost, Raiden wasn't upset, instead congratulating Ash on his victory.",
+  "plainText": "Raiden (Japanese: ライデン Raiden) is a character of the day who appeared in Ring Masters. He was once a who, like , was for the Johto League, until he came across Rikishii Town and gained interest in the town's Sumo Conference. \n\nWhile traveling through Johto, Ash and met Raiden in Rikishii Town. He was the current champion of the town's Sumo Conference, and was entering again to defend his title. Ash entered the competition as well with his .\n\nEventually, the two ended up facing each other in the final round of the tournament. Raiden was using his , who had helped him reach victory in the previous year's competition. However, the was no match for Ash's Snorlax, who ended up defeating the champion, winning Ash a King's Rock and a year's supply of Pokémon food. Although he lost, Raiden wasn't upset, instead congratulating Ash on his victory.\n\n==Pokémon==\n \n \n\n==Pokémon competitions==\nRaiden has competed in the following :\nSumo Conference - Winner (prior to Ring Masters)\nSumo Conference - Runner-Up (Ring Masters)\n\n==Trivia==\nRaiden's names comes from , a famous sumo wrestler from the Edo Period.\n\n==Voice actors==\n \n\n \n\n \n \n \n\nde:Pokémon Sumo (Episode)#Raiden\nes:Raiden\nfr:Raiden\nit:Raiden\nzh:雷电",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Raiden (Japanese: ライデン Raiden) is a character of the day who appeared in Ring Masters. He was once a who, like , was for the Johto League, until he came across Rikishii Town and gained interest in the town's Sumo Conference. \n\nWhile traveling through Johto, Ash and met Raiden in Rikishii Town. He was the current champion of the town's Sumo Conference, and was entering again to defend his title. Ash entered the competition as well with his .\n\nEventually, the two ended up facing each other in the final round of the tournament. Raiden was using his , who had helped him reach victory in the previous year's competition. However, the was no match for Ash's Snorlax, who ended up defeating the champion, winning Ash a King's Rock and a year's supply of Pokémon food. Although he lost, Raiden wasn't upset, instead congratulating Ash on his victory."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Raiden has competed in the following :\nSumo Conference - Winner (prior to Ring Masters)\nSumo Conference - Runner-Up (Ring Masters)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Raiden's names comes from , a famous sumo wrestler from the Edo Period."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Pokémon Sumo (Episode)#Raiden\nes:Raiden\nfr:Raiden\nit:Raiden\nzh:雷电"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Raiden",
+    "pageType": "character",
+    "searchableText": "Raiden\nCategory:Johto characters of the day\nRaiden (Japanese: ライデン Raiden) is a character of the day who appeared in Ring Masters. He was once a who, like , was for the Johto League, until he came across Rikishii Town and gained interest in the town's Sumo Conference. \n\nWhile traveling through Johto, Ash and met Raiden in Rikishii Town. He was the current champion of the town's Sumo Conference, and was entering again to defend his title. Ash entered the competition as well with his .\n\nEventually, the two ended up facing each other in the final round of the tournament. Raiden was using his , who had helped him reach victory in the previous year's competition. However, the was no match for Ash's Snorlax, who ended up defeating the champion, winning Ash a King's Rock and a year's supply of Pokémon food. Although he lost, Raiden wasn't upset, instead congratulating Ash on his victory.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Trivia",
+      "Voice actors"
+    ],
+    "characterCount": 1207,
+    "sectionCount": 4
+  }
+}

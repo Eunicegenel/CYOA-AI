@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW19",
+    "slug": "pmbw19",
+    "pageId": 171705,
+    "revisionId": 4528590
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw19__171705.json",
+    "revisionTimestamp": "2026-04-09T16:29:30Z",
+    "fetchedAt": "2026-05-14T15:31:55.318Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピ戦隊登場！！ Squad Appears!!) is the nineteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ピッピ戦隊登場！！ Squad Appears!!) is the nineteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n(Clefairy Rangers)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピ戦隊登場！！ Squad Appears!!) is the nineteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Clefairy Rangers)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW19",
+    "pageType": "chapter",
+    "searchableText": "PMBW19\nCategory:Pocket Monsters BW chapters\n(Japanese: ピッピ戦隊登場！！ Squad Appears!!) is the nineteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 252,
+    "sectionCount": 2
+  }
+}

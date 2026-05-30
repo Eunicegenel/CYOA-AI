@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "MTM05",
+    "slug": "mtm05",
+    "pageId": 306015,
+    "revisionId": 4169320
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mezastar: Aim to Be a Tag Master! chapters",
+    "sourceFileName": "mtm05__306015.json",
+    "revisionTimestamp": "2024-10-27T20:46:20Z",
+    "fetchedAt": "2026-05-14T15:27:15.370Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the fifth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the August 2021 issue of CoroCoro Ichiban!, released on June 21, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.",
+  "plainText": "This is the fifth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the August 2021 issue of CoroCoro Ichiban!, released on June 21, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.\n\n==Plot==\n \n \n \n\n==Major events==\n===Debuts===\n====Humans====\nDouji Futakata\n\n==Characters==\n===Humans===\nKira Hoshio\nSuguru Tsukino\nDouji Futakata\nKira's teacher\nStudents\nPokémon Mezastar players\n\n==Tags featured==\n \nCalyrex (4-006)\nCalyrex (4-007)\nEternatus (4-002)\nEternatus (4-001)\nDuraludon (1-015)\nObstagoon (2-015)\nMewtwo (2-001)\nGengar (4-021)\nSylveon (4-023)\nAlcremie (4-018)\nGardevoir (4-017)\nGrimmsnarl (4-008)\nPikachu (2-1-016)\nSolgaleo (2-1-001)\nLunala (2-1-002)\n\n==References==\n \n\n==External links==\nChapter 5 on Weekly CoroCoro Comics\nChapter 5 on CoroCoro Online",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the fifth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the August 2021 issue of CoroCoro Ichiban!, released on June 21, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Douji Futakata"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kira Hoshio\nSuguru Tsukino\nDouji Futakata\nKira's teacher\nStudents\nPokémon Mezastar players"
+    },
+    {
+      "heading": "Tags featured",
+      "level": 2,
+      "text": "Calyrex (4-006)\nCalyrex (4-007)\nEternatus (4-002)\nEternatus (4-001)\nDuraludon (1-015)\nObstagoon (2-015)\nMewtwo (2-001)\nGengar (4-021)\nSylveon (4-023)\nAlcremie (4-018)\nGardevoir (4-017)\nGrimmsnarl (4-008)\nPikachu (2-1-016)\nSolgaleo (2-1-001)\nLunala (2-1-002)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 5 on Weekly CoroCoro Comics\nChapter 5 on CoroCoro Online"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MTM05",
+    "pageType": "chapter",
+    "searchableText": "MTM05\nCategory:Pokémon Mezastar: Aim to Be a Tag Master! chapters\nThis is the fifth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the August 2021 issue of CoroCoro Ichiban!, released on June 21, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Tags featured",
+      "External links"
+    ],
+    "characterCount": 889,
+    "sectionCount": 5
+  }
+}

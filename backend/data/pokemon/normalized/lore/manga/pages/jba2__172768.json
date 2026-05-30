@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "JBA2",
+    "slug": "jba2",
+    "pageId": 172768,
+    "revisionId": 4549291
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS Jō's Big Adventure chapters",
+    "sourceFileName": "jba2__172768.json",
+    "revisionTimestamp": "2026-05-11T01:38:16Z",
+    "fetchedAt": "2026-05-14T15:22:25.455Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 復活したロケット団！！ The Revived !!) is the second chapter of the Pocket Monsters HGSS Jō's Big Adventure manga.",
+  "plainText": "(Japanese: 復活したロケット団！！ The Revived !!) is the second chapter of the Pocket Monsters HGSS Jō's Big Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nTeam Rocket\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nJō\nMorty\ns\n\n===Pokémon===\n( )\n( )\n\n==In other languages==\n \n \n\n \n \n\nes:JBA2\nit:JBA2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 復活したロケット団！！ The Revived !!) is the second chapter of the Pocket Monsters HGSS Jō's Big Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Team Rocket"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jō\nMorty\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:JBA2\nit:JBA2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JBA2",
+    "pageType": "chapter",
+    "searchableText": "JBA2\nCategory:Pocket Monsters HGSS Jō's Big Adventure chapters\n(Japanese: 復活したロケット団！！ The Revived !!) is the second chapter of the Pocket Monsters HGSS Jō's Big Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 322,
+    "sectionCount": 5
+  }
+}

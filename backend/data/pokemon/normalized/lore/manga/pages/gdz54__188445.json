@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ54",
+    "slug": "gdz54",
+    "pageId": 188445,
+    "revisionId": 4527888
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz54__188445.json",
+    "revisionTimestamp": "2026-04-09T15:57:56Z",
+    "fetchedAt": "2026-05-14T15:19:55.961Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 海にオバケが出たあ！？ You Saw a Ghost in the Sea!?) is the 54th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 海にオバケが出たあ！？ You Saw a Ghost in the Sea!?) is the 54th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's)\n(Shu's; new)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 海にオバケが出たあ！？ You Saw a Ghost in the Sea!?) is the 54th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's)\n(Shu's; new)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ54",
+    "pageType": "chapter",
+    "searchableText": "GDZ54\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 海にオバケが出たあ！？ You Saw a Ghost in the Sea!?) is the 54th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 265,
+    "sectionCount": 3
+  }
+}

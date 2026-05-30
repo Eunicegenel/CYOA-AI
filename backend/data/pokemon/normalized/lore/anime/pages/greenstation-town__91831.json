@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Greenstation Town",
+    "slug": "greenstation-town",
+    "pageId": 91831,
+    "revisionId": 4261261
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "greenstation-town__91831.json",
+    "revisionTimestamp": "2025-03-19T21:52:09Z",
+    "fetchedAt": "2026-05-14T14:21:23.729Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Greenstation Town (Japanese: シンメタウン Shinme Town) is an -exclusive location in the Sinnoh region. It was featured in Beating the Bustle and Hustle!. It is located between Lake Acuity and Mt. Coronet, nestled amongst forested hills.\n\nGreenstation Town is the place set up a phony competition of Sinnoh Pokémon Hustle that served as a front for both a Pokémon-stealing operation as well as a Team Rocket recruiting ploy. In the process, criminal duo Azure and Crimson managed to steal the already-stolen Pokémon out from under Team Rocket's nose, only to later be apprehended by an undercover Officer Jenny.\n\nMany of its buildings are at least two levels high, featuring dark-green or brown brick corners to complement the largely white color of the walls. Its curved streets are large, round, and fully paved; and lined with evergreen trees and bushes.",
+  "plainText": "Greenstation Town (Japanese: シンメタウン Shinme Town) is an -exclusive location in the Sinnoh region. It was featured in Beating the Bustle and Hustle!. It is located between Lake Acuity and Mt. Coronet, nestled amongst forested hills.\n\nGreenstation Town is the place set up a phony competition of Sinnoh Pokémon Hustle that served as a front for both a Pokémon-stealing operation as well as a Team Rocket recruiting ploy. In the process, criminal duo Azure and Crimson managed to steal the already-stolen Pokémon out from under Team Rocket's nose, only to later be apprehended by an undercover Officer Jenny.\n\nMany of its buildings are at least two levels high, featuring dark-green or brown brick corners to complement the largely white color of the walls. Its curved streets are large, round, and fully paved; and lined with evergreen trees and bushes.\n\n==Names==\n \n \n \n \n\nes:Pueblo Estación Verde\nit:Stazionverde\nzh:新芽鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Greenstation Town (Japanese: シンメタウン Shinme Town) is an -exclusive location in the Sinnoh region. It was featured in Beating the Bustle and Hustle!. It is located between Lake Acuity and Mt. Coronet, nestled amongst forested hills.\n\nGreenstation Town is the place set up a phony competition of Sinnoh Pokémon Hustle that served as a front for both a Pokémon-stealing operation as well as a Team Rocket recruiting ploy. In the process, criminal duo Azure and Crimson managed to steal the already-stolen Pokémon out from under Team Rocket's nose, only to later be apprehended by an undercover Officer Jenny.\n\nMany of its buildings are at least two levels high, featuring dark-green or brown brick corners to complement the largely white color of the walls. Its curved streets are large, round, and fully paved; and lined with evergreen trees and bushes."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Pueblo Estación Verde\nit:Stazionverde\nzh:新芽鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Greenstation Town",
+    "pageType": "location",
+    "searchableText": "Greenstation Town\nCategory:Animated series-exclusive locations\nGreenstation Town (Japanese: シンメタウン Shinme Town) is an -exclusive location in the Sinnoh region. It was featured in Beating the Bustle and Hustle!. It is located between Lake Acuity and Mt. Coronet, nestled amongst forested hills.\n\nGreenstation Town is the place set up a phony competition of Sinnoh Pokémon Hustle that served as a front for both a Pokémon-stealing operation as well as a Team Rocket recruiting ploy. In the process, criminal duo Azure and Crimson managed to steal the already-stolen Pokémon out from under Team Rocket's nose, only to later be apprehended by an undercover Officer Jenny.\n\nMany of its buildings are at least two levels high, featuring dark-green or brown brick corners to complement the largely white color of the walls. Its curved streets are large, round, and fully paved; and lined with evergreen trees and bushes.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 918,
+    "sectionCount": 2
+  }
+}

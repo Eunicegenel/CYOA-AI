@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "The Impassable Mr. Mime",
+    "slug": "the-impassable-mr-mime",
+    "pageId": 198186,
+    "revisionId": 4132845
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "the-impassable-mr-mime__198186.json",
+    "revisionTimestamp": "2024-09-29T05:28:12Z",
+    "fetchedAt": "2026-05-14T15:51:37.242Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: The Impassable Mr. Mime is the twelfth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-seven, twenty-eight, and twenty-nine of the . The chapters originally released in this book were later compiled into the final chapter of and the first two chapters of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: The Impassable Mr. Mime is the twelfth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-seven, twenty-eight, and twenty-nine of the . The chapters originally released in this book were later compiled into the final chapter of and the first two chapters of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 27 - Kalling Kadabra\nChapter 28 - Peace of Mime\nChapter 29 - Go for the Golbat\n\n==Important events==\nand enter Saffron City.\n\n \n\n \n\nfr:Volume 12 (Pokémon Adventures)\nit:The Impassable Mr. Mime",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: The Impassable Mr. Mime is the twelfth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-seven, twenty-eight, and twenty-nine of the . The chapters originally released in this book were later compiled into the final chapter of and the first two chapters of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 27 - Kalling Kadabra\nChapter 28 - Peace of Mime\nChapter 29 - Go for the Golbat"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "and enter Saffron City.\n\n \n\n \n\nfr:Volume 12 (Pokémon Adventures)\nit:The Impassable Mr. Mime"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Impassable Mr. Mime",
+    "pageType": "pokemon-related",
+    "searchableText": "The Impassable Mr. Mime\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: The Impassable Mr. Mime is the twelfth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-seven, twenty-eight, and twenty-nine of the . The chapters originally released in this book were later compiled into the final chapter of and the first two chapters of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 710,
+    "sectionCount": 3
+  }
+}

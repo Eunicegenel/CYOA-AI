@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "The Passionate Primeape",
+    "slug": "the-passionate-primeape",
+    "pageId": 202821,
+    "revisionId": 4168509
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "the-passionate-primeape__202821.json",
+    "revisionTimestamp": "2024-10-26T16:54:31Z",
+    "fetchedAt": "2026-05-14T15:51:39.102Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: The Passionate Primeape is the eleventh monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 17th and 18th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: The Passionate Primeape is the eleventh monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 17th and 18th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n \n==Blurb==\nPRIMEAPE IN LOVE!\n\nEevee tries to sneak some candy to its owner, Coconut. But when Primeape intercepts the delivery, Primeape thinks the candy is for it! Can Eevee convince Primeape that their love just isn't meant to be? \n\nThen in the second story, Pikachu is going to make a picture frame for Hazel as a Christmas present...or at least it's going to try...\n\n==Publications==\n \n \n\n==Chapters==\nEevee in a Jam\nThe Best Gift Ever\n\n==Important events==\nEevee attempts to help Coconut win over Almond by delivering cookies infused with love potion, but his plans fail.\nThe cast celebrates its second Christmas.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: The Passionate Primeape is the eleventh monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 17th and 18th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "PRIMEAPE IN LOVE!\n\nEevee tries to sneak some candy to its owner, Coconut. But when Primeape intercepts the delivery, Primeape thinks the candy is for it! Can Eevee convince Primeape that their love just isn't meant to be? \n\nThen in the second story, Pikachu is going to make a picture frame for Hazel as a Christmas present...or at least it's going to try..."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Eevee in a Jam\nThe Best Gift Ever"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Eevee attempts to help Coconut win over Almond by delivering cookies infused with love potion, but his plans fail.\nThe cast celebrates its second Christmas."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Passionate Primeape",
+    "pageType": "pokemon-related",
+    "searchableText": "The Passionate Primeape\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: The Passionate Primeape is the eleventh monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 17th and 18th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 1010,
+    "sectionCount": 4
+  }
+}

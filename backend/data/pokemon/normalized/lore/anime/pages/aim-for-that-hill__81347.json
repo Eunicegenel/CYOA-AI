@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Aim for that Hill",
+    "slug": "aim-for-that-hill",
+    "pageId": 81347,
+    "revisionId": 4275600
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese opening themes",
+    "sourceFileName": "aim-for-that-hill__81347.json",
+    "revisionTimestamp": "2025-04-03T13:03:53Z",
+    "fetchedAt": "2026-05-14T14:00:16.961Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Aim for that Hill (Japanese: あの丘をめざして Ano Oka wo Mezashite) is one of the opening songs of the Japanese Pikachu shorts.\n\nIt debuted in Camp Pikachu.",
+  "plainText": "Aim for that Hill (Japanese: あの丘をめざして Ano Oka wo Mezashite) is one of the opening songs of the Japanese Pikachu shorts.\n\nIt debuted in Camp Pikachu.\n\n==Synopsis==\n\n==Characters==\n===Pokémon===\n( )\n(Pichu Brothers)\n( )\n( )\n( )\n( )\n( )\n\n==Lyrics==\n===TV size===\n \n\n===Full version===\n \n\n \n \n \n \n\nja:あの丘をめざして\nzh:以那座山丘为目标",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Aim for that Hill (Japanese: あの丘をめざして Ano Oka wo Mezashite) is one of the opening songs of the Japanese Pikachu shorts.\n\nIt debuted in Camp Pikachu."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Pichu Brothers)\n( )\n( )\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Full version",
+      "level": 3,
+      "text": "ja:あの丘をめざして\nzh:以那座山丘为目标"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Aim for that Hill",
+    "pageType": "general-anime-lore",
+    "searchableText": "Aim for that Hill\nCategory:Japanese opening themes\nAim for that Hill (Japanese: あの丘をめざして Ano Oka wo Mezashite) is one of the opening songs of the Japanese Pikachu shorts.\n\nIt debuted in Camp Pikachu.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Full version"
+    ],
+    "characterCount": 317,
+    "sectionCount": 3
+  }
+}

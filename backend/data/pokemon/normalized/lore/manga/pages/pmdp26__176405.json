@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP26",
+    "slug": "pmdp26",
+    "pageId": 176405,
+    "revisionId": 4526256
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp26__176405.json",
+    "revisionTimestamp": "2026-04-09T14:30:16Z",
+    "fetchedAt": "2026-05-14T15:32:29.382Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: を につける！！ Learning a Special Move!!) is the twenty-sixth chapter of the manga.",
+  "plainText": "(Japanese: を につける！！ Learning a Special Move!!) is the twenty-sixth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( 's)\n( 's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: を につける！！ Learning a Special Move!!) is the twenty-sixth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( 's)\n( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP26",
+    "pageType": "chapter",
+    "searchableText": "PMDP26\nCategory:Pocket Monsters DP chapters\n(Japanese: を につける！！ Learning a Special Move!!) is the twenty-sixth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 224,
+    "sectionCount": 2
+  }
+}

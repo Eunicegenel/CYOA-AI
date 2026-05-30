@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Joshua (assistant)",
+    "slug": "joshua-assistant",
+    "pageId": 15631,
+    "revisionId": 4412353
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "joshua-assistant__15631.json",
+    "revisionTimestamp": "2025-11-02T18:42:31Z",
+    "fetchedAt": "2026-05-14T14:28:01.421Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Joshua (Japanese: ジョシュウ Joshū) is a minor recurring character in . He is Professor Birch's assistant.",
+  "plainText": "Joshua (Japanese: ジョシュウ Joshū) is a minor recurring character in . He is Professor Birch's assistant.\n\n==History==\nHe debuted in Get the Show on the Road. He was watching the lab while the Professor and searched for , who ran away after suffering an electrical overcharge during an earlier encounter with . When arrived to receive her first Pokémon, Joshua informed her that the Professor was busy. May then went off to look for Birch.\n\nIn A Six Pack Attack, Joshua was taking care of the Hoenn first partner Pokémon for Birch while he picked up from Littleroot Town's port. Oak, however, made his own way to the lab after having to wait a while for Birch. May, Max, and Oak remained with Joshua momentarily, but they quickly left him in charge of the lab after Team Rocket stole all of the first partner Pokémon. Joshua quickly alerted Birch to the situation via phone call.\n\nJoshua made a short cameo in The Mastermind of Mirage Pokémon after Dr. Yung stole his and Birch's data to help construct his Mirage Pokémon.\n\n==Character==\nJoshua is a reliable assistant, often reminding Professor Birch of things and taking care of the lab while the Professor is out on his field expeditions. He remains calm even when under pressure.\n\n==Voice actors==\n \n\n \n \n \n \n\nes:Joshua (ayudante)\nfr:Joshua (épisode 275)\nit:Joshua (assistente)\nzh:乔修",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Joshua (Japanese: ジョシュウ Joshū) is a minor recurring character in . He is Professor Birch's assistant."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "He debuted in Get the Show on the Road. He was watching the lab while the Professor and searched for , who ran away after suffering an electrical overcharge during an earlier encounter with . When arrived to receive her first Pokémon, Joshua informed her that the Professor was busy. May then went off to look for Birch.\n\nIn A Six Pack Attack, Joshua was taking care of the Hoenn first partner Pokémon for Birch while he picked up from Littleroot Town's port. Oak, however, made his own way to the lab after having to wait a while for Birch. May, Max, and Oak remained with Joshua momentarily, but they quickly left him in charge of the lab after Team Rocket stole all of the first partner Pokémon. Joshua quickly alerted Birch to the situation via phone call.\n\nJoshua made a short cameo in The Mastermind of Mirage Pokémon after Dr. Yung stole his and Birch's data to help construct his Mirage Pokémon."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Joshua is a reliable assistant, often reminding Professor Birch of things and taking care of the lab while the Professor is out on his field expeditions. He remains calm even when under pressure."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Joshua (ayudante)\nfr:Joshua (épisode 275)\nit:Joshua (assistente)\nzh:乔修"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Joshua (assistant)",
+    "pageType": "character",
+    "searchableText": "Joshua (assistant)\nCategory:Animation characters\nJoshua (Japanese: ジョシュウ Joshū) is a minor recurring character in . He is Professor Birch's assistant.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Voice actors"
+    ],
+    "characterCount": 1333,
+    "sectionCount": 4
+  }
+}

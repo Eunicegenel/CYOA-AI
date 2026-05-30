@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "PS494",
+    "slug": "ps494",
+    "pageId": 170687,
+    "revisionId": 4548918
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps494__170687.json",
+    "revisionTimestamp": "2026-05-11T00:48:55Z",
+    "fetchedAt": "2026-05-14T15:45:08.661Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Up in the Air (Japanese: VS ココロモリ VS Swoobat), titled VS Swoobat in the Shogakukan Asia translation, is the 494th chapter of the Pokémon Adventures manga, and the 34th chapter of the .\n\nIt is subtitled Swoobat (Japanese: 集合 Assembly) in the VIZ Media translation and Up in the Air in the Shogakukan Asia translation.",
+  "plainText": "Up in the Air (Japanese: VS ココロモリ VS Swoobat), titled VS Swoobat in the Shogakukan Asia translation, is the 494th chapter of the Pokémon Adventures manga, and the 34th chapter of the .\n\nIt is subtitled Swoobat (Japanese: 集合 Assembly) in the VIZ Media translation and Up in the Air in the Shogakukan Asia translation.\n\n==Plot==\n \n\n==Major events==\nmeets up with the other Gym Leaders.\nSkyla decides to battle Black in order to test him.\nThe Shadow Triad prepare to steal the Dark Stone.\n\n \n \n\n===Debuts===\nBrycen\n\n====Pokémon debuts====\n(female)\n\n==Characters==\n===Humans===\n\n(flashback)\nLenora\nBurgh\nElesa\nClay\nSkyla\nBrycen\nBronius (flashback)\nShadow Triad\nHawes\ns\n\n===Pokémon===\n(Brav; 's; flashback)\n(Nite; 's)\n(Burgh's)\n(Elesa's; x2)\n( )\n(Clay's)\n(Clay's)\n(Skyla's)\n(Skyla's)\n( )\n(Brycen's)\n\n \n\n==In other languages==\n \n \n \n \n\nde:VS. Fletiamo\nes:PMS494\nfr:Chapitre 494 (Pocket Monsters Special)\nit:LGA494\nzh:宝可梦特别篇 第494话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Up in the Air (Japanese: VS ココロモリ VS Swoobat), titled VS Swoobat in the Shogakukan Asia translation, is the 494th chapter of the Pokémon Adventures manga, and the 34th chapter of the .\n\nIt is subtitled Swoobat (Japanese: 集合 Assembly) in the VIZ Media translation and Up in the Air in the Shogakukan Asia translation."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "meets up with the other Gym Leaders.\nSkyla decides to battle Black in order to test him.\nThe Shadow Triad prepare to steal the Dark Stone."
+    },
+    {
+      "heading": "Debuts",
+      "level": 3,
+      "text": "Brycen"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(female)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(flashback)\nLenora\nBurgh\nElesa\nClay\nSkyla\nBrycen\nBronius (flashback)\nShadow Triad\nHawes\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Brav; 's; flashback)\n(Nite; 's)\n(Burgh's)\n(Elesa's; x2)\n( )\n(Clay's)\n(Clay's)\n(Skyla's)\n(Skyla's)\n( )\n(Brycen's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Fletiamo\nes:PMS494\nfr:Chapitre 494 (Pocket Monsters Special)\nit:LGA494\nzh:宝可梦特别篇 第494话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS494",
+    "pageType": "chapter",
+    "searchableText": "PS494\nCategory:Pokémon Adventures chapters\nUp in the Air (Japanese: VS ココロモリ VS Swoobat), titled VS Swoobat in the Shogakukan Asia translation, is the 494th chapter of the Pokémon Adventures manga, and the 34th chapter of the .\n\nIt is subtitled Swoobat (Japanese: 集合 Assembly) in the VIZ Media translation and Up in the Air in the Shogakukan Asia translation.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Debuts",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 923,
+    "sectionCount": 7
+  }
+}

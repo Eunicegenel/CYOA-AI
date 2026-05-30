@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB68",
+    "slug": "rb68",
+    "pageId": 165859,
+    "revisionId": 4255165
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb68__165859.json",
+    "revisionTimestamp": "2025-03-07T16:59:53Z",
+    "fetchedAt": "2026-05-14T15:47:58.701Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 強者の涙 A Warrior's Tears) is the 68th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 強者の涙 A Warrior's Tears) is the 68th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nFraud easily defeats Hariru and Carola.\nFearing that Fraud has become too powerful, Ryouga and the others immediately use the Compass of Light to go find Arcades.\nWith the tracer put on Yappy previously, Fraud can find out where Ryouga will meet his old arch-enemy, Arcades.\n\n===Debuts===\n\n====Pokémon debuts====\n==Characters==\n===Humans===\nCarola\nFraud\nHariru\nRyouga\nRug\nKaruta\nMiruto\nYappy\nGerubu\n\n===Pokémon===\n(Carola's)\n(Fraud's)\n(Hariru's)\n\n \n \n \n\n \n\nzh:RB68",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 強者の涙 A Warrior's Tears) is the 68th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Fraud easily defeats Hariru and Carola.\nFearing that Fraud has become too powerful, Ryouga and the others immediately use the Compass of Light to go find Arcades.\nWith the tracer put on Yappy previously, Fraud can find out where Ryouga will meet his old arch-enemy, Arcades."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Carola\nFraud\nHariru\nRyouga\nRug\nKaruta\nMiruto\nYappy\nGerubu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Carola's)\n(Fraud's)\n(Hariru's)\n\n \n \n \n\n \n\nzh:RB68"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB68",
+    "pageType": "chapter",
+    "searchableText": "RB68\nCategory:Pokémon RéBURST chapters\n(Japanese: 強者の涙 A Warrior's Tears) is the 68th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 579,
+    "sectionCount": 4
+  }
+}

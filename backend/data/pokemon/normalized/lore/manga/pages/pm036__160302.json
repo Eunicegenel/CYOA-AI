@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM036",
+    "slug": "pm036",
+    "pageId": 160302,
+    "revisionId": 4528209
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm036__160302.json",
+    "revisionTimestamp": "2026-04-09T16:10:15Z",
+    "fetchedAt": "2026-05-14T15:30:52.107Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Space Havoc!! (Japanese: 宇宙で大暴れ！！ Space Havoc!!) is the thirty-sixth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Space Havoc!! (Japanese: 宇宙で大暴れ！！ Space Havoc!!) is the thirty-sixth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\nLance's Dragonite\n\n==Characters==\n===Humans===\n\nLance\n\n===Pokémon===\n( ) \n( )\n( )\n(Lance's)\n(Lance's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 36 (Pokémon Pocket Monsters)\nit:PMM036",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Space Havoc!! (Japanese: 宇宙で大暴れ！！ Space Havoc!!) is the thirty-sixth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "Lance's Dragonite"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Lance"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(Lance's)\n(Lance's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 36 (Pokémon Pocket Monsters)\nit:PMM036"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM036",
+    "pageType": "chapter",
+    "searchableText": "PM036\nCategory:Pokémon Pocket Monsters chapters\nSpace Havoc!! (Japanese: 宇宙で大暴れ！！ Space Havoc!!) is the thirty-sixth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 352,
+    "sectionCount": 5
+  }
+}

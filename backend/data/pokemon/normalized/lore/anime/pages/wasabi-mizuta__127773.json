@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Wasabi Mizuta",
+    "slug": "wasabi-mizuta",
+    "pageId": 127773,
+    "revisionId": 4323710
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "wasabi-mizuta__127773.json",
+    "revisionTimestamp": "2025-06-24T03:34:50Z",
+    "fetchedAt": "2026-05-14T14:57:18.745Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Wasabi Mizuta (Japanese: 水田わさび Mizuta Wasabi) is a Japanese voice actress for .",
+  "plainText": "Wasabi Mizuta (Japanese: 水田わさび Mizuta Wasabi) is a Japanese voice actress for .\n\n==Biography==\nMizuta was born on August 4, 1975 in , , and became a voice actress as an adult. She began working on the at the start of , with her most notable role being that of Ash's Pignite. Mizuta is currently affiliated with .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\n\nKarena*\n\n======Minor======\ncheerleader (BW005-BW006)*\n(BW012)*\n\n=====Pokémon=====\n======Major======\n\n======Minor======\n(BW043)*\n\n \n\n==Other non-Pokémon roles==\nMizuta is probably best known for voicing in the long-running anime series of the same name since April 2005.\n\nDoraemon ( )\nMailpo ( )\nMegumi Hagi ( )\nPub Pub (Hero Hero-kun)\nTomonori Michitani ( )\nXiao ( )\nFunf ( )\n\n===Dubbing roles===\nGIR ( )\nT.J. Detweiler ( )\n\n==External links==\nAoni Production profile\n \n \n\nit:Wasabi Mizuta\nja:水田わさび",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Wasabi Mizuta (Japanese: 水田わさび Mizuta Wasabi) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Mizuta was born on August 4, 1975 in , , and became a voice actress as an adult. She began working on the at the start of , with her most notable role being that of Ash's Pignite. Mizuta is currently affiliated with ."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Karena*"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "cheerleader (BW005-BW006)*\n(BW012)*"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(BW043)*"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Mizuta is probably best known for voicing in the long-running anime series of the same name since April 2005.\n\nDoraemon ( )\nMailpo ( )\nMegumi Hagi ( )\nPub Pub (Hero Hero-kun)\nTomonori Michitani ( )\nXiao ( )\nFunf ( )"
+    },
+    {
+      "heading": "Dubbing roles",
+      "level": 3,
+      "text": "GIR ( )\nT.J. Detweiler ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Aoni Production profile\n \n \n\nit:Wasabi Mizuta\nja:水田わさび"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Wasabi Mizuta",
+    "pageType": "general-anime-lore",
+    "searchableText": "Wasabi Mizuta\nCategory:Japanese voice actors\nWasabi Mizuta (Japanese: 水田わさび Mizuta Wasabi) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Minor",
+      "Other non-Pokémon roles",
+      "Dubbing roles",
+      "External links"
+    ],
+    "characterCount": 892,
+    "sectionCount": 8
+  }
+}

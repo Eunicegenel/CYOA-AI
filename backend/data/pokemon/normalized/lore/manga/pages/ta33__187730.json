@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "TA33",
+    "slug": "ta33",
+    "pageId": 187730,
+    "revisionId": 2805067
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta33__187730.json",
+    "revisionTimestamp": "2018-06-09T05:44:44Z",
+    "fetchedAt": "2026-05-14T15:50:52.636Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 月夜の宝探し！ Moonlit Treasure Hunt!) is the 33rd chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 月夜の宝探し！ Moonlit Treasure Hunt!) is the 33rd chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\nManami\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 月夜の宝探し！ Moonlit Treasure Hunt!) is the 33rd chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty\nManami"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA33",
+    "pageType": "chapter",
+    "searchableText": "TA33\nCategory:Pokémon Try Adventure chapters\n(Japanese: 月夜の宝探し！ Moonlit Treasure Hunt!) is the 33rd chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 240,
+    "sectionCount": 2
+  }
+}

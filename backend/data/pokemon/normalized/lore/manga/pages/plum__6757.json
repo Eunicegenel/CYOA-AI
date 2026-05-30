@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Plum",
+    "slug": "plum",
+    "pageId": 6757,
+    "revisionId": 4134423
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey characters",
+    "sourceFileName": "plum__6757.json",
+    "revisionTimestamp": "2024-09-30T04:05:29Z",
+    "fetchedAt": "2026-05-14T15:30:28.455Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Plum (Japanese: プラム Plum) is an exorcist-in-training from the manga series Magical Pokémon Journey. She only appears in the chapter The Exorcist Nurse!!, where she banishes characters' dark Aura with her holy cross. She travels with her senior, , to build her exorcism skills.\n\nShe has a crush on Peanut, and moves in next-door to him after uncovering and failing to banish his overbearing dark Aura.",
+  "plainText": "Plum (Japanese: プラム Plum) is an exorcist-in-training from the manga series Magical Pokémon Journey. She only appears in the chapter The Exorcist Nurse!!, where she banishes characters' dark Aura with her holy cross. She travels with her senior, , to build her exorcism skills.\n\nShe has a crush on Peanut, and moves in next-door to him after uncovering and failing to banish his overbearing dark Aura.\n\n==Trivia==\nPlum's birthday being on March 14 is a reference to , which occurs on March 14, while her crush's birthday falls on , which occurs on February 14.\n\n==Related articles==\n \n \n \n \n \n\nit:Plum",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Plum (Japanese: プラム Plum) is an exorcist-in-training from the manga series Magical Pokémon Journey. She only appears in the chapter The Exorcist Nurse!!, where she banishes characters' dark Aura with her holy cross. She travels with her senior, , to build her exorcism skills.\n\nShe has a crush on Peanut, and moves in next-door to him after uncovering and failing to banish his overbearing dark Aura."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Plum's birthday being on March 14 is a reference to , which occurs on March 14, while her crush's birthday falls on , which occurs on February 14."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Plum"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Plum",
+    "pageType": "character",
+    "searchableText": "Plum\nCategory:Magical Pokémon Journey characters\nPlum (Japanese: プラム Plum) is an exorcist-in-training from the manga series Magical Pokémon Journey. She only appears in the chapter The Exorcist Nurse!!, where she banishes characters' dark Aura with her holy cross. She travels with her senior, , to build her exorcism skills.\n\nShe has a crush on Peanut, and moves in next-door to him after uncovering and failing to banish his overbearing dark Aura.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 600,
+    "sectionCount": 3
+  }
+}

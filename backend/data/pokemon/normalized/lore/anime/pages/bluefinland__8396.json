@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Bluefinland",
+    "slug": "bluefinland",
+    "pageId": 8396,
+    "revisionId": 4463366
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "bluefinland__8396.json",
+    "revisionTimestamp": "2026-01-06T19:01:01Z",
+    "fetchedAt": "2026-05-14T14:05:43.224Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Bluefinland (Japanese: ツナタウン Tuna Town) is an -exclusive location in Johto. It is a northern port town on Blue Point Isle that runs a ferry to Yellow Rock Isle. \n\n and wanted to get to Bluefinland in Takin' it on the Chinchou. However, they accidentally ended up in another town called Blue Lagoon. After Ash and his friends saved a group of from , the group now traveled to Bluefinland and took the ferry to Yellow Rock Isle. When the boat left, spotted a on the docks of Bluefinland, much to her delight.",
+  "plainText": "Bluefinland (Japanese: ツナタウン Tuna Town) is an -exclusive location in Johto. It is a northern port town on Blue Point Isle that runs a ferry to Yellow Rock Isle. \n\n and wanted to get to Bluefinland in Takin' it on the Chinchou. However, they accidentally ended up in another town called Blue Lagoon. After Ash and his friends saved a group of from , the group now traveled to Bluefinland and took the ferry to Yellow Rock Isle. When the boat left, spotted a on the docks of Bluefinland, much to her delight.\n\n==Pokémon seen in Bluefinland==\n \n\n==Name origin==\nBluefinland is probably a reference to , a country in Northern Europe. It may also come from , which is a species of tuna. Furthermore, it could be a pun on , an island that makes up the Canadian province .\n\n==In other languages==\n \n \n \n \n\n \n \n\nde:Thunfisch Town\nes:Bluefinland\nit:Terra della Pinna Blu\nzh:芝拿鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bluefinland (Japanese: ツナタウン Tuna Town) is an -exclusive location in Johto. It is a northern port town on Blue Point Isle that runs a ferry to Yellow Rock Isle. \n\n and wanted to get to Bluefinland in Takin' it on the Chinchou. However, they accidentally ended up in another town called Blue Lagoon. After Ash and his friends saved a group of from , the group now traveled to Bluefinland and took the ferry to Yellow Rock Isle. When the boat left, spotted a on the docks of Bluefinland, much to her delight."
+    },
+    {
+      "heading": "Name origin",
+      "level": 2,
+      "text": "Bluefinland is probably a reference to , a country in Northern Europe. It may also come from , which is a species of tuna. Furthermore, it could be a pun on , an island that makes up the Canadian province ."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Thunfisch Town\nes:Bluefinland\nit:Terra della Pinna Blu\nzh:芝拿鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bluefinland",
+    "pageType": "location",
+    "searchableText": "Bluefinland\nCategory:Animated series-exclusive locations\nBluefinland (Japanese: ツナタウン Tuna Town) is an -exclusive location in Johto. It is a northern port town on Blue Point Isle that runs a ferry to Yellow Rock Isle. \n\n and wanted to get to Bluefinland in Takin' it on the Chinchou. However, they accidentally ended up in another town called Blue Lagoon. After Ash and his friends saved a group of from , the group now traveled to Bluefinland and took the ferry to Yellow Rock Isle. When the boat left, spotted a on the docks of Bluefinland, much to her delight.",
+    "sectionHeadings": [
+      "Lead",
+      "Name origin",
+      "In other languages"
+    ],
+    "characterCount": 868,
+    "sectionCount": 3
+  }
+}

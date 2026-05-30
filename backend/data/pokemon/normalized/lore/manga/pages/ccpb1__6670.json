@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "CCPB1",
+    "slug": "ccpb1",
+    "pageId": 6670,
+    "revisionId": 4175906
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccpb1__6670.json",
+    "revisionTimestamp": "2024-11-06T03:09:21Z",
+    "fetchedAt": "2026-05-14T15:15:34.452Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: がんばってピカチュウ! Good Luck, Pikachu!) is the first bonus chapter in the Pokémon Chamo-Chamo ☆ Pretty ♪ manga. It is listed as a \"sister story\" to Chamo-Chamo ☆ Pretty ♪ and focuses on Hazel and the other main characters of Magical Pokémon Journey.",
+  "plainText": "(Japanese: がんばってピカチュウ! Good Luck, Pikachu!) is the first bonus chapter in the Pokémon Chamo-Chamo ☆ Pretty ♪ manga. It is listed as a \"sister story\" to Chamo-Chamo ☆ Pretty ♪ and focuses on Hazel and the other main characters of Magical Pokémon Journey.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHazel\nCoconut\nGrandpa\nAlmond\n\n===Pokémon===\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: がんばってピカチュウ! Good Luck, Pikachu!) is the first bonus chapter in the Pokémon Chamo-Chamo ☆ Pretty ♪ manga. It is listed as a \"sister story\" to Chamo-Chamo ☆ Pretty ♪ and focuses on Hazel and the other main characters of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nCoconut\nGrandpa\nAlmond"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCPB1",
+    "pageType": "chapter",
+    "searchableText": "CCPB1\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: がんばってピカチュウ! Good Luck, Pikachu!) is the first bonus chapter in the Pokémon Chamo-Chamo ☆ Pretty ♪ manga. It is listed as a \"sister story\" to Chamo-Chamo ☆ Pretty ♪ and focuses on Hazel and the other main characters of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 401,
+    "sectionCount": 3
+  }
+}

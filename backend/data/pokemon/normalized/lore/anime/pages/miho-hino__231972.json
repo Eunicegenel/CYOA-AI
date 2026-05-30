@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Miho Hino",
+    "slug": "miho-hino",
+    "pageId": 231972,
+    "revisionId": 4323482
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "miho-hino__231972.json",
+    "revisionTimestamp": "2025-06-24T03:31:01Z",
+    "fetchedAt": "2026-05-14T14:36:53.968Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Miho Hino (Japanese: 日野未歩 Hino Miho) is a Japanese voice actress for .",
+  "plainText": "Miho Hino (Japanese: 日野未歩 Hino Miho) is a Japanese voice actress for .\n\n==Biography==\nHino was born on February 4, 1982, in , , and became a voice actress as an adult. She provided her voice for Angie, 's friend from the Pokémon Summer Academy, during . Hino is affiliated with the talent agency Ken Production.\n\n==Pokémon roles==\n===Animation===\n==== ====\nAngie\n\n==Other non-Pokémon roles==\nElisa Doolittle ( )\nAkaspetchi ( )\nTeppei Kurimatsu, other characters ( , )\nYuzuru ( )\nToki ( )\nYukari Nishida ( )\nVarious characters ( )\nKagerou, Kizunameko ( )\nSumire Hara ( )\nOnarazumono ( )\nHanji Urabe ( )\n\n==External links==\nKen Production profile\n\n \n\n \n\nit:Miho Hino\nja:日野未歩",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Miho Hino (Japanese: 日野未歩 Hino Miho) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hino was born on February 4, 1982, in , , and became a voice actress as an adult. She provided her voice for Angie, 's friend from the Pokémon Summer Academy, during . Hino is affiliated with the talent agency Ken Production."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Angie"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Elisa Doolittle ( )\nAkaspetchi ( )\nTeppei Kurimatsu, other characters ( , )\nYuzuru ( )\nToki ( )\nYukari Nishida ( )\nVarious characters ( )\nKagerou, Kizunameko ( )\nSumire Hara ( )\nOnarazumono ( )\nHanji Urabe ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Ken Production profile\n\n \n\n \n\nit:Miho Hino\nja:日野未歩"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Miho Hino",
+    "pageType": "general-anime-lore",
+    "searchableText": "Miho Hino\nCategory:Japanese voice actors\nMiho Hino (Japanese: 日野未歩 Hino Miho) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 672,
+    "sectionCount": 5
+  }
+}

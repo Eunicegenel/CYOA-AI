@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP20",
+    "slug": "pmdp20",
+    "pageId": 176399,
+    "revisionId": 4528560
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp20__176399.json",
+    "revisionTimestamp": "2026-04-09T16:26:46Z",
+    "fetchedAt": "2026-05-14T15:32:25.660Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: セレブパーティーへようこそ！！ Welcome to the Celebrity Party!!) is the twentieth chapter of the manga.",
+  "plainText": "(Japanese: セレブパーティーへようこそ！！ Welcome to the Celebrity Party!!) is the twentieth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: セレブパーティーへようこそ！！ Welcome to the Celebrity Party!!) is the twentieth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP20",
+    "pageType": "chapter",
+    "searchableText": "PMDP20\nCategory:Pocket Monsters DP chapters\n(Japanese: セレブパーティーへようこそ！！ Welcome to the Celebrity Party!!) is the twentieth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 242,
+    "sectionCount": 2
+  }
+}

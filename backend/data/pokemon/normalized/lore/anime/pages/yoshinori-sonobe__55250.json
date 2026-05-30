@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Yoshinori Sonobe",
+    "slug": "yoshinori-sonobe",
+    "pageId": 55250,
+    "revisionId": 4323655
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "yoshinori-sonobe__55250.json",
+    "revisionTimestamp": "2025-06-24T03:33:55Z",
+    "fetchedAt": "2026-05-14T14:59:58.223Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yoshinori Sonobe (Japanese: 園部好徳 Sonobe Yoshinori) is a Japanese voice actor for .",
+  "plainText": "Yoshinori Sonobe (Japanese: 園部好徳 Sonobe Yoshinori) is a Japanese voice actor for .\n\n==Biography==\nSonobe was born on July 7, 1977, in , , and became a voice actor as an adult. He joined the during , but got his most notable role in that work, Pokémon Contest judge Mr. Sukizo, during and . Sonobe is currently affiliated with the talent agency .\n\n==Pokémon roles==\n===Animation===\n==== ====\n\nBlurt\nMr. Sukizo\n\n==Other non-Pokémon roles==\nYamada-kun ( )\nYuuji Kondou ( )\nVerona ( )\nMundock ( )\nDonny ( )\nOkada-sensei ( )\nMasashi Daihama ( )\nBuzz ( )\nKyoho ( )\nRazalus ( )\nDaiki Nakanishi ( )\nGao Shun ( )\nArano ( )\n\n==External links==\nProduction Baobab profile\n\n \n\n \n\nit:Yoshinori Sonobe\nja:園部好徳",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yoshinori Sonobe (Japanese: 園部好徳 Sonobe Yoshinori) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Sonobe was born on July 7, 1977, in , , and became a voice actor as an adult. He joined the during , but got his most notable role in that work, Pokémon Contest judge Mr. Sukizo, during and . Sonobe is currently affiliated with the talent agency ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Blurt\nMr. Sukizo"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Yamada-kun ( )\nYuuji Kondou ( )\nVerona ( )\nMundock ( )\nDonny ( )\nOkada-sensei ( )\nMasashi Daihama ( )\nBuzz ( )\nKyoho ( )\nRazalus ( )\nDaiki Nakanishi ( )\nGao Shun ( )\nArano ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Production Baobab profile\n\n \n\n \n\nit:Yoshinori Sonobe\nja:園部好徳"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yoshinori Sonobe",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yoshinori Sonobe\nCategory:Japanese voice actors\nYoshinori Sonobe (Japanese: 園部好徳 Sonobe Yoshinori) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 694,
+    "sectionCount": 5
+  }
+}

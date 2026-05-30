@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PDP28",
+    "slug": "pdp28",
+    "pageId": 179715,
+    "revisionId": 4528636
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp28__179715.json",
+    "revisionTimestamp": "2026-04-09T16:32:12Z",
+    "fetchedAt": "2026-05-14T15:29:52.988Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピカチュウ、海でピンチ! Pikachu, Pinch at the Sea!) is the twenty-eighth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: ピカチュウ、海でピンチ! Pikachu, Pinch at the Sea!) is the twenty-eighth chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n( ) \n\n( )\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n\n}}\n \n \n \n\nit:PDP28",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピカチュウ、海でピンチ! Pikachu, Pinch at the Sea!) is the twenty-eighth chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( ) \n\n( )"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n\n}}\n \n \n \n\nit:PDP28"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP28",
+    "pageType": "chapter",
+    "searchableText": "PDP28\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: ピカチュウ、海でピンチ! Pikachu, Pinch at the Sea!) is the twenty-eighth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 300,
+    "sectionCount": 3
+  }
+}

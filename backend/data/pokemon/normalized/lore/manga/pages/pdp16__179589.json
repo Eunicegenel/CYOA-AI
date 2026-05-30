@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PDP16",
+    "slug": "pdp16",
+    "pageId": 179589,
+    "revisionId": 4528529
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp16__179589.json",
+    "revisionTimestamp": "2026-04-09T16:25:22Z",
+    "fetchedAt": "2026-05-14T15:29:45.483Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: カバルドンのなぞ Mystery) is the sixteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: カバルドンのなぞ Mystery) is the sixteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(multiple)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: カバルドンのなぞ Mystery) is the sixteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(multiple)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP16",
+    "pageType": "chapter",
+    "searchableText": "PDP16\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: カバルドンのなぞ Mystery) is the sixteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 226,
+    "sectionCount": 2
+  }
+}

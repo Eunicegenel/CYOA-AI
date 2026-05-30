@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "JNM04",
+    "slug": "jnm04",
+    "pageId": 251983,
+    "revisionId": 4528287
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm04__251983.json",
+    "revisionTimestamp": "2026-04-09T16:13:35Z",
+    "fetchedAt": "2026-05-14T15:22:42.722Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Flash of the Titans! (Japanese: ダイマックスバトル！最強王者ダンデ！！ Battle! , The Greatest of Them All!!) is the fourth chapter of the manga. It is based on the animated series episode by the same name.",
+  "plainText": "Flash of the Titans! (Japanese: ダイマックスバトル！最強王者ダンデ！！ Battle! , The Greatest of Them All!!) is the fourth chapter of the manga. It is based on the animated series episode by the same name.\n\n==Plot==\n \n\n==Major events==\nand Goh travel to Galar again.\nAsh and Goh see .\nmakes their first appearance.\ndefeats in the finals of the World Coronation Series, becoming the Monarch in the process.\nAsh decides to challenge Leon.\nTeam Rocket tries and fails to a , inadvertently causing it to Gigantamax and start attacking Wyndon Stadium.\n\n===Debuts===\n====Humans====\nJessie\nJames\n\n====Pokémon debuts====\n( )\n( )\n( ; Red Gyarados; Dynamax)\n( ; Gigantamax)\n( )\n\n( )\n(Gigantamax)\n\n==Characters==\n===Humans===\n\nGoh\nJessie\nJames\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( ; Red Gyarados; Dynamax)\n( ; Gigantamax)\n( )\n(Team Rocket's)\n( ; Gigantamax; debut)\n( ; debut)\n\n==Differences between the animated series and the manga==\nThe chapter starts with and Goh on the plane to Galar.\nAs the events of Ivysaur's Mysterious Tower! were skipped, and the Rocket Prize Master debut here. Team Rocket also do not possess a Rotom Phone.\nDan is omitted.\n\n \n \n \n\nde:Auftritt der Titanen! (Pokémon Reisen)\nes:PV004\nit:JNM04",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Flash of the Titans! (Japanese: ダイマックスバトル！最強王者ダンデ！！ Battle! , The Greatest of Them All!!) is the fourth chapter of the manga. It is based on the animated series episode by the same name."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and Goh travel to Galar again.\nAsh and Goh see .\nmakes their first appearance.\ndefeats in the finals of the World Coronation Series, becoming the Monarch in the process.\nAsh decides to challenge Leon.\nTeam Rocket tries and fails to a , inadvertently causing it to Gigantamax and start attacking Wyndon Stadium."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Jessie\nJames"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )\n( ; Red Gyarados; Dynamax)\n( ; Gigantamax)\n( )\n\n( )\n(Gigantamax)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nJessie\nJames"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( ; Red Gyarados; Dynamax)\n( ; Gigantamax)\n( )\n(Team Rocket's)\n( ; Gigantamax; debut)\n( ; debut)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "The chapter starts with and Goh on the plane to Galar.\nAs the events of Ivysaur's Mysterious Tower! were skipped, and the Rocket Prize Master debut here. Team Rocket also do not possess a Rotom Phone.\nDan is omitted.\n\n \n \n \n\nde:Auftritt der Titanen! (Pokémon Reisen)\nes:PV004\nit:JNM04"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM04",
+    "pageType": "chapter",
+    "searchableText": "JNM04\nCategory:Pokémon Journeys chapters\nFlash of the Titans! (Japanese: ダイマックスバトル！最強王者ダンデ！！ Battle! , The Greatest of Them All!!) is the fourth chapter of the manga. It is based on the animated series episode by the same name.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 1185,
+    "sectionCount": 7
+  }
+}

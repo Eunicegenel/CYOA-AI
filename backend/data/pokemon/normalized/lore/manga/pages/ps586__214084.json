@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PS586",
+    "slug": "ps586",
+    "pageId": 214084,
+    "revisionId": 4450572
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps586__214084.json",
+    "revisionTimestamp": "2025-12-19T20:03:14Z",
+    "fetchedAt": "2026-05-14T15:46:07.206Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Zygarde Appears (Japanese: ジガルデ、現る Zygarde, Appear) is the 586th chapter of the Pokémon Adventures manga, and the 38th chapter of the .",
+  "plainText": "Zygarde Appears (Japanese: ジガルデ、現る Zygarde, Appear) is the 586th chapter of the Pokémon Adventures manga, and the 38th chapter of the .\n\n==Plot==\n \n\n==Major events==\nXerosic discovers that the stones on are primitive Absorbers, which will allow the ultimate weapon to be powered again.\nXerosic reveals he is aware of 's existence, having been told that Team Flare was under its surveillance after AZ escaped from being captured.\nXerosic checks on Essentia's vitals, only to find that she is in battle in Anistar City.\nand battle against Essentia, who struggles to fully control Xerxer due to its Legendary status.\nThe battle is interrupted by the arrival of Zygarde, forcing Essentia to attempt to capture it.\nand Diantha arrive, but are too late to stop Essentia from taking Zygarde and escaping.\nThe damage done to Essentia's suit prevents Xerosic from communicating with or controlling her anymore.\nProfessor Sycamore receives a call from Sina and Dexio, who inform him that Team Flare has gone into hiding at Pokémon Village.\n\n \n \n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Sycamore\nDiantha\nXerosic\nBryony\nEssentia\nAZ (flashback)\nSina\nDexio\ns\n\n===Pokémon===\n( )\n(Rute; 's; Mega Pinsir)\n(Xerxer; 's; Active Mode; temporarily controlled by Essentia)\n(Solsol; 's; Mega Absol)\n(Xerosic's; flashback)\n(Essentia's)\n(×4; Essentia's)\n( 's; new)\n( 's)\n\n==Trivia==\n \n \n \n \n\nde:Zygarde taucht auf\nes:PMS586\nfr:Chapitre 586 (Pocket Monsters Special)\nit:LGA586\nzh:宝可梦特别篇 第586话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Zygarde Appears (Japanese: ジガルデ、現る Zygarde, Appear) is the 586th chapter of the Pokémon Adventures manga, and the 38th chapter of the ."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Xerosic discovers that the stones on are primitive Absorbers, which will allow the ultimate weapon to be powered again.\nXerosic reveals he is aware of 's existence, having been told that Team Flare was under its surveillance after AZ escaped from being captured.\nXerosic checks on Essentia's vitals, only to find that she is in battle in Anistar City.\nand battle against Essentia, who struggles to fully control Xerxer due to its Legendary status.\nThe battle is interrupted by the arrival of Zygarde, forcing Essentia to attempt to capture it.\nand Diantha arrive, but are too late to stop Essentia from taking Zygarde and escaping.\nThe damage done to Essentia's suit prevents Xerosic from communicating with or controlling her anymore.\nProfessor Sycamore receives a call from Sina and Dexio, who inform him that Team Flare has gone into hiding at Pokémon Village."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Sycamore\nDiantha\nXerosic\nBryony\nEssentia\nAZ (flashback)\nSina\nDexio\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Rute; 's; Mega Pinsir)\n(Xerxer; 's; Active Mode; temporarily controlled by Essentia)\n(Solsol; 's; Mega Absol)\n(Xerosic's; flashback)\n(Essentia's)\n(×4; Essentia's)\n( 's; new)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Zygarde taucht auf\nes:PMS586\nfr:Chapitre 586 (Pocket Monsters Special)\nit:LGA586\nzh:宝可梦特别篇 第586话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS586",
+    "pageType": "chapter",
+    "searchableText": "PS586\nCategory:Pokémon Adventures chapters\nZygarde Appears (Japanese: ジガルデ、現る Zygarde, Appear) is the 586th chapter of the Pokémon Adventures manga, and the 38th chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1502,
+    "sectionCount": 5
+  }
+}

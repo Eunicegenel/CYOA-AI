@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PS491",
+    "slug": "ps491",
+    "pageId": 171124,
+    "revisionId": 4548610
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps491__171124.json",
+    "revisionTimestamp": "2026-05-11T00:34:03Z",
+    "fetchedAt": "2026-05-14T15:45:06.788Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Fight in a Cold Climate (Japanese: VS バニプッチ VS Vanillite), titled VS Vanillite in the Shogakukan Asia translation, is the 491st chapter of the Pokémon Adventures manga, and the 31st chapter of the .\n\nIt is subtitled Vanillite (Japanese: 冷凍 Freezing) in the VIZ Media translation and Fight in a Cold Climate in the Shogakukan Asia translation.",
+  "plainText": "Fight in a Cold Climate (Japanese: VS バニプッチ VS Vanillite), titled VS Vanillite in the Shogakukan Asia translation, is the 491st chapter of the Pokémon Adventures manga, and the 31st chapter of the .\n\nIt is subtitled Vanillite (Japanese: 冷凍 Freezing) in the VIZ Media translation and Fight in a Cold Climate in the Shogakukan Asia translation.\n\n==Plot==\n \n\n==Major events==\nmeets up with again.\nTeam Plasma steals Cheren's Snivy.\nBlack and Cheren defeat Team Plasma and rescue Snivy.\n\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n(fantasy)\nZinzolin\ns\nMove Tutor\n\n===Pokémon===\n(Musha; 's)\n(Nite; 's)\n(Tula; 's)\n(Costa; 's)\n( )\n( 's; evolves)\n( 's; newly evolved)\n(Team Plasma's)\n(Team Plasma's; x2)\n\n \n\n==In other languages==\n \n \n \n \n\nde:VS. Gelatini\nes:PMS491\nfr:Chapitre 491 (Pocket Monsters Special)\nit:LGA491\nzh:宝可梦特别篇 第491话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Fight in a Cold Climate (Japanese: VS バニプッチ VS Vanillite), titled VS Vanillite in the Shogakukan Asia translation, is the 491st chapter of the Pokémon Adventures manga, and the 31st chapter of the .\n\nIt is subtitled Vanillite (Japanese: 冷凍 Freezing) in the VIZ Media translation and Fight in a Cold Climate in the Shogakukan Asia translation."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "meets up with again.\nTeam Plasma steals Cheren's Snivy.\nBlack and Cheren defeat Team Plasma and rescue Snivy."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(fantasy)\nZinzolin\ns\nMove Tutor"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Musha; 's)\n(Nite; 's)\n(Tula; 's)\n(Costa; 's)\n( )\n( 's; evolves)\n( 's; newly evolved)\n(Team Plasma's)\n(Team Plasma's; x2)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Gelatini\nes:PMS491\nfr:Chapitre 491 (Pocket Monsters Special)\nit:LGA491\nzh:宝可梦特别篇 第491话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS491",
+    "pageType": "chapter",
+    "searchableText": "PS491\nCategory:Pokémon Adventures chapters\nFight in a Cold Climate (Japanese: VS バニプッチ VS Vanillite), titled VS Vanillite in the Shogakukan Asia translation, is the 491st chapter of the Pokémon Adventures manga, and the 31st chapter of the .\n\nIt is subtitled Vanillite (Japanese: 冷凍 Freezing) in the VIZ Media translation and Fight in a Cold Climate in the Shogakukan Asia translation.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 853,
+    "sectionCount": 5
+  }
+}

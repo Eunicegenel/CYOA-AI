@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "QPL07",
+    "slug": "qpl07",
+    "pageId": 180586,
+    "revisionId": 4231329
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters",
+    "sourceFileName": "qpl07__180586.json",
+    "revisionTimestamp": "2025-01-31T11:06:49Z",
+    "fetchedAt": "2026-05-14T15:47:02.911Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: Which Great Detective Should I Pick, Pikka!!) is the seventh chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+  "plainText": "(Japanese: Which Great Detective Should I Pick, Pikka!!) is the seventh chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n\n==Characters==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: Which Great Detective Should I Pick, Pikka!!) is the seventh chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "QPL07",
+    "pageType": "chapter",
+    "searchableText": "QPL07\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters\n(Japanese: Which Great Detective Should I Pick, Pikka!!) is the seventh chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 208,
+    "sectionCount": 1
+  }
+}

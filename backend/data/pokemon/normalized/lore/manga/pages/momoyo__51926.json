@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Momoyo",
+    "slug": "momoyo",
+    "pageId": 51926,
+    "revisionId": 4528415
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "momoyo__51926.json",
+    "revisionTimestamp": "2026-04-09T16:19:49Z",
+    "fetchedAt": "2026-05-14T15:26:56.051Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: モモヨ Momoyo) is a character who appeared in Pokémon: Yeah! I Got Pokémon!.",
+  "plainText": "(Japanese: モモヨ Momoyo) is a character who appeared in Pokémon: Yeah! I Got Pokémon!.\n\n==History==\nMomoyo appeared in GDZ45, where she accidentally bumped into Shu. This caused her leg to get broken and Hinako who was riding by on a made fun of her. Shu volunteered to take Momoyo's place and disguised himself as a girl.\n\nLater, after Shu won the race and saved Hinako from falling, Momoyo laughed at Shu after he was crowned as Miss Empress.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: モモヨ Momoyo) is a character who appeared in Pokémon: Yeah! I Got Pokémon!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Momoyo appeared in GDZ45, where she accidentally bumped into Shu. This caused her leg to get broken and Hinako who was riding by on a made fun of her. Shu volunteered to take Momoyo's place and disguised himself as a girl.\n\nLater, after Shu won the race and saved Hinako from falling, Momoyo laughed at Shu after he was crowned as Miss Empress."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Momoyo",
+    "pageType": "character",
+    "searchableText": "Momoyo\nCategory:Pokémon: Yeah! I Got Pokémon! characters\n(Japanese: モモヨ Momoyo) is a character who appeared in Pokémon: Yeah! I Got Pokémon!.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 442,
+    "sectionCount": 2
+  }
+}

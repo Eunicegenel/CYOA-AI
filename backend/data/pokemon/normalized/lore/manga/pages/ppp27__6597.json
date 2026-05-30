@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PPP27",
+    "slug": "ppp27",
+    "pageId": 6597,
+    "revisionId": 4104064
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp27__6597.json",
+    "revisionTimestamp": "2024-09-04T21:47:02Z",
+    "fetchedAt": "2026-05-14T15:38:53.447Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Hypnotism (Japanese: アーモンドのホントのきもち？ Almond's True Feelings?) is the 27th chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Hypnotism (Japanese: アーモンドのホントのきもち？ Almond's True Feelings?) is the 27th chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nImpatient to find out whether Almond loves her or Hazel, Coconut hypnotizes and interrogates him.\n\n==Major events==\n \nCoconut hypnotizes Almond in an attempt to find out if he loves her or Hazel. Almond fails to provide an answer, leaving both girls wondering which one of them will end up with him.\n \n\n==Characters==\n===Humans===\nHazel\nAlmond\nCoconut\nGrandpa\nPokémon Fan Club Chairman (fantasy)\nPokémon Fan Club members (fantasy)\n\n===Pokémon===\n( )\n( )\n( )\n( )\n \n \n \n \n\n \n\nit:PPP27",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hypnotism (Japanese: アーモンドのホントのきもち？ Almond's True Feelings?) is the 27th chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Impatient to find out whether Almond loves her or Hazel, Coconut hypnotizes and interrogates him."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Coconut hypnotizes Almond in an attempt to find out if he loves her or Hazel. Almond fails to provide an answer, leaving both girls wondering which one of them will end up with him."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nAlmond\nCoconut\nGrandpa\nPokémon Fan Club Chairman (fantasy)\nPokémon Fan Club members (fantasy)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n \n \n \n \n\n \n\nit:PPP27"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP27",
+    "pageType": "chapter",
+    "searchableText": "PPP27\nCategory:Magical Pokémon Journey chapters\nHypnotism (Japanese: アーモンドのホントのきもち？ Almond's True Feelings?) is the 27th chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 613,
+    "sectionCount": 5
+  }
+}

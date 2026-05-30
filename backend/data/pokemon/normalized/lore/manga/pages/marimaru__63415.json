@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Marimaru",
+    "slug": "marimaru",
+    "pageId": 63415,
+    "revisionId": 4527831
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga characters (Pokémon)",
+    "sourceFileName": "marimaru__63415.json",
+    "revisionTimestamp": "2026-04-09T15:55:26Z",
+    "fetchedAt": "2026-05-14T15:25:50.991Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Marimaru (Japanese: マリ丸 Mali-Maru) is a Marill who appeared in Magical Pokémon Journey. She is Apricot's ninja partner, with both of them training under Marimaru's mother, Madam Azumarill.",
+  "plainText": "Marimaru (Japanese: マリ丸 Mali-Maru) is a Marill who appeared in Magical Pokémon Journey. She is Apricot's ninja partner, with both of them training under Marimaru's mother, Madam Azumarill.\n \n==Moves used==\n \n \n \n \n \n\n==Related articles==\n \n\n \n \n \n \n\n \n \n \n \n \n\nit:Marimaru\nja:マリ丸",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Marimaru (Japanese: マリ丸 Mali-Maru) is a Marill who appeared in Magical Pokémon Journey. She is Apricot's ninja partner, with both of them training under Marimaru's mother, Madam Azumarill."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Marimaru\nja:マリ丸"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Marimaru",
+    "pageType": "character",
+    "searchableText": "Marimaru\nCategory:Manga characters (Pokémon)\nMarimaru (Japanese: マリ丸 Mali-Maru) is a Marill who appeared in Magical Pokémon Journey. She is Apricot's ninja partner, with both of them training under Marimaru's mother, Madam Azumarill.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 279,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CPIW2",
+    "slug": "cpiw2",
+    "pageId": 215454,
+    "revisionId": 4526484
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom chapters",
+    "sourceFileName": "cpiw2__215454.json",
+    "revisionTimestamp": "2026-04-09T14:49:58Z",
+    "fetchedAt": "2026-05-14T15:16:23.926Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 藍き英知, アルファ!! Indigo Wisdom, Alpha!!) is the second chapter of the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga created by 秦槙吾 Shingo Hatha.",
+  "plainText": "(Japanese: 藍き英知, アルファ!! Indigo Wisdom, Alpha!!) is the second chapter of the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga created by 秦槙吾 Shingo Hatha.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n\n===Humans===\n\n===Pokémon===\n\n \n \n \n\nit:CPIW2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 藍き英知, アルファ!! Indigo Wisdom, Alpha!!) is the second chapter of the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga created by 秦槙吾 Shingo Hatha."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "it:CPIW2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CPIW2",
+    "pageType": "chapter",
+    "searchableText": "CPIW2\nCategory:Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom chapters\n(Japanese: 藍き英知, アルファ!! Indigo Wisdom, Alpha!!) is the second chapter of the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga created by 秦槙吾 Shingo Hatha.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 317,
+    "sectionCount": 2
+  }
+}

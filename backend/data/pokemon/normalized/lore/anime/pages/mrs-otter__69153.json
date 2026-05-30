@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mrs. Otter",
+    "slug": "mrs-otter",
+    "pageId": 69153,
+    "revisionId": 4357303
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "mrs-otter__69153.json",
+    "revisionTimestamp": "2025-08-12T21:49:24Z",
+    "fetchedAt": "2026-05-14T14:38:29.769Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mrs. Otter (Japanese: おタネ Otane) is a character of the day who appeared in Pokéblock, Stock, and Berry. Her name in the English dub was only revealed through the closed captions available on Prime Video.\n\nMrs. Otter runs the store single-handedly and keeps her Pokéblock recipes secret, even from her daughter . She sources her from the freshest source, the Lilycove Berry Market. She stocks many varieties and also makes special order batches. Mrs. Otter also uses her store as a training school, as she went on to teach how to make her own Pokéblocks using a Berry Blender.",
+  "plainText": "Mrs. Otter (Japanese: おタネ Otane) is a character of the day who appeared in Pokéblock, Stock, and Berry. Her name in the English dub was only revealed through the closed captions available on Prime Video.\n\nMrs. Otter runs the store single-handedly and keeps her Pokéblock recipes secret, even from her daughter . She sources her from the freshest source, the Lilycove Berry Market. She stocks many varieties and also makes special order batches. Mrs. Otter also uses her store as a training school, as she went on to teach how to make her own Pokéblocks using a Berry Blender.\n\n==Voice actresses==\n \n\n==Trivia==\nThree different women with a strong resemblance to Mrs. Otter appeared in A Goldenrod Opportunity, The Art of Pokémon, and Beauties Battling for Pride and Prestige!.\n \n\n \n\n \n \n \n \n\nes:Otane\nit:Mrs. Otter\nzh:高丽",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mrs. Otter (Japanese: おタネ Otane) is a character of the day who appeared in Pokéblock, Stock, and Berry. Her name in the English dub was only revealed through the closed captions available on Prime Video.\n\nMrs. Otter runs the store single-handedly and keeps her Pokéblock recipes secret, even from her daughter . She sources her from the freshest source, the Lilycove Berry Market. She stocks many varieties and also makes special order batches. Mrs. Otter also uses her store as a training school, as she went on to teach how to make her own Pokéblocks using a Berry Blender."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Three different women with a strong resemblance to Mrs. Otter appeared in A Goldenrod Opportunity, The Art of Pokémon, and Beauties Battling for Pride and Prestige!.\n \n\n \n\n \n \n \n \n\nes:Otane\nit:Mrs. Otter\nzh:高丽"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mrs. Otter",
+    "pageType": "character",
+    "searchableText": "Mrs. Otter\nCategory:Hoenn characters of the day\nMrs. Otter (Japanese: おタネ Otane) is a character of the day who appeared in Pokéblock, Stock, and Berry. Her name in the English dub was only revealed through the closed captions available on Prime Video.\n\nMrs. Otter runs the store single-handedly and keeps her Pokéblock recipes secret, even from her daughter . She sources her from the freshest source, the Lilycove Berry Market. She stocks many varieties and also makes special order batches. Mrs. Otter also uses her store as a training school, as she went on to teach how to make her own Pokéblocks using a Berry Blender.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 820,
+    "sectionCount": 2
+  }
+}

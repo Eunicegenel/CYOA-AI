@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Sonny",
+    "slug": "sonny",
+    "pageId": 37540,
+    "revisionId": 4201561
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "sonny__37540.json",
+    "revisionTimestamp": "2024-12-12T05:15:17Z",
+    "fetchedAt": "2026-05-14T14:51:52.661Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Sonny (Japanese: ソノタ Sonota) is a character of the day who appeared in Cruisin' for a Losin. He is a Pokémon Coordinator.\n\nSonny entered the R1 Rubello Town Pokémon Contest with his . After advancing through the Appeals Round, he faced off against Drew in the first match of the Battle Round. Sonny hoped that he would defeat the Coordinator and take home the Rubello Town Ribbon. Unfortunately, Drew and his proved to be stronger than he had hoped, and Sonny and his Girafarig were defeated.",
+  "plainText": "Sonny (Japanese: ソノタ Sonota) is a character of the day who appeared in Cruisin' for a Losin. He is a Pokémon Coordinator.\n\nSonny entered the R1 Rubello Town Pokémon Contest with his . After advancing through the Appeals Round, he faced off against Drew in the first match of the Battle Round. Sonny hoped that he would defeat the Coordinator and take home the Rubello Town Ribbon. Unfortunately, Drew and his proved to be stronger than he had hoped, and Sonny and his Girafarig were defeated.\n\n==Pokémon==\nThis listing is of Sonny's known in :\n \n\n==Contests==\n===Hoenn Ribbons===\nThis listing is of the Ribbons Sonny has obtained in the Hoenn region:\nAt least one Ribbon (prior to Cruisin' for a Losin)\n\n===Other achievements===\nSonny has competed in the following Pokémon Contests:\nContest - Top 4 (Cruisin' for a Losin)\n\n==Voice actors==\n \n\n==Names==\n \n \n \n \n \n \n \n\nde:Sannie\nes:Sonny\nfr:Sonny\nit:Sonny (RZ078)\nzh:园田",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sonny (Japanese: ソノタ Sonota) is a character of the day who appeared in Cruisin' for a Losin. He is a Pokémon Coordinator.\n\nSonny entered the R1 Rubello Town Pokémon Contest with his . After advancing through the Appeals Round, he faced off against Drew in the first match of the Battle Round. Sonny hoped that he would defeat the Coordinator and take home the Rubello Town Ribbon. Unfortunately, Drew and his proved to be stronger than he had hoped, and Sonny and his Girafarig were defeated."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Sonny's known in :"
+    },
+    {
+      "heading": "Hoenn Ribbons",
+      "level": 3,
+      "text": "This listing is of the Ribbons Sonny has obtained in the Hoenn region:\nAt least one Ribbon (prior to Cruisin' for a Losin)"
+    },
+    {
+      "heading": "Other achievements",
+      "level": 3,
+      "text": "Sonny has competed in the following Pokémon Contests:\nContest - Top 4 (Cruisin' for a Losin)"
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:Sannie\nes:Sonny\nfr:Sonny\nit:Sonny (RZ078)\nzh:园田"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sonny",
+    "pageType": "character",
+    "searchableText": "Sonny\nCategory:Hoenn characters of the day\nSonny (Japanese: ソノタ Sonota) is a character of the day who appeared in Cruisin' for a Losin. He is a Pokémon Coordinator.\n\nSonny entered the R1 Rubello Town Pokémon Contest with his . After advancing through the Appeals Round, he faced off against Drew in the first match of the Battle Round. Sonny hoped that he would defeat the Coordinator and take home the Rubello Town Ribbon. Unfortunately, Drew and his proved to be stronger than he had hoped, and Sonny and his Girafarig were defeated.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Hoenn Ribbons",
+      "Other achievements",
+      "Names"
+    ],
+    "characterCount": 918,
+    "sectionCount": 5
+  }
+}

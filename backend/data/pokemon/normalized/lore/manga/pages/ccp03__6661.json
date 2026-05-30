@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "CCP03",
+    "slug": "ccp03",
+    "pageId": 6661,
+    "revisionId": 4528700
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp03__6661.json",
+    "revisionTimestamp": "2026-04-09T16:44:37Z",
+    "fetchedAt": "2026-05-14T15:15:09.355Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 馬鹿キモリ登場ちゃも! Enter the Idiot Treecko (chamo!)) is the third chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: 馬鹿キモリ登場ちゃも! Enter the Idiot Treecko (chamo!)) is the third chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n meets an insane whose hobby is stealing the feathers from bird Pokémon, and now he'll take hers, by hook or by crook! \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 馬鹿キモリ登場ちゃも! Enter the Idiot Treecko (chamo!)) is the third chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "meets an insane whose hobby is stealing the feathers from bird Pokémon, and now he'll take hers, by hook or by crook!"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Pokémon Chamo-Chamo ☆ Pretty ♪)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP03",
+    "pageType": "chapter",
+    "searchableText": "CCP03\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: 馬鹿キモリ登場ちゃも! Enter the Idiot Treecko (chamo!)) is the third chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 439,
+    "sectionCount": 4
+  }
+}

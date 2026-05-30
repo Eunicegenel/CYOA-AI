@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Nana Mizuki",
+    "slug": "nana-mizuki",
+    "pageId": 99491,
+    "revisionId": 4327730
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "nana-mizuki__99491.json",
+    "revisionTimestamp": "2025-07-01T05:58:21Z",
+    "fetchedAt": "2026-05-14T14:38:48.767Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Nana Mizuki (Japanese: 水樹奈々 Mizuki Nana) is a Japanese voice actress for .",
+  "plainText": "Nana Mizuki (Japanese: 水樹奈々 Mizuki Nana) is a Japanese voice actress for .\n\n==Biography==\nMizuki was born on January 21, 1980 as Nana Kondō (Japanese: Kondō Nana) in , , . She began training for singing enka when she was five years old. She entered arts course in Horikoshi High School, but despite having an agent, she was not able to make an enka debut. Around the same time, she entered a voice actress course, she finally debuted as a voice actress in 1997.\n\nMizuki occasionally provided voices for starting in . She is most notable for voicing Audrey in the seventh movie and in the fourteenth movie. Additionally, she has released a number of music singles, not in the enka genre, but in J-Pop, EDM, and rock. As to date, she has 31 singles and is the only voice actress to perform alone at the annual Kōhaku Uta Gassen, considered an honor for singers in Japan.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nAudrey\n(Message from the Aurora)\n\n=====Pokémon=====\n( )\n\n==Other non-Pokémon roles==\n===Anime roles===\nHinata Hyūga ( , )\nFate Testarossa, Alicia Testarossa ( )\nRue Kuroha / Princess Kraehe ( )\nWrath ( )\nOboro ( )\nUtau Hoshina ( )\nMisaki Kirihara ( )\nMoka Akashiya ( )\nTorou ( )\nMichella Watch ( )\nVanessa Enoteca ( )\nMargaret Lyonesse ( )\nAnn Takamaki ( )\nTsubomi Hanasaki/Cure Blossom ( )\nColon ( )\nMio ( )\nKozuki Hiyori ( )\nPrincess Kakyuu (Sailor Moon Cosmos)\nSelene ( )\n\n===Dubbing roles===\nas ( ) ( )\nAlexandra Daniels as Carol Danvers/Captain Marvel ( )\nas Katniss Everdeen ( )\n\n===Video games===\nFragile ( , )\n\n==External links==\nOfficial website\n\n \n \n\nit:Nana Mizuki\nja:水樹奈々\nzh:水树奈奈",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Nana Mizuki (Japanese: 水樹奈々 Mizuki Nana) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Mizuki was born on January 21, 1980 as Nana Kondō (Japanese: Kondō Nana) in , , . She began training for singing enka when she was five years old. She entered arts course in Horikoshi High School, but despite having an agent, she was not able to make an enka debut. Around the same time, she entered a voice actress course, she finally debuted as a voice actress in 1997.\n\nMizuki occasionally provided voices for starting in . She is most notable for voicing Audrey in the seventh movie and in the fourteenth movie. Additionally, she has released a number of music singles, not in the enka genre, but in J-Pop, EDM, and rock. As to date, she has 31 singles and is the only voice actress to perform alone at the annual Kōhaku Uta Gassen, considered an honor for singers in Japan."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Audrey\n(Message from the Aurora)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "( )"
+    },
+    {
+      "heading": "Anime roles",
+      "level": 3,
+      "text": "Hinata Hyūga ( , )\nFate Testarossa, Alicia Testarossa ( )\nRue Kuroha / Princess Kraehe ( )\nWrath ( )\nOboro ( )\nUtau Hoshina ( )\nMisaki Kirihara ( )\nMoka Akashiya ( )\nTorou ( )\nMichella Watch ( )\nVanessa Enoteca ( )\nMargaret Lyonesse ( )\nAnn Takamaki ( )\nTsubomi Hanasaki/Cure Blossom ( )\nColon ( )\nMio ( )\nKozuki Hiyori ( )\nPrincess Kakyuu (Sailor Moon Cosmos)\nSelene ( )"
+    },
+    {
+      "heading": "Dubbing roles",
+      "level": 3,
+      "text": "as ( ) ( )\nAlexandra Daniels as Carol Danvers/Captain Marvel ( )\nas Katniss Everdeen ( )"
+    },
+    {
+      "heading": "Video games",
+      "level": 3,
+      "text": "Fragile ( , )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\n\n \n \n\nit:Nana Mizuki\nja:水樹奈々\nzh:水树奈奈"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Nana Mizuki",
+    "pageType": "general-anime-lore",
+    "searchableText": "Nana Mizuki\nCategory:Japanese voice actors\nNana Mizuki (Japanese: 水樹奈々 Mizuki Nana) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "Anime roles",
+      "Dubbing roles",
+      "Video games",
+      "External links"
+    ],
+    "characterCount": 1622,
+    "sectionCount": 8
+  }
+}

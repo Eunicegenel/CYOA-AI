@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Samia Mounts",
+    "slug": "samia-mounts",
+    "pageId": 232363,
+    "revisionId": 4341994
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "samia-mounts__232363.json",
+    "revisionTimestamp": "2025-07-24T15:17:29Z",
+    "fetchedAt": "2026-05-14T14:48:10.960Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Samia Mounts is an American voice actor for the English-language dub of .",
+  "plainText": "Samia Mounts is an American voice actor for the English-language dub of .\n\n==Biography==\nMounts graduated from the Boston Conservatory and became an actor and singer as an adult. They joined the during , most notably voicing the Douse Drive Genesect in the sixteenth movie. Their roles in the Pokémon franchise were among their first acting credentials. After their work on Pokémon, Mounts went on to play and voice a couple of roles in other works. They would later return to the franchise in , most notably voicing Briar.\n\nMounts is non-binary and uses they/them pronouns.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nOfficer Jenny (SM009-SM039)\n\nBilly Jo\n\n=====Pokémon=====\nDouse Drive Genesect\n\n==== ====\n=====Humans=====\nBriar\n\n=====Pokémon=====\n\n==Other non-Pokémon roles==\nDominatrix (Plant)\nO-Mine ( )\n\n===Video game roles===\nAyawaska, Katerina Drozdolova, additional voices ( )\n\n==External links==\nOfficial website\nSecond official website\nBackstage profile\nFacebook\nTwitter\nInstagram\n\n \n\n \n\nit:Samia Mounts",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Samia Mounts is an American voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Mounts graduated from the Boston Conservatory and became an actor and singer as an adult. They joined the during , most notably voicing the Douse Drive Genesect in the sixteenth movie. Their roles in the Pokémon franchise were among their first acting credentials. After their work on Pokémon, Mounts went on to play and voice a couple of roles in other works. They would later return to the franchise in , most notably voicing Briar.\n\nMounts is non-binary and uses they/them pronouns."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Officer Jenny (SM009-SM039)\n\nBilly Jo"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "Douse Drive Genesect"
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Briar"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Dominatrix (Plant)\nO-Mine ( )"
+    },
+    {
+      "heading": "Video game roles",
+      "level": 3,
+      "text": "Ayawaska, Katerina Drozdolova, additional voices ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nSecond official website\nBackstage profile\nFacebook\nTwitter\nInstagram\n\n \n\n \n\nit:Samia Mounts"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Samia Mounts",
+    "pageType": "general-anime-lore",
+    "searchableText": "Samia Mounts\nCategory:TPCi voice actors\nSamia Mounts is an American voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "Humans",
+      "Other non-Pokémon roles",
+      "Video game roles",
+      "External links"
+    ],
+    "characterCount": 1032,
+    "sectionCount": 8
+  }
+}

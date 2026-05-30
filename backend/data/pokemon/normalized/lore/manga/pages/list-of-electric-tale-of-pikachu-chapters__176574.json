@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Electric Tale of Pikachu chapters",
+    "slug": "list-of-electric-tale-of-pikachu-chapters",
+    "pageId": 176574,
+    "revisionId": 4130819
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu chapters",
+    "sourceFileName": "list-of-electric-tale-of-pikachu-chapters__176574.json",
+    "revisionTimestamp": "2024-09-29T03:53:29Z",
+    "fetchedAt": "2026-05-14T15:24:27.639Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The following is a list of chapters from the manga series The Electric Tale of Pikachu created by 小野 敏洋 Toshihiro Ono. Altogether, there are 20 chapters.",
+  "plainText": "The following is a list of chapters from the manga series The Electric Tale of Pikachu created by 小野 敏洋 Toshihiro Ono. Altogether, there are 20 chapters.\n\n==List of chapters==\n \n \n\n \n\n \n \n\nit:Elenco dei capitoli di The Electric Tale of Pikachu\nzh:电击皮卡丘回数列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of chapters from the manga series The Electric Tale of Pikachu created by 小野 敏洋 Toshihiro Ono. Altogether, there are 20 chapters."
+    },
+    {
+      "heading": "List of chapters",
+      "level": 2,
+      "text": "it:Elenco dei capitoli di The Electric Tale of Pikachu\nzh:电击皮卡丘回数列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Electric Tale of Pikachu chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Electric Tale of Pikachu chapters\nCategory:Electric Tale of Pikachu chapters\nThe following is a list of chapters from the manga series The Electric Tale of Pikachu created by 小野 敏洋 Toshihiro Ono. Altogether, there are 20 chapters.",
+    "sectionHeadings": [
+      "Lead",
+      "List of chapters"
+    ],
+    "characterCount": 256,
+    "sectionCount": 2
+  }
+}

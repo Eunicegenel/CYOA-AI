@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Join the Band",
+    "slug": "join-the-band",
+    "pageId": 208954,
+    "revisionId": 4220558
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:English ending themes",
+    "sourceFileName": "join-the-band__208954.json",
+    "revisionTimestamp": "2025-01-13T23:26:09Z",
+    "fetchedAt": "2026-05-14T14:27:58.275Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Join the Band is the English ending theme for Pikachu and the Pokémon Music Squad. It borrows musically from the equivalent Japanese ending theme, Roaring All-Stars. It is included on the Pokémon Movie Music Collection album.",
+  "plainText": "Join the Band is the English ending theme for Pikachu and the Pokémon Music Squad. It borrows musically from the equivalent Japanese ending theme, Roaring All-Stars. It is included on the Pokémon Movie Music Collection album.\n\n==Lyrics==\n Tell me, do you like singin'?\nDo you like to dance?\nDo you like making lots of noise?\nCome join the band\n\nYou can be a big rock star\nGive yourself a chance\nRaise your hands up, girls and boys\nAnd join the band\n\n'Cause music is the only language everybody understands\nSo get on board (get on board)\nGet ready to rock and join the band\n\nDo you wanna make magic?\nDo you wanna groove?\nDo you wanna just jump around and scream?\nGet in the band\n\nDo you wanna tell stories?\nDo you maybe wanna, bust a move?\nDo you wanna live your dream?\nCome join the band\n\n'Cause music is the only language everybody understands\nGet on board (get on board)\nGet ready to rock and join the band\n\nTell me, do you like singin'?\nDo you like to dance?\nDo you like makin' people happy?\nCome join the band\n\nYou know that you're a rock star\nGive yourself a chance\nRaise your hands up, girls and boys\nAnd join the band \n\n==Credits==\nMusic and lyrics by Ed Goldfarb\nLead vocals by Haven Paschall\nMixed by Jeff Stewart Saltzman\n\n==In other languages==\n \n\n==Related articles==\n \n \n \n\nde:Join the Band\nes:Únete\nit:Nella band",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Join the Band is the English ending theme for Pikachu and the Pokémon Music Squad. It borrows musically from the equivalent Japanese ending theme, Roaring All-Stars. It is included on the Pokémon Movie Music Collection album."
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "Tell me, do you like singin'?\nDo you like to dance?\nDo you like making lots of noise?\nCome join the band\n\nYou can be a big rock star\nGive yourself a chance\nRaise your hands up, girls and boys\nAnd join the band\n\n'Cause music is the only language everybody understands\nSo get on board (get on board)\nGet ready to rock and join the band\n\nDo you wanna make magic?\nDo you wanna groove?\nDo you wanna just jump around and scream?\nGet in the band\n\nDo you wanna tell stories?\nDo you maybe wanna, bust a move?\nDo you wanna live your dream?\nCome join the band\n\n'Cause music is the only language everybody understands\nGet on board (get on board)\nGet ready to rock and join the band\n\nTell me, do you like singin'?\nDo you like to dance?\nDo you like makin' people happy?\nCome join the band\n\nYou know that you're a rock star\nGive yourself a chance\nRaise your hands up, girls and boys\nAnd join the band"
+    },
+    {
+      "heading": "Credits",
+      "level": 2,
+      "text": "Music and lyrics by Ed Goldfarb\nLead vocals by Haven Paschall\nMixed by Jeff Stewart Saltzman"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Join the Band\nes:Únete\nit:Nella band"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Join the Band",
+    "pageType": "general-anime-lore",
+    "searchableText": "Join the Band\nCategory:English ending themes\nJoin the Band is the English ending theme for Pikachu and the Pokémon Music Squad. It borrows musically from the equivalent Japanese ending theme, Roaring All-Stars. It is included on the Pokémon Movie Music Collection album.",
+    "sectionHeadings": [
+      "Lead",
+      "Lyrics",
+      "Credits",
+      "Related articles"
+    ],
+    "characterCount": 1326,
+    "sectionCount": 4
+  }
+}

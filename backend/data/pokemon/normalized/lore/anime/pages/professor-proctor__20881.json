@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Professor Proctor",
+    "slug": "professor-proctor",
+    "pageId": 20881,
+    "revisionId": 4451752
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "professor-proctor__20881.json",
+    "revisionTimestamp": "2025-12-21T05:56:03Z",
+    "fetchedAt": "2026-05-14T14:44:53.986Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Professor Proctor (Japanese: モロボシ博士 Dr. Moroboshi) is a character of the day who appeared in Where's Armaldo?.\n\nProfessor Proctor lives on Wales Island with his wife Annie. Together, they research all of the Fossil Pokémon in the Hoenn region. Proctor hoped to one day open their research area on Wales Ialand to the public so everyone could see the Pokémon he had.\n\nHowever, one of the he was looking after evolved into and subsequently went on a rampage, destroying everything in its way. It didn't calm down until after Proctor saved it from .\n\nAfter the ordeal, Proctor decided that Wales Island and the Fossil Pokémon would be better off being a secret. He and Annie bade farewell to and and continued to research the Pokémon on Wales Island.",
+  "plainText": "Professor Proctor (Japanese: モロボシ博士 Dr. Moroboshi) is a character of the day who appeared in Where's Armaldo?.\n\nProfessor Proctor lives on Wales Island with his wife Annie. Together, they research all of the Fossil Pokémon in the Hoenn region. Proctor hoped to one day open their research area on Wales Ialand to the public so everyone could see the Pokémon he had.\n\nHowever, one of the he was looking after evolved into and subsequently went on a rampage, destroying everything in its way. It didn't calm down until after Proctor saved it from .\n\nAfter the ordeal, Proctor decided that Wales Island and the Fossil Pokémon would be better off being a secret. He and Annie bade farewell to and and continued to research the Pokémon on Wales Island.\n\n==Pokémon==\n===Looked after===\n \n\n \n\n \n\n==Voice actors==\n \n \n \n\n \n \n \n \n\nes:Profesor Proctor\nfr:Professeur Proctor\nit:Professor Proctor",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Professor Proctor (Japanese: モロボシ博士 Dr. Moroboshi) is a character of the day who appeared in Where's Armaldo?.\n\nProfessor Proctor lives on Wales Island with his wife Annie. Together, they research all of the Fossil Pokémon in the Hoenn region. Proctor hoped to one day open their research area on Wales Ialand to the public so everyone could see the Pokémon he had.\n\nHowever, one of the he was looking after evolved into and subsequently went on a rampage, destroying everything in its way. It didn't calm down until after Proctor saved it from .\n\nAfter the ordeal, Proctor decided that Wales Island and the Fossil Pokémon would be better off being a secret. He and Annie bade farewell to and and continued to research the Pokémon on Wales Island."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Profesor Proctor\nfr:Professeur Proctor\nit:Professor Proctor"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Professor Proctor",
+    "pageType": "character",
+    "searchableText": "Professor Proctor\nCategory:Hoenn characters of the day\nProfessor Proctor (Japanese: モロボシ博士 Dr. Moroboshi) is a character of the day who appeared in Where's Armaldo?.\n\nProfessor Proctor lives on Wales Island with his wife Annie. Together, they research all of the Fossil Pokémon in the Hoenn region. Proctor hoped to one day open their research area on Wales Ialand to the public so everyone could see the Pokémon he had.\n\nHowever, one of the he was looking after evolved into and subsequently went on a rampage, destroying everything in its way. It didn't calm down until after Proctor saved it from .\n\nAfter the ordeal, Proctor decided that Wales Island and the Fossil Pokémon would be better off being a secret. He and Annie bade farewell to and and continued to research the Pokémon on Wales Island.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 884,
+    "sectionCount": 2
+  }
+}

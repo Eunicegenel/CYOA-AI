@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Akeno Watanabe",
+    "slug": "akeno-watanabe",
+    "pageId": 46949,
+    "revisionId": 4480426
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "akeno-watanabe__46949.json",
+    "revisionTimestamp": "2026-02-02T08:55:13Z",
+    "fetchedAt": "2026-05-14T14:00:20.798Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Akeno Watanabe (Japanese: 渡辺明乃 Watanabe Akeno) is a Japanese voice actress for .",
+  "plainText": "Akeno Watanabe (Japanese: 渡辺明乃 Watanabe Akeno) is a Japanese voice actress for .\n\n==Biography==\nWatanabe was born on November 28, 1982 in , , , and became a voice actress as an adult. Watanabe began to provide voices for near the end of . Her most notable roles are 's rival Trip, as well as Ash's Scraggy. She is currently affiliated with Office Osawa.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nTrip\nBuck\nLeona\nAldith\nMalva\n\n======Minor======\n\nBetty\nMs. Chandler\nHenny\n\n=====Pokémon=====\n======Major======\nAsh's Scraggy\nBianca's Pignite\n\n*\n\n(BW053)\nChill Drive Genesect (M16)\n\n======Minor======\n(BW054)\n(BW056)*\n(BW100)\n(PK22)\n(PK25)\n\n===Video games===\n====Pokémon Masters EX====\n\n \n\n==Other non-Pokémon roles==\nZakuro Mitsukai ( )\nAnna Heart ( )\nSharla ( )\nElizabeth \"Liz\" Thompson ( )\nFūko Kuzuha ( )\nMonique ( ) (Japanese dub)\nRito Yūki ( )\nSho Yamato ( )\nVilletta Nu ( )\nRin Okumura (Young) ( )\nGai Tsutsugami (Young), Miyabi Herikawa ( )\nTayuya ( )\nGilda ( ) (Japanese dub)\nMao ( )\nVamp Fatale ( )\n\n==External links==\nOffice Osawa profile\n\n \n\n \n\nit:Akeno Watanabe\nja:渡辺明乃\nzh:渡邊明乃",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Akeno Watanabe (Japanese: 渡辺明乃 Watanabe Akeno) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Watanabe was born on November 28, 1982 in , , , and became a voice actress as an adult. Watanabe began to provide voices for near the end of . Her most notable roles are 's rival Trip, as well as Ash's Scraggy. She is currently affiliated with Office Osawa."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Trip\nBuck\nLeona\nAldith\nMalva"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Betty\nMs. Chandler\nHenny"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Ash's Scraggy\nBianca's Pignite\n\n*\n\n(BW053)\nChill Drive Genesect (M16)"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(BW054)\n(BW056)*\n(BW100)\n(PK22)\n(PK25)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Zakuro Mitsukai ( )\nAnna Heart ( )\nSharla ( )\nElizabeth \"Liz\" Thompson ( )\nFūko Kuzuha ( )\nMonique ( ) (Japanese dub)\nRito Yūki ( )\nSho Yamato ( )\nVilletta Nu ( )\nRin Okumura (Young) ( )\nGai Tsutsugami (Young), Miyabi Herikawa ( )\nTayuya ( )\nGilda ( ) (Japanese dub)\nMao ( )\nVamp Fatale ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Office Osawa profile\n\n \n\n \n\nit:Akeno Watanabe\nja:渡辺明乃\nzh:渡邊明乃"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Akeno Watanabe",
+    "pageType": "general-anime-lore",
+    "searchableText": "Akeno Watanabe\nCategory:Japanese voice actors\nAkeno Watanabe (Japanese: 渡辺明乃 Watanabe Akeno) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1123,
+    "sectionCount": 8
+  }
+}

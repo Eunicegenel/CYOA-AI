@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Tim Werenko",
+    "slug": "tim-werenko",
+    "pageId": 276160,
+    "revisionId": 4323397
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "tim-werenko__276160.json",
+    "revisionTimestamp": "2025-06-24T03:29:26Z",
+    "fetchedAt": "2026-05-14T14:54:28.985Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Tim Werenko is a voice actor and former producer for the English-language dub of .",
+  "plainText": "Tim Werenko is a voice actor and former producer for the English-language dub of .\n\n==Biography==\nWerenko was born sometime on May 19th and became a producer at DuArt Media Services. Werenko joined the show when DuArt took over the dubbing of and, in addition to work on the show as a producer, he took on several roles, most notably that of Paul's Honchkrow and Dawn's Piloswine. He left DuArt at the beginning of 2016 to found the recording studio 3Beep alongside Tom Wayland and Charles Darby, though he would later return to the English dub as a performer for the English version of Song of Zarude for the twenty-third movie and served as the production manager and production coordinator on the English dub of Pokémon: Paldean Winds, which was dubbed at 3Beep.\n\n==Pokémon roles==\n===Animation===\n==== ====\nPaul's Murkrow and Honchkrow\nDawn's Piloswine\n\n==External links==\nAnime News Network\nTwitter\nFacebook\n\n \n \n\nit:Tim Werenko",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tim Werenko is a voice actor and former producer for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Werenko was born sometime on May 19th and became a producer at DuArt Media Services. Werenko joined the show when DuArt took over the dubbing of and, in addition to work on the show as a producer, he took on several roles, most notably that of Paul's Honchkrow and Dawn's Piloswine. He left DuArt at the beginning of 2016 to found the recording studio 3Beep alongside Tom Wayland and Charles Darby, though he would later return to the English dub as a performer for the English version of Song of Zarude for the twenty-third movie and served as the production manager and production coordinator on the English dub of Pokémon: Paldean Winds, which was dubbed at 3Beep."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Paul's Murkrow and Honchkrow\nDawn's Piloswine"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anime News Network\nTwitter\nFacebook\n\n \n \n\nit:Tim Werenko"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tim Werenko",
+    "pageType": "general-anime-lore",
+    "searchableText": "Tim Werenko\nCategory:TPCi voice actors\nTim Werenko is a voice actor and former producer for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "External links"
+    ],
+    "characterCount": 933,
+    "sectionCount": 4
+  }
+}

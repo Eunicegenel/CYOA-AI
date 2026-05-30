@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB56",
+    "slug": "rb56",
+    "pageId": 161438,
+    "revisionId": 4247782
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb56__161438.json",
+    "revisionTimestamp": "2025-02-25T03:25:36Z",
+    "fetchedAt": "2026-05-14T15:47:51.106Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ガリュウからの刺客 The Assassin Hired by Garyū) is the 56th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: ガリュウからの刺客 The Assassin Hired by Garyū) is the 56th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nRyouga learns a new technique.\nSabin returns the Burst Hearts and Compass of Light to Ryouga and gives him his Burst Heart.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyouga\nKaruta\nRug\nSabin\n\n===Pokémon===\n(Ryouga's)\n(Sabin's)\n\n \n \n \n\n \n\nzh:RB56",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ガリュウからの刺客 The Assassin Hired by Garyū) is the 56th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga learns a new technique.\nSabin returns the Burst Hearts and Compass of Light to Ryouga and gives him his Burst Heart."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nKaruta\nRug\nSabin"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ryouga's)\n(Sabin's)\n\n \n \n \n\n \n\nzh:RB56"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB56",
+    "pageType": "chapter",
+    "searchableText": "RB56\nCategory:Pokémon RéBURST chapters\n(Japanese: ガリュウからの刺客 The Assassin Hired by Garyū) is the 56th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 398,
+    "sectionCount": 4
+  }
+}

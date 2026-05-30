@@ -1,0 +1,99 @@
+{
+  "identity": {
+    "title": "Tyler Bunch",
+    "slug": "tyler-bunch",
+    "pageId": 171720,
+    "revisionId": 4323644
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "tyler-bunch__171720.json",
+    "revisionTimestamp": "2025-06-24T03:33:43Z",
+    "fetchedAt": "2026-05-14T14:55:56.667Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Tyler Bunch is an American voice actor for the English-language dub of . Until , he was usually credited as H.D. Quinn. He is currently affiliated with Clear Talent Group Agency and Innovative Artists.",
+  "plainText": "Tyler Bunch is an American voice actor for the English-language dub of . Until , he was usually credited as H.D. Quinn. He is currently affiliated with Clear Talent Group Agency and Innovative Artists.\n\n==Biography==\nBunch was born February 10, 1970, in Tahlequah, Oklahoma. He joined during the fifteenth season. His most prominent roles are that of , Team Flare leader Lysandre, Ash's Hawlucha, and Professor Kukui's Incineroar.\n\nOutside of voice acting, Bunch is a prolific puppeteer.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nLysandre\n\nViren\nDJ Leo\n\n======Minor======\n\nRicard Nouveau\nLord Shabboneau\nThaddeus\nTurner\nBlake and Heath's father\nRelay Worker (XY077)\nFerryman Blue (SM086)\n\n=====Pokémon=====\n======Major======\nAsh's Hawlucha\nAsh's Incineroar\nLysandre's Pyroar\nProfessor Kukui's Incineroar\nGoh's Golurk\n\n( )\n\n======Minor======\n\n(XY097)\n(SM015)\n(SM015)\n(SM031)\n(SM075)\n\n=====Other=====\nNarrator (XYS01)\n\n====I Choose You! trilogy====\n=====Major=====\n\n=====Minor=====\n\n(M21)\n(M21)\n\n==== ====\nAmethio's Ceruledge\n\n===Video games===\n====Super Smash Bros. Ultimate====\n\n==Other non-Pokémon roles==\nGrandpa Beast ( )\nTeshigawara's father ( )\nTreelo, Pop, Doc Hogg ( )\nKiyoshi Kogami, Dr. Genome ( )\nLouie, other characters ( )\nGrampu ( )\n\n==References==\n \n \n \n\nit:Tyler Bunch",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tyler Bunch is an American voice actor for the English-language dub of . Until , he was usually credited as H.D. Quinn. He is currently affiliated with Clear Talent Group Agency and Innovative Artists."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Bunch was born February 10, 1970, in Tahlequah, Oklahoma. He joined during the fifteenth season. His most prominent roles are that of , Team Flare leader Lysandre, Ash's Hawlucha, and Professor Kukui's Incineroar.\n\nOutside of voice acting, Bunch is a prolific puppeteer."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Lysandre\n\nViren\nDJ Leo"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Ricard Nouveau\nLord Shabboneau\nThaddeus\nTurner\nBlake and Heath's father\nRelay Worker (XY077)\nFerryman Blue (SM086)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Ash's Hawlucha\nAsh's Incineroar\nLysandre's Pyroar\nProfessor Kukui's Incineroar\nGoh's Golurk\n\n( )"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(XY097)\n(SM015)\n(SM015)\n(SM031)\n(SM075)"
+    },
+    {
+      "heading": "Other",
+      "level": 5,
+      "text": "Narrator (XYS01)"
+    },
+    {
+      "heading": "Minor",
+      "level": 5,
+      "text": "(M21)\n(M21)"
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Amethio's Ceruledge"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Grandpa Beast ( )\nTeshigawara's father ( )\nTreelo, Pop, Doc Hogg ( )\nKiyoshi Kogami, Dr. Genome ( )\nLouie, other characters ( )\nGrampu ( )"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:Tyler Bunch"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tyler Bunch",
+    "pageType": "general-anime-lore",
+    "searchableText": "Tyler Bunch\nCategory:TPCi voice actors\nTyler Bunch is an American voice actor for the English-language dub of . Until , he was usually credited as H.D. Quinn. He is currently affiliated with Clear Talent Group Agency and Innovative Artists.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Other",
+      "Minor",
+      "",
+      "Other non-Pokémon roles",
+      "References"
+    ],
+    "characterCount": 1321,
+    "sectionCount": 11
+  }
+}

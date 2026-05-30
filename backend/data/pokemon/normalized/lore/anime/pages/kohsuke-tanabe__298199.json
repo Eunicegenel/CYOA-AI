@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Kohsuke Tanabe",
+    "slug": "kohsuke-tanabe",
+    "pageId": 298199,
+    "revisionId": 4409687
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "kohsuke-tanabe__298199.json",
+    "revisionTimestamp": "2025-10-25T13:41:52Z",
+    "fetchedAt": "2026-05-14T14:29:47.657Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kohsuke Tanabe (Japanese: 田邊幸輔 Tanabe Kōsuke) is a Japanese voice actor for and .",
+  "plainText": "Kohsuke Tanabe (Japanese: 田邊幸輔 Tanabe Kōsuke) is a Japanese voice actor for and .\n\n==Biography==\nTanabe was born in Japan and became a voice actor as an adult. Tanabe first worked on Pokémon, voicing minor characters in Pokémon: Hisuian Snow before joining the in . Tanabe gained his most notable role during , voicing Zirc from the Explorers.\n\n==Pokémon roles==\n===Animation===\n==== ====\nSterling\nDoug\nIngredients Seller\n\n==== ====\n=====Humans=====\nZirc\nIngredients Seller\n\n=====Pokémon=====\nAmethio's Ceruledge\n\n====Pokémon Evolutions====\nVictor\nRoark\n\n====POKÉTOON====\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nKakeru Yashio ( )\nPhaser Ryugu ( )\nDigimon Survive ( )\n\n==External links==\nAgency Profile\nTwitter\n\n \n \n \n\nit:Kōsuke Tanabe\nja:田邊幸輔",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kohsuke Tanabe (Japanese: 田邊幸輔 Tanabe Kōsuke) is a Japanese voice actor for and ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Tanabe was born in Japan and became a voice actor as an adult. Tanabe first worked on Pokémon, voicing minor characters in Pokémon: Hisuian Snow before joining the in . Tanabe gained his most notable role during , voicing Zirc from the Explorers."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Sterling\nDoug\nIngredients Seller"
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Zirc\nIngredients Seller"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "Amethio's Ceruledge"
+    },
+    {
+      "heading": "Pokémon Evolutions",
+      "level": 4,
+      "text": "Victor\nRoark"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Kakeru Yashio ( )\nPhaser Ryugu ( )\nDigimon Survive ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Agency Profile\nTwitter\n\n \n \n \n\nit:Kōsuke Tanabe\nja:田邊幸輔"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kohsuke Tanabe",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kohsuke Tanabe\nCategory:Japanese voice actors\nKohsuke Tanabe (Japanese: 田邊幸輔 Tanabe Kōsuke) is a Japanese voice actor for and .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Humans",
+      "Pokémon",
+      "Pokémon Evolutions",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 777,
+    "sectionCount": 8
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Khristine Hvam",
+    "slug": "khristine-hvam",
+    "pageId": 43691,
+    "revisionId": 4323823
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "khristine-hvam__43691.json",
+    "revisionTimestamp": "2025-06-24T11:44:55Z",
+    "fetchedAt": "2026-05-14T14:29:24.457Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Khristine Hvam is an American voice actress for the English dub of . She is currently affiliated with Stewart Talent Agency.",
+  "plainText": "Khristine Hvam is an American voice actress for the English dub of . She is currently affiliated with Stewart Talent Agency.\n\n==Pokémon roles==\nKhristine Hvam joined the cast during the tenth movie. She gained a more important role in providing the voice of Professor Juniper.\n===Animation===\n==== ====\n=====Major=====\nProfessor Juniper\nAlice\nJuanita\n\n=====Minor=====\nFrancesca\ncheerleader (BW005-BW006)\n\n==External links==\nOfficial website\nFacebook\nTwitter\nVoice123 profile\n\n \n \n \n \n\nit:Khristine Hvam",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Khristine Hvam is an American voice actress for the English dub of . She is currently affiliated with Stewart Talent Agency."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Khristine Hvam joined the cast during the tenth movie. She gained a more important role in providing the voice of Professor Juniper."
+    },
+    {
+      "heading": "Major",
+      "level": 5,
+      "text": "Professor Juniper\nAlice\nJuanita"
+    },
+    {
+      "heading": "Minor",
+      "level": 5,
+      "text": "Francesca\ncheerleader (BW005-BW006)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nFacebook\nTwitter\nVoice123 profile\n\n \n \n \n \n\nit:Khristine Hvam"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Khristine Hvam",
+    "pageType": "general-anime-lore",
+    "searchableText": "Khristine Hvam\nCategory:TPCi voice actors\nKhristine Hvam is an American voice actress for the English dub of . She is currently affiliated with Stewart Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "Major",
+      "Minor",
+      "External links"
+    ],
+    "characterCount": 502,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "PS072",
+    "slug": "ps072",
+    "pageId": 71323,
+    "revisionId": 4242984
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps072__71323.json",
+    "revisionTimestamp": "2025-02-19T15:32:55Z",
+    "fetchedAt": "2026-05-14T15:40:43.484Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Weezing Winks Out (Japanese: VSマタドガス VS ) is the 72nd chapter of the Pokémon Adventures manga, and the 32nd chapter of the .",
+  "plainText": "Weezing Winks Out (Japanese: VSマタドガス VS ) is the 72nd chapter of the Pokémon Adventures manga, and the 32nd chapter of the .\n\n==Plot==\n \n has his eyes shut, and Koga has an ped around him, immobilizing him in his battle against Agatha: vs. Arbok. Koga's Arbok tries to attack with a attack, which fails. Agatha's Arbok gives Koga's Arbok a hard . Then it releases Koga's Arbok and s its tail off, apparently knocking Arbok out.\n\nEnraged, Koga sends out and and tells them to use and , which are repelled by a new invulnerability pattern of Arbok's. It then attacks Muk and Weezing, knocking them out. Koga throws five ninja stars at Agatha, which miss. Then, to Agatha's surprise, Koga's Arbok grows a new tail. Agatha sneers at Koga for thinking that that will make him win, and then, returns. However, it is Koga's Golbat, not Agatha's.\n\nBlue then appears with his eyes open. The ninja stars Koga threw were ninja stars, and the Pokémon inside were holding paralysis-healing medicine. Koga's Golbat then uses on Koga. It then spits Koga's blood at Agatha's Arbok's pattern, covering and destroying the effects of the pattern. Agatha's Arbok tries a attack, but Blue's Golduck uses defeating Agatha's Arbok and Agatha. Afterwards, Koga and Blue leave and continue though Cerise Island.\n\n==Major events==\nKoga and defeat Agatha.\n\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n(flashback)\n\nKoga\nAgatha\n\n===Pokémon===\n( )\n( )\n(Koga's)\n(Koga's)\n(Koga's)\n(Agatha's)\n(Agatha's)\n\n==Trivia==\nKoga gives his Pokémon items to hold while in their Poké Balls, which wouldn't appear in the games until the next Generation.\n\n===Errors===\nIn the last frame before Agatha changes her 's pattern from \"attack\" to \"invulnerability\" it already appears changed.\nThree frames after Agatha's Arbok's pattern is erased, it appears to not be erased.\n\n==In other languages==\n \n \n \n \n\nde:VS. Smogmog\nes:PMS072\nfr:Chapitre 72 (Pocket Monsters Special)\nit:LGA072\nzh:宝可梦特别篇 第72话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Weezing Winks Out (Japanese: VSマタドガス VS ) is the 72nd chapter of the Pokémon Adventures manga, and the 32nd chapter of the ."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "has his eyes shut, and Koga has an ped around him, immobilizing him in his battle against Agatha: vs. Arbok. Koga's Arbok tries to attack with a attack, which fails. Agatha's Arbok gives Koga's Arbok a hard . Then it releases Koga's Arbok and s its tail off, apparently knocking Arbok out.\n\nEnraged, Koga sends out and and tells them to use and , which are repelled by a new invulnerability pattern of Arbok's. It then attacks Muk and Weezing, knocking them out. Koga throws five ninja stars at Agatha, which miss. Then, to Agatha's surprise, Koga's Arbok grows a new tail. Agatha sneers at Koga for thinking that that will make him win, and then, returns. However, it is Koga's Golbat, not Agatha's.\n\nBlue then appears with his eyes open. The ninja stars Koga threw were ninja stars, and the Pokémon inside were holding paralysis-healing medicine. Koga's Golbat then uses on Koga. It then spits Koga's blood at Agatha's Arbok's pattern, covering and destroying the effects of the pattern. Agatha's Arbok tries a attack, but Blue's Golduck uses defeating Agatha's Arbok and Agatha. Afterwards, Koga and Blue leave and continue though Cerise Island."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Koga and defeat Agatha."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(flashback)\n\nKoga\nAgatha"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Koga's)\n(Koga's)\n(Koga's)\n(Agatha's)\n(Agatha's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Koga gives his Pokémon items to hold while in their Poké Balls, which wouldn't appear in the games until the next Generation."
+    },
+    {
+      "heading": "Errors",
+      "level": 3,
+      "text": "In the last frame before Agatha changes her 's pattern from \"attack\" to \"invulnerability\" it already appears changed.\nThree frames after Agatha's Arbok's pattern is erased, it appears to not be erased."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Smogmog\nes:PMS072\nfr:Chapitre 72 (Pocket Monsters Special)\nit:LGA072\nzh:宝可梦特别篇 第72话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS072",
+    "pageType": "chapter",
+    "searchableText": "PS072\nCategory:Pokémon Adventures chapters\nWeezing Winks Out (Japanese: VSマタドガス VS ) is the 72nd chapter of the Pokémon Adventures manga, and the 32nd chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia",
+      "Errors",
+      "In other languages"
+    ],
+    "characterCount": 1974,
+    "sectionCount": 8
+  }
+}

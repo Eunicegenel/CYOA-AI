@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Poké Fan Family (Trainer class)",
+    "slug": "poke-fan-family-trainer-class",
+    "pageId": 186310,
+    "revisionId": 4292251
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "poke-fan-family-trainer-class__186310.json",
+    "revisionTimestamp": "2025-05-03T07:16:34Z",
+    "fetchedAt": "2026-05-14T15:34:38.587Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "A Poké Fan Family (Japanese: だいすきふうふ Fan Couple) is a pair of Pokémon Trainers introduced in Generation VI. A Poké Fan Family is depicted as two s, one male and female, who can challenge the player to a Double Battle.",
+  "plainText": "A Poké Fan Family (Japanese: だいすきふうふ Fan Couple) is a pair of Pokémon Trainers introduced in Generation VI. A Poké Fan Family is depicted as two s, one male and female, who can challenge the player to a Double Battle.\n\n==Gallery==\n===Sprites and models===\n \n\n==Trainer list==\n===Pokémon X and Y===\n \n \n \n \n\n==In the manga==\n \n===Pokémon Adventures===\nA Poké Fan Family made a cameo appearance in Lumiose City in Charging After Electrike.\n \n\n==In other languages==\n \n\n==References==\n \n\n==Related articles==\n \n \n\n \n \n \n\nde:Pokéfan-Pärchen\nes:Pareja de Pokéfans\nfr:Couple de Pokéfans\nit:Coppia Pokéfan\nja:だいすきふうふ\nzh:發燒友夫婦",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Poké Fan Family (Japanese: だいすきふうふ Fan Couple) is a pair of Pokémon Trainers introduced in Generation VI. A Poké Fan Family is depicted as two s, one male and female, who can challenge the player to a Double Battle."
+    },
+    {
+      "heading": "Pokémon Adventures",
+      "level": 3,
+      "text": "A Poké Fan Family made a cameo appearance in Lumiose City in Charging After Electrike."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Pokéfan-Pärchen\nes:Pareja de Pokéfans\nfr:Couple de Pokéfans\nit:Coppia Pokéfan\nja:だいすきふうふ\nzh:發燒友夫婦"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Poké Fan Family (Trainer class)",
+    "pageType": "character",
+    "searchableText": "Poké Fan Family (Trainer class)\nCategory:Pokémon Adventures characters\nA Poké Fan Family (Japanese: だいすきふうふ Fan Couple) is a pair of Pokémon Trainers introduced in Generation VI. A Poké Fan Family is depicted as two s, one male and female, who can challenge the player to a Double Battle.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon Adventures",
+      "Related articles"
+    ],
+    "characterCount": 618,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Ekans Brothers",
+    "slug": "ekans-brothers",
+    "pageId": 65799,
+    "revisionId": 4526351
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga characters (Pokémon)",
+    "sourceFileName": "ekans-brothers__65799.json",
+    "revisionTimestamp": "2026-04-09T14:38:55Z",
+    "fetchedAt": "2026-05-14T15:17:54.341Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Ekans Brothers are Pokémon that appear in Magical Pokémon Journey. is their cousin and boss. They were originally antagonists in their introduction, but have become part of the group of friends.",
+  "plainText": "The Ekans Brothers are Pokémon that appear in Magical Pokémon Journey. is their cousin and boss. They were originally antagonists in their introduction, but have become part of the group of friends.\n\n==History==\nThe Ekans Brothers first appeared in Clefairy Comes Through! where they picked on a timid . Hazel was able to scare them away by shouting. Afterwards, the two returned with Arbok who decided to attack Hazel. However, the Ekans and Arbok were not successful as they were blasted away by Clefairy's .\n\nIn Christmas Wishes, the Ekans Brothers went to a Christmas party in 's mansion and were on friendly terms with Hazel and the others.\n \n==Personality and characteristics==\nThe Ekans brothers are shown to be less dramatic than their cousin Arbok.\n\n==Related articles==\n \n \n \n \n\n \n \n \n\nit:Fratelli Ekans",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Ekans Brothers are Pokémon that appear in Magical Pokémon Journey. is their cousin and boss. They were originally antagonists in their introduction, but have become part of the group of friends."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "The Ekans Brothers first appeared in Clefairy Comes Through! where they picked on a timid . Hazel was able to scare them away by shouting. Afterwards, the two returned with Arbok who decided to attack Hazel. However, the Ekans and Arbok were not successful as they were blasted away by Clefairy's .\n\nIn Christmas Wishes, the Ekans Brothers went to a Christmas party in 's mansion and were on friendly terms with Hazel and the others."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 2,
+      "text": "The Ekans brothers are shown to be less dramatic than their cousin Arbok."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Fratelli Ekans"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ekans Brothers",
+    "pageType": "character",
+    "searchableText": "Ekans Brothers\nCategory:Manga characters (Pokémon)\nThe Ekans Brothers are Pokémon that appear in Magical Pokémon Journey. is their cousin and boss. They were originally antagonists in their introduction, but have become part of the group of friends.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Personality and characteristics",
+      "Related articles"
+    ],
+    "characterCount": 813,
+    "sectionCount": 4
+  }
+}

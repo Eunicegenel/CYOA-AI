@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "GB11",
+    "slug": "gb11",
+    "pageId": 128234,
+    "revisionId": 4107958
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys chapters",
+    "sourceFileName": "gb11__128234.json",
+    "revisionTimestamp": "2024-09-09T07:12:02Z",
+    "fetchedAt": "2026-05-14T15:19:13.488Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Gold and Black VS. Team Rocket (Japanese: ゴールド・ブラックVSロケット団 Gold and Black VS Team Rocket) is the eleventh chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+  "plainText": "Gold and Black VS. Team Rocket (Japanese: ゴールド・ブラックVSロケット団 Gold and Black VS Team Rocket) is the eleventh chapter of the Pokémon Gold & Silver: The Golden Boys manga.\n\n==Plot==\n and Whitney arrive in Ecruteak City to attend the Pokémon Summit. They are greeted by Bill, who tells them the story of the Tin Tower and the Burned Tower. He also tells them about , and .\n\nAt the stadium which houses the Pokémon Summit, built on the site of the Burned Tower, Gold is reunited with Falkner, Bugsy and Professor Elm. Suddenly, however, s appear to steal all the rare Pokémon which will be at the Summit. To prevent the Gym Leaders from resisting, the Rockets placed several around the perimeter of the stadium, which could blow it up with .\n\n appears, taunting Team Rocket. He sends out his Pokémon to do battle, but they collapse due to hypnotic radio waves operated by , a Rocket Executive. Black tries to challenge Grey to a battle, but he refuses, stating that Team Rocket uses its intelligence to win, not just battle skills. As Team Rocket collects all the Pokémon, Bill reveals that he had been carrying and in secret, which are resistant to the hypnotic waves and therefore could be used to destroy the machine. However, to destroy the machines without upsetting the Electrode, both must be destroyed at the same time, requiring Black and Gold to cooperate. Black refuses, but when Bill offers to take Umbreon in his place, Black reluctantly agrees to help.\n\nAs Espeon and Umbreon are poised to strike, Grey's blocks them from hitting the machines. Gold tries to block Houndour's , but Entei, Raikou and Suicune appear before him, rescuing him from any harm.\n\n==Major events==\nand Whitney arrive in Ecruteak City.\nGold and Whitney meet Bill.\nGold, Whitney and Bill arrive at the Pokémon Summit, only to find that Team Rocket has hijacked it.\n\n===Debuts===\n====Humans====\nBill\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nWhitney\n\nBill\nFalkner\nBugsy\nProfessor Elm\ns\n\n===Pokémon===\n( )\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n(Bill's)\n(Bill's)\n( 's)\n\n \n \n \n\nes:GB11\nit:GB11",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Gold and Black VS. Team Rocket (Japanese: ゴールド・ブラックVSロケット団 Gold and Black VS Team Rocket) is the eleventh chapter of the Pokémon Gold & Silver: The Golden Boys manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "and Whitney arrive in Ecruteak City to attend the Pokémon Summit. They are greeted by Bill, who tells them the story of the Tin Tower and the Burned Tower. He also tells them about , and .\n\nAt the stadium which houses the Pokémon Summit, built on the site of the Burned Tower, Gold is reunited with Falkner, Bugsy and Professor Elm. Suddenly, however, s appear to steal all the rare Pokémon which will be at the Summit. To prevent the Gym Leaders from resisting, the Rockets placed several around the perimeter of the stadium, which could blow it up with .\n\n appears, taunting Team Rocket. He sends out his Pokémon to do battle, but they collapse due to hypnotic radio waves operated by , a Rocket Executive. Black tries to challenge Grey to a battle, but he refuses, stating that Team Rocket uses its intelligence to win, not just battle skills. As Team Rocket collects all the Pokémon, Bill reveals that he had been carrying and in secret, which are resistant to the hypnotic waves and therefore could be used to destroy the machine. However, to destroy the machines without upsetting the Electrode, both must be destroyed at the same time, requiring Black and Gold to cooperate. Black refuses, but when Bill offers to take Umbreon in his place, Black reluctantly agrees to help.\n\nAs Espeon and Umbreon are poised to strike, Grey's blocks them from hitting the machines. Gold tries to block Houndour's , but Entei, Raikou and Suicune appear before him, rescuing him from any harm."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and Whitney arrive in Ecruteak City.\nGold and Whitney meet Bill.\nGold, Whitney and Bill arrive at the Pokémon Summit, only to find that Team Rocket has hijacked it."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Bill"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Whitney\n\nBill\nFalkner\nBugsy\nProfessor Elm\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n(Bill's)\n(Bill's)\n( 's)\n\n \n \n \n\nes:GB11\nit:GB11"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GB11",
+    "pageType": "chapter",
+    "searchableText": "GB11\nCategory:Pokémon Gold & Silver: The Golden Boys chapters\nGold and Black VS. Team Rocket (Japanese: ゴールド・ブラックVSロケット団 Gold and Black VS Team Rocket) is the eleventh chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 2070,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "ANL3",
+    "slug": "anl3",
+    "pageId": 194943,
+    "revisionId": 4549022
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga chapters in need of images",
+    "sourceFileName": "anl3__194943.json",
+    "revisionTimestamp": "2026-05-11T00:54:00Z",
+    "fetchedAt": "2026-05-14T15:12:40.215Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 未知のポケモン、現る!! Unknown Pokémon Appears!!) is the third chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga.",
+  "plainText": "(Japanese: 未知のポケモン、現る!! Unknown Pokémon Appears!!) is the third chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nDr. Zeno\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nArata\nDr. Zeno\ns\n\n===Pokémon===\n(Arata's)\n(Arata's)\n( 's)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 未知のポケモン、現る!! Unknown Pokémon Appears!!) is the third chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Dr. Zeno"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Arata\nDr. Zeno\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Arata's)\n(Arata's)\n( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ANL3",
+    "pageType": "chapter",
+    "searchableText": "ANL3\nCategory:Manga chapters in need of images\n(Japanese: 未知のポケモン、現る!! Unknown Pokémon Appears!!) is the third chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 327,
+    "sectionCount": 4
+  }
+}

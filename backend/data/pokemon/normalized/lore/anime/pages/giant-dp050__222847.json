@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Giant (DP050)",
+    "slug": "giant-dp050",
+    "pageId": 222847,
+    "revisionId": 4143452
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "giant-dp050__222847.json",
+    "revisionTimestamp": "2024-10-11T20:13:14Z",
+    "fetchedAt": "2026-05-14T14:20:21.981Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Giant (Japanese: 巨漢 Giant) is a character of the day who appeared in Tag! We're It...!.\n\nGiant partook in the Hearthome City Tag Battle Competition where he was paired with an unnamed female competitor. Both of them were 's and Conway's first opponents in the tournament. Using a combination of Dawn's attack from her and Conway's defense of his , Giant got defeated alongside his tag partner and he got eliminated from the tournament.",
+  "plainText": "Giant (Japanese: 巨漢 Giant) is a character of the day who appeared in Tag! We're It...!.\n\nGiant partook in the Hearthome City Tag Battle Competition where he was paired with an unnamed female competitor. Both of them were 's and Conway's first opponents in the tournament. Using a combination of Dawn's attack from her and Conway's defense of his , Giant got defeated alongside his tag partner and he got eliminated from the tournament.\n \n==Pokémon==\n \nThis listing is of Giant's known in :\n \n\n==Pokémon competitions==\nGiant has competed in the following :\nHearthome City Tag Battle Competition - Top 16 (Tag! We're It...!)\n\n==Voice actors==\n \n\n \n \n \n \n \n\nit:Giant (DP050)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Giant (Japanese: 巨漢 Giant) is a character of the day who appeared in Tag! We're It...!.\n\nGiant partook in the Hearthome City Tag Battle Competition where he was paired with an unnamed female competitor. Both of them were 's and Conway's first opponents in the tournament. Using a combination of Dawn's attack from her and Conway's defense of his , Giant got defeated alongside his tag partner and he got eliminated from the tournament."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Giant's known in :"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Giant has competed in the following :\nHearthome City Tag Battle Competition - Top 16 (Tag! We're It...!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Giant (DP050)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Giant (DP050)",
+    "pageType": "character",
+    "searchableText": "Giant (DP050)\nCategory:Sinnoh characters of the day\nGiant (Japanese: 巨漢 Giant) is a character of the day who appeared in Tag! We're It...!.\n\nGiant partook in the Hearthome City Tag Battle Competition where he was paired with an unnamed female competitor. Both of them were 's and Conway's first opponents in the tournament. Using a combination of Dawn's attack from her and Conway's defense of his , Giant got defeated alongside his tag partner and he got eliminated from the tournament.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 671,
+    "sectionCount": 4
+  }
+}

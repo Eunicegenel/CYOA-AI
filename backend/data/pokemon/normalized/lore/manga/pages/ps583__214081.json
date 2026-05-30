@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PS583",
+    "slug": "ps583",
+    "pageId": 214081,
+    "revisionId": 4449933
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps583__214081.json",
+    "revisionTimestamp": "2025-12-19T08:01:51Z",
+    "fetchedAt": "2026-05-14T15:46:05.338Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Scizor Defends (Japanese: ハッサム、受ける , Catch) is the 583rd chapter of the Pokémon Adventures manga, and the 35th chapter of the .",
+  "plainText": "Scizor Defends (Japanese: ハッサム、受ける , Catch) is the 583rd chapter of the Pokémon Adventures manga, and the 35th chapter of the .\n\n==Plot==\n \n\n==Major events==\nTeam Flare is revealed to have gone into hiding at Pokémon Village.\ncaptures an .\nThe group comes across an unconscious that is guarded by a wild .\nX attempts to capture the Pinsir, but fails due to a lack of skill in throwing Poké Balls.\nX's group meets and learns that Diantha is safe.\nBlue assists X in capturing the wild Pinsir and reveals the Scyther is unconscious due to its life energy being drained.\nAfter battling Blue together, X convinces Pinsir to join his team until Scyther recovers from its condition.\nreceives a call from Professor Sycamore, who asks everyone to meet him in Anistar City.\n\n \n \n\n===Debuts===\n\n====Pokémon debuts====\n \n\n==Characters==\n===Humans===\n\nProfessor Sycamore\nMalva\nDiantha\nLysandre\nXerosic\nAliana (fantasy)\nMable (fantasy)\nCelosia (fantasy)\nBryony (fantasy)\nSina (flashback)\nDexio (flashback)\n\n===Pokémon===\n( )\n( )\n(Marisso; 's)\n( 's; newly caught)\n(Veevee; 's)\n( 's; newly caught)\n( )\n(Lysandre's; Mega Gyarados)\n(Lysandre's)\n\n(multiple)\n(multiple)\n\n \n\n \n \n \n \n\nde:Scherox nimmt das Duell an\nes:PMS583\nfr:Chapitre 583 (Pocket Monsters Special)\nit:LGA583\nzh:宝可梦特别篇 第583话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Scizor Defends (Japanese: ハッサム、受ける , Catch) is the 583rd chapter of the Pokémon Adventures manga, and the 35th chapter of the ."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Team Flare is revealed to have gone into hiding at Pokémon Village.\ncaptures an .\nThe group comes across an unconscious that is guarded by a wild .\nX attempts to capture the Pinsir, but fails due to a lack of skill in throwing Poké Balls.\nX's group meets and learns that Diantha is safe.\nBlue assists X in capturing the wild Pinsir and reveals the Scyther is unconscious due to its life energy being drained.\nAfter battling Blue together, X convinces Pinsir to join his team until Scyther recovers from its condition.\nreceives a call from Professor Sycamore, who asks everyone to meet him in Anistar City."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Sycamore\nMalva\nDiantha\nLysandre\nXerosic\nAliana (fantasy)\nMable (fantasy)\nCelosia (fantasy)\nBryony (fantasy)\nSina (flashback)\nDexio (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Marisso; 's)\n( 's; newly caught)\n(Veevee; 's)\n( 's; newly caught)\n( )\n(Lysandre's; Mega Gyarados)\n(Lysandre's)\n\n(multiple)\n(multiple)\n\n \n\n \n \n \n \n\nde:Scherox nimmt das Duell an\nes:PMS583\nfr:Chapitre 583 (Pocket Monsters Special)\nit:LGA583\nzh:宝可梦特别篇 第583话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS583",
+    "pageType": "chapter",
+    "searchableText": "PS583\nCategory:Pokémon Adventures chapters\nScizor Defends (Japanese: ハッサム、受ける , Catch) is the 583rd chapter of the Pokémon Adventures manga, and the 35th chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1270,
+    "sectionCount": 4
+  }
+}

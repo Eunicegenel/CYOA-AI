@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GDZ50",
+    "slug": "gdz50",
+    "pageId": 188441,
+    "revisionId": 4526310
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz50__188441.json",
+    "revisionTimestamp": "2026-04-09T14:35:37Z",
+    "fetchedAt": "2026-05-14T15:19:53.245Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: タマゴの中にはナニがある！？ What's Inside the Egg!?) is the 50th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: タマゴの中にはナニがある！？ What's Inside the Egg!?) is the 50th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nCollector\n\n====Pokémon debuts====\n(collector's)\n\n==Characters==\n===Humans===\nShu\nCollector\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's)\n(collector's)\n(collector's)\n(collector's)\n\n \n\n \n \n\nit:GDZ50",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: タマゴの中にはナニがある！？ What's Inside the Egg!?) is the 50th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Collector"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(collector's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nCollector"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's)\n(collector's)\n(collector's)\n(collector's)\n\n \n\n \n \n\nit:GDZ50"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ50",
+    "pageType": "chapter",
+    "searchableText": "GDZ50\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: タマゴの中にはナニがある！？ What's Inside the Egg!?) is the 50th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 359,
+    "sectionCount": 5
+  }
+}

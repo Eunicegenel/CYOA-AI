@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMBW03",
+    "slug": "pmbw03",
+    "pageId": 171686,
+    "revisionId": 4528008
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw03__171686.json",
+    "revisionTimestamp": "2026-04-09T16:03:01Z",
+    "fetchedAt": "2026-05-14T15:31:45.071Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ポケモンとしゃべりたい！ I Want to Talk to the Pokémon!) is the third chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ポケモンとしゃべりたい！ I Want to Talk to the Pokémon!) is the third chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nN\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nN\n\n===Pokémon===\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンとしゃべりたい！ I Want to Talk to the Pokémon!) is the third chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "N"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "N"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW03",
+    "pageType": "chapter",
+    "searchableText": "PMBW03\nCategory:Pocket Monsters BW chapters\n(Japanese: ポケモンとしゃべりたい！ I Want to Talk to the Pokémon!) is the third chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 262,
+    "sectionCount": 4
+  }
+}

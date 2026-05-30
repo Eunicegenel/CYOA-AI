@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Joe (M13)",
+    "slug": "joe-m13",
+    "pageId": 112552,
+    "revisionId": 4242539
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "joe-m13__112552.json",
+    "revisionTimestamp": "2025-02-18T23:58:53Z",
+    "fetchedAt": "2026-05-14T14:27:54.533Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Joe (Japanese: ジョー Joe) is a supporting character who appeared in Zoroark: Master of Illusions, and the grandfather of Karl. He is an old watchmaker who has lived in Crown City for his entire life.",
+  "plainText": "Joe (Japanese: ジョー Joe) is a supporting character who appeared in Zoroark: Master of Illusions, and the grandfather of Karl. He is an old watchmaker who has lived in Crown City for his entire life.\n\n==In the movies==\nJoe and , a close friend of his, were first seen fleeing from the intense flames left behind by an by taking refuge in Tammy's flower shop. All the while, they were unaware that the Entei was actually an illusion created by a . Joe later met up with his grandson Karl, and joined everyone back to Tammy's shop for tea. There, he explained the legend of , as well as the story of the disaster that befell Crown City twenty years prior. Tammy, like Joe, refused to evacuate like the other townspeople because they believed that the city's guardians would not seek to destroy Crown City, like the news had been claiming.\n\nHis suspicions proved to be correct, as he and Tammy later witnessed the real city's guardians battling Zoroark. He allowed Karl, , , and Rowena to take shelter from Grings Kodai in Joe's house. There, he revealed that he helped construct the Pokémon Baccer World Cup countdown clocks in the city. They soon discovered Kodai's scheme to steal the Time Ripple's power. Joe's information led Ash and his friends to the final countdown clock, hidden in the Pokémon Baccer Stadium gardens, where the Time Ripple was.\n\nJoe and Tammy later joined Ash and his friends after they foiled Kodai's plot. He watched as made several plants grow before it time travelled away. He was among those who confronted Kodai and witnessed his arrest by Officer Jenny. Afterwards, he joined Ash, his friends, and Tammy at the seaport to see Karl, Rowena, , and Zoroark set sail for the Unova region.\n\n===Pokémon===\n \n\n===Artwork===\n \n \n\n===Voice actors===\n \n\n==In the manga==\nJoe appears in the .\n\n==Related articles==\n \n \n \n \n \n\nde:Joe (Film)\nes:Joe (película)\nfr:Joe (film 13)\nit:Joe (F13)\nzh:喬先生",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Joe (Japanese: ジョー Joe) is a supporting character who appeared in Zoroark: Master of Illusions, and the grandfather of Karl. He is an old watchmaker who has lived in Crown City for his entire life."
+    },
+    {
+      "heading": "In the movies",
+      "level": 2,
+      "text": "Joe and , a close friend of his, were first seen fleeing from the intense flames left behind by an by taking refuge in Tammy's flower shop. All the while, they were unaware that the Entei was actually an illusion created by a . Joe later met up with his grandson Karl, and joined everyone back to Tammy's shop for tea. There, he explained the legend of , as well as the story of the disaster that befell Crown City twenty years prior. Tammy, like Joe, refused to evacuate like the other townspeople because they believed that the city's guardians would not seek to destroy Crown City, like the news had been claiming.\n\nHis suspicions proved to be correct, as he and Tammy later witnessed the real city's guardians battling Zoroark. He allowed Karl, , , and Rowena to take shelter from Grings Kodai in Joe's house. There, he revealed that he helped construct the Pokémon Baccer World Cup countdown clocks in the city. They soon discovered Kodai's scheme to steal the Time Ripple's power. Joe's information led Ash and his friends to the final countdown clock, hidden in the Pokémon Baccer Stadium gardens, where the Time Ripple was.\n\nJoe and Tammy later joined Ash and his friends after they foiled Kodai's plot. He watched as made several plants grow before it time travelled away. He was among those who confronted Kodai and witnessed his arrest by Officer Jenny. Afterwards, he joined Ash, his friends, and Tammy at the seaport to see Karl, Rowena, , and Zoroark set sail for the Unova region."
+    },
+    {
+      "heading": "In the manga",
+      "level": 2,
+      "text": "Joe appears in the ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Joe (Film)\nes:Joe (película)\nfr:Joe (film 13)\nit:Joe (F13)\nzh:喬先生"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Joe (M13)",
+    "pageType": "movie",
+    "searchableText": "Joe (M13)\nCategory:Movie characters\nJoe (Japanese: ジョー Joe) is a supporting character who appeared in Zoroark: Master of Illusions, and the grandfather of Karl. He is an old watchmaker who has lived in Crown City for his entire life.",
+    "sectionHeadings": [
+      "Lead",
+      "In the movies",
+      "In the manga",
+      "Related articles"
+    ],
+    "characterCount": 1911,
+    "sectionCount": 4
+  }
+}

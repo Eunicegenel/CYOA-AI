@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Neo Cihi",
+    "slug": "neo-cihi",
+    "pageId": 239728,
+    "revisionId": 4526259
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "neo-cihi__239728.json",
+    "revisionTimestamp": "2026-04-09T14:30:38Z",
+    "fetchedAt": "2026-05-14T14:39:09.809Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Neo Cihi is a voice actor for the English-language dub of .",
+  "plainText": "Neo Cihi is a voice actor for the English-language dub of .\n\n==Biography==\nCihi was born on August 7, 1996, in , , and became a voice actor in the United States as an adult after graduating from NYU Tisch. They joined the during , where they gained their first role, voicing 's rival Hau. Cihi currently lives in New York.\n\nCihi is non-binary and uses they/them pronouns.\n\n==Pokémon roles==\n===Animation===\n==== ====\nHau\n\n==External links==\nInstagram\nAnime-Planet\n\n \n \n \n\nit:Neo Cihi",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Neo Cihi is a voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Cihi was born on August 7, 1996, in , , and became a voice actor in the United States as an adult after graduating from NYU Tisch. They joined the during , where they gained their first role, voicing 's rival Hau. Cihi currently lives in New York.\n\nCihi is non-binary and uses they/them pronouns."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Hau"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Instagram\nAnime-Planet\n\n \n \n \n\nit:Neo Cihi"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Neo Cihi",
+    "pageType": "general-anime-lore",
+    "searchableText": "Neo Cihi\nCategory:TPCi voice actors\nNeo Cihi is a voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "External links"
+    ],
+    "characterCount": 483,
+    "sectionCount": 4
+  }
+}

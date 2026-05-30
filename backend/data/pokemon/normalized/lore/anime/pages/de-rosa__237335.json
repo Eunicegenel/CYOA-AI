@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "De Rosa",
+    "slug": "de-rosa",
+    "pageId": 237335,
+    "revisionId": 4143473
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Alola characters of the day",
+    "sourceFileName": "de-rosa__237335.json",
+    "revisionTimestamp": "2024-10-11T20:18:40Z",
+    "fetchedAt": "2026-05-14T14:11:29.979Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "De Rosa (Japanese: デロッサ Derossa) is a character of the day who appeared in A High-Speed Awakening!. He was the champion of the 33rd Vikavolt race.\n\nHe competed in the 34th annual Vikavolt race, but ended up losing to and his .",
+  "plainText": "De Rosa (Japanese: デロッサ Derossa) is a character of the day who appeared in A High-Speed Awakening!. He was the champion of the 33rd Vikavolt race.\n\nHe competed in the 34th annual Vikavolt race, but ended up losing to and his .\n\n==Pokémon==\nThis listing is of De Rosa's known in :\n \n \n\n==Pokémon competitions==\nDe Rosa has competed in the following :\nVikavolt race Fini Cup - Winner (One year before A High-Speed Awakening!)\nVikavolt race Fini Cup - Unknown (A High-Speed Awakening!)\n\n==Voice actors==\n \n\n==Trivia==\nDe Rosa bears a resemblance to the famous race car driver .\n\n==Names==\n \n\n \n \n\n \n \n \n\nes:De Rosa\nit:De Rosa",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "De Rosa (Japanese: デロッサ Derossa) is a character of the day who appeared in A High-Speed Awakening!. He was the champion of the 33rd Vikavolt race.\n\nHe competed in the 34th annual Vikavolt race, but ended up losing to and his ."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of De Rosa's known in :"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "De Rosa has competed in the following :\nVikavolt race Fini Cup - Winner (One year before A High-Speed Awakening!)\nVikavolt race Fini Cup - Unknown (A High-Speed Awakening!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "De Rosa bears a resemblance to the famous race car driver ."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:De Rosa\nit:De Rosa"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "De Rosa",
+    "pageType": "character",
+    "searchableText": "De Rosa\nCategory:Alola characters of the day\nDe Rosa (Japanese: デロッサ Derossa) is a character of the day who appeared in A High-Speed Awakening!. He was the champion of the 33rd Vikavolt race.\n\nHe competed in the 34th annual Vikavolt race, but ended up losing to and his .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 622,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ20",
+    "slug": "gdz20",
+    "pageId": 168625,
+    "revisionId": 4528011
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz20__168625.json",
+    "revisionTimestamp": "2026-04-09T16:03:09Z",
+    "fetchedAt": "2026-05-14T15:19:34.067Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ゲット勝負だ、パラセクト！ Catching Contest for Parasect!) is the twentieth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ゲット勝負だ、パラセクト！ Catching Contest for Parasect!) is the twentieth chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nRin and Ran\n\n===Pokémon===\n( )\n(Ran's)\n(Rin's)\n(Ran's; new)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ゲット勝負だ、パラセクト！ Catching Contest for Parasect!) is the twentieth chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nRin and Ran"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Ran's)\n(Rin's)\n(Ran's; new)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ20",
+    "pageType": "chapter",
+    "searchableText": "GDZ20\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ゲット勝負だ、パラセクト！ Catching Contest for Parasect!) is the twentieth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 308,
+    "sectionCount": 3
+  }
+}

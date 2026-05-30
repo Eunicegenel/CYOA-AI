@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Seasonal Collections",
+    "slug": "pokemon-seasonal-collections",
+    "pageId": 280660,
+    "revisionId": 4356595
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation home video",
+    "sourceFileName": "pokemon-seasonal-collections__280660.json",
+    "revisionTimestamp": "2025-08-11T15:11:24Z",
+    "fetchedAt": "2026-05-14T14:43:25.796Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The Pokémon Seasonal Collections are a collection of single-disc compilation DVDs by VIZ Media (distributed by Warner Home Video) that feature seven episodes of , with each DVD focusing on a different calendar season.",
+  "plainText": "The Pokémon Seasonal Collections are a collection of single-disc compilation DVDs by VIZ Media (distributed by Warner Home Video) that feature seven episodes of , with each DVD focusing on a different calendar season.\n\n==Volumes==\n===Pokémon Winter Celebration===\nReleased on October 18, 2022, with the ISBN number 7-82009-24766-1. This DVD focuses on episodes set within snowy or cold locations. Optional English-language captioning is included.\n \n \n \n \n \n \n \n \n \n\n==External links==\nVIZ Media's website\nPokémon Winter Celebration",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Pokémon Seasonal Collections are a collection of single-disc compilation DVDs by VIZ Media (distributed by Warner Home Video) that feature seven episodes of , with each DVD focusing on a different calendar season."
+    },
+    {
+      "heading": "Pokémon Winter Celebration",
+      "level": 3,
+      "text": "Released on October 18, 2022, with the ISBN number 7-82009-24766-1. This DVD focuses on episodes set within snowy or cold locations. Optional English-language captioning is included."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "VIZ Media's website\nPokémon Winter Celebration"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Seasonal Collections",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Seasonal Collections\nCategory:Animation home video\nThe Pokémon Seasonal Collections are a collection of single-disc compilation DVDs by VIZ Media (distributed by Warner Home Video) that feature seven episodes of , with each DVD focusing on a different calendar season.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon Winter Celebration",
+      "External links"
+    ],
+    "characterCount": 531,
+    "sectionCount": 3
+  }
+}

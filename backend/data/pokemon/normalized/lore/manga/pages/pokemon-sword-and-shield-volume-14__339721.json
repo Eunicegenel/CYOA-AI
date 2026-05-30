@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Sword & Shield volume 14",
+    "slug": "pokemon-sword-and-shield-volume-14",
+    "pageId": 339721,
+    "revisionId": 4487590
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-sword-and-shield-volume-14__339721.json",
+    "revisionTimestamp": "2026-02-16T20:04:23Z",
+    "fetchedAt": "2026-05-14T15:37:58.400Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 14 is the fourteenth and final volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+  "plainText": "Volume 14 is the fourteenth and final volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.\n\n==Blurb==\nThe time has come for the legendary Zacian and Zamazenta, as well as the Rusted Sword and Rusted Shield, to change into their true forms and prepare for the rematch to end all rematches...\n\nThe conclusion of Sword & Shield happens now!\n\nHow will the story end?!\n\n==Publications==\n \n \n\n==Chapters==\nAdventure 41: Shing!! Final Form\nAdventure 42: Craaash!! Triple March\nAdventure 43: Fwoom!! Goodbye, Galar\n\n \n\n \n\n \n\nfr:Volume 14 (Pokémon Sword&Shield)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 14 is the fourteenth and final volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "The time has come for the legendary Zacian and Zamazenta, as well as the Rusted Sword and Rusted Shield, to change into their true forms and prepare for the rematch to end all rematches...\n\nThe conclusion of Sword & Shield happens now!\n\nHow will the story end?!"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 41: Shing!! Final Form\nAdventure 42: Craaash!! Triple March\nAdventure 43: Fwoom!! Goodbye, Galar\n\n \n\n \n\n \n\nfr:Volume 14 (Pokémon Sword&Shield)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Sword & Shield volume 14",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Sword & Shield volume 14\nCategory:Pokémon Adventures volumes\nVolume 14 is the fourteenth and final volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters"
+    ],
+    "characterCount": 833,
+    "sectionCount": 3
+  }
+}

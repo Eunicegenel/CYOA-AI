@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "List of Canadian French Pokémon animated series home video releases",
+    "slug": "list-of-canadian-french-pokemon-animated-series-home-video-releases",
+    "pageId": 212111,
+    "revisionId": 4261531
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Lists of animation home video releases",
+    "sourceFileName": "list-of-canadian-french-pokemon-animated-series-home-video-releases__212111.json",
+    "revisionTimestamp": "2025-03-20T01:11:31Z",
+    "fetchedAt": "2026-05-14T14:31:32.595Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The following is a list of all of the home video releases of the Pokémon animated series and movies.",
+  "plainText": "The following is a list of all of the home video releases of the Pokémon animated series and movies.\n\n==Indigo League==\nThe Indigo League single releases were distributed by Imavision Distribution Inc.\n\n===VHS===\n \n\n====Trivia====\nVolume 13 features the same three episodes from the English version but has The Misty Mermaid, which the English version does not have.\n\n=====Errors=====\nVolume 1's artwork shows with an eyebrow the color of his skin.\nVolume 2's artwork shows the hand of Ash even though it is not connected to his body. In addition the straps of his backpack are blue instead of green.\nOne of the titles of volume 2 misspelled \"Pokémon\" as \"Pokémons\".\nVolume 12 has a mistake in one of its titles, is written as \"Picachu\".\nVolume 14's catalogue number on the sleeve is IMAV-0013 even though it should have been IMAV-0014.\nThe correct catalogue number is written on the tape itself.\n\n===DVD===\nThe DVD releases of Indigo League follow a different episode listing than the VHS tapes due to more episodes being released per disc.\n\n \n\n====Trivia====\nThe titles on package of Volume 2 are not the same as that of the title cards on the episodes.\n\n==Johto League==\nThe Johto Journeys single releases were distributed by Imavision Distribution Inc.\n\n===VHS===\n \n\n====Trivia====\nOn Volume 1, \"Un tout nouveau monde\", end of every episode there is a karaokemon segement.\nAlso on volume 1, every episode has credits. The credits however are that of \"The Orange Islands\" with \"The Johto Journeys\" theme over it.\n\n==Movies==\n \n\n===Trivia===\n====Errors====\nThe title on the tape of Pokémon the First Movie: Mewtwo Strikes Back has a mistake in one of its words: \"premier\" is written as \"prémier\"\n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of all of the home video releases of the Pokémon animated series and movies."
+    },
+    {
+      "heading": "Indigo League",
+      "level": 2,
+      "text": "The Indigo League single releases were distributed by Imavision Distribution Inc."
+    },
+    {
+      "heading": "Trivia",
+      "level": 4,
+      "text": "Volume 13 features the same three episodes from the English version but has The Misty Mermaid, which the English version does not have."
+    },
+    {
+      "heading": "Errors",
+      "level": 5,
+      "text": "Volume 1's artwork shows with an eyebrow the color of his skin.\nVolume 2's artwork shows the hand of Ash even though it is not connected to his body. In addition the straps of his backpack are blue instead of green.\nOne of the titles of volume 2 misspelled \"Pokémon\" as \"Pokémons\".\nVolume 12 has a mistake in one of its titles, is written as \"Picachu\".\nVolume 14's catalogue number on the sleeve is IMAV-0013 even though it should have been IMAV-0014.\nThe correct catalogue number is written on the tape itself."
+    },
+    {
+      "heading": "DVD",
+      "level": 3,
+      "text": "The DVD releases of Indigo League follow a different episode listing than the VHS tapes due to more episodes being released per disc."
+    },
+    {
+      "heading": "Trivia",
+      "level": 4,
+      "text": "The titles on package of Volume 2 are not the same as that of the title cards on the episodes."
+    },
+    {
+      "heading": "Johto League",
+      "level": 2,
+      "text": "The Johto Journeys single releases were distributed by Imavision Distribution Inc."
+    },
+    {
+      "heading": "Trivia",
+      "level": 4,
+      "text": "On Volume 1, \"Un tout nouveau monde\", end of every episode there is a karaokemon segement.\nAlso on volume 1, every episode has credits. The credits however are that of \"The Orange Islands\" with \"The Johto Journeys\" theme over it."
+    },
+    {
+      "heading": "Errors",
+      "level": 4,
+      "text": "The title on the tape of Pokémon the First Movie: Mewtwo Strikes Back has a mistake in one of its words: \"premier\" is written as \"prémier\""
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Canadian French Pokémon animated series home video releases",
+    "pageType": "pokemon-related",
+    "searchableText": "List of Canadian French Pokémon animated series home video releases\nCategory:Lists of animation home video releases\nThe following is a list of all of the home video releases of the Pokémon animated series and movies.",
+    "sectionHeadings": [
+      "Lead",
+      "Indigo League",
+      "Trivia",
+      "Errors",
+      "DVD",
+      "Trivia",
+      "Johto League",
+      "Trivia",
+      "Errors"
+    ],
+    "characterCount": 1719,
+    "sectionCount": 9
+  }
+}

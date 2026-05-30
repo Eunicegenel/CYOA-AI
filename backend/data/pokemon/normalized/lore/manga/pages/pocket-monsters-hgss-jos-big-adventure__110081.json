@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters HGSS Jō's Big Adventure",
+    "slug": "pocket-monsters-hgss-jos-big-adventure",
+    "pageId": 110081,
+    "revisionId": 4528099
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS Jō's Big Adventure",
+    "sourceFileName": "pocket-monsters-hgss-jos-big-adventure__110081.json",
+    "revisionTimestamp": "2026-04-09T16:06:56Z",
+    "fetchedAt": "2026-05-14T15:34:21.526Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "(Japanese: ポケットモンスターHGSS ジョウの大冒険 Pocket Monsters HGSS Jō's Big Adventure) is a Pokémon manga based on . The manga follows Jō, a Pokémon Trainer, on his journey throughout Johto and Kanto.\n\nThis series is written by Ryū Matsushima.",
+  "plainText": "(Japanese: ポケットモンスターHGSS ジョウの大冒険 Pocket Monsters HGSS Jō's Big Adventure) is a Pokémon manga based on . The manga follows Jō, a Pokémon Trainer, on his journey throughout Johto and Kanto.\n\nThis series is written by Ryū Matsushima.\n\n==Publications==\n \n \n \n\n==Chapters==\n \n \n \n \n \n\nes:Pocket Monsters HGSS Jou's Big Adventure\nit:Pocket Monsters HGSS Jō's Big Adventure\nzh:宝可梦HGSS 小城的大冒险",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケットモンスターHGSS ジョウの大冒険 Pocket Monsters HGSS Jō's Big Adventure) is a Pokémon manga based on . The manga follows Jō, a Pokémon Trainer, on his journey throughout Johto and Kanto.\n\nThis series is written by Ryū Matsushima."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "es:Pocket Monsters HGSS Jou's Big Adventure\nit:Pocket Monsters HGSS Jō's Big Adventure\nzh:宝可梦HGSS 小城的大冒险"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters HGSS Jō's Big Adventure",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters HGSS Jō's Big Adventure\nCategory:Pocket Monsters HGSS Jō's Big Adventure\n(Japanese: ポケットモンスターHGSS ジョウの大冒険 Pocket Monsters HGSS Jō's Big Adventure) is a Pokémon manga based on . The manga follows Jō, a Pokémon Trainer, on his journey throughout Johto and Kanto.\n\nThis series is written by Ryū Matsushima.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 384,
+    "sectionCount": 2
+  }
+}

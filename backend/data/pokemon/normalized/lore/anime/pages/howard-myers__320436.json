@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Howard Myers",
+    "slug": "howard-myers",
+    "pageId": 320436,
+    "revisionId": 4545648
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "howard-myers__320436.json",
+    "revisionTimestamp": "2026-05-06T10:27:50Z",
+    "fetchedAt": "2026-05-14T14:22:53.713Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Howard Myers (Japanese: ハワード・マイヤーズ Howard Myers) is the mayor of Ryme City and father of Rachel Myers in the game Detective Pikachu Returns.",
+  "plainText": "Howard Myers (Japanese: ハワード・マイヤーズ Howard Myers) is the mayor of Ryme City and father of Rachel Myers in the game Detective Pikachu Returns. \n\n==In the games==\n ]]\n===Detective Pikachu Returns===\nHoward is first introduced at the beginning of the game where he is giving out medals to Tim and his partner to honor their efforts in investigating the R incident two years ago. Howard's goal as city mayor of Ryme City is to promote stronger bonds between people and Pokémon, while preventing danger to humans related to Pokémon such as the R event. To achieve this goal, it is revealed that Howard has recently formed the Pokémon Protection Bureau (PPB) and has been working to draft a Pokémon Friendship Bill; with the latter being a source of contention with his daughter Rachel. \n\nHoward is later revealed to be the CEO of Unitas, a project which was created by Howard to continue his late wife Emma's research on the mutual understanding between humans and Pokémon. This project leads to the development of Control Cubes which Howard believes is a peaceful solution to foster friendship with Pokémon. He is eventually disillusioned of Charles Merloch's evil plans when Tim, Pikachu, and Rachel convince him of the cubes' actual intentions.\n \n===Personality and characteristics===\n \n \nHoward values his family and will take any measure to protect his daughter Jessica. However, he has been shown to be easily misguided in his aims for peace between people and Pokémon, having been deceived by Merloch's lies in regards to the true nature of the Control Cubes.\n\n===Voice actors===\n \n\n==In other languages==\n \n\n==References==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Howard Myers (Japanese: ハワード・マイヤーズ Howard Myers) is the mayor of Ryme City and father of Rachel Myers in the game Detective Pikachu Returns."
+    },
+    {
+      "heading": "In the games",
+      "level": 2,
+      "text": "]]"
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Howard is first introduced at the beginning of the game where he is giving out medals to Tim and his partner to honor their efforts in investigating the R incident two years ago. Howard's goal as city mayor of Ryme City is to promote stronger bonds between people and Pokémon, while preventing danger to humans related to Pokémon such as the R event. To achieve this goal, it is revealed that Howard has recently formed the Pokémon Protection Bureau (PPB) and has been working to draft a Pokémon Friendship Bill; with the latter being a source of contention with his daughter Rachel. \n\nHoward is later revealed to be the CEO of Unitas, a project which was created by Howard to continue his late wife Emma's research on the mutual understanding between humans and Pokémon. This project leads to the development of Control Cubes which Howard believes is a peaceful solution to foster friendship with Pokémon. He is eventually disillusioned of Charles Merloch's evil plans when Tim, Pikachu, and Rachel convince him of the cubes' actual intentions."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "Howard values his family and will take any measure to protect his daughter Jessica. However, he has been shown to be easily misguided in his aims for peace between people and Pokémon, having been deceived by Merloch's lies in regards to the true nature of the Control Cubes."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Howard Myers",
+    "pageType": "character",
+    "searchableText": "Howard Myers\nCategory:Detective Pikachu Returns characters\nHoward Myers (Japanese: ハワード・マイヤーズ Howard Myers) is the mayor of Ryme City and father of Rachel Myers in the game Detective Pikachu Returns.",
+    "sectionHeadings": [
+      "Lead",
+      "In the games",
+      "Detective Pikachu Returns",
+      "Personality and characteristics"
+    ],
+    "characterCount": 1648,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Brussel Town",
+    "slug": "brussel-town",
+    "pageId": 102948,
+    "revisionId": 4261299
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "brussel-town__102948.json",
+    "revisionTimestamp": "2025-03-19T21:52:34Z",
+    "fetchedAt": "2026-05-14T14:06:23.599Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Brussel Town (Japanese: メキャベツタウン Mekyabetsu Town) is an -exclusive location in Sinnoh. It is situated somewhere between Mount Coronet and Sunyshore City. Like many other in the region, it has a Contest Hall, which makes it a popular destination among Pokémon Coordinators. It was featured in Double-Time Battle Training!.",
+  "plainText": "Brussel Town (Japanese: メキャベツタウン Mekyabetsu Town) is an -exclusive location in Sinnoh. It is situated somewhere between Mount Coronet and Sunyshore City. Like many other in the region, it has a Contest Hall, which makes it a popular destination among Pokémon Coordinators. It was featured in Double-Time Battle Training!.\n\n==Places of interest==\n \n===Contest Hall===\n \n , , and visited the town's Contest Hall to watch Zoey participating in the local Pokémon Contest. They arrived there late and were only able to see the final round, where Zoey faced off against a named . Using her against Rebecca's , Zoey had trouble dealing with the 's . Eventually, Glameow managed to make its opponent come out of its shell with and knock it out with . As a result, the Contest Judges ruled for Shuckle, thus Zoey was declared the winner of the match.\n\nAfter the battle, the Director of the , Mr. Contesta, awarded Zoey with the Brussel Ribbon, her fifth Contest Ribbon overall, which qualified her to compete in the Grand Festival. Zoey then asked him if she could say a few words, using the opportunity to thank her longtime friend Candice for her continued support. It was later revealed that Jessilina had also entered the Brussel Contest, but the position she finished in is unknown.\n\n===Pokémon Center===\n \nAfter Zoey's victory, Candice threw a party at the local Pokémon Center to celebrate her friend's entry into the Sinnoh Grand Festival. In the next day, both Zoey and Candice helped Dawn a new combination that she intended to use in the Contest, which would follow the Double Performance format. Zoey and Dawn later had a Double Battle, with Zoey using her and against Dawn's Mamoswine and . Zoey emerged victorious after Dawn's Pokémon were knocked out.\n\n==Gallery==\n \n\n==Names==\n \n \n\n \n \n\n \n\nit:Brusselopoli\nzh:芽甘藍鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Brussel Town (Japanese: メキャベツタウン Mekyabetsu Town) is an -exclusive location in Sinnoh. It is situated somewhere between Mount Coronet and Sunyshore City. Like many other in the region, it has a Contest Hall, which makes it a popular destination among Pokémon Coordinators. It was featured in Double-Time Battle Training!."
+    },
+    {
+      "heading": "Contest Hall",
+      "level": 3,
+      "text": ", , and visited the town's Contest Hall to watch Zoey participating in the local Pokémon Contest. They arrived there late and were only able to see the final round, where Zoey faced off against a named . Using her against Rebecca's , Zoey had trouble dealing with the 's . Eventually, Glameow managed to make its opponent come out of its shell with and knock it out with . As a result, the Contest Judges ruled for Shuckle, thus Zoey was declared the winner of the match.\n\nAfter the battle, the Director of the , Mr. Contesta, awarded Zoey with the Brussel Ribbon, her fifth Contest Ribbon overall, which qualified her to compete in the Grand Festival. Zoey then asked him if she could say a few words, using the opportunity to thank her longtime friend Candice for her continued support. It was later revealed that Jessilina had also entered the Brussel Contest, but the position she finished in is unknown."
+    },
+    {
+      "heading": "Pokémon Center",
+      "level": 3,
+      "text": "After Zoey's victory, Candice threw a party at the local Pokémon Center to celebrate her friend's entry into the Sinnoh Grand Festival. In the next day, both Zoey and Candice helped Dawn a new combination that she intended to use in the Contest, which would follow the Double Performance format. Zoey and Dawn later had a Double Battle, with Zoey using her and against Dawn's Mamoswine and . Zoey emerged victorious after Dawn's Pokémon were knocked out."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "it:Brusselopoli\nzh:芽甘藍鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Brussel Town",
+    "pageType": "location",
+    "searchableText": "Brussel Town\nCategory:Animated series-exclusive locations\nBrussel Town (Japanese: メキャベツタウン Mekyabetsu Town) is an -exclusive location in Sinnoh. It is situated somewhere between Mount Coronet and Sunyshore City. Like many other in the region, it has a Contest Hall, which makes it a popular destination among Pokémon Coordinators. It was featured in Double-Time Battle Training!.",
+    "sectionHeadings": [
+      "Lead",
+      "Contest Hall",
+      "Pokémon Center",
+      "Names"
+    ],
+    "characterCount": 1820,
+    "sectionCount": 4
+  }
+}

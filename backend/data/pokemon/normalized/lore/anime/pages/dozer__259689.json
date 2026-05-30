@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Dozer",
+    "slug": "dozer",
+    "pageId": 259689,
+    "revisionId": 4518905
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "dozer__259689.json",
+    "revisionTimestamp": "2026-03-29T11:34:26Z",
+    "fetchedAt": "2026-05-14T14:12:20.894Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Dozer (Japanese: ゲンバ Genba) is a character of the day who appeared in Trials of a Budding Master!.\n\nDozer met and Goh while they were investigating a mass outbreak of at the Rock Tunnel. Ash received word that Dozer was a challenger in the World Coronation Series. As a result, he challenged him to a , which he accepted. Dozer used his against Ash's Farfetch'd, and after a tough match, Farfetch'd's was able to smash through Gurdurr's girder. Gurdurr was subsequently knocked out, causing Dozer's ranking to go down. Dozer comforted Gurdurr afterwards and gave it his pickaxe and watched as Farfetch'd ran off.",
+  "plainText": "Dozer (Japanese: ゲンバ Genba) is a character of the day who appeared in Trials of a Budding Master!.\n\nDozer met and Goh while they were investigating a mass outbreak of at the Rock Tunnel. Ash received word that Dozer was a challenger in the World Coronation Series. As a result, he challenged him to a , which he accepted. Dozer used his against Ash's Farfetch'd, and after a tough match, Farfetch'd's was able to smash through Gurdurr's girder. Gurdurr was subsequently knocked out, causing Dozer's ranking to go down. Dozer comforted Gurdurr afterwards and gave it his pickaxe and watched as Farfetch'd ran off.\n\n==Pokémon==\n \n\n==Achievements==\nDozer has competed in the following competitions:\n\nWorld Coronation Series Rank: Unknown (Great Class) \n\n==Voice actors==\n \n\n==Names==\n \n \n\n==Related articles==\n \n\n \n \n\n \n \n \n\nes:Dozer\nfr:Dozer\nit:Dozer\nja:ゲンバ\nzh:源場",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Dozer (Japanese: ゲンバ Genba) is a character of the day who appeared in Trials of a Budding Master!.\n\nDozer met and Goh while they were investigating a mass outbreak of at the Rock Tunnel. Ash received word that Dozer was a challenger in the World Coronation Series. As a result, he challenged him to a , which he accepted. Dozer used his against Ash's Farfetch'd, and after a tough match, Farfetch'd's was able to smash through Gurdurr's girder. Gurdurr was subsequently knocked out, causing Dozer's ranking to go down. Dozer comforted Gurdurr afterwards and gave it his pickaxe and watched as Farfetch'd ran off."
+    },
+    {
+      "heading": "Achievements",
+      "level": 2,
+      "text": "Dozer has competed in the following competitions:\n\nWorld Coronation Series Rank: Unknown (Great Class)"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Dozer\nfr:Dozer\nit:Dozer\nja:ゲンバ\nzh:源場"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dozer",
+    "pageType": "character",
+    "searchableText": "Dozer\nCategory:Journeys characters of the day\nDozer (Japanese: ゲンバ Genba) is a character of the day who appeared in Trials of a Budding Master!.\n\nDozer met and Goh while they were investigating a mass outbreak of at the Rock Tunnel. Ash received word that Dozer was a challenger in the World Coronation Series. As a result, he challenged him to a , which he accepted. Dozer used his against Ash's Farfetch'd, and after a tough match, Farfetch'd's was able to smash through Gurdurr's girder. Gurdurr was subsequently knocked out, causing Dozer's ranking to go down. Dozer comforted Gurdurr afterwards and gave it his pickaxe and watched as Farfetch'd ran off.",
+    "sectionHeadings": [
+      "Lead",
+      "Achievements",
+      "Related articles"
+    ],
+    "characterCount": 861,
+    "sectionCount": 3
+  }
+}

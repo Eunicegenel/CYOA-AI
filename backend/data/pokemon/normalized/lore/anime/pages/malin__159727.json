@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Malin",
+    "slug": "malin",
+    "pageId": 159727,
+    "revisionId": 4515043
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "malin__159727.json",
+    "revisionTimestamp": "2026-03-23T03:55:40Z",
+    "fetchedAt": "2026-05-14T14:34:31.398Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Malin (Japanese: マリン Malin) is a minor supporting character who appeared in Kyurem VS. The Sword of Justice.\n\nShe is an enthusiastic girl who and met during their travels en route to Roshan City. Malin was a little taken aback by 's enthusiasm, but appreciated the group's business. She sells , which can be turned into wind chimes, and \" Ice\" on the Windy Station platform with her Pokémon . The business was marked in the travel guide that Cilan was reading on the train. Malin waved Ash and his friends goodbye as their train departed.",
+  "plainText": "Malin (Japanese: マリン Malin) is a minor supporting character who appeared in Kyurem VS. The Sword of Justice.\n\nShe is an enthusiastic girl who and met during their travels en route to Roshan City. Malin was a little taken aback by 's enthusiasm, but appreciated the group's business. She sells , which can be turned into wind chimes, and \" Ice\" on the Windy Station platform with her Pokémon . The business was marked in the travel guide that Cilan was reading on the train. Malin waved Ash and his friends goodbye as their train departed.\n\n==Pokémon==\n \nThis listing is of Malin's known Pokémon:\n \n \n \n\n==Artwork==\n \n \n\n==Voice actors==\n \n\n==Related articles==\n \n \n\nes:Malin\nfr:Malin (Film 15)\nit:Malin\nja:マリン (映画)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Malin (Japanese: マリン Malin) is a minor supporting character who appeared in Kyurem VS. The Sword of Justice.\n\nShe is an enthusiastic girl who and met during their travels en route to Roshan City. Malin was a little taken aback by 's enthusiasm, but appreciated the group's business. She sells , which can be turned into wind chimes, and \" Ice\" on the Windy Station platform with her Pokémon . The business was marked in the travel guide that Cilan was reading on the train. Malin waved Ash and his friends goodbye as their train departed."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Malin's known Pokémon:"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Malin\nfr:Malin (Film 15)\nit:Malin\nja:マリン (映画)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Malin",
+    "pageType": "movie",
+    "searchableText": "Malin\nCategory:Movie characters\nMalin (Japanese: マリン Malin) is a minor supporting character who appeared in Kyurem VS. The Sword of Justice.\n\nShe is an enthusiastic girl who and met during their travels en route to Roshan City. Malin was a little taken aback by 's enthusiasm, but appreciated the group's business. She sells , which can be turned into wind chimes, and \" Ice\" on the Windy Station platform with her Pokémon . The business was marked in the travel guide that Cilan was reading on the train. Malin waved Ash and his friends goodbye as their train departed.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Related articles"
+    ],
+    "characterCount": 714,
+    "sectionCount": 3
+  }
+}

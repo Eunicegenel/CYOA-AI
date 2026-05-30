@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Shogakukan Asia",
+    "slug": "shogakukan-asia",
+    "pageId": 195343,
+    "revisionId": 4503453
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga",
+    "sourceFileName": "shogakukan-asia__195343.json",
+    "revisionTimestamp": "2026-03-07T16:58:39Z",
+    "fetchedAt": "2026-05-14T15:49:25.600Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Shogakukan Asia Pte. Ltd. (Japanese: 小学館アジア Shōgakukan Asia) is an English language manga and children's book publisher based in . They are an official subsidiary of the Japanese publisher Shogakukan. Their books are available in Singapore, , , , , and .",
+  "plainText": "Shogakukan Asia Pte. Ltd. (Japanese: 小学館アジア Shōgakukan Asia) is an English language manga and children's book publisher based in . They are an official subsidiary of the Japanese publisher Shogakukan. Their books are available in Singapore, , , , , and .\n\n==Pokémon titles licensed by Shogakukan Asia==\nBe the Best! Pokémon B+W\nPokémon Adventures (volume 42 onward)\nPokémon Adventures RGB\nPokémon Adventures Ruby & Sapphire\nPokémon Adventures XY\nPokémon Adventures Omega Ruby Alpha Sapphire\nPokémon Sun, Moon, Ultra Sun & Ultra Moon\nPokémon Sword & Shield\nPokémon Horizon\n\nMovie adaptations\n\nPokémon the Movie: The Power of Us: Zeraora's Story\n\nPokémon the Movie: Secrets of the Jungle—Another Beginning\nPokémon Let's Compare! Omnibus\n\n==External links==\n \nOfficial website\nOfficial Facebook page\non Wikipedia\n\n==Related articles==\n \n \n \n\n \n \n \n\nit:Shōgakukan Asia",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shogakukan Asia Pte. Ltd. (Japanese: 小学館アジア Shōgakukan Asia) is an English language manga and children's book publisher based in . They are an official subsidiary of the Japanese publisher Shogakukan. Their books are available in Singapore, , , , , and ."
+    },
+    {
+      "heading": "Pokémon titles licensed by Shogakukan Asia",
+      "level": 2,
+      "text": "Be the Best! Pokémon B+W\nPokémon Adventures (volume 42 onward)\nPokémon Adventures RGB\nPokémon Adventures Ruby & Sapphire\nPokémon Adventures XY\nPokémon Adventures Omega Ruby Alpha Sapphire\nPokémon Sun, Moon, Ultra Sun & Ultra Moon\nPokémon Sword & Shield\nPokémon Horizon\n\nMovie adaptations\n\nPokémon the Movie: The Power of Us: Zeraora's Story\n\nPokémon the Movie: Secrets of the Jungle—Another Beginning\nPokémon Let's Compare! Omnibus"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nOfficial Facebook page\non Wikipedia"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Shōgakukan Asia"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shogakukan Asia",
+    "pageType": "manga-series",
+    "searchableText": "Shogakukan Asia\nCategory:Manga\nShogakukan Asia Pte. Ltd. (Japanese: 小学館アジア Shōgakukan Asia) is an English language manga and children's book publisher based in . They are an official subsidiary of the Japanese publisher Shogakukan. Their books are available in Singapore, , , , , and .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon titles licensed by Shogakukan Asia",
+      "External links",
+      "Related articles"
+    ],
+    "characterCount": 864,
+    "sectionCount": 4
+  }
+}

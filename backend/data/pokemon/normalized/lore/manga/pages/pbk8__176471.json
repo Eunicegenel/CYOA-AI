@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PBK8",
+    "slug": "pbk8",
+    "pageId": 176471,
+    "revisionId": 4528476
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Platinum: Aim to be Battle King!! chapters",
+    "sourceFileName": "pbk8__176471.json",
+    "revisionTimestamp": "2026-04-09T16:23:18Z",
+    "fetchedAt": "2026-05-14T15:29:28.445Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 王をかけて　最後の戦い！！ Final Battle to Become King!!) is the eighth chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga.",
+  "plainText": "(Japanese: 王をかけて　最後の戦い！！ Final Battle to Become King!!) is the eighth chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nYū Shirogane\n\n===Pokémon===\n( )\n\n \n \n \n\nit:PBK8",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 王をかけて　最後の戦い！！ Final Battle to Become King!!) is the eighth chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Yū Shirogane"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n\n \n \n \n\nit:PBK8"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PBK8",
+    "pageType": "chapter",
+    "searchableText": "PBK8\nCategory:Pocket Monsters Platinum: Aim to be Battle King!! chapters\n(Japanese: 王をかけて　最後の戦い！！ Final Battle to Become King!!) is the eighth chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 286,
+    "sectionCount": 3
+  }
+}

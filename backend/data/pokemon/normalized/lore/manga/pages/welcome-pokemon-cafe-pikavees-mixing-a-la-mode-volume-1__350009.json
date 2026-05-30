@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Welcome! Pokémon Café: PikaVee's Mixing à la mode volume 1",
+    "slug": "welcome-pokemon-cafe-pikavees-mixing-a-la-mode-volume-1",
+    "pageId": 350009,
+    "revisionId": 4471407
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Welcome! Pokémon Café: PikaVee's Mixing à la mode volumes",
+    "sourceFileName": "welcome-pokemon-cafe-pikavees-mixing-a-la-mode-volume-1__350009.json",
+    "revisionTimestamp": "2026-01-20T11:49:59Z",
+    "fetchedAt": "2026-05-14T15:52:37.247Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume of the Welcome! Pokémon Café: PikaVee's Mixing à la mode manga written by Sanae Suzuki and illustrated by Tomoko Fujinoki. It is 32 pages long.\n\nIt contains the 11 chapters serialized as (Japanese: Pokémon Café Mix: PikaVee's Spinning DAYS) and recipes for Pikachu Fruit Flan and Fluffy Eevee Pancakes.",
+  "plainText": "Volume 1 is the first volume of the Welcome! Pokémon Café: PikaVee's Mixing à la mode manga written by Sanae Suzuki and illustrated by Tomoko Fujinoki. It is 32 pages long.\n\nIt contains the 11 chapters serialized as (Japanese: Pokémon Café Mix: PikaVee's Spinning DAYS) and recipes for Pikachu Fruit Flan and Fluffy Eevee Pancakes.\n\n==Publications==\n \n \n \n\n==Chapters==\n \n \n\n==References==\n \n\n==External links==\nShogakukan's website\nBeijing Science and Technology Publishing Co.,Ltd.'s website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the Welcome! Pokémon Café: PikaVee's Mixing à la mode manga written by Sanae Suzuki and illustrated by Tomoko Fujinoki. It is 32 pages long.\n\nIt contains the 11 chapters serialized as (Japanese: Pokémon Café Mix: PikaVee's Spinning DAYS) and recipes for Pikachu Fruit Flan and Fluffy Eevee Pancakes."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Shogakukan's website\nBeijing Science and Technology Publishing Co.,Ltd.'s website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Welcome! Pokémon Café: PikaVee's Mixing à la mode volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Welcome! Pokémon Café: PikaVee's Mixing à la mode volume 1\nCategory:Welcome! Pokémon Café: PikaVee's Mixing à la mode volumes\nVolume 1 is the first volume of the Welcome! Pokémon Café: PikaVee's Mixing à la mode manga written by Sanae Suzuki and illustrated by Tomoko Fujinoki. It is 32 pages long.\n\nIt contains the 11 chapters serialized as (Japanese: Pokémon Café Mix: PikaVee's Spinning DAYS) and recipes for Pikachu Fruit Flan and Fluffy Eevee Pancakes.",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 493,
+    "sectionCount": 2
+  }
+}

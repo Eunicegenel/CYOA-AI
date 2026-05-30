@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Milo Green",
+    "slug": "milo-green",
+    "pageId": 298315,
+    "revisionId": 4114665
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu characters",
+    "sourceFileName": "milo-green__298315.json",
+    "revisionTimestamp": "2024-09-16T20:51:44Z",
+    "fetchedAt": "2026-05-14T14:37:05.731Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Milo Green is a character in the game .",
+  "plainText": "Milo Green is a character in the game .\n\n==In the games==\n=== ===\nMilo is an aspiring Pokémon Ranger who lives on Cappucci Island. He is good friends with John Waals, who is teaching him all about Pokémon. When he was young, he nearly drowned in the lake on Cappucci Island, but he was saved by a wild . While he was unsure what Pokémon saved him, he kept one of its scales, and he currently wears it on his headband.\n\nMilo first appears in Chapter 4, after Tim Goodman runs into a wild that's injured. He stops Tim from doing anything to Ducklett and uses a Potion to heal it. Upon learning that Tim has come to the island to talk to Dr. Waals, Milo offers to guide Tim to Dr. Waals's house. Upon seeing Brad McMaster trying to arrest Dr. Waals for injuring Pokémon at the lake, Milo vehemently defends Dr. Waals, as he doesn't believe Dr. Waals did anything wrong. Tim decides to prove Dr. Waals's innocence, and Milo supports him in his investigation however he can.\n\nMilo has one entry in Tim's case list:\n \n\n===Pokémon===\n====Befriended====\nMilo befriended a wild that lives at the lake. It later evolves into .\n \n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Milo Green is a character in the game ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Milo is an aspiring Pokémon Ranger who lives on Cappucci Island. He is good friends with John Waals, who is teaching him all about Pokémon. When he was young, he nearly drowned in the lake on Cappucci Island, but he was saved by a wild . While he was unsure what Pokémon saved him, he kept one of its scales, and he currently wears it on his headband.\n\nMilo first appears in Chapter 4, after Tim Goodman runs into a wild that's injured. He stops Tim from doing anything to Ducklett and uses a Potion to heal it. Upon learning that Tim has come to the island to talk to Dr. Waals, Milo offers to guide Tim to Dr. Waals's house. Upon seeing Brad McMaster trying to arrest Dr. Waals for injuring Pokémon at the lake, Milo vehemently defends Dr. Waals, as he doesn't believe Dr. Waals did anything wrong. Tim decides to prove Dr. Waals's innocence, and Milo supports him in his investigation however he can.\n\nMilo has one entry in Tim's case list:"
+    },
+    {
+      "heading": "Befriended",
+      "level": 4,
+      "text": "Milo befriended a wild that lives at the lake. It later evolves into ."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Milo Green",
+    "pageType": "character",
+    "searchableText": "Milo Green\nCategory:Detective Pikachu characters\nMilo Green is a character in the game .",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Befriended"
+    ],
+    "characterCount": 1166,
+    "sectionCount": 3
+  }
+}

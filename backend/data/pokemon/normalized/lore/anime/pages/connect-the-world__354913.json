@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Connect the World",
+    "slug": "connect-the-world",
+    "pageId": 354913,
+    "revisionId": 4543435
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese opening themes",
+    "sourceFileName": "connect-the-world__354913.json",
+    "revisionTimestamp": "2026-05-02T21:50:19Z",
+    "fetchedAt": "2026-05-14T14:10:19.890Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Connect the World (Japanese: セカイツナガレ Sekai Tsunagare) is the Japanese opening theme for the Wonder Voyage arc and the seventh of Pokémon Horizons: The Series. It will debut in HZ137, replacing Iolite.\n\nThe full version of the song will be released as a digital single on May 22, 2026.",
+  "plainText": "Connect the World (Japanese: セカイツナガレ Sekai Tsunagare) is the Japanese opening theme for the Wonder Voyage arc and the seventh of Pokémon Horizons: The Series. It will debut in HZ137, replacing Iolite.\n\nThe full version of the song will be released as a digital single on May 22, 2026.\n\n==Opening animation==\n===Synopsis===\n\n===Characters===\n====Humans====\nLiko\nRoy\nDot\n \n \n\n====Pokémon====\n( )\n( )\n \n( )\n \n \n(Friede's; Captain Pikachu)\n\n==Lyrics==\n===TV size===\n\n \n\n==Staff==\n\n \n \n \n\n \n\nzh:連通世界",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Connect the World (Japanese: セカイツナガレ Sekai Tsunagare) is the Japanese opening theme for the Wonder Voyage arc and the seventh of Pokémon Horizons: The Series. It will debut in HZ137, replacing Iolite.\n\nThe full version of the song will be released as a digital single on May 22, 2026."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Liko\nRoy\nDot"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 4,
+      "text": "( )\n( )\n \n( )\n \n \n(Friede's; Captain Pikachu)"
+    },
+    {
+      "heading": "Staff",
+      "level": 2,
+      "text": "zh:連通世界"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Connect the World",
+    "pageType": "general-anime-lore",
+    "searchableText": "Connect the World\nCategory:Japanese opening themes\nConnect the World (Japanese: セカイツナガレ Sekai Tsunagare) is the Japanese opening theme for the Wonder Voyage arc and the seventh of Pokémon Horizons: The Series. It will debut in HZ137, replacing Iolite.\n\nThe full version of the song will be released as a digital single on May 22, 2026.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Staff"
+    ],
+    "characterCount": 494,
+    "sectionCount": 4
+  }
+}

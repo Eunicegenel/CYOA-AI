@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM052",
+    "slug": "pm052",
+    "pageId": 160479,
+    "revisionId": 4527342
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm052__160479.json",
+    "revisionTimestamp": "2026-04-09T15:33:37Z",
+    "fetchedAt": "2026-05-14T15:31:02.431Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Protect Jynx!! (Japanese: ルージュラを守れ！！ Protect !!) is the fifty-second chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Protect Jynx!! (Japanese: ルージュラを守れ！！ Protect !!) is the fifty-second chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nGiovanni's twin brother\ns\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 52 (Pokémon Pocket Monsters)\nit:PMM052",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Protect Jynx!! (Japanese: ルージュラを守れ！！ Protect !!) is the fifty-second chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Giovanni's twin brother\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 52 (Pokémon Pocket Monsters)\nit:PMM052"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM052",
+    "pageType": "chapter",
+    "searchableText": "PM052\nCategory:Pokémon Pocket Monsters chapters\nProtect Jynx!! (Japanese: ルージュラを守れ！！ Protect !!) is the fifty-second chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 338,
+    "sectionCount": 4
+  }
+}

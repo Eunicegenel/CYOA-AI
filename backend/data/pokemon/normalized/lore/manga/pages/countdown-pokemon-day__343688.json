@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Countdown Pokémon Day",
+    "slug": "countdown-pokemon-day",
+    "pageId": 343688,
+    "revisionId": 4398683
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Countdown Pokémon Day",
+    "sourceFileName": "countdown-pokemon-day__343688.json",
+    "revisionTimestamp": "2025-10-12T19:41:44Z",
+    "fetchedAt": "2026-05-14T15:16:16.407Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "----\n(Japanese: Countdown Pokémon Day) is a Pokémon manga written by Kazumori Matsumura and illustrated by Yaso Hanamura. It was published daily on Poké Times from February 20 to 27, 2025, in celebration of Pokémon Day 2025.",
+  "plainText": "----\n(Japanese: Countdown Pokémon Day) is a Pokémon manga written by Kazumori Matsumura and illustrated by Yaso Hanamura. It was published daily on Poké Times from February 20 to 27, 2025, in celebration of Pokémon Day 2025.\n\n==Characters==\nYūsuke (Japanese: Yūsuke). He is the Pokémon Day Executive Committee Leader. He owns a .\nDaichi (Japanese: Daichi). He is a Pokémon Day Executive Committee member. He owns a .\nTokio (Japanese: Tokio). He is a Pokémon Day Executive Committee member. He owns a .\nUmina (Japanese: Umina). She is a Pokémon Day Executive Committee member. She owns a named Yadoyan (Japanese: Yadoyan).\nYuki (Japanese: Yuki). She is a Pokémon Day Executive Committee member. She owns a named Run-chan (Japanese: Run-chan).\nAi (Japanese: Ai). She is Yūsuke's senior. She owns a named Gyara-chan (Japanese: Gyara-chan).\nMayor (Japanese: Mayor). He owns a .\n\n===Gallery===\n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n\n==Chapters==\n \n\n \n \n\n \n \n\nzh:寶可夢日倒數計時",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n(Japanese: Countdown Pokémon Day) is a Pokémon manga written by Kazumori Matsumura and illustrated by Yaso Hanamura. It was published daily on Poké Times from February 20 to 27, 2025, in celebration of Pokémon Day 2025."
+    },
+    {
+      "heading": "Characters",
+      "level": 2,
+      "text": "Yūsuke (Japanese: Yūsuke). He is the Pokémon Day Executive Committee Leader. He owns a .\nDaichi (Japanese: Daichi). He is a Pokémon Day Executive Committee member. He owns a .\nTokio (Japanese: Tokio). He is a Pokémon Day Executive Committee member. He owns a .\nUmina (Japanese: Umina). She is a Pokémon Day Executive Committee member. She owns a named Yadoyan (Japanese: Yadoyan).\nYuki (Japanese: Yuki). She is a Pokémon Day Executive Committee member. She owns a named Run-chan (Japanese: Run-chan).\nAi (Japanese: Ai). She is Yūsuke's senior. She owns a named Gyara-chan (Japanese: Gyara-chan).\nMayor (Japanese: Mayor). He owns a ."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "zh:寶可夢日倒數計時"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Countdown Pokémon Day",
+    "pageType": "pokemon-related",
+    "searchableText": "Countdown Pokémon Day\nCategory:Countdown Pokémon Day\n----\n(Japanese: Countdown Pokémon Day) is a Pokémon manga written by Kazumori Matsumura and illustrated by Yaso Hanamura. It was published daily on Poké Times from February 20 to 27, 2025, in celebration of Pokémon Day 2025.",
+    "sectionHeadings": [
+      "Lead",
+      "Characters",
+      "Chapters"
+    ],
+    "characterCount": 995,
+    "sectionCount": 3
+  }
+}

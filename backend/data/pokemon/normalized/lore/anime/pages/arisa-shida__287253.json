@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Arisa Shida",
+    "slug": "arisa-shida",
+    "pageId": 287253,
+    "revisionId": 4331487
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "arisa-shida__287253.json",
+    "revisionTimestamp": "2025-07-06T12:45:01Z",
+    "fetchedAt": "2026-05-14T14:03:16.572Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Arisa Shida (Japanese: 志田有彩 Shida Arisa) is a Japanese voice actress for .",
+  "plainText": "Arisa Shida (Japanese: 志田有彩 Shida Arisa) is a Japanese voice actress for .\n\n==Biography==\nShida was born on October 3rd, in Yokohama, Kanagawa, Japan and became a voice actor as an adult. Shida joined the during , voicing Onia from the Explorers.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n \nOnia\n \n\n=====Pokémon=====\n======Major======\n\n======Minor======\n\n(HZ011)\n(HZ020)\n\n \n\n==Other non-Pokémon roles==\nAmanda O'Neill ( )\nNyssiana ( )\nElle ( )\nToll von Flegel ( )\nTenmonkata ( )\nPrincess Peach ( )\n\n==External links==\nWebsite\nAnime News Network\n\n \n \n \n\nit:Arisa Shida\nja:志田有彩",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Arisa Shida (Japanese: 志田有彩 Shida Arisa) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Shida was born on October 3rd, in Yokohama, Kanagawa, Japan and became a voice actor as an adult. Shida joined the during , voicing Onia from the Explorers."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Onia"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(HZ011)\n(HZ020)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Amanda O'Neill ( )\nNyssiana ( )\nElle ( )\nToll von Flegel ( )\nTenmonkata ( )\nPrincess Peach ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Website\nAnime News Network\n\n \n \n \n\nit:Arisa Shida\nja:志田有彩"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Arisa Shida",
+    "pageType": "general-anime-lore",
+    "searchableText": "Arisa Shida\nCategory:Japanese voice actors\nArisa Shida (Japanese: 志田有彩 Shida Arisa) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 595,
+    "sectionCount": 6
+  }
+}

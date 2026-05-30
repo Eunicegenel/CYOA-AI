@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "List of Swedish Pokémon home video releases",
+    "slug": "list-of-swedish-pokemon-home-video-releases",
+    "pageId": 221283,
+    "revisionId": 4356206
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Lists of animation home video releases",
+    "sourceFileName": "list-of-swedish-pokemon-home-video-releases__221283.json",
+    "revisionTimestamp": "2025-08-10T21:59:34Z",
+    "fetchedAt": "2026-05-14T14:32:50.061Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The following is a list of all of the home video releases of the Pokémon animated series and movies.",
+  "plainText": "The following is a list of all of the home video releases of the Pokémon animated series and movies.\n\n==Main series==\n\n===Pokémon: Indigo League===\n\n====VHS====\nFeatures episodes 1-17, 20-33 of the first season on VHS.\n \n\n===Pokémon: Johto League Champions===\n\n====DVD and VHS====\n \n\n====Mini DVD====\nThese mini DVDs were distributed in small cardboard jackets.\n \n\n===Pokémon: Master Quest===\n\n====DVD and VHS====\nThe rental DVDs features unique cover art and media.\n \n\n===Pokémon Advanced===\n\n====DVD and VHS====\n \n\n==Animated movies==\n\n===VHS===\n \n\n===DVD===\n \n\n==Live-action movies==\n \n\n==Anime specials==\n\n===VHS===\n \n\n==Complete DVD/VHS covers, GTIN, and Catalogue numbers==\n \n\n==Related articles==\nPokémon in Sweden\nList of Swedish Pokémon themes",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of all of the home video releases of the Pokémon animated series and movies."
+    },
+    {
+      "heading": "VHS",
+      "level": 4,
+      "text": "Features episodes 1-17, 20-33 of the first season on VHS."
+    },
+    {
+      "heading": "Mini DVD",
+      "level": 4,
+      "text": "These mini DVDs were distributed in small cardboard jackets."
+    },
+    {
+      "heading": "DVD and VHS",
+      "level": 4,
+      "text": "The rental DVDs features unique cover art and media."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Pokémon in Sweden\nList of Swedish Pokémon themes"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Swedish Pokémon home video releases",
+    "pageType": "pokemon-related",
+    "searchableText": "List of Swedish Pokémon home video releases\nCategory:Lists of animation home video releases\nThe following is a list of all of the home video releases of the Pokémon animated series and movies.",
+    "sectionHeadings": [
+      "Lead",
+      "VHS",
+      "Mini DVD",
+      "DVD and VHS",
+      "Related articles"
+    ],
+    "characterCount": 752,
+    "sectionCount": 5
+  }
+}

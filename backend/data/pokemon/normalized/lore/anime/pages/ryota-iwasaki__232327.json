@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Ryota Iwasaki",
+    "slug": "ryota-iwasaki",
+    "pageId": 232327,
+    "revisionId": 4323362
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "ryota-iwasaki__232327.json",
+    "revisionTimestamp": "2025-06-24T03:28:49Z",
+    "fetchedAt": "2026-05-14T14:47:28.839Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Ryota Iwasaki (Japanese: 岩崎諒太 Iwasaki Ryōta) is a Japanese voice actor for .",
+  "plainText": "Ryota Iwasaki (Japanese: 岩崎諒太 Iwasaki Ryōta) is a Japanese voice actor for .\n\n==Biography==\nIwasaki was born sometime on July 1 in , . He started working on during , mainly voicing minor characters. Iwasaki's most notable roles so far are Mr. Electric and Gladion's Zoroark. He is currently affiliated with the talent agency Atomic Monkey.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nMr. Electric\nRock hunter\n\n======Minor======\nMan A (SM034)\nStaff Member (SM041)\nAttendant (SM086)\n(SM088-SM090, SM122)\n(SM128, SM130, SM135)\nSecurity Guard (SM100)\nReporter (SM110)\nDirector (SM113)\nFarley\nCrew member (SM120)\nTrainer (JN002)\nReferee (JN007)\nStaff (JN008)\nMC (JN012)\n\n=====Pokémon=====\n======Major======\nGladion's Zoroark\n\n(anime; SM121)\n\n======Minor======\n\n(SM094)\n(SM123)\n(M22)\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\n===Anime series===\nHeishi/Jûmin/Taiin ( )\nInasa Yoarashi ( )\nTen'in B ( )\nSang-jun ( )\nSamurai ( )\nReinforcements ( )\nShun Hosoi ( )\n\n===Tokusatsu===\n( (ep. 22))\n( (ep. 21))\nCharybdis Megid ( (ep. 28 onward))\n\n==External links==\nTwitter\nAnime News Network\nBehind The Voice Actors\n\n \n\n \n\nit:Ryōta Iwasaki",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ryota Iwasaki (Japanese: 岩崎諒太 Iwasaki Ryōta) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Iwasaki was born sometime on July 1 in , . He started working on during , mainly voicing minor characters. Iwasaki's most notable roles so far are Mr. Electric and Gladion's Zoroark. He is currently affiliated with the talent agency Atomic Monkey."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Mr. Electric\nRock hunter"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Man A (SM034)\nStaff Member (SM041)\nAttendant (SM086)\n(SM088-SM090, SM122)\n(SM128, SM130, SM135)\nSecurity Guard (SM100)\nReporter (SM110)\nDirector (SM113)\nFarley\nCrew member (SM120)\nTrainer (JN002)\nReferee (JN007)\nStaff (JN008)\nMC (JN012)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Gladion's Zoroark\n\n(anime; SM121)"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(SM094)\n(SM123)\n(M22)"
+    },
+    {
+      "heading": "Anime series",
+      "level": 3,
+      "text": "Heishi/Jûmin/Taiin ( )\nInasa Yoarashi ( )\nTen'in B ( )\nSang-jun ( )\nSamurai ( )\nReinforcements ( )\nShun Hosoi ( )"
+    },
+    {
+      "heading": "Tokusatsu",
+      "level": 3,
+      "text": "( (ep. 22))\n( (ep. 21))\nCharybdis Megid ( (ep. 28 onward))"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nAnime News Network\nBehind The Voice Actors\n\n \n\n \n\nit:Ryōta Iwasaki"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ryota Iwasaki",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ryota Iwasaki\nCategory:Japanese voice actors\nRyota Iwasaki (Japanese: 岩崎諒太 Iwasaki Ryōta) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Anime series",
+      "Tokusatsu",
+      "External links"
+    ],
+    "characterCount": 1192,
+    "sectionCount": 9
+  }
+}

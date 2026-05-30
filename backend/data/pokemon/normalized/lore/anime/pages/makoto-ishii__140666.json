@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Makoto Ishii",
+    "slug": "makoto-ishii",
+    "pageId": 140666,
+    "revisionId": 4323341
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "makoto-ishii__140666.json",
+    "revisionTimestamp": "2025-06-24T03:28:31Z",
+    "fetchedAt": "2026-05-14T14:34:28.886Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Makoto Ishii (Japanese: 石井真 Ishii Makoto) is a Japanese voice actor for .",
+  "plainText": "Makoto Ishii (Japanese: 石井真 Ishii Makoto) is a Japanese voice actor for .\n\n==Biography==\nIshii was born on February 24, 1976, in , , , and became a voice actor as an adult. He occasionally lent his voice to the during and . Then, during , he voiced his best-known role, which was Cress, one of the three Striaton City Gym Leaders and brothers. Ishii is currently affiliated with Remax.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\n\nAustin\nCress\n\n======Minor======\nAstin\n\n==Other non-Pokémon roles==\nKazuki Makabe ( )\nNamida-kun ( )\nShinichirō Nakagami ( )\nAstrias ( )\nKunihito Kusanagi ( )\nArthur ( )\nMasumi Nishijima ( )\nRyōta-Neko ( )\nRui Tomita ( )\nLauryn Wright ( )\nTōichiro Sasagoi ( )\n\n===Video game roles===\nRepede ( )\nArthur ( )\n\n==External links==\nRemax profile\n\n \n\n \n\nit:Makoto Ishii\nja:石井真",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Makoto Ishii (Japanese: 石井真 Ishii Makoto) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Ishii was born on February 24, 1976, in , , , and became a voice actor as an adult. He occasionally lent his voice to the during and . Then, during , he voiced his best-known role, which was Cress, one of the three Striaton City Gym Leaders and brothers. Ishii is currently affiliated with Remax."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Austin\nCress"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Astin"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Kazuki Makabe ( )\nNamida-kun ( )\nShinichirō Nakagami ( )\nAstrias ( )\nKunihito Kusanagi ( )\nArthur ( )\nMasumi Nishijima ( )\nRyōta-Neko ( )\nRui Tomita ( )\nLauryn Wright ( )\nTōichiro Sasagoi ( )"
+    },
+    {
+      "heading": "Video game roles",
+      "level": 3,
+      "text": "Repede ( )\nArthur ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Remax profile\n\n \n\n \n\nit:Makoto Ishii\nja:石井真"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Makoto Ishii",
+    "pageType": "general-anime-lore",
+    "searchableText": "Makoto Ishii\nCategory:Japanese voice actors\nMakoto Ishii (Japanese: 石井真 Ishii Makoto) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "Video game roles",
+      "External links"
+    ],
+    "characterCount": 835,
+    "sectionCount": 7
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Try Adventure volume 2",
+    "slug": "pokemon-try-adventure-volume-2",
+    "pageId": 175428,
+    "revisionId": 4298295
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure volumes",
+    "sourceFileName": "pokemon-try-adventure-volume-2__175428.json",
+    "revisionTimestamp": "2025-05-11T10:03:40Z",
+    "fetchedAt": "2026-05-14T15:38:09.655Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 2 is the second volume of the Pokémon Try Adventure manga created by Miho Asada, Jun Keijima, and Laboratory.",
+  "plainText": "Volume 2 is the second volume of the Pokémon Try Adventure manga created by Miho Asada, Jun Keijima, and Laboratory.\n\n==Publications==\n \n \n \n \n \n\n==Chapters==\nChapter 1: A Truly Strong Man\nChapter 2: Soro's Dream\nChapter 3: Friendship on the Snowfields\nChapter 4: Caty's Big Chance!?\nChapter 5: Arceus Revealed!\nChapter 6: Toki's Sad Past\nChapter 7: Adventure without End\nChapter 8: Big Panic at the Factory\nChapter 9: Jido and Katsuya\nChapter 10: Sandstorm Battle!\nChapter 11: Formed! Trystar!\nChapter 12: Clue to Cresselia!\nChapter 13: The Lunar Wing\nChapter 14: Connected Spaces\nChapter 15: A New Encounter\n\n \n \n \n \n\nes:Tomo 2 (Pokémon Try Adventure)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume of the Pokémon Try Adventure manga created by Miho Asada, Jun Keijima, and Laboratory."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 1: A Truly Strong Man\nChapter 2: Soro's Dream\nChapter 3: Friendship on the Snowfields\nChapter 4: Caty's Big Chance!?\nChapter 5: Arceus Revealed!\nChapter 6: Toki's Sad Past\nChapter 7: Adventure without End\nChapter 8: Big Panic at the Factory\nChapter 9: Jido and Katsuya\nChapter 10: Sandstorm Battle!\nChapter 11: Formed! Trystar!\nChapter 12: Clue to Cresselia!\nChapter 13: The Lunar Wing\nChapter 14: Connected Spaces\nChapter 15: A New Encounter\n\n \n \n \n \n\nes:Tomo 2 (Pokémon Try Adventure)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Try Adventure volume 2",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Try Adventure volume 2\nCategory:Pokémon Try Adventure volumes\nVolume 2 is the second volume of the Pokémon Try Adventure manga created by Miho Asada, Jun Keijima, and Laboratory.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 653,
+    "sectionCount": 2
+  }
+}

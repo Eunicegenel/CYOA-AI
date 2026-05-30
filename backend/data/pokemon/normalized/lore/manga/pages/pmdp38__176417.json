@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP38",
+    "slug": "pmdp38",
+    "pageId": 176417,
+    "revisionId": 4528488
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp38__176417.json",
+    "revisionTimestamp": "2026-04-09T16:23:50Z",
+    "fetchedAt": "2026-05-14T15:32:36.847Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピ先生の爆笑授業！？ Mr. 's Laugh-Filled Class!?) is the thirty-eighth chapter of the manga.",
+  "plainText": "(Japanese: ピッピ先生の爆笑授業！？ Mr. 's Laugh-Filled Class!?) is the thirty-eighth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピ先生の爆笑授業！？ Mr. 's Laugh-Filled Class!?) is the thirty-eighth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP38",
+    "pageType": "chapter",
+    "searchableText": "PMDP38\nCategory:Pocket Monsters DP chapters\n(Japanese: ピッピ先生の爆笑授業！？ Mr. 's Laugh-Filled Class!?) is the thirty-eighth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 223,
+    "sectionCount": 2
+  }
+}

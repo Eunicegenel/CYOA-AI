@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Rei (GDZ)",
+    "slug": "rei-gdz",
+    "pageId": 211577,
+    "revisionId": 4398484
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "rei-gdz__211577.json",
+    "revisionTimestamp": "2025-10-12T11:59:34Z",
+    "fetchedAt": "2026-05-14T15:48:13.867Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: レイ Rei) is a character who appeared in Pokémon: Yeah! I Got Pokémon!.",
+  "plainText": "(Japanese: レイ Rei) is a character who appeared in Pokémon: Yeah! I Got Pokémon!.\n\n==History==\nRei first appeared in GDZ31.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: レイ Rei) is a character who appeared in Pokémon: Yeah! I Got Pokémon!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Rei first appeared in GDZ31."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rei (GDZ)",
+    "pageType": "character",
+    "searchableText": "Rei (GDZ)\nCategory:Pokémon: Yeah! I Got Pokémon! characters\n(Japanese: レイ Rei) is a character who appeared in Pokémon: Yeah! I Got Pokémon!.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 135,
+    "sectionCount": 2
+  }
+}

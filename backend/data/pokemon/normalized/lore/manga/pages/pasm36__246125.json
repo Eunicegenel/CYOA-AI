@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PASM36",
+    "slug": "pasm36",
+    "pageId": 246125,
+    "revisionId": 4549190
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasm36__246125.json",
+    "revisionTimestamp": "2026-05-11T01:27:36Z",
+    "fetchedAt": "2026-05-14T15:28:38.725Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Regeneration!! The Power of the Sun and the Moon! (Japanese: 再生！！太陽と月の力！ Revival!! The Power of the Sun and Moon!) is the 36th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Regeneration!! The Power of the Sun and the Moon! (Japanese: 再生！！太陽と月の力！ Revival!! The Power of the Sun and Moon!) is the 36th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n==Major events==\n\n \n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nLillie\nGladion\nLusamine\nGuzma\nPlumeria\nSina \nDexio\nSamson Oak\nRyuki\nZossie\nDulse\nSoliera\nPhyco\ns (flashback)\n\n===Pokémon===\n( 's)\n( 's)\n(Alolan form; 's)\n( ; evolves)\n( ; newly evolved)\n(Lillie's)\n( )\n( ; )\n(Sina's)\n(Dexio's)\n(Ryuki's)\n(Plumeria's)\n( 's)\n(Alolan form; 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( ; )\n( )\n( )\n( ; )\n\n==In other languages==\n \n\n \n\n \n \n \n\nde:Die Kraft der Sonne und des Mondes\nes:PMSSM36\nit:PASM36\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第36话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Regeneration!! The Power of the Sun and the Moon! (Japanese: 再生！！太陽と月の力！ Revival!! The Power of the Sun and Moon!) is the 36th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Lillie\nGladion\nLusamine\nGuzma\nPlumeria\nSina \nDexio\nSamson Oak\nRyuki\nZossie\nDulse\nSoliera\nPhyco\ns (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( 's)\n(Alolan form; 's)\n( ; evolves)\n( ; newly evolved)\n(Lillie's)\n( )\n( ; )\n(Sina's)\n(Dexio's)\n(Ryuki's)\n(Plumeria's)\n( 's)\n(Alolan form; 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( ; )\n( )\n( )\n( ; )"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Die Kraft der Sonne und des Mondes\nes:PMSSM36\nit:PASM36\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第36话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASM36",
+    "pageType": "chapter",
+    "searchableText": "PASM36\nCategory:Pokémon Adventures chapters\nRegeneration!! The Power of the Sun and the Moon! (Japanese: 再生！！太陽と月の力！ Revival!! The Power of the Sun and Moon!) is the 36th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 731,
+    "sectionCount": 4
+  }
+}

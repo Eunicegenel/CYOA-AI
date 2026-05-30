@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Becky",
+    "slug": "becky",
+    "pageId": 14149,
+    "revisionId": 4543529
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "becky__14149.json",
+    "revisionTimestamp": "2026-05-03T04:47:48Z",
+    "fetchedAt": "2026-05-14T14:04:54.476Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Becky (Japanese: ベッキー) is a Japanese voice actress for . She is a popular Japanese presenter and , who first appeared on Oha Suta in 1999, where she would read out the names of various Pokémon characters. She has also performed an opening for Pokémon Sunday titled Hello! Thank You!. The soundtrack from Hello! Thank You and Soaring Pokémon Kids would later appear on CDs released by Becky.",
+  "plainText": "Becky (Japanese: ベッキー) is a Japanese voice actress for . She is a popular Japanese presenter and , who first appeared on Oha Suta in 1999, where she would read out the names of various Pokémon characters. She has also performed an opening for Pokémon Sunday titled Hello! Thank You!. The soundtrack from Hello! Thank You and Soaring Pokémon Kids would later appear on CDs released by Becky.\n\n==Pokémon roles==\n===Animation===\n==== ====\n\nKidd Summers\nJudy\n\n====Musical appearances====\nHello! Thank You!\nSoaring Pokémon Kids\n\n===Live appearances===\nPokémon: The World, Oha Suta (1999)\nPokémon Sunday (co-host, October 2004-September 2006)\n\n==External links==\nPersonal website\nOfficial website\nUniversal Music profile\nArticle announcing Becky's win of \"Best Character Award 2011\"\n \n\n \n \n\nit:Becky\nja:ベッキー",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Becky (Japanese: ベッキー) is a Japanese voice actress for . She is a popular Japanese presenter and , who first appeared on Oha Suta in 1999, where she would read out the names of various Pokémon characters. She has also performed an opening for Pokémon Sunday titled Hello! Thank You!. The soundtrack from Hello! Thank You and Soaring Pokémon Kids would later appear on CDs released by Becky."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Kidd Summers\nJudy"
+    },
+    {
+      "heading": "Musical appearances",
+      "level": 4,
+      "text": "Hello! Thank You!\nSoaring Pokémon Kids"
+    },
+    {
+      "heading": "Live appearances",
+      "level": 3,
+      "text": "Pokémon: The World, Oha Suta (1999)\nPokémon Sunday (co-host, October 2004-September 2006)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Personal website\nOfficial website\nUniversal Music profile\nArticle announcing Becky's win of \"Best Character Award 2011\"\n \n\n \n \n\nit:Becky\nja:ベッキー"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Becky",
+    "pageType": "general-anime-lore",
+    "searchableText": "Becky\nCategory:Japanese voice actors\nBecky (Japanese: ベッキー) is a Japanese voice actress for . She is a popular Japanese presenter and , who first appeared on Oha Suta in 1999, where she would read out the names of various Pokémon characters. She has also performed an opening for Pokémon Sunday titled Hello! Thank You!. The soundtrack from Hello! Thank You and Soaring Pokémon Kids would later appear on CDs released by Becky.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Musical appearances",
+      "Live appearances",
+      "External links"
+    ],
+    "characterCount": 801,
+    "sectionCount": 5
+  }
+}

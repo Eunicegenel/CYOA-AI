@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pocket Monsters BW volume 2",
+    "slug": "pocket-monsters-bw-volume-2",
+    "pageId": 171677,
+    "revisionId": 4528656
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW volumes",
+    "sourceFileName": "pocket-monsters-bw-volume-2__171677.json",
+    "revisionTimestamp": "2026-04-09T16:33:09Z",
+    "fetchedAt": "2026-05-14T15:34:09.649Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 2 is the second volume of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 2 is the second volume of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n\n==Chapters==\nThe Victory Pokémon and the Big Match!\nThe New Member is an Architect!!\nI Want to Become a Pi~lot!\nI'm Rich!?\nUse SL Fuel to Dig!\nClefairy's Demon Extermination\nClefairy Squad Appears!!\nI Want to Eat the Christmas Cake!!\nEarn Big by Being a Producer!?\nClefairy's First Dream Tactics\nRed, Graduation Ceremony of Tears...!?\n\n==Important events==\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The Victory Pokémon and the Big Match!\nThe New Member is an Architect!!\nI Want to Become a Pi~lot!\nI'm Rich!?\nUse SL Fuel to Dig!\nClefairy's Demon Extermination\nClefairy Squad Appears!!\nI Want to Eat the Christmas Cake!!\nEarn Big by Being a Producer!?\nClefairy's First Dream Tactics\nRed, Graduation Ceremony of Tears...!?"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters BW volume 2",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters BW volume 2\nCategory:Pocket Monsters BW volumes\nVolume 2 is the second volume of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 459,
+    "sectionCount": 3
+  }
+}

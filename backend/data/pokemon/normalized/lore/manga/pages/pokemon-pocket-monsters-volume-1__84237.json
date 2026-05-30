@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Pokémon Pocket Monsters volume 1",
+    "slug": "pokemon-pocket-monsters-volume-1",
+    "pageId": 84237,
+    "revisionId": 4298464
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters volumes",
+    "sourceFileName": "pokemon-pocket-monsters-volume-1__84237.json",
+    "revisionTimestamp": "2025-05-11T10:05:06Z",
+    "fetchedAt": "2026-05-14T15:36:51.546Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 1 is the first volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n \n\n==Chapters==\nClefairy's Debut!!\nThe Battle in Veridian Forest!!\nLet's Defeat the Allmighty Onix!!\nLet's Get that Moon Rock!!\nThe Hunt for Mew the Phantom Pokémon!!\nThe Battle on Earth and Sea!!\nDefeat the Pokémon Ghost!!\n\n==Important events==\nchooses as his first partner Pokémon.\nfights his first Pokémon battle.\njoins Red's team.\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\nRed's in PM001\nRed's in PM003\n===Evolutions===\nThe following Pokémon evolve:\n\n==Gym Battles==\nRed defeats the following Gym Leaders:\nBrock in PM003\nMisty in PM004\nLt. Surge in PM006\n==Character summary==\n\n===Red's Party===\n \n \n\n==Errors==\nIn the English translation of volume 1 and 2 by Chuang Yi Pikachu and Green have the same character description, \"Clefairy's cousin. Saved by Red and Clefairy, he joins them on their quest\".\n\n \n\n \n\nde:Band 1 (Pokémon Pocket Monsters)\nit:Pokémon Pocket Monsters volume 1\nzh:宝可梦欢乐祭1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Clefairy's Debut!!\nThe Battle in Veridian Forest!!\nLet's Defeat the Allmighty Onix!!\nLet's Get that Moon Rock!!\nThe Hunt for Mew the Phantom Pokémon!!\nThe Battle on Earth and Sea!!\nDefeat the Pokémon Ghost!!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "chooses as his first partner Pokémon.\nfights his first Pokémon battle.\njoins Red's team."
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:\nRed's in PM001\nRed's in PM003"
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "The following Pokémon evolve:"
+    },
+    {
+      "heading": "Gym Battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:\nBrock in PM003\nMisty in PM004\nLt. Surge in PM006"
+    },
+    {
+      "heading": "Errors",
+      "level": 2,
+      "text": "In the English translation of volume 1 and 2 by Chuang Yi Pikachu and Green have the same character description, \"Clefairy's cousin. Saved by Red and Clefairy, he joins them on their quest\".\n\n \n\n \n\nde:Band 1 (Pokémon Pocket Monsters)\nit:Pokémon Pocket Monsters volume 1\nzh:宝可梦欢乐祭1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pocket Monsters volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pocket Monsters volume 1\nCategory:Pokémon Pocket Monsters volumes\nVolume 1 is the first volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Additions",
+      "Evolutions",
+      "Gym Battles",
+      "Errors"
+    ],
+    "characterCount": 1056,
+    "sectionCount": 7
+  }
+}

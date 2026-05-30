@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Chōta",
+    "slug": "chota",
+    "pageId": 294024,
+    "revisionId": 4095054
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "chota__294024.json",
+    "revisionTimestamp": "2024-09-01T00:13:20Z",
+    "fetchedAt": "2026-05-14T14:09:39.358Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: チョータ Chōta) is a Pokémon Trainer and a character of the day who was set to appear in AG101 (unaired).\n\nChōta lives on Jojo Island with his . He is seen trying to calm a group of , suggesting he is kind and likes Pokémon.",
+  "plainText": "(Japanese: チョータ Chōta) is a Pokémon Trainer and a character of the day who was set to appear in AG101 (unaired).\n\nChōta lives on Jojo Island with his . He is seen trying to calm a group of , suggesting he is kind and likes Pokémon.\n\n==Pokémon==\nThis listing is of Chōta's known Pokémon:\n \n \n \n\n \n \n \n\nit:Chōta",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: チョータ Chōta) is a Pokémon Trainer and a character of the day who was set to appear in AG101 (unaired).\n\nChōta lives on Jojo Island with his . He is seen trying to calm a group of , suggesting he is kind and likes Pokémon."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Chōta's known Pokémon:\n \n \n \n\n \n \n \n\nit:Chōta"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Chōta",
+    "pageType": "character",
+    "searchableText": "Chōta\nCategory:Hoenn characters of the day\n(Japanese: チョータ Chōta) is a Pokémon Trainer and a character of the day who was set to appear in AG101 (unaired).\n\nChōta lives on Jojo Island with his . He is seen trying to calm a group of , suggesting he is kind and likes Pokémon.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 309,
+    "sectionCount": 2
+  }
+}

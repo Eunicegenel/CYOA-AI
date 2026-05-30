@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP65",
+    "slug": "ppp65",
+    "pageId": 6649,
+    "revisionId": 4528559
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp65__6649.json",
+    "revisionTimestamp": "2026-04-09T16:26:46Z",
+    "fetchedAt": "2026-05-14T15:39:17.403Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Apricot and Wal (Japanese: 子梅 本当の気持ち, 's True Feelings), is the fourth chapter of the tenth volume of Magical Pokémon Journey.",
+  "plainText": "Apricot and Wal (Japanese: 子梅 本当の気持ち, 's True Feelings), is the fourth chapter of the tenth volume of Magical Pokémon Journey.\n\n==Plot==\n \n\n==Important characters and Pokémon==\nApricot\nWalnut\nMarimaru\nMaster Ditto\n\n==Character introductions==\n\n==Important events==\n\n==Trivia==\nIn the English translation by Chuang Yi, the title page of this chapter is Apricot and Wal, but the table of contents names the chapter as Apricot's Real Feelings.\n\n \n \n\nit:PPP65",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Apricot and Wal (Japanese: 子梅 本当の気持ち, 's True Feelings), is the fourth chapter of the tenth volume of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Apricot\nWalnut\nMarimaru\nMaster Ditto"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the English translation by Chuang Yi, the title page of this chapter is Apricot and Wal, but the table of contents names the chapter as Apricot's Real Feelings.\n\n \n \n\nit:PPP65"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP65",
+    "pageType": "chapter",
+    "searchableText": "PPP65\nCategory:Magical Pokémon Journey chapters\nApricot and Wal (Japanese: 子梅 本当の気持ち, 's True Feelings), is the fourth chapter of the tenth volume of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Important characters and Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 455,
+    "sectionCount": 3
+  }
+}

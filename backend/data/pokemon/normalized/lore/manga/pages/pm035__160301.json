@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM035",
+    "slug": "pm035",
+    "pageId": 160301,
+    "revisionId": 4526610
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm035__160301.json",
+    "revisionTimestamp": "2026-04-09T14:58:15Z",
+    "fetchedAt": "2026-05-14T15:30:51.417Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Panic on the Luxury Liner?! (Japanese: 超豪華客船で大パニック！？ Panic on the Luxury Liner!?) is the thirty-fifth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Panic on the Luxury Liner?! (Japanese: 超豪華客船で大パニック！？ Panic on the Luxury Liner!?) is the thirty-fifth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nAgatha\n\n===Pokémon===\n( ) \n( )\n(Agatha's)\n(Agatha's)\n( )\n(×2)\n\n==Trivia==\n\n \n \n\nde:Kapitel 35 (Pokémon Pocket Monsters)\nit:PMM035",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Panic on the Luxury Liner?! (Japanese: 超豪華客船で大パニック！？ Panic on the Luxury Liner!?) is the thirty-fifth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Agatha"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n(Agatha's)\n(Agatha's)\n( )\n(×2)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 35 (Pokémon Pocket Monsters)\nit:PMM035"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM035",
+    "pageType": "chapter",
+    "searchableText": "PM035\nCategory:Pokémon Pocket Monsters chapters\nPanic on the Luxury Liner?! (Japanese: 超豪華客船で大パニック！？ Panic on the Luxury Liner!?) is the thirty-fifth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 375,
+    "sectionCount": 4
+  }
+}

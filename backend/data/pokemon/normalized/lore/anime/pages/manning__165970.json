@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Manning",
+    "slug": "manning",
+    "pageId": 165970,
+    "revisionId": 4289068
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:League Conference participants",
+    "sourceFileName": "manning__165970.json",
+    "revisionTimestamp": "2025-04-28T19:47:24Z",
+    "fetchedAt": "2026-05-14T14:34:43.423Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Manning (Japanese: マルフジ Marufuji) is a minor recurring character of .",
+  "plainText": "Manning (Japanese: マルフジ Marufuji) is a minor recurring character of .\n\n==History==\nManning debuted in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup. His first opponent was Kenton, whom he defeated and advanced to the next round of the tournament. In Battling Authority Once Again!, he battled Trip in the second round and lost. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.\n\nIn Curtain Up, Unova League!, Manning competed in the Vertress Conference. In Mission: Defeat Your Rival!, he appeared on the screen showing the match-ups for the second round of the Conference, meaning that he had made it through the first round. In Lost at the League!, he appeared once again on the screen of the Vertress Conference, now showing the match-ups for the last sixteen, meaning that he had made it through the second and third rounds. In Strong Strategy Steals the Show!, he lost to Russet, knocking him out of the Vertress Conference. In A Unova League Evolution!, he appeared once again during the closing ceremonies of the Vertress Conference.\n\n==Pokémon==\n \n \n\n \n\nManning has at least one other Pokémon, as he participated in the third round of the Vertress Conference which is a 3 on 3 battle.\n\n==Achievements==\n===Badges obtained===\nThis listing is of the Badges Manning has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)\n\n===Pokémon League===\nManning has competed in the following Pokémon League Conferences:\nVertress Conference - Top 16 (Strong Strategy Steals the Show!)\n\n===Pokémon competitions===\nManning has competed in the following :\nPokémon World Tournament Junior Cup - Top 8 (Battling Authority Once Again!)\n\n==Voice actors==\n \n\n==Trivia==\nManning's clothing is similar to the coloration of his .\n\n==Related articles==\n \n \n \n \n\nes:Manning\nfr:Matéo (Unys)\nit:Manning\nzh:丸藤",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Manning (Japanese: マルフジ Marufuji) is a minor recurring character of ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Manning debuted in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup. His first opponent was Kenton, whom he defeated and advanced to the next round of the tournament. In Battling Authority Once Again!, he battled Trip in the second round and lost. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.\n\nIn Curtain Up, Unova League!, Manning competed in the Vertress Conference. In Mission: Defeat Your Rival!, he appeared on the screen showing the match-ups for the second round of the Conference, meaning that he had made it through the first round. In Lost at the League!, he appeared once again on the screen of the Vertress Conference, now showing the match-ups for the last sixteen, meaning that he had made it through the second and third rounds. In Strong Strategy Steals the Show!, he lost to Russet, knocking him out of the Vertress Conference. In A Unova League Evolution!, he appeared once again during the closing ceremonies of the Vertress Conference."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "Manning has at least one other Pokémon, as he participated in the third round of the Vertress Conference which is a 3 on 3 battle."
+    },
+    {
+      "heading": "Badges obtained",
+      "level": 3,
+      "text": "This listing is of the Badges Manning has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)"
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Manning has competed in the following Pokémon League Conferences:\nVertress Conference - Top 16 (Strong Strategy Steals the Show!)"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 3,
+      "text": "Manning has competed in the following :\nPokémon World Tournament Junior Cup - Top 8 (Battling Authority Once Again!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Manning's clothing is similar to the coloration of his ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Manning\nfr:Matéo (Unys)\nit:Manning\nzh:丸藤"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Manning",
+    "pageType": "general-anime-lore",
+    "searchableText": "Manning\nCategory:League Conference participants\nManning (Japanese: マルフジ Marufuji) is a minor recurring character of .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Badges obtained",
+      "Pokémon League",
+      "Pokémon competitions",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 2000,
+    "sectionCount": 8
+  }
+}

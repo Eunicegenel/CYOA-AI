@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMXY12",
+    "slug": "pmxy12",
+    "pageId": 203329,
+    "revisionId": 4527761
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY chapters",
+    "sourceFileName": "pmxy12__203329.json",
+    "revisionTimestamp": "2026-04-09T15:52:14Z",
+    "fetchedAt": "2026-05-14T15:34:00.871Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 衝撃! ピッピが メガシンカ!? Shock! is Mega Evolving!?) is the twelfth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 衝撃! ピッピが メガシンカ!? Shock! is Mega Evolving!?) is the twelfth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Sycamore\n\n===Pokémon===\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 衝撃! ピッピが メガシンカ!? Shock! is Mega Evolving!?) is the twelfth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Sycamore"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMXY12",
+    "pageType": "chapter",
+    "searchableText": "PMXY12\nCategory:Pocket Monsters XY chapters\n(Japanese: 衝撃! ピッピが メガシンカ!? Shock! is Mega Evolving!?) is the twelfth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 263,
+    "sectionCount": 3
+  }
+}

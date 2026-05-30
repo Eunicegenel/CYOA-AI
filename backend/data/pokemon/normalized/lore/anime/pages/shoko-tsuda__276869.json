@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Shōko Tsuda",
+    "slug": "shoko-tsuda",
+    "pageId": 276869,
+    "revisionId": 4323410
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "shoko-tsuda__276869.json",
+    "revisionTimestamp": "2025-06-24T03:29:46Z",
+    "fetchedAt": "2026-05-14T14:49:37.036Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Shōko Tsuda (Japanese: 津田匠子 Tsuda Shōko) is a Japanese voice actor for .",
+  "plainText": "Shōko Tsuda (Japanese: 津田匠子 Tsuda Shōko) is a Japanese voice actor for .\n\n==Biography==\nTsuda was born on January 30, 1963 in and became a voice actor as an adult. Tsuda joined during , voicing several characters, most notably Shelly from Team Aqua. Years later, Tsuda returned in , voicing Professor Magnolia.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nShelly\nProfessor Magnolia\n\n======Minor======\nKimie\n\n==Other non-Pokémon roles==\nTakki (The Twelve Kingdoms)\nChris (Astro Boy)\nSanada Kyouko (Gad Guard)\nJohanna (Emma: A Victorian Romance Second Act)\nNina Lutz (Nodame Cantabile: Finale)\n\n==External links==\nAnime News Network\nKen Production Profile\n\n \n\n \n\nit:Shōko Tsuda\nja:津田匠子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shōko Tsuda (Japanese: 津田匠子 Tsuda Shōko) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Tsuda was born on January 30, 1963 in and became a voice actor as an adult. Tsuda joined during , voicing several characters, most notably Shelly from Team Aqua. Years later, Tsuda returned in , voicing Professor Magnolia."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Shelly\nProfessor Magnolia"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Kimie"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Takki (The Twelve Kingdoms)\nChris (Astro Boy)\nSanada Kyouko (Gad Guard)\nJohanna (Emma: A Victorian Romance Second Act)\nNina Lutz (Nodame Cantabile: Finale)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anime News Network\nKen Production Profile\n\n \n\n \n\nit:Shōko Tsuda\nja:津田匠子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shōko Tsuda",
+    "pageType": "general-anime-lore",
+    "searchableText": "Shōko Tsuda\nCategory:Japanese voice actors\nShōko Tsuda (Japanese: 津田匠子 Tsuda Shōko) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 718,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "CCP33",
+    "slug": "ccp33",
+    "pageId": 175486,
+    "revisionId": 4527092
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp33__175486.json",
+    "revisionTimestamp": "2026-04-09T15:19:21Z",
+    "fetchedAt": "2026-05-14T15:15:28.211Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ラブラブカナタ〜ちゃも Beyond Love (chamo)) is the 33rd chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: ラブラブカナタ〜ちゃも Beyond Love (chamo)) is the 33rd chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\nbecomes 's Pokémon.\n\n===Debuts===\n====Pokémon debuts====\n(Kanata's)\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n(fantasy)\n(fantasy)\n(Kanata's; debut)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ラブラブカナタ〜ちゃも Beyond Love (chamo)) is the 33rd chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "becomes 's Pokémon."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Kanata's)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(fantasy)\n(fantasy)\n(Kanata's; debut)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP33",
+    "pageType": "chapter",
+    "searchableText": "CCP33\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: ラブラブカナタ〜ちゃも Beyond Love (chamo)) is the 33rd chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 300,
+    "sectionCount": 4
+  }
+}

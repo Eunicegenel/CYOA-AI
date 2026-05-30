@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "User:TwistedMeow/Seira Ayakashi",
+    "slug": "user-twistedmeow-seira-ayakashi",
+    "pageId": 234879,
+    "revisionId": 2915157
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Let's Play the Pokémon Card Game XY! characters",
+    "sourceFileName": "user-twistedmeow-seira-ayakashi__234879.json",
+    "revisionTimestamp": "2019-01-20T05:37:16Z",
+    "fetchedAt": "2026-05-14T15:52:19.811Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "}}|\n Specifically, it needs { }. }}\n\n \n \n\n(Japanese: 綾菓子せいら Ayakashi Seira) is a main character in Let's Play the Pokémon Card Game XY!.",
+  "plainText": "}}|\n Specifically, it needs { }. }}\n\n \n \n\n(Japanese: 綾菓子せいら Ayakashi Seira) is a main character in Let's Play the Pokémon Card Game XY!.\n \n==History==\nSeira loves sweets and plays cards. She takes losing seriously as shown when she lost a card battle to Manabu.\n\n==Pokémon==\n \n \n\n==Voice actors==\n \n\n==Trivia==\n綾菓子せいら Ayakashi Seira means \"confectionery\" and \" \".\nSeira resembles a mixture of both Serena and Jasmine.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "}}|\n Specifically, it needs { }. }}\n\n \n \n\n(Japanese: 綾菓子せいら Ayakashi Seira) is a main character in Let's Play the Pokémon Card Game XY!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Seira loves sweets and plays cards. She takes losing seriously as shown when she lost a card battle to Manabu."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "綾菓子せいら Ayakashi Seira means \"confectionery\" and \" \".\nSeira resembles a mixture of both Serena and Jasmine."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "User:TwistedMeow/Seira Ayakashi",
+    "pageType": "character",
+    "searchableText": "User:TwistedMeow/Seira Ayakashi\nCategory:Let's Play the Pokémon Card Game XY! characters\n}}|\n Specifically, it needs { }. }}\n\n \n \n\n(Japanese: 綾菓子せいら Ayakashi Seira) is a main character in Let's Play the Pokémon Card Game XY!.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia"
+    ],
+    "characterCount": 417,
+    "sectionCount": 3
+  }
+}

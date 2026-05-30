@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "TA23",
+    "slug": "ta23",
+    "pageId": 187127,
+    "revisionId": 2805052
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta23__187127.json",
+    "revisionTimestamp": "2018-06-09T05:02:17Z",
+    "fetchedAt": "2026-05-14T15:50:46.435Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ジドーとカツヤ Jido and Katsuya) is the 23rd chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: ジドーとカツヤ Jido and Katsuya) is the 23rd chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nHaidoru\nJido\n\n===Pokémon===\n(Haidoru's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ジドーとカツヤ Jido and Katsuya) is the 23rd chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nHaidoru\nJido"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Haidoru's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA23",
+    "pageType": "chapter",
+    "searchableText": "TA23\nCategory:Pokémon Try Adventure chapters\n(Japanese: ジドーとカツヤ Jido and Katsuya) is the 23rd chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 247,
+    "sectionCount": 3
+  }
+}

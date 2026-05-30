@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB21",
+    "slug": "rb21",
+    "pageId": 146032,
+    "revisionId": 4242861
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb21__146032.json",
+    "revisionTimestamp": "2025-02-19T14:56:51Z",
+    "fetchedAt": "2026-05-14T15:47:29.103Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ＢＨＳ開始！ BHS Begins!) is the 21st chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: ＢＨＳ開始！ BHS Begins!) is the 21st chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n==Major events==\nRyouga participates in Burst Heart Survival.\nHariru and Carola return.\nYappy and Miruto are captured by Pauline due to them not being Burst Warriors.\nThe first round of BHS \"Suddenly Bottomless Survival\" finishes and the competitors are brought down to sixteen.\nA mysterious man watches the tournament from a building and laughs when he sees that Ryouga is one of the fighters.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nMiruto\nRyouga\nYappy\nRabine\nGizairu\nHariru\nCarola\nPauline\nPikke\nRush\nEurou\nLoren\nShin\nAfron\nKaruta\nRurimaru\nDokan\nBattsu\nFraud\nMysterious person\n===Pokémon===\n(Pauline's)\n(Pauline's)\n(Carola's)\n(Hariru's)\n(Loren's)\n(Battsu's)\n(Karuta's)\n(Eurou's)\n(Rurimaru's)\n(Pikke's)\n(Rush's)\n(Dokan's)\n(Rabine's)\n(Ryouga's)\n(Fraud's)\n(Gizairu's)\n(Afron's)\n\n \n \n \n\n \n\nit:RB21\nzh:RB21",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ＢＨＳ開始！ BHS Begins!) is the 21st chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga participates in Burst Heart Survival.\nHariru and Carola return.\nYappy and Miruto are captured by Pauline due to them not being Burst Warriors.\nThe first round of BHS \"Suddenly Bottomless Survival\" finishes and the competitors are brought down to sixteen.\nA mysterious man watches the tournament from a building and laughs when he sees that Ryouga is one of the fighters."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Miruto\nRyouga\nYappy\nRabine\nGizairu\nHariru\nCarola\nPauline\nPikke\nRush\nEurou\nLoren\nShin\nAfron\nKaruta\nRurimaru\nDokan\nBattsu\nFraud\nMysterious person"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Pauline's)\n(Pauline's)\n(Carola's)\n(Hariru's)\n(Loren's)\n(Battsu's)\n(Karuta's)\n(Eurou's)\n(Rurimaru's)\n(Pikke's)\n(Rush's)\n(Dokan's)\n(Rabine's)\n(Ryouga's)\n(Fraud's)\n(Gizairu's)\n(Afron's)\n\n \n \n \n\n \n\nit:RB21\nzh:RB21"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB21",
+    "pageType": "chapter",
+    "searchableText": "RB21\nCategory:Pokémon RéBURST chapters\n(Japanese: ＢＨＳ開始！ BHS Begins!) is the 21st chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 922,
+    "sectionCount": 4
+  }
+}

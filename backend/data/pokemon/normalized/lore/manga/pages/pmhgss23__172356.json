@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMHGSS23",
+    "slug": "pmhgss23",
+    "pageId": 172356,
+    "revisionId": 4527797
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS chapters",
+    "sourceFileName": "pmhgss23__172356.json",
+    "revisionTimestamp": "2026-04-09T15:54:08Z",
+    "fetchedAt": "2026-05-14T15:33:05.210Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: バルキー、故郷へ帰る!? , Returning Home!?) is the twenty-third and final chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: バルキー、故郷へ帰る!? , Returning Home!?) is the twenty-third and final chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\nleaves the group.\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: バルキー、故郷へ帰る!? , Returning Home!?) is the twenty-third and final chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "leaves the group."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMHGSS23",
+    "pageType": "chapter",
+    "searchableText": "PMHGSS23\nCategory:Pocket Monsters HGSS chapters\n(Japanese: バルキー、故郷へ帰る!? , Returning Home!?) is the twenty-third and final chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon"
+    ],
+    "characterCount": 279,
+    "sectionCount": 3
+  }
+}

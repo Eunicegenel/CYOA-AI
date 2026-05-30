@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Ivan",
+    "slug": "ivan",
+    "pageId": 26533,
+    "revisionId": 4522786
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "ivan__26533.json",
+    "revisionTimestamp": "2026-04-03T23:14:07Z",
+    "fetchedAt": "2026-05-14T14:25:18.201Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ivan (Japanese: ショウタ Shōta) is a character of the day who appeared in A Poké-BLOCK Party!.\n\nIvan won the Trick House challenge in his hometown, Mauville City, and was rewarded for this by the Trick Master. He struggled to hold up the year supply of Pokéblock and toppled over because of the weight, as and Alanna watched and giggled. Later, took to the stage and to the audience, making everyone fall including Ivan.",
+  "plainText": "Ivan (Japanese: ショウタ Shōta) is a character of the day who appeared in A Poké-BLOCK Party!.\n\nIvan won the Trick House challenge in his hometown, Mauville City, and was rewarded for this by the Trick Master. He struggled to hold up the year supply of Pokéblock and toppled over because of the weight, as and Alanna watched and giggled. Later, took to the stage and to the audience, making everyone fall including Ivan.\n\n==Pokémon competitions==\nIvan has competed in the following :\nTrick House Contest - Winner (A Poké-BLOCK Party!)\n\n==Voice actors==\n \n\n==Names==\n \n\n \n \n \n \n \n\nes:Ivan\nit:Ivan (RZ039)\nzh:翔太（AG039）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ivan (Japanese: ショウタ Shōta) is a character of the day who appeared in A Poké-BLOCK Party!.\n\nIvan won the Trick House challenge in his hometown, Mauville City, and was rewarded for this by the Trick Master. He struggled to hold up the year supply of Pokéblock and toppled over because of the weight, as and Alanna watched and giggled. Later, took to the stage and to the audience, making everyone fall including Ivan."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Ivan has competed in the following :\nTrick House Contest - Winner (A Poké-BLOCK Party!)"
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Ivan\nit:Ivan (RZ039)\nzh:翔太（AG039）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ivan",
+    "pageType": "character",
+    "searchableText": "Ivan\nCategory:Hoenn characters of the day\nIvan (Japanese: ショウタ Shōta) is a character of the day who appeared in A Poké-BLOCK Party!.\n\nIvan won the Trick House challenge in his hometown, Mauville City, and was rewarded for this by the Trick Master. He struggled to hold up the year supply of Pokéblock and toppled over because of the weight, as and Alanna watched and giggled. Later, took to the stage and to the audience, making everyone fall including Ivan.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Names"
+    ],
+    "characterCount": 612,
+    "sectionCount": 3
+  }
+}

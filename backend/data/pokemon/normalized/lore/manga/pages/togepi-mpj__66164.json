@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Togepi (MPJ)",
+    "slug": "togepi-mpj",
+    "pageId": 66164,
+    "revisionId": 4132242
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga characters (Pokémon)",
+    "sourceFileName": "togepi-mpj__66164.json",
+    "revisionTimestamp": "2024-09-29T05:18:40Z",
+    "fetchedAt": "2026-05-14T15:51:51.958Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Togepi (Japanese: トゲピー Togepy) is a Pokémon in Magical Pokémon Journey. Togepi first appears in Eggcellent Togepi. It considers and as its parents and tends to appear at random.",
+  "plainText": "Togepi (Japanese: トゲピー Togepy) is a Pokémon in Magical Pokémon Journey. Togepi first appears in Eggcellent Togepi. It considers and as its parents and tends to appear at random.\n\n== History ==\n \nPikachu and Clefairy meet Togepi when it was an Egg found lying around on a river. They mistaken it for a watermelon at first as it wasn't introduced to their time yet.\n \n\n==Moves used==\n \n \n \n\n==Related articles==\n \n \n \n \n \n \n \n\nit:Togepi (MVP)\nja:トゲピー (ポケットモンスター PiPiPi★アドベンチャー)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Togepi (Japanese: トゲピー Togepy) is a Pokémon in Magical Pokémon Journey. Togepi first appears in Eggcellent Togepi. It considers and as its parents and tends to appear at random."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Pikachu and Clefairy meet Togepi when it was an Egg found lying around on a river. They mistaken it for a watermelon at first as it wasn't introduced to their time yet."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Togepi (MVP)\nja:トゲピー (ポケットモンスター PiPiPi★アドベンチャー)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Togepi (MPJ)",
+    "pageType": "character",
+    "searchableText": "Togepi (MPJ)\nCategory:Manga characters (Pokémon)\nTogepi (Japanese: トゲピー Togepy) is a Pokémon in Magical Pokémon Journey. Togepi first appears in Eggcellent Togepi. It considers and as its parents and tends to appear at random.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 475,
+    "sectionCount": 3
+  }
+}

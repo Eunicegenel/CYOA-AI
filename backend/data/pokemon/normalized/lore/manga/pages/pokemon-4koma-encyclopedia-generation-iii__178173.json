@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon 4Koma Encyclopedia (Generation III)",
+    "slug": "pokemon-4koma-encyclopedia-generation-iii",
+    "pageId": 178173,
+    "revisionId": 4132085
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-4koma-encyclopedia-generation-iii__178173.json",
+    "revisionTimestamp": "2024-09-29T04:29:48Z",
+    "fetchedAt": "2026-05-14T15:34:44.201Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモン4コマ大百科 Pokémon 4Koma Encyclopedia) is a created by Takahiro Yamashita. Each page of the Pokémon 4Koma Encyclopedia manga contains a cartoon depicting a Pokémon, comedically demonstrating a special ability or trait of each Pokémon. It also shows the height, weight and elemental type of each Pokémon, along with official artwork by Ken Sugimori from Generation III.\n\nAll the cartoons are presented in National Pokédex order, beginning with .",
+  "plainText": "(Japanese: ポケモン4コマ大百科 Pokémon 4Koma Encyclopedia) is a created by Takahiro Yamashita. Each page of the Pokémon 4Koma Encyclopedia manga contains a cartoon depicting a Pokémon, comedically demonstrating a special ability or trait of each Pokémon. It also shows the height, weight and elemental type of each Pokémon, along with official artwork by Ken Sugimori from Generation III.\n\nAll the cartoons are presented in National Pokédex order, beginning with .\n\n==List of volumes==\n \n\n==Characters==\nRed (based on )\nGreen (based on )\n\n \n\n \n\nit:Pokémon 4Koma Encyclopedia (terza generazione)\nzh:宝可梦4格大百科（2004版）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン4コマ大百科 Pokémon 4Koma Encyclopedia) is a created by Takahiro Yamashita. Each page of the Pokémon 4Koma Encyclopedia manga contains a cartoon depicting a Pokémon, comedically demonstrating a special ability or trait of each Pokémon. It also shows the height, weight and elemental type of each Pokémon, along with official artwork by Ken Sugimori from Generation III.\n\nAll the cartoons are presented in National Pokédex order, beginning with ."
+    },
+    {
+      "heading": "Characters",
+      "level": 2,
+      "text": "Red (based on )\nGreen (based on )\n\n \n\n \n\nit:Pokémon 4Koma Encyclopedia (terza generazione)\nzh:宝可梦4格大百科（2004版）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 4Koma Encyclopedia (Generation III)",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 4Koma Encyclopedia (Generation III)\nCategory:Pokémon 4Koma\n(Japanese: ポケモン4コマ大百科 Pokémon 4Koma Encyclopedia) is a created by Takahiro Yamashita. Each page of the Pokémon 4Koma Encyclopedia manga contains a cartoon depicting a Pokémon, comedically demonstrating a special ability or trait of each Pokémon. It also shows the height, weight and elemental type of each Pokémon, along with official artwork by Ken Sugimori from Generation III.\n\nAll the cartoons are presented in National Pokédex order, beginning with .",
+    "sectionHeadings": [
+      "Lead",
+      "Characters"
+    ],
+    "characterCount": 604,
+    "sectionCount": 2
+  }
+}

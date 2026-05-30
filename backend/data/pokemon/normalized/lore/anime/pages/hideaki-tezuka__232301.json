@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Hideaki Tezuka",
+    "slug": "hideaki-tezuka",
+    "pageId": 232301,
+    "revisionId": 4323631
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "hideaki-tezuka__232301.json",
+    "revisionTimestamp": "2025-06-24T03:33:32Z",
+    "fetchedAt": "2026-05-14T14:22:18.031Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Hideaki Tezuka (Japanese: 手塚秀彰 Tezuka Hideaki) is a Japanese voice actor for .",
+  "plainText": "Hideaki Tezuka (Japanese: 手塚秀彰 Tezuka Hideaki) is a Japanese voice actor for .\n\n==Biography==\nTezuka was born on December 5, 1954, in , , and became a voice actor as an adult. He provided, among other roles in Japanese anime, the voice of Team Flare leader Lysandre during . In addition to voice acting roles, Tezuka is a prolific live-action actor and has also dubbed a multitude of roles in international films and shows, both live-action and animated. He is currently affiliated with the talent agency .\n\n==Pokémon roles==\n===Animation===\n==== ====\nLysandre\n\n==Other non-Pokémon roles==\n===Anime===\nCaptain Khan ( )\nFourth Raikage (A) ( )\nDhalis Zachary ( )\nCaptain Fairlock ( )\nChief ( )\nKurahashi ( )\nArthur Gaz ( )\nIsoroku Tatara ( )\nBrian Odhner ( )\nSuberoa Zinnerman ( )\nYakov Feltsman ( )\n\n===Anime films===\nFourth Raikage (A) ( , )\nChichipoi ( )\n\n===Live-action roles===\nSupreme Commander Akira Ichijo ( )\nBig Skinhead ( )\nDoctor ( )\nInui ( )\nTurtle Man ( )\n\n===Video game roles===\nStraus ( )\nFourth Raikage (A) ( video games)\nKum Haehyun ( )\nGraf Von Herman ( )\n\n===Dubbing roles===\nCharles \"Chick\" Chappel ( )\n, ( )\nStappleton ( )\nKowalski ( , , , )\nLuther Stickell ( , , , )\n( )\nEddard \"Ned\" Stark ( )\nKupaka, Joe Napier, An-kor Apis, Prescient ( )\nCrosshairs ( , )\nMiles Dyson ( )\nLieutenant Colonel Preston Packard ( )\n\n==External links==\nSeinenza Theater Company profile\n\n \n\n \n\nit:Hideaki Tezuka",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hideaki Tezuka (Japanese: 手塚秀彰 Tezuka Hideaki) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Tezuka was born on December 5, 1954, in , , and became a voice actor as an adult. He provided, among other roles in Japanese anime, the voice of Team Flare leader Lysandre during . In addition to voice acting roles, Tezuka is a prolific live-action actor and has also dubbed a multitude of roles in international films and shows, both live-action and animated. He is currently affiliated with the talent agency ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Lysandre"
+    },
+    {
+      "heading": "Anime",
+      "level": 3,
+      "text": "Captain Khan ( )\nFourth Raikage (A) ( )\nDhalis Zachary ( )\nCaptain Fairlock ( )\nChief ( )\nKurahashi ( )\nArthur Gaz ( )\nIsoroku Tatara ( )\nBrian Odhner ( )\nSuberoa Zinnerman ( )\nYakov Feltsman ( )"
+    },
+    {
+      "heading": "Anime films",
+      "level": 3,
+      "text": "Fourth Raikage (A) ( , )\nChichipoi ( )"
+    },
+    {
+      "heading": "Live-action roles",
+      "level": 3,
+      "text": "Supreme Commander Akira Ichijo ( )\nBig Skinhead ( )\nDoctor ( )\nInui ( )\nTurtle Man ( )"
+    },
+    {
+      "heading": "Video game roles",
+      "level": 3,
+      "text": "Straus ( )\nFourth Raikage (A) ( video games)\nKum Haehyun ( )\nGraf Von Herman ( )"
+    },
+    {
+      "heading": "Dubbing roles",
+      "level": 3,
+      "text": "Charles \"Chick\" Chappel ( )\n, ( )\nStappleton ( )\nKowalski ( , , , )\nLuther Stickell ( , , , )\n( )\nEddard \"Ned\" Stark ( )\nKupaka, Joe Napier, An-kor Apis, Prescient ( )\nCrosshairs ( , )\nMiles Dyson ( )\nLieutenant Colonel Preston Packard ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Seinenza Theater Company profile\n\n \n\n \n\nit:Hideaki Tezuka"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hideaki Tezuka",
+    "pageType": "general-anime-lore",
+    "searchableText": "Hideaki Tezuka\nCategory:Japanese voice actors\nHideaki Tezuka (Japanese: 手塚秀彰 Tezuka Hideaki) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Anime",
+      "Anime films",
+      "Live-action roles",
+      "Video game roles",
+      "Dubbing roles",
+      "External links"
+    ],
+    "characterCount": 1411,
+    "sectionCount": 9
+  }
+}

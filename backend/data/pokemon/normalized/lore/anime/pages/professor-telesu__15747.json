@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Professor Telesu",
+    "slug": "professor-telesu",
+    "pageId": 15747,
+    "revisionId": 4262935
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "professor-telesu__15747.json",
+    "revisionTimestamp": "2025-03-22T00:00:11Z",
+    "fetchedAt": "2026-05-14T14:44:59.056Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Professor Telesu (Japanese: テレス博士 Dr. Telesu) is a character of the day who appeared in A Crowning Achievement.\n\nHe is an archaeologist who was studying hieroglyphics near a lake full of that suffered a drought after an earthquake. According to the hieroglyphics, a Slowpoke needed to evolve into a to save the colony, but the in the lake kept on latching on to the Slowpoke and causing them to evolve into . His daughter's Slowpoke was able to make it, and was intelligent enough to lead the Slowpoke and Slowbro into an underground cave where water was plentiful.",
+  "plainText": "Professor Telesu (Japanese: テレス博士 Dr. Telesu) is a character of the day who appeared in A Crowning Achievement.\n\nHe is an archaeologist who was studying hieroglyphics near a lake full of that suffered a drought after an earthquake. According to the hieroglyphics, a Slowpoke needed to evolve into a to save the colony, but the in the lake kept on latching on to the Slowpoke and causing them to evolve into . His daughter's Slowpoke was able to make it, and was intelligent enough to lead the Slowpoke and Slowbro into an underground cave where water was plentiful.\n\n==Voice actors==\n \n\n \n\n \n \n \n \n \n \n\nes:Profesor Telesu\nit:Professor Telesu\nja:テレス",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Professor Telesu (Japanese: テレス博士 Dr. Telesu) is a character of the day who appeared in A Crowning Achievement.\n\nHe is an archaeologist who was studying hieroglyphics near a lake full of that suffered a drought after an earthquake. According to the hieroglyphics, a Slowpoke needed to evolve into a to save the colony, but the in the lake kept on latching on to the Slowpoke and causing them to evolve into . His daughter's Slowpoke was able to make it, and was intelligent enough to lead the Slowpoke and Slowbro into an underground cave where water was plentiful."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Profesor Telesu\nit:Professor Telesu\nja:テレス"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Professor Telesu",
+    "pageType": "character",
+    "searchableText": "Professor Telesu\nCategory:Johto characters of the day\nProfessor Telesu (Japanese: テレス博士 Dr. Telesu) is a character of the day who appeared in A Crowning Achievement.\n\nHe is an archaeologist who was studying hieroglyphics near a lake full of that suffered a drought after an earthquake. According to the hieroglyphics, a Slowpoke needed to evolve into a to save the colony, but the in the lake kept on latching on to the Slowpoke and causing them to evolve into . His daughter's Slowpoke was able to make it, and was intelligent enough to lead the Slowpoke and Slowbro into an underground cave where water was plentiful.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 648,
+    "sectionCount": 2
+  }
+}

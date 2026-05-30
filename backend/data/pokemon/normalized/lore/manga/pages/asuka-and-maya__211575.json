@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Asuka and Maya",
+    "slug": "asuka-and-maya",
+    "pageId": 211575,
+    "revisionId": 4528223
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "asuka-and-maya__211575.json",
+    "revisionTimestamp": "2026-04-09T16:10:28Z",
+    "fetchedAt": "2026-05-14T15:13:39.913Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: アスカ Asuka) and (Japanese: マヤ Maya) are characters who appeared in Pokémon: Yeah! I Got Pokémon!.",
+  "plainText": "(Japanese: アスカ Asuka) and (Japanese: マヤ Maya) are characters who appeared in Pokémon: Yeah! I Got Pokémon!.\n\n==History==\nAsuka and Maya first appeared in GDZ58.\n\n==Pokémon==\n====Asuka's====\n \n\n \n\n \n\n \n \n \n \n\n \n\nit:Asuka e Maya",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: アスカ Asuka) and (Japanese: マヤ Maya) are characters who appeared in Pokémon: Yeah! I Got Pokémon!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Asuka and Maya first appeared in GDZ58."
+    },
+    {
+      "heading": "Asuka's",
+      "level": 4,
+      "text": "it:Asuka e Maya"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Asuka and Maya",
+    "pageType": "character",
+    "searchableText": "Asuka and Maya\nCategory:Pokémon: Yeah! I Got Pokémon! characters\n(Japanese: アスカ Asuka) and (Japanese: マヤ Maya) are characters who appeared in Pokémon: Yeah! I Got Pokémon!.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Asuka's"
+    ],
+    "characterCount": 226,
+    "sectionCount": 3
+  }
+}

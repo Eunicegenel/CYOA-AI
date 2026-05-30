@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMRS17",
+    "slug": "pmrs17",
+    "pageId": 161720,
+    "revisionId": 4345735
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs17__161720.json",
+    "revisionTimestamp": "2025-07-28T06:57:24Z",
+    "fetchedAt": "2026-05-14T15:33:18.465Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Serious Bicycle Match! (Japanese: 爆走！ガチンコ自転車対決 Rampage! Serious Bicycle Showdown) is the seventeenth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Serious Bicycle Match! (Japanese: 爆走！ガチンコ自転車対決 Rampage! Serious Bicycle Showdown) is the seventeenth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nRydel\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nRydel\nRydel's rival\n\n===Pokémon===\n( )\n( )\n( )\n(Rydel's rival's)\n(Rydel's rival's)\n(Rydel's rival's)\n\n \n\n \n \n \n\nit:PMRS17",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Serious Bicycle Match! (Japanese: 爆走！ガチンコ自転車対決 Rampage! Serious Bicycle Showdown) is the seventeenth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Rydel"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Rydel\nRydel's rival"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Rydel's rival's)\n(Rydel's rival's)\n(Rydel's rival's)\n\n \n\n \n \n \n\nit:PMRS17"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS17",
+    "pageType": "chapter",
+    "searchableText": "PMRS17\nCategory:Pokémon Ruby-Sapphire chapters\nSerious Bicycle Match! (Japanese: 爆走！ガチンコ自転車対決 Rampage! Serious Bicycle Showdown) is the seventeenth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 385,
+    "sectionCount": 4
+  }
+}

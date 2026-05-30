@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Heidayu",
+    "slug": "heidayu",
+    "pageId": 208617,
+    "revisionId": 4289120
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "heidayu__208617.json",
+    "revisionTimestamp": "2025-04-28T19:48:22Z",
+    "fetchedAt": "2026-05-14T14:22:09.894Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Heidayu (Japanese: ヘイダユウ Heidayū) is a minor recurring character in . He first appeared in The Legend of the Ninja Hero!.",
+  "plainText": "Heidayu (Japanese: ヘイダユウ Heidayū) is a minor recurring character in . He first appeared in The Legend of the Ninja Hero!.\n\n==History==\n \nHeidayu is a follower of Kagetomo and served as commander of the Ninja Corps. He left Ninja Village along with Kagetomo, who was denied the position of village chief by because of his thirst for world domination. In the years that followed Kagetomo formed an army of ninjas dedicated to his cause.\n\nDuring Kagetomo's attack on Ninja Village, Heidayu's role was to delay pursuers after Kagetomo kidnapped chief Hanzo. Kagetomo was able to hold back and Sanpei in a battle with no clear winner, retreating once he was certain that his objective had been fulfilled. Later, he battled Ash and Sanpei again during the villagers' attempt to rescue Hanzo in A Festival of Decisions!, but was defeated after Ash's Frogadier evolved into .\n\nFollowing Kagetomo's defeat and reform, Heidayu remained dedicated and left Ninja Village with his friend on another journey.\n\n==Character==\nHeidayu is incredibly loyal to Kagetomo, helping him to form the Ninja Corps and remaining by his leader's side to go on a world journey of discovery. He is an unrelenting opponent, taking on and Sanpei twice before being defeated in A Festival of Decisions!.\n\n==Pokémon==\n \n \n\n==Voice actors==\n \n \n \n\n \n \n \n\nes:Heidayu\nfr:Heidayu\nit:Heidayu\nja:ヘイダユウ\nzh:兵太夫",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Heidayu (Japanese: ヘイダユウ Heidayū) is a minor recurring character in . He first appeared in The Legend of the Ninja Hero!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Heidayu is a follower of Kagetomo and served as commander of the Ninja Corps. He left Ninja Village along with Kagetomo, who was denied the position of village chief by because of his thirst for world domination. In the years that followed Kagetomo formed an army of ninjas dedicated to his cause.\n\nDuring Kagetomo's attack on Ninja Village, Heidayu's role was to delay pursuers after Kagetomo kidnapped chief Hanzo. Kagetomo was able to hold back and Sanpei in a battle with no clear winner, retreating once he was certain that his objective had been fulfilled. Later, he battled Ash and Sanpei again during the villagers' attempt to rescue Hanzo in A Festival of Decisions!, but was defeated after Ash's Frogadier evolved into .\n\nFollowing Kagetomo's defeat and reform, Heidayu remained dedicated and left Ninja Village with his friend on another journey."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Heidayu is incredibly loyal to Kagetomo, helping him to form the Ninja Corps and remaining by his leader's side to go on a world journey of discovery. He is an unrelenting opponent, taking on and Sanpei twice before being defeated in A Festival of Decisions!."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Heidayu\nfr:Heidayu\nit:Heidayu\nja:ヘイダユウ\nzh:兵太夫"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Heidayu",
+    "pageType": "character",
+    "searchableText": "Heidayu\nCategory:Animation characters\nHeidayu (Japanese: ヘイダユウ Heidayū) is a minor recurring character in . He first appeared in The Legend of the Ninja Hero!.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Voice actors"
+    ],
+    "characterCount": 1367,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon Black and White volume 9 (France)",
+    "slug": "pokemon-black-and-white-volume-9-france",
+    "pageId": 195557,
+    "revisionId": 4132615
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-black-and-white-volume-9-france__195557.json",
+    "revisionTimestamp": "2024-09-29T05:24:47Z",
+    "fetchedAt": "2026-05-14T15:36:08.381Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 9 is the ninth and final volume published by Kurokawa compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 9 is the ninth and final volume published by Kurokawa compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n\n==Chapters==\nGhetis se dévoile (« Ghetsis unveils »)\nL'union fait la force ! (« Unity makes strength! »)\nLa légende reprend vie (« The legend revives »)\nMission sauvetage (« Rescue mission »)\nAmère victoire (« Bitter victory »)\n\n==Major events==\nN's Castle appears from beneath the , and Team Plasma appears.\nand face N and .\nThe Gym Leaders are freed.\nmeets Anthea and Concordia, who tell her about N and his past.\nBlack defeats N.\nBlack battles with Ghetsis and defeats him.\nN sees the error of his ways and bids farewell.\nBlack is thrown onto Reshiram as it is reverting back into the Light Stone, and subsequently disappears.\nSeveral s escape and go into hiding.\nof the Grunts receives a Foongus from Anthea and Concordia that was liberated by N, and a locket containing N's photograph.\n\n==Party changes==\n===Additions===\nWhitley's , \"Foongy\", in PS524.\n\n==Trivia==\nThis volume, while using the same cover illustration as Pokémon Adventures volume 50, extends into the dust jacket showing an additional illustration of and his Pokémon, which was used on .\n\n \n\n \n\nde:Band 9 (Pokémon Noir et Blanc)\nfr:Tome 9 (Pokémon Noir et Blanc)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 9 is the ninth and final volume published by Kurokawa compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Ghetis se dévoile (« Ghetsis unveils »)\nL'union fait la force ! (« Unity makes strength! »)\nLa légende reprend vie (« The legend revives »)\nMission sauvetage (« Rescue mission »)\nAmère victoire (« Bitter victory »)"
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "N's Castle appears from beneath the , and Team Plasma appears.\nand face N and .\nThe Gym Leaders are freed.\nmeets Anthea and Concordia, who tell her about N and his past.\nBlack defeats N.\nBlack battles with Ghetsis and defeats him.\nN sees the error of his ways and bids farewell.\nBlack is thrown onto Reshiram as it is reverting back into the Light Stone, and subsequently disappears.\nSeveral s escape and go into hiding.\nof the Grunts receives a Foongus from Anthea and Concordia that was liberated by N, and a locket containing N's photograph."
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "Whitley's , \"Foongy\", in PS524."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This volume, while using the same cover illustration as Pokémon Adventures volume 50, extends into the dust jacket showing an additional illustration of and his Pokémon, which was used on .\n\n \n\n \n\nde:Band 9 (Pokémon Noir et Blanc)\nfr:Tome 9 (Pokémon Noir et Blanc)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Black and White volume 9 (France)",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Black and White volume 9 (France)\nCategory:Pokémon Adventures volumes\nVolume 9 is the ninth and final volume published by Kurokawa compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Major events",
+      "Additions",
+      "Trivia"
+    ],
+    "characterCount": 1437,
+    "sectionCount": 5
+  }
+}

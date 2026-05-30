@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Tatsuya Hasome",
+    "slug": "tatsuya-hasome",
+    "pageId": 105819,
+    "revisionId": 4191194
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "tatsuya-hasome__105819.json",
+    "revisionTimestamp": "2024-11-24T01:54:12Z",
+    "fetchedAt": "2026-05-14T14:53:14.528Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Tatsuya Hasome (Japanese: 羽染達也 Hasome Tatsuya) is a Japanese voice actor for .",
+  "plainText": "Tatsuya Hasome (Japanese: 羽染達也 Hasome Tatsuya) is a Japanese voice actor for .\n\n==Biography==\nHasome was born on May 15, 1989, in , . He became a voice actor as an adult, but only got very few roles in anime series, and was affiliated with the talent agency tristone. Hasome provided his voice for during of .\n\n==Pokémon roles==\n===Animation===\n==== ====\n\n==Other non-Pokémon roles==\nOuri Kagami ( )\nJō Yokosuka ( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tatsuya Hasome (Japanese: 羽染達也 Hasome Tatsuya) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hasome was born on May 15, 1989, in , . He became a voice actor as an adult, but only got very few roles in anime series, and was affiliated with the talent agency tristone. Hasome provided his voice for during of ."
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Ouri Kagami ( )\nJō Yokosuka ( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tatsuya Hasome",
+    "pageType": "general-anime-lore",
+    "searchableText": "Tatsuya Hasome\nCategory:Japanese voice actors\nTatsuya Hasome (Japanese: 羽染達也 Hasome Tatsuya) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 415,
+    "sectionCount": 3
+  }
+}

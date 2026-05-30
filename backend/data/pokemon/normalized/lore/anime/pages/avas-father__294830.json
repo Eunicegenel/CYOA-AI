@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Ava's father",
+    "slug": "avas-father",
+    "pageId": 294830,
+    "revisionId": 4255889
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Path to the Peak characters",
+    "sourceFileName": "avas-father__294830.json",
+    "revisionTimestamp": "2025-03-08T23:59:48Z",
+    "fetchedAt": "2026-05-14T14:04:18.607Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ava's father is a supporting character in Pokémon: Path to the Peak.",
+  "plainText": "Ava's father is a supporting character in Pokémon: Path to the Peak.\n==History==\n \n\n==Character==\n==Deck==\nAva's father uses a deck, focused on .\n\nThe following list is incomplete due to the entire deck not being shown.\n \n \n \n \n \n \n\n==Pokémon competitions==\n===World Championships===\nRegional Championships - (Regionals)\n==Voice actors==\n \n\n==Trivia==\n==Names==\n\n \n\n \n \n \n \n\nit:Padre di Ava",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ava's father is a supporting character in Pokémon: Path to the Peak."
+    },
+    {
+      "heading": "Deck",
+      "level": 2,
+      "text": "Ava's father uses a deck, focused on .\n\nThe following list is incomplete due to the entire deck not being shown."
+    },
+    {
+      "heading": "World Championships",
+      "level": 3,
+      "text": "Regional Championships - (Regionals)"
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "it:Padre di Ava"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ava's father",
+    "pageType": "character",
+    "searchableText": "Ava's father\nCategory:Pokémon: Path to the Peak characters\nAva's father is a supporting character in Pokémon: Path to the Peak.",
+    "sectionHeadings": [
+      "Lead",
+      "Deck",
+      "World Championships",
+      "Names"
+    ],
+    "characterCount": 390,
+    "sectionCount": 4
+  }
+}

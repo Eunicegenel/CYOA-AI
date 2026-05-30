@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CCP04",
+    "slug": "ccp04",
+    "pageId": 6662,
+    "revisionId": 4175686
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp04__6662.json",
+    "revisionTimestamp": "2024-11-04T23:37:50Z",
+    "fetchedAt": "2026-05-14T15:15:09.973Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 進化ってこわいちゃも? Evolution is Scary (chamo?)) is the fourth chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: 進化ってこわいちゃも? Evolution is Scary (chamo?)) is the fourth chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( ) (fantasy)\n\n(photo)\n(photo)\n(fantasy)\n(fantasy)\n(photo)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 進化ってこわいちゃも? Evolution is Scary (chamo?)) is the fourth chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( ) (fantasy)\n\n(photo)\n(photo)\n(fantasy)\n(fantasy)\n(photo)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP04",
+    "pageType": "chapter",
+    "searchableText": "CCP04\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: 進化ってこわいちゃも? Evolution is Scary (chamo?)) is the fourth chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 304,
+    "sectionCount": 2
+  }
+}

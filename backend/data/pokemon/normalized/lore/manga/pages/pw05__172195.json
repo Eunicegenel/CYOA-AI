@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "PW05",
+    "slug": "pw05",
+    "pageId": 172195,
+    "revisionId": 4528215
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw05__172195.json",
+    "revisionTimestamp": "2026-04-09T16:10:21Z",
+    "fetchedAt": "2026-05-14T15:46:30.984Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 風とツバサとピジョット The Wind, Tsubasa, and ) is the fifth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+  "plainText": "(Japanese: 風とツバサとピジョット The Wind, Tsubasa, and ) is the fifth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .\n\n==Plot==\n \n==Major events==\n\n==Characters==\n===Humans===\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 風とツバサとピジョット The Wind, Tsubasa, and ) is the fifth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is ."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW05",
+    "pageType": "chapter",
+    "searchableText": "PW05\nCategory:How I Became a Pokémon Card chapters\n(Japanese: 風とツバサとピジョット The Wind, Tsubasa, and ) is the fifth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 256,
+    "sectionCount": 1
+  }
+}

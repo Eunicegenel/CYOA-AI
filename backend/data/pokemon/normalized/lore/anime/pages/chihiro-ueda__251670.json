@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Chihiro Ueda",
+    "slug": "chihiro-ueda",
+    "pageId": 251670,
+    "revisionId": 4323508
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "chihiro-ueda__251670.json",
+    "revisionTimestamp": "2025-06-24T03:31:28Z",
+    "fetchedAt": "2026-05-14T14:09:30.419Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Chihiro Ueda (Japanese: 植田千尋 Ueda Chihiro) is a Japanese voice actor for .",
+  "plainText": "Chihiro Ueda (Japanese: 植田千尋 Ueda Chihiro) is a Japanese voice actor for .\n\n==Biography==\nUeda was born sometime on February 28, in , . She started work on during , where she voiced recurring character Parker.\n\n==Pokémon roles==\n===Animation===\n==== ====\nParker\n\n==Other non-Pokémon roles==\nGal student A (Kakegurui)\nMasaru Saiga (Karakuri Circus)\n\n==External links==\nAnime News Network\nMyAnimeList\nOfficial website\nInstagram\nTwitter\n\n \n\n \n\nit:Chihiro Ueda",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chihiro Ueda (Japanese: 植田千尋 Ueda Chihiro) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Ueda was born sometime on February 28, in , . She started work on during , where she voiced recurring character Parker."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Parker"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Gal student A (Kakegurui)\nMasaru Saiga (Karakuri Circus)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anime News Network\nMyAnimeList\nOfficial website\nInstagram\nTwitter\n\n \n\n \n\nit:Chihiro Ueda"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Chihiro Ueda",
+    "pageType": "general-anime-lore",
+    "searchableText": "Chihiro Ueda\nCategory:Japanese voice actors\nChihiro Ueda (Japanese: 植田千尋 Ueda Chihiro) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 456,
+    "sectionCount": 5
+  }
+}

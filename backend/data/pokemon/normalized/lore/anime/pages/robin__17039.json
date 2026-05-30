@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Robin",
+    "slug": "robin",
+    "pageId": 17039,
+    "revisionId": 4535953
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "robin__17039.json",
+    "revisionTimestamp": "2026-04-22T23:02:49Z",
+    "fetchedAt": "2026-05-14T14:46:46.085Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Robin (Japanese: ロビン Robin) is a character of the day who appeared in the episode Island Time.",
+  "plainText": "Robin (Japanese: ロビン Robin) is a character of the day who appeared in the episode Island Time.\n\n==History==\nRobin used to be a traveling salesman. One day, he was on a ship when a storm hit. Everybody was safely evacuated from the ship except for Robin. After falling overboard, a saved his life and brought him to Wailmer Island. He remained there for many years until , , and crashed on the island in the episode Island Time.\n\nWorking together with their Pokémon and the damaged plane, they created a boat that they hoped would get them past the whirlpools around the island. However, Team Rocket stole the boat for themselves and tried to make it alone. The whirlpools broke the boat. Then, the Wailmer evolved into a . Team Rocket plotted to steal it, but it sent them flying with . Using Wailord, Robin and the others were able to escape from the island.\n\nEventually, they found a ship traveling to Ever Grande City. However, once he reached the boat, Robin decided to return to Wailmer Island. He said that he would much rather live there, where he could be closer to the Wailord that saved his life many years before. In addition, he could do what he wanted, instead of working everyday like he did before getting stuck on the island, and he found the purpose of life. The kids respected his decision, and while they went on to the Hoenn League, Robin returned to the island with Wailord.\n\n==Pokémon==\n \n===Befriended===\nThis is a list of Robin has befriended in .\n \n\n==Voice actors==\n \n\n==Trivia==\nRobin may have been named after , a fictional character who was stranded on an island for 28 years.\nThe strange mask he wears on his head, along with his purple fuzzy hair, make him slightly resemble a . Even Max thought he was one at first glance.\nRobin's is the only Pokémon in to have used the move .\n \n \n \n \n \n\nes:Robin\nfr:Robin\nit:Robin",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Robin (Japanese: ロビン Robin) is a character of the day who appeared in the episode Island Time."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Robin used to be a traveling salesman. One day, he was on a ship when a storm hit. Everybody was safely evacuated from the ship except for Robin. After falling overboard, a saved his life and brought him to Wailmer Island. He remained there for many years until , , and crashed on the island in the episode Island Time.\n\nWorking together with their Pokémon and the damaged plane, they created a boat that they hoped would get them past the whirlpools around the island. However, Team Rocket stole the boat for themselves and tried to make it alone. The whirlpools broke the boat. Then, the Wailmer evolved into a . Team Rocket plotted to steal it, but it sent them flying with . Using Wailord, Robin and the others were able to escape from the island.\n\nEventually, they found a ship traveling to Ever Grande City. However, once he reached the boat, Robin decided to return to Wailmer Island. He said that he would much rather live there, where he could be closer to the Wailord that saved his life many years before. In addition, he could do what he wanted, instead of working everyday like he did before getting stuck on the island, and he found the purpose of life. The kids respected his decision, and while they went on to the Hoenn League, Robin returned to the island with Wailord."
+    },
+    {
+      "heading": "Befriended",
+      "level": 3,
+      "text": "This is a list of Robin has befriended in ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Robin may have been named after , a fictional character who was stranded on an island for 28 years.\nThe strange mask he wears on his head, along with his purple fuzzy hair, make him slightly resemble a . Even Max thought he was one at first glance.\nRobin's is the only Pokémon in to have used the move .\n \n \n \n \n \n\nes:Robin\nfr:Robin\nit:Robin"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Robin",
+    "pageType": "character",
+    "searchableText": "Robin\nCategory:Hoenn characters of the day\nRobin (Japanese: ロビン Robin) is a character of the day who appeared in the episode Island Time.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Befriended",
+      "Trivia"
+    ],
+    "characterCount": 1847,
+    "sectionCount": 4
+  }
+}

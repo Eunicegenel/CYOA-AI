@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Sword & Shield volume 13",
+    "slug": "pokemon-sword-and-shield-volume-13",
+    "pageId": 339696,
+    "revisionId": 4423870
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-sword-and-shield-volume-13__339696.json",
+    "revisionTimestamp": "2025-11-14T08:02:36Z",
+    "fetchedAt": "2026-05-14T15:37:57.774Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 13 is the thirteenth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+  "plainText": "Volume 13 is the thirteenth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.\n\n==Blurb==\nOur team meets the legendary Pokémon Calyrex, also known as the King of Bountiful Harvest! With the King's aid, Henry is finally reunited with the Rusted Sword and Rusted Shield.\n\nWill finally collecting the lost items be the end of our heroes' journey?\n\n==Publications==\n \n \n\n==Chapters==\nAdventure 38: Munch Munch!! The Mysterious Carrot\nAdventure 39: Clip-Clop!! The King's Horse\nAdventure 40: Rumble!! The Darkest Day Returns\n\n \n\n \n\n \n\nfr:Volume 13 (Pokémon Sword&Shield)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 13 is the thirteenth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "Our team meets the legendary Pokémon Calyrex, also known as the King of Bountiful Harvest! With the King's aid, Henry is finally reunited with the Rusted Sword and Rusted Shield.\n\nWill finally collecting the lost items be the end of our heroes' journey?"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 38: Munch Munch!! The Mysterious Carrot\nAdventure 39: Clip-Clop!! The King's Horse\nAdventure 40: Rumble!! The Darkest Day Returns\n\n \n\n \n\n \n\nfr:Volume 13 (Pokémon Sword&Shield)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Sword & Shield volume 13",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Sword & Shield volume 13\nCategory:Pokémon Adventures volumes\nVolume 13 is the thirteenth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and are collected independently of Shogakukan's collected releases of the magazine version.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters"
+    ],
+    "characterCount": 848,
+    "sectionCount": 3
+  }
+}

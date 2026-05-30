@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "MY FRIEND",
+    "slug": "my-friend",
+    "pageId": 211935,
+    "revisionId": 4049624
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Korean ending themes",
+    "sourceFileName": "my-friend__211935.json",
+    "revisionTimestamp": "2024-07-02T11:42:42Z",
+    "fetchedAt": "2026-05-14T14:38:41.210Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "MY FRIEND is the fifth and final ending theme for the Korean dub of Pokémon the Series: XY. It debuted in XY094, replacing Friends Forever. It uses the same animation from the corresponding Japanese ending theme, Puni-chan's Song.",
+  "plainText": "MY FRIEND is the fifth and final ending theme for the Korean dub of Pokémon the Series: XY. It debuted in XY094, replacing Friends Forever. It uses the same animation from the corresponding Japanese ending theme, Puni-chan's Song.\n\n==Ending animation==\nBonnie plays and strolls in the grass along with Squishy while , , and watch.\n\n==Characters==\n\n====Pokémon====\n( )\n(Zygarde Core; Squishy)\n\n==Lyrics==\n===TV Size===\n \n! Korean\n! English\n\n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n\n(Let's play together)\n(Squishy, I'll catch you)\n\nHi! You don't know what good luck it is to meet you here\nNow, be beside me forever, my friend Squishy\nEven if the future can't be fortunate all the time\nBeside you, I'm here! Don’t worry, I'll always protect you\nBe with me, today will be an even more exciting day\nSmile! When you smile, I'm happy too~ oh\nYeah, do exactly as you are doing now!\n\n(Squishy, what should we play with?)\n(Does it feel ticklish and like you're sunbathing?)\n(That's right, do you like it?)\n(That's right, it's great) \n\n==Trivia==\nThe song was uploaded to the official Korean Pokémon YouTube channel on March 6, 2016.\n\n \n \n\n \n\nzh:寶可夢 XY 韓語片尾曲5",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "MY FRIEND is the fifth and final ending theme for the Korean dub of Pokémon the Series: XY. It debuted in XY094, replacing Friends Forever. It uses the same animation from the corresponding Japanese ending theme, Puni-chan's Song."
+    },
+    {
+      "heading": "Ending animation",
+      "level": 2,
+      "text": "Bonnie plays and strolls in the grass along with Squishy while , , and watch."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 4,
+      "text": "( )\n(Zygarde Core; Squishy)"
+    },
+    {
+      "heading": "TV Size",
+      "level": 3,
+      "text": "! Korean\n! English\n\n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n\n(Let's play together)\n(Squishy, I'll catch you)\n\nHi! You don't know what good luck it is to meet you here\nNow, be beside me forever, my friend Squishy\nEven if the future can't be fortunate all the time\nBeside you, I'm here! Don’t worry, I'll always protect you\nBe with me, today will be an even more exciting day\nSmile! When you smile, I'm happy too~ oh\nYeah, do exactly as you are doing now!\n\n(Squishy, what should we play with?)\n(Does it feel ticklish and like you're sunbathing?)\n(That's right, do you like it?)\n(That's right, it's great)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The song was uploaded to the official Korean Pokémon YouTube channel on March 6, 2016.\n\n \n \n\n \n\nzh:寶可夢 XY 韓語片尾曲5"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MY FRIEND",
+    "pageType": "general-anime-lore",
+    "searchableText": "MY FRIEND\nCategory:Korean ending themes\nMY FRIEND is the fifth and final ending theme for the Korean dub of Pokémon the Series: XY. It debuted in XY094, replacing Friends Forever. It uses the same animation from the corresponding Japanese ending theme, Puni-chan's Song.",
+    "sectionHeadings": [
+      "Lead",
+      "Ending animation",
+      "Pokémon",
+      "TV Size",
+      "Trivia"
+    ],
+    "characterCount": 1136,
+    "sectionCount": 5
+  }
+}

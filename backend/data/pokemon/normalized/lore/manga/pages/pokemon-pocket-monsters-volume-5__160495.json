@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon Pocket Monsters volume 5",
+    "slug": "pokemon-pocket-monsters-volume-5",
+    "pageId": 160495,
+    "revisionId": 4354767
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters volumes",
+    "sourceFileName": "pokemon-pocket-monsters-volume-5__160495.json",
+    "revisionTimestamp": "2025-08-08T19:05:12Z",
+    "fetchedAt": "2026-05-14T15:37:05.552Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 5 is the fifth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 5 is the fifth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n \n \n\n==Chapters==\nGet the Last Badge!!\nThe Legendary Moltres!!\nTo the Pokémon League!!\nClefairy's Under Training!!\nPanic on the Luxury Liner?!\nSpace Havoc!!\nGet that 10 Billion Yen!! (Special Side-Story)\n\n==Important events==\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\n\n===Evolutions===\n\n==Gym Battles==\nRed defeats the following Gym Leaders:\nin PM031\n\n==Character summary==\n\n===Red's Party===\n \n \n\n \n\nde:Band 5 (Pokémon Pocket Monsters)\nit:Pokémon Pocket Monsters volume 5\nzh:宝可梦欢乐祭5",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 5 is the fifth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Get the Last Badge!!\nThe Legendary Moltres!!\nTo the Pokémon League!!\nClefairy's Under Training!!\nPanic on the Luxury Liner?!\nSpace Havoc!!\nGet that 10 Billion Yen!! (Special Side-Story)"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:"
+    },
+    {
+      "heading": "Gym Battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:\nin PM031"
+    },
+    {
+      "heading": "Red's Party",
+      "level": 3,
+      "text": "de:Band 5 (Pokémon Pocket Monsters)\nit:Pokémon Pocket Monsters volume 5\nzh:宝可梦欢乐祭5"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pocket Monsters volume 5",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pocket Monsters volume 5\nCategory:Pokémon Pocket Monsters volumes\nVolume 5 is the fifth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions",
+      "Gym Battles",
+      "Red's Party"
+    ],
+    "characterCount": 643,
+    "sectionCount": 5
+  }
+}

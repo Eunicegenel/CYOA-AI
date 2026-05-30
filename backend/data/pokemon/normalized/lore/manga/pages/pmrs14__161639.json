@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS14",
+    "slug": "pmrs14",
+    "pageId": 161639,
+    "revisionId": 4264617
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs14__161639.json",
+    "revisionTimestamp": "2025-03-23T18:28:00Z",
+    "fetchedAt": "2026-05-14T15:33:16.536Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pokémon Friendship Story (Japanese: 超感動！？ポケモン友情物語 Super Touching!? Pokémon Friendship Story) is the fourteenth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Pokémon Friendship Story (Japanese: 超感動！？ポケモン友情物語 Super Touching!? Pokémon Friendship Story) is the fourteenth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Friendship Story (Japanese: 超感動！？ポケモン友情物語 Super Touching!? Pokémon Friendship Story) is the fourteenth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS14",
+    "pageType": "chapter",
+    "searchableText": "PMRS14\nCategory:Pokémon Ruby-Sapphire chapters\nPokémon Friendship Story (Japanese: 超感動！？ポケモン友情物語 Super Touching!? Pokémon Friendship Story) is the fourteenth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 278,
+    "sectionCount": 2
+  }
+}

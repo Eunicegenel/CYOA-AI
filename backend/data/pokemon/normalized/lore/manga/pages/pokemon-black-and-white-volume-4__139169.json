@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Black and White volume 4",
+    "slug": "pokemon-black-and-white-volume-4",
+    "pageId": 139169,
+    "revisionId": 4528452
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-black-and-white-volume-4__139169.json",
+    "revisionTimestamp": "2026-04-09T16:22:06Z",
+    "fetchedAt": "2026-05-14T15:36:01.518Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 4 is the fourth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 4 is the fourth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n \n\n==Chapters==\nAdventure 11 - Battle at the Dreamyard\nAdventure 12 - Wheeling and Dealing\nAdventure 13 - Battle at the Museum\n\n \n\n \n\nde:Band 4 (Pokémon Black and White)\nes:Tomo 4 (Pokémon Black and White)\nfr:Volume 4 (Pokémon Black and White)\nit:Pokémon Nero e Bianco volume 4",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 4 is the fourth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 11 - Battle at the Dreamyard\nAdventure 12 - Wheeling and Dealing\nAdventure 13 - Battle at the Museum\n\n \n\n \n\nde:Band 4 (Pokémon Black and White)\nes:Tomo 4 (Pokémon Black and White)\nfr:Volume 4 (Pokémon Black and White)\nit:Pokémon Nero e Bianco volume 4"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Black and White volume 4",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Black and White volume 4\nCategory:Pokémon Adventures volumes\nVolume 4 is the fourth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 697,
+    "sectionCount": 2
+  }
+}

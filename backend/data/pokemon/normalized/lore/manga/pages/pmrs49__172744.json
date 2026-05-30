@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS49",
+    "slug": "pmrs49",
+    "pageId": 172744,
+    "revisionId": 4264653
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs49__172744.json",
+    "revisionTimestamp": "2025-03-23T18:33:16Z",
+    "fetchedAt": "2026-05-14T15:33:43.036Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "I've Got A Big Fish!! (Japanese: 大物をつり上げる I Brought Up a Big One!) is the forty-ninth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "I've Got A Big Fish!! (Japanese: 大物をつり上げる I Brought Up a Big One!) is the forty-ninth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "I've Got A Big Fish!! (Japanese: 大物をつり上げる I Brought Up a Big One!) is the forty-ninth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS49",
+    "pageType": "chapter",
+    "searchableText": "PMRS49\nCategory:Pokémon Ruby-Sapphire chapters\nI've Got A Big Fish!! (Japanese: 大物をつり上げる I Brought Up a Big One!) is the forty-ninth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 253,
+    "sectionCount": 2
+  }
+}

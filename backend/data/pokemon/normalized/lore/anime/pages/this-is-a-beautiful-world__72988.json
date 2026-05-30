@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "This is a Beautiful World",
+    "slug": "this-is-a-beautiful-world",
+    "pageId": 72988,
+    "revisionId": 4546141
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:English movie ending themes",
+    "sourceFileName": "this-is-a-beautiful-world__72988.json",
+    "revisionTimestamp": "2026-05-07T09:19:00Z",
+    "fetchedAt": "2026-05-14T14:54:21.534Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "This is a Beautiful World is the ending theme for the English dub of Giratina and the Sky Warrior. It is sung by Aaron Brotherton. It is produced and directed by John Loeffler and David Wolfert.\n\nIt is also used as one of the ending themes of Arceus and the Jewel of Life.",
+  "plainText": "This is a Beautiful World is the ending theme for the English dub of Giratina and the Sky Warrior. It is sung by Aaron Brotherton. It is produced and directed by John Loeffler and David Wolfert.\n\nIt is also used as one of the ending themes of Arceus and the Jewel of Life. \n\n==Lyrics==\n===Full version===\n Everyday we just keep going through the motions and we don't know why\nSeems like we never stop to take the time to know this life as it goes by\nBut there's a whole world out there, it's a miracle to see -\nLike the colors of the rainbow, it's a living symphony\n\nSo open your eyes\nIt's easy to do\nJust take the time\nAnd look around you\nNever forget:\nThis is a beautiful world\n\nDo we really celebrate the beauty that surrounds us every single day\nOr ever realize the gifts that we've been given might just go away?\nWe can't let it happen, it's up to you and me\nWe've got to work together, it's our responsibility\n\nSo open your eyes\nIt's easy to do\nJust take the time\nAnd look around you\nNever forget:\nThis is a beautiful world\n\nThere's a whole world out there\nBe thankful everyday\nAnd grateful for the magic\nIt touches us so many ways\n\nSo open your eyes\nIt's easy to do\nJust take the time\nAnd look around you\nNever forget:\nThis is a beautiful world (Oh, yeah)\n\nSo open your eyes\nIt's easy to do\nJust take the time\nAnd look around you\nNever forget:\nThis is a beautiful world\n\nJust take the time\nAnd open your eyes\nNever forget:\nThis is a beautiful world\n\nIt's a beautiful world, oh\nOh, just open your eyes\nThis is a beautiful world\nIt's a beautiful world \n\n===Movie version (M12)===\n So open your eyes\nIt's easy to do\nJust take the time\nAnd look around you\nNever forget:\nThis is a beautiful world\n\nSo open your eyes\nIt's easy to do\nJust take the time\nAnd look around you\nNever forget:\nThis is a beautiful world \n\n==In other languages==\n \n\n \n \n \n \n \n \n\nde:This is a Beautiful World\nes:EDP11\nfr:Ce monde est merveilleux\nzh:This is a Beautiful World",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a Beautiful World is the ending theme for the English dub of Giratina and the Sky Warrior. It is sung by Aaron Brotherton. It is produced and directed by John Loeffler and David Wolfert.\n\nIt is also used as one of the ending themes of Arceus and the Jewel of Life."
+    },
+    {
+      "heading": "Full version",
+      "level": 3,
+      "text": "Everyday we just keep going through the motions and we don't know why\nSeems like we never stop to take the time to know this life as it goes by\nBut there's a whole world out there, it's a miracle to see -\nLike the colors of the rainbow, it's a living symphony\n\nSo open your eyes\nIt's easy to do\nJust take the time\nAnd look around you\nNever forget:\nThis is a beautiful world\n\nDo we really celebrate the beauty that surrounds us every single day\nOr ever realize the gifts that we've been given might just go away?\nWe can't let it happen, it's up to you and me\nWe've got to work together, it's our responsibility\n\nSo open your eyes\nIt's easy to do\nJust take the time\nAnd look around you\nNever forget:\nThis is a beautiful world\n\nThere's a whole world out there\nBe thankful everyday\nAnd grateful for the magic\nIt touches us so many ways\n\nSo open your eyes\nIt's easy to do\nJust take the time\nAnd look around you\nNever forget:\nThis is a beautiful world (Oh, yeah)\n\nSo open your eyes\nIt's easy to do\nJust take the time\nAnd look around you\nNever forget:\nThis is a beautiful world\n\nJust take the time\nAnd open your eyes\nNever forget:\nThis is a beautiful world\n\nIt's a beautiful world, oh\nOh, just open your eyes\nThis is a beautiful world\nIt's a beautiful world"
+    },
+    {
+      "heading": "Movie version (M12)",
+      "level": 3,
+      "text": "So open your eyes\nIt's easy to do\nJust take the time\nAnd look around you\nNever forget:\nThis is a beautiful world\n\nSo open your eyes\nIt's easy to do\nJust take the time\nAnd look around you\nNever forget:\nThis is a beautiful world"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:This is a Beautiful World\nes:EDP11\nfr:Ce monde est merveilleux\nzh:This is a Beautiful World"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "This is a Beautiful World",
+    "pageType": "movie",
+    "searchableText": "This is a Beautiful World\nCategory:English movie ending themes\nThis is a Beautiful World is the ending theme for the English dub of Giratina and the Sky Warrior. It is sung by Aaron Brotherton. It is produced and directed by John Loeffler and David Wolfert.\n\nIt is also used as one of the ending themes of Arceus and the Jewel of Life.",
+    "sectionHeadings": [
+      "Lead",
+      "Full version",
+      "Movie version (M12)",
+      "In other languages"
+    ],
+    "characterCount": 1948,
+    "sectionCount": 4
+  }
+}

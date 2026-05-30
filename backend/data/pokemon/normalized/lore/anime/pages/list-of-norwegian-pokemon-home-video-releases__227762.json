@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "List of Norwegian Pokémon home video releases",
+    "slug": "list-of-norwegian-pokemon-home-video-releases",
+    "pageId": 227762,
+    "revisionId": 4261498
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Lists of animation home video releases",
+    "sourceFileName": "list-of-norwegian-pokemon-home-video-releases__227762.json",
+    "revisionTimestamp": "2025-03-20T01:11:10Z",
+    "fetchedAt": "2026-05-14T14:32:37.348Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The following is a list of all of the home video releases of the Pokémon animated series.",
+  "plainText": "The following is a list of all of the home video releases of the Pokémon animated series.\n\n==Main series==\n===Original series===\nThese DVD's and VHS's were distributed by Sandrew Metronome Video Norge AS. Pokémon is misspelled as POKÈMON on all the tapes.\n\n====VHS====\n \n\n====DVD====\n \n\n====Serie II====\n \n\n===Orange Islands===\nThese DVDs and VHS:s were distributed by Sandrew Metronome Norge AS.\n \n \n\n==Related articles==\nPokémon in Norway",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of all of the home video releases of the Pokémon animated series."
+    },
+    {
+      "heading": "Original series",
+      "level": 3,
+      "text": "These DVD's and VHS's were distributed by Sandrew Metronome Video Norge AS. Pokémon is misspelled as POKÈMON on all the tapes."
+    },
+    {
+      "heading": "Orange Islands",
+      "level": 3,
+      "text": "These DVDs and VHS:s were distributed by Sandrew Metronome Norge AS."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Pokémon in Norway"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Norwegian Pokémon home video releases",
+    "pageType": "pokemon-related",
+    "searchableText": "List of Norwegian Pokémon home video releases\nCategory:Lists of animation home video releases\nThe following is a list of all of the home video releases of the Pokémon animated series.",
+    "sectionHeadings": [
+      "Lead",
+      "Original series",
+      "Orange Islands",
+      "Related articles"
+    ],
+    "characterCount": 440,
+    "sectionCount": 4
+  }
+}

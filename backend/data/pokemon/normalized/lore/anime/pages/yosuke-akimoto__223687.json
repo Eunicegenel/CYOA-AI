@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Yosuke Akimoto",
+    "slug": "yosuke-akimoto",
+    "pageId": 223687,
+    "revisionId": 4486937
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "yosuke-akimoto__223687.json",
+    "revisionTimestamp": "2026-02-15T14:37:06Z",
+    "fetchedAt": "2026-05-14T14:59:59.471Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yosuke Akimoto (秋元羊介 Akimoto Yōsuke) is a Japanese voice actor for .",
+  "plainText": "Yosuke Akimoto (秋元羊介 Akimoto Yōsuke) is a Japanese voice actor for . \n\n==Biography==\nAkimoto was born Yukio Tajika (田鹿幸雄 Tajika Yukio) on February 5, 1944 in , . He started his work on during the , where he voiced Sabrina's father. In , his role was Mr. Briney. However, his most prominent role was during the first movie and its radio drama prequel The Birth of Mewtwo.\n\n==Pokémon roles==\n===Animation===\n==== ====\n(M01)\nMr. Briney\nSabrina's father\n\n===Video games===\n==== ====\nMike Baker\n\n==Other non-Pokémon roles==\n===Anime series===\nCaptain Musaka ( )\nDick Allen ( )\nMaster Asia/Toho Fuhai, Stalker ( )\nSteiner Hardie ( )\nSiegel Clyne ( )\nHencken ( )\nPrincipal Kaieda ( )\nColonel ( )\nAlberto ( )\nDark Lord ( )\nMondo Makabe ( )\nWasabi Jirochō ( )\nLightning Daimyo ( )\n\n===Video games===\nGunrock ( )\nGehrman, the First Hunter ( )\nXaldin ( )\nChen Ta-ren ( )\nK ( )\nSeishi Moribe ( )\nDilan ( )\n\n==External links==\nOffice-Pac profile\n\n \n \n\nde:Yukio Tajika\nit:Yōsuke Akimoto\nja:秋元羊介",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yosuke Akimoto (秋元羊介 Akimoto Yōsuke) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Akimoto was born Yukio Tajika (田鹿幸雄 Tajika Yukio) on February 5, 1944 in , . He started his work on during the , where he voiced Sabrina's father. In , his role was Mr. Briney. However, his most prominent role was during the first movie and its radio drama prequel The Birth of Mewtwo."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "(M01)\nMr. Briney\nSabrina's father"
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Mike Baker"
+    },
+    {
+      "heading": "Anime series",
+      "level": 3,
+      "text": "Captain Musaka ( )\nDick Allen ( )\nMaster Asia/Toho Fuhai, Stalker ( )\nSteiner Hardie ( )\nSiegel Clyne ( )\nHencken ( )\nPrincipal Kaieda ( )\nColonel ( )\nAlberto ( )\nDark Lord ( )\nMondo Makabe ( )\nWasabi Jirochō ( )\nLightning Daimyo ( )"
+    },
+    {
+      "heading": "Video games",
+      "level": 3,
+      "text": "Gunrock ( )\nGehrman, the First Hunter ( )\nXaldin ( )\nChen Ta-ren ( )\nK ( )\nSeishi Moribe ( )\nDilan ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Office-Pac profile\n\n \n \n\nde:Yukio Tajika\nit:Yōsuke Akimoto\nja:秋元羊介"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yosuke Akimoto",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yosuke Akimoto\nCategory:Japanese voice actors\nYosuke Akimoto (秋元羊介 Akimoto Yōsuke) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "",
+      "Anime series",
+      "Video games",
+      "External links"
+    ],
+    "characterCount": 980,
+    "sectionCount": 7
+  }
+}

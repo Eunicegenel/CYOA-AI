@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PDP13",
+    "slug": "pdp13",
+    "pageId": 179376,
+    "revisionId": 4526626
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp13__179376.json",
+    "revisionTimestamp": "2026-04-09T14:59:02Z",
+    "fetchedAt": "2026-05-14T15:29:43.517Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ヘドロまみれで、くさ～い Covered in Sludge and Stin~ky) is the thirteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: ヘドロまみれで、くさ～い Covered in Sludge and Stin~ky) is the thirteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n\n \n \n \n\nit:PDP13",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ヘドロまみれで、くさ～い Covered in Sludge and Stin~ky) is the thirteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n\n \n \n \n\nit:PDP13"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP13",
+    "pageType": "chapter",
+    "searchableText": "PDP13\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: ヘドロまみれで、くさ～い Covered in Sludge and Stin~ky) is the thirteenth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 275,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Maron",
+    "slug": "maron",
+    "pageId": 51638,
+    "revisionId": 4143560
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Gym assistants",
+    "sourceFileName": "maron__51638.json",
+    "revisionTimestamp": "2024-10-11T21:05:17Z",
+    "fetchedAt": "2026-05-14T14:35:14.073Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Maron (Japanese: マサ Masa) is a recurring character in . He is the battle judge of the .\n\nHe first appeared in Talking a Good Game! where and arrived in the Battle Tower. After Ash told him that he wished to challenged the Frontier Brain, Maron took the group inside and introduced them to the Frontier Brain, who was none other than Anabel. The between Ash and Anabel began and Maron refereed the battle. After Ash lost, Maron declared Anabel the winner.\n\nHe reappeared in Second Time's the Charm!, where he refereed the rematch between Ash and Anabel, with Ash as the victor this time.",
+  "plainText": "Maron (Japanese: マサ Masa) is a recurring character in . He is the battle judge of the .\n\nHe first appeared in Talking a Good Game! where and arrived in the Battle Tower. After Ash told him that he wished to challenged the Frontier Brain, Maron took the group inside and introduced them to the Frontier Brain, who was none other than Anabel. The between Ash and Anabel began and Maron refereed the battle. After Ash lost, Maron declared Anabel the winner.\n\nHe reappeared in Second Time's the Charm!, where he refereed the rematch between Ash and Anabel, with Ash as the victor this time.\n\n==Voice actors==\n \n \n \n \n \n\nes:Maron\nit:Maron\nzh:阿正",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Maron (Japanese: マサ Masa) is a recurring character in . He is the battle judge of the .\n\nHe first appeared in Talking a Good Game! where and arrived in the Battle Tower. After Ash told him that he wished to challenged the Frontier Brain, Maron took the group inside and introduced them to the Frontier Brain, who was none other than Anabel. The between Ash and Anabel began and Maron refereed the battle. After Ash lost, Maron declared Anabel the winner.\n\nHe reappeared in Second Time's the Charm!, where he refereed the rematch between Ash and Anabel, with Ash as the victor this time."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Maron\nit:Maron\nzh:阿正"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Maron",
+    "pageType": "general-anime-lore",
+    "searchableText": "Maron\nCategory:Gym assistants\nMaron (Japanese: マサ Masa) is a recurring character in . He is the battle judge of the .\n\nHe first appeared in Talking a Good Game! where and arrived in the Battle Tower. After Ash told him that he wished to challenged the Frontier Brain, Maron took the group inside and introduced them to the Frontier Brain, who was none other than Anabel. The between Ash and Anabel began and Maron refereed the battle. After Ash lost, Maron declared Anabel the winner.\n\nHe reappeared in Second Time's the Charm!, where he refereed the rematch between Ash and Anabel, with Ash as the victor this time.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 639,
+    "sectionCount": 2
+  }
+}

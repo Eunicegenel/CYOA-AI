@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Okazaki",
+    "slug": "okazaki",
+    "pageId": 236792,
+    "revisionId": 4357161
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Alola characters of the day",
+    "sourceFileName": "okazaki__236792.json",
+    "revisionTimestamp": "2025-08-12T14:48:45Z",
+    "fetchedAt": "2026-05-14T14:39:59.483Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Okazaki (Japanese: アキトシ Akitoshi) is a and a character of the day who appeared in The Dealer of Destruction!.\n\nHe was first seen at the Shady House, where he was playing cards with some other Grunts. After Plumeria arrived and informed everyone that Guzma had returned, Okazaki performed a rap to welcome his boss.",
+  "plainText": "Okazaki (Japanese: アキトシ Akitoshi) is a and a character of the day who appeared in The Dealer of Destruction!.\n\nHe was first seen at the Shady House, where he was playing cards with some other Grunts. After Plumeria arrived and informed everyone that Guzma had returned, Okazaki performed a rap to welcome his boss.\n\n==Trivia==\nOkazaki is designed after his Japanese voice actor, Taiiku Okazaki, who also wrote and performed several openings and endings produced during Pokémon the Series: Sun & Moon.\nOkazaki wears a different necklace than the typical Team Skull insignia worn by other .\n\n==Voice actors==\n \n\n==Names==\n \n\n==Related articles==\n \n \n\n \n \n \n\nes:Okazaki\nit:Okazaki\nja:アキトシ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Okazaki (Japanese: アキトシ Akitoshi) is a and a character of the day who appeared in The Dealer of Destruction!.\n\nHe was first seen at the Shady House, where he was playing cards with some other Grunts. After Plumeria arrived and informed everyone that Guzma had returned, Okazaki performed a rap to welcome his boss."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Okazaki is designed after his Japanese voice actor, Taiiku Okazaki, who also wrote and performed several openings and endings produced during Pokémon the Series: Sun & Moon.\nOkazaki wears a different necklace than the typical Team Skull insignia worn by other ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Okazaki\nit:Okazaki\nja:アキトシ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Okazaki",
+    "pageType": "character",
+    "searchableText": "Okazaki\nCategory:Alola characters of the day\nOkazaki (Japanese: アキトシ Akitoshi) is a and a character of the day who appeared in The Dealer of Destruction!.\n\nHe was first seen at the Shady House, where he was playing cards with some other Grunts. After Plumeria arrived and informed everyone that Guzma had returned, Okazaki performed a rap to welcome his boss.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 685,
+    "sectionCount": 3
+  }
+}

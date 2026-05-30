@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Narrator",
+    "slug": "narrator",
+    "pageId": 20967,
+    "revisionId": 4521022
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon animated series",
+    "sourceFileName": "narrator__20967.json",
+    "revisionTimestamp": "2026-04-01T14:13:34Z",
+    "fetchedAt": "2026-05-14T14:38:56.922Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "]]\nThe narrator is a character of Pokémon animation. He has been in almost every animated series episode and up until the conclusion of .",
+  "plainText": "]]\nThe narrator is a character of Pokémon animation. He has been in almost every animated series episode and up until the conclusion of .\n\n==Overview==\n=== ===\nThe narrator usually speaks at the beginning and ending of each episode. In the beginning of an episode of Pokémon the Series, he usually informs the of what Ash Ketchum and are doing or where they are heading. Sometimes, he will even explain what they did in the previous episode. He usually concludes the episode with what Ash and his friends have learned during the episode or say what they are planning to do next. In , he usually is only heard at the beginning, giving an overview of the Pokémon world.\n\nThere have been several instances of a character breaking the fourth wall and talking to the narrator in Pokémon the Series, such as in the episode Hypno's Naptime, where told him not to congratulate her for unintentionally catching a , and in the episode Radio Lulled the Mischievous Stars!, where interrupted the narrator's closing lines for the episode and gave him a listener mail to read for their radio show. In the clip show episodes JN119, JN121, and JN126, the narrator hosted radio shows under the pseudonyms of (Japanese: ナレーさん Mr. Narra), (Japanese: ナレー・ション Narra Tion), and (Japanese: ナレタ先輩 Nareta-senpai), respectively.\n\nIn some of the episodes featured in the Weekly Pokémon Broadcasting Station, regular characters would narrate in in place of the narrator. When the episodes were dubbed in English, these were replaced with the regular narration. First-person narration was kept in English in episode Get the Show on the Road. also regularly narrated episodes in the first person from Now You See Them, Now You Don't! to The Professors' New Adventure! (apart from Night of a Thousand Poses!).\n\n=== ===\nFollowing the conclusion of Pokémon the Series and with Ash and no longer main characters, the narrator was also retired (other than a brief voice-over at the beginning of The Pendant That Starts It All (Part One)), with Liko replacing him in providing the opening and ending narrations of .\n\n==Voice actors==\n \n\n \n\n \n\nde:Erzähler\nit:Narratore\nzh:旁白",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "]]\nThe narrator is a character of Pokémon animation. He has been in almost every animated series episode and up until the conclusion of ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "The narrator usually speaks at the beginning and ending of each episode. In the beginning of an episode of Pokémon the Series, he usually informs the of what Ash Ketchum and are doing or where they are heading. Sometimes, he will even explain what they did in the previous episode. He usually concludes the episode with what Ash and his friends have learned during the episode or say what they are planning to do next. In , he usually is only heard at the beginning, giving an overview of the Pokémon world.\n\nThere have been several instances of a character breaking the fourth wall and talking to the narrator in Pokémon the Series, such as in the episode Hypno's Naptime, where told him not to congratulate her for unintentionally catching a , and in the episode Radio Lulled the Mischievous Stars!, where interrupted the narrator's closing lines for the episode and gave him a listener mail to read for their radio show. In the clip show episodes JN119, JN121, and JN126, the narrator hosted radio shows under the pseudonyms of (Japanese: ナレーさん Mr. Narra), (Japanese: ナレー・ション Narra Tion), and (Japanese: ナレタ先輩 Nareta-senpai), respectively.\n\nIn some of the episodes featured in the Weekly Pokémon Broadcasting Station, regular characters would narrate in in place of the narrator. When the episodes were dubbed in English, these were replaced with the regular narration. First-person narration was kept in English in episode Get the Show on the Road. also regularly narrated episodes in the first person from Now You See Them, Now You Don't! to The Professors' New Adventure! (apart from Night of a Thousand Poses!)."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Following the conclusion of Pokémon the Series and with Ash and no longer main characters, the narrator was also retired (other than a brief voice-over at the beginning of The Pendant That Starts It All (Part One)), with Liko replacing him in providing the opening and ending narrations of ."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Erzähler\nit:Narratore\nzh:旁白"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Narrator",
+    "pageType": "pokemon-related",
+    "searchableText": "Narrator\nCategory:Pokémon animated series\n]]\nThe narrator is a character of Pokémon animation. He has been in almost every animated series episode and up until the conclusion of .",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "",
+      "Voice actors"
+    ],
+    "characterCount": 2137,
+    "sectionCount": 4
+  }
+}

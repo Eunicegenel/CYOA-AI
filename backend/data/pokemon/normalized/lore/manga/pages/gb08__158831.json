@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GB08",
+    "slug": "gb08",
+    "pageId": 158831,
+    "revisionId": 4526826
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys chapters",
+    "sourceFileName": "gb08__158831.json",
+    "revisionTimestamp": "2026-04-09T15:07:50Z",
+    "fetchedAt": "2026-05-14T15:19:11.596Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "For Pikachu's Sake!! The Search for the Missing Farfetch'd (Japanese: ピカチュウ争奪!! カモネギ探し Struggle for Pikachu!! Find ) is the eighth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+  "plainText": "For Pikachu's Sake!! The Search for the Missing Farfetch'd (Japanese: ピカチュウ争奪!! カモネギ探し Struggle for Pikachu!! Find ) is the eighth chapter of the Pokémon Gold & Silver: The Golden Boys manga.\n\n==Plot==\n \n\n==Major events==\nWhitney temporarily takes Gold's Pikachu.\n\n===Debuts===\n====Pokémon debuts====\n\n( )\n\n==Characters==\n===Humans===\n\nKurt\nWhitney\n\n===Pokémon===\n( )\n( )\n( )\n( 's)\n( )\n(Whitney's)\n( )\n\n \n \n \n\nes:GB08\nit:GB08",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "For Pikachu's Sake!! The Search for the Missing Farfetch'd (Japanese: ピカチュウ争奪!! カモネギ探し Struggle for Pikachu!! Find ) is the eighth chapter of the Pokémon Gold & Silver: The Golden Boys manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Whitney temporarily takes Gold's Pikachu."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kurt\nWhitney"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( 's)\n( )\n(Whitney's)\n( )\n\n \n \n \n\nes:GB08\nit:GB08"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GB08",
+    "pageType": "chapter",
+    "searchableText": "GB08\nCategory:Pokémon Gold & Silver: The Golden Boys chapters\nFor Pikachu's Sake!! The Search for the Missing Farfetch'd (Japanese: ピカチュウ争奪!! カモネギ探し Struggle for Pikachu!! Find ) is the eighth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 425,
+    "sectionCount": 5
+  }
+}

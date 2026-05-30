@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PPPB05",
+    "slug": "pppb05",
+    "pageId": 6549,
+    "revisionId": 4131470
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "pppb05__6549.json",
+    "revisionTimestamp": "2024-09-29T04:20:23Z",
+    "fetchedAt": "2026-05-14T15:39:24.186Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Valentine Heartbeats (Japanese: バレンタインでドッキドキ Excitement of the Valentine) is the fifth bonus chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Valentine Heartbeats (Japanese: バレンタインでドッキドキ Excitement of the Valentine) is the fifth bonus chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \n and come to visit Hazel's house, but she is too busy to play with them. Pikachu and Clefairy start to worry that Hazel doesn't like them anymore, but the next day, she gives them chocolate hearts! She explains that the reason she couldn't play with them yesterday because she was busy was making chocolates as a surprise for Almond and all of the Pokémon.\n\n makes chocolates too, but eating them causes a large explosion.\n\n==Major events==\nHazel and her friends celebrate .\n \n\n==Characters==\n===Humans===\nHazel\nAlmond\n\n===Pokémon===\n( )\n( )\n( )\n\n \n\n \n \n\n \n\nit:PPPB05",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Valentine Heartbeats (Japanese: バレンタインでドッキドキ Excitement of the Valentine) is the fifth bonus chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "and come to visit Hazel's house, but she is too busy to play with them. Pikachu and Clefairy start to worry that Hazel doesn't like them anymore, but the next day, she gives them chocolate hearts! She explains that the reason she couldn't play with them yesterday because she was busy was making chocolates as a surprise for Almond and all of the Pokémon.\n\n makes chocolates too, but eating them causes a large explosion."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hazel and her friends celebrate ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nAlmond"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n \n\n \n \n\n \n\nit:PPPB05"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPPB05",
+    "pageType": "chapter",
+    "searchableText": "PPPB05\nCategory:Magical Pokémon Journey chapters\nValentine Heartbeats (Japanese: バレンタインでドッキドキ Excitement of the Valentine) is the fifth bonus chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 718,
+    "sectionCount": 5
+  }
+}

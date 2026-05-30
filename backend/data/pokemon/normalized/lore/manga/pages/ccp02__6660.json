@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "CCP02",
+    "slug": "ccp02",
+    "pageId": 6660,
+    "revisionId": 4526264
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp02__6660.json",
+    "revisionTimestamp": "2026-04-09T14:31:07Z",
+    "fetchedAt": "2026-05-14T15:15:08.712Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ハルカとミズゴロウちゃも Haruka and Mudkip (chamo!)) is the second chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: ハルカとミズゴロウちゃも Haruka and Mudkip (chamo!)) is the second chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n thinks is horrible at making Pokéblocks, but the Haruka's just met begs to differ.\n\n==Major events==\nHaruka's questionable skill with Pokéblocks is introduced.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( )\n(debut)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ハルカとミズゴロウちゃも Haruka and Mudkip (chamo!)) is the second chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "thinks is horrible at making Pokéblocks, but the Haruka's just met begs to differ."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Haruka's questionable skill with Pokéblocks is introduced."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n(debut)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP02",
+    "pageType": "chapter",
+    "searchableText": "CCP02\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: ハルカとミズゴロウちゃも Haruka and Mudkip (chamo!)) is the second chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Pokémon"
+    ],
+    "characterCount": 396,
+    "sectionCount": 4
+  }
+}

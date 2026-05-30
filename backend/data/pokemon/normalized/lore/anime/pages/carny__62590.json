@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Carny",
+    "slug": "carny",
+    "pageId": 62590,
+    "revisionId": 4094756
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "carny__62590.json",
+    "revisionTimestamp": "2024-09-01T00:04:35Z",
+    "fetchedAt": "2026-05-14T14:08:37.960Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Carny (Japanese: マスキさん Muski-san) is a character of the day who appeared in Cream of the Croagunk Crop!.\n\nCarny is the station chief in Pastoria City. He served as a judge of the Festival held in the Great Marsh, alongside Crasher Wake and Nurse Joy. He was most likely chosen as a judge because he has a keen eye for Croagunk and can tell the differences between each of the Croagunk participants. He showed a particular interest in Brock's Croagunk and , who was disguised as a Croagunk.",
+  "plainText": "Carny (Japanese: マスキさん Muski-san) is a character of the day who appeared in Cream of the Croagunk Crop!.\n\nCarny is the station chief in Pastoria City. He served as a judge of the Festival held in the Great Marsh, alongside Crasher Wake and Nurse Joy. He was most likely chosen as a judge because he has a keen eye for Croagunk and can tell the differences between each of the Croagunk participants. He showed a particular interest in Brock's Croagunk and , who was disguised as a Croagunk.\n\n==Voice actors==\n \n\n==Trivia==\nCarny bears a resemblance to , a Pokémon found in the Great Marsh of his own town. He is also named after this Pokémon in both English and Japanese.\n\n \n\n \n \n \n\nes:Carny\nit:Carny\nzh:增木站长",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Carny (Japanese: マスキさん Muski-san) is a character of the day who appeared in Cream of the Croagunk Crop!.\n\nCarny is the station chief in Pastoria City. He served as a judge of the Festival held in the Great Marsh, alongside Crasher Wake and Nurse Joy. He was most likely chosen as a judge because he has a keen eye for Croagunk and can tell the differences between each of the Croagunk participants. He showed a particular interest in Brock's Croagunk and , who was disguised as a Croagunk."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Carny bears a resemblance to , a Pokémon found in the Great Marsh of his own town. He is also named after this Pokémon in both English and Japanese.\n\n \n\n \n \n \n\nes:Carny\nit:Carny\nzh:增木站长"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Carny",
+    "pageType": "character",
+    "searchableText": "Carny\nCategory:Sinnoh characters of the day\nCarny (Japanese: マスキさん Muski-san) is a character of the day who appeared in Cream of the Croagunk Crop!.\n\nCarny is the station chief in Pastoria City. He served as a judge of the Festival held in the Great Marsh, alongside Crasher Wake and Nurse Joy. He was most likely chosen as a judge because he has a keen eye for Croagunk and can tell the differences between each of the Croagunk participants. He showed a particular interest in Brock's Croagunk and , who was disguised as a Croagunk.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 707,
+    "sectionCount": 2
+  }
+}

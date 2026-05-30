@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Roger Callagy",
+    "slug": "roger-callagy",
+    "pageId": 231541,
+    "revisionId": 4323346
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "roger-callagy__231541.json",
+    "revisionTimestamp": "2025-06-24T03:28:34Z",
+    "fetchedAt": "2026-05-14T14:46:53.561Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Rob Morrison is an American voice actor for the English-language dub of . From to , he was credited as Roger Callagy. He is currently affiliated with Innovative Artists.",
+  "plainText": "Rob Morrison is an American voice actor for the English-language dub of . From to , he was credited as Roger Callagy. He is currently affiliated with Innovative Artists.\n\n==Biography==\nMorrison is an actor, musician, and songwriter based in . Morrison joined the during , where he played various extras. In , he gained his two most notable roles: and Ash's Rowlet.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nTitus\nOne of the Revengers\n\n======Minor======\nBoy (XY124)\nWorker (XY124)\nReferee (XY125-XY131)\nStore Owner (XY129)\n(XY129-XY132)\nStudents (SM005)\n(SM027)\nMan (SM040)\nVest Boy (SM041)\nYellow Man (SM041)\n(SM088-SM090)\n\n=====Pokémon=====\n\n======Major======\n\nAsh's Rowlet\n\n======Minor======\n\n(SM042)\n(SM057)\n\n====I Choose You! trilogy====\n=====Humans=====\nMale Announcer (M21)\n\n=====Pokémon=====\n(M21)\n\n==External links==\nOfficial website\nInstagram\nTwitter\n\n \n\n \n\nit:Rob Morrison",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Rob Morrison is an American voice actor for the English-language dub of . From to , he was credited as Roger Callagy. He is currently affiliated with Innovative Artists."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Morrison is an actor, musician, and songwriter based in . Morrison joined the during , where he played various extras. In , he gained his two most notable roles: and Ash's Rowlet."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Titus\nOne of the Revengers"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Boy (XY124)\nWorker (XY124)\nReferee (XY125-XY131)\nStore Owner (XY129)\n(XY129-XY132)\nStudents (SM005)\n(SM027)\nMan (SM040)\nVest Boy (SM041)\nYellow Man (SM041)\n(SM088-SM090)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Ash's Rowlet"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(SM042)\n(SM057)"
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Male Announcer (M21)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(M21)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nInstagram\nTwitter\n\n \n\n \n\nit:Rob Morrison"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Roger Callagy",
+    "pageType": "general-anime-lore",
+    "searchableText": "Roger Callagy\nCategory:TPCi voice actors\nRob Morrison is an American voice actor for the English-language dub of . From to , he was credited as Roger Callagy. He is currently affiliated with Innovative Artists.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Humans",
+      "Pokémon",
+      "External links"
+    ],
+    "characterCount": 920,
+    "sectionCount": 9
+  }
+}

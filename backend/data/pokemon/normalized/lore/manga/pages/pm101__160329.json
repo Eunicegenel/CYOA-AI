@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PM101",
+    "slug": "pm101",
+    "pageId": 160329,
+    "revisionId": 4526547
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm101__160329.json",
+    "revisionTimestamp": "2026-04-09T14:55:19Z",
+    "fetchedAt": "2026-05-14T15:31:33.184Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Summer Time at Clefairy's Dome (Japanese: ピッピドームで常夏気分 Everlasting Summer Feeling in 's Dome) is the one hundred first chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Summer Time at Clefairy's Dome (Japanese: ピッピドームで常夏気分 Everlasting Summer Feeling in 's Dome) is the one hundred first chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Summer Time at Clefairy's Dome (Japanese: ピッピドームで常夏気分 Everlasting Summer Feeling in 's Dome) is the one hundred first chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM101",
+    "pageType": "chapter",
+    "searchableText": "PM101\nCategory:Pokémon Pocket Monsters chapters\nSummer Time at Clefairy's Dome (Japanese: ピッピドームで常夏気分 Everlasting Summer Feeling in 's Dome) is the one hundred first chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 300,
+    "sectionCount": 2
+  }
+}

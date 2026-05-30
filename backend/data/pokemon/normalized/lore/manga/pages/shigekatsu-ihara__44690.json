@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Shigekatsu Ihara",
+    "slug": "shigekatsu-ihara",
+    "pageId": 44690,
+    "revisionId": 4132709
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Diamond and Pearl Adventure!",
+    "sourceFileName": "shigekatsu-ihara__44690.json",
+    "revisionTimestamp": "2024-09-29T05:26:08Z",
+    "fetchedAt": "2026-05-14T15:49:19.393Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Shigekatsu Ihara (Japanese: 伊原しげかつ) is the creator of multiple Pokémon manga series including Pokémon Diamond and Pearl Adventure!. He is also known for the series Duel Jack!!.",
+  "plainText": "Shigekatsu Ihara (Japanese: 伊原しげかつ) is the creator of multiple Pokémon manga series including Pokémon Diamond and Pearl Adventure!. He is also known for the series Duel Jack!!.\n\n== Pokémon manga by Shigekatsu Ihara==\n\nPokémon Battle Frontier\nPokémon Diamond and Pearl Adventure!\nPocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon\nPokémon Ranger -The 1st Mission-\n\n== External links==\nShigekatsu Ihara's Twitter account\n\n \n\n \n \n \n\nes:Shigekatsu Ihara\nit:Shigekatsu Ihara\nja:伊原しげかつ\nzh:伊原茂胜",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shigekatsu Ihara (Japanese: 伊原しげかつ) is the creator of multiple Pokémon manga series including Pokémon Diamond and Pearl Adventure!. He is also known for the series Duel Jack!!."
+    },
+    {
+      "heading": "Pokémon manga by Shigekatsu Ihara",
+      "level": 2,
+      "text": "Pokémon Battle Frontier\nPokémon Diamond and Pearl Adventure!\nPocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon\nPokémon Ranger -The 1st Mission-"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Shigekatsu Ihara's Twitter account\n\n \n\n \n \n \n\nes:Shigekatsu Ihara\nit:Shigekatsu Ihara\nja:伊原しげかつ\nzh:伊原茂胜"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shigekatsu Ihara",
+    "pageType": "pokemon-related",
+    "searchableText": "Shigekatsu Ihara\nCategory:Pokémon Diamond and Pearl Adventure!\nShigekatsu Ihara (Japanese: 伊原しげかつ) is the creator of multiple Pokémon manga series including Pokémon Diamond and Pearl Adventure!. He is also known for the series Duel Jack!!.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon manga by Shigekatsu Ihara",
+      "External links"
+    ],
+    "characterCount": 494,
+    "sectionCount": 3
+  }
+}

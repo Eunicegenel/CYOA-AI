@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Megumi Satou",
+    "slug": "megumi-satou",
+    "pageId": 200543,
+    "revisionId": 4504056
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "megumi-satou__200543.json",
+    "revisionTimestamp": "2026-03-08T13:17:51Z",
+    "fetchedAt": "2026-05-14T14:36:15.974Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Megumi Satou (Japanese: 佐藤恵 Satou Megumi, real name spelt 佐藤 めぐみ) is a Japanese voice actress for .",
+  "plainText": "Megumi Satou (Japanese: 佐藤恵 Satou Megumi, real name spelt 佐藤 めぐみ) is a Japanese voice actress for . \n\n==Biography==\nSatou was born on July 5, 1989 in , and became a voice actress and actress as an adult. Satou began working on the at the very beginning of . One of her roles was . Satou is currently affiliated with AIR AGENCY.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Major=====\nClemont's Dedenne\n\nJessie's Pumpkaboo * \n=====Minor=====\n(XY001)\n\n====Pokémon Mystery Dungeon commercial====\n(Gates to Infinity)\n\n===Video games===\n====Super Smash Bros. for Nintendo 3DS/Wii U====\n\n \n\n==Other non-Pokémon roles==\nHannah Diamant ( , )\nNatsufusa Tsukuba ( )\nAkito Tanishita ( )\nSacchan ( )\nAtri ( )\nCatelyn ( )\nMogu ( )\nBriar ( )\nYoko ( )\n\n==External links==\nAIR AGENCY profile\n \n\n \n\nit:Megumi Satō\nja:佐藤恵\nzh:佐藤惠",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Megumi Satou (Japanese: 佐藤恵 Satou Megumi, real name spelt 佐藤 めぐみ) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Satou was born on July 5, 1989 in , and became a voice actress and actress as an adult. Satou began working on the at the very beginning of . One of her roles was . Satou is currently affiliated with AIR AGENCY."
+    },
+    {
+      "heading": "Major",
+      "level": 5,
+      "text": "Clemont's Dedenne\n\nJessie's Pumpkaboo *"
+    },
+    {
+      "heading": "Minor",
+      "level": 5,
+      "text": "(XY001)"
+    },
+    {
+      "heading": "Pokémon Mystery Dungeon commercial",
+      "level": 4,
+      "text": "(Gates to Infinity)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Hannah Diamant ( , )\nNatsufusa Tsukuba ( )\nAkito Tanishita ( )\nSacchan ( )\nAtri ( )\nCatelyn ( )\nMogu ( )\nBriar ( )\nYoko ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "AIR AGENCY profile\n \n\n \n\nit:Megumi Satō\nja:佐藤恵\nzh:佐藤惠"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Megumi Satou",
+    "pageType": "general-anime-lore",
+    "searchableText": "Megumi Satou\nCategory:Japanese voice actors\nMegumi Satou (Japanese: 佐藤恵 Satou Megumi, real name spelt 佐藤 めぐみ) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Pokémon Mystery Dungeon commercial",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 815,
+    "sectionCount": 7
+  }
+}

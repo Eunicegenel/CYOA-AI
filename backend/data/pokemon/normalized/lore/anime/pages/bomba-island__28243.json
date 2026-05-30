@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Bomba Island",
+    "slug": "bomba-island",
+    "pageId": 28243,
+    "revisionId": 4261206
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "bomba-island__28243.json",
+    "revisionTimestamp": "2025-03-19T21:51:26Z",
+    "fetchedAt": "2026-05-14T14:05:47.024Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Bomba Island (Japanese: バンバ島 Bamba Island) is an -exclusive location in Hoenn, which appeared in Judgment Day!. It is located between Lilycove City and Mossdeep City.\n\nIt is possible to reach the island by ferry from Lilycove City. In their haste to reach the Mossdeep-bound service, , , , and Max ended up on Bomba Island after taking this ferry by accident. While there, they met and his teacher , and learned that referees were trained on the island.\n\nEven though Jimmy was being trained on the island to become a referee, it was not what he originally wanted to do; he ended up on the island by accident while he fell asleep in a boat that drifted away. Later, his evolved to a during a fight with who he then defeated, Following Serena's advice, Jimmy decided to stop his referee training and resume his true passions of journeying as a Pokémon Trainer.",
+  "plainText": "Bomba Island (Japanese: バンバ島 Bamba Island) is an -exclusive location in Hoenn, which appeared in Judgment Day!. It is located between Lilycove City and Mossdeep City.\n\nIt is possible to reach the island by ferry from Lilycove City. In their haste to reach the Mossdeep-bound service, , , , and Max ended up on Bomba Island after taking this ferry by accident. While there, they met and his teacher , and learned that referees were trained on the island.\n\nEven though Jimmy was being trained on the island to become a referee, it was not what he originally wanted to do; he ended up on the island by accident while he fell asleep in a boat that drifted away. Later, his evolved to a during a fight with who he then defeated, Following Serena's advice, Jimmy decided to stop his referee training and resume his true passions of journeying as a Pokémon Trainer.\n\n==Places of Interest==\n \n===Pokémon Battle Judge Training Institute===\nThe Pokémon Battle Judge Training Institute is a leading school for Battle judges. Professor teaches at the Institute.\n\nAt Serena's request, and competed in a Double Battle while student refereed the match. Jimmy, however, was not confident with his rulings and prematurely declared Ash's Corphish knocked out, so Serena ordered the match to end.\n\n==Trivia==\nJimmy mentions that for battle judge training, the Pokémon Battle Judge Training Institute is the \"only one there is,\" either indicating that all judges are trained out of Hoenn, it is the only battle judge school in Hoenn, or it is the top school for such training (if not one of the top schools).\n\n===Name origin===\nIts name may come from the Greek word βόμβα, which means bomb.\n\n \n \n \n\nes:Isla Bamba\nit:Isola di Bamba\nzh:邦巴島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bomba Island (Japanese: バンバ島 Bamba Island) is an -exclusive location in Hoenn, which appeared in Judgment Day!. It is located between Lilycove City and Mossdeep City.\n\nIt is possible to reach the island by ferry from Lilycove City. In their haste to reach the Mossdeep-bound service, , , , and Max ended up on Bomba Island after taking this ferry by accident. While there, they met and his teacher , and learned that referees were trained on the island.\n\nEven though Jimmy was being trained on the island to become a referee, it was not what he originally wanted to do; he ended up on the island by accident while he fell asleep in a boat that drifted away. Later, his evolved to a during a fight with who he then defeated, Following Serena's advice, Jimmy decided to stop his referee training and resume his true passions of journeying as a Pokémon Trainer."
+    },
+    {
+      "heading": "Pokémon Battle Judge Training Institute",
+      "level": 3,
+      "text": "The Pokémon Battle Judge Training Institute is a leading school for Battle judges. Professor teaches at the Institute.\n\nAt Serena's request, and competed in a Double Battle while student refereed the match. Jimmy, however, was not confident with his rulings and prematurely declared Ash's Corphish knocked out, so Serena ordered the match to end."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Jimmy mentions that for battle judge training, the Pokémon Battle Judge Training Institute is the \"only one there is,\" either indicating that all judges are trained out of Hoenn, it is the only battle judge school in Hoenn, or it is the top school for such training (if not one of the top schools)."
+    },
+    {
+      "heading": "Name origin",
+      "level": 3,
+      "text": "Its name may come from the Greek word βόμβα, which means bomb.\n\n \n \n \n\nes:Isla Bamba\nit:Isola di Bamba\nzh:邦巴島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bomba Island",
+    "pageType": "location",
+    "searchableText": "Bomba Island\nCategory:Animated series-exclusive locations\nBomba Island (Japanese: バンバ島 Bamba Island) is an -exclusive location in Hoenn, which appeared in Judgment Day!. It is located between Lilycove City and Mossdeep City.\n\nIt is possible to reach the island by ferry from Lilycove City. In their haste to reach the Mossdeep-bound service, , , , and Max ended up on Bomba Island after taking this ferry by accident. While there, they met and his teacher , and learned that referees were trained on the island.\n\nEven though Jimmy was being trained on the island to become a referee, it was not what he originally wanted to do; he ended up on the island by accident while he fell asleep in a boat that drifted away. Later, his evolved to a during a fight with who he then defeated, Following Serena's advice, Jimmy decided to stop his referee training and resume his true passions of journeying as a Pokémon Trainer.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon Battle Judge Training Institute",
+      "Trivia",
+      "Name origin"
+    ],
+    "characterCount": 1717,
+    "sectionCount": 4
+  }
+}

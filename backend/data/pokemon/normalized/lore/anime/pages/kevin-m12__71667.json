@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Kevin (M12)",
+    "slug": "kevin-m12",
+    "pageId": 71667,
+    "revisionId": 4487294
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "kevin-m12__71667.json",
+    "revisionTimestamp": "2026-02-16T01:47:49Z",
+    "fetchedAt": "2026-05-14T14:29:21.159Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Kevin (Japanese: ケビン Kevin) is a character who appeared in Arceus and the Jewel of Life.",
+  "plainText": "Kevin (Japanese: ケビン Kevin) is a character who appeared in Arceus and the Jewel of Life. \n\n==History==\n \nHe and Sheena are the guardians of the . They are extremely interested in their town's mythology and travel extensively to research it, especially the impact that 's awakening has on the three Pokémon of myth's respective dimensions. They were present near the plateau of Alamos Town as it was returned to the proper dimension by at the end of The Rise of Darkrai and later visited the glacier near Ten'i Village to see Zero's ship after it crashed during the climax of Giratina and the Sky Warrior. \n\nSheena and him explained the legend of Damos to and and was present when Arceus attacked Michina Town. While Sheena and the others time traveled to the past thanks to , he stayed behind and watched the fight between Arceus and the three Legendary Pokémon.\n\n==Artwork==\n \n\n==Voice actors==\n \n\n==In other languages==\n \n\n==Related articles==\n \n \n\nes:Kevin\nit:Kevin (F12)\nja:ケビン\nzh:克賓",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kevin (Japanese: ケビン Kevin) is a character who appeared in Arceus and the Jewel of Life."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "He and Sheena are the guardians of the . They are extremely interested in their town's mythology and travel extensively to research it, especially the impact that 's awakening has on the three Pokémon of myth's respective dimensions. They were present near the plateau of Alamos Town as it was returned to the proper dimension by at the end of The Rise of Darkrai and later visited the glacier near Ten'i Village to see Zero's ship after it crashed during the climax of Giratina and the Sky Warrior. \n\nSheena and him explained the legend of Damos to and and was present when Arceus attacked Michina Town. While Sheena and the others time traveled to the past thanks to , he stayed behind and watched the fight between Arceus and the three Legendary Pokémon."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Kevin\nit:Kevin (F12)\nja:ケビン\nzh:克賓"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kevin (M12)",
+    "pageType": "movie",
+    "searchableText": "Kevin (M12)\nCategory:Movie characters\nKevin (Japanese: ケビン Kevin) is a character who appeared in Arceus and the Jewel of Life.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 987,
+    "sectionCount": 3
+  }
+}

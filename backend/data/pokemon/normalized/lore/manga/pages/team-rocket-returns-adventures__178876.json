@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Team Rocket Returns (Adventures)",
+    "slug": "team-rocket-returns-adventures",
+    "pageId": 178876,
+    "revisionId": 4132745
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "team-rocket-returns-adventures__178876.json",
+    "revisionTimestamp": "2024-09-29T05:26:44Z",
+    "fetchedAt": "2026-05-14T15:51:21.045Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Team Rocket Returns is the sixth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters sixteen and seventeen of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Team Rocket Returns is the sixth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters sixteen and seventeen of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n \n\n==Chapters==\nChapter 16 - Tauros the Tyrant\nChapter 17 - The Jynx Jinx\n\n==Important events==\nfinds out that had stolen his Gym Badges.\nRed disguises as a Team Rocket grunt and infiltrates their headquarters.\nTeam Rocket tries to capture Green as she had stolen their disc.\nGreen returns Red's Badges.\n\n==In other languages==\n \n\n \n \n\nfr:Volume 6 (Pokémon Adventures)\nit:Il Ritorno Del Team Rocket",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Team Rocket Returns is the sixth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters sixteen and seventeen of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 16 - Tauros the Tyrant\nChapter 17 - The Jynx Jinx"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "finds out that had stolen his Gym Badges.\nRed disguises as a Team Rocket grunt and infiltrates their headquarters.\nTeam Rocket tries to capture Green as she had stolen their disc.\nGreen returns Red's Badges."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "fr:Volume 6 (Pokémon Adventures)\nit:Il Ritorno Del Team Rocket"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Team Rocket Returns (Adventures)",
+    "pageType": "pokemon-related",
+    "searchableText": "Team Rocket Returns (Adventures)\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Team Rocket Returns is the sixth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters sixteen and seventeen of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "In other languages"
+    ],
+    "characterCount": 823,
+    "sectionCount": 4
+  }
+}

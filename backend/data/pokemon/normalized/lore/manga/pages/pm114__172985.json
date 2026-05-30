@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM114",
+    "slug": "pm114",
+    "pageId": 172985,
+    "revisionId": 4527926
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm114__172985.json",
+    "revisionTimestamp": "2026-04-09T16:01:08Z",
+    "fetchedAt": "2026-05-14T15:31:41.314Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Give Me Happiness!! (Japanese: 幸せをください！！ Happiness, Please!!) is the one hundredth-fourteenth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Give Me Happiness!! (Japanese: 幸せをください！！ Happiness, Please!!) is the one hundredth-fourteenth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\ns\n\n===Pokémon===\n( ) \n( )\n( ) \n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Give Me Happiness!! (Japanese: 幸せをください！！ Happiness, Please!!) is the one hundredth-fourteenth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "s"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM114",
+    "pageType": "chapter",
+    "searchableText": "PM114\nCategory:Pokémon Pocket Monsters chapters\nGive Me Happiness!! (Japanese: 幸せをください！！ Happiness, Please!!) is the one hundredth-fourteenth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 280,
+    "sectionCount": 3
+  }
+}

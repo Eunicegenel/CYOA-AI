@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Marris",
+    "slug": "marris",
+    "pageId": 166050,
+    "revisionId": 4200660
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "marris__166050.json",
+    "revisionTimestamp": "2024-12-11T21:53:13Z",
+    "fetchedAt": "2026-05-14T14:35:16.540Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Marris (Japanese: モリシマ Morishima) is a minor recurring character in .\n\nShe first appeared in Jostling for the Junior Cup!, where she participated in the Pokémon World Tournament Junior Cup and was 's first opponent. However, she was defeated by him and eliminated from the tournament. She made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where she lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.",
+  "plainText": "Marris (Japanese: モリシマ Morishima) is a minor recurring character in .\n\nShe first appeared in Jostling for the Junior Cup!, where she participated in the Pokémon World Tournament Junior Cup and was 's first opponent. However, she was defeated by him and eliminated from the tournament. She made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where she lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.\n\n==Pokémon==\n \n\n==Pokémon competitions==\nMarris has competed in the following :\nPokémon World Tournament Junior Cup - Top 16 (Jostling for the Junior Cup!)\n\n==Voice actors==\n \n\n \n \n \n\nes:Marris\nfr:Marielle\nit:Marris\nzh:森島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Marris (Japanese: モリシマ Morishima) is a minor recurring character in .\n\nShe first appeared in Jostling for the Junior Cup!, where she participated in the Pokémon World Tournament Junior Cup and was 's first opponent. However, she was defeated by him and eliminated from the tournament. She made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where she lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Marris has competed in the following :\nPokémon World Tournament Junior Cup - Top 16 (Jostling for the Junior Cup!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Marris\nfr:Marielle\nit:Marris\nzh:森島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Marris",
+    "pageType": "character",
+    "searchableText": "Marris\nCategory:Animation characters\nMarris (Japanese: モリシマ Morishima) is a minor recurring character in .\n\nShe first appeared in Jostling for the Junior Cup!, where she participated in the Pokémon World Tournament Junior Cup and was 's first opponent. However, she was defeated by him and eliminated from the tournament. She made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where she lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 685,
+    "sectionCount": 3
+  }
+}

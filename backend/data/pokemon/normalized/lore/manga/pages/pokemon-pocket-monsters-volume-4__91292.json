@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Pokémon Pocket Monsters volume 4",
+    "slug": "pokemon-pocket-monsters-volume-4",
+    "pageId": 91292,
+    "revisionId": 4354765
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters volumes",
+    "sourceFileName": "pokemon-pocket-monsters-volume-4__91292.json",
+    "revisionTimestamp": "2025-08-08T19:05:03Z",
+    "fetchedAt": "2026-05-14T15:37:04.920Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 4 is the fourth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 4 is the fourth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n \n \n\n==Chapters==\nClefairy Evolves... At Last?!\nThe Pokémon Quiz Battle!!\nDefeat the Most Formidable Pokémon!!\nClefairy's Christmas Present?!\nWhose Curry is the Most Delicious?\nDream of 1 Million Yen!!\nHavoc at the Amusement Park!!\nLet's Enjoy the New Year!!\n\n==Important events==\nhas a curry cooking competition with .\nRed has a baseball match with Green.\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\n\n===Evolutions===\nThe following Pokémon evolve:\nRed's evolves into in PM023.\nRed's evolves into in PM023.\n\n==Gym Battles==\nRed defeats the following Gym Leaders:\n\n==Character summary==\n===Red's Party===\n \n\n==Trivia==\nImakuni? makes two cameos in the volume.\n\n \n\n \n\nde:Band 4 (Pokémon Pocket Monsters)\nit:Pokémon Pocket Monsters volume 4\nzh:宝可梦欢乐祭4",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 4 is the fourth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Clefairy Evolves... At Last?!\nThe Pokémon Quiz Battle!!\nDefeat the Most Formidable Pokémon!!\nClefairy's Christmas Present?!\nWhose Curry is the Most Delicious?\nDream of 1 Million Yen!!\nHavoc at the Amusement Park!!\nLet's Enjoy the New Year!!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "has a curry cooking competition with .\nRed has a baseball match with Green."
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:"
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "The following Pokémon evolve:\nRed's evolves into in PM023.\nRed's evolves into in PM023."
+    },
+    {
+      "heading": "Gym Battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Imakuni? makes two cameos in the volume.\n\n \n\n \n\nde:Band 4 (Pokémon Pocket Monsters)\nit:Pokémon Pocket Monsters volume 4\nzh:宝可梦欢乐祭4"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pocket Monsters volume 4",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pocket Monsters volume 4\nCategory:Pokémon Pocket Monsters volumes\nVolume 4 is the fourth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Additions",
+      "Evolutions",
+      "Gym Battles",
+      "Trivia"
+    ],
+    "characterCount": 907,
+    "sectionCount": 7
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Yoko (DP037)",
+    "slug": "yoko-dp037",
+    "pageId": 30606,
+    "revisionId": 4095424
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "yoko-dp037__30606.json",
+    "revisionTimestamp": "2024-09-01T00:27:18Z",
+    "fetchedAt": "2026-05-14T14:59:51.413Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Yoko (Japanese: ヨウコ Yōko) is Gardenia's assistant and a character of the day who appeared in The Grass Menagerie!. \n\nShe greeted and as they arrived at the Eterna Gym. Yoko later refereed the Gym between Gardenia and .",
+  "plainText": "Yoko (Japanese: ヨウコ Yōko) is Gardenia's assistant and a character of the day who appeared in The Grass Menagerie!. \n\nShe greeted and as they arrived at the Eterna Gym. Yoko later refereed the Gym between Gardenia and .\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n==Trivia==\nShe strongly resembles Kumiko Yamaguchi from . Incidentally, both of them have the same Japanese voice actress.\nShe is also the only character of the day whose Pokémon has appeared in an earlier episode.\n\n \n\n \n \n \n \n\nde:Die unschlagbaren Drei#Yōko\nes:Yōko\nfr:Yoko\nit:Yōko",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yoko (Japanese: ヨウコ Yōko) is Gardenia's assistant and a character of the day who appeared in The Grass Menagerie!. \n\nShe greeted and as they arrived at the Eterna Gym. Yoko later refereed the Gym between Gardenia and ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "She strongly resembles Kumiko Yamaguchi from . Incidentally, both of them have the same Japanese voice actress.\nShe is also the only character of the day whose Pokémon has appeared in an earlier episode.\n\n \n\n \n \n \n \n\nde:Die unschlagbaren Drei#Yōko\nes:Yōko\nfr:Yoko\nit:Yōko"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yoko (DP037)",
+    "pageType": "character",
+    "searchableText": "Yoko (DP037)\nCategory:Sinnoh characters of the day\nYoko (Japanese: ヨウコ Yōko) is Gardenia's assistant and a character of the day who appeared in The Grass Menagerie!. \n\nShe greeted and as they arrived at the Eterna Gym. Yoko later refereed the Gym between Gardenia and .",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 537,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASS19",
+    "slug": "pass19",
+    "pageId": 262848,
+    "revisionId": 4527755
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass19__262848.json",
+    "revisionTimestamp": "2026-04-09T15:51:48Z",
+    "fetchedAt": "2026-05-14T15:28:51.418Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Crunch!! Snowy Battle (Japanese: ザクザク！！雪上のバトル Crunch!! Battle in the Snow) is the 19th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Crunch!! Snowy Battle (Japanese: ザクザク！！雪上のバトル Crunch!! Battle in the Snow) is the 19th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nMarvin has a battle against Gordie and wins with the help of .\n's cane is stolen by a group of .\nSonia begins to investigate a tapestry in Circhester.\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHenry\nCasey\nProfessor Magnolia\nSonia \nMelony (flashback)\nGordie\nLeon (flashback)\nMarvin\n\n===Pokémon===\n(Twiggy; Henry's)\n( )\n(Kilo; Casey's)\n(Tera; ; Casey's)\n(Peta; ; Casey's; fantasy)\n(Melony's)\n(Gordie's)\n(Sniffler; Marvin's)\n(fantasy)\n(fantasy)\n(Galarian Form; fantasy)\n(fantasy)\n(multiple)\n\n==Trivia==\nAt Route 8, Casey can be found wearing trapper hat and knit sweater rad Applin.\n\n \n \n \n\nde:Kampf im Schnee\nes:PMSSwSh19\nfr:Chapitre 19 (Pocket Monsters Special Épée et Bouclier)\nit:PASS19\nzh:宝可梦特别篇 剑·盾篇 第19话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Crunch!! Snowy Battle (Japanese: ザクザク！！雪上のバトル Crunch!! Battle in the Snow) is the 19th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Marvin has a battle against Gordie and wins with the help of .\n's cane is stolen by a group of .\nSonia begins to investigate a tapestry in Circhester."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nProfessor Magnolia\nSonia \nMelony (flashback)\nGordie\nLeon (flashback)\nMarvin"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Twiggy; Henry's)\n( )\n(Kilo; Casey's)\n(Tera; ; Casey's)\n(Peta; ; Casey's; fantasy)\n(Melony's)\n(Gordie's)\n(Sniffler; Marvin's)\n(fantasy)\n(fantasy)\n(Galarian Form; fantasy)\n(fantasy)\n(multiple)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "At Route 8, Casey can be found wearing trapper hat and knit sweater rad Applin.\n\n \n \n \n\nde:Kampf im Schnee\nes:PMSSwSh19\nfr:Chapitre 19 (Pocket Monsters Special Épée et Bouclier)\nit:PASS19\nzh:宝可梦特别篇 剑·盾篇 第19话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS19",
+    "pageType": "chapter",
+    "searchableText": "PASS19\nCategory:Pokémon Adventures chapters\nCrunch!! Snowy Battle (Japanese: ザクザク！！雪上のバトル Crunch!! Battle in the Snow) is the 19th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 919,
+    "sectionCount": 5
+  }
+}

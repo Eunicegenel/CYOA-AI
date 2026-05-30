@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Hoopa and the Clash of Ages (manga)",
+    "slug": "hoopa-and-the-clash-of-ages-manga",
+    "pageId": 206156,
+    "revisionId": 4190341
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie manga adaptations",
+    "sourceFileName": "hoopa-and-the-clash-of-ages-manga__206156.json",
+    "revisionTimestamp": "2024-11-23T11:02:32Z",
+    "fetchedAt": "2026-05-14T15:21:38.711Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Hoopa and the Clash of Ages (Japanese: の フーパ The Archdjinni of the Rings: Hoopa) is the adaptation of the movie of the same name. It is adapted by 上村ぎん Gin Kamimura.",
+  "plainText": "Hoopa and the Clash of Ages (Japanese: の フーパ The Archdjinni of the Rings: Hoopa) is the adaptation of the movie of the same name. It is adapted by 上村ぎん Gin Kamimura.\n\n==Publications==\n \n \n \n \n \n \n\n==Differences between the movie and the manga==\nWhile , , Meray, and Baraz are trying to escape the space-time distortion at the end of the story, Hoopa is able to escape temporarily by going through the ring with Baraz as he lives in Arche Valley, but is forced back through as soon as Ash takes it. In the , Baraz and Meray both try to bring Hoopa through the ring and fail, as the stipulation that Hoopa can pass through if accompanied by a resident of Arche Valley is not present.\n\n==Trivia==\n===Errors===\nOn page 9, the associated names to and are inverted.\n\n==Related articles==\n \n \n \n\n \n \n\nes:MP18\nit:Hoopa and the Clash of Ages (manga)\nzh:光环的超魔神 胡帕（漫画）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hoopa and the Clash of Ages (Japanese: の フーパ The Archdjinni of the Rings: Hoopa) is the adaptation of the movie of the same name. It is adapted by 上村ぎん Gin Kamimura."
+    },
+    {
+      "heading": "Differences between the movie and the manga",
+      "level": 2,
+      "text": "While , , Meray, and Baraz are trying to escape the space-time distortion at the end of the story, Hoopa is able to escape temporarily by going through the ring with Baraz as he lives in Arche Valley, but is forced back through as soon as Ash takes it. In the , Baraz and Meray both try to bring Hoopa through the ring and fail, as the stipulation that Hoopa can pass through if accompanied by a resident of Arche Valley is not present."
+    },
+    {
+      "heading": "Errors",
+      "level": 3,
+      "text": "On page 9, the associated names to and are inverted."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:MP18\nit:Hoopa and the Clash of Ages (manga)\nzh:光环的超魔神 胡帕（漫画）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hoopa and the Clash of Ages (manga)",
+    "pageType": "manga-series",
+    "searchableText": "Hoopa and the Clash of Ages (manga)\nCategory:Movie manga adaptations\nHoopa and the Clash of Ages (Japanese: の フーパ The Archdjinni of the Rings: Hoopa) is the adaptation of the movie of the same name. It is adapted by 上村ぎん Gin Kamimura.",
+    "sectionHeadings": [
+      "Lead",
+      "Differences between the movie and the manga",
+      "Errors",
+      "Related articles"
+    ],
+    "characterCount": 857,
+    "sectionCount": 4
+  }
+}

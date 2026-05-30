@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Sergio",
+    "slug": "sergio",
+    "pageId": 7943,
+    "revisionId": 4144519
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Gym assistants",
+    "sourceFileName": "sergio__7943.json",
+    "revisionTimestamp": "2024-10-13T00:15:49Z",
+    "fetchedAt": "2026-05-14T14:49:03.462Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Sergio (Japanese: スギオ Sugio) is a minor character in who appeared in Numero Uno Articuno and The Symbol Life. He is an assistant to Noland at the .\n\nHe is Noland's first apprentice, although he jokes around with the Frontier Brain whenever his inventions fail. One of Sergio's duties is caring for the on-site Pokémon. He also refereed the between Noland and .",
+  "plainText": "Sergio (Japanese: スギオ Sugio) is a minor character in who appeared in Numero Uno Articuno and The Symbol Life. He is an assistant to Noland at the .\n\nHe is Noland's first apprentice, although he jokes around with the Frontier Brain whenever his inventions fail. One of Sergio's duties is caring for the on-site Pokémon. He also refereed the between Noland and .\n\n==Voice actors==\n \n\n \n\n \n \n \n\nes:Sergio\nit:Sergio\nzh:杉尾",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sergio (Japanese: スギオ Sugio) is a minor character in who appeared in Numero Uno Articuno and The Symbol Life. He is an assistant to Noland at the .\n\nHe is Noland's first apprentice, although he jokes around with the Frontier Brain whenever his inventions fail. One of Sergio's duties is caring for the on-site Pokémon. He also refereed the between Noland and ."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Sergio\nit:Sergio\nzh:杉尾"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sergio",
+    "pageType": "general-anime-lore",
+    "searchableText": "Sergio\nCategory:Gym assistants\nSergio (Japanese: スギオ Sugio) is a minor character in who appeared in Numero Uno Articuno and The Symbol Life. He is an assistant to Noland at the .\n\nHe is Noland's first apprentice, although he jokes around with the Frontier Brain whenever his inventions fail. One of Sergio's duties is caring for the on-site Pokémon. He also refereed the between Noland and .",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 417,
+    "sectionCount": 2
+  }
+}

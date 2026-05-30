@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Ancient castle",
+    "slug": "ancient-castle",
+    "pageId": 296896,
+    "revisionId": 4546301
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "ancient-castle__296896.json",
+    "revisionTimestamp": "2026-05-07T19:10:47Z",
+    "fetchedAt": "2026-05-14T14:01:06.163Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "----\n \nThe ancient castle (Japanese: 古城 old castle) is an -exclusive location in the Galar region, located in Breezy Hills (Japanese: スズカゼ丘陵 Breezy Hill) near Hammerlocke.",
+  "plainText": "----\n \nThe ancient castle (Japanese: 古城 old castle) is an -exclusive location in the Galar region, located in Breezy Hills (Japanese: スズカゼ丘陵 Breezy Hill) near Hammerlocke.\n\n==History==\n ]]\nIn Reunion at the Ancient Castle!, Diana's led Liko, Roy, and Friede to the ancient castle, the entrance of which was hidden and guarded by a . It was here where Diana was living during her time in Galar and where she reunited with her granddaughter, Liko. Soon, Amethio and his teammates invaded the ancient castle after scaring off the Stonjourner. \n\nIn Rivals in the Dark of Night!, Hamber, Coral, and Sidian also arrived at the ancient castle. The confrontation ended with Coral's using , leaving the castle in ruins.\n\nPrior to Mochi Mayhem!, Diana took a set of Auspicious Armor from the castle to give to Liko's Charcadet.\n\nIn HZ132, it was revealed that Diana fixed up the castle by billing Hamber for the damages and all of the wild Pokémon whom lived in the castle had returned.\n \n\n==Pokémon living around the ancient castle==\n \n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n \n\nes:Castillo ancestral/Castillo antiguo\nit:Antico castello\nzh:古城",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \nThe ancient castle (Japanese: 古城 old castle) is an -exclusive location in the Galar region, located in Breezy Hills (Japanese: スズカゼ丘陵 Breezy Hill) near Hammerlocke."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "]]\nIn Reunion at the Ancient Castle!, Diana's led Liko, Roy, and Friede to the ancient castle, the entrance of which was hidden and guarded by a . It was here where Diana was living during her time in Galar and where she reunited with her granddaughter, Liko. Soon, Amethio and his teammates invaded the ancient castle after scaring off the Stonjourner. \n\nIn Rivals in the Dark of Night!, Hamber, Coral, and Sidian also arrived at the ancient castle. The confrontation ended with Coral's using , leaving the castle in ruins.\n\nPrior to Mochi Mayhem!, Diana took a set of Auspicious Armor from the castle to give to Liko's Charcadet.\n\nIn HZ132, it was revealed that Diana fixed up the castle by billing Hamber for the damages and all of the wild Pokémon whom lived in the castle had returned."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Castillo ancestral/Castillo antiguo\nit:Antico castello\nzh:古城"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ancient castle",
+    "pageType": "location",
+    "searchableText": "Ancient castle\nCategory:Animated series-exclusive locations\n----\n \nThe ancient castle (Japanese: 古城 old castle) is an -exclusive location in the Galar region, located in Breezy Hills (Japanese: スズカゼ丘陵 Breezy Hill) near Hammerlocke.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1148,
+    "sectionCount": 3
+  }
+}

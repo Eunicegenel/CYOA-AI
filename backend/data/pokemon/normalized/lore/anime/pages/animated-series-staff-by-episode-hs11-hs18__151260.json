@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Animated series staff by episode (HS11-HS18)",
+    "slug": "animated-series-staff-by-episode-hs11-hs18",
+    "pageId": 151260,
+    "revisionId": 4227123
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series staff by episode",
+    "sourceFileName": "animated-series-staff-by-episode-hs11-hs18__151260.json",
+    "revisionTimestamp": "2025-01-23T21:17:08Z",
+    "fetchedAt": "2026-05-14T14:02:08.171Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "",
+  "plainText": "==HS11==\n \n \n \n \n \n \n\n長岡みどり\n竹渕正美\n井坂純子\n日野寧子\n武井智子\nなかむらあきこ\n志村隆行\n \n \n\nMSJ\nAPPP\n\n宮崎大輔\nMＳＪ武蔵野製作所\nAPPP\n \n \n \nOLM Digital\n\nOLD Digital\n平間美幸\n田中さよ\n中村晃子\nスタジオ\n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "HS11",
+      "level": 2,
+      "text": "長岡みどり\n竹渕正美\n井坂純子\n日野寧子\n武井智子\nなかむらあきこ\n志村隆行\n \n \n\nMSJ\nAPPP\n\n宮崎大輔\nMＳＪ武蔵野製作所\nAPPP\n \n \n \nOLM Digital\n\nOLD Digital\n平間美幸\n田中さよ\n中村晃子\nスタジオ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Animated series staff by episode (HS11-HS18)",
+    "pageType": "episode",
+    "searchableText": "Animated series staff by episode (HS11-HS18)\nCategory:Animated series staff by episode",
+    "sectionHeadings": [
+      "HS11"
+    ],
+    "characterCount": 168,
+    "sectionCount": 1
+  }
+}

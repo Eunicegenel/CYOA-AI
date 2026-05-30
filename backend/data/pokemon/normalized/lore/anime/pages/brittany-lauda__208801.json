@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Brittany Lauda",
+    "slug": "brittany-lauda",
+    "pageId": 208801,
+    "revisionId": 4323584
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "brittany-lauda__208801.json",
+    "revisionTimestamp": "2025-06-24T03:32:49Z",
+    "fetchedAt": "2026-05-14T14:06:10.071Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Brittany Lauda is a voice actress for the English-language dub of .",
+  "plainText": "Brittany Lauda is a voice actress for the English-language dub of .\n\n==Biography==\nLauda was born on February 18, 1993, and graduated from high school in 2011. As an adult, she became a voice actress and worked on English-dubbed versions of Japanese anime series, as well as some video games and official apps. Lauda joined the in the middle of .\n\n==Pokémon roles==\n===Animation===\n==== ====\n\nCharlene\n\n====Pokémon Evolutions====\nN (young)\nAnthea\nElaine\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nMirim ( )\nPlug Cryostat ( )\nKaoru Daichi ( )\nUi Wakana ( )\nAnzu Shirogane ( )\nLeviathan ( )\nYonaga Hinagiri ( )\nRina Tachibana ( )\nSara Kleis ( )\nLiones Yelistratova ( )\nCode:015/Ichigo ( )\nYuzuriha Ogawa ( )\n\n==External links==\nOfficial website\nTwitter\nInstagram\nTwitch\n\n \n\n \n\nit:Brittany Lauda",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Brittany Lauda is a voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Lauda was born on February 18, 1993, and graduated from high school in 2011. As an adult, she became a voice actress and worked on English-dubbed versions of Japanese anime series, as well as some video games and official apps. Lauda joined the in the middle of ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Charlene"
+    },
+    {
+      "heading": "Pokémon Evolutions",
+      "level": 4,
+      "text": "N (young)\nAnthea\nElaine"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Mirim ( )\nPlug Cryostat ( )\nKaoru Daichi ( )\nUi Wakana ( )\nAnzu Shirogane ( )\nLeviathan ( )\nYonaga Hinagiri ( )\nRina Tachibana ( )\nSara Kleis ( )\nLiones Yelistratova ( )\nCode:015/Ichigo ( )\nYuzuriha Ogawa ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTwitter\nInstagram\nTwitch\n\n \n\n \n\nit:Brittany Lauda"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Brittany Lauda",
+    "pageType": "general-anime-lore",
+    "searchableText": "Brittany Lauda\nCategory:TPCi voice actors\nBrittany Lauda is a voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Pokémon Evolutions",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 824,
+    "sectionCount": 6
+  }
+}

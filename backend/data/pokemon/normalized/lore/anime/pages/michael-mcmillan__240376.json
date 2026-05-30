@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Michael McMillan",
+    "slug": "michael-mcmillan",
+    "pageId": 240376,
+    "revisionId": 4527915
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "michael-mcmillan__240376.json",
+    "revisionTimestamp": "2026-04-09T16:00:23Z",
+    "fetchedAt": "2026-05-14T14:36:44.554Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Michael McMillan is a voice actor for the English dub of .",
+  "plainText": "Michael McMillan is a voice actor for the English dub of .\n\n==Biography==\nMcMillan became a voice actor sometime as an adult. He joined the during , where he gained his first role, voicing island kahuna Nanu. McMillan currently lives in New York.\n\n==Pokémon roles==\n===Animation===\n==== ====\nNanu\n\n==Other non-Pokémon roles==\nQuin (Charlie's Heist)\n\n \n \n \n\nit:Michael McMillan",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Michael McMillan is a voice actor for the English dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "McMillan became a voice actor sometime as an adult. He joined the during , where he gained his first role, voicing island kahuna Nanu. McMillan currently lives in New York."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Nanu"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Quin (Charlie's Heist)\n\n \n \n \n\nit:Michael McMillan"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Michael McMillan",
+    "pageType": "general-anime-lore",
+    "searchableText": "Michael McMillan\nCategory:TPCi voice actors\nMichael McMillan is a voice actor for the English dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 376,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Template:Character Infobox",
+    "slug": "template-character-infobox",
+    "pageId": 278490,
+    "revisionId": 4331929
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "template-character-infobox__278490.json",
+    "revisionTimestamp": "2025-07-07T02:41:22Z",
+    "fetchedAt": "2026-05-14T14:53:42.195Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "}}| }} { } {{#if:{ }|\n {{#if:{ }|{{tt|{ }|{ }}}|{ }}} { }{{#if: { }| }}|}} \n\n{{#if:{ }| class=\"roundy\" style=\"background: #{ }\" colspan=\"2\" \"{ }\" }}\n\n { } \n\n! class=\"roundytl\" style=\"text-align:right; background: #{ }\" | Age \n class=\"roundytr\" style=\"background:#FFF\" { }\n\n{{#ifeq:{ }|Unknown||! style=\"text-align:right; background:#{ }\" Birthday\n style=\"background:#FFF\" { }}}\n\n! style=\"text-align:right; background: #{ }\" | Gender \n\n{{#ifeq:{ }|Unknown||! style=\"text-align:right; background:#{ }\" Height\n style=\"background:#FFF\" { }}}\n\n! style=\"text-align:right; background: #{ }\" | Eye color\n style=\"background:#FFF\" { }\n\n! class=\"roundybl\" style=\"text-align:right; background: #{ }\" | Hair color\n class=\"roundybr\" style=\"background:#FFF\" { }\n\n! class=\"roundytl\" style=\"text-align:right; background: #{ }\" | Hometown\n\n! class=\"{{#ifeq: { }|Unknown|roundybl}}\" style=\"text-align:right; background: #{ }\" | Region \n\n{{#ifeq: { }|Unknown||! class=\"roundybl\" style=\"text-align:right; background: #{ }\" Relatives\n class=\"roundybr\" style=\"background:#FFF\" { }}}",
+  "plainText": "}}| }} { } {{#if:{ }|\n {{#if:{ }|{{tt|{ }|{ }}}|{ }}} { }{{#if: { }| }}|}} \n\n{{#if:{ }| class=\"roundy\" style=\"background: #{ }\" colspan=\"2\" \"{ }\" }}\n\n { } \n\n! class=\"roundytl\" style=\"text-align:right; background: #{ }\" | Age \n class=\"roundytr\" style=\"background:#FFF\" { }\n\n{{#ifeq:{ }|Unknown||! style=\"text-align:right; background:#{ }\" Birthday\n style=\"background:#FFF\" { }}}\n\n! style=\"text-align:right; background: #{ }\" | Gender \n\n{{#ifeq:{ }|Unknown||! style=\"text-align:right; background:#{ }\" Height\n style=\"background:#FFF\" { }}}\n\n! style=\"text-align:right; background: #{ }\" | Eye color\n style=\"background:#FFF\" { }\n\n! class=\"roundybl\" style=\"text-align:right; background: #{ }\" | Hair color\n class=\"roundybr\" style=\"background:#FFF\" { }\n\n! class=\"roundytl\" style=\"text-align:right; background: #{ }\" | Hometown\n\n! class=\"{{#ifeq: { }|Unknown|roundybl}}\" style=\"text-align:right; background: #{ }\" | Region \n\n{{#ifeq: { }|Unknown||! class=\"roundybl\" style=\"text-align:right; background: #{ }\" Relatives\n class=\"roundybr\" style=\"background:#FFF\" { }}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "}}| }} { } {{#if:{ }|\n {{#if:{ }|{{tt|{ }|{ }}}|{ }}} { }{{#if: { }| }}|}} \n\n{{#if:{ }| class=\"roundy\" style=\"background: #{ }\" colspan=\"2\" \"{ }\" }}\n\n { } \n\n! class=\"roundytl\" style=\"text-align:right; background: #{ }\" | Age \n class=\"roundytr\" style=\"background:#FFF\" { }\n\n{{#ifeq:{ }|Unknown||! style=\"text-align:right; background:#{ }\" Birthday\n style=\"background:#FFF\" { }}}\n\n! style=\"text-align:right; background: #{ }\" | Gender \n\n{{#ifeq:{ }|Unknown||! style=\"text-align:right; background:#{ }\" Height\n style=\"background:#FFF\" { }}}\n\n! style=\"text-align:right; background: #{ }\" | Eye color\n style=\"background:#FFF\" { }\n\n! class=\"roundybl\" style=\"text-align:right; background: #{ }\" | Hair color\n class=\"roundybr\" style=\"background:#FFF\" { }\n\n! class=\"roundytl\" style=\"text-align:right; background: #{ }\" | Hometown\n\n! class=\"{{#ifeq: { }|Unknown|roundybl}}\" style=\"text-align:right; background: #{ }\" | Region \n\n{{#ifeq: { }|Unknown||! class=\"roundybl\" style=\"text-align:right; background: #{ }\" Relatives\n class=\"roundybr\" style=\"background:#FFF\" { }}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Template:Character Infobox",
+    "pageType": "character",
+    "searchableText": "Template:Character Infobox\nCategory:Animation characters\n}}| }} { } {{#if:{ }|\n {{#if:{ }|{{tt|{ }|{ }}}|{ }}} { }{{#if: { }| }}|}} \n\n{{#if:{ }| class=\"roundy\" style=\"background: #{ }\" colspan=\"2\" \"{ }\" }}\n\n { } \n\n! class=\"roundytl\" style=\"text-align:right; background: #{ }\" | Age \n class=\"roundytr\" style=\"background:#FFF\" { }\n\n{{#ifeq:{ }|Unknown||! style=\"text-align:right; background:#{ }\" Birthday\n style=\"background:#FFF\" { }}}\n\n! style=\"text-align:right; background: #{ }\" | Gender \n\n{{#ifeq:{ }|Unknown||! style=\"text-align:right; background:#{ }\" Height\n style=\"background:#FFF\" { }}}\n\n! style=\"text-align:right; background: #{ }\" | Eye color\n style=\"background:#FFF\" { }\n\n! class=\"roundybl\" style=\"text-align:right; background: #{ }\" | Hair color\n class=\"roundybr\" style=\"background:#FFF\" { }\n\n! class=\"roundytl\" style=\"text-align:right; background: #{ }\" | Hometown\n\n! class=\"{{#ifeq: { }|Unknown|roundybl}}\" style=\"text-align:right; background: #{ }\" | Region \n\n{{#ifeq: { }|Unknown||! class=\"roundybl\" style=\"text-align:right; background: #{ }\" Relatives\n class=\"roundybr\" style=\"background:#FFF\" { }}}",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 1059,
+    "sectionCount": 1
+  }
+}

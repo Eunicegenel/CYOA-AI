@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Teacher (DP121)",
+    "slug": "teacher-dp121",
+    "pageId": 73351,
+    "revisionId": 4095143
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "teacher-dp121__73351.json",
+    "revisionTimestamp": "2024-09-01T00:16:46Z",
+    "fetchedAt": "2026-05-14T14:53:16.440Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Teacher (Japanese: 保母 Kindergarten Teacher) is a character of the day who appeared in The Lonely Snover!.\n\nShe appeared at the end of the episode with the kindergarten children that she teaches. She informed that the next Pokémon Contest venue will be held in Sandalstraw Town.",
+  "plainText": "Teacher (Japanese: 保母 Kindergarten Teacher) is a character of the day who appeared in The Lonely Snover!.\n\nShe appeared at the end of the episode with the kindergarten children that she teaches. She informed that the next Pokémon Contest venue will be held in Sandalstraw Town.\n\n==Pokémon==\n===Adopted===\n \n \n\n==Voice actors==\n \n \n \n\n \n \n \n \n\nes:Educadora infantil (Sinnoh)\nfr:Professeur (épisode 587)\nit:Maestra d'asilo (DP121)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Teacher (Japanese: 保母 Kindergarten Teacher) is a character of the day who appeared in The Lonely Snover!.\n\nShe appeared at the end of the episode with the kindergarten children that she teaches. She informed that the next Pokémon Contest venue will be held in Sandalstraw Town."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Educadora infantil (Sinnoh)\nfr:Professeur (épisode 587)\nit:Maestra d'asilo (DP121)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Teacher (DP121)",
+    "pageType": "character",
+    "searchableText": "Teacher (DP121)\nCategory:Sinnoh characters of the day\nTeacher (Japanese: 保母 Kindergarten Teacher) is a character of the day who appeared in The Lonely Snover!.\n\nShe appeared at the end of the episode with the kindergarten children that she teaches. She informed that the next Pokémon Contest venue will be held in Sandalstraw Town.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 428,
+    "sectionCount": 2
+  }
+}

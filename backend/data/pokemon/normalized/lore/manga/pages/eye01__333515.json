@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "EYE01",
+    "slug": "eye01",
+    "pageId": 333515,
+    "revisionId": 4533422
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:I Can't Choose, Eevee chapters",
+    "sourceFileName": "eye01__333515.json",
+    "revisionTimestamp": "2026-04-16T19:25:39Z",
+    "fetchedAt": "2026-05-14T15:18:38.329Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the first chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on November 21, 2024 at 8:00 PM JST. It is 16 pages long.",
+  "plainText": "This is the first chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on November 21, 2024 at 8:00 PM JST. It is 16 pages long.\n\n== Plot ==\n \nIn a big field, a boy searches for his . When he sees it from afar, he lays down to try to take its picture, but then a group of all the Eeveelutions appear from behind a hill, running towards him and then jumping in front of him. The boy, named , wakes up from his dream, realizes he is late for class, and hastily gets dressed. In his rush, he knocks over a magazine detailing several Eeveelutions.\n\nWhile rushing out of his house, , his friend, shows up with his newly evolved (named Tatsurou) to give him a ride to school. During class, he contemplates his and 's future, remembering the promise they made together, when Riku was young, to always stay together and decide what Eevee should evolve to when they grow up.\n\nWhen he gets home, Eevee is looking at the magazine he knocked over earlier. Riku realizes his Eevee is also undecided about its future.\n\n==Major events==\n===Debuts===\n====Humans====\n\nRiku's mother\n\n====Pokémon debuts====\n(Riku's)\n(dream; photo)\n(dream; photo)\n(dream; photo)\n(dream)\n(dream; photo)\n(dream; photo)\n(dream; photo)\n(dream; photo)\n(Sunny Form; weather icon)\n(Midday Form; photo)\n(figure)\n(Disguised Form; figure)\n(figure)\n(Riku's family's)\n(Trainer's)\n(Hoshi's; Tatsurou)\n\n(pendant)\n(pendant)\n\n(Worker's)\n(Trainer's)\n(figure)\n\n==Characters==\n===Humans===\n\nRiku's mother\nTrainers\nStudents\nBoys\n\n===Pokémon===\n(Riku's)\n(Hoshi's; Tatsurou)\n(Riku's family's)\n(Trainer's)\n(Trainer's)\n(Worker's)\n(×4)\n(figure)\n(dream; photo)\n(dream; photo)\n(dream)\n(pendant)\n(dream; photo)\n(dream; photo)\n(figure)\n\n(Sunny Form; weather icon)\n\n(dream; photo)\n(dream; photo)\n(figure)\n\n(pendant)\n(×2)\n(dream; photo)\n(Midday Form; photo)\n(Disguised Form; figure)\n\n==References==\n \n \n \n \n\nes:EYE01",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the first chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on November 21, 2024 at 8:00 PM JST. It is 16 pages long."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "In a big field, a boy searches for his . When he sees it from afar, he lays down to try to take its picture, but then a group of all the Eeveelutions appear from behind a hill, running towards him and then jumping in front of him. The boy, named , wakes up from his dream, realizes he is late for class, and hastily gets dressed. In his rush, he knocks over a magazine detailing several Eeveelutions.\n\nWhile rushing out of his house, , his friend, shows up with his newly evolved (named Tatsurou) to give him a ride to school. During class, he contemplates his and 's future, remembering the promise they made together, when Riku was young, to always stay together and decide what Eevee should evolve to when they grow up.\n\nWhen he gets home, Eevee is looking at the magazine he knocked over earlier. Riku realizes his Eevee is also undecided about its future."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Riku's mother"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Riku's)\n(dream; photo)\n(dream; photo)\n(dream; photo)\n(dream)\n(dream; photo)\n(dream; photo)\n(dream; photo)\n(dream; photo)\n(Sunny Form; weather icon)\n(Midday Form; photo)\n(figure)\n(Disguised Form; figure)\n(figure)\n(Riku's family's)\n(Trainer's)\n(Hoshi's; Tatsurou)\n\n(pendant)\n(pendant)\n\n(Worker's)\n(Trainer's)\n(figure)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Riku's mother\nTrainers\nStudents\nBoys"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Riku's)\n(Hoshi's; Tatsurou)\n(Riku's family's)\n(Trainer's)\n(Trainer's)\n(Worker's)\n(×4)\n(figure)\n(dream; photo)\n(dream; photo)\n(dream)\n(pendant)\n(dream; photo)\n(dream; photo)\n(figure)\n\n(Sunny Form; weather icon)\n\n(dream; photo)\n(dream; photo)\n(figure)\n\n(pendant)\n(×2)\n(dream; photo)\n(Midday Form; photo)\n(Disguised Form; figure)"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "es:EYE01"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "EYE01",
+    "pageType": "chapter",
+    "searchableText": "EYE01\nCategory:I Can't Choose, Eevee chapters\nThis is the first chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on November 21, 2024 at 8:00 PM JST. It is 16 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "References"
+    ],
+    "characterCount": 1877,
+    "sectionCount": 7
+  }
+}

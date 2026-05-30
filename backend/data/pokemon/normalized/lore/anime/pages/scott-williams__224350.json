@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Scott Williams",
+    "slug": "scott-williams",
+    "pageId": 224350,
+    "revisionId": 4323592
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "scott-williams__224350.json",
+    "revisionTimestamp": "2025-06-24T03:32:57Z",
+    "fetchedAt": "2026-05-14T14:48:45.906Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Scott Williams is an American voice actor who works on the English-language dub of .",
+  "plainText": "Scott Williams is an American voice actor who works on the English-language dub of .\n\n==Biography==\nAs an adult, Williams became a voice actor. He first worked on during The Rise of Darkrai, where he voiced . However, his most prominent roles were during , gaining notable roles such as Delbert, , and Montgomery's . He gained a more notable role during , voicing Kiawe's grandfather.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nKiawe's grandfather\nDelbert\n\n=====Pokémon=====\n( )\n( )\n\n===Video games===\n====PokéPark Wii: Pikachu's Adventure====\n\n====Super Smash Bros. for Nintendo 3DS/Wii U====\n\n====Super Smash Bros. Ultimate====\n\n==Other non-Pokémon roles==\nBaxter Stockman ( )\nBurroughs ( )\nToshiki Miyamizu ( )\n\n==External links==\nBehind The Voice Actors\nWebsite\nAnime News Network\n\n \n \n\nit:Scott Williams",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Scott Williams is an American voice actor who works on the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "As an adult, Williams became a voice actor. He first worked on during The Rise of Darkrai, where he voiced . However, his most prominent roles were during , gaining notable roles such as Delbert, , and Montgomery's . He gained a more notable role during , voicing Kiawe's grandfather."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Kiawe's grandfather\nDelbert"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "( )\n( )"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Baxter Stockman ( )\nBurroughs ( )\nToshiki Miyamizu ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Behind The Voice Actors\nWebsite\nAnime News Network\n\n \n \n\nit:Scott Williams"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Scott Williams",
+    "pageType": "general-anime-lore",
+    "searchableText": "Scott Williams\nCategory:TPCi voice actors\nScott Williams is an American voice actor who works on the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 827,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mimi (M15)",
+    "slug": "mimi-m15",
+    "pageId": 224777,
+    "revisionId": 4257858
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "mimi-m15__224777.json",
+    "revisionTimestamp": "2025-03-14T03:22:02Z",
+    "fetchedAt": "2026-05-14T14:37:09.426Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Mimi is a minor character who appeared in Kyurem VS. The Sword of Justice.\n\nHe was sitting with his family aboard the same train as and , when , , , and ran through their section, much to their delight. While Ash and his friends visited Malin's food stall as the train stopped at Windy Station, Mimi and his sisters were seen having ice cream cones that resembled Vanillite. They were delighted to see Malin's handing out some Ice to the group.\n\nHe and his family made a cameo during the ending credits of Genesect and the Legend Awakened, where they were having a tour at Pokémon Hills. Their outfit's colors are changed and different from the ones in the previous movie.",
+  "plainText": "Mimi is a minor character who appeared in Kyurem VS. The Sword of Justice.\n\nHe was sitting with his family aboard the same train as and , when , , , and ran through their section, much to their delight. While Ash and his friends visited Malin's food stall as the train stopped at Windy Station, Mimi and his sisters were seen having ice cream cones that resembled Vanillite. They were delighted to see Malin's handing out some Ice to the group.\n\nHe and his family made a cameo during the ending credits of Genesect and the Legend Awakened, where they were having a tour at Pokémon Hills. Their outfit's colors are changed and different from the ones in the previous movie. \n\n \n==Related articles==\n \n\n \n\n \n\nit:Mimi (F15)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mimi is a minor character who appeared in Kyurem VS. The Sword of Justice.\n\nHe was sitting with his family aboard the same train as and , when , , , and ran through their section, much to their delight. While Ash and his friends visited Malin's food stall as the train stopped at Windy Station, Mimi and his sisters were seen having ice cream cones that resembled Vanillite. They were delighted to see Malin's handing out some Ice to the group.\n\nHe and his family made a cameo during the ending credits of Genesect and the Legend Awakened, where they were having a tour at Pokémon Hills. Their outfit's colors are changed and different from the ones in the previous movie."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Mimi (F15)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mimi (M15)",
+    "pageType": "movie",
+    "searchableText": "Mimi (M15)\nCategory:Movie characters\nMimi is a minor character who appeared in Kyurem VS. The Sword of Justice.\n\nHe was sitting with his family aboard the same train as and , when , , , and ran through their section, much to their delight. While Ash and his friends visited Malin's food stall as the train stopped at Windy Station, Mimi and his sisters were seen having ice cream cones that resembled Vanillite. They were delighted to see Malin's handing out some Ice to the group.\n\nHe and his family made a cameo during the ending credits of Genesect and the Legend Awakened, where they were having a tour at Pokémon Hills. Their outfit's colors are changed and different from the ones in the previous movie.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 720,
+    "sectionCount": 2
+  }
+}

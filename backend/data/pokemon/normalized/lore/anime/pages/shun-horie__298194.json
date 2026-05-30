@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Shun Horie",
+    "slug": "shun-horie",
+    "pageId": 298194,
+    "revisionId": 4274586
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "shun-horie__298194.json",
+    "revisionTimestamp": "2025-04-01T13:58:31Z",
+    "fetchedAt": "2026-05-14T14:49:42.942Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Shun Horie (Japanese: 堀江 瞬 Horie Shun) is a Japanese voice actor for .",
+  "plainText": "Shun Horie (Japanese: 堀江 瞬 Horie Shun) is a Japanese voice actor for .\n\n==Biography==\nHorie was born in Osaka Prefecture, Japan on May 25, 1993, and became a voice actor as an adult. Horie joined the during , voicing Amethio from the Explorers.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nAmethio\n=====Pokémon=====\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nAhmet ( )\nMatsuki Kazuya ( )\nRyūji Yoshioka ( )\nLeo Constantine Pinochle ( )\nKyotaro Ichikawa ( )\n\n==External links==\nAgency Profile\nAnime News Network\n\n \n \n \n\nes:Shun Horie\nit:Shun Horie\nja:堀江瞬",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shun Horie (Japanese: 堀江 瞬 Horie Shun) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Horie was born in Osaka Prefecture, Japan on May 25, 1993, and became a voice actor as an adult. Horie joined the during , voicing Amethio from the Explorers."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Amethio"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Ahmet ( )\nMatsuki Kazuya ( )\nRyūji Yoshioka ( )\nLeo Constantine Pinochle ( )\nKyotaro Ichikawa ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Agency Profile\nAnime News Network\n\n \n \n \n\nes:Shun Horie\nit:Shun Horie\nja:堀江瞬"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shun Horie",
+    "pageType": "general-anime-lore",
+    "searchableText": "Shun Horie\nCategory:Japanese voice actors\nShun Horie (Japanese: 堀江 瞬 Horie Shun) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 602,
+    "sectionCount": 5
+  }
+}

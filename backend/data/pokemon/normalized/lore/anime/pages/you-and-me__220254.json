@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "You and Me",
+    "slug": "you-and-me",
+    "pageId": 220254,
+    "revisionId": 3957574
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Korean ending themes",
+    "sourceFileName": "you-and-me__220254.json",
+    "revisionTimestamp": "2024-03-17T13:41:02Z",
+    "fetchedAt": "2026-05-14T15:00:00.987Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "You and Me (Korean: 너와 나 Neowa Na) is the ending theme for the Korean dub of Mewtwo Returns. It uses the same footage from the Japanese ending To My Best Friend.",
+  "plainText": "You and Me (Korean: 너와 나 Neowa Na) is the ending theme for the Korean dub of Mewtwo Returns. It uses the same footage from the Japanese ending To My Best Friend.\n\n==Synopsis==\n and walk across a field at dusk. They stop momentarily to watch the sunset, then turn and smile at each other before continuing on their way. Pikachu jumps onto Ash's back and begins riding on his head. As they pass by a tree they pause to watch a flock of fly overhead before walking off into the sunset.\n\n==Characters==\n====Humans====\n\n====Pokémon====\n( )\n(flock)\n\n==Lyrics==\n \n! Korean\n! English\n\n \n \n \n \n \n \n \nYou are my best friend\n \n \n \n\nMy friend is always by my side\nWhenever I felt lonely on the road I travelled alone\nWe sang uplifting songs together\nWhether times were joyful or difficult\nFor the dream you and I have\nWe became each other's strength\nThe only one in the world, and so precious\nYou are my best friend\nLike the blue stars in the sky\nWe will shine together, forever\nShine, forever \n\n \n \n\nzh:超夢重現 風雲再起 韓語片尾曲",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "You and Me (Korean: 너와 나 Neowa Na) is the ending theme for the Korean dub of Mewtwo Returns. It uses the same footage from the Japanese ending To My Best Friend."
+    },
+    {
+      "heading": "Synopsis",
+      "level": 2,
+      "text": "and walk across a field at dusk. They stop momentarily to watch the sunset, then turn and smile at each other before continuing on their way. Pikachu jumps onto Ash's back and begins riding on his head. As they pass by a tree they pause to watch a flock of fly overhead before walking off into the sunset."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 4,
+      "text": "( )\n(flock)"
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "! Korean\n! English\n\n \n \n \n \n \n \n \nYou are my best friend\n \n \n \n\nMy friend is always by my side\nWhenever I felt lonely on the road I travelled alone\nWe sang uplifting songs together\nWhether times were joyful or difficult\nFor the dream you and I have\nWe became each other's strength\nThe only one in the world, and so precious\nYou are my best friend\nLike the blue stars in the sky\nWe will shine together, forever\nShine, forever \n\n \n \n\nzh:超夢重現 風雲再起 韓語片尾曲"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "You and Me",
+    "pageType": "general-anime-lore",
+    "searchableText": "You and Me\nCategory:Korean ending themes\nYou and Me (Korean: 너와 나 Neowa Na) is the ending theme for the Korean dub of Mewtwo Returns. It uses the same footage from the Japanese ending To My Best Friend.",
+    "sectionHeadings": [
+      "Lead",
+      "Synopsis",
+      "Pokémon",
+      "Lyrics"
+    ],
+    "characterCount": 1007,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP41",
+    "slug": "ppp41",
+    "pageId": 6625,
+    "revisionId": 4527829
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp41__6625.json",
+    "revisionTimestamp": "2026-04-09T15:55:24Z",
+    "fetchedAt": "2026-05-14T15:39:02.238Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy's Blue Period (Japanese: ピッピくんのユーウツな日 -kun's Blue Day) is the forty-first chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Clefairy's Blue Period (Japanese: ピッピくんのユーウツな日 -kun's Blue Day) is the forty-first chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nEveryone's entering a \"Places You Like\" art contest! But when he sees a 's painting, becomes discouraged.\n\n==Important characters and Pokémon==\nHazel\nAlmond\nCoconut\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy's Blue Period (Japanese: ピッピくんのユーウツな日 -kun's Blue Day) is the forty-first chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Everyone's entering a \"Places You Like\" art contest! But when he sees a 's painting, becomes discouraged."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Hazel\nAlmond\nCoconut"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP41",
+    "pageType": "chapter",
+    "searchableText": "PPP41\nCategory:Magical Pokémon Journey chapters\nClefairy's Blue Period (Japanese: ピッピくんのユーウツな日 -kun's Blue Day) is the forty-first chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon"
+    ],
+    "characterCount": 356,
+    "sectionCount": 3
+  }
+}

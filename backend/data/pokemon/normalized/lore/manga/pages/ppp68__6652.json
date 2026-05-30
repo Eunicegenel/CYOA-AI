@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PPP68",
+    "slug": "ppp68",
+    "pageId": 6652,
+    "revisionId": 4528226
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp68__6652.json",
+    "revisionTimestamp": "2026-04-09T16:10:30Z",
+    "fetchedAt": "2026-05-14T15:39:19.256Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Last Spell (Part 2) (Japanese: 最後のおまじない (後編) The Final Good-Luck Charm (Part 2)) is the sixty-eighth chapter of the Magical Pokémon Journey manga.",
+  "plainText": "The Last Spell (Part 2) (Japanese: 最後のおまじない (後編) The Final Good-Luck Charm (Part 2)) is the sixty-eighth chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \n \nAlmond pursues Hazel, who's lost in 's Forest. cannot stand humans, who have caused him nothing but pain and sorrow. Will Hazel find Mew? Will her heart's greatest wish finally be granted?\n\n==Important characters and Pokémon==\nHazel\nAlmond\n\n==Character introductions==\n\n==Important events==\nAlmond confesses his love for Hazel.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Last Spell (Part 2) (Japanese: 最後のおまじない (後編) The Final Good-Luck Charm (Part 2)) is the sixty-eighth chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Almond pursues Hazel, who's lost in 's Forest. cannot stand humans, who have caused him nothing but pain and sorrow. Will Hazel find Mew? Will her heart's greatest wish finally be granted?"
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Hazel\nAlmond"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Almond confesses his love for Hazel."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP68",
+    "pageType": "chapter",
+    "searchableText": "PPP68\nCategory:Magical Pokémon Journey chapters\nThe Last Spell (Part 2) (Japanese: 最後のおまじない (後編) The Final Good-Luck Charm (Part 2)) is the sixty-eighth chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon",
+      "Important events"
+    ],
+    "characterCount": 492,
+    "sectionCount": 4
+  }
+}

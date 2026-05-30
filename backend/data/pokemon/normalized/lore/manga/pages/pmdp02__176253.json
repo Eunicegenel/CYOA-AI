@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMDP02",
+    "slug": "pmdp02",
+    "pageId": 176253,
+    "revisionId": 4528546
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp02__176253.json",
+    "revisionTimestamp": "2026-04-09T16:26:24Z",
+    "fetchedAt": "2026-05-14T15:32:14.337Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 新わざを打ち破れ！ Break Through the New Move!) is the second chapter of the manga.",
+  "plainText": "(Japanese: 新わざを打ち破れ！ Break Through the New Move!) is the second chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nDai Fugō\n\n===Pokémon===\n( )\n( )\n( )\n(Dai Fugō's)\n(Dai Fugō's)\n(Dai Fugō's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 新わざを打ち破れ！ Break Through the New Move!) is the second chapter of the manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Dai Fugō"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Dai Fugō's)\n(Dai Fugō's)\n(Dai Fugō's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP02",
+    "pageType": "chapter",
+    "searchableText": "PMDP02\nCategory:Pocket Monsters DP chapters\n(Japanese: 新わざを打ち破れ！ Break Through the New Move!) is the second chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 258,
+    "sectionCount": 3
+  }
+}

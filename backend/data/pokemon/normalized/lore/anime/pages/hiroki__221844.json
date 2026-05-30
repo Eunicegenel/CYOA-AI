@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Hiroki",
+    "slug": "hiroki",
+    "pageId": 221844,
+    "revisionId": 4532346
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:League Conference participants",
+    "sourceFileName": "hiroki__221844.json",
+    "revisionTimestamp": "2026-04-14T21:31:39Z",
+    "fetchedAt": "2026-05-14T14:22:26.185Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Hiroki (Japanese: ヒロキ Hiroki) is a recurring character in . He is a student at the Pokémon School on Melemele Island.",
+  "plainText": "Hiroki (Japanese: ヒロキ Hiroki) is a recurring character in . He is a student at the Pokémon School on Melemele Island.\n\n==History==\nHiroki debuted in A Guardian Rematch!, where he was seen having a against and his . He was soon defeated.\n\nIn Alola, Kanto!, Hiroki was seen heading to Kanto on the same plane as Ash and .\n\nHiroki was one of the s that had his Z-Crystal stolen by a , as revealed in a flashback in Beauty is Only Crystal Deep!.\n\nIn Battle Royal 151!, Hiroki was among the 151 Trainers taking part in the Battle Royal preliminary round of the Manalo Conference, which he entered with his Mudbray. After challenging the others to take him on, he was swiftly defeated, becoming the first to be knocked out. In the same episode's Poké Problem segment, he was shown being upset and angry after seeing the Top 16 being announced.\n\n==Character==\nHiroki is an egotistical Trainer. He was overly confident about his chances of winning in Battle Royal 151!, calling for the other Manalo Conference competitors to take him on. However, he suffered a quick defeat, bruising his ego.\n\n==Pokémon==\n \nThis listing is of Hiroki's known in :\n \n\n==Achievements==\n===Pokémon League===\nHiroki has competed in the following Pokémon League Conferences:\nManalo Conference - Top 151 (Battle Royal 151!)\n\n==Voice actors==\n \n\n==Trivia==\nHiroki is modeled after his Japanese voice actor Abareru-kun, a cast member of Meet Up at the Pokémon House?, whose real name is Hiroki Kobari.\n\n==Related articles==\n \n \n\n \n \n \n \n\nde:Hiroki\nes:Hiroki\nit:Hiroki\nja:ヒロキ\nzh:裕起",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hiroki (Japanese: ヒロキ Hiroki) is a recurring character in . He is a student at the Pokémon School on Melemele Island."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Hiroki debuted in A Guardian Rematch!, where he was seen having a against and his . He was soon defeated.\n\nIn Alola, Kanto!, Hiroki was seen heading to Kanto on the same plane as Ash and .\n\nHiroki was one of the s that had his Z-Crystal stolen by a , as revealed in a flashback in Beauty is Only Crystal Deep!.\n\nIn Battle Royal 151!, Hiroki was among the 151 Trainers taking part in the Battle Royal preliminary round of the Manalo Conference, which he entered with his Mudbray. After challenging the others to take him on, he was swiftly defeated, becoming the first to be knocked out. In the same episode's Poké Problem segment, he was shown being upset and angry after seeing the Top 16 being announced."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Hiroki is an egotistical Trainer. He was overly confident about his chances of winning in Battle Royal 151!, calling for the other Manalo Conference competitors to take him on. However, he suffered a quick defeat, bruising his ego."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Hiroki's known in :"
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Hiroki has competed in the following Pokémon League Conferences:\nManalo Conference - Top 151 (Battle Royal 151!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Hiroki is modeled after his Japanese voice actor Abareru-kun, a cast member of Meet Up at the Pokémon House?, whose real name is Hiroki Kobari."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Hiroki\nes:Hiroki\nit:Hiroki\nja:ヒロキ\nzh:裕起"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hiroki",
+    "pageType": "general-anime-lore",
+    "searchableText": "Hiroki\nCategory:League Conference participants\nHiroki (Japanese: ヒロキ Hiroki) is a recurring character in . He is a student at the Pokémon School on Melemele Island.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Pokémon",
+      "Pokémon League",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1547,
+    "sectionCount": 7
+  }
+}

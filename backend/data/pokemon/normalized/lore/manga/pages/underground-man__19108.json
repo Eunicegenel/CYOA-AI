@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Underground Man",
+    "slug": "underground-man",
+    "pageId": 19108,
+    "revisionId": 4518556
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "underground-man__19108.json",
+    "revisionTimestamp": "2026-03-28T18:03:40Z",
+    "fetchedAt": "2026-05-14T15:52:13.663Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Underground Man (Japanese: おじさん Underground Man) lives in Eterna City in a house next door to the Pokémon Center.",
+  "plainText": "The Underground Man (Japanese: おじさん Underground Man) lives in Eterna City in a house next door to the Pokémon Center.\n\n==In the core series games==\nWhen the first meets him, he gives them the Explorer Kit. The other NPCs in his house describe various aspects of exploring the Underground /Grand Underground . A woman in Sunyshore City mentions that Byron and the Underground Man are related and they, with Roark, are a trio of dedicated diggers.\n\n===Tasks===\nHe gives the player a series of tasks, each with various rewards for completion:\n\n====Pokémon Diamond, Pearl, and Platinum====\n \n\n====Pokémon Brilliant Diamond and Shining Pearl====\n \n\n==Gallery==\n \n===Sprites and models===\n \n\n==Quotes==\n \n\n==In animation==\nThe Underground Man appeared in the episode The Grass Menagerie! while Team Rocket was exploring the Underground. He convinced Jessie, James, and Meowth to dig up spheres and shards for him from the Underground, and fed them as a way of thanks. However, while they ate, he fled with the treasures.\n\n===Voice actors===\n \n\n==In the manga==\n \n===Pokémon Adventures===\nThe Underground Man was first mentioned in A Conk on Cranidos's Cranium, spending time with Roark in the Underground. He makes his first appearance in Double Trouble with Dialga and Palkia I, where he and Byron were digging underground with the Explorer Kit to avoid Team Galactic from tracking the Sinnoh Gym Leaders. In the next chapter, he suffered the effects from the distortion of time and space caused by and battling. In Double Trouble with Dialga and Palkia VI, the Underground Man along with Byron, Professor Rowan, and Sir Berlitz reappear at the Spear Pillar and attempt to stop Charon from escaping.\n\n====Pokémon====\n \n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n \n \n \n \n\nde:Untergrund-Mann\nes:Hombre Topo\nfr:Homme du Souterrain\nit:Esperto dei Sotterranei\nja:ちかおじさん\nzh:地下大叔",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Underground Man (Japanese: おじさん Underground Man) lives in Eterna City in a house next door to the Pokémon Center."
+    },
+    {
+      "heading": "In the core series games",
+      "level": 2,
+      "text": "When the first meets him, he gives them the Explorer Kit. The other NPCs in his house describe various aspects of exploring the Underground /Grand Underground . A woman in Sunyshore City mentions that Byron and the Underground Man are related and they, with Roark, are a trio of dedicated diggers."
+    },
+    {
+      "heading": "Tasks",
+      "level": 3,
+      "text": "He gives the player a series of tasks, each with various rewards for completion:"
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "The Underground Man appeared in the episode The Grass Menagerie! while Team Rocket was exploring the Underground. He convinced Jessie, James, and Meowth to dig up spheres and shards for him from the Underground, and fed them as a way of thanks. However, while they ate, he fled with the treasures."
+    },
+    {
+      "heading": "Pokémon Adventures",
+      "level": 3,
+      "text": "The Underground Man was first mentioned in A Conk on Cranidos's Cranium, spending time with Roark in the Underground. He makes his first appearance in Double Trouble with Dialga and Palkia I, where he and Byron were digging underground with the Explorer Kit to avoid Team Galactic from tracking the Sinnoh Gym Leaders. In the next chapter, he suffered the effects from the distortion of time and space caused by and battling. In Double Trouble with Dialga and Palkia VI, the Underground Man along with Byron, Professor Rowan, and Sir Berlitz reappear at the Spear Pillar and attempt to stop Charon from escaping."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Untergrund-Mann\nes:Hombre Topo\nfr:Homme du Souterrain\nit:Esperto dei Sotterranei\nja:ちかおじさん\nzh:地下大叔"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Underground Man",
+    "pageType": "chapter",
+    "searchableText": "Underground Man\nCategory:Pokémon Adventures characters\nThe Underground Man (Japanese: おじさん Underground Man) lives in Eterna City in a house next door to the Pokémon Center.",
+    "sectionHeadings": [
+      "Lead",
+      "In the core series games",
+      "Tasks",
+      "In animation",
+      "Pokémon Adventures",
+      "Related articles"
+    ],
+    "characterCount": 1879,
+    "sectionCount": 6
+  }
+}

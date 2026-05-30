@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB57",
+    "slug": "rb57",
+    "pageId": 161789,
+    "revisionId": 4247783
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb57__161789.json",
+    "revisionTimestamp": "2025-02-25T03:28:49Z",
+    "fetchedAt": "2026-05-14T15:47:51.730Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 伝説のポケモン Legendary Pokémon) is the 57th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 伝説のポケモン Legendary Pokémon) is the 57th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nRyouga attempts to take off with all six Burst Hearts to find Arcades but is stopped by his friends.\nGreat Gavel captures , and by holding several Pokémon captive.\nWith the three Pokémon captured, Gerubu states that it's time for three certain individuals to make their appearance.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyouga\nMiruto\nYappy\nKaruta\nRug\nFraud\nYaza\nGerubu\nGreat Gavel members\nHiker\n\n===Pokémon===\n\n(captured by Great Gavel)\n(captured by Great Gavel)\n(captured by Great Gavel)\n\n \n \n \n\n \n\nzh:RB57",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 伝説のポケモン Legendary Pokémon) is the 57th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga attempts to take off with all six Burst Hearts to find Arcades but is stopped by his friends.\nGreat Gavel captures , and by holding several Pokémon captive.\nWith the three Pokémon captured, Gerubu states that it's time for three certain individuals to make their appearance."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nMiruto\nYappy\nKaruta\nRug\nFraud\nYaza\nGerubu\nGreat Gavel members\nHiker"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(captured by Great Gavel)\n(captured by Great Gavel)\n(captured by Great Gavel)\n\n \n \n \n\n \n\nzh:RB57"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB57",
+    "pageType": "chapter",
+    "searchableText": "RB57\nCategory:Pokémon RéBURST chapters\n(Japanese: 伝説のポケモン Legendary Pokémon) is the 57th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 653,
+    "sectionCount": 4
+  }
+}

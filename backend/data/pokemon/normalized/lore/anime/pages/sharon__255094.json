@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Sharon",
+    "slug": "sharon",
+    "pageId": 255094,
+    "revisionId": 4515117
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "sharon__255094.json",
+    "revisionTimestamp": "2026-03-23T06:52:15Z",
+    "fetchedAt": "2026-05-14T14:49:11.003Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Sharon (Japanese: カレン Karen) is a character who appeared in Secrets of the Jungle. She is a researcher at the Biotope Company and an assistant to Dr. Zed.",
+  "plainText": "Sharon (Japanese: カレン Karen) is a character who appeared in Secrets of the Jungle. She is a researcher at the Biotope Company and an assistant to Dr. Zed.\n\n==History==\n\n==Character==\n\n==Voice actors==\n \n\n==Names==\n \n\n==Related articles==\n \n \n\nes:Sharon\nit:Sharon (F23)\nja:カレン (映画)\nzh:嘉蓮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sharon (Japanese: カレン Karen) is a character who appeared in Secrets of the Jungle. She is a researcher at the Biotope Company and an assistant to Dr. Zed."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Sharon\nit:Sharon (F23)\nja:カレン (映画)\nzh:嘉蓮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sharon",
+    "pageType": "movie",
+    "searchableText": "Sharon\nCategory:Movie characters\nSharon (Japanese: カレン Karen) is a character who appeared in Secrets of the Jungle. She is a researcher at the Biotope Company and an assistant to Dr. Zed.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 286,
+    "sectionCount": 2
+  }
+}

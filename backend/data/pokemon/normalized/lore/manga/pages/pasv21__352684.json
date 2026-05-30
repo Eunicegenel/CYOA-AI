@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASV21",
+    "slug": "pasv21",
+    "pageId": 352684,
+    "revisionId": 4511056
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasv21__352684.json",
+    "revisionTimestamp": "2026-03-17T19:50:47Z",
+    "fetchedAt": "2026-05-14T15:29:20.189Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 集結！トップと四天王！！ Gathering! and the !) is the 21st chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS ベトベトン VS ).",
+  "plainText": "(Japanese: 集結！トップと四天王！！ Gathering! and the !) is the 21st chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS ベトベトン VS ).\n\n==Plot==\n \n\n==Major events==\nbegins her assault on the Navi Squad's Base.\nScarlet begins her battle against Atticus.\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n( )\n\n==Characters==\n===Humans===\n\nKoga (picture)\nJanine (picture)\nLarry\nRika\nPoppy\nHassel\nGeeta\nPenny (flashback)\nAtticus\nRaifort (flashback)\ns\n\n===Pokémon===\n( )\n( 's)\n( 's)\n( 's)\n( 's; )\n( 's)\n(Rika's)\n(Poppy's; debut)\n(Poppy's)\n(Hassel's)\n(Geeta's; debut)\n(Atticus's)\n(Atticus's)\n(Atticus's; ; debut)\n( 's; flashback)\n( 's; x2; one in flashback)\n( 's; flashback)\n( 's)\n( 's)\n \n \n \n\nde:Kapitel 21 (Karmesin und Purpur Arc)\nes:PMSSV21\nfr:Chapitre 21 (Pocket Monsters Special Écarlate et Violet)\nzh:宝可梦特别篇 朱·紫篇 第18话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 集結！トップと四天王！！ Gathering! and the !) is the 21st chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS ベトベトン VS )."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "begins her assault on the Navi Squad's Base.\nScarlet begins her battle against Atticus."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Koga (picture)\nJanine (picture)\nLarry\nRika\nPoppy\nHassel\nGeeta\nPenny (flashback)\nAtticus\nRaifort (flashback)\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's)\n( 's)\n( 's)\n( 's; )\n( 's)\n(Rika's)\n(Poppy's; debut)\n(Poppy's)\n(Hassel's)\n(Geeta's; debut)\n(Atticus's)\n(Atticus's)\n(Atticus's; ; debut)\n( 's; flashback)\n( 's; x2; one in flashback)\n( 's; flashback)\n( 's)\n( 's)\n \n \n \n\nde:Kapitel 21 (Karmesin und Purpur Arc)\nes:PMSSV21\nfr:Chapitre 21 (Pocket Monsters Special Écarlate et Violet)\nzh:宝可梦特别篇 朱·紫篇 第18话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASV21",
+    "pageType": "chapter",
+    "searchableText": "PASV21\nCategory:Pokémon Adventures chapters\n(Japanese: 集結！トップと四天王！！ Gathering! and the !) is the 21st chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS ベトベトン VS ).",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 824,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "TA10",
+    "slug": "ta10",
+    "pageId": 180869,
+    "revisionId": 4549581
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta10__180869.json",
+    "revisionTimestamp": "2026-05-11T02:05:59Z",
+    "fetchedAt": "2026-05-14T15:50:38.360Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: かいとうハイドル Phantom Thief Haidoru) is the 10th chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: かいとうハイドル Phantom Thief Haidoru) is the 10th chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nHaidoru\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nMuseum owner\nHaidoru\n\n===Pokémon===\n(Chacha; Katsuya's)\n(Kururu; Toki's)\n(Toki's)\n(Haidoru's)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: かいとうハイドル Phantom Thief Haidoru) is the 10th chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Haidoru"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nMuseum owner\nHaidoru"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Chacha; Katsuya's)\n(Kururu; Toki's)\n(Toki's)\n(Haidoru's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA10",
+    "pageType": "chapter",
+    "searchableText": "TA10\nCategory:Pokémon Try Adventure chapters\n(Japanese: かいとうハイドル Phantom Thief Haidoru) is the 10th chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 354,
+    "sectionCount": 4
+  }
+}

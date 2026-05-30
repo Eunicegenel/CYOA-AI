@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PPP40",
+    "slug": "ppp40",
+    "pageId": 6620,
+    "revisionId": 4528477
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp40__6620.json",
+    "revisionTimestamp": "2026-04-09T16:23:21Z",
+    "fetchedAt": "2026-05-14T15:39:01.598Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Heavenly Pokémon (Japanese: いさばんのすきなひと The Person I Like Most), is the fourth chapter of the seventh volume of Magical Pokémon Journey.",
+  "plainText": "Heavenly Pokémon (Japanese: いさばんのすきなひと The Person I Like Most), is the fourth chapter of the seventh volume of Magical Pokémon Journey.\n\n==Plot==\n \nWhile on a date, and Lu are harassed by the spirit of a lovesick !\n\n==Important characters and Pokémon==\n\nLu\n\n==Character introductions==\n\n==Important events==\n \n \n \n\nit:PPP40",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Heavenly Pokémon (Japanese: いさばんのすきなひと The Person I Like Most), is the fourth chapter of the seventh volume of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "While on a date, and Lu are harassed by the spirit of a lovesick !"
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Lu"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "it:PPP40"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP40",
+    "pageType": "chapter",
+    "searchableText": "PPP40\nCategory:Magical Pokémon Journey chapters\nHeavenly Pokémon (Japanese: いさばんのすきなひと The Person I Like Most), is the fourth chapter of the seventh volume of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon",
+      "Important events"
+    ],
+    "characterCount": 323,
+    "sectionCount": 4
+  }
+}

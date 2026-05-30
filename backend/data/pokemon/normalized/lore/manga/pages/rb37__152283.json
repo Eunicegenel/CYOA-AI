@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB37",
+    "slug": "rb37",
+    "pageId": 152283,
+    "revisionId": 4245816
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb37__152283.json",
+    "revisionTimestamp": "2025-02-22T21:42:32Z",
+    "fetchedAt": "2026-05-14T15:47:39.155Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 完璧な防御 The Perfect Defense) is the 37th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 完璧な防御 The Perfect Defense) is the 37th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nHariru continues his battle against Fraud.\nHariru's past and how he met Carola is revealed.\nHariru launches a powerful attack at Fraud.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHariru\nFraud\nRyouga\nMiruto\nYappy\nRush\nLoren\nEurou\nHariru's father (flashback)\nPikke\nRurimaru\nDokan\nRabine\nAfron\nKaruta\nCarola\nPlayers\n\n===Pokémon===\n(Hariru's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB37",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 完璧な防御 The Perfect Defense) is the 37th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hariru continues his battle against Fraud.\nHariru's past and how he met Carola is revealed.\nHariru launches a powerful attack at Fraud."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hariru\nFraud\nRyouga\nMiruto\nYappy\nRush\nLoren\nEurou\nHariru's father (flashback)\nPikke\nRurimaru\nDokan\nRabine\nAfron\nKaruta\nCarola\nPlayers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hariru's)\n(Fraud's)\n\n \n \n \n\n \n\nzh:RB37"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB37",
+    "pageType": "chapter",
+    "searchableText": "RB37\nCategory:Pokémon RéBURST chapters\n(Japanese: 完璧な防御 The Perfect Defense) is the 37th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 508,
+    "sectionCount": 4
+  }
+}

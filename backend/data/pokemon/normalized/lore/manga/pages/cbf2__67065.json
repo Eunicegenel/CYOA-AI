@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "CBF2",
+    "slug": "cbf2",
+    "pageId": 67065,
+    "revisionId": 4130875
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battle Frontier chapters",
+    "sourceFileName": "cbf2__67065.json",
+    "revisionTimestamp": "2024-09-29T03:54:50Z",
+    "fetchedAt": "2026-05-14T15:15:04.030Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Aim for the Top! (Japanese: 頂点を目指せ! Aim for the Top!) is the second chapter of the Pokémon Battle Frontier manga.",
+  "plainText": "Aim for the Top! (Japanese: 頂点を目指せ! Aim for the Top!) is the second chapter of the Pokémon Battle Frontier manga.\n\n==Plot==\nThe Battle Pyramid, one of the seven Battle Facilities at the designed specifically to test the courage of those who enter. After a failed attempt at reaching the top, Enta meets up again with his Master Rald. Rald tells him that in order to overcome the Battle Pyramid, he must have cooperation with his Pokémon. Grateful for the advice, Enta rushes off to try again. However, he is unable to figure out the meaning of cooperation (instead trying to break the Pyramid's walls down with headbutts), and fails once again. That night, as Enta sits there hungrily, his Pokémon cooperate by having Illumise grab a banana from Tropius's neck, with Vulpix roasting it before giving it to Enta to eat. After another conversation with Rald, he realizes that he must combine his courage with that of his Pokémon to be able to fully master the Battle Frontier. After making it most of the way to the top the next day, Enta must battle a Machamp before coming out at the top of the Pyramid. Using a combination of Tropius's , Illumise's and and Vulpix's he is able to win and reaches the top of the Pyramid, being left to wonder how he'll get back down.\n\n==Major events==\nchallenges the Battle Pyramid and fails.\nEnta meets up with Rald, who gives him advice on cooperation with his .\nAfter another failed attempt, Enta comes to understand the inner workings of teamwork after speaking to Rald again.\nEnta challenges the Pyramid a third time, managing to reach the top.\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nRald\n\n===Pokémon===\n( )\n( 's)\n( 's)\n(Rald's)\n\n \n\n \n\nes:PBF02",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Aim for the Top! (Japanese: 頂点を目指せ! Aim for the Top!) is the second chapter of the Pokémon Battle Frontier manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "The Battle Pyramid, one of the seven Battle Facilities at the designed specifically to test the courage of those who enter. After a failed attempt at reaching the top, Enta meets up again with his Master Rald. Rald tells him that in order to overcome the Battle Pyramid, he must have cooperation with his Pokémon. Grateful for the advice, Enta rushes off to try again. However, he is unable to figure out the meaning of cooperation (instead trying to break the Pyramid's walls down with headbutts), and fails once again. That night, as Enta sits there hungrily, his Pokémon cooperate by having Illumise grab a banana from Tropius's neck, with Vulpix roasting it before giving it to Enta to eat. After another conversation with Rald, he realizes that he must combine his courage with that of his Pokémon to be able to fully master the Battle Frontier. After making it most of the way to the top the next day, Enta must battle a Machamp before coming out at the top of the Pyramid. Using a combination of Tropius's , Illumise's and and Vulpix's he is able to win and reaches the top of the Pyramid, being left to wonder how he'll get back down."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "challenges the Battle Pyramid and fails.\nEnta meets up with Rald, who gives him advice on cooperation with his .\nAfter another failed attempt, Enta comes to understand the inner workings of teamwork after speaking to Rald again.\nEnta challenges the Pyramid a third time, managing to reach the top."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Rald"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's)\n( 's)\n(Rald's)\n\n \n\n \n\nes:PBF02"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CBF2",
+    "pageType": "chapter",
+    "searchableText": "CBF2\nCategory:Pokémon Battle Frontier chapters\nAim for the Top! (Japanese: 頂点を目指せ! Aim for the Top!) is the second chapter of the Pokémon Battle Frontier manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1711,
+    "sectionCount": 5
+  }
+}

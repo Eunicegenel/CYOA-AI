@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Arbok's First Love",
+    "slug": "arboks-first-love",
+    "pageId": 202802,
+    "revisionId": 4168478
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "arboks-first-love__202802.json",
+    "revisionTimestamp": "2024-10-26T16:39:21Z",
+    "fetchedAt": "2026-05-14T15:12:46.982Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Arbok's First Love is the seventh monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 11th and 12th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Arbok's First Love is the seventh monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 11th and 12th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n \n==Blurb==\nARBOK'S MAIN SQUEEZE\n\nThe Pokémon meet up with a trainer who's a really nice guy, but his Charmander Pokémon is just a bully! How did such a mismatched pair end up together? \n\nThen, Arbok's in love, but it's too embarrassed to admit the object of its affection! Can Hazel find out who is the lucky Pokémon?\n\n==Publications==\n \n \n\n==Chapters==\nCharmander's Peanut\nEven an Arbok Falls in Love!\n\n==Important events==\nThe group meets Charmander and Peanut.\nThe Fruit of Great Strength is introduced.\nArbok and Wigglytuff become friends.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Arbok's First Love is the seventh monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 11th and 12th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "ARBOK'S MAIN SQUEEZE\n\nThe Pokémon meet up with a trainer who's a really nice guy, but his Charmander Pokémon is just a bully! How did such a mismatched pair end up together? \n\nThen, Arbok's in love, but it's too embarrassed to admit the object of its affection! Can Hazel find out who is the lucky Pokémon?"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Charmander's Peanut\nEven an Arbok Falls in Love!"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "The group meets Charmander and Peanut.\nThe Fruit of Great Strength is introduced.\nArbok and Wigglytuff become friends."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Arbok's First Love",
+    "pageType": "pokemon-related",
+    "searchableText": "Arbok's First Love\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Arbok's First Love is the seventh monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 11th and 12th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 929,
+    "sectionCount": 4
+  }
+}

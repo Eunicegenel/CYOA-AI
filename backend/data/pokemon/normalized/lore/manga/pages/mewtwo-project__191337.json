@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Mewtwo Project",
+    "slug": "mewtwo-project",
+    "pageId": 191337,
+    "revisionId": 4528035
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures",
+    "sourceFileName": "mewtwo-project__191337.json",
+    "revisionTimestamp": "2026-04-09T16:04:38Z",
+    "fetchedAt": "2026-05-14T15:26:27.004Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The Mewtwo Project was the name of a Team Rocket project in the Red, Blue, and Green arc of Pokémon Adventures. Its purpose was to artificially create the most powerful Pokémon ever by enhancing the DNA of . Originally intending to just synthesize the DNA, it was discovered that there wasn't a sufficient amount. had to use cells from his own arm to complete Mewtwo, making them dependent upon each other, and causing Blaine to defect from Team Rocket after Mewtwo escaped. They did not get the Mew Disk. Most of the scientists involved in the project were killed when destroyed the Cinnabar Lab in And Mewtwo Too!?.",
+  "plainText": "The Mewtwo Project was the name of a Team Rocket project in the Red, Blue, and Green arc of Pokémon Adventures. Its purpose was to artificially create the most powerful Pokémon ever by enhancing the DNA of . Originally intending to just synthesize the DNA, it was discovered that there wasn't a sufficient amount. had to use cells from his own arm to complete Mewtwo, making them dependent upon each other, and causing Blaine to defect from Team Rocket after Mewtwo escaped. They did not get the Mew Disk. Most of the scientists involved in the project were killed when destroyed the Cinnabar Lab in And Mewtwo Too!?.\n\n==Mew Disk==\nThe Mew Disk is an item that appeared in the of Pokémon Adventures.\n\nIt is a floppy disk containing data relevant to Team Rocket's Mewtwo Project. stole the disk sometime prior to Tauros the Tyrant. When he infiltrated Team Rocket's ranks at the Celadon Game Corner, learned of its theft and decided to seek Green out, as she had also stolen his Badges in the previous round.\n\nAfter finding Green, she and Red were attacked by Team Rocket, who had discovered their actions. Using her Ditto, Green managed to defeat the Team Rocket Grunts and trick them into taking an imitation of the Mew Disk.\n\n==Trivia==\nIn the Mewtwo Strikes Back, another Mewtwo also destroyed the laboratory in which it was created.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Mewtwo Project was the name of a Team Rocket project in the Red, Blue, and Green arc of Pokémon Adventures. Its purpose was to artificially create the most powerful Pokémon ever by enhancing the DNA of . Originally intending to just synthesize the DNA, it was discovered that there wasn't a sufficient amount. had to use cells from his own arm to complete Mewtwo, making them dependent upon each other, and causing Blaine to defect from Team Rocket after Mewtwo escaped. They did not get the Mew Disk. Most of the scientists involved in the project were killed when destroyed the Cinnabar Lab in And Mewtwo Too!?."
+    },
+    {
+      "heading": "Mew Disk",
+      "level": 2,
+      "text": "The Mew Disk is an item that appeared in the of Pokémon Adventures.\n\nIt is a floppy disk containing data relevant to Team Rocket's Mewtwo Project. stole the disk sometime prior to Tauros the Tyrant. When he infiltrated Team Rocket's ranks at the Celadon Game Corner, learned of its theft and decided to seek Green out, as she had also stolen his Badges in the previous round.\n\nAfter finding Green, she and Red were attacked by Team Rocket, who had discovered their actions. Using her Ditto, Green managed to defeat the Team Rocket Grunts and trick them into taking an imitation of the Mew Disk."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the Mewtwo Strikes Back, another Mewtwo also destroyed the laboratory in which it was created."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mewtwo Project",
+    "pageType": "pokemon-related",
+    "searchableText": "Mewtwo Project\nCategory:Pokémon Adventures\nThe Mewtwo Project was the name of a Team Rocket project in the Red, Blue, and Green arc of Pokémon Adventures. Its purpose was to artificially create the most powerful Pokémon ever by enhancing the DNA of . Originally intending to just synthesize the DNA, it was discovered that there wasn't a sufficient amount. had to use cells from his own arm to complete Mewtwo, making them dependent upon each other, and causing Blaine to defect from Team Rocket after Mewtwo escaped. They did not get the Mew Disk. Most of the scientists involved in the project were killed when destroyed the Cinnabar Lab in And Mewtwo Too!?.",
+    "sectionHeadings": [
+      "Lead",
+      "Mew Disk",
+      "Trivia"
+    ],
+    "characterCount": 1336,
+    "sectionCount": 3
+  }
+}

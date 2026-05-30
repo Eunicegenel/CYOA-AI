@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Yoshino Aoyama",
+    "slug": "yoshino-aoyama",
+    "pageId": 293589,
+    "revisionId": 4405318
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "yoshino-aoyama__293589.json",
+    "revisionTimestamp": "2025-10-18T14:13:25Z",
+    "fetchedAt": "2026-05-14T14:59:57.004Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yoshino Aoyama (Japanese: 青山吉能 Aoyama Yoshino) is a Japanese voice actor for .",
+  "plainText": "Yoshino Aoyama (Japanese: 青山吉能 Aoyama Yoshino) is a Japanese voice actor for .\n\n==Biography==\nAoyama was born on May 15, 1996 and is affiliated with . Aoyama became a voice actor in 2014 and joined the during , voicing Dot and her internet persona Nidothing.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nDot/Nidothing\n\n=====Pokémon=====\n\n==Other non-Pokémon roles==\nYoshino Nanase ( )\nYura Yuragi ( )\nGuri ( )\nTiana Silvario XVI ( )\nAlicia, Mark ( )\nChroe Mashima ( )\nHitori \"Bocchi\" Gotoh ( )\n\n==External links==\n81 Produce profile\n\n \n\n \n\nit:Yoshino Aoyama\nja:青山吉能",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yoshino Aoyama (Japanese: 青山吉能 Aoyama Yoshino) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Aoyama was born on May 15, 1996 and is affiliated with . Aoyama became a voice actor in 2014 and joined the during , voicing Dot and her internet persona Nidothing."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Dot/Nidothing"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Yoshino Nanase ( )\nYura Yuragi ( )\nGuri ( )\nTiana Silvario XVI ( )\nAlicia, Mark ( )\nChroe Mashima ( )\nHitori \"Bocchi\" Gotoh ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "81 Produce profile\n\n \n\n \n\nit:Yoshino Aoyama\nja:青山吉能"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yoshino Aoyama",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yoshino Aoyama\nCategory:Japanese voice actors\nYoshino Aoyama (Japanese: 青山吉能 Aoyama Yoshino) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 582,
+    "sectionCount": 5
+  }
+}

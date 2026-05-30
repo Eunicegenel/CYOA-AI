@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMBW42",
+    "slug": "pmbw42",
+    "pageId": 182839,
+    "revisionId": 4528362
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw42__182839.json",
+    "revisionTimestamp": "2026-04-09T16:17:51Z",
+    "fetchedAt": "2026-05-14T15:32:09.832Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: かわいくなりた～い！！ I Want to be Cu~te!!) is the forty-second chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: かわいくなりた～い！！ I Want to be Cu~te!!) is the forty-second chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Juniper\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: かわいくなりた～い！！ I Want to be Cu~te!!) is the forty-second chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Juniper"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW42",
+    "pageType": "chapter",
+    "searchableText": "PMBW42\nCategory:Pocket Monsters BW chapters\n(Japanese: かわいくなりた～い！！ I Want to be Cu~te!!) is the forty-second chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 261,
+    "sectionCount": 3
+  }
+}

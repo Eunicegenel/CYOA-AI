@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Dai Fugō",
+    "slug": "dai-fugo",
+    "pageId": 885,
+    "revisionId": 4528356
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP characters",
+    "sourceFileName": "dai-fugo__885.json",
+    "revisionTimestamp": "2026-04-09T16:17:25Z",
+    "fetchedAt": "2026-05-14T15:16:38.093Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ダイ・フゴー Dai Fugō) is a character from .",
+  "plainText": "(Japanese: ダイ・フゴー Dai Fugō) is a character from .\n\n==History==\nDai Fugō appeared in PMDP02, when and his Pokémon go to his Gym which is also an art museum. Dai offered to sell some paintings to the group but they were too expensive and Clefairy decided to steal some. He caught Clefairy in the act and simultaneously sent out , , and when Clefairy didn't cooperate. He challenged Clefairy to a battle using the three Pokémon where Clefairy outsmarted all of them. As Clefairy was wrapping other things in tape, Dai forced him to stop but Clefairy continued until he was wrapped up in his own tape. Afterwards, Dai forced Red and his Pokémon to leave while they carried the taped up Clefairy.\n\n==Pokémon==\n \n\n \n\n \n \n \n \n \n \n \n\nit:Dai Fugō",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ダイ・フゴー Dai Fugō) is a character from ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Dai Fugō appeared in PMDP02, when and his Pokémon go to his Gym which is also an art museum. Dai offered to sell some paintings to the group but they were too expensive and Clefairy decided to steal some. He caught Clefairy in the act and simultaneously sent out , , and when Clefairy didn't cooperate. He challenged Clefairy to a battle using the three Pokémon where Clefairy outsmarted all of them. As Clefairy was wrapping other things in tape, Dai forced him to stop but Clefairy continued until he was wrapped up in his own tape. Afterwards, Dai forced Red and his Pokémon to leave while they carried the taped up Clefairy."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Dai Fugō"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dai Fugō",
+    "pageType": "character",
+    "searchableText": "Dai Fugō\nCategory:Pocket Monsters DP characters\n(Japanese: ダイ・フゴー Dai Fugō) is a character from .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon"
+    ],
+    "characterCount": 737,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Miho Arakawa",
+    "slug": "miho-arakawa",
+    "pageId": 231805,
+    "revisionId": 4323595
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "miho-arakawa__231805.json",
+    "revisionTimestamp": "2025-06-24T03:33:03Z",
+    "fetchedAt": "2026-05-14T14:36:53.340Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Miho Arakawa (Japanese: 荒川美穂 Arakawa Miho) is a Japanese voice actress for .",
+  "plainText": "Miho Arakawa (Japanese: 荒川美穂 Arakawa Miho) is a Japanese voice actress for .\n\n==Biography==\nArakawa was born on December 4, 1987, in , , , and became a voice actress as an adult. She joined during , where her only role was Concordia, one of 's foster sisters. Arakawa was affiliated with the .\n\n==Pokémon roles==\n===Animation===\n==== ====\nConcordia\n\n==Other non-Pokémon roles==\nHimari Takakura ( )\nShizuku, Eliza ( (2011))\nChikage ( )\nTsunomi Kabutohara ( )\nSachiyo ( )\nSumireko Hanabusa ( )\nNaruko Aoba ( )\nMakoto Hiiragi ( )\nRei ( )\nSonia Nevermind ( )\n\n===Anime films===\nShizuku ( )\nMeiko Mochizuki ( )\n\n===Video game roles===\nSonia Nevermind ( )\nMakoto Hiiragi ( )\nNaruko Aoba ( game series)\nClaudia ( )\nKazuha Kagami ( )\nRanko Koriyama ( )\nTet ( )\n\n==External links==\nHaikyo profile\nTwitter",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Miho Arakawa (Japanese: 荒川美穂 Arakawa Miho) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Arakawa was born on December 4, 1987, in , , , and became a voice actress as an adult. She joined during , where her only role was Concordia, one of 's foster sisters. Arakawa was affiliated with the ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Concordia"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Himari Takakura ( )\nShizuku, Eliza ( (2011))\nChikage ( )\nTsunomi Kabutohara ( )\nSachiyo ( )\nSumireko Hanabusa ( )\nNaruko Aoba ( )\nMakoto Hiiragi ( )\nRei ( )\nSonia Nevermind ( )"
+    },
+    {
+      "heading": "Anime films",
+      "level": 3,
+      "text": "Shizuku ( )\nMeiko Mochizuki ( )"
+    },
+    {
+      "heading": "Video game roles",
+      "level": 3,
+      "text": "Sonia Nevermind ( )\nMakoto Hiiragi ( )\nNaruko Aoba ( game series)\nClaudia ( )\nKazuha Kagami ( )\nRanko Koriyama ( )\nTet ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Haikyo profile\nTwitter"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Miho Arakawa",
+    "pageType": "general-anime-lore",
+    "searchableText": "Miho Arakawa\nCategory:Japanese voice actors\nMiho Arakawa (Japanese: 荒川美穂 Arakawa Miho) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "Anime films",
+      "Video game roles",
+      "External links"
+    ],
+    "characterCount": 795,
+    "sectionCount": 7
+  }
+}

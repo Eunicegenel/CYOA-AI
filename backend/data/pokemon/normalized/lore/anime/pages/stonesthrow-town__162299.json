@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Stonesthrow Town",
+    "slug": "stonesthrow-town",
+    "pageId": 162299,
+    "revisionId": 4261136
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "stonesthrow-town__162299.json",
+    "revisionTimestamp": "2025-03-19T21:50:34Z",
+    "fetchedAt": "2026-05-14T14:52:29.423Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Stonesthrow Town (Japanese: チカクノタウン Chikakuno Town) is an -exclusive location in the Unova region that appeared in Clash of the Connoisseurs!. It is a village located between Icirrus City and Opelucid City. Just outside the town is an enormous mansion owned by Mr. Hatterly who lives there with his daughter.\n \n , and were staying in the Pokémon Center here when Nurse Joy told Ash that the Opelucid Gym was closed. Shortly after, they were confronted by a butler who told them to come with him. The butler took them to the mansion of Mr. Hatterly, who wanted Cilan's help to pick a Pokémon for his beloved daughter.",
+  "plainText": "Stonesthrow Town (Japanese: チカクノタウン Chikakuno Town) is an -exclusive location in the Unova region that appeared in Clash of the Connoisseurs!. It is a village located between Icirrus City and Opelucid City. Just outside the town is an enormous mansion owned by Mr. Hatterly who lives there with his daughter.\n \n , and were staying in the Pokémon Center here when Nurse Joy told Ash that the Opelucid Gym was closed. Shortly after, they were confronted by a butler who told them to come with him. The butler took them to the mansion of Mr. Hatterly, who wanted Cilan's help to pick a Pokémon for his beloved daughter.\n \n==Pokémon seen in Stonesthrow Town==\n \n\n==Names==\n \n\n \n \n \n\n \n\nes:Pueblo Stonesthrow/Tiropiedra\nit:Villaggio Dietrolangolo\nja:チカクノタウン\nzh:鄰近鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Stonesthrow Town (Japanese: チカクノタウン Chikakuno Town) is an -exclusive location in the Unova region that appeared in Clash of the Connoisseurs!. It is a village located between Icirrus City and Opelucid City. Just outside the town is an enormous mansion owned by Mr. Hatterly who lives there with his daughter.\n \n , and were staying in the Pokémon Center here when Nurse Joy told Ash that the Opelucid Gym was closed. Shortly after, they were confronted by a butler who told them to come with him. The butler took them to the mansion of Mr. Hatterly, who wanted Cilan's help to pick a Pokémon for his beloved daughter."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Pueblo Stonesthrow/Tiropiedra\nit:Villaggio Dietrolangolo\nja:チカクノタウン\nzh:鄰近鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Stonesthrow Town",
+    "pageType": "location",
+    "searchableText": "Stonesthrow Town\nCategory:Animated series-exclusive locations\nStonesthrow Town (Japanese: チカクノタウン Chikakuno Town) is an -exclusive location in the Unova region that appeared in Clash of the Connoisseurs!. It is a village located between Icirrus City and Opelucid City. Just outside the town is an enormous mansion owned by Mr. Hatterly who lives there with his daughter.\n \n , and were staying in the Pokémon Center here when Nurse Joy told Ash that the Opelucid Gym was closed. Shortly after, they were confronted by a butler who told them to come with him. The butler took them to the mansion of Mr. Hatterly, who wanted Cilan's help to pick a Pokémon for his beloved daughter.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 759,
+    "sectionCount": 2
+  }
+}

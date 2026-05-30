@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "SP16",
+    "slug": "sp16",
+    "pageId": 182502,
+    "revisionId": 4114555
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp16__182502.json",
+    "revisionTimestamp": "2024-09-16T20:30:17Z",
+    "fetchedAt": "2026-05-14T15:50:00.737Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "One Half Of A Poké Ball (Japanese: 欠けたモンスターボール Cracked Poké Ball) is the sixteenth chapter of the Ash & Pikachu manga.",
+  "plainText": "One Half Of A Poké Ball (Japanese: 欠けたモンスターボール Cracked Poké Ball) is the sixteenth chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nGary Oak\n\n====Pokémon debuts====\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( 's)\n( 's)\n( 's)\n\n \n \n\n \n\nit:SP16",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "One Half Of A Poké Ball (Japanese: 欠けたモンスターボール Cracked Poké Ball) is the sixteenth chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Gary Oak"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( 's)\n( 's)\n( 's)\n\n \n \n\n \n\nit:SP16"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP16",
+    "pageType": "chapter",
+    "searchableText": "SP16\nCategory:Ash & Pikachu chapters\nOne Half Of A Poké Ball (Japanese: 欠けたモンスターボール Cracked Poké Ball) is the sixteenth chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 353,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Omega (BW039)",
+    "slug": "omega-bw039",
+    "pageId": 142717,
+    "revisionId": 4095352
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "omega-bw039__142717.json",
+    "revisionTimestamp": "2024-09-01T00:24:21Z",
+    "fetchedAt": "2026-05-14T14:40:14.931Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Omega (Japanese: オメガ Omega) is a character of the day who appeared in Reunion Battles In Nimbasa!. He participated in the Club Battle tournament, but lost in a battle against Dino and was knocked out of the very first round.",
+  "plainText": "Omega (Japanese: オメガ Omega) is a character of the day who appeared in Reunion Battles In Nimbasa!. He participated in the Club Battle tournament, but lost in a battle against Dino and was knocked out of the very first round.\n\n==Pokémon==\n \n\nOmega has at least two other Pokémon, as those who entered the Club Battle were required to enter with three Pokémon.\n\n==Pokémon competitions==\nClub Battle - Top 16 (Reunion Battles In Nimbasa!)\n\n==Voice actors==\n \n \n \n\n \n \n \n\nes:Omega\nfr:Omega\nit:Omega\nzh:歐梅加",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Omega (Japanese: オメガ Omega) is a character of the day who appeared in Reunion Battles In Nimbasa!. He participated in the Club Battle tournament, but lost in a battle against Dino and was knocked out of the very first round."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "Omega has at least two other Pokémon, as those who entered the Club Battle were required to enter with three Pokémon."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Club Battle - Top 16 (Reunion Battles In Nimbasa!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Omega\nfr:Omega\nit:Omega\nzh:歐梅加"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Omega (BW039)",
+    "pageType": "character",
+    "searchableText": "Omega (BW039)\nCategory:Unova characters of the day\nOmega (Japanese: オメガ Omega) is a character of the day who appeared in Reunion Battles In Nimbasa!. He participated in the Club Battle tournament, but lost in a battle against Dino and was knocked out of the very first round.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 501,
+    "sectionCount": 4
+  }
+}

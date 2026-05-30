@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Crimson City",
+    "slug": "crimson-city",
+    "pageId": 32059,
+    "revisionId": 4261336
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "crimson-city__32059.json",
+    "revisionTimestamp": "2025-03-19T21:52:48Z",
+    "fetchedAt": "2026-05-14T14:10:35.540Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Crimson City (Japanese: ジョウチャンタウン Jōchan Town) is an -exclusive location believed to be in Kanto. It has not been visited by and , but is mentioned in The Fourth Round Rumble at Indigo Plateau. Jeanette Fisher, who battled Ash on the Grass Field, comes from Crimson City.",
+  "plainText": "Crimson City (Japanese: ジョウチャンタウン Jōchan Town) is an -exclusive location believed to be in Kanto. It has not been visited by and , but is mentioned in The Fourth Round Rumble at Indigo Plateau. Jeanette Fisher, who battled Ash on the Grass Field, comes from Crimson City.\n\n==Names==\n \n\n \n \n \n\n \n \n\nit:Crimson City\nja:ジョウチャンタウン\nzh:姑娘鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Crimson City (Japanese: ジョウチャンタウン Jōchan Town) is an -exclusive location believed to be in Kanto. It has not been visited by and , but is mentioned in The Fourth Round Rumble at Indigo Plateau. Jeanette Fisher, who battled Ash on the Grass Field, comes from Crimson City."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "it:Crimson City\nja:ジョウチャンタウン\nzh:姑娘鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Crimson City",
+    "pageType": "location",
+    "searchableText": "Crimson City\nCategory:Animated series-exclusive locations\nCrimson City (Japanese: ジョウチャンタウン Jōchan Town) is an -exclusive location believed to be in Kanto. It has not been visited by and , but is mentioned in The Fourth Round Rumble at Indigo Plateau. Jeanette Fisher, who battled Ash on the Grass Field, comes from Crimson City.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 333,
+    "sectionCount": 2
+  }
+}

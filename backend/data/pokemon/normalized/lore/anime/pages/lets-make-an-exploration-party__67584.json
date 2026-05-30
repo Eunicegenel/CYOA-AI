@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Let's Make an Exploration Party!",
+    "slug": "lets-make-an-exploration-party",
+    "pageId": 67584,
+    "revisionId": 4505425
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese opening themes",
+    "sourceFileName": "lets-make-an-exploration-party__67584.json",
+    "revisionTimestamp": "2026-03-11T18:58:40Z",
+    "fetchedAt": "2026-05-14T14:31:01.955Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Let's Make an Exploration Party! (Japanese: たんけんたいをつくろう！ Tankentai o Tsukurou!) is one of the opening songs of the Japanese Pikachu shorts; first debuting in Pikachu Expedition.",
+  "plainText": "Let's Make an Exploration Party! (Japanese: たんけんたいをつくろう！ Tankentai o Tsukurou!) is one of the opening songs of the Japanese Pikachu shorts; first debuting in Pikachu Expedition.\n\n==Synopsis==\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n\n \n\n==Lyrics==\n \n\n==Trivia==\nLet's Make an Exploration Party! was used as an insert song in EP179.\n\n \n \n \n\nja:たんけんたいをつくろう!",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Let's Make an Exploration Party! (Japanese: たんけんたいをつくろう！ Tankentai o Tsukurou!) is one of the opening songs of the Japanese Pikachu shorts; first debuting in Pikachu Expedition."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Let's Make an Exploration Party! was used as an insert song in EP179.\n\n \n \n \n\nja:たんけんたいをつくろう!"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Let's Make an Exploration Party!",
+    "pageType": "general-anime-lore",
+    "searchableText": "Let's Make an Exploration Party!\nCategory:Japanese opening themes\nLet's Make an Exploration Party! (Japanese: たんけんたいをつくろう！ Tankentai o Tsukurou!) is one of the opening songs of the Japanese Pikachu shorts; first debuting in Pikachu Expedition.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 378,
+    "sectionCount": 3
+  }
+}

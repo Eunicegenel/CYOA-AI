@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ49",
+    "slug": "gdz49",
+    "pageId": 188440,
+    "revisionId": 4528472
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz49__188440.json",
+    "revisionTimestamp": "2026-04-09T16:23:13Z",
+    "fetchedAt": "2026-05-14T15:19:52.601Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 森のクマさんにご用心！ Beware the Bear in the Forest!) is the 49th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 森のクマさんにご用心！ Beware the Bear in the Forest!) is the 49th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nPasserby\n\n===Pokémon===\n( )\n(Shu's; new)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 森のクマさんにご用心！ Beware the Bear in the Forest!) is the 49th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nPasserby"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's; new)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ49",
+    "pageType": "chapter",
+    "searchableText": "GDZ49\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 森のクマさんにご用心！ Beware the Bear in the Forest!) is the 49th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 260,
+    "sectionCount": 3
+  }
+}

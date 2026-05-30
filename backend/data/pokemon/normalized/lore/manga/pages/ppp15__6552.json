@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PPP15",
+    "slug": "ppp15",
+    "pageId": 6552,
+    "revisionId": 4131603
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp15__6552.json",
+    "revisionTimestamp": "2024-09-29T04:22:41Z",
+    "fetchedAt": "2026-05-14T15:38:45.953Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "A Quest of Life or Death (Japanese: 命がけの観察日記 The Desperation of Observation Diary) is the 15th chapter of the Magical Pokémon Journey manga.",
+  "plainText": "A Quest of Life or Death (Japanese: 命がけの観察日記 The Desperation of Observation Diary) is the 15th chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nFor two days, maintains a schedule of doing only the following: sleeping, eating, and playing with friends. The next day, when Pikachu is once again playing in a flower field with , Almond jumps out of a nearby bush to yell at it for never doing anything interesting. He reveals that he has been keeping a field observation journal focused on Pikachu, but it has been nothing but boring for him. Suddenly, Almond takes notice of floating away in the distance. After startling Pikachu and Clefairy by laughing nefariously, he rallies them and into observing Jigglypuff.\n\nAfter boredly watching Jigglypuff bounce around in flowers, they follow it up a mountain. It pokes a , provoking it into charging toward it. Jigglypuff floats away, but Almond and the others are left in its path, only managing to narrowly escape.\n\nWhen the group spots Jigglypuff flying away into the sky, Almond takes out a flying machine he had received from Grandpa. The machine takes the group closer to Jigglypuff, letting Almond spot a gift in its grasp. Jigglypuff then bounces on the neck of a sleeping nearby, which then attacks Almond and the others. Almond calls on Pikachu to use , but the attack destroys the flying machine, sending them falling into some treetops below.\n\nFrom the treetops, Almond sees Jigglypuff give the gift it was holding to a baby Kangaskhan before flying off once more. When Almond sees the gift is a cake that Jigglypuff had baked, he scrambles over to knock it away. The baby Kangaskhan cries and alerts its mother, who proceeds to chase down Almond as he frantically tries to explain himself. The mother Kangaskhan swipes at Almond, launching him and the Pokémon off a cliff.\n\nAlmond begins to accept his death as he plummets toward the sharp rocks below. He is stunned to land on Jigglypuff, who had inflated itself just at the right time. However, it soon shrinks back into its regular size to chase a butterfly, causing everyone to fall to the ground.\n\nLater, Almond denies ever being excited about his field observation journal, refusing to work on it ever again.\n\n==Major events==\nAfter becoming invested in keeping a Pokémon observation journal, Almond follows for the day.\n \n\n==Characters==\n===Humans===\nAlmond\nHazel\n\n===Pokémon===\n( )\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Quest of Life or Death (Japanese: 命がけの観察日記 The Desperation of Observation Diary) is the 15th chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "For two days, maintains a schedule of doing only the following: sleeping, eating, and playing with friends. The next day, when Pikachu is once again playing in a flower field with , Almond jumps out of a nearby bush to yell at it for never doing anything interesting. He reveals that he has been keeping a field observation journal focused on Pikachu, but it has been nothing but boring for him. Suddenly, Almond takes notice of floating away in the distance. After startling Pikachu and Clefairy by laughing nefariously, he rallies them and into observing Jigglypuff.\n\nAfter boredly watching Jigglypuff bounce around in flowers, they follow it up a mountain. It pokes a , provoking it into charging toward it. Jigglypuff floats away, but Almond and the others are left in its path, only managing to narrowly escape.\n\nWhen the group spots Jigglypuff flying away into the sky, Almond takes out a flying machine he had received from Grandpa. The machine takes the group closer to Jigglypuff, letting Almond spot a gift in its grasp. Jigglypuff then bounces on the neck of a sleeping nearby, which then attacks Almond and the others. Almond calls on Pikachu to use , but the attack destroys the flying machine, sending them falling into some treetops below.\n\nFrom the treetops, Almond sees Jigglypuff give the gift it was holding to a baby Kangaskhan before flying off once more. When Almond sees the gift is a cake that Jigglypuff had baked, he scrambles over to knock it away. The baby Kangaskhan cries and alerts its mother, who proceeds to chase down Almond as he frantically tries to explain himself. The mother Kangaskhan swipes at Almond, launching him and the Pokémon off a cliff.\n\nAlmond begins to accept his death as he plummets toward the sharp rocks below. He is stunned to land on Jigglypuff, who had inflated itself just at the right time. However, it soon shrinks back into its regular size to chase a butterfly, causing everyone to fall to the ground.\n\nLater, Almond denies ever being excited about his field observation journal, refusing to work on it ever again."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "After becoming invested in keeping a Pokémon observation journal, Almond follows for the day."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Almond\nHazel"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP15",
+    "pageType": "chapter",
+    "searchableText": "PPP15\nCategory:Magical Pokémon Journey chapters\nA Quest of Life or Death (Japanese: 命がけの観察日記 The Desperation of Observation Diary) is the 15th chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 2417,
+    "sectionCount": 5
+  }
+}

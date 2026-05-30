@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Hohma",
+    "slug": "hohma",
+    "pageId": 294221,
+    "revisionId": 4248047
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Paldean Winds characters",
+    "sourceFileName": "hohma__294221.json",
+    "revisionTimestamp": "2025-02-25T11:43:05Z",
+    "fetchedAt": "2026-05-14T14:22:38.695Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Hohma (Japanese: ホーマ Hohma) is one of the main characters in Pokémon: Paldean Winds. He attends Naranja Academy.",
+  "plainText": "Hohma (Japanese: ホーマ Hohma) is one of the main characters in Pokémon: Paldean Winds. He attends Naranja Academy.\n\n==History==\n \nIn Breathe Out, Hohma was first seen in class with Ohara and Aliquis as they discussed the first details of Naranja Academy's presentation video. Later, when he and Aliquis were recording a video, Hohma asked Ohara about her plans for the rest of the day, after getting excited about the idea, Hohma was interrupted by Aliquis.\n\nIn Breathe In, Hohma presented information about Nemona's victory over Aliquis on the Academy's news program. Later, Hohma tried to interview Aliquis about this battle, and Aliquis let slip that he would face Nemona again in battle. During the entire battle between Nemona and Aliquis, Hohma watched the battle alongside Ohara.\n\nIn Take a Breath,\n\nIn Breathe Together, Hohma helped his friends create the video for Naranja Academy, after talking about the result, Hohma revealed that he decided that he will write about the battles that Aliquis had with Nemona. Soon after, Hohma said goodbye to his friends and left Aliquis and Ohara in the classroom.\n\n==Character==\nHohma is a reckless student, who belongs in the school news department. \n==Pokémon==\n===On hand===\n \n\n===Traveling with===\n \n\n==Gallery==\n===Artwork===\n \n\n==Voice actors==\n \n\n==Names==\n \n\n==Trivia==\nHohma's Rotom Phone uses a Default Case.\n \n\n \n\nes:Omahr\nit:Ohma\nzh:荷马",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hohma (Japanese: ホーマ Hohma) is one of the main characters in Pokémon: Paldean Winds. He attends Naranja Academy."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "In Breathe Out, Hohma was first seen in class with Ohara and Aliquis as they discussed the first details of Naranja Academy's presentation video. Later, when he and Aliquis were recording a video, Hohma asked Ohara about her plans for the rest of the day, after getting excited about the idea, Hohma was interrupted by Aliquis.\n\nIn Breathe In, Hohma presented information about Nemona's victory over Aliquis on the Academy's news program. Later, Hohma tried to interview Aliquis about this battle, and Aliquis let slip that he would face Nemona again in battle. During the entire battle between Nemona and Aliquis, Hohma watched the battle alongside Ohara.\n\nIn Take a Breath,\n\nIn Breathe Together, Hohma helped his friends create the video for Naranja Academy, after talking about the result, Hohma revealed that he decided that he will write about the battles that Aliquis had with Nemona. Soon after, Hohma said goodbye to his friends and left Aliquis and Ohara in the classroom."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Hohma is a reckless student, who belongs in the school news department."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Hohma's Rotom Phone uses a Default Case.\n \n\n \n\nes:Omahr\nit:Ohma\nzh:荷马"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hohma",
+    "pageType": "character",
+    "searchableText": "Hohma\nCategory:Pokémon: Paldean Winds characters\nHohma (Japanese: ホーマ Hohma) is one of the main characters in Pokémon: Paldean Winds. He attends Naranja Academy.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Trivia"
+    ],
+    "characterCount": 1393,
+    "sectionCount": 4
+  }
+}

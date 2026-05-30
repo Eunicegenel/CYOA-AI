@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Brandon Barnes",
+    "slug": "brandon-barnes",
+    "pageId": 323475,
+    "revisionId": 4214659
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "brandon-barnes__323475.json",
+    "revisionTimestamp": "2025-01-03T15:59:06Z",
+    "fetchedAt": "2026-05-14T14:05:58.368Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Brandon Barnes (Japanese: ブレンダン・バーンズ Brandon Barnes) is a friend and butler of Sanjeev Denis in the game Detective Pikachu Returns.",
+  "plainText": "Brandon Barnes (Japanese: ブレンダン・バーンズ Brandon Barnes) is a friend and butler of Sanjeev Denis in the game Detective Pikachu Returns.\n\n==In the games==\n===Detective Pikachu Returns===\nBrandon is introduced at the start of the game during Tim's first major case investigating the theft of the Aurora Drop. Barnes is the butler of the Denis Residence, and a close friend to Sanjeev Denis, having known him before Sanjeev had met his wife Claudia. Barnes is suspected by the police and Brad as the primary culprit for the theft of the precious jewel as he would have had access to the key from Sanjeev's and had no alibi at the time of the incident. \n\nBarnes is later cleared after Tim and Pikachu's investigations implicate Larry, a newly appointed staff at the residence, as the thief of the Aurora Drop. \n\n===Personality and characteristics===\nBrandon is loyal to Sanjeev and appears to be a close confidant of Sanjeev, having known about Sanjeev's intentions to donate the Aurora Drop. It is noted that Barnes will often side with Sanjeev when mediating between Sanjeev and his wife Claudia. He is formal in his manner of speech, but can also be passionate when talking about his partner . \n\n===Pokémon===\nThis listing is of Brandon's known in the games:\n\n \n\n===Voice actors===\n \n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Brandon Barnes (Japanese: ブレンダン・バーンズ Brandon Barnes) is a friend and butler of Sanjeev Denis in the game Detective Pikachu Returns."
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Brandon is introduced at the start of the game during Tim's first major case investigating the theft of the Aurora Drop. Barnes is the butler of the Denis Residence, and a close friend to Sanjeev Denis, having known him before Sanjeev had met his wife Claudia. Barnes is suspected by the police and Brad as the primary culprit for the theft of the precious jewel as he would have had access to the key from Sanjeev's and had no alibi at the time of the incident. \n\nBarnes is later cleared after Tim and Pikachu's investigations implicate Larry, a newly appointed staff at the residence, as the thief of the Aurora Drop."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "Brandon is loyal to Sanjeev and appears to be a close confidant of Sanjeev, having known about Sanjeev's intentions to donate the Aurora Drop. It is noted that Barnes will often side with Sanjeev when mediating between Sanjeev and his wife Claudia. He is formal in his manner of speech, but can also be passionate when talking about his partner ."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Brandon's known in the games:"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Brandon Barnes",
+    "pageType": "character",
+    "searchableText": "Brandon Barnes\nCategory:Detective Pikachu Returns characters\nBrandon Barnes (Japanese: ブレンダン・バーンズ Brandon Barnes) is a friend and butler of Sanjeev Denis in the game Detective Pikachu Returns.",
+    "sectionHeadings": [
+      "Lead",
+      "Detective Pikachu Returns",
+      "Personality and characteristics",
+      "Pokémon"
+    ],
+    "characterCount": 1326,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Adventures volume 63",
+    "slug": "pokemon-adventures-volume-63",
+    "pageId": 275123,
+    "revisionId": 4315693
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-adventures-volume-63__275123.json",
+    "revisionTimestamp": "2025-06-04T02:12:55Z",
+    "fetchedAt": "2026-05-14T15:35:38.206Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 63 is the 63rd volume of the Pokémon Adventures manga. It is the second volume of the . It is authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.",
+  "plainText": "Volume 63 is the 63rd volume of the Pokémon Adventures manga. It is the second volume of the . It is authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.\n\n==Blurb==\n Under orders from Joseph Stone, president of the Devon Corporation, the nefarious Pokémon energy absorption plan continues to move forward. Already filled with unease, Sapphire and Emerald are inexplicably attacked by Zinnia, another Trainer.\n\nMeanwhile, can Ruby find the elusive Pokémon Rayquaza?! \n\n==Publications==\n \n \n \n \n \n \n \n \n\n==Chapters==\nChapter 602: Hoopa Distorts\nChapter 603: Slowbro Has an Idea\nChapter 604: Goodra Spits\nChapter 605: Swampert Smashes\nChapter 606: Diancie Shines\nChapter 607: Blastoise Transforms\nChapter 608: Groudon Returns\nChapter 609: Kyogre Returns\n\n==Gallery==\n \n\n \n\n \n \n\nde:Band 63 (Pocket Monsters SPECIAL)\nes:Tomo 63 (Pocket Monsters Special)\nfr:Tome 63 (Pocket Monsters Special)\nja:ポケットモンスターSPECIAL 第63巻\nzh:宝可梦特别篇63",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 63 is the 63rd volume of the Pokémon Adventures manga. It is the second volume of the . It is authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "Under orders from Joseph Stone, president of the Devon Corporation, the nefarious Pokémon energy absorption plan continues to move forward. Already filled with unease, Sapphire and Emerald are inexplicably attacked by Zinnia, another Trainer.\n\nMeanwhile, can Ruby find the elusive Pokémon Rayquaza?!"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 602: Hoopa Distorts\nChapter 603: Slowbro Has an Idea\nChapter 604: Goodra Spits\nChapter 605: Swampert Smashes\nChapter 606: Diancie Shines\nChapter 607: Blastoise Transforms\nChapter 608: Groudon Returns\nChapter 609: Kyogre Returns"
+    },
+    {
+      "heading": "Gallery",
+      "level": 2,
+      "text": "de:Band 63 (Pocket Monsters SPECIAL)\nes:Tomo 63 (Pocket Monsters Special)\nfr:Tome 63 (Pocket Monsters Special)\nja:ポケットモンスターSPECIAL 第63巻\nzh:宝可梦特别篇63"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Adventures volume 63",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Adventures volume 63\nCategory:Pokémon Adventures volumes\nVolume 63 is the 63rd volume of the Pokémon Adventures manga. It is the second volume of the . It is authored by Hidenori Kusaka and illustrated by Satoshi Yamamoto.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Gallery"
+    ],
+    "characterCount": 934,
+    "sectionCount": 4
+  }
+}

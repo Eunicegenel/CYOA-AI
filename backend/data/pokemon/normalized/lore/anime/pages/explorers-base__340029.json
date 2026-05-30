@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Explorers base",
+    "slug": "explorers-base",
+    "pageId": 340029,
+    "revisionId": 4524102
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "explorers-base__340029.json",
+    "revisionTimestamp": "2026-04-06T19:09:35Z",
+    "fetchedAt": "2026-05-14T14:18:43.918Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "This Explorers base is a location that appeared in Friends as Two, Me and You. It is located not far from Manpūku Town. Spinel held the Six Heroes captive at the base until they were transferred to an unknown location in order to prevent Liko and the others from finding them.",
+  "plainText": "This Explorers base is a location that appeared in Friends as Two, Me and You. It is located not far from Manpūku Town. Spinel held the Six Heroes captive at the base until they were transferred to an unknown location in order to prevent Liko and the others from finding them.\n\n==History==\n==Pokémon previously seen at the base==\n \n\n==Trivia==\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This Explorers base is a location that appeared in Friends as Two, Me and You. It is located not far from Manpūku Town. Spinel held the Six Heroes captive at the base until they were transferred to an unknown location in order to prevent Liko and the others from finding them."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Explorers base",
+    "pageType": "location",
+    "searchableText": "Explorers base\nCategory:Animated series-exclusive locations\nThis Explorers base is a location that appeared in Friends as Two, Me and You. It is located not far from Manpūku Town. Spinel held the Six Heroes captive at the base until they were transferred to an unknown location in order to prevent Liko and the others from finding them.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 364,
+    "sectionCount": 1
+  }
+}

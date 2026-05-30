@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Metallica Island",
+    "slug": "metallica-island",
+    "pageId": 70728,
+    "revisionId": 4261259
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "metallica-island__70728.json",
+    "revisionTimestamp": "2025-03-19T21:52:05Z",
+    "fetchedAt": "2026-05-14T14:36:31.904Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Metallica Island (Japanese: メタリカ島 Metallica Island) is an -exclusive location in the Kanto region. It is found between Cinnabar Island and the Seafoam Islands. It is home to the Battle Palace. \n\nThe island does contain its own Pokémon Center, but most of the island is a large forest where Spenser trains. It was featured in Cutting the Ties that Bind! and Ka Boom with a View!.",
+  "plainText": "Metallica Island (Japanese: メタリカ島 Metallica Island) is an -exclusive location in the Kanto region. It is found between Cinnabar Island and the Seafoam Islands. It is home to the Battle Palace. \n\nThe island does contain its own Pokémon Center, but most of the island is a large forest where Spenser trains. It was featured in Cutting the Ties that Bind! and Ka Boom with a View!.\n\n==Pokémon seen on Metallica Island==\n \n\n==In other languages==\n \n \n \n \n\n \n\nde:Metallinsel\nes:Isla Metálica\nit:Isola Metallica\nzh:金屬島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Metallica Island (Japanese: メタリカ島 Metallica Island) is an -exclusive location in the Kanto region. It is found between Cinnabar Island and the Seafoam Islands. It is home to the Battle Palace. \n\nThe island does contain its own Pokémon Center, but most of the island is a large forest where Spenser trains. It was featured in Cutting the Ties that Bind! and Ka Boom with a View!."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Metallinsel\nes:Isla Metálica\nit:Isola Metallica\nzh:金屬島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Metallica Island",
+    "pageType": "location",
+    "searchableText": "Metallica Island\nCategory:Animated series-exclusive locations\nMetallica Island (Japanese: メタリカ島 Metallica Island) is an -exclusive location in the Kanto region. It is found between Cinnabar Island and the Seafoam Islands. It is home to the Battle Palace. \n\nThe island does contain its own Pokémon Center, but most of the island is a large forest where Spenser trains. It was featured in Cutting the Ties that Bind! and Ka Boom with a View!.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 512,
+    "sectionCount": 2
+  }
+}

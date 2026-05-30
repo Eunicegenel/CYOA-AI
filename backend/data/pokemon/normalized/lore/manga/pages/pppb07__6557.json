@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PPPB07",
+    "slug": "pppb07",
+    "pageId": 6557,
+    "revisionId": 4131344
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "pppb07__6557.json",
+    "revisionTimestamp": "2024-09-29T04:17:25Z",
+    "fetchedAt": "2026-05-14T15:39:25.463Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Why, Psyduck, Why? (Japanese: なぜなぜ？コダックくん Why Why? -kun) is the seventh bonus chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Why, Psyduck, Why? (Japanese: なぜなぜ？コダックくん Why Why? -kun) is the seventh bonus chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nAt the river, Hazel gives , , and a basket of vegetables to wash. As they get started, they come across a , who offers his help. Charmander gives Psyduck a carrot to wash, but he begins to stress about why carrots are orange, raising his voice. His intensity scares Pikachu, causing it to drop the russet potatoes it was holding into the river. Psyduck apologizes and begins helping, but then stresses over why the potatoes have \"russet\" in their name. When Charmander asks what is wrong, Psyduck explains that he has a habit of asking questions about everything, which gives him headaches.\n\nAs Psyduck and the others continue washing the vegetables, Charmander points out the beauty of the sky, which causes Psyduck to question why the sky is blue. He develops a headache, then begins to exhibit a strange power. Pikachu, Clefairy, and Charmander frantically provide answers, but none of them satisfy Psyduck. As he continues to stress himself out, his power causes the water in the river to spiral into the air, sending some of it splashing near Charmander. This scares the fish in the river into swimming away, angering Almond, who is revealed to be fishing with nearby. \n\nThe Pokémon try to warn Almond about stressing Psyduck, but Psyduck soon stresses himself out by wondering why water puts out fire. His powers cause the earth to shake underneath everyone, prompting Almond to calm Psyduck by saying he will answer any questions he asks. A fish then hops out of the water, and Psyduck asks Almond why it did so. Almond cannot provide an answer, causing Psyduck to raise a massive wave from the river. As it is about to crash over everyone, Hazel suddenly enters the area. She easily answers Psyduck's question, claiming the fish jumped because it wanted to.\n\nLater that night, as the others sleep in their tents, Psyduck stresses himself out by wondering why Hazel knows everything.\n\n==Major events==\n \n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHazel\nAlmond\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n\n==Trivia==\nReal fish can be seen in the river.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Why, Psyduck, Why? (Japanese: なぜなぜ？コダックくん Why Why? -kun) is the seventh bonus chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "At the river, Hazel gives , , and a basket of vegetables to wash. As they get started, they come across a , who offers his help. Charmander gives Psyduck a carrot to wash, but he begins to stress about why carrots are orange, raising his voice. His intensity scares Pikachu, causing it to drop the russet potatoes it was holding into the river. Psyduck apologizes and begins helping, but then stresses over why the potatoes have \"russet\" in their name. When Charmander asks what is wrong, Psyduck explains that he has a habit of asking questions about everything, which gives him headaches.\n\nAs Psyduck and the others continue washing the vegetables, Charmander points out the beauty of the sky, which causes Psyduck to question why the sky is blue. He develops a headache, then begins to exhibit a strange power. Pikachu, Clefairy, and Charmander frantically provide answers, but none of them satisfy Psyduck. As he continues to stress himself out, his power causes the water in the river to spiral into the air, sending some of it splashing near Charmander. This scares the fish in the river into swimming away, angering Almond, who is revealed to be fishing with nearby. \n\nThe Pokémon try to warn Almond about stressing Psyduck, but Psyduck soon stresses himself out by wondering why water puts out fire. His powers cause the earth to shake underneath everyone, prompting Almond to calm Psyduck by saying he will answer any questions he asks. A fish then hops out of the water, and Psyduck asks Almond why it did so. Almond cannot provide an answer, causing Psyduck to raise a massive wave from the river. As it is about to crash over everyone, Hazel suddenly enters the area. She easily answers Psyduck's question, claiming the fish jumped because it wanted to.\n\nLater that night, as the others sleep in their tents, Psyduck stresses himself out by wondering why Hazel knows everything."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nAlmond"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Real fish can be seen in the river."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPPB07",
+    "pageType": "chapter",
+    "searchableText": "PPPB07\nCategory:Magical Pokémon Journey chapters\nWhy, Psyduck, Why? (Japanese: なぜなぜ？コダックくん Why Why? -kun) is the seventh bonus chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 2207,
+    "sectionCount": 5
+  }
+}

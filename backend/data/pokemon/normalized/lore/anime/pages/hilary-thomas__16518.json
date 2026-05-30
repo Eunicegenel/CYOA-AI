@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Hilary Thomas",
+    "slug": "hilary-thomas",
+    "pageId": 16518,
+    "revisionId": 4323409
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "hilary-thomas__16518.json",
+    "revisionTimestamp": "2025-06-24T03:29:41Z",
+    "fetchedAt": "2026-05-14T14:22:21.788Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Hilary Thomas is a non-binary voice actor and current producer for the English-language dub of .",
+  "plainText": "Hilary Thomas is a non-binary voice actor and current producer for the English-language dub of .\n\n==Biography==\nThomas is a native Oklahoman now residing in Seattle, working as a voice actor, assistant producer, project manager, and script writer. They hold a BA in Musical Theater from the University of Tulsa, and has performed in their home state with Light Opera Oklahoma, ATC, and Theater Tulsa. In NYC, they have originated roles with Polybe + Seats, and worked in a technical capacity with The Butane Group and NYU Tisch. They also voiced Despair and the First Lady of the United States in the 20th anniversary live reading of The Sandman, hosted by Neil Gaiman. An author as well, their debut novella Knave can be read in the anthology (re)Visions: Alice, published by Candlemark and Gleam.\n\nStarting with , Thomas took over the role of Script Adaptor from James Carter Cathcart alongside Barton Bishop and Rachel Robinson.\n\n==Pokémon roles==\nThomas joined when and TAJ Productions took over the dubbing and distribution of the series. Their most prominent roles are that of Anabel and Marian.\n===Animation===\n==== ====\n=====Humans=====\nAnabel\nMarian\nYolanda (AG177)\nJeannie\nBarbara \nMarris\nCher\n\n=====Pokémon=====\n(XY001)\n\n====Pokémon Mystery Dungeon: Team Go-Getters Out of the Gate!====\n\n===Musical appearances===\n(additional vocals)\n\n==Trivia==\nThomas was the first runner-up in the Big Apple Anime Fest's Anime Idol contest for voice-acting, losing to fellow TPCi cast member Michele Knotz.\n\n==External links==\nTwitter\nInstagram\n\n \n \n \n\nit:Hilary Thomas",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hilary Thomas is a non-binary voice actor and current producer for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Thomas is a native Oklahoman now residing in Seattle, working as a voice actor, assistant producer, project manager, and script writer. They hold a BA in Musical Theater from the University of Tulsa, and has performed in their home state with Light Opera Oklahoma, ATC, and Theater Tulsa. In NYC, they have originated roles with Polybe + Seats, and worked in a technical capacity with The Butane Group and NYU Tisch. They also voiced Despair and the First Lady of the United States in the 20th anniversary live reading of The Sandman, hosted by Neil Gaiman. An author as well, their debut novella Knave can be read in the anthology (re)Visions: Alice, published by Candlemark and Gleam.\n\nStarting with , Thomas took over the role of Script Adaptor from James Carter Cathcart alongside Barton Bishop and Rachel Robinson."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Thomas joined when and TAJ Productions took over the dubbing and distribution of the series. Their most prominent roles are that of Anabel and Marian."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Anabel\nMarian\nYolanda (AG177)\nJeannie\nBarbara \nMarris\nCher"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(XY001)"
+    },
+    {
+      "heading": "Musical appearances",
+      "level": 3,
+      "text": "(additional vocals)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Thomas was the first runner-up in the Big Apple Anime Fest's Anime Idol contest for voice-acting, losing to fellow TPCi cast member Michele Knotz."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nInstagram\n\n \n \n \n\nit:Hilary Thomas"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hilary Thomas",
+    "pageType": "general-anime-lore",
+    "searchableText": "Hilary Thomas\nCategory:TPCi voice actors\nHilary Thomas is a non-binary voice actor and current producer for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Pokémon roles",
+      "Humans",
+      "Pokémon",
+      "Musical appearances",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 1566,
+    "sectionCount": 8
+  }
+}

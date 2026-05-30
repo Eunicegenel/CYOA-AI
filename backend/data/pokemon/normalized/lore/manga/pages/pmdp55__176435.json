@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMDP55",
+    "slug": "pmdp55",
+    "pageId": 176435,
+    "revisionId": 4528591
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp55__176435.json",
+    "revisionTimestamp": "2026-04-09T16:29:34Z",
+    "fetchedAt": "2026-05-14T15:32:47.720Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 映画フィルムを取りもどせ！！ Take Back the Movie Film!!) is the fifty-fifth chapter of the manga.",
+  "plainText": "(Japanese: 映画フィルムを取りもどせ！！ Take Back the Movie Film!!) is the fifty-fifth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Rowan\nLooker\nTeam Galactic\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 映画フィルムを取りもどせ！！ Take Back the Movie Film!!) is the fifty-fifth chapter of the manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Rowan\nLooker\nTeam Galactic"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP55",
+    "pageType": "chapter",
+    "searchableText": "PMDP55\nCategory:Pocket Monsters DP chapters\n(Japanese: 映画フィルムを取りもどせ！！ Take Back the Movie Film!!) is the fifty-fifth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 256,
+    "sectionCount": 3
+  }
+}

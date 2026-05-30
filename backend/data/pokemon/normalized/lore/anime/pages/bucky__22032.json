@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Bucky",
+    "slug": "bucky",
+    "pageId": 22032,
+    "revisionId": 4333473
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "bucky__22032.json",
+    "revisionTimestamp": "2025-07-09T16:28:39Z",
+    "fetchedAt": "2026-05-14T14:06:27.887Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Bucky (Japanese: キイチ Kiichi) is a character of the day who appeared in The Dunsparce Deception.\n\nHe is a young boy who lives in Johto, in a small town between Ecruteak City and Olivine City. Bucky dreamed of a . However, he missed out on his chance to catch one when he was out of town, when a swarm of Dunsparce came through the area. All of his friends caught a Dunsparce during that time, Bucky ultimately being the only one who didn't get one.\n\nWhen and heard about this, they decided to help Bucky out by searching for a Dunsparce. Eventually, one turned up. Bucky, using his , battled the Pokémon and successfully weakened it. He threw his and caught it, leaving him very happy.",
+  "plainText": "Bucky (Japanese: キイチ Kiichi) is a character of the day who appeared in The Dunsparce Deception.\n\nHe is a young boy who lives in Johto, in a small town between Ecruteak City and Olivine City. Bucky dreamed of a . However, he missed out on his chance to catch one when he was out of town, when a swarm of Dunsparce came through the area. All of his friends caught a Dunsparce during that time, Bucky ultimately being the only one who didn't get one.\n\nWhen and heard about this, they decided to help Bucky out by searching for a Dunsparce. Eventually, one turned up. Bucky, using his , battled the Pokémon and successfully weakened it. He threw his and caught it, leaving him very happy.\n\n==Pokémon==\n \n \n \n\n==Voice actors==\n \n\n \n\n \n \n \n\nes:Bucky\nfr:Bucky\nit:Bucky",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bucky (Japanese: キイチ Kiichi) is a character of the day who appeared in The Dunsparce Deception.\n\nHe is a young boy who lives in Johto, in a small town between Ecruteak City and Olivine City. Bucky dreamed of a . However, he missed out on his chance to catch one when he was out of town, when a swarm of Dunsparce came through the area. All of his friends caught a Dunsparce during that time, Bucky ultimately being the only one who didn't get one.\n\nWhen and heard about this, they decided to help Bucky out by searching for a Dunsparce. Eventually, one turned up. Bucky, using his , battled the Pokémon and successfully weakened it. He threw his and caught it, leaving him very happy."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Bucky\nfr:Bucky\nit:Bucky"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bucky",
+    "pageType": "character",
+    "searchableText": "Bucky\nCategory:Johto characters of the day\nBucky (Japanese: キイチ Kiichi) is a character of the day who appeared in The Dunsparce Deception.\n\nHe is a young boy who lives in Johto, in a small town between Ecruteak City and Olivine City. Bucky dreamed of a . However, he missed out on his chance to catch one when he was out of town, when a swarm of Dunsparce came through the area. All of his friends caught a Dunsparce during that time, Bucky ultimately being the only one who didn't get one.\n\nWhen and heard about this, they decided to help Bucky out by searching for a Dunsparce. Eventually, one turned up. Bucky, using his , battled the Pokémon and successfully weakened it. He threw his and caught it, leaving him very happy.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 761,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP64",
+    "slug": "ppp64",
+    "pageId": 6648,
+    "revisionId": 4527717
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp64__6648.json",
+    "revisionTimestamp": "2026-04-09T15:50:50Z",
+    "fetchedAt": "2026-05-14T15:39:16.774Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Coconut's Love Waltz (Part 2) (Japanese: ココナッツのラブ・ウォーズ (後編) Coconut's Love Wars (Part 2)) is the sixty-fourth chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Coconut's Love Waltz (Part 2) (Japanese: ココナッツのラブ・ウォーズ (後編) Coconut's Love Wars (Part 2)) is the sixty-fourth chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nKiaraway is such a cad -- how dare he kiss Coconut on the lips so soon after meeting?! In her frustration, will she be able to successfully complete her experiment, or will she be packing her bags?\n\n==Important characters and Pokémon==\nCoconut\n\nKiaraway\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Coconut's Love Waltz (Part 2) (Japanese: ココナッツのラブ・ウォーズ (後編) Coconut's Love Wars (Part 2)) is the sixty-fourth chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Kiaraway is such a cad -- how dare he kiss Coconut on the lips so soon after meeting?! In her frustration, will she be able to successfully complete her experiment, or will she be packing her bags?"
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Coconut\n\nKiaraway"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP64",
+    "pageType": "chapter",
+    "searchableText": "PPP64\nCategory:Magical Pokémon Journey chapters\nCoconut's Love Waltz (Part 2) (Japanese: ココナッツのラブ・ウォーズ (後編) Coconut's Love Wars (Part 2)) is the sixty-fourth chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon"
+    ],
+    "characterCount": 472,
+    "sectionCount": 3
+  }
+}

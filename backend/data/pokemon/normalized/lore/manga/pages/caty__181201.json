@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Caty",
+    "slug": "caty",
+    "pageId": 181201,
+    "revisionId": 4130773
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure characters",
+    "sourceFileName": "caty__181201.json",
+    "revisionTimestamp": "2024-09-29T03:52:39Z",
+    "fetchedAt": "2026-05-14T15:15:02.769Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: キャティ Caty) is a main character from the Pokémon Try Adventure manga. She is a friend of Katsuya who becomes his traveling companion.",
+  "plainText": "(Japanese: キャティ Caty) is a main character from the Pokémon Try Adventure manga. She is a friend of Katsuya who becomes his traveling companion.\n\n==Character==\nCaty is a master of disguises, as shown when she disguised herself as a man and several Pokémon including , and \n\n==History==\nCaty was disguised as a man who was lying on a . After Katsuya and his Pokémon rescued her, she revealed her disguise to them. Caty then decides to join the group. She tells the group about a volcano called Meragura Volcano and they follow her there.\n\nAfter dealing with a group of Pokémon blocking their way, Caty and friends finally arrived at Meragura Volcano, where some local villagers run up to her and her friends. Caty calms one of them down, then explains to her friends about the interior of the volcano. She stays behind as the three boys go inside the volcano. After they dealt with the lava inside, Caty and her friends get praised by the villagers for doing so. They then wave their farewells to the villagers.\n\nCaty then went to a daycare, where later her friends stopped by and picked her up. Before they left, a little girl tells Caty that her was trapped in a basement barracaded by some wood. Toki and his Pokémon help Caty and the girl with the task of rescuing the Eevee. She and Toki then rejoin Katsuya and Soro as Soro ended up acquiring a .\n\nLater, Caty goes with her friends to a mythical land. As a , , and attacked the three pillars with their attacks, Caty and the others were sent to the desert. Caty ended up going with Toki as the group split up. After reuniting, she and Toki noticed that Katsuya and Soro were drenched in water.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: キャティ Caty) is a main character from the Pokémon Try Adventure manga. She is a friend of Katsuya who becomes his traveling companion."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Caty is a master of disguises, as shown when she disguised herself as a man and several Pokémon including , and"
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Caty was disguised as a man who was lying on a . After Katsuya and his Pokémon rescued her, she revealed her disguise to them. Caty then decides to join the group. She tells the group about a volcano called Meragura Volcano and they follow her there.\n\nAfter dealing with a group of Pokémon blocking their way, Caty and friends finally arrived at Meragura Volcano, where some local villagers run up to her and her friends. Caty calms one of them down, then explains to her friends about the interior of the volcano. She stays behind as the three boys go inside the volcano. After they dealt with the lava inside, Caty and her friends get praised by the villagers for doing so. They then wave their farewells to the villagers.\n\nCaty then went to a daycare, where later her friends stopped by and picked her up. Before they left, a little girl tells Caty that her was trapped in a basement barracaded by some wood. Toki and his Pokémon help Caty and the girl with the task of rescuing the Eevee. She and Toki then rejoin Katsuya and Soro as Soro ended up acquiring a .\n\nLater, Caty goes with her friends to a mythical land. As a , , and attacked the three pillars with their attacks, Caty and the others were sent to the desert. Caty ended up going with Toki as the group split up. After reuniting, she and Toki noticed that Katsuya and Soro were drenched in water."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Caty",
+    "pageType": "character",
+    "searchableText": "Caty\nCategory:Pokémon Try Adventure characters\n(Japanese: キャティ Caty) is a main character from the Pokémon Try Adventure manga. She is a friend of Katsuya who becomes his traveling companion.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History"
+    ],
+    "characterCount": 1647,
+    "sectionCount": 3
+  }
+}

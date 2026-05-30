@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Charlene",
+    "slug": "charlene",
+    "pageId": 207635,
+    "revisionId": 4143923
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Gym assistants",
+    "sourceFileName": "charlene__207635.json",
+    "revisionTimestamp": "2024-10-12T01:18:08Z",
+    "fetchedAt": "2026-05-14T14:09:12.793Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Charlene (Japanese: シェリル Sheryl) is a recurring character in Pokémon the Series: XY. She is a and an apprentice of Olympia. She appears to be of a higher rank compared to all of them, assisting Olympia with leading her meditation sessions.",
+  "plainText": "Charlene (Japanese: シェリル Sheryl) is a recurring character in Pokémon the Series: XY. She is a and an apprentice of Olympia. She appears to be of a higher rank compared to all of them, assisting Olympia with leading her meditation sessions.\n\n==History==\nCharlene first appeared in Cloudy Fate, Bright Future!. She, along with other apprentices present, witnessed Olympia have a vision of an impending crisis in Kalos, involving , , and .\n\nShortly after another apprentice, , attacked Ash's group, Charlene joined Olympia in stopping her. Charlene scolded Carrie for her recklessness, pointing out that it was not the first time Carrie had jumped to incorrect conclusions from Olympia's visions. While Olympia was talking to the group, Carrie asked her if Ash and his friends were the ones who had brought danger to Kalos. Charlene informed her that Olympia never said they would bring danger to everyone in Kalos, for she said that they would be trapped within the vortex of the disaster. Charlene later joined the group to witness attempting to steal Anistar City's sundial, and she became worried about the damage they would inflict.\n\nCharlene reappeared in All Eyes on the Future!, where she refereed the Gym battle between Ash and Olympia.\n\n==Character==\nCharlene is a good co-leader to the other Psychics, as she was seen leading the meditation sessions. However, Charlene did not appreciate Carrie's recklessness, noting that it was becoming a bad habit and that it wasn't the first time it led to a misunderstanding.\n\n==Voice actors==\n \n \n\n \n \n \n \n\nes:Charlene\nit:Carina\nzh:雪瑞儿",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Charlene (Japanese: シェリル Sheryl) is a recurring character in Pokémon the Series: XY. She is a and an apprentice of Olympia. She appears to be of a higher rank compared to all of them, assisting Olympia with leading her meditation sessions."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Charlene first appeared in Cloudy Fate, Bright Future!. She, along with other apprentices present, witnessed Olympia have a vision of an impending crisis in Kalos, involving , , and .\n\nShortly after another apprentice, , attacked Ash's group, Charlene joined Olympia in stopping her. Charlene scolded Carrie for her recklessness, pointing out that it was not the first time Carrie had jumped to incorrect conclusions from Olympia's visions. While Olympia was talking to the group, Carrie asked her if Ash and his friends were the ones who had brought danger to Kalos. Charlene informed her that Olympia never said they would bring danger to everyone in Kalos, for she said that they would be trapped within the vortex of the disaster. Charlene later joined the group to witness attempting to steal Anistar City's sundial, and she became worried about the damage they would inflict.\n\nCharlene reappeared in All Eyes on the Future!, where she refereed the Gym battle between Ash and Olympia."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Charlene is a good co-leader to the other Psychics, as she was seen leading the meditation sessions. However, Charlene did not appreciate Carrie's recklessness, noting that it was becoming a bad habit and that it wasn't the first time it led to a misunderstanding."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Charlene\nit:Carina\nzh:雪瑞儿"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Charlene",
+    "pageType": "general-anime-lore",
+    "searchableText": "Charlene\nCategory:Gym assistants\nCharlene (Japanese: シェリル Sheryl) is a recurring character in Pokémon the Series: XY. She is a and an apprentice of Olympia. She appears to be of a higher rank compared to all of them, assisting Olympia with leading her meditation sessions.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Voice actors"
+    ],
+    "characterCount": 1583,
+    "sectionCount": 4
+  }
+}

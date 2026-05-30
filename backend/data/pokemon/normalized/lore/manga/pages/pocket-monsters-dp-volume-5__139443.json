@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters DP volume 5",
+    "slug": "pocket-monsters-dp-volume-5",
+    "pageId": 139443,
+    "revisionId": 4526909
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP volumes",
+    "sourceFileName": "pocket-monsters-dp-volume-5__139443.json",
+    "revisionTimestamp": "2026-04-09T15:11:37Z",
+    "fetchedAt": "2026-05-14T15:34:19.003Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 5 is the fifth and final volume of the manga created by Kosaku Anakubo.",
+  "plainText": "Volume 5 is the fifth and final volume of the manga created by Kosaku Anakubo.\n\n==Publications==\n \n \n \n\n==Chapters==\nClefairy's Out of Control Circus!!\nTyrogue's Big Scoop!?\nLost Tower Terror!!\nFierce Fighting? Tanning Contest!!\nA Farce! Milk Competition!!\nThe Grand Battle for Water!!\nTake Back the Movie Film!!\nEntry into the Robot Competition! Cleaning Battle!\nValentine Tragedy!?\nSerious Battle with a Rich Boy!!\nThe Master Plan to Stop Runny Noses!\nUncover the Secret of the Rigged Slots!!\n\n \n\n \n\nzh:宝可梦欢乐祭 钻石・珍珠篇5",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 5 is the fifth and final volume of the manga created by Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Clefairy's Out of Control Circus!!\nTyrogue's Big Scoop!?\nLost Tower Terror!!\nFierce Fighting? Tanning Contest!!\nA Farce! Milk Competition!!\nThe Grand Battle for Water!!\nTake Back the Movie Film!!\nEntry into the Robot Competition! Cleaning Battle!\nValentine Tragedy!?\nSerious Battle with a Rich Boy!!\nThe Master Plan to Stop Runny Noses!\nUncover the Secret of the Rigged Slots!!\n\n \n\n \n\nzh:宝可梦欢乐祭 钻石・珍珠篇5"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters DP volume 5",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters DP volume 5\nCategory:Pocket Monsters DP volumes\nVolume 5 is the fifth and final volume of the manga created by Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 519,
+    "sectionCount": 2
+  }
+}

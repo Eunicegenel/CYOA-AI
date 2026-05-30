@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Happy Town",
+    "slug": "happy-town",
+    "pageId": 31834,
+    "revisionId": 4261250
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "happy-town__31834.json",
+    "revisionTimestamp": "2025-03-19T21:51:51Z",
+    "fetchedAt": "2026-05-14T14:21:51.001Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Happy Town (Japanese: ハッピータウン Happy Town) is an -exclusive town located in Johto. It is located between Cherrygrove City and Violet City.\n\nShortly before entering Violet City, and needed a place to stay for the night, and they decided to spend the night in Happy Town's Pokémon Center. While there, they learned that this Pokémon Center had a in charge of operations instead of the usual . As it turned out, this Blissey was an old friend of Jessie's, since the two had gone to Pokémon Nurse School together.",
+  "plainText": "Happy Town (Japanese: ハッピータウン Happy Town) is an -exclusive town located in Johto. It is located between Cherrygrove City and Violet City.\n\nShortly before entering Violet City, and needed a place to stay for the night, and they decided to spend the night in Happy Town's Pokémon Center. While there, they learned that this Pokémon Center had a in charge of operations instead of the usual . As it turned out, this Blissey was an old friend of Jessie's, since the two had gone to Pokémon Nurse School together.\n==In other languages==\n \n \n \n \n\n \n\nde:Glücklich-Stadt\nes:Villa Feliz\nit:Happy Town\nzh:快乐镇",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Happy Town (Japanese: ハッピータウン Happy Town) is an -exclusive town located in Johto. It is located between Cherrygrove City and Violet City.\n\nShortly before entering Violet City, and needed a place to stay for the night, and they decided to spend the night in Happy Town's Pokémon Center. While there, they learned that this Pokémon Center had a in charge of operations instead of the usual . As it turned out, this Blissey was an old friend of Jessie's, since the two had gone to Pokémon Nurse School together."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Glücklich-Stadt\nes:Villa Feliz\nit:Happy Town\nzh:快乐镇"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Happy Town",
+    "pageType": "location",
+    "searchableText": "Happy Town\nCategory:Animated series-exclusive locations\nHappy Town (Japanese: ハッピータウン Happy Town) is an -exclusive town located in Johto. It is located between Cherrygrove City and Violet City.\n\nShortly before entering Violet City, and needed a place to stay for the night, and they decided to spend the night in Happy Town's Pokémon Center. While there, they learned that this Pokémon Center had a in charge of operations instead of the usual . As it turned out, this Blissey was an old friend of Jessie's, since the two had gone to Pokémon Nurse School together.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 598,
+    "sectionCount": 2
+  }
+}

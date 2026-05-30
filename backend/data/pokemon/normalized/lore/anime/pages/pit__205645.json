@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pit",
+    "slug": "pit",
+    "pageId": 205645,
+    "revisionId": 4096112
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kalos characters of the day",
+    "sourceFileName": "pit__205645.json",
+    "revisionTimestamp": "2024-09-01T00:50:25Z",
+    "fetchedAt": "2026-05-14T14:41:57.678Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Pit (Japanese: ビット Bit) is a character of the day who appeared in Hoopa — The Mischief Pokémon. He lives in Arche Valley and is a childhood friend of Baraz and Meray. \n\nHe grew up with Baraz, Meray, , Lucianne and Kevie. One day, he and his friends tried to help Old Man Dom by having Hoopa make rain appear to stop the drought. This didn't work however, as Hoopa misunderstood and let it rain candy from Mira's store instead. They were punished for this by and had to help her make donuts.\n\nThey later got in even more trouble when they accidentally broke an ivory statue treasured by Mira. When Mira was about to discover this, Kevie asked Pit to buy them some time. He managed to stop her from discovering what they did, and they tried to glue the statue. They weren't able to make it look like it did before however. Mira ultimately discovered this, but she wasn't mad at them as they had done their best to repair it. Afterwards they all enjoyed the donuts they made together.",
+  "plainText": "Pit (Japanese: ビット Bit) is a character of the day who appeared in Hoopa — The Mischief Pokémon. He lives in Arche Valley and is a childhood friend of Baraz and Meray. \n\nHe grew up with Baraz, Meray, , Lucianne and Kevie. One day, he and his friends tried to help Old Man Dom by having Hoopa make rain appear to stop the drought. This didn't work however, as Hoopa misunderstood and let it rain candy from Mira's store instead. They were punished for this by and had to help her make donuts.\n\nThey later got in even more trouble when they accidentally broke an ivory statue treasured by Mira. When Mira was about to discover this, Kevie asked Pit to buy them some time. He managed to stop her from discovering what they did, and they tried to glue the statue. They weren't able to make it look like it did before however. Mira ultimately discovered this, but she wasn't mad at them as they had done their best to repair it. Afterwards they all enjoyed the donuts they made together.\n\n==Voice actors==\n \n\n \n\n \n \n \n\nes:Pit\nit:Pit\nzh:皮特",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pit (Japanese: ビット Bit) is a character of the day who appeared in Hoopa — The Mischief Pokémon. He lives in Arche Valley and is a childhood friend of Baraz and Meray. \n\nHe grew up with Baraz, Meray, , Lucianne and Kevie. One day, he and his friends tried to help Old Man Dom by having Hoopa make rain appear to stop the drought. This didn't work however, as Hoopa misunderstood and let it rain candy from Mira's store instead. They were punished for this by and had to help her make donuts.\n\nThey later got in even more trouble when they accidentally broke an ivory statue treasured by Mira. When Mira was about to discover this, Kevie asked Pit to buy them some time. He managed to stop her from discovering what they did, and they tried to glue the statue. They weren't able to make it look like it did before however. Mira ultimately discovered this, but she wasn't mad at them as they had done their best to repair it. Afterwards they all enjoyed the donuts they made together."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Pit\nit:Pit\nzh:皮特"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pit",
+    "pageType": "character",
+    "searchableText": "Pit\nCategory:Kalos characters of the day\nPit (Japanese: ビット Bit) is a character of the day who appeared in Hoopa — The Mischief Pokémon. He lives in Arche Valley and is a childhood friend of Baraz and Meray. \n\nHe grew up with Baraz, Meray, , Lucianne and Kevie. One day, he and his friends tried to help Old Man Dom by having Hoopa make rain appear to stop the drought. This didn't work however, as Hoopa misunderstood and let it rain candy from Mira's store instead. They were punished for this by and had to help her make donuts.\n\nThey later got in even more trouble when they accidentally broke an ivory statue treasured by Mira. When Mira was about to discover this, Kevie asked Pit to buy them some time. He managed to stop her from discovering what they did, and they tried to glue the statue. They weren't able to make it look like it did before however. Mira ultimately discovered this, but she wasn't mad at them as they had done their best to repair it. Afterwards they all enjoyed the donuts they made together.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 1032,
+    "sectionCount": 2
+  }
+}

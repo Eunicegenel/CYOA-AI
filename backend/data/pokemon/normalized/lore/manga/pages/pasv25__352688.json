@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PASV25",
+    "slug": "pasv25",
+    "pageId": 352688,
+    "revisionId": 4511081
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasv25__352688.json",
+    "revisionTimestamp": "2026-03-17T20:00:47Z",
+    "fetchedAt": "2026-05-14T15:29:22.675Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 決戦！ロースト砂漠の戦い！！ Decisive Battle! Battle in !!) is the 25th chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS ツノワダチ 後編 VS Part Two).",
+  "plainText": "(Japanese: 決戦！ロースト砂漠の戦い！！ Decisive Battle! Battle in !!) is the 25th chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS ツノワダチ 後編 VS Part Two).\n\n==Plot==\n \n\n==Major events==\n's evolves into a . \nWith help from Kofu and Saguaro, and Arven defeat and and find the Sour Herba Mystica.\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n(flashback)\n\nIono (flashback)\nKofu\nLarry\nRika\nPoppy\nHassel\nGeeta\nSaguaro\nRaifort\n\n===Pokémon===\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n(Rotom Phone; Old Roto; 's)\n( 's)\n( 's; evolves)\n( 's; newly evolved)\n(Kofu's)\n(Kofu's; debut)\n(Saguaro's)\n( )\n( )\n( ; flashback)\n \n \n \n\nde:Kapitel 25 (Karmesin und Purpur Arc)\nes:PMSSV25\nfr:Chapitre 25 (Pocket Monsters Special Écarlate et Violet)\nzh:宝可梦特别篇 朱·紫篇 第18话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 決戦！ロースト砂漠の戦い！！ Decisive Battle! Battle in !!) is the 25th chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS ツノワダチ 後編 VS Part Two)."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "'s evolves into a . \nWith help from Kofu and Saguaro, and Arven defeat and and find the Sour Herba Mystica."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(flashback)\n\nIono (flashback)\nKofu\nLarry\nRika\nPoppy\nHassel\nGeeta\nSaguaro\nRaifort"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's)\n( 's)\n( 's)\n( 's)\n(Rotom Phone; Old Roto; 's)\n( 's)\n( 's; evolves)\n( 's; newly evolved)\n(Kofu's)\n(Kofu's; debut)\n(Saguaro's)\n( )\n( )\n( ; flashback)\n \n \n \n\nde:Kapitel 25 (Karmesin und Purpur Arc)\nes:PMSSV25\nfr:Chapitre 25 (Pocket Monsters Special Écarlate et Violet)\nzh:宝可梦特别篇 朱·紫篇 第18话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASV25",
+    "pageType": "chapter",
+    "searchableText": "PASV25\nCategory:Pokémon Adventures chapters\n(Japanese: 決戦！ロースト砂漠の戦い！！ Decisive Battle! Battle in !!) is the 25th chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS ツノワダチ 後編 VS Part Two).",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 771,
+    "sectionCount": 4
+  }
+}

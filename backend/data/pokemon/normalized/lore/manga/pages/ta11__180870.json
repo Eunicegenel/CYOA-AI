@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "TA11",
+    "slug": "ta11",
+    "pageId": 180870,
+    "revisionId": 4549389
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta11__180870.json",
+    "revisionTimestamp": "2026-05-11T01:52:08Z",
+    "fetchedAt": "2026-05-14T15:50:38.984Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 海で宝探し！ Treasure Hunt in the Sea!) is the 11th chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 海で宝探し！ Treasure Hunt in the Sea!) is the 11th chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\nMister Crow\n\n===Pokémon===\n(Chacha; Katsuya's)\n(Soro's)\n(Kamaru; Toki's)\n(Mister Crow's)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 海で宝探し！ Treasure Hunt in the Sea!) is the 11th chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty\nMister Crow"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Chacha; Katsuya's)\n(Soro's)\n(Kamaru; Toki's)\n(Mister Crow's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA11",
+    "pageType": "chapter",
+    "searchableText": "TA11\nCategory:Pokémon Try Adventure chapters\n(Japanese: 海で宝探し！ Treasure Hunt in the Sea!) is the 11th chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 333,
+    "sectionCount": 3
+  }
+}

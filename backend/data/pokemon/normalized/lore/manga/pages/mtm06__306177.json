@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "MTM06",
+    "slug": "mtm06",
+    "pageId": 306177,
+    "revisionId": 4169321
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mezastar: Aim to Be a Tag Master! chapters",
+    "sourceFileName": "mtm06__306177.json",
+    "revisionTimestamp": "2024-10-27T20:46:47Z",
+    "fetchedAt": "2026-05-14T15:27:15.996Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the sixth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the September 2021 issue of CoroCoro Ichiban!, released on July 21, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.",
+  "plainText": "This is the sixth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the September 2021 issue of CoroCoro Ichiban!, released on July 21, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.\n\n==Plot==\n \n \n \n\n==Major events==\n===Debuts===\n====Humans====\n\n==Characters==\n===Humans===\nKira Hoshio\nSuguru Tsukino\nDouji Futakata\nKira's mom (flashback)\nPokémon Mezastar players\n\n==Tags featured==\n \nSolgaleo (2-1-001)\nCopperajah (2-1-020)\n \n\n==Trivia==\n \nThis chapter was published in an extra book of the CoroCoro Ichiban! September 2021 issue titled (Japanese: ポケモンメザスタ　スーパータッグ１だん超攻略ＢＯＯＫ！). \n\n==References==\n \n\n==External links==\nChapter 6 on Weekly CoroCoro Comics\nChapter 6 on CoroCoro Online",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the sixth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the September 2021 issue of CoroCoro Ichiban!, released on July 21, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kira Hoshio\nSuguru Tsukino\nDouji Futakata\nKira's mom (flashback)\nPokémon Mezastar players"
+    },
+    {
+      "heading": "Tags featured",
+      "level": 2,
+      "text": "Solgaleo (2-1-001)\nCopperajah (2-1-020)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This chapter was published in an extra book of the CoroCoro Ichiban! September 2021 issue titled (Japanese: ポケモンメザスタ　スーパータッグ１だん超攻略ＢＯＯＫ！)."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 6 on Weekly CoroCoro Comics\nChapter 6 on CoroCoro Online"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MTM06",
+    "pageType": "chapter",
+    "searchableText": "MTM06\nCategory:Pokémon Mezastar: Aim to Be a Tag Master! chapters\nThis is the sixth chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the September 2021 issue of CoroCoro Ichiban!, released on July 21, 2021. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Tags featured",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 813,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "P7-05",
+    "slug": "p7-05",
+    "pageId": 117313,
+    "revisionId": 4351945
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Phantom Thief Pokémon 7 chapters",
+    "sourceFileName": "p7-05__117313.json",
+    "revisionTimestamp": "2025-08-03T17:49:24Z",
+    "fetchedAt": "2026-05-14T15:28:04.395Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Escape From Team Galactic (Japanese: ギンガ団からの救出 Escape from the ) is the fifth chapter of the Phantom Thief Pokémon 7 manga.",
+  "plainText": "Escape From Team Galactic (Japanese: ギンガ団からの救出 Escape from the ) is the fifth chapter of the Phantom Thief Pokémon 7 manga.\n\n==Plot==\n \n\n==Major events==\nHiori reveals what happened to his sister.\nHiori and Rocco are attacked by a .\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n(Hiori's)\n\n==Characters==\n===Humans===\nHiori\nNazuna\nRocco\nLily\n\n===Pokémon===\n( ; flashback)\n( )\n( 's)\n\n \n \n \n \n\nes:PT7-05\nit:P7-05\nzh:快盗！宝可梦７ 第5话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Escape From Team Galactic (Japanese: ギンガ団からの救出 Escape from the ) is the fifth chapter of the Phantom Thief Pokémon 7 manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hiori reveals what happened to his sister.\nHiori and Rocco are attacked by a ."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Hiori's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hiori\nNazuna\nRocco\nLily"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; flashback)\n( )\n( 's)\n\n \n \n \n \n\nes:PT7-05\nit:P7-05\nzh:快盗！宝可梦７ 第5话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "P7-05",
+    "pageType": "chapter",
+    "searchableText": "P7-05\nCategory:Phantom Thief Pokémon 7 chapters\nEscape From Team Galactic (Japanese: ギンガ団からの救出 Escape from the ) is the fifth chapter of the Phantom Thief Pokémon 7 manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 432,
+    "sectionCount": 5
+  }
+}

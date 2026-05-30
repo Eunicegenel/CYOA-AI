@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM069",
+    "slug": "pm069",
+    "pageId": 160581,
+    "revisionId": 4526701
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm069__160581.json",
+    "revisionTimestamp": "2026-04-09T15:02:40Z",
+    "fetchedAt": "2026-05-14T15:31:13.097Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Demanding Tests at the Pokémon School! (Japanese: 超難関！ポケモン塾 Super Barrier! Pokémon Cramming School) is the sixty-ninth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Demanding Tests at the Pokémon School! (Japanese: 超難関！ポケモン塾 Super Barrier! Pokémon Cramming School) is the sixty-ninth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nEarl\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nEarl\nEarl's assistant\nStudents\n\n===Pokémon===\n( ) \n( )\n( )\n(evolves)\n(newly evolved)\n\n==Trivia==\n\n \n \n\nde:Kapitel 69 (Pokémon Pocket Monsters)\nit:PMM069",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Demanding Tests at the Pokémon School! (Japanese: 超難関！ポケモン塾 Super Barrier! Pokémon Cramming School) is the sixty-ninth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Earl"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Earl\nEarl's assistant\nStudents"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(evolves)\n(newly evolved)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 69 (Pokémon Pocket Monsters)\nit:PMM069"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM069",
+    "pageType": "chapter",
+    "searchableText": "PM069\nCategory:Pokémon Pocket Monsters chapters\nDemanding Tests at the Pokémon School! (Japanese: 超難関！ポケモン塾 Super Barrier! Pokémon Cramming School) is the sixty-ninth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 435,
+    "sectionCount": 5
+  }
+}

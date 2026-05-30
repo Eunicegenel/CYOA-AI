@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Sara Ornelas",
+    "slug": "sara-ornelas",
+    "pageId": 239135,
+    "revisionId": 4323412
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "sara-ornelas__239135.json",
+    "revisionTimestamp": "2025-06-24T03:29:49Z",
+    "fetchedAt": "2026-05-14T14:48:23.455Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Sara Ornelas is a voice actress for the English-language dub of .",
+  "plainText": "Sara Ornelas is a voice actress for the English-language dub of .\n\n==Biography==\nOrnelas was born in Texas and became a voice actress as an adult. She joined the during , where she voiced minor recurring character Yansu. She later started voicing Mallow's mother. Ornelas is currently affiliated with Sentai Filmworks.\n\n==Pokémon roles==\n===Animation===\n==== ====\nYansu\nMallow's mother\n\n==Other non-Pokémon roles==\nYui Inami ( )\nNana Ebina ( )\nVarious characters ( )\nKurumi Isoshima ( )\nStephanie Dola ( )\nHatsu, additional voices ( )\nElbia Hanaiman ( )\nMiyake ( )\nShinako Kobato ( )\n\n==External links==\nAnime Planet\nTwitter\nInstagram\nOfficial website\n\n \n \n\nit:Sara Ornelas",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sara Ornelas is a voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Ornelas was born in Texas and became a voice actress as an adult. She joined the during , where she voiced minor recurring character Yansu. She later started voicing Mallow's mother. Ornelas is currently affiliated with Sentai Filmworks."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Yansu\nMallow's mother"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Yui Inami ( )\nNana Ebina ( )\nVarious characters ( )\nKurumi Isoshima ( )\nStephanie Dola ( )\nHatsu, additional voices ( )\nElbia Hanaiman ( )\nMiyake ( )\nShinako Kobato ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anime Planet\nTwitter\nInstagram\nOfficial website\n\n \n \n\nit:Sara Ornelas"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sara Ornelas",
+    "pageType": "general-anime-lore",
+    "searchableText": "Sara Ornelas\nCategory:TPCi voice actors\nSara Ornelas is a voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 673,
+    "sectionCount": 5
+  }
+}

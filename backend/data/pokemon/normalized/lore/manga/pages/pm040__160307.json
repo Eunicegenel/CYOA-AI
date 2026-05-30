@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM040",
+    "slug": "pm040",
+    "pageId": 160307,
+    "revisionId": 4527671
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm040__160307.json",
+    "revisionTimestamp": "2026-04-09T15:46:33Z",
+    "fetchedAt": "2026-05-14T15:30:54.606Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Save the Pokémon Zoo!! (Japanese: ポケモン動物園、彿活への道！！ Save the Pokémon Zoo!!) is the fortieth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Save the Pokémon Zoo!! (Japanese: ポケモン動物園、彿活への道！！ Save the Pokémon Zoo!!) is the fortieth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's; ×3)\n\n==Trivia==\n\n \n \n\nde:Kapitel 40 (Pokémon Pocket Monsters)\nit:PMM040",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Save the Pokémon Zoo!! (Japanese: ポケモン動物園、彿活への道！！ Save the Pokémon Zoo!!) is the fortieth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's; ×3)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 40 (Pokémon Pocket Monsters)\nit:PMM040"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM040",
+    "pageType": "chapter",
+    "searchableText": "PM040\nCategory:Pokémon Pocket Monsters chapters\nSave the Pokémon Zoo!! (Japanese: ポケモン動物園、彿活への道！！ Save the Pokémon Zoo!!) is the fortieth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 436,
+    "sectionCount": 3
+  }
+}

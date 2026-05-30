@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "RB12",
+    "slug": "rb12",
+    "pageId": 140808,
+    "revisionId": 4376334
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb12__140808.json",
+    "revisionTimestamp": "2025-09-09T16:10:20Z",
+    "fetchedAt": "2026-05-14T15:47:23.516Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 本当の実力 True Strength) is the twelfth chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 本当の実力 True Strength) is the twelfth chapter of the Pokémon RéBURST manga.\n\n==Plot==\nHariru defeats Ryouga, telling him that he can't beat him with an incomplete Burst. He tells Ryouga he will show him the power of a real Burst Warrior, and sends a powerful attack straight at Ryouga, knocking him down. Hariru tells him not to be so reckless in the future, but Ryouga gets up, declaring that it's not over yet. Hariru prepares to finish him off, but Miruto jumps between them. She tells them to stop, saying that he can take the Compass of Light—as if they keep fighting, Ryouga will die. Hariru takes Ryouga's Burst Heart, but before he can take the Compass of Light, a small girl jumps out of the sky and puts her mouth around the hand Hariru is holding the Burst Heart with.\n\nHariru scolds the girl, Carola for having seemingly eaten it, but she says she would never have eaten something so important, and produces the stone before returning it to Miruto. She tells the shocked Hariru that the boss had told her not to take the Compass of Light or the Burst Heart, and while he is upset, he relents. Carola then tells Miruto that she is one of the Great Gavel's Seven Warriors, before leaving with Hariru, telling him she wants to get something to eat. Miruto is relieved until she realizes that Yappy has run off with the Compass of Light while she wasn't paying attention.\n\n==Major events==\nHariru defeats Ryouga, but spares him upon Miruto's intervention.\nCarola, one of the Great Gavel's seven warriors appears and tells Hariru that the boss of GG has told her not to take the compass of light or Ryouga's Burst Heart.\nYappy steals the Compass of Light and runs away.\n\n===Debuts===\n====Humans====\nCarola\n\n==== Pokémon debuts====\n\n==Characters==\n===Humans===\nRyouga\nMiruto\nYappy\nHariru\nCarola\n\n===Pokémon===\n(Hariru's)\n(Ryouga's)\n\n \n \n \n\n \n\nit:RB12\nzh:RB12",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 本当の実力 True Strength) is the twelfth chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Hariru defeats Ryouga, telling him that he can't beat him with an incomplete Burst. He tells Ryouga he will show him the power of a real Burst Warrior, and sends a powerful attack straight at Ryouga, knocking him down. Hariru tells him not to be so reckless in the future, but Ryouga gets up, declaring that it's not over yet. Hariru prepares to finish him off, but Miruto jumps between them. She tells them to stop, saying that he can take the Compass of Light—as if they keep fighting, Ryouga will die. Hariru takes Ryouga's Burst Heart, but before he can take the Compass of Light, a small girl jumps out of the sky and puts her mouth around the hand Hariru is holding the Burst Heart with.\n\nHariru scolds the girl, Carola for having seemingly eaten it, but she says she would never have eaten something so important, and produces the stone before returning it to Miruto. She tells the shocked Hariru that the boss had told her not to take the Compass of Light or the Burst Heart, and while he is upset, he relents. Carola then tells Miruto that she is one of the Great Gavel's Seven Warriors, before leaving with Hariru, telling him she wants to get something to eat. Miruto is relieved until she realizes that Yappy has run off with the Compass of Light while she wasn't paying attention."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hariru defeats Ryouga, but spares him upon Miruto's intervention.\nCarola, one of the Great Gavel's seven warriors appears and tells Hariru that the boss of GG has told her not to take the compass of light or Ryouga's Burst Heart.\nYappy steals the Compass of Light and runs away."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Carola"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nMiruto\nYappy\nHariru\nCarola"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hariru's)\n(Ryouga's)\n\n \n \n \n\n \n\nit:RB12\nzh:RB12"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB12",
+    "pageType": "chapter",
+    "searchableText": "RB12\nCategory:Pokémon RéBURST chapters\n(Japanese: 本当の実力 True Strength) is the twelfth chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1873,
+    "sectionCount": 6
+  }
+}

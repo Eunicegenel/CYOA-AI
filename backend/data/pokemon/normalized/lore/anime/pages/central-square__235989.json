@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Central Square",
+    "slug": "central-square",
+    "pageId": 235989,
+    "revisionId": 4545673
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu locations",
+    "sourceFileName": "central-square__235989.json",
+    "revisionTimestamp": "2026-05-06T11:30:01Z",
+    "fetchedAt": "2026-05-14T14:09:01.875Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "]]\nThe central square (Japanese: central square) of Ryme City is a location in the game . It is known for being the central point of the city's annual Pokémon Carnival, with each of the three parade routes meeting here. Prominent buildings in the area include the central square subway station, as well as the surrounding residential area which features older, historic buildings . Most of Chapter 9 takes place here.",
+  "plainText": "]]\nThe central square (Japanese: central square) of Ryme City is a location in the game . It is known for being the central point of the city's annual Pokémon Carnival, with each of the three parade routes meeting here. Prominent buildings in the area include the central square subway station, as well as the surrounding residential area which features older, historic buildings . Most of Chapter 9 takes place here.\n\n==Pokémon==\n \n\n==In other languages==\n \n\n==Trivia==\nImages from the in Brazil are used in Detective Pikachu Ryme City Guide for central square, and may have served as inspiration for this location.\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "]]\nThe central square (Japanese: central square) of Ryme City is a location in the game . It is known for being the central point of the city's annual Pokémon Carnival, with each of the three parade routes meeting here. Prominent buildings in the area include the central square subway station, as well as the surrounding residential area which features older, historic buildings . Most of Chapter 9 takes place here."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Images from the in Brazil are used in Detective Pikachu Ryme City Guide for central square, and may have served as inspiration for this location."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Central Square",
+    "pageType": "location",
+    "searchableText": "Central Square\nCategory:Detective Pikachu locations\n]]\nThe central square (Japanese: central square) of Ryme City is a location in the game . It is known for being the central point of the city's annual Pokémon Carnival, with each of the three parade routes meeting here. Prominent buildings in the area include the central square subway station, as well as the surrounding residential area which features older, historic buildings . Most of Chapter 9 takes place here.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 632,
+    "sectionCount": 2
+  }
+}

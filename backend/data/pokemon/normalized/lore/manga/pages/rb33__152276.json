@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB33",
+    "slug": "rb33",
+    "pageId": 152276,
+    "revisionId": 4245781
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb33__152276.json",
+    "revisionTimestamp": "2025-02-22T21:31:57Z",
+    "fetchedAt": "2026-05-14T15:47:36.615Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 戦う喜び Pleasure of Fighting) is the 33rd chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 戦う喜び Pleasure of Fighting) is the 33rd chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n==Major events==\nRyouga continues his battle against .\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyouga\nKaruta\nRurimaru\nDokan\nRush\nGizairu \nEurou\nPikke\nLoren\nHariru\nCarola\nRabine\nFraud\n\nPauline\nYappy\nMiruto\nPlayers\n\n===Pokémon===\n(Ryouga's)\n( 's)\n\n \n \n \n\n \n\nzh:RB33",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 戦う喜び Pleasure of Fighting) is the 33rd chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga continues his battle against ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nKaruta\nRurimaru\nDokan\nRush\nGizairu \nEurou\nPikke\nLoren\nHariru\nCarola\nRabine\nFraud\n\nPauline\nYappy\nMiruto\nPlayers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ryouga's)\n( 's)\n\n \n \n \n\n \n\nzh:RB33"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB33",
+    "pageType": "chapter",
+    "searchableText": "RB33\nCategory:Pokémon RéBURST chapters\n(Japanese: 戦う喜び Pleasure of Fighting) is the 33rd chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 389,
+    "sectionCount": 4
+  }
+}

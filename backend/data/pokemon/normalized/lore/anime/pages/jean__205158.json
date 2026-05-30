@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Jean",
+    "slug": "jean",
+    "pageId": 205158,
+    "revisionId": 4095516
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kalos characters of the day",
+    "sourceFileName": "jean__205158.json",
+    "revisionTimestamp": "2024-09-01T00:30:53Z",
+    "fetchedAt": "2026-05-14T14:25:50.232Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Jean (Japanese: ジーン Jean) is a character of the day who appeared in Lights! Camera! Pika!. She is the granddaughter of Frank.\n\nJean helps out her grandfather in his mansion, the Pikachu Manor. She also helps him with making his movies, operating the camera, applying makeup on the actors, and editing the scenes that were filmed. She was also in charge of projecting the movie she made with her grandfather and and called during the premiere showing.",
+  "plainText": "Jean (Japanese: ジーン Jean) is a character of the day who appeared in Lights! Camera! Pika!. She is the granddaughter of Frank.\n\nJean helps out her grandfather in his mansion, the Pikachu Manor. She also helps him with making his movies, operating the camera, applying makeup on the actors, and editing the scenes that were filmed. She was also in charge of projecting the movie she made with her grandfather and and called during the premiere showing.\n\n==Voice actors==\n \n\n \n\n \n \n \n\nes:Jean/Juanita\nfr:Jeannette\nit:Giada\nja:ジーン\nzh:琴恩",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jean (Japanese: ジーン Jean) is a character of the day who appeared in Lights! Camera! Pika!. She is the granddaughter of Frank.\n\nJean helps out her grandfather in his mansion, the Pikachu Manor. She also helps him with making his movies, operating the camera, applying makeup on the actors, and editing the scenes that were filmed. She was also in charge of projecting the movie she made with her grandfather and and called during the premiere showing."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Jean/Juanita\nfr:Jeannette\nit:Giada\nja:ジーン\nzh:琴恩"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jean",
+    "pageType": "character",
+    "searchableText": "Jean\nCategory:Kalos characters of the day\nJean (Japanese: ジーン Jean) is a character of the day who appeared in Lights! Camera! Pika!. She is the granddaughter of Frank.\n\nJean helps out her grandfather in his mansion, the Pikachu Manor. She also helps him with making his movies, operating the camera, applying makeup on the actors, and editing the scenes that were filmed. She was also in charge of projecting the movie she made with her grandfather and and called during the premiere showing.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 532,
+    "sectionCount": 2
+  }
+}

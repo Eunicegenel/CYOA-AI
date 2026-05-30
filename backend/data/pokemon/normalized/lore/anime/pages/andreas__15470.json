@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Andreas",
+    "slug": "andreas",
+    "pageId": 15470,
+    "revisionId": 4506535
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "andreas__15470.json",
+    "revisionTimestamp": "2026-03-13T16:54:47Z",
+    "fetchedAt": "2026-05-14T14:01:08.657Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Andreas (Japanese: トキオ Tokio) is a character of the day who appeared in Hook, Line, and Stinker.\n\nAndreas was a competitor in the Seaking Catching Competition in Johto who was also distinguished from his victories in other fishing tournaments. He had a very arrogant attitude, especially towards and her . Andreas had a habit of calling Misty \"Red\", often referred to her Pokémon as weak, and claimed that his was far superior and would therefore win the competition.\n\nMisty and Andreas both ended up capturing a prize-winning . They had to battle each other to decide who would be the winner, with Misty using her Poliwhirl against his Poliwrath. Misty won, and Andreas, impressed with her victory, apologized to Misty.",
+  "plainText": "Andreas (Japanese: トキオ Tokio) is a character of the day who appeared in Hook, Line, and Stinker.\n\nAndreas was a competitor in the Seaking Catching Competition in Johto who was also distinguished from his victories in other fishing tournaments. He had a very arrogant attitude, especially towards and her . Andreas had a habit of calling Misty \"Red\", often referred to her Pokémon as weak, and claimed that his was far superior and would therefore win the competition.\n\nMisty and Andreas both ended up capturing a prize-winning . They had to battle each other to decide who would be the winner, with Misty using her Poliwhirl against his Poliwrath. Misty won, and Andreas, impressed with her victory, apologized to Misty.\n\n==Pokémon==\n \n===On hand===\n \n\n===Temporary===\n \n\n==Pokémon competitions==\nAndreas has competed in the following :\nSeaking Catching Competition - Winner (prior to Hook, Line, and Stinker)\nSeaking Catching Competition - Runner-Up (Hook, Line, and Stinker)\n\n==Voice actors==\n \n \n\n \n \n \n \n\nde:Angel, Köder, Angeber#Andreas\nes:Andreas\nfr:Andréas\nit:Andreas",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Andreas (Japanese: トキオ Tokio) is a character of the day who appeared in Hook, Line, and Stinker.\n\nAndreas was a competitor in the Seaking Catching Competition in Johto who was also distinguished from his victories in other fishing tournaments. He had a very arrogant attitude, especially towards and her . Andreas had a habit of calling Misty \"Red\", often referred to her Pokémon as weak, and claimed that his was far superior and would therefore win the competition.\n\nMisty and Andreas both ended up capturing a prize-winning . They had to battle each other to decide who would be the winner, with Misty using her Poliwhirl against his Poliwrath. Misty won, and Andreas, impressed with her victory, apologized to Misty."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Andreas has competed in the following :\nSeaking Catching Competition - Winner (prior to Hook, Line, and Stinker)\nSeaking Catching Competition - Runner-Up (Hook, Line, and Stinker)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Angel, Köder, Angeber#Andreas\nes:Andreas\nfr:Andréas\nit:Andreas"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Andreas",
+    "pageType": "character",
+    "searchableText": "Andreas\nCategory:Johto characters of the day\nAndreas (Japanese: トキオ Tokio) is a character of the day who appeared in Hook, Line, and Stinker.\n\nAndreas was a competitor in the Seaking Catching Competition in Johto who was also distinguished from his victories in other fishing tournaments. He had a very arrogant attitude, especially towards and her . Andreas had a habit of calling Misty \"Red\", often referred to her Pokémon as weak, and claimed that his was far superior and would therefore win the competition.\n\nMisty and Andreas both ended up capturing a prize-winning . They had to battle each other to decide who would be the winner, with Misty using her Poliwhirl against his Poliwrath. Misty won, and Andreas, impressed with her victory, apologized to Misty.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 1074,
+    "sectionCount": 3
+  }
+}

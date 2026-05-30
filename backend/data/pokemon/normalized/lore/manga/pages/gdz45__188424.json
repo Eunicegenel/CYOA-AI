@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GDZ45",
+    "slug": "gdz45",
+    "pageId": 188424,
+    "revisionId": 4527801
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz45__188424.json",
+    "revisionTimestamp": "2026-04-09T15:54:25Z",
+    "fetchedAt": "2026-05-14T15:19:50.130Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ミスおひな様はだれだ！？ Who'll be Miss Empress!?) is the 45th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ミスおひな様はだれだ！？ Who'll be Miss Empress!?) is the 45th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nMomoyo\nHinako\n\n====Pokémon debuts====\n(Hinako's)\n(contestant A's)\n(contestant B's)\n(multiple)\n(Shu's)\n(contestant C's)\n\n==Characters==\n===Humans===\nShu\nMomoyo\nHinako\nContestants\nContest MC\nAudience\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's)\n(Shu's)\n(Shu's; new)\n(Hinako's)\n(Hinako's)\n(contestant A's)\n(contestant B's)\n(contestant C's)\n(multiple)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ミスおひな様はだれだ！？ Who'll be Miss Empress!?) is the 45th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Momoyo\nHinako"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Hinako's)\n(contestant A's)\n(contestant B's)\n(multiple)\n(Shu's)\n(contestant C's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nMomoyo\nHinako\nContestants\nContest MC\nAudience"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's)\n(Shu's)\n(Shu's; new)\n(Hinako's)\n(Hinako's)\n(contestant A's)\n(contestant B's)\n(contestant C's)\n(multiple)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ45",
+    "pageType": "chapter",
+    "searchableText": "GDZ45\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ミスおひな様はだれだ！？ Who'll be Miss Empress!?) is the 45th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 510,
+    "sectionCount": 5
+  }
+}

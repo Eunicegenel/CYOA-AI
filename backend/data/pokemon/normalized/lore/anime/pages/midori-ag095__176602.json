@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Midori (AG095)",
+    "slug": "midori-ag095",
+    "pageId": 176602,
+    "revisionId": 4515825
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "midori-ag095__176602.json",
+    "revisionTimestamp": "2026-03-24T19:04:51Z",
+    "fetchedAt": "2026-05-14T14:36:50.847Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Midori (Japanese: ミドリ Midori) is a character of the day who appeared in The Evolutionary War. She lives on Island B of the A-B-C Islands.\n\nWhen and arrived at Island A of the A-B-C Islands and visited a Pokémon Center there, Midori called the Center's Nurse Joy. Midori explained to Nurse Joy that she was worried that her had caught a bad cold, and sent it over to the Pokémon Center so Nurse Joy could examine it. After she did this, Midori said she would come to the Pokémon Center later on.",
+  "plainText": "Midori (Japanese: ミドリ Midori) is a character of the day who appeared in The Evolutionary War. She lives on Island B of the A-B-C Islands.\n\nWhen and arrived at Island A of the A-B-C Islands and visited a Pokémon Center there, Midori called the Center's Nurse Joy. Midori explained to Nurse Joy that she was worried that her had caught a bad cold, and sent it over to the Pokémon Center so Nurse Joy could examine it. After she did this, Midori said she would come to the Pokémon Center later on.\n\n==Pokémon==\n \n\n===Mentioned===\n \n\n==Voice actors==\n \n\n \n \n \n \n \n\nes:Midori\nfr:Juliette (épisode 369)\nit:Midori (RZ095)\nzh:小綠（AG095）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Midori (Japanese: ミドリ Midori) is a character of the day who appeared in The Evolutionary War. She lives on Island B of the A-B-C Islands.\n\nWhen and arrived at Island A of the A-B-C Islands and visited a Pokémon Center there, Midori called the Center's Nurse Joy. Midori explained to Nurse Joy that she was worried that her had caught a bad cold, and sent it over to the Pokémon Center so Nurse Joy could examine it. After she did this, Midori said she would come to the Pokémon Center later on."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Midori\nfr:Juliette (épisode 369)\nit:Midori (RZ095)\nzh:小綠（AG095）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Midori (AG095)",
+    "pageType": "character",
+    "searchableText": "Midori (AG095)\nCategory:Hoenn characters of the day\nMidori (Japanese: ミドリ Midori) is a character of the day who appeared in The Evolutionary War. She lives on Island B of the A-B-C Islands.\n\nWhen and arrived at Island A of the A-B-C Islands and visited a Pokémon Center there, Midori called the Center's Nurse Joy. Midori explained to Nurse Joy that she was worried that her had caught a bad cold, and sent it over to the Pokémon Center so Nurse Joy could examine it. After she did this, Midori said she would come to the Pokémon Center later on.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 627,
+    "sectionCount": 2
+  }
+}

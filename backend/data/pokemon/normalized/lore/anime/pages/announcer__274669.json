@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Announcer",
+    "slug": "announcer",
+    "pageId": 274669,
+    "revisionId": 4214577
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "announcer__274669.json",
+    "revisionTimestamp": "2025-01-03T15:11:40Z",
+    "fetchedAt": "2026-05-14T14:02:58.274Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The announcer is a minor recurring character in Pokémon Journeys: The Series. He is seen during several episodes narrating the World Coronation Series matches.",
+  "plainText": "The announcer is a minor recurring character in Pokémon Journeys: The Series. He is seen during several episodes narrating the World Coronation Series matches.\n\n==History==\nHis voice was first heard in Flash of the Titans!, where he narrated the battle between and in the World Coronation Series finals.\n\nIn Toughing It Out!, he was heard narrating the battle between Leon and Raihan in the World Coronation Series.\n\nHe physically debuted in Battle Three With Bea!, where he narrated Bea's battle against . At the end of the episode, he was accompanied by Leon who narrated the rest of the battle in the next episode with him. At the end of Ash's battle against Bea, he asked Leon his opinions about the battle.\n\nIn Battling Turned Up to Eleven!, he was heard narrating the battle between Marnie and Ash.\n\nIn Meeting Up with the Monarch!, he was heard narrating the battle between Leon and Flint.\n\nHe appeared again in Aim For The Eight!, this time narrating Ash's battle against Raihan alongside Leon. After Ash's victory, he announced the new members of the Eight Masters and those who would participate in the Masters Eight Tournament.\n\nAs of Curtain Up! Fight the Fights!, he narrated all the Masters Eight Tournament battles as well as the opening of the event. In Whittle While You Work!, he was seen quite excited about the battle between Ash and .\n\nAs of A Flood of Torrential Gains!, he narrated the championship finals in Leon's battle against Ash.\n\n==Character==\nHe is very enthusiastic and his style is similar to that of a .\n\n==Voice actors==\n \n\n==Trivia==\nDuring 's battle with Volkner in Ultra Exciting from the Shocking Start!, another voice actor provides the voice for the narration of the battle, a possible indication that his hometown and base of action is only in the Galar region, which is where he has been seen narrating in all of his other appearances.\n \n\n \n \n\nit:Annunciatore",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The announcer is a minor recurring character in Pokémon Journeys: The Series. He is seen during several episodes narrating the World Coronation Series matches."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "His voice was first heard in Flash of the Titans!, where he narrated the battle between and in the World Coronation Series finals.\n\nIn Toughing It Out!, he was heard narrating the battle between Leon and Raihan in the World Coronation Series.\n\nHe physically debuted in Battle Three With Bea!, where he narrated Bea's battle against . At the end of the episode, he was accompanied by Leon who narrated the rest of the battle in the next episode with him. At the end of Ash's battle against Bea, he asked Leon his opinions about the battle.\n\nIn Battling Turned Up to Eleven!, he was heard narrating the battle between Marnie and Ash.\n\nIn Meeting Up with the Monarch!, he was heard narrating the battle between Leon and Flint.\n\nHe appeared again in Aim For The Eight!, this time narrating Ash's battle against Raihan alongside Leon. After Ash's victory, he announced the new members of the Eight Masters and those who would participate in the Masters Eight Tournament.\n\nAs of Curtain Up! Fight the Fights!, he narrated all the Masters Eight Tournament battles as well as the opening of the event. In Whittle While You Work!, he was seen quite excited about the battle between Ash and .\n\nAs of A Flood of Torrential Gains!, he narrated the championship finals in Leon's battle against Ash."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "He is very enthusiastic and his style is similar to that of a ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "During 's battle with Volkner in Ultra Exciting from the Shocking Start!, another voice actor provides the voice for the narration of the battle, a possible indication that his hometown and base of action is only in the Galar region, which is where he has been seen narrating in all of his other appearances.\n \n\n \n \n\nit:Annunciatore"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Announcer",
+    "pageType": "character",
+    "searchableText": "Announcer\nCategory:Animation characters\nThe announcer is a minor recurring character in Pokémon Journeys: The Series. He is seen during several episodes narrating the World Coronation Series matches.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Trivia"
+    ],
+    "characterCount": 1902,
+    "sectionCount": 4
+  }
+}

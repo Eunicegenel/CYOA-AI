@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Santa Harukaze",
+    "slug": "santa-harukaze",
+    "pageId": 206520,
+    "revisionId": 4132912
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga crew",
+    "sourceFileName": "santa-harukaze__206520.json",
+    "revisionTimestamp": "2024-09-29T05:29:08Z",
+    "fetchedAt": "2026-05-14T15:48:56.815Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Santa Harukaze (Japanese: 春風邪三太) is the author of many Pokémon 4Koma . Some of their other works include and .",
+  "plainText": "Santa Harukaze (Japanese: 春風邪三太) is the author of many Pokémon 4Koma . Some of their other works include and .\n\n==Pokémon manga by Santa Haruzake==\nPokémon Pocket Comics: Classic\nPokémon Diamond & Pearl 4Koma Comic Compilation\nPokémon HGSS Laughter 4Koma Comic Compilation\nPokémon Platinum 4Koma Comic Compilation\nPokémon Pocket Comics: Black & White\nPokémon Pocket Comics: Legendary Pokémon\nPokémon Pocket Comics: XY\nPokémon Pocket Comics: Sun & Moon\nPokémon Pun Club: Gorgeous!\nPokémon Pun Club\nPokémon Strongest Pun Club\nPokémon Super Pun Club\n\n==External links==\nTwitter\n\n \n \n\n \n\nit:Santa Harukaze",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Santa Harukaze (Japanese: 春風邪三太) is the author of many Pokémon 4Koma . Some of their other works include and ."
+    },
+    {
+      "heading": "Pokémon manga by Santa Haruzake",
+      "level": 2,
+      "text": "Pokémon Pocket Comics: Classic\nPokémon Diamond & Pearl 4Koma Comic Compilation\nPokémon HGSS Laughter 4Koma Comic Compilation\nPokémon Platinum 4Koma Comic Compilation\nPokémon Pocket Comics: Black & White\nPokémon Pocket Comics: Legendary Pokémon\nPokémon Pocket Comics: XY\nPokémon Pocket Comics: Sun & Moon\nPokémon Pun Club: Gorgeous!\nPokémon Pun Club\nPokémon Strongest Pun Club\nPokémon Super Pun Club"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\n\n \n \n\n \n\nit:Santa Harukaze"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Santa Harukaze",
+    "pageType": "manga-series",
+    "searchableText": "Santa Harukaze\nCategory:Manga crew\nSanta Harukaze (Japanese: 春風邪三太) is the author of many Pokémon 4Koma . Some of their other works include and .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon manga by Santa Haruzake",
+      "External links"
+    ],
+    "characterCount": 601,
+    "sectionCount": 3
+  }
+}

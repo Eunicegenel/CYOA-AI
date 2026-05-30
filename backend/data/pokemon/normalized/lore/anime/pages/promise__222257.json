@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Promise",
+    "slug": "promise",
+    "pageId": 222257,
+    "revisionId": 3957590
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Korean movie ending themes",
+    "sourceFileName": "promise__222257.json",
+    "revisionTimestamp": "2024-03-17T13:52:08Z",
+    "fetchedAt": "2026-05-14T14:45:02.182Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Promise is the ending theme for the Korean dub of Kyurem VS the Sacred Swordsman: Keldeo. It is performed by As One.",
+  "plainText": "Promise is the ending theme for the Korean dub of Kyurem VS the Sacred Swordsman: Keldeo. It is performed by As One.\n\n==Lyrics==\n \n! Korean\n! English\n\n \n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n\n \n \n \n \n\n \n \n \n \n\nEven today, the night cheerlessly approaches \nThe moonlight enfolds me, the warm air covers me\nI think of you, like last night's dream\nI close my eyes and immerse myself into past memories\nI still hear your voice in my ears\n\nI know, even if we're far apart\nYou'll always be by my side\nI can feel it, even if we're apart for a short while\nYour love that protects me\n\nEven the hurts of the past days and the flowing tears\nI'm going to bury them now, like last night's dream\nI will trust in the promises we made\nThat we're together wherever we are\n\nI know, even if we're far apart\nYou'll always be by my side\nI can feel it, even if we're apart for a short while\nYour love that protects me\n\nAlthough we can't meet now, we will laugh sometime\nToday, like yesterday, I'll wait for that day \n\nI know, even if we're far apart\nYou'll always be by my side\nI can feel it, even if we're apart for a short while\nYour love that protects me\n\nIf I follow the stars, or ride and float on the wind\nMy heart can reach the place where you are\nEven though we're still apart, our hearts are together\nI love you, only you \n\n \n \n \n \n\nzh:寶可夢電影 韓語片尾曲15",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Promise is the ending theme for the Korean dub of Kyurem VS the Sacred Swordsman: Keldeo. It is performed by As One."
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "! Korean\n! English\n\n \n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n\n \n \n \n \n\n \n \n \n \n\nEven today, the night cheerlessly approaches \nThe moonlight enfolds me, the warm air covers me\nI think of you, like last night's dream\nI close my eyes and immerse myself into past memories\nI still hear your voice in my ears\n\nI know, even if we're far apart\nYou'll always be by my side\nI can feel it, even if we're apart for a short while\nYour love that protects me\n\nEven the hurts of the past days and the flowing tears\nI'm going to bury them now, like last night's dream\nI will trust in the promises we made\nThat we're together wherever we are\n\nI know, even if we're far apart\nYou'll always be by my side\nI can feel it, even if we're apart for a short while\nYour love that protects me\n\nAlthough we can't meet now, we will laugh sometime\nToday, like yesterday, I'll wait for that day \n\nI know, even if we're far apart\nYou'll always be by my side\nI can feel it, even if we're apart for a short while\nYour love that protects me\n\nIf I follow the stars, or ride and float on the wind\nMy heart can reach the place where you are\nEven though we're still apart, our hearts are together\nI love you, only you \n\n \n \n \n \n\nzh:寶可夢電影 韓語片尾曲15"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Promise",
+    "pageType": "movie",
+    "searchableText": "Promise\nCategory:Korean movie ending themes\nPromise is the ending theme for the Korean dub of Kyurem VS the Sacred Swordsman: Keldeo. It is performed by As One.",
+    "sectionHeadings": [
+      "Lead",
+      "Lyrics"
+    ],
+    "characterCount": 1338,
+    "sectionCount": 2
+  }
+}

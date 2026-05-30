@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Tomio",
+    "slug": "tomio",
+    "pageId": 15513,
+    "revisionId": 4398479
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "tomio__15513.json",
+    "revisionTimestamp": "2025-10-12T11:59:32Z",
+    "fetchedAt": "2026-05-14T15:51:54.524Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Tomio (Japanese: トミオ Tomio) is a character in Pokémon: Yeah! I Got Pokémon! and a rival of Shu. Notably, he uses Poké Balls modified into yo-yos to capture Pokémon. He challenged Shu to a Pokémon capturing contest and won. However, after Shu befriends a herd of Nidoran, Tomio mistakes them for Shu's and decides to switch back to regular Poké Balls.",
+  "plainText": "Tomio (Japanese: トミオ Tomio) is a character in Pokémon: Yeah! I Got Pokémon! and a rival of Shu. Notably, he uses Poké Balls modified into yo-yos to capture Pokémon. He challenged Shu to a Pokémon capturing contest and won. However, after Shu befriends a herd of Nidoran, Tomio mistakes them for Shu's and decides to switch back to regular Poké Balls. \n\n==Character==\nTomio is considered to be more of an advanced Trainer than Shu since he had no trouble in controlling his aim on throwing a Poké Ball at the Pokémon, something that Shu was constantly having trouble with.\n\n==History==\nTomio first appeared in A Match For Pokémon where he catches a Venomoth that Shu weakened using a Poké Ball attached to a string. This made Shu furious and demands to know who interrupted him. Tomio shows himself and explains to him that Shu could not capture the . However, he ends up releasing the Venomoth as it was a Practice Zone for catching Pokémon. Shu ends up challenging him to a Pokémon catching contest where if he wins, he will receive Tomio's custom ball. By sundown, Tomio ends up having twenty Pokémon caught as opposed to Shu ending up with nineteen. However, a that Shu encountered before shows up along with his relatives which makes Shu the winner. Even though Shu won, he does not accept the prize that they promised in the beginning.\n\n==Pokémon==\n===On hand===\n \n\nTomio was revealed to have at least twenty other Pokémon as he participated in a Pokémon capturing contest.\n\n===Released===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tomio (Japanese: トミオ Tomio) is a character in Pokémon: Yeah! I Got Pokémon! and a rival of Shu. Notably, he uses Poké Balls modified into yo-yos to capture Pokémon. He challenged Shu to a Pokémon capturing contest and won. However, after Shu befriends a herd of Nidoran, Tomio mistakes them for Shu's and decides to switch back to regular Poké Balls."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Tomio is considered to be more of an advanced Trainer than Shu since he had no trouble in controlling his aim on throwing a Poké Ball at the Pokémon, something that Shu was constantly having trouble with."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Tomio first appeared in A Match For Pokémon where he catches a Venomoth that Shu weakened using a Poké Ball attached to a string. This made Shu furious and demands to know who interrupted him. Tomio shows himself and explains to him that Shu could not capture the . However, he ends up releasing the Venomoth as it was a Practice Zone for catching Pokémon. Shu ends up challenging him to a Pokémon catching contest where if he wins, he will receive Tomio's custom ball. By sundown, Tomio ends up having twenty Pokémon caught as opposed to Shu ending up with nineteen. However, a that Shu encountered before shows up along with his relatives which makes Shu the winner. Even though Shu won, he does not accept the prize that they promised in the beginning."
+    },
+    {
+      "heading": "On hand",
+      "level": 3,
+      "text": "Tomio was revealed to have at least twenty other Pokémon as he participated in a Pokémon capturing contest."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tomio",
+    "pageType": "character",
+    "searchableText": "Tomio\nCategory:Pokémon: Yeah! I Got Pokémon! characters\nTomio (Japanese: トミオ Tomio) is a character in Pokémon: Yeah! I Got Pokémon! and a rival of Shu. Notably, he uses Poké Balls modified into yo-yos to capture Pokémon. He challenged Shu to a Pokémon capturing contest and won. However, after Shu befriends a herd of Nidoran, Tomio mistakes them for Shu's and decides to switch back to regular Poké Balls.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History",
+      "On hand"
+    ],
+    "characterCount": 1494,
+    "sectionCount": 4
+  }
+}

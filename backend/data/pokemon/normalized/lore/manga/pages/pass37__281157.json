@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASS37",
+    "slug": "pass37",
+    "pageId": 281157,
+    "revisionId": 4527922
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass37__281157.json",
+    "revisionTimestamp": "2026-04-09T16:00:55Z",
+    "fetchedAt": "2026-05-14T15:29:03.019Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Crackle!! Retrieve the Sword & Shield (Japanese: バリバリ！！剣・盾を取り戻せ Scratch!! Take Back the Sword and Shield) is the 37th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Crackle!! Retrieve the Sword & Shield (Japanese: バリバリ！！剣・盾を取り戻せ Scratch!! Take Back the Sword and Shield) is the 37th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nand Kubfu pass the Tower of Waters and Kubfu evolves into .\nHenry is given Urshifu from Mustard.\nHop rides to the Isle of Armor and encounters Henry and .\nMoltres is revealed to have found the Rusted Shield.\nMoltres carries Henry and the Rusted Shield to the Crown Tundra.\nHenry finds Bede and they head back to Freezington.\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\nHenry\nCasey\nHop\nBede\nMarnie (flashback)\nMustard\nPeony\nMarvin\n\n===Pokémon===\n(Steeler; Henry's)\n(Tera; ; Casey's)\n(Hop's)\n(Mustard's; evolves)\n(Mustard's; ; newly evolved; given to )\n(Mustard's; )\n(Sniffler; Marvin's)\n(Draco; Marvin's)\n\n(Galarian Form; flashback)\n(Galarian Form; flashback)\n(Galarian Form)\n(Adventures; silhouette)\n\n==Trivia==\n\n \n \n \n\nde:Holt Schwert und Schild zurück!\nes:PMSSwSh37\nfr:Chapitre 37 (Pocket Monsters Special Épée et Bouclier)\nit:PASS37\nzh:宝可梦特别篇 剑·盾篇 第37话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Crackle!! Retrieve the Sword & Shield (Japanese: バリバリ！！剣・盾を取り戻せ Scratch!! Take Back the Sword and Shield) is the 37th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and Kubfu pass the Tower of Waters and Kubfu evolves into .\nHenry is given Urshifu from Mustard.\nHop rides to the Isle of Armor and encounters Henry and .\nMoltres is revealed to have found the Rusted Shield.\nMoltres carries Henry and the Rusted Shield to the Crown Tundra.\nHenry finds Bede and they head back to Freezington."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nHop\nBede\nMarnie (flashback)\nMustard\nPeony\nMarvin"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Steeler; Henry's)\n(Tera; ; Casey's)\n(Hop's)\n(Mustard's; evolves)\n(Mustard's; ; newly evolved; given to )\n(Mustard's; )\n(Sniffler; Marvin's)\n(Draco; Marvin's)\n\n(Galarian Form; flashback)\n(Galarian Form; flashback)\n(Galarian Form)\n(Adventures; silhouette)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Holt Schwert und Schild zurück!\nes:PMSSwSh37\nfr:Chapitre 37 (Pocket Monsters Special Épée et Bouclier)\nit:PASS37\nzh:宝可梦特别篇 剑·盾篇 第37话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS37",
+    "pageType": "chapter",
+    "searchableText": "PASS37\nCategory:Pokémon Adventures chapters\nCrackle!! Retrieve the Sword & Shield (Japanese: バリバリ！！剣・盾を取り戻せ Scratch!! Take Back the Sword and Shield) is the 37th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1100,
+    "sectionCount": 6
+  }
+}

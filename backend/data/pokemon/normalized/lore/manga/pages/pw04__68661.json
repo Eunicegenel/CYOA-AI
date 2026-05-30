@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PW04",
+    "slug": "pw04",
+    "pageId": 68661,
+    "revisionId": 3947300
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw04__68661.json",
+    "revisionTimestamp": "2024-03-09T21:25:23Z",
+    "fetchedAt": "2026-05-14T15:46:30.369Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: アカネ色のイーブイ Akane-Colored ) is the fourth chapter of the How I Became a Pokémon Card manga.",
+  "plainText": "(Japanese: アカネ色のイーブイ Akane-Colored ) is the fourth chapter of the How I Became a Pokémon Card manga.\n\n \n\n==Plot==\n is annoyed by her that keeps following her. After giving it to Team Rocket however, she goes and tries to rescue it. Later, her grandpa tells her about how Eevee cheered her up when she was a baby. After that, Akane and Eevee's relationship improves.\n\n==Major events==\ngives her to Team Rocket.\nAkane rescues her Eevee.\n\n==Characters==\n===Humans===\n\nAkane's grandfather\n\nManager\n\n===Pokémon===\n(Akane's)\n( 's)\n(manager's)\n(manager's)\n(manager's)\n\n==Trivia==\nBased on the design of the mansion and the appearance of the hidden passageway in the city's Game Corner, this story most likely takes place in Celadon City.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: アカネ色のイーブイ Akane-Colored ) is the fourth chapter of the How I Became a Pokémon Card manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "is annoyed by her that keeps following her. After giving it to Team Rocket however, she goes and tries to rescue it. Later, her grandpa tells her about how Eevee cheered her up when she was a baby. After that, Akane and Eevee's relationship improves."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "gives her to Team Rocket.\nAkane rescues her Eevee."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Akane's grandfather\n\nManager"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Akane's)\n( 's)\n(manager's)\n(manager's)\n(manager's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Based on the design of the mansion and the appearance of the hidden passageway in the city's Game Corner, this story most likely takes place in Celadon City."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW04",
+    "pageType": "chapter",
+    "searchableText": "PW04\nCategory:How I Became a Pokémon Card chapters\n(Japanese: アカネ色のイーブイ Akane-Colored ) is the fourth chapter of the How I Became a Pokémon Card manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 730,
+    "sectionCount": 6
+  }
+}

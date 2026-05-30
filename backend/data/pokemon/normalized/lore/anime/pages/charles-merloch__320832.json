@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Charles Merloch",
+    "slug": "charles-merloch",
+    "pageId": 320832,
+    "revisionId": 4543530
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "charles-merloch__320832.json",
+    "revisionTimestamp": "2026-05-03T04:51:06Z",
+    "fetchedAt": "2026-05-14T14:09:14.687Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Charles Merloch (Japanese: チャールズ・マーロック Charles Merloch) is a scientist and the main antagonist in Detective Pikachu Returns.",
+  "plainText": "Charles Merloch (Japanese: チャールズ・マーロック Charles Merloch) is a scientist and the main antagonist in Detective Pikachu Returns. \n\n==In the games==\n===Detective Pikachu Returns===\nTim and first encounter Merloch at Serenity Park while investigating the missing Aurora Drop. He introduces himself as a scientist developing machines and equipment to help improve communication between people and Pokémon. Using a device that can rapidly measure a Pokémon's vital signs, Merloch analyzes Pikachu's hair and finds its triglycerides are high. He also informs them that he is working with Howard Myers in creating a new policy. \n\nWhile Pikachu is detained at the Ryme City police station, he finds documents in Will Butler's office and overhears a conversation between Merloch and Chief Butler which reveals Chief Butler is being paid by an organization named Unitas to wrongfully detain Pokémon. \n\nLater, as Tim, Pikachu and Rachel explore the base of Unitas at the Pokémon Unity Lab, they discover that aside from developing the Control Cubes, Merloch has been using Unitas to conduct his own research for his own purposes. They find out that Merloch convinced Howard to restart research into Emma's previous project and was also behind the kidnapping of Harry Goodman's body. They also realize that Merloch has been trying to activate the Aurora Drop using energy from meteorites which were mined from the Southern Ruins.\n \nWhen the group confront Merloch, he explains that his goal is to merge his consciousness with that of a Pokémon. He activates the Aurora Drop to reveal its true form, , before then using the energy from Pikachu and Harry Goodman's body to his consciousness with that of Deoxys. soon arrives to fight off Merloch in Deoxys's body. Pikachu takes the energy capsules containing energy extracted from his and Harry's bodies and smashes into Deoxys with them, returning Merloch to his own body and Deoxys back to its Aurora Drop form. Merloch is later arrested and incarcerated.\n\n===Personality and characteristics===\nMerloch is shown to be merciless in his ambition to achieve his goal of merging his consciousness with that of a Pokémon. He is also manipulative as he convinces Howard Myers to create Unitas with the false pretext that this research would bring peace between people and Pokémon. \n \n\n===Voice actors===\n \n\n==Trivia==\nMerloch's plot to fuse his consciousness with that of a Pokémon is highly similar to that of Howard Clifford in POKÉMON Detective Pikachu. \n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Charles Merloch (Japanese: チャールズ・マーロック Charles Merloch) is a scientist and the main antagonist in Detective Pikachu Returns."
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Tim and first encounter Merloch at Serenity Park while investigating the missing Aurora Drop. He introduces himself as a scientist developing machines and equipment to help improve communication between people and Pokémon. Using a device that can rapidly measure a Pokémon's vital signs, Merloch analyzes Pikachu's hair and finds its triglycerides are high. He also informs them that he is working with Howard Myers in creating a new policy. \n\nWhile Pikachu is detained at the Ryme City police station, he finds documents in Will Butler's office and overhears a conversation between Merloch and Chief Butler which reveals Chief Butler is being paid by an organization named Unitas to wrongfully detain Pokémon. \n\nLater, as Tim, Pikachu and Rachel explore the base of Unitas at the Pokémon Unity Lab, they discover that aside from developing the Control Cubes, Merloch has been using Unitas to conduct his own research for his own purposes. They find out that Merloch convinced Howard to restart research into Emma's previous project and was also behind the kidnapping of Harry Goodman's body. They also realize that Merloch has been trying to activate the Aurora Drop using energy from meteorites which were mined from the Southern Ruins.\n \nWhen the group confront Merloch, he explains that his goal is to merge his consciousness with that of a Pokémon. He activates the Aurora Drop to reveal its true form, , before then using the energy from Pikachu and Harry Goodman's body to his consciousness with that of Deoxys. soon arrives to fight off Merloch in Deoxys's body. Pikachu takes the energy capsules containing energy extracted from his and Harry's bodies and smashes into Deoxys with them, returning Merloch to his own body and Deoxys back to its Aurora Drop form. Merloch is later arrested and incarcerated."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "Merloch is shown to be merciless in his ambition to achieve his goal of merging his consciousness with that of a Pokémon. He is also manipulative as he convinces Howard Myers to create Unitas with the false pretext that this research would bring peace between people and Pokémon."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Merloch's plot to fuse his consciousness with that of a Pokémon is highly similar to that of Howard Clifford in POKÉMON Detective Pikachu."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Charles Merloch",
+    "pageType": "character",
+    "searchableText": "Charles Merloch\nCategory:Detective Pikachu Returns characters\nCharles Merloch (Japanese: チャールズ・マーロック Charles Merloch) is a scientist and the main antagonist in Detective Pikachu Returns.",
+    "sectionHeadings": [
+      "Lead",
+      "Detective Pikachu Returns",
+      "Personality and characteristics",
+      "Trivia"
+    ],
+    "characterCount": 2534,
+    "sectionCount": 4
+  }
+}

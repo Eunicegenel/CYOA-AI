@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Wishmaker (item)",
+    "slug": "wishmaker-item",
+    "pageId": 108455,
+    "revisionId": 4237549
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series objects",
+    "sourceFileName": "wishmaker-item__108455.json",
+    "revisionTimestamp": "2025-02-09T17:30:19Z",
+    "fetchedAt": "2026-05-14T14:57:52.037Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "The wishmaker is an item purchased by during the Millennium Festival in Jirachi: Wish Maker.",
+  "plainText": "The wishmaker is an item purchased by during the Millennium Festival in Jirachi: Wish Maker.\n\n==Purpose==\nThe wishmaker is an object similar to a . It has seven points in the circle that point outward. The points have stars on them, with one star on the first point, and so on until seven stars on the seventh point. The user of the wishmaker makes a wish and folds down the point corresponding to the number of days the Millennium Comet has been visible in the sky. The user then repeats this process, making the same wish each night of the comet until they've folded all seven points of the wishmaker. If the user has successfully folded all seven points within the time frame that the Millennium Comet is visible, then their wish will come true; if they fail to do so, then their wish will not be granted.\n\n==Trivia==\nMay is also the only known character to own such an object.\nA similar use of commercialism was used on the Lunar Wing in The Rise of Darkrai, where purchased one, making her the second main character to believe in an item's power.\n\n==Related articles==\n \n \n \n \n\nes:Estrella de los deseos\nit:Stella dei desideri",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The wishmaker is an item purchased by during the Millennium Festival in Jirachi: Wish Maker."
+    },
+    {
+      "heading": "Purpose",
+      "level": 2,
+      "text": "The wishmaker is an object similar to a . It has seven points in the circle that point outward. The points have stars on them, with one star on the first point, and so on until seven stars on the seventh point. The user of the wishmaker makes a wish and folds down the point corresponding to the number of days the Millennium Comet has been visible in the sky. The user then repeats this process, making the same wish each night of the comet until they've folded all seven points of the wishmaker. If the user has successfully folded all seven points within the time frame that the Millennium Comet is visible, then their wish will come true; if they fail to do so, then their wish will not be granted."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "May is also the only known character to own such an object.\nA similar use of commercialism was used on the Lunar Wing in The Rise of Darkrai, where purchased one, making her the second main character to believe in an item's power."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Estrella de los deseos\nit:Stella dei desideri"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Wishmaker (item)",
+    "pageType": "general-anime-lore",
+    "searchableText": "Wishmaker (item)\nCategory:Animated series objects\nThe wishmaker is an item purchased by during the Millennium Festival in Jirachi: Wish Maker.",
+    "sectionHeadings": [
+      "Lead",
+      "Purpose",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1131,
+    "sectionCount": 4
+  }
+}

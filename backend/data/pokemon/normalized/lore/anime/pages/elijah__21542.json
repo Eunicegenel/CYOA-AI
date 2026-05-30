@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Elijah",
+    "slug": "elijah",
+    "pageId": 21542,
+    "revisionId": 4289223
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "elijah__21542.json",
+    "revisionTimestamp": "2025-04-28T19:50:12Z",
+    "fetchedAt": "2026-05-14T14:15:07.437Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Elijah (Japanese: タカヤ Takaya) is a character of the day who appeared in Lights, Camerupt, Action!.\n\n and first met Elijah shortly after they left Fortree City. They helped him cross a river with his . Afterwards, they learned that Elijah would travel to small towns all over Hoenn, bringing different movies for the townspeople. In one small town, he met a little girl named , who always awaited Elijah's return with the movies.\n\nAt one point, tried to steal the movie he was about to show. Fortunately, the film unraveled and all Ash and the others had to do was follow it. After being sent off, Elijah was able to reach the town safely and show the movie to all the children.",
+  "plainText": "Elijah (Japanese: タカヤ Takaya) is a character of the day who appeared in Lights, Camerupt, Action!.\n\n and first met Elijah shortly after they left Fortree City. They helped him cross a river with his . Afterwards, they learned that Elijah would travel to small towns all over Hoenn, bringing different movies for the townspeople. In one small town, he met a little girl named , who always awaited Elijah's return with the movies.\n\nAt one point, tried to steal the movie he was about to show. Fortunately, the film unraveled and all Ash and the others had to do was follow it. After being sent off, Elijah was able to reach the town safely and show the movie to all the children.\n\n==Pokémon==\n \n \n\n==Voice actors==\n \n\n \n\n \n \n \n\nes:Elijah\nfr:Élia\nit:Elijah\nzh:高谷",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Elijah (Japanese: タカヤ Takaya) is a character of the day who appeared in Lights, Camerupt, Action!.\n\n and first met Elijah shortly after they left Fortree City. They helped him cross a river with his . Afterwards, they learned that Elijah would travel to small towns all over Hoenn, bringing different movies for the townspeople. In one small town, he met a little girl named , who always awaited Elijah's return with the movies.\n\nAt one point, tried to steal the movie he was about to show. Fortunately, the film unraveled and all Ash and the others had to do was follow it. After being sent off, Elijah was able to reach the town safely and show the movie to all the children."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Elijah\nfr:Élia\nit:Elijah\nzh:高谷"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Elijah",
+    "pageType": "character",
+    "searchableText": "Elijah\nCategory:Hoenn characters of the day\nElijah (Japanese: タカヤ Takaya) is a character of the day who appeared in Lights, Camerupt, Action!.\n\n and first met Elijah shortly after they left Fortree City. They helped him cross a river with his . Afterwards, they learned that Elijah would travel to small towns all over Hoenn, bringing different movies for the townspeople. In one small town, he met a little girl named , who always awaited Elijah's return with the movies.\n\nAt one point, tried to steal the movie he was about to show. Fortunately, the film unraveled and all Ash and the others had to do was follow it. After being sent off, Elijah was able to reach the town safely and show the movie to all the children.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 759,
+    "sectionCount": 2
+  }
+}

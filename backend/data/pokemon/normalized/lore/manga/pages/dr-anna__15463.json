@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Dr. Anna",
+    "slug": "dr-anna",
+    "pageId": 15463,
+    "revisionId": 4512593
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu characters",
+    "sourceFileName": "dr-anna__15463.json",
+    "revisionTimestamp": "2026-03-19T08:39:32Z",
+    "fetchedAt": "2026-05-14T15:17:34.948Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Dr. Anna (Japanese: アンナ Anna) is a character of the day who appeared in the episode Hassle in the Castle. She also appeared in the Ash & Pikachu manga.",
+  "plainText": "Dr. Anna (Japanese: アンナ Anna) is a character of the day who appeared in the episode Hassle in the Castle. She also appeared in the Ash & Pikachu manga.\n\n==In animation==\nDr. Anna runs a clinic, along with her assistant Keiko. Here, people with injuries are treated through the help of . Among the many Pokémon at the clinic is her , named \"Mimi\", which she uses to X-ray her patients to find out what is wrong with them.\n\nOne day, and came along. Impressed with Mimi, sent out his own . He asked Dr. Anna if she would be interested in letting him help out at the clinic, and she agreed.\n\nAfter attacked, Brock sent out Zubat to stop them. During the , his Zubat evolved into . After it used , Dr. Anna's machine—which she used to scan patients—broke. After Team Rocket was sent blasting off, Dr. Anna told Brock that she couldn't have him helping her out, since Golbat's Supersonic was far too powerful. Heartbroken once again, Brock continued on with Ash and .\n\n===Pokémon===\n \n====On hand====\nThis listing is of Dr. Anna's known Pokémon:\n \n\n====Works with====\n \n\n \n\n \n\n===Voice actors===\n \n\n==In the manga==\n \n===Ash & Pikachu===\nDr. Anna appears in Treasure Hunting?! Try The Maze!, where she is simply known by \"Anna\" or \"Miss Anna\". Like in , she works at a health clinic which uses Pokémon to help their patients. She is part of the tenth generation of her family to operate the Pokémon health clinic out of their castle.\n\n====Pokémon====\n=====On hand=====\n \n\n=====Works with=====\n \n\n==Trivia==\nThe name of her Zubat, Mimi, may have been derived from meaning ear on the basis that she uses her ears a lot.\n\n==Related articles==\n \n \n \n\n \n \n \n \n \n \n\nde:Dr. Anna\nes:Doctora Anna\nit:Dott.sa Anna",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Dr. Anna (Japanese: アンナ Anna) is a character of the day who appeared in the episode Hassle in the Castle. She also appeared in the Ash & Pikachu manga."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "Dr. Anna runs a clinic, along with her assistant Keiko. Here, people with injuries are treated through the help of . Among the many Pokémon at the clinic is her , named \"Mimi\", which she uses to X-ray her patients to find out what is wrong with them.\n\nOne day, and came along. Impressed with Mimi, sent out his own . He asked Dr. Anna if she would be interested in letting him help out at the clinic, and she agreed.\n\nAfter attacked, Brock sent out Zubat to stop them. During the , his Zubat evolved into . After it used , Dr. Anna's machine—which she used to scan patients—broke. After Team Rocket was sent blasting off, Dr. Anna told Brock that she couldn't have him helping her out, since Golbat's Supersonic was far too powerful. Heartbroken once again, Brock continued on with Ash and ."
+    },
+    {
+      "heading": "On hand",
+      "level": 4,
+      "text": "This listing is of Dr. Anna's known Pokémon:"
+    },
+    {
+      "heading": "Ash & Pikachu",
+      "level": 3,
+      "text": "Dr. Anna appears in Treasure Hunting?! Try The Maze!, where she is simply known by \"Anna\" or \"Miss Anna\". Like in , she works at a health clinic which uses Pokémon to help their patients. She is part of the tenth generation of her family to operate the Pokémon health clinic out of their castle."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The name of her Zubat, Mimi, may have been derived from meaning ear on the basis that she uses her ears a lot."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Dr. Anna\nes:Doctora Anna\nit:Dott.sa Anna"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dr. Anna",
+    "pageType": "character",
+    "searchableText": "Dr. Anna\nCategory:Ash & Pikachu characters\nDr. Anna (Japanese: アンナ Anna) is a character of the day who appeared in the episode Hassle in the Castle. She also appeared in the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "On hand",
+      "Ash & Pikachu",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1697,
+    "sectionCount": 6
+  }
+}

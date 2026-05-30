@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "P7-08",
+    "slug": "p7-08",
+    "pageId": 117320,
+    "revisionId": 4526357
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Phantom Thief Pokémon 7 chapters",
+    "sourceFileName": "p7-08__117320.json",
+    "revisionTimestamp": "2026-04-09T14:39:11Z",
+    "fetchedAt": "2026-05-14T15:28:06.304Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Lily Regains Her Memories! (Japanese: リリよ、思い出せ！ Lily, Remember!) is the eighth chapter of the Phantom Thief Pokémon 7 manga.",
+  "plainText": "Lily Regains Her Memories! (Japanese: リリよ、思い出せ！ Lily, Remember!) is the eighth chapter of the Phantom Thief Pokémon 7 manga.\n\n==Plot==\n \n\n==Major events==\nis freed from Team Galactic's mind control.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHiori\nRocco\n\n===Pokémon===\n( )\n(Hiori's)\n(Hiori's)\n( 's)\n \n \n \n \n \n\nzh:快盗！宝可梦７ 第8话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lily Regains Her Memories! (Japanese: リリよ、思い出せ！ Lily, Remember!) is the eighth chapter of the Phantom Thief Pokémon 7 manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "is freed from Team Galactic's mind control."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hiori\nRocco"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Hiori's)\n(Hiori's)\n( 's)\n \n \n \n \n \n\nzh:快盗！宝可梦７ 第8话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "P7-08",
+    "pageType": "chapter",
+    "searchableText": "P7-08\nCategory:Phantom Thief Pokémon 7 chapters\nLily Regains Her Memories! (Japanese: リリよ、思い出せ！ Lily, Remember!) is the eighth chapter of the Phantom Thief Pokémon 7 manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 347,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ19",
+    "slug": "gdz19",
+    "pageId": 168624,
+    "revisionId": 4528125
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz19__168624.json",
+    "revisionTimestamp": "2026-04-09T16:08:05Z",
+    "fetchedAt": "2026-05-14T15:19:33.457Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 冒険ビードル、台風にまけるな！ the Adventurous, Don't Let That Typhoon Beat You!) is the nineteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 冒険ビードル、台風にまけるな！ the Adventurous, Don't Let That Typhoon Beat You!) is the nineteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's; new)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 冒険ビードル、台風にまけるな！ the Adventurous, Don't Let That Typhoon Beat You!) is the nineteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's; new)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ19",
+    "pageType": "chapter",
+    "searchableText": "GDZ19\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 冒険ビードル、台風にまけるな！ the Adventurous, Don't Let That Typhoon Beat You!) is the nineteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 310,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Hibana",
+    "slug": "hibana",
+    "pageId": 246476,
+    "revisionId": 4498557
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "hibana__246476.json",
+    "revisionTimestamp": "2026-03-02T12:48:28Z",
+    "fetchedAt": "2026-05-14T14:22:16.131Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Hibana (Japanese: ヒバナ Hibana) is a recurring character in . She is an .\n\nShe first appeared in Serving Up the Flute Cup!, where she starred in a promotional spot for the Battle Frontier Flute Cup, in which she presented the prize of the tournament: a set of all five flutes. She also invited s to enter the competition. Hibana later awarded his prizes at the award ceremony after he defeated Hodge in the final round.\n\nHibana reappeared during a promotional video in Restore and Renew!, where she presented a special exhibit of a at the Pewter Museum of Science.",
+  "plainText": "Hibana (Japanese: ヒバナ Hibana) is a recurring character in . She is an .\n\nShe first appeared in Serving Up the Flute Cup!, where she starred in a promotional spot for the Battle Frontier Flute Cup, in which she presented the prize of the tournament: a set of all five flutes. She also invited s to enter the competition. Hibana later awarded his prizes at the award ceremony after he defeated Hodge in the final round.\n\nHibana reappeared during a promotional video in Restore and Renew!, where she presented a special exhibit of a at the Pewter Museum of Science.\n\n==Voice actors==\n \n \n\n \n \n\nes:Hibana\nit:Hibana\nja:ヒバナ\nzh:緋華",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hibana (Japanese: ヒバナ Hibana) is a recurring character in . She is an .\n\nShe first appeared in Serving Up the Flute Cup!, where she starred in a promotional spot for the Battle Frontier Flute Cup, in which she presented the prize of the tournament: a set of all five flutes. She also invited s to enter the competition. Hibana later awarded his prizes at the award ceremony after he defeated Hodge in the final round.\n\nHibana reappeared during a promotional video in Restore and Renew!, where she presented a special exhibit of a at the Pewter Museum of Science."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Hibana\nit:Hibana\nja:ヒバナ\nzh:緋華"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hibana",
+    "pageType": "character",
+    "searchableText": "Hibana\nCategory:Animation characters\nHibana (Japanese: ヒバナ Hibana) is a recurring character in . She is an .\n\nShe first appeared in Serving Up the Flute Cup!, where she starred in a promotional spot for the Battle Frontier Flute Cup, in which she presented the prize of the tournament: a set of all five flutes. She also invited s to enter the competition. Hibana later awarded his prizes at the award ceremony after he defeated Hodge in the final round.\n\nHibana reappeared during a promotional video in Restore and Renew!, where she presented a special exhibit of a at the Pewter Museum of Science.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 623,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM048",
+    "slug": "pm048",
+    "pageId": 160475,
+    "revisionId": 4526692
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm048__160475.json",
+    "revisionTimestamp": "2026-04-09T15:02:25Z",
+    "fetchedAt": "2026-05-14T15:30:59.915Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Stop the Missile!! (Japanese: ロケット爆弾を阻止しろ!! Stop the Missile!!) is the forty-eighth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Stop the Missile!! (Japanese: ロケット爆弾を阻止しろ!! Stop the Missile!!) is the forty-eighth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 48 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Stop the Missile!! (Japanese: ロケット爆弾を阻止しろ!! Stop the Missile!!) is the forty-eighth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 48 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM048",
+    "pageType": "chapter",
+    "searchableText": "PM048\nCategory:Pokémon Pocket Monsters chapters\nStop the Missile!! (Japanese: ロケット爆弾を阻止しろ!! Stop the Missile!!) is the forty-eighth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 308,
+    "sectionCount": 3
+  }
+}

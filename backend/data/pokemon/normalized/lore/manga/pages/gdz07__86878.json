@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "GDZ07",
+    "slug": "gdz07",
+    "pageId": 86878,
+    "revisionId": 4130840
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz07__86878.json",
+    "revisionTimestamp": "2024-09-29T03:53:51Z",
+    "fetchedAt": "2026-05-14T15:19:25.475Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Down with the \"Kick Fighter\" (Japanese: \"辻げり\"たいじだ! Confronting the \"Streetkicker\"!) is the seventh chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "Down with the \"Kick Fighter\" (Japanese: \"辻げり\"たいじだ! Confronting the \"Streetkicker\"!) is the seventh chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\nAs night begins to fall, Shu and are nearing a town when suddenly Pikachu tells Shu to look out as a foot goes straight for his head.\n\nLater as Shu recovers, he and Pikachu hear from the townspeople that at night someone known as the \"Kick Fighter\" goes around attacking people. The Kick Fighter's identity is unknown, however it's said that its shape isn't human. Shu decides that he and Pikachu should investigate into this. The next day Shu goes out seeking the Kick Fighter and confirms its identity as a . He challenges Hitmonlee to a duel with the condition that if he wins, Hitmonlee will stop kicking people in the street. During the match Shu double teams Hitmonlee with Pikachu and , eventually causing it to tangle itself in its own legs. With a and combo, Hitmonlee is defeated.\n\nShu tells Hitmonlee that he can recognize that the two of them are the same, both want to become stronger, however there's things one can't achieve alone. And so he asks Hitmonlee to join him, and Hitmonlee accepts. However, training a Hitmonlee isn't as easy as it looks.\n\n==Major events==\nShu a .\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nTownspeople\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's)\n(Shu's; new)\n\n==Trivia==\n===Errors===\nis erroneously translated as .\n\n==In other languages==\n \n\n \n\n \n\nit:GDZ07\nzh:GDZ07",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Down with the \"Kick Fighter\" (Japanese: \"辻げり\"たいじだ! Confronting the \"Streetkicker\"!) is the seventh chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "As night begins to fall, Shu and are nearing a town when suddenly Pikachu tells Shu to look out as a foot goes straight for his head.\n\nLater as Shu recovers, he and Pikachu hear from the townspeople that at night someone known as the \"Kick Fighter\" goes around attacking people. The Kick Fighter's identity is unknown, however it's said that its shape isn't human. Shu decides that he and Pikachu should investigate into this. The next day Shu goes out seeking the Kick Fighter and confirms its identity as a . He challenges Hitmonlee to a duel with the condition that if he wins, Hitmonlee will stop kicking people in the street. During the match Shu double teams Hitmonlee with Pikachu and , eventually causing it to tangle itself in its own legs. With a and combo, Hitmonlee is defeated.\n\nShu tells Hitmonlee that he can recognize that the two of them are the same, both want to become stronger, however there's things one can't achieve alone. And so he asks Hitmonlee to join him, and Hitmonlee accepts. However, training a Hitmonlee isn't as easy as it looks."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Shu a ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nTownspeople"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's)\n(Shu's; new)"
+    },
+    {
+      "heading": "Errors",
+      "level": 3,
+      "text": "is erroneously translated as ."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:GDZ07\nzh:GDZ07"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ07",
+    "pageType": "chapter",
+    "searchableText": "GDZ07\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\nDown with the \"Kick Fighter\" (Japanese: \"辻げり\"たいじだ! Confronting the \"Streetkicker\"!) is the seventh chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Errors",
+      "In other languages"
+    ],
+    "characterCount": 1488,
+    "sectionCount": 7
+  }
+}

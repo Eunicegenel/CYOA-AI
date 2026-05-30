@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Kent",
+    "slug": "kent",
+    "pageId": 338045,
+    "revisionId": 4475283
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Concierge characters",
+    "sourceFileName": "kent__338045.json",
+    "revisionTimestamp": "2026-01-26T13:39:13Z",
+    "fetchedAt": "2026-05-14T14:29:14.340Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kent (Japanese: ケント Kento) is a character in Pokémon Concierge. He is Haru's ex-boyfriend who visits the Pokémon Resort as a guest from the city.",
+  "plainText": "Kent (Japanese: ケント Kento) is a character in Pokémon Concierge. He is Haru's ex-boyfriend who visits the Pokémon Resort as a guest from the city.\n\n==History==\nKent was Haru's boyfriend for six-and-a-half years before he suddenly broke up with her via a text message. This incident, among many other things, led to Haru pursuing a new life at the Pokémon Resort.\n\nIn Where I Belong, Kent appeared as a guest to the Pokémon Resort to celebrate him becoming an area manager at his workplace, and met up with Haru after not seeing her in a while. Shocked over the fact that a former businesswoman like Haru ended up working at the Pokémon Resort, Kent initially thought Haru was unhappy with her life in the city and needed an escape. However, over the course of his stay at the Resort, Kent grew to realize Haru has found where she belongs. He expressed happiness for her new career and thanked her for his stay.\n\n==Character==\n \nKent is soft-spoken and has a somewhat awkward personality. Despite their breakup, Kent and Haru remain on amicable terms. Haru treated Kent like she does any other guest at the Resort, and hoped he'll visit the place again soon.\n \n\n==Pokémon==\n \n\n==Voice actors==\n \n\n==Names==\n \n \n\n \n\nes:Kent (Conserje Pokémon)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kent (Japanese: ケント Kento) is a character in Pokémon Concierge. He is Haru's ex-boyfriend who visits the Pokémon Resort as a guest from the city."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Kent was Haru's boyfriend for six-and-a-half years before he suddenly broke up with her via a text message. This incident, among many other things, led to Haru pursuing a new life at the Pokémon Resort.\n\nIn Where I Belong, Kent appeared as a guest to the Pokémon Resort to celebrate him becoming an area manager at his workplace, and met up with Haru after not seeing her in a while. Shocked over the fact that a former businesswoman like Haru ended up working at the Pokémon Resort, Kent initially thought Haru was unhappy with her life in the city and needed an escape. However, over the course of his stay at the Resort, Kent grew to realize Haru has found where she belongs. He expressed happiness for her new career and thanked her for his stay."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Kent is soft-spoken and has a somewhat awkward personality. Despite their breakup, Kent and Haru remain on amicable terms. Haru treated Kent like she does any other guest at the Resort, and hoped he'll visit the place again soon."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Kent (Conserje Pokémon)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kent",
+    "pageType": "character",
+    "searchableText": "Kent\nCategory:Pokémon Concierge characters\nKent (Japanese: ケント Kento) is a character in Pokémon Concierge. He is Haru's ex-boyfriend who visits the Pokémon Resort as a guest from the city.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Names"
+    ],
+    "characterCount": 1239,
+    "sectionCount": 4
+  }
+}

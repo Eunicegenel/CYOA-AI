@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Layla (M11)",
+    "slug": "layla-m11",
+    "pageId": 46748,
+    "revisionId": 4487209
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "layla-m11__46748.json",
+    "revisionTimestamp": "2026-02-16T01:42:34Z",
+    "fetchedAt": "2026-05-14T14:30:42.050Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Layla (Japanese: レイラ Leila) is a character who appeared in Giratina and the Sky Warrior.",
+  "plainText": "Layla (Japanese: レイラ Leila) is a character who appeared in Giratina and the Sky Warrior. \n\n==In the movies==\nLayla and her husband Moose were traveling on a train to her great-grandmother's hundredth birthday celebration and wanted to give her a bouquet of Gracideas. On the train, they met up with , , , , Sylvan, Shun, Taka, and . She bonded with Shaymin and witnessed it transform into its Sky Forme when it touched the bouquet of Gracideas for her great-grandmother. Following this, the train was attacked by Zero's , and , but Ash, Dawn and Shaymin were able to drive them off.\n\nShe later said her goodbyes to Ash, , and Shaymin as they set off on a ferry to the flower garden of . Later, Layla met up with them again as the group attended her great-grandmother's birthday party.\n\n===Voice actors===\n \n\n==In the manga==\n===Movie adaptations===\nLayla appeared in of the movie, where she played the same role.\n\n==Trivia==\nLayla's Japanese name contains , which is a Hawaiian necklace made of flowers.\n\n==In other languages==\n \n \n==Related articles==\n \n \n\nes:Layla (película)\nfr:Layla et Moose\nit:Layla (F11)\nja:レイラ (映画)\nzh:蕾拉（电影系列第11作）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Layla (Japanese: レイラ Leila) is a character who appeared in Giratina and the Sky Warrior."
+    },
+    {
+      "heading": "In the movies",
+      "level": 2,
+      "text": "Layla and her husband Moose were traveling on a train to her great-grandmother's hundredth birthday celebration and wanted to give her a bouquet of Gracideas. On the train, they met up with , , , , Sylvan, Shun, Taka, and . She bonded with Shaymin and witnessed it transform into its Sky Forme when it touched the bouquet of Gracideas for her great-grandmother. Following this, the train was attacked by Zero's , and , but Ash, Dawn and Shaymin were able to drive them off.\n\nShe later said her goodbyes to Ash, , and Shaymin as they set off on a ferry to the flower garden of . Later, Layla met up with them again as the group attended her great-grandmother's birthday party."
+    },
+    {
+      "heading": "Movie adaptations",
+      "level": 3,
+      "text": "Layla appeared in of the movie, where she played the same role."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Layla's Japanese name contains , which is a Hawaiian necklace made of flowers."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Layla (película)\nfr:Layla et Moose\nit:Layla (F11)\nja:レイラ (映画)\nzh:蕾拉（电影系列第11作）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Layla (M11)",
+    "pageType": "movie",
+    "searchableText": "Layla (M11)\nCategory:Movie characters\nLayla (Japanese: レイラ Leila) is a character who appeared in Giratina and the Sky Warrior.",
+    "sectionHeadings": [
+      "Lead",
+      "In the movies",
+      "Movie adaptations",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1138,
+    "sectionCount": 5
+  }
+}

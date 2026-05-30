@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "CCP29",
+    "slug": "ccp29",
+    "pageId": 175482,
+    "revisionId": 4527826
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp29__175482.json",
+    "revisionTimestamp": "2026-04-09T15:55:17Z",
+    "fetchedAt": "2026-05-14T15:15:25.719Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 七タの願い事ちゃも Tanabata Wishes (chamo)) is the 29th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: 七タの願い事ちゃも Tanabata Wishes (chamo)) is the 29th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\ndiscovers that she has feelings for .\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n(debut)\n\n( ; fantasy)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 七タの願い事ちゃも Tanabata Wishes (chamo)) is the 29th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "discovers that she has feelings for ."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(debut)\n\n( ; fantasy)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP29",
+    "pageType": "chapter",
+    "searchableText": "CCP29\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: 七タの願い事ちゃも Tanabata Wishes (chamo)) is the 29th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon"
+    ],
+    "characterCount": 289,
+    "sectionCount": 3
+  }
+}

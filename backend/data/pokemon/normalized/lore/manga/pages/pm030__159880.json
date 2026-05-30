@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM030",
+    "slug": "pm030",
+    "pageId": 159880,
+    "revisionId": 4526594
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm030__159880.json",
+    "revisionTimestamp": "2026-04-09T14:57:37Z",
+    "fetchedAt": "2026-05-14T15:30:48.242Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Let's Celebrate the New Year!! (Japanese: お正月を楽しもう！！ Let's Celebrate the New Year!!) is the thirtieth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Let's Celebrate the New Year!! (Japanese: お正月を楽しもう！！ Let's Celebrate the New Year!!) is the thirtieth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n( 's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 30 (Pokémon Pocket Monsters)\nit:PMM030",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Let's Celebrate the New Year!! (Japanese: お正月を楽しもう！！ Let's Celebrate the New Year!!) is the thirtieth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 30 (Pokémon Pocket Monsters)\nit:PMM030"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM030",
+    "pageType": "chapter",
+    "searchableText": "PM030\nCategory:Pokémon Pocket Monsters chapters\nLet's Celebrate the New Year!! (Japanese: お正月を楽しもう！！ Let's Celebrate the New Year!!) is the thirtieth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 350,
+    "sectionCount": 3
+  }
+}

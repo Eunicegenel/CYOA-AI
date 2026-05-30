@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "SP10",
+    "slug": "sp10",
+    "pageId": 182457,
+    "revisionId": 4114594
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp10__182457.json",
+    "revisionTimestamp": "2024-09-16T20:33:27Z",
+    "fetchedAt": "2026-05-14T15:49:57.011Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Grand Rhydon Plan (Japanese: サイドンゲット大作戦 The Big Catching- Strategy) is the 10th chapter of the Ash & Pikachu manga.",
+  "plainText": "The Grand Rhydon Plan (Japanese: サイドンゲット大作戦 The Big Catching- Strategy) is the 10th chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n( )\n( )\n( )\n\n==Characters==\n===Humans===\n\nEriko\nEriko's grandmother\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n( )\n(Eriko's; new)\n(Eriko's)\n(Eriko's; ×3)\n(Eriko's)\n(Eriko's)\n\n \n \n\n \n\nit:SP10",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Grand Rhydon Plan (Japanese: サイドンゲット大作戦 The Big Catching- Strategy) is the 10th chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Eriko\nEriko's grandmother"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )\n(Eriko's; new)\n(Eriko's)\n(Eriko's; ×3)\n(Eriko's)\n(Eriko's)\n\n \n \n\n \n\nit:SP10"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP10",
+    "pageType": "chapter",
+    "searchableText": "SP10\nCategory:Ash & Pikachu chapters\nThe Grand Rhydon Plan (Japanese: サイドンゲット大作戦 The Big Catching- Strategy) is the 10th chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 370,
+    "sectionCount": 4
+  }
+}

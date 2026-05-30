@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Template:Character Infobox/doc",
+    "slug": "template-character-infobox-doc",
+    "pageId": 281335,
+    "revisionId": 4108306
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "template-character-infobox-doc__281335.json",
+    "revisionTimestamp": "2024-09-09T16:18:17Z",
+    "fetchedAt": "2026-05-14T14:53:42.805Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Character Infobox is to be used at the top of non-Pokémon character pages; Pokémon character pages should use instead. The full infobox is split into five templates starting with the main . The other four templates should be used immediately after the main template, when applicable, and |} must be put after the last template.",
+  "plainText": "The Character Infobox is to be used at the top of non-Pokémon character pages; Pokémon character pages should use instead. The full infobox is split into five templates starting with the main . The other four templates should be used immediately after the main template, when applicable, and |} must be put after the last template.\n\n==How to use==\n===Main template===\n \n\n===Game===\nUse this template for characters seen in video games. Put it right below the main template if the character is primarily known for their game appearances. Put it below the anime and/or manga template if the character's game appearances are less notable, such as Ash Ketchum. For character pages that are specific media counterparts, like Misty (anime), only use this template for games that specifically base the character's appearance on the counterpart. For example, Pokémon Puzzle League is based on the main anime series so would be listed in this template on Misty (anime).\n\n \n\n===Anime===\nUse this template for characters that appear in an anime series such as Pokémon the Series or Pokémon Evolutions. Put it right below the main template if the character is primarily known for their anime appearances. Put it below the game template if the character's game appearances are more notable.\n\n \n\n===Manga===\nUse this template for characters that appear in a multi-issue manga, Western comic, or newspaper strip such as Pokémon Adventures or Pokémon Zensho. Put it right below the main template if the character is primarily known for their manga or comic appearances. Put it below the game and/or anime template if the character's manga/comic appearances are less notable.\n\n \n\n===Team===\nUse this template when a character is part of an organization such as a Pokémon League or a villainous team. If the character's membership is the same in all media, put this template right below the primary media template. If the character's membership is exclusive to one medium, put this template below the appropriate media template. If the character is part of multiple organizations, use multiple instances of this template.\n\n \n\n==Example==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Character Infobox is to be used at the top of non-Pokémon character pages; Pokémon character pages should use instead. The full infobox is split into five templates starting with the main . The other four templates should be used immediately after the main template, when applicable, and |} must be put after the last template."
+    },
+    {
+      "heading": "Game",
+      "level": 3,
+      "text": "Use this template for characters seen in video games. Put it right below the main template if the character is primarily known for their game appearances. Put it below the anime and/or manga template if the character's game appearances are less notable, such as Ash Ketchum. For character pages that are specific media counterparts, like Misty (anime), only use this template for games that specifically base the character's appearance on the counterpart. For example, Pokémon Puzzle League is based on the main anime series so would be listed in this template on Misty (anime)."
+    },
+    {
+      "heading": "Anime",
+      "level": 3,
+      "text": "Use this template for characters that appear in an anime series such as Pokémon the Series or Pokémon Evolutions. Put it right below the main template if the character is primarily known for their anime appearances. Put it below the game template if the character's game appearances are more notable."
+    },
+    {
+      "heading": "Manga",
+      "level": 3,
+      "text": "Use this template for characters that appear in a multi-issue manga, Western comic, or newspaper strip such as Pokémon Adventures or Pokémon Zensho. Put it right below the main template if the character is primarily known for their manga or comic appearances. Put it below the game and/or anime template if the character's manga/comic appearances are less notable."
+    },
+    {
+      "heading": "Team",
+      "level": 3,
+      "text": "Use this template when a character is part of an organization such as a Pokémon League or a villainous team. If the character's membership is the same in all media, put this template right below the primary media template. If the character's membership is exclusive to one medium, put this template below the appropriate media template. If the character is part of multiple organizations, use multiple instances of this template."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Template:Character Infobox/doc",
+    "pageType": "character",
+    "searchableText": "Template:Character Infobox/doc\nCategory:Animation characters\nThe Character Infobox is to be used at the top of non-Pokémon character pages; Pokémon character pages should use instead. The full infobox is split into five templates starting with the main . The other four templates should be used immediately after the main template, when applicable, and |} must be put after the last template.",
+    "sectionHeadings": [
+      "Lead",
+      "Game",
+      "Anime",
+      "Manga",
+      "Team"
+    ],
+    "characterCount": 2119,
+    "sectionCount": 5
+  }
+}

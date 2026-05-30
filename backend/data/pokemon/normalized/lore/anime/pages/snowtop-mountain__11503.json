@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Snowtop Mountain",
+    "slug": "snowtop-mountain",
+    "pageId": 11503,
+    "revisionId": 4261152
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "snowtop-mountain__11503.json",
+    "revisionTimestamp": "2025-03-19T21:50:45Z",
+    "fetchedAt": "2026-05-14T14:51:43.853Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Snowtop Mountain (Japanese: シラユキ山 Mountain) is an -exclusive location in northern Johto, found between Olivine City and Ecruteak City. Although it is not the tallest mountain in Johto, it has the highest Pokémon Center in the world, located on the peak of the mountain. It is very cold near the peak, and it is not uncommon for s to start without warning. Snowtop Mountain is said to have a connection with the Legendary Pokémon .",
+  "plainText": "Snowtop Mountain (Japanese: シラユキ山 Mountain) is an -exclusive location in northern Johto, found between Olivine City and Ecruteak City. Although it is not the tallest mountain in Johto, it has the highest Pokémon Center in the world, located on the peak of the mountain. It is very cold near the peak, and it is not uncommon for s to start without warning. Snowtop Mountain is said to have a connection with the Legendary Pokémon .\n\n==The Legend of Articuno==\n \nTravelers say that the Articuno watch over them on their journeys. According to the local Nurse Joy and Officer Jenny, Articuno have come to Snowtop Mountain for longer than anyone can remember. Because Articuno have nests in all the highest mountains and coldest places, many believe that an Articuno must reside on Snowtop Mountain. \n\nA legend states that 1,200 years ago, three travelers were stranded on the mountain, but an Articuno found them and led them to safety. A year later, the same three returned and brought with them a statue of the Pokémon to thank and honor Articuno.\n \n==Pokémon seen on Snowtop Mountain==\n \n \n\n==Trivia==\nThis mountain looks very similar to the one on Ice Island, which is also a residence of Articuno.\n\n==In other languages==\n \n\n \n \n \n \n\nde:Schneegipfel\nes:Montaña de la Cumbre Nevada\nit:Montagna Vetta Innevata\nzh:白雪山",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Snowtop Mountain (Japanese: シラユキ山 Mountain) is an -exclusive location in northern Johto, found between Olivine City and Ecruteak City. Although it is not the tallest mountain in Johto, it has the highest Pokémon Center in the world, located on the peak of the mountain. It is very cold near the peak, and it is not uncommon for s to start without warning. Snowtop Mountain is said to have a connection with the Legendary Pokémon ."
+    },
+    {
+      "heading": "The Legend of Articuno",
+      "level": 2,
+      "text": "Travelers say that the Articuno watch over them on their journeys. According to the local Nurse Joy and Officer Jenny, Articuno have come to Snowtop Mountain for longer than anyone can remember. Because Articuno have nests in all the highest mountains and coldest places, many believe that an Articuno must reside on Snowtop Mountain. \n\nA legend states that 1,200 years ago, three travelers were stranded on the mountain, but an Articuno found them and led them to safety. A year later, the same three returned and brought with them a statue of the Pokémon to thank and honor Articuno."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This mountain looks very similar to the one on Ice Island, which is also a residence of Articuno."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Schneegipfel\nes:Montaña de la Cumbre Nevada\nit:Montagna Vetta Innevata\nzh:白雪山"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Snowtop Mountain",
+    "pageType": "location",
+    "searchableText": "Snowtop Mountain\nCategory:Animated series-exclusive locations\nSnowtop Mountain (Japanese: シラユキ山 Mountain) is an -exclusive location in northern Johto, found between Olivine City and Ecruteak City. Although it is not the tallest mountain in Johto, it has the highest Pokémon Center in the world, located on the peak of the mountain. It is very cold near the peak, and it is not uncommon for s to start without warning. Snowtop Mountain is said to have a connection with the Legendary Pokémon .",
+    "sectionHeadings": [
+      "Lead",
+      "The Legend of Articuno",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1316,
+    "sectionCount": 4
+  }
+}

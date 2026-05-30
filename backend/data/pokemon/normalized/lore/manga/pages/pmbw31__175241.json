@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMBW31",
+    "slug": "pmbw31",
+    "pageId": 175241,
+    "revisionId": 4528418
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw31__175241.json",
+    "revisionTimestamp": "2026-04-09T16:19:51Z",
+    "fetchedAt": "2026-05-14T15:32:02.922Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 再会！チャンピオン &bull; グリーン！！ Meeting Again! Champion Green!!) is the thirty-first chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 再会！チャンピオン &bull; グリーン！！ Meeting Again! Champion Green!!) is the thirty-first chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\nreappears.\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nBrock\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n\n \n \n\nit:PMBW31",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 再会！チャンピオン &bull; グリーン！！ Meeting Again! Champion Green!!) is the thirty-first chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "reappears."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Brock"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n\n \n \n\nit:PMBW31"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW31",
+    "pageType": "chapter",
+    "searchableText": "PMBW31\nCategory:Pocket Monsters BW chapters\n(Japanese: 再会！チャンピオン &bull; グリーン！！ Meeting Again! Champion Green!!) is the thirty-first chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 307,
+    "sectionCount": 4
+  }
+}

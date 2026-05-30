@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Fitzwilliam",
+    "slug": "fitzwilliam",
+    "pageId": 57609,
+    "revisionId": 4095722
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "fitzwilliam__57609.json",
+    "revisionTimestamp": "2024-09-01T00:39:10Z",
+    "fetchedAt": "2026-05-14T14:19:05.832Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Fitzwilliam (Japanese: ヨシミツ Yoshimitsu) is Drake's first mate and a character of the day who appeared in Vanity Affair.\n\nFitzwilliam first appeared when waving at Drake when the ship was coming near land. He watched 's battle against Drake from the sidelines. When stated that Drake was not so strong—for a person in the Elite Four—Fitzwilliam told them not to be so sure, and to wait and see what he meant. Fitzwilliam also explained what Drake's strategy was with his , when the Pokémon knocked out . He also preempted Ash's mast-climbing strategy when he sent out , who had the type disadvantage, against Drake's . Fitzwilliam recognized Ash's out-of-the-box battle strategy as the reason for Drake deciding to challenge him.",
+  "plainText": "Fitzwilliam (Japanese: ヨシミツ Yoshimitsu) is Drake's first mate and a character of the day who appeared in Vanity Affair.\n\nFitzwilliam first appeared when waving at Drake when the ship was coming near land. He watched 's battle against Drake from the sidelines. When stated that Drake was not so strong—for a person in the Elite Four—Fitzwilliam told them not to be so sure, and to wait and see what he meant. Fitzwilliam also explained what Drake's strategy was with his , when the Pokémon knocked out . He also preempted Ash's mast-climbing strategy when he sent out , who had the type disadvantage, against Drake's . Fitzwilliam recognized Ash's out-of-the-box battle strategy as the reason for Drake deciding to challenge him.\n\n==Voice actors==\n \n\n \n\n \n \n \n\nes:Fitzwilliam\nit:Fitzwilliam\nzh:良光",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Fitzwilliam (Japanese: ヨシミツ Yoshimitsu) is Drake's first mate and a character of the day who appeared in Vanity Affair.\n\nFitzwilliam first appeared when waving at Drake when the ship was coming near land. He watched 's battle against Drake from the sidelines. When stated that Drake was not so strong—for a person in the Elite Four—Fitzwilliam told them not to be so sure, and to wait and see what he meant. Fitzwilliam also explained what Drake's strategy was with his , when the Pokémon knocked out . He also preempted Ash's mast-climbing strategy when he sent out , who had the type disadvantage, against Drake's . Fitzwilliam recognized Ash's out-of-the-box battle strategy as the reason for Drake deciding to challenge him."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Fitzwilliam\nit:Fitzwilliam\nzh:良光"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Fitzwilliam",
+    "pageType": "character",
+    "searchableText": "Fitzwilliam\nCategory:Hoenn characters of the day\nFitzwilliam (Japanese: ヨシミツ Yoshimitsu) is Drake's first mate and a character of the day who appeared in Vanity Affair.\n\nFitzwilliam first appeared when waving at Drake when the ship was coming near land. He watched 's battle against Drake from the sidelines. When stated that Drake was not so strong—for a person in the Elite Four—Fitzwilliam told them not to be so sure, and to wait and see what he meant. Fitzwilliam also explained what Drake's strategy was with his , when the Pokémon knocked out . He also preempted Ash's mast-climbing strategy when he sent out , who had the type disadvantage, against Drake's . Fitzwilliam recognized Ash's out-of-the-box battle strategy as the reason for Drake deciding to challenge him.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 795,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PPP11",
+    "slug": "ppp11",
+    "pageId": 6546,
+    "revisionId": 4131290
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp11__6546.json",
+    "revisionTimestamp": "2024-09-29T04:16:29Z",
+    "fetchedAt": "2026-05-14T15:38:43.477Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Charmander's Peanut (Japanese: ヒトカゲくんとピースくん -kun and Peanut-kun) is the 11th chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Charmander's Peanut (Japanese: ヒトカゲくんとピースくん -kun and Peanut-kun) is the 11th chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nThe Pokémon are playing in a field when an aggressive approaches them. He is accompanied by his Trainer, Peanut, a shy and sickly boy who is new in town. Charmander explains that they are headed for the Tree of Strength and insists that the Pokémon accompany them.\n\nThe group climb the mountain, dodging various perils such as falling rocks and a wild , when suddenly it begins to rain. Peanut risks his health to protect Charmander's flame from going out, and the other Pokémon help as well by gathering leaves and things to help shelter the both of them from the rain.\n\nAfter the rainstorm, they return to Hazel and Almond in the field, soaking wet. When Hazel asks where they were, they reply that they were headed for Tree Mountain, which turns out to be much closer than they thought it was.\n\n==Major events==\nThe group meets and Peanut.\nThe Fruit of Great Strength is introduced.\n \n\n===Debuts===\n====Humans====\nPeanut\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nPeanut\nHazel\nAlmond\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( ; debut)\n\n(flashback}\n\n \n\n \n \n\n \n\nit:PPP11",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Charmander's Peanut (Japanese: ヒトカゲくんとピースくん -kun and Peanut-kun) is the 11th chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "The Pokémon are playing in a field when an aggressive approaches them. He is accompanied by his Trainer, Peanut, a shy and sickly boy who is new in town. Charmander explains that they are headed for the Tree of Strength and insists that the Pokémon accompany them.\n\nThe group climb the mountain, dodging various perils such as falling rocks and a wild , when suddenly it begins to rain. Peanut risks his health to protect Charmander's flame from going out, and the other Pokémon help as well by gathering leaves and things to help shelter the both of them from the rain.\n\nAfter the rainstorm, they return to Hazel and Almond in the field, soaking wet. When Hazel asks where they were, they reply that they were headed for Tree Mountain, which turns out to be much closer than they thought it was."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "The group meets and Peanut.\nThe Fruit of Great Strength is introduced."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Peanut"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Peanut\nHazel\nAlmond"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( ; debut)\n\n(flashback}\n\n \n\n \n \n\n \n\nit:PPP11"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP11",
+    "pageType": "chapter",
+    "searchableText": "PPP11\nCategory:Magical Pokémon Journey chapters\nCharmander's Peanut (Japanese: ヒトカゲくんとピースくん -kun and Peanut-kun) is the 11th chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1207,
+    "sectionCount": 6
+  }
+}

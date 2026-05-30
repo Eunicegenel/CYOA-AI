@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PBK4",
+    "slug": "pbk4",
+    "pageId": 176465,
+    "revisionId": 4528335
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Platinum: Aim to be Battle King!! chapters",
+    "sourceFileName": "pbk4__176465.json",
+    "revisionTimestamp": "2026-04-09T16:16:06Z",
+    "fetchedAt": "2026-05-14T15:29:25.946Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 激突！遊ＶＳさすらいプレイヤー Clash! Yū vs. The Wandering Player) is the fourth chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga.",
+  "plainText": "(Japanese: 激突！遊ＶＳさすらいプレイヤー Clash! Yū vs. The Wandering Player) is the fourth chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nYū Shirogane\n\n===Pokémon===\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 激突！遊ＶＳさすらいプレイヤー Clash! Yū vs. The Wandering Player) is the fourth chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Yū Shirogane"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PBK4",
+    "pageType": "chapter",
+    "searchableText": "PBK4\nCategory:Pocket Monsters Platinum: Aim to be Battle King!! chapters\n(Japanese: 激突！遊ＶＳさすらいプレイヤー Clash! Yū vs. The Wandering Player) is the fourth chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 277,
+    "sectionCount": 3
+  }
+}

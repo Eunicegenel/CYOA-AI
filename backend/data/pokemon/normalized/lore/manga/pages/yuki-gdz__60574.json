@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Yuki (GDZ)",
+    "slug": "yuki-gdz",
+    "pageId": 60574,
+    "revisionId": 4398494
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "yuki-gdz__60574.json",
+    "revisionTimestamp": "2025-10-12T11:59:41Z",
+    "fetchedAt": "2026-05-14T15:53:04.770Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Yuki (Japanese: ユウキ Yūki) is a character who appeared in Pokémon: Yeah! I Got Pokémon!. She is a beautiful young woman who has trained her Pokémon to be expert chefs in Pokémon cooking contests. She is an arrogant young Trainer who competed with Shu to win a .",
+  "plainText": "Yuki (Japanese: ユウキ Yūki) is a character who appeared in Pokémon: Yeah! I Got Pokémon!. She is a beautiful young woman who has trained her Pokémon to be expert chefs in Pokémon cooking contests. She is an arrogant young Trainer who competed with Shu to win a .\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yuki (Japanese: ユウキ Yūki) is a character who appeared in Pokémon: Yeah! I Got Pokémon!. She is a beautiful young woman who has trained her Pokémon to be expert chefs in Pokémon cooking contests. She is an arrogant young Trainer who competed with Shu to win a ."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yuki (GDZ)",
+    "pageType": "character",
+    "searchableText": "Yuki (GDZ)\nCategory:Pokémon: Yeah! I Got Pokémon! characters\nYuki (Japanese: ユウキ Yūki) is a character who appeared in Pokémon: Yeah! I Got Pokémon!. She is a beautiful young woman who has trained her Pokémon to be expert chefs in Pokémon cooking contests. She is an arrogant young Trainer who competed with Shu to win a .",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 273,
+    "sectionCount": 1
+  }
+}

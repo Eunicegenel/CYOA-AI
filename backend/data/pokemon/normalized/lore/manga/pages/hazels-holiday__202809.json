@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Hazel's Holiday",
+    "slug": "hazels-holiday",
+    "pageId": 202809,
+    "revisionId": 4168421
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "hazels-holiday__202809.json",
+    "revisionTimestamp": "2024-10-26T16:01:54Z",
+    "fetchedAt": "2026-05-14T15:21:19.843Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Hazel's Holiday is the nineteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 29th and 30th chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Hazel's Holiday is the nineteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 29th and 30th chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n \n==Blurb==\nHEALTH HAZARDS\n\nAfter stepping on the bathroom scale, Bulbasaur is feeling a little self-conscious of its weight and now wants to go on a diet! To help the sullen Pokémon achieve its goal, Hazel takes Bulbasaur to a health spa for day of serious workout. \n\nThen, it's Christmas time in the Pokémon world and there's only one present Hazel wants under her tree this year...Almond!\n\n==Publications==\n \n \n\n==Chapters==\nNever Say Diet!\nHazel's Holiday\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Hazel's Holiday is the nineteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 29th and 30th chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "HEALTH HAZARDS\n\nAfter stepping on the bathroom scale, Bulbasaur is feeling a little self-conscious of its weight and now wants to go on a diet! To help the sullen Pokémon achieve its goal, Hazel takes Bulbasaur to a health spa for day of serious workout. \n\nThen, it's Christmas time in the Pokémon world and there's only one present Hazel wants under her tree this year...Almond!"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Never Say Diet!\nHazel's Holiday"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hazel's Holiday",
+    "pageType": "pokemon-related",
+    "searchableText": "Hazel's Holiday\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Hazel's Holiday is the nineteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 29th and 30th chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters"
+    ],
+    "characterCount": 865,
+    "sectionCount": 3
+  }
+}

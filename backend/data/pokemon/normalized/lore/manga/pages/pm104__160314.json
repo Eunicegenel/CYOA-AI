@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PM104",
+    "slug": "pm104",
+    "pageId": 160314,
+    "revisionId": 4526649
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm104__160314.json",
+    "revisionTimestamp": "2026-04-09T15:00:02Z",
+    "fetchedAt": "2026-05-14T15:31:35.053Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Great Helper!! (Japanese: 強力助っ人誕生！？ A Strong Helper is Born!?) is the one hundredth-fifth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Great Helper!! (Japanese: 強力助っ人誕生！？ A Strong Helper is Born!?) is the one hundredth-fifth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n( 's)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Great Helper!! (Japanese: 強力助っ人誕生！？ A Strong Helper is Born!?) is the one hundredth-fifth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( 's)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM104",
+    "pageType": "chapter",
+    "searchableText": "PM104\nCategory:Pokémon Pocket Monsters chapters\nThe Great Helper!! (Japanese: 強力助っ人誕生！？ A Strong Helper is Born!?) is the one hundredth-fifth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 332,
+    "sectionCount": 2
+  }
+}

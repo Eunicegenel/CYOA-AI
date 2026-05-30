@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "QPL11",
+    "slug": "qpl11",
+    "pageId": 180749,
+    "revisionId": 4231335
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters",
+    "sourceFileName": "qpl11__180749.json",
+    "revisionTimestamp": "2025-01-31T11:11:44Z",
+    "fetchedAt": "2026-05-14T15:47:05.433Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: Retrieve the Stolen Treasure, Pikka!!) is the 11th chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+  "plainText": "(Japanese: Retrieve the Stolen Treasure, Pikka!!) is the 11th chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n\n==Characters==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: Retrieve the Stolen Treasure, Pikka!!) is the 11th chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "QPL11",
+    "pageType": "chapter",
+    "searchableText": "QPL11\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters\n(Japanese: Retrieve the Stolen Treasure, Pikka!!) is the 11th chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 198,
+    "sectionCount": 1
+  }
+}

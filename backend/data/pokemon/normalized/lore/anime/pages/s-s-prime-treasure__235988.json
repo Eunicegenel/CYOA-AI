@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "S.S. Prime Treasure",
+    "slug": "s-s-prime-treasure",
+    "pageId": 235988,
+    "revisionId": 4545632
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu locations",
+    "sourceFileName": "s-s-prime-treasure__235988.json",
+    "revisionTimestamp": "2026-05-06T09:45:15Z",
+    "fetchedAt": "2026-05-14T14:47:32.864Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The S.S. Prime Treasure (Japanese: プライム・トレジャー Prime Treasure) is a luxury cruise ship in the game . It is visiting Ryme City to observe the annual Pokémon Carnival. Most of Chapter 8 takes place here.",
+  "plainText": "The S.S. Prime Treasure (Japanese: プライム・トレジャー Prime Treasure) is a luxury cruise ship in the game . It is visiting Ryme City to observe the annual Pokémon Carnival. Most of Chapter 8 takes place here.\n\n==Pokémon==\n \n\n==Trivia==\nThe Ninetales encountered on the ship is referenced in the book Detective Pikachu: Episode 0—Eevee's Case, where Eevee states that it was chosen to go on a cruise with their owner.\n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The S.S. Prime Treasure (Japanese: プライム・トレジャー Prime Treasure) is a luxury cruise ship in the game . It is visiting Ryme City to observe the annual Pokémon Carnival. Most of Chapter 8 takes place here."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The Ninetales encountered on the ship is referenced in the book Detective Pikachu: Episode 0—Eevee's Case, where Eevee states that it was chosen to go on a cruise with their owner."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "S.S. Prime Treasure",
+    "pageType": "location",
+    "searchableText": "S.S. Prime Treasure\nCategory:Detective Pikachu locations\nThe S.S. Prime Treasure (Japanese: プライム・トレジャー Prime Treasure) is a luxury cruise ship in the game . It is visiting Ryme City to observe the annual Pokémon Carnival. Most of Chapter 8 takes place here.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 456,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Snap Boys",
+    "slug": "snap-boys",
+    "pageId": 305797,
+    "revisionId": 4517530
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "snap-boys__305797.json",
+    "revisionTimestamp": "2026-03-27T11:22:27Z",
+    "fetchedAt": "2026-05-14T14:51:41.031Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Snap Boys (Japanese: スナップ小僧 Snap Boys) are characters of the day who appeared in Transform! Hero of the Seas, Palafin. \n\nThey're a group of photographers who admire 's and desire to capture its transformation on camera.",
+  "plainText": "The Snap Boys (Japanese: スナップ小僧 Snap Boys) are characters of the day who appeared in Transform! Hero of the Seas, Palafin. \n\nThey're a group of photographers who admire 's and desire to capture its transformation on camera. \n\n==Pokémon==\n===On hand===\n \n\n==Voice actors==\n \n\n==In other languages==\n \n\n \n \n\n \n \n \n \n\nes:Fotochicos\nfr:Snap Boys\nit:Matti per gli scatti",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Snap Boys (Japanese: スナップ小僧 Snap Boys) are characters of the day who appeared in Transform! Hero of the Seas, Palafin. \n\nThey're a group of photographers who admire 's and desire to capture its transformation on camera."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Fotochicos\nfr:Snap Boys\nit:Matti per gli scatti"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Snap Boys",
+    "pageType": "character",
+    "searchableText": "Snap Boys\nCategory:Horizons characters of the day\nThe Snap Boys (Japanese: スナップ小僧 Snap Boys) are characters of the day who appeared in Transform! Hero of the Seas, Palafin. \n\nThey're a group of photographers who admire 's and desire to capture its transformation on camera.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 365,
+    "sectionCount": 2
+  }
+}

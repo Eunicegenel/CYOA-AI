@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon Pocket Monsters volume 6",
+    "slug": "pokemon-pocket-monsters-volume-6",
+    "pageId": 160496,
+    "revisionId": 4354755
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters volumes",
+    "sourceFileName": "pokemon-pocket-monsters-volume-6__160496.json",
+    "revisionTimestamp": "2025-08-08T19:03:59Z",
+    "fetchedAt": "2026-05-14T15:37:06.911Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 6 is the sixth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 6 is the sixth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n \n \n\n==Chapters==\nThe Final Battle!!\nThe Revenge of Mewtwo!!\nSave the Pokémon Zoo!!\nClefairy's Weight - Gaining Mission!!\nRed VS Green?!\nClefairy, a Doctor?!\nThe Fake Pikachu!!\nGet Snorlax!!\n\n==Important events==\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\n\n===Evolutions===\n\n==Gym Battles==\nRed defeats the following Gym Leaders:\n\n==Character summary==\n\n===Red's Party===\n \n \n\n \n\nde:Band 6 (Pokémon Pocket Monsters)\nit:Pokémon Pocket Monsters volume 6\nzh:宝可梦欢乐祭6",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 6 is the sixth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The Final Battle!!\nThe Revenge of Mewtwo!!\nSave the Pokémon Zoo!!\nClefairy's Weight - Gaining Mission!!\nRed VS Green?!\nClefairy, a Doctor?!\nThe Fake Pikachu!!\nGet Snorlax!!"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:"
+    },
+    {
+      "heading": "Gym Battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:"
+    },
+    {
+      "heading": "Red's Party",
+      "level": 3,
+      "text": "de:Band 6 (Pokémon Pocket Monsters)\nit:Pokémon Pocket Monsters volume 6\nzh:宝可梦欢乐祭6"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pocket Monsters volume 6",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pocket Monsters volume 6\nCategory:Pokémon Pocket Monsters volumes\nVolume 6 is the sixth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions",
+      "Gym Battles",
+      "Red's Party"
+    ],
+    "characterCount": 621,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Marc Swint",
+    "slug": "marc-swint",
+    "pageId": 231392,
+    "revisionId": 4323672
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "marc-swint__231392.json",
+    "revisionTimestamp": "2025-06-24T03:34:19Z",
+    "fetchedAt": "2026-05-14T14:34:47.743Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Marcellus \"Marc\" Swint is an American voice actor for the English-language dub of .",
+  "plainText": "Marcellus \"Marc\" Swint is an American voice actor for the English-language dub of .\n\n==Biography==\nSwint was born on June 18, 1987, in Philadelphia, Pennsylvania. As an adult, he became a voice actor and worked on a number of English-dubbed versions of Japanese anime series, as well as video games. Starting in 2017, he voiced in of the .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\n\n======Minor======\nPlayer A (SM066)\nReferee (SM066)\n\n=====Pokémon=====\n\n(Touckey)\n( )\n( )\n( )\n\n==Other non-Pokémon roles==\n===Anime series===\nMason ( )\nBarclay ( )\nSoundwave ( )\nSatoshi Ichinokura ( )\n\n===Video games===\nIsaac Tukura ( )\nNecalli ( )\nBlock Man ( )\n\n==External links==\nTwitter\nAnime News Network\nIMDb\n\n \n \n\nit:Marc Swint",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Marcellus \"Marc\" Swint is an American voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Swint was born on June 18, 1987, in Philadelphia, Pennsylvania. As an adult, he became a voice actor and worked on a number of English-dubbed versions of Japanese anime series, as well as video games. Starting in 2017, he voiced in of the ."
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Player A (SM066)\nReferee (SM066)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(Touckey)\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Anime series",
+      "level": 3,
+      "text": "Mason ( )\nBarclay ( )\nSoundwave ( )\nSatoshi Ichinokura ( )"
+    },
+    {
+      "heading": "Video games",
+      "level": 3,
+      "text": "Isaac Tukura ( )\nNecalli ( )\nBlock Man ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nAnime News Network\nIMDb\n\n \n \n\nit:Marc Swint"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Marc Swint",
+    "pageType": "general-anime-lore",
+    "searchableText": "Marc Swint\nCategory:TPCi voice actors\nMarcellus \"Marc\" Swint is an American voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Minor",
+      "Pokémon",
+      "Anime series",
+      "Video games",
+      "External links"
+    ],
+    "characterCount": 754,
+    "sectionCount": 7
+  }
+}

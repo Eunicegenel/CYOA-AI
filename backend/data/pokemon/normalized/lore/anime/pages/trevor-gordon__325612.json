@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Trevor Gordon",
+    "slug": "trevor-gordon",
+    "pageId": 325612,
+    "revisionId": 4544114
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "trevor-gordon__325612.json",
+    "revisionTimestamp": "2026-05-04T09:51:48Z",
+    "fetchedAt": "2026-05-14T14:55:29.470Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Trevor Gordon (Japanese: トレバー・ゴードン Trevor Gordon) is a professor of Ryme University in the game Detective Pikachu Returns.",
+  "plainText": "Trevor Gordon (Japanese: トレバー・ゴードン Trevor Gordon) is a professor of Ryme University in the game Detective Pikachu Returns.\n\n==In the games==\n===Detective Pikachu Returns===\nTrevor is a professor from Ryme University, who is a leading figure in the field of mineral archeology. His particular interest is in researching the connections between minerals and ancient civilizations. He works alongside his partner Pokémon , as well as his assistant Chris. He is encountered at the Southern Ruins investigating the meteorites that the ruins had been built on.\n\nProfessor Gordon is first introduced by Rachel who takes his classes at the university, feeling that the professor could help further understand the mystery of the Aurora Drop. Trevor is found by Tim inside the Southern Ruins where the professor had been locked in for two days due to rubble blocking his exit out of the room. This is revealed to have been caused by a rampaging Galarian who had mistaken Professor Gordon for a Unitas member. \n\nOn questioning, Professor Gordon is able to reveal that the Aurora Drop has been hypothesised to be a Pokémon which may assume its true shape when imbued with a special energy, and that the jewel had likely fallen from space. The professor and the group then navigate through the remainder of the ruins, unlocking the mystery of the ruins which celebrates the coexistence between humans and Pokémon. Trevor also volunteers to take the Pokémon (who had taken temporary residence at the ruins after fleeing from Unitas) back home from the ruins.\n\n===Personality and characteristics===\nProfessor Gordon is highly knowledgeable in the field of mineral archeology and is shown to be passionate in his research, sometimes spending months at a time with his fieldwork. Even after being locked inside the Southern Ruins for several days, he is shown to remain determined in continuing his research at the ruins to discover its secrets. \n\n===Pokémon===\nThis listing is of Trevor's known in the games:\n\n \n\n===Voice actors===\n \n\n==Gallery==\n===Artwork===\n \n \n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Trevor Gordon (Japanese: トレバー・ゴードン Trevor Gordon) is a professor of Ryme University in the game Detective Pikachu Returns."
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Trevor is a professor from Ryme University, who is a leading figure in the field of mineral archeology. His particular interest is in researching the connections between minerals and ancient civilizations. He works alongside his partner Pokémon , as well as his assistant Chris. He is encountered at the Southern Ruins investigating the meteorites that the ruins had been built on.\n\nProfessor Gordon is first introduced by Rachel who takes his classes at the university, feeling that the professor could help further understand the mystery of the Aurora Drop. Trevor is found by Tim inside the Southern Ruins where the professor had been locked in for two days due to rubble blocking his exit out of the room. This is revealed to have been caused by a rampaging Galarian who had mistaken Professor Gordon for a Unitas member. \n\nOn questioning, Professor Gordon is able to reveal that the Aurora Drop has been hypothesised to be a Pokémon which may assume its true shape when imbued with a special energy, and that the jewel had likely fallen from space. The professor and the group then navigate through the remainder of the ruins, unlocking the mystery of the ruins which celebrates the coexistence between humans and Pokémon. Trevor also volunteers to take the Pokémon (who had taken temporary residence at the ruins after fleeing from Unitas) back home from the ruins."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "Professor Gordon is highly knowledgeable in the field of mineral archeology and is shown to be passionate in his research, sometimes spending months at a time with his fieldwork. Even after being locked inside the Southern Ruins for several days, he is shown to remain determined in continuing his research at the ruins to discover its secrets."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Trevor's known in the games:"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Trevor Gordon",
+    "pageType": "character",
+    "searchableText": "Trevor Gordon\nCategory:Detective Pikachu Returns characters\nTrevor Gordon (Japanese: トレバー・ゴードン Trevor Gordon) is a professor of Ryme University in the game Detective Pikachu Returns.",
+    "sectionHeadings": [
+      "Lead",
+      "Detective Pikachu Returns",
+      "Personality and characteristics",
+      "Pokémon"
+    ],
+    "characterCount": 2096,
+    "sectionCount": 4
+  }
+}

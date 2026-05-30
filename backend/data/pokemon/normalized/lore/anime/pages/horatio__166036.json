@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Horatio",
+    "slug": "horatio",
+    "pageId": 166036,
+    "revisionId": 4289259
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "horatio__166036.json",
+    "revisionTimestamp": "2025-04-28T19:50:41Z",
+    "fetchedAt": "2026-05-14T14:22:50.605Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Horatio (Japanese: アキヒロ Akihiro) is a minor recurring character in .\n\nHe debuted in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup. His first opponent was Simeon, whom he defeated and advanced to the next round of the tournament. He appeared again in Battling Authority Once Again!, where he battled in that round and lost. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.",
+  "plainText": "Horatio (Japanese: アキヒロ Akihiro) is a minor recurring character in .\n\nHe debuted in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup. His first opponent was Simeon, whom he defeated and advanced to the next round of the tournament. He appeared again in Battling Authority Once Again!, where he battled in that round and lost. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.\n\n==Pokémon==\n \n \n\n==Pokémon competitions==\nHoratio has competed in the following :\nPokémon World Tournament Junior Cup - Top 8 (Battling Authority Once Again!)\n\n==Voice actors==\n \n\n \n\n \n \n\nes:Horatio/Horacio\nfr:Oscar (Unys)\nit:Horatio\nzh:明弘",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Horatio (Japanese: アキヒロ Akihiro) is a minor recurring character in .\n\nHe debuted in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup. His first opponent was Simeon, whom he defeated and advanced to the next round of the tournament. He appeared again in Battling Authority Once Again!, where he battled in that round and lost. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Horatio has competed in the following :\nPokémon World Tournament Junior Cup - Top 8 (Battling Authority Once Again!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Horatio/Horacio\nfr:Oscar (Unys)\nit:Horatio\nzh:明弘"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Horatio",
+    "pageType": "character",
+    "searchableText": "Horatio\nCategory:Animation characters\nHoratio (Japanese: アキヒロ Akihiro) is a minor recurring character in .\n\nHe debuted in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup. His first opponent was Simeon, whom he defeated and advanced to the next round of the tournament. He appeared again in Battling Authority Once Again!, where he battled in that round and lost. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 789,
+    "sectionCount": 3
+  }
+}

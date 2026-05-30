@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "ABM13",
+    "slug": "abm13",
+    "pageId": 191816,
+    "revisionId": 4526882
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abm13__191816.json",
+    "revisionTimestamp": "2026-04-09T15:10:40Z",
+    "fetchedAt": "2026-05-14T15:12:13.672Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 新システム発動！！ New System in Operation!!) is the thirteenth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: 新システム発動！！ New System in Operation!!) is the thirteenth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyū Tendō\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 新システム発動！！ New System in Operation!!) is the thirteenth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryū Tendō"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABM13",
+    "pageType": "chapter",
+    "searchableText": "ABM13\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: 新システム発動！！ New System in Operation!!) is the thirteenth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 250,
+    "sectionCount": 2
+  }
+}

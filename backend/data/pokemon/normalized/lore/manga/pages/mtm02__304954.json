@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "MTM02",
+    "slug": "mtm02",
+    "pageId": 304954,
+    "revisionId": 4169317
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mezastar: Aim to Be a Tag Master! chapters",
+    "sourceFileName": "mtm02__304954.json",
+    "revisionTimestamp": "2024-10-27T20:44:42Z",
+    "fetchedAt": "2026-05-14T15:27:13.487Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the second chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the February 2021 issue of CoroCoro Ichiban!, released on December 21, 2020. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.",
+  "plainText": "This is the second chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the February 2021 issue of CoroCoro Ichiban!, released on December 21, 2020. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\n\n==Characters==\n===Humans===\nKira Hoshio\nSuguru Tsukino\nPokémon Mezastar players\n\n==Tags featured==\n \nZygarde (2-003)\nDarkrai (2-004)\nKeldeo (2-005)\nFalinks (2-038)\nMachamp (2-050)\nKeldeo (2-025)\nObstagoon (2-015)\nGolurk (2-063)\nDuraludon (1-015)\nUmbreon (2-024)\nMewtwo (2-001)\n\n==Trivia==\n \nThis chapter was published in an extra book of the CoroCoro Ichiban! February 2021 issue titled (Japanese: ポケモンメザスタ　大攻略！コミックＢＯＯＫ　Ｖｏｌ．２). \nThis chapter features the January 2021 issue of CoroCoro Ichiban!.\n\n==References==\n \n\n==External links==\nChapter 2 on Weekly CoroCoro Comics\nChapter 2 on CoroCoro Online",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the second chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the February 2021 issue of CoroCoro Ichiban!, released on December 21, 2020. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kira Hoshio\nSuguru Tsukino\nPokémon Mezastar players"
+    },
+    {
+      "heading": "Tags featured",
+      "level": 2,
+      "text": "Zygarde (2-003)\nDarkrai (2-004)\nKeldeo (2-005)\nFalinks (2-038)\nMachamp (2-050)\nKeldeo (2-025)\nObstagoon (2-015)\nGolurk (2-063)\nDuraludon (1-015)\nUmbreon (2-024)\nMewtwo (2-001)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This chapter was published in an extra book of the CoroCoro Ichiban! February 2021 issue titled (Japanese: ポケモンメザスタ　大攻略！コミックＢＯＯＫ　Ｖｏｌ．２). \nThis chapter features the January 2021 issue of CoroCoro Ichiban!."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 2 on Weekly CoroCoro Comics\nChapter 2 on CoroCoro Online"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MTM02",
+    "pageType": "chapter",
+    "searchableText": "MTM02\nCategory:Pokémon Mezastar: Aim to Be a Tag Master! chapters\nThis is the second chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the February 2021 issue of CoroCoro Ichiban!, released on December 21, 2020. It is 18 pages long.\n\nIt was made available on CoroCoro Online on November 18, 2021 and on Weekly CoroCoro Comics on July 15, 2022.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Tags featured",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 975,
+    "sectionCount": 5
+  }
+}

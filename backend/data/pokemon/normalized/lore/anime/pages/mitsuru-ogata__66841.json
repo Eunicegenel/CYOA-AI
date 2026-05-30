@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Mitsuru Ogata",
+    "slug": "mitsuru-ogata",
+    "pageId": 66841,
+    "revisionId": 4528278
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "mitsuru-ogata__66841.json",
+    "revisionTimestamp": "2026-04-09T16:12:47Z",
+    "fetchedAt": "2026-05-14T14:37:43.882Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Mitsuru Ogata (Japanese: 小形満 Ogata Mitsuru) is a Japanese voice actor for and . He was born on March 24, 1961 in , .",
+  "plainText": "Mitsuru Ogata (Japanese: 小形満 Ogata Mitsuru) is a Japanese voice actor for and . He was born on March 24, 1961 in , .\n\n==Pokémon roles==\nOgata has provided a few minor and additional voices for Pokémon since . His most prominent role is that of all in the .\n\n===Animation===\n==== ====\n=====Humans=====\nTommy Grimm\nHopkins\n\nWeston\n\n=====Pokémon=====\n\nJames's Growlithe\nOfficer Jenny's Growlithe\n(EP041)\n(EP116)\n\n==== ====\n\n==External links==\nMausu\n \n \n \n\nit:Mitsuru Ogata\nja:小形満",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mitsuru Ogata (Japanese: 小形満 Ogata Mitsuru) is a Japanese voice actor for and . He was born on March 24, 1961 in , ."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Ogata has provided a few minor and additional voices for Pokémon since . His most prominent role is that of all in the ."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Tommy Grimm\nHopkins\n\nWeston"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "James's Growlithe\nOfficer Jenny's Growlithe\n(EP041)\n(EP116)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Mausu\n \n \n \n\nit:Mitsuru Ogata\nja:小形満"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mitsuru Ogata",
+    "pageType": "general-anime-lore",
+    "searchableText": "Mitsuru Ogata\nCategory:Japanese voice actors\nMitsuru Ogata (Japanese: 小形満 Ogata Mitsuru) is a Japanese voice actor for and . He was born on March 24, 1961 in , .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "Humans",
+      "Pokémon",
+      "External links"
+    ],
+    "characterCount": 476,
+    "sectionCount": 5
+  }
+}

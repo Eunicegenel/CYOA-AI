@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon Sleepover",
+    "slug": "pokemon-sleepover",
+    "pageId": 178010,
+    "revisionId": 4168530
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "pokemon-sleepover__178010.json",
+    "revisionTimestamp": "2024-10-26T18:19:10Z",
+    "fetchedAt": "2026-05-14T15:37:41.102Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Pokémon Sleepover is the sixteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the eighth and ninth bonus chapters of the manga. The chapters originally released in this book were later re-released as part of .",
+  "plainText": "Magical Pokémon Journey: Pokémon Sleepover is the sixteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the eighth and ninth bonus chapters of the manga. The chapters originally released in this book were later re-released as part of .\n==Blurb==\nOnce A Upon A Dark Poké-Night...\n\nAll the Pokémon and their trainers decide to spend a fun-filled day playing hide-and-to-go-seek in a local park. But when Peanut hides in a cave, the day takes a turn for the worst! \n\nThen, Almond invites all the Pokémon over for the best sleepover ever! Just don't let Almond tell his most scary stories, or else.....\n\n==Publications==\n \n \n\n==Chapters==\nThe Unbearable Suspense of Hide-and-Seek!\nThe Unbearable Suspense of... THE GHOSTSTORY!!! (BOO!)\n\n==Important events==\nThe group play a game of hide-and-seek, during which Peanut, , and get lost in a scary cave.\nHazel and the Pokémon sleep over at Coconut's house after hearing a scary ghost story told by Almond. Due to misunderstandings caused by the Pokémon being scared, they trash Coconut's bedroom.\n\n==Trivia==\nIn the Pokémon File at the end of this issue, which also appears in , is identified with the nickname \"Bulba\". Despite this, she is never referred to with a nickname in the English translation by any characters in the regular manga pages.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Pokémon Sleepover is the sixteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the eighth and ninth bonus chapters of the manga. The chapters originally released in this book were later re-released as part of ."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "Once A Upon A Dark Poké-Night...\n\nAll the Pokémon and their trainers decide to spend a fun-filled day playing hide-and-to-go-seek in a local park. But when Peanut hides in a cave, the day takes a turn for the worst! \n\nThen, Almond invites all the Pokémon over for the best sleepover ever! Just don't let Almond tell his most scary stories, or else....."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The Unbearable Suspense of Hide-and-Seek!\nThe Unbearable Suspense of... THE GHOSTSTORY!!! (BOO!)"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "The group play a game of hide-and-seek, during which Peanut, , and get lost in a scary cave.\nHazel and the Pokémon sleep over at Coconut's house after hearing a scary ghost story told by Almond. Due to misunderstandings caused by the Pokémon being scared, they trash Coconut's bedroom."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the Pokémon File at the end of this issue, which also appears in , is identified with the nickname \"Bulba\". Despite this, she is never referred to with a nickname in the English translation by any characters in the regular manga pages."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Sleepover",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Sleepover\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Pokémon Sleepover is the sixteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the eighth and ninth bonus chapters of the manga. The chapters originally released in this book were later re-released as part of .",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events",
+      "Trivia"
+    ],
+    "characterCount": 1358,
+    "sectionCount": 5
+  }
+}

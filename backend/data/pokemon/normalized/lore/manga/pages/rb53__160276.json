@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "RB53",
+    "slug": "rb53",
+    "pageId": 160276,
+    "revisionId": 4247778
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb53__160276.json",
+    "revisionTimestamp": "2025-02-25T03:15:07Z",
+    "fetchedAt": "2026-05-14T15:47:49.254Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 体力自慢大会 The Strongman Tournament) is the 53rd chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 体力自慢大会 The Strongman Tournament) is the 53rd chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nRyouga and Yappy signs up for the tournament.\nYappy is eliminated in the \"Lift the \" round.\n\n===Debuts===\n====Humans====\nSabin\nDanke\nLulula\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nTorahige\nTorahige's goons \nRyouga\nMiruto\nYappy\nKaruta\nRug\nDanke\nLulula\nSabin\nBuderu\nParticipants\nReferee\nReceptionist\nAudience\n\n===Pokémon===\n(Karuta's)\n(Rug's)\n\n(multiple)\n(×3)\n\n \n \n \n\n \n\nzh:RB53",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 体力自慢大会 The Strongman Tournament) is the 53rd chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga and Yappy signs up for the tournament.\nYappy is eliminated in the \"Lift the \" round."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Sabin\nDanke\nLulula"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Torahige\nTorahige's goons \nRyouga\nMiruto\nYappy\nKaruta\nRug\nDanke\nLulula\nSabin\nBuderu\nParticipants\nReferee\nReceptionist\nAudience"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Karuta's)\n(Rug's)\n\n(multiple)\n(×3)\n\n \n \n \n\n \n\nzh:RB53"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB53",
+    "pageType": "chapter",
+    "searchableText": "RB53\nCategory:Pokémon RéBURST chapters\n(Japanese: 体力自慢大会 The Strongman Tournament) is the 53rd chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 513,
+    "sectionCount": 5
+  }
+}

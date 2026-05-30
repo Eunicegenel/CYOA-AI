@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Grace (Hoenn)",
+    "slug": "grace-hoenn",
+    "pageId": 15636,
+    "revisionId": 4505352
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "grace-hoenn__15636.json",
+    "revisionTimestamp": "2026-03-11T14:08:30Z",
+    "fetchedAt": "2026-05-14T14:21:13.732Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Grace (Japanese: グレース Grace) is a minor recurring character in . She is a Pokémon Coordinator who competed in the .",
+  "plainText": "Grace (Japanese: グレース Grace) is a minor recurring character in . She is a Pokémon Coordinator who competed in the .\n\n==History==\n=== ===\nGrace debuted in Pros and Con Artists, where she was first seen her in the Fallarbor Town Pokémon Center. was very impressed, but when she complimented her, Grace's face became red, and she began laughing hysterically. She later sat down with the group for a meal, where she discussed Contest combination moves.\n\nGrace demonstrated some of her combinations, and May was inspired to practice some of her own techniques with . However, May became overwhelmed after Drew approached her. The next day, she stumbled across 's fake Pokéblock store, though Grace arrived in time to expose the trio's scheme and had Medicham send them blasting off.\n\nDuring the in Come What May!, Grace passed the Appeals Round and defeated Drew in the Battle Round. She eventually battled May in the finals, and they both put up a good fight. However, Beautifly ended up being stronger than Medicham and won, granting May her first Contest Ribbon. Afterwards, May complimented Grace on her battling skills; once again, her face turned red, and she began laughing.\n\n==Character==\nGrace is a very skilled who is humble enough to assist in mentoring for the upcoming Fallarbor Town . When it comes to compliments, however, Grace tends to turn red and burst into laughter out of embarrassment. She values hard work, having trained both herself and her to be focused and in sync.\n\n==Pokémon==\n \n\n==Contests==\n \n===Hoenn Ribbons===\nThis listing is of the Ribbons Grace has obtained in the Hoenn region:\nThree unknown Ribbons (prior to Pros and Con Artists)\n\n===Other achievements===\nGrace has competed in the following Pokémon Contests:\nContest - Runner-Up (Pros and Con Artists)\n\n==Voice actresses==\n \n \n\n \n \n\nde:Grace\nes:Grace/Greta\nfr:Grace (Hoenn)\nit:Grace (Hoenn)\nja:グレース\nzh:葛蕾丝",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Grace (Japanese: グレース Grace) is a minor recurring character in . She is a Pokémon Coordinator who competed in the ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Grace debuted in Pros and Con Artists, where she was first seen her in the Fallarbor Town Pokémon Center. was very impressed, but when she complimented her, Grace's face became red, and she began laughing hysterically. She later sat down with the group for a meal, where she discussed Contest combination moves.\n\nGrace demonstrated some of her combinations, and May was inspired to practice some of her own techniques with . However, May became overwhelmed after Drew approached her. The next day, she stumbled across 's fake Pokéblock store, though Grace arrived in time to expose the trio's scheme and had Medicham send them blasting off.\n\nDuring the in Come What May!, Grace passed the Appeals Round and defeated Drew in the Battle Round. She eventually battled May in the finals, and they both put up a good fight. However, Beautifly ended up being stronger than Medicham and won, granting May her first Contest Ribbon. Afterwards, May complimented Grace on her battling skills; once again, her face turned red, and she began laughing."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Grace is a very skilled who is humble enough to assist in mentoring for the upcoming Fallarbor Town . When it comes to compliments, however, Grace tends to turn red and burst into laughter out of embarrassment. She values hard work, having trained both herself and her to be focused and in sync."
+    },
+    {
+      "heading": "Hoenn Ribbons",
+      "level": 3,
+      "text": "This listing is of the Ribbons Grace has obtained in the Hoenn region:\nThree unknown Ribbons (prior to Pros and Con Artists)"
+    },
+    {
+      "heading": "Other achievements",
+      "level": 3,
+      "text": "Grace has competed in the following Pokémon Contests:\nContest - Runner-Up (Pros and Con Artists)"
+    },
+    {
+      "heading": "Voice actresses",
+      "level": 2,
+      "text": "de:Grace\nes:Grace/Greta\nfr:Grace (Hoenn)\nit:Grace (Hoenn)\nja:グレース\nzh:葛蕾丝"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Grace (Hoenn)",
+    "pageType": "character",
+    "searchableText": "Grace (Hoenn)\nCategory:Animation characters\nGrace (Japanese: グレース Grace) is a minor recurring character in . She is a Pokémon Coordinator who competed in the .",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Character",
+      "Hoenn Ribbons",
+      "Other achievements",
+      "Voice actresses"
+    ],
+    "characterCount": 1890,
+    "sectionCount": 6
+  }
+}

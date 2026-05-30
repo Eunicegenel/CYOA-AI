@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Autumn Choir Tournament",
+    "slug": "autumn-choir-tournament",
+    "pageId": 219842,
+    "revisionId": 4146947
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures",
+    "sourceFileName": "autumn-choir-tournament__219842.json",
+    "revisionTimestamp": "2024-10-17T02:14:07Z",
+    "fetchedAt": "2026-05-14T15:13:41.228Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The Autumn Choir Tournament (Japanese: 秋の合唱コンクール Autumn Choral Competition), also known as The Battle (Japanese: 合唱バトル Chorus Battle), is an event in the Pokémon Adventures . It is held at the Aspertia City's Trainers' School during a cultural festival.",
+  "plainText": "The Autumn Choir Tournament (Japanese: 秋の合唱コンクール Autumn Choral Competition), also known as The Battle (Japanese: 合唱バトル Chorus Battle), is an event in the Pokémon Adventures . It is held at the Aspertia City's Trainers' School during a cultural festival.\n\n==Competition==\nFive classes participated in this tournament, with three groups of 8-10 members representing each class. Each member of a choir is backed up by a that their group is named after. When competing, the choir's Pokémon will use various sound-based moves to disrupt the opposing team.\n\nIt was first mentioned in Movie Panic by several students at the Aspertia Trainers' School. The students mentioned wanting to invite Roxie to the competition. In New Sword Player, and traveled to Virbank City to ask Roxie to come to the tournament as a judge, which she accepted.\n\nThe tournament officially started in New Sword Player. Blake, Whitley, Leo, Hugh, , , and all joined together to form Team and competed against other teams. Eventually, they competed against Team in the finals, but came out on top with the help of Blake's . For winning the tournament, Team Jigglypuff and the rest of Class E were invited by Roxie to go to Castelia City to compete in the Unova Choir Tournament (Japanese: イッシュ合唱コンクール Isshu Choral Competition), with all expenses paid by her father.\n\n==Known competitors==\n \n\nOther teams that were shown but not mentioned by name include Team Whismur and Team Loudred.\n\n==In other languages==\n \n \n \n \n\nit:Gara autunnale di canto per cori\nzh:秋季合唱比賽",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Autumn Choir Tournament (Japanese: 秋の合唱コンクール Autumn Choral Competition), also known as The Battle (Japanese: 合唱バトル Chorus Battle), is an event in the Pokémon Adventures . It is held at the Aspertia City's Trainers' School during a cultural festival."
+    },
+    {
+      "heading": "Competition",
+      "level": 2,
+      "text": "Five classes participated in this tournament, with three groups of 8-10 members representing each class. Each member of a choir is backed up by a that their group is named after. When competing, the choir's Pokémon will use various sound-based moves to disrupt the opposing team.\n\nIt was first mentioned in Movie Panic by several students at the Aspertia Trainers' School. The students mentioned wanting to invite Roxie to the competition. In New Sword Player, and traveled to Virbank City to ask Roxie to come to the tournament as a judge, which she accepted.\n\nThe tournament officially started in New Sword Player. Blake, Whitley, Leo, Hugh, , , and all joined together to form Team and competed against other teams. Eventually, they competed against Team in the finals, but came out on top with the help of Blake's . For winning the tournament, Team Jigglypuff and the rest of Class E were invited by Roxie to go to Castelia City to compete in the Unova Choir Tournament (Japanese: イッシュ合唱コンクール Isshu Choral Competition), with all expenses paid by her father."
+    },
+    {
+      "heading": "Known competitors",
+      "level": 2,
+      "text": "Other teams that were shown but not mentioned by name include Team Whismur and Team Loudred."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Gara autunnale di canto per cori\nzh:秋季合唱比賽"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Autumn Choir Tournament",
+    "pageType": "pokemon-related",
+    "searchableText": "Autumn Choir Tournament\nCategory:Pokémon Adventures\nThe Autumn Choir Tournament (Japanese: 秋の合唱コンクール Autumn Choral Competition), also known as The Battle (Japanese: 合唱バトル Chorus Battle), is an event in the Pokémon Adventures . It is held at the Aspertia City's Trainers' School during a cultural festival.",
+    "sectionHeadings": [
+      "Lead",
+      "Competition",
+      "Known competitors",
+      "In other languages"
+    ],
+    "characterCount": 1530,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Scooter",
+    "slug": "scooter",
+    "pageId": 142751,
+    "revisionId": 4143536
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "scooter__142751.json",
+    "revisionTimestamp": "2024-10-11T20:56:30Z",
+    "fetchedAt": "2026-05-14T14:48:44.033Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Scooter (Japanese: セキモト Sekimoto) is a minor recurring character in .\n\nHe debuted in Reunion Battles In Nimbasa!, where he participated in the Club Battle tournament and was Luke's opponent. Not much is known about him, since he was defeated by Luke and his in the first round during Cilan Versus Trip, Ash Versus Georgia!, and thus knocked out of the tournament.",
+  "plainText": "Scooter (Japanese: セキモト Sekimoto) is a minor recurring character in .\n\nHe debuted in Reunion Battles In Nimbasa!, where he participated in the Club Battle tournament and was Luke's opponent. Not much is known about him, since he was defeated by Luke and his in the first round during Cilan Versus Trip, Ash Versus Georgia!, and thus knocked out of the tournament.\n\n==Pokémon==\n \n\nScooter has at least two other Pokémon as those who entered the Club Battle were required to enter with three Pokémon.\n\n==Pokémon competitions==\nScooter has competed in the following :\nClub Battle - Top 16 (Cilan Versus Trip, Ash Versus Georgia!)\n\n==Voice actors==\n \n \n\n \n\n \n \n\nes:Scooter\nfr:Sébastien\nit:Scooter\nzh:關本",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Scooter (Japanese: セキモト Sekimoto) is a minor recurring character in .\n\nHe debuted in Reunion Battles In Nimbasa!, where he participated in the Club Battle tournament and was Luke's opponent. Not much is known about him, since he was defeated by Luke and his in the first round during Cilan Versus Trip, Ash Versus Georgia!, and thus knocked out of the tournament."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "Scooter has at least two other Pokémon as those who entered the Club Battle were required to enter with three Pokémon."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Scooter has competed in the following :\nClub Battle - Top 16 (Cilan Versus Trip, Ash Versus Georgia!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Scooter\nfr:Sébastien\nit:Scooter\nzh:關本"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Scooter",
+    "pageType": "character",
+    "searchableText": "Scooter\nCategory:Animation characters\nScooter (Japanese: セキモト Sekimoto) is a minor recurring character in .\n\nHe debuted in Reunion Battles In Nimbasa!, where he participated in the Club Battle tournament and was Luke's opponent. Not much is known about him, since he was defeated by Luke and his in the first round during Cilan Versus Trip, Ash Versus Georgia!, and thus knocked out of the tournament.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 698,
+    "sectionCount": 4
+  }
+}

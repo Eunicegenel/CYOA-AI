@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Silver (Lugia)",
+    "slug": "silver-lugia",
+    "pageId": 16553,
+    "revisionId": 4331553
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Recurring wild Pokémon",
+    "sourceFileName": "silver-lugia__16553.json",
+    "revisionTimestamp": "2025-07-06T16:27:27Z",
+    "fetchedAt": "2026-05-14T14:49:49.851Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Silver (Japanese: シルバー Silver) was a baby befriended by . It appeared in The Mystery is History, A Parent Trapped!, and A Promise is a Promise.",
+  "plainText": "Silver (Japanese: シルバー Silver) was a baby befriended by . It appeared in The Mystery is History, A Parent Trapped!, and A Promise is a Promise.\n\n==In animation==\nSilver is a baby Lugia that Oliver found after it had wandered away from its parent. Despite the fact that he never captured it in a Poké Ball, Oliver claimed it as his own. He played with Silver all day long and they both enjoyed it.\n\nHowever, Team Rocket was also watching. Dr. Namba assigned Butch and Cassidy to capture Silver in order to lure the parent Lugia in. This was part of Namba's plan to attach his invention to Lugia, making it extremely angry and extremely powerful.\n\n , , and Ritchie all teamed up to free Silver and its parent. After freeing Silver, Ash and Ritchie tried to convince the parent Lugia that not all humans are bad. Their convincing worked, since Lugia used to protect Ash and the others from falling debris.\n\nOliver agreed that Silver should be released to its parent. Although he was saddened, he knew that it was for the best.\n\n===Personality and characteristics===\nSilver was considered to be very playful towards Oliver. However, it would easily get scared if a stranger would come by and take it. It was also too young to fly.\n\n==In the manga==\n \n===Ash & Pikachu===\nSilver appears in Let's Save The Lugia!. It was referred to as Silva in the chapter.\n \n\n==Related articles==\n \n \n \n \n \n \n \n \n \n\nes:Silver (Lugia)\nit:Silver (Johto)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Silver (Japanese: シルバー Silver) was a baby befriended by . It appeared in The Mystery is History, A Parent Trapped!, and A Promise is a Promise."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "Silver is a baby Lugia that Oliver found after it had wandered away from its parent. Despite the fact that he never captured it in a Poké Ball, Oliver claimed it as his own. He played with Silver all day long and they both enjoyed it.\n\nHowever, Team Rocket was also watching. Dr. Namba assigned Butch and Cassidy to capture Silver in order to lure the parent Lugia in. This was part of Namba's plan to attach his invention to Lugia, making it extremely angry and extremely powerful.\n\n , , and Ritchie all teamed up to free Silver and its parent. After freeing Silver, Ash and Ritchie tried to convince the parent Lugia that not all humans are bad. Their convincing worked, since Lugia used to protect Ash and the others from falling debris.\n\nOliver agreed that Silver should be released to its parent. Although he was saddened, he knew that it was for the best."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "Silver was considered to be very playful towards Oliver. However, it would easily get scared if a stranger would come by and take it. It was also too young to fly."
+    },
+    {
+      "heading": "Ash & Pikachu",
+      "level": 3,
+      "text": "Silver appears in Let's Save The Lugia!. It was referred to as Silva in the chapter."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Silver (Lugia)\nit:Silver (Johto)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Silver (Lugia)",
+    "pageType": "pokemon-related",
+    "searchableText": "Silver (Lugia)\nCategory:Recurring wild Pokémon\nSilver (Japanese: シルバー Silver) was a baby befriended by . It appeared in The Mystery is History, A Parent Trapped!, and A Promise is a Promise.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "Personality and characteristics",
+      "Ash & Pikachu",
+      "Related articles"
+    ],
+    "characterCount": 1430,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "RB49",
+    "slug": "rb49",
+    "pageId": 157877,
+    "revisionId": 4247772
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb49__157877.json",
+    "revisionTimestamp": "2025-02-25T02:42:20Z",
+    "fetchedAt": "2026-05-14T15:47:46.774Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 謎の美少女ラグ Mysterious Beauty, Rug) is the 49th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 謎の美少女ラグ Mysterious Beauty, Rug) is the 49th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nRug, a mysterious girl, attempts to steal Ryouga's Burst Heart.\nKaruta returns and has rapidly grown to a more adult body.\nKaruta faces Rug in battle after she attempts to steal the Compass of Light.\n\n===Debuts===\n====Humans====\nRug\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRug\nRyouga\nMiruto\nYappy\nKaruta\nTorahige\nMen in Saloon \n===Pokémon===\n(Karuta's)\n(Rug's)\n\n \n \n \n\n \n\nzh:RB49",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 謎の美少女ラグ Mysterious Beauty, Rug) is the 49th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Rug, a mysterious girl, attempts to steal Ryouga's Burst Heart.\nKaruta returns and has rapidly grown to a more adult body.\nKaruta faces Rug in battle after she attempts to steal the Compass of Light."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Rug"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Rug\nRyouga\nMiruto\nYappy\nKaruta\nTorahige\nMen in Saloon"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Karuta's)\n(Rug's)\n\n \n \n \n\n \n\nzh:RB49"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB49",
+    "pageType": "chapter",
+    "searchableText": "RB49\nCategory:Pokémon RéBURST chapters\n(Japanese: 謎の美少女ラグ Mysterious Beauty, Rug) is the 49th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 515,
+    "sectionCount": 5
+  }
+}

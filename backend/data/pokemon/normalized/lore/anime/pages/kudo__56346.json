@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Kudo",
+    "slug": "kudo",
+    "pageId": 56346,
+    "revisionId": 4385667
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Chronicles characters of the day",
+    "sourceFileName": "kudo__56346.json",
+    "revisionTimestamp": "2025-09-21T08:18:31Z",
+    "fetchedAt": "2026-05-14T14:30:01.815Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kudo (Japanese: クドウ Kudō) is a character of the day in Pokémon Chronicles. He is an archaeologist and a Pokémon researcher who appeared in Part Two of The Legend of Thunder!.\n\nOfficer Jenny escorted Kudo to the Pokémon Center to see as it was receiving treatment because of its run-in with Hun and Attila. He suggested that Raikou did not trust humans at all, citing its lengthy history with people who tried to control it. Kudo recommended that it must be returned to the wild as soon as possible. \n\nKudo's expertise would have offered valuable insight, though he was quickly relegated to the sidelines by Legendary Pokémon enthusiast Eugene. He remained on standby at the Pokémon Center as Eugene, along with and , followed Raikou after its sudden escape.",
+  "plainText": "Kudo (Japanese: クドウ Kudō) is a character of the day in Pokémon Chronicles. He is an archaeologist and a Pokémon researcher who appeared in Part Two of The Legend of Thunder!.\n\nOfficer Jenny escorted Kudo to the Pokémon Center to see as it was receiving treatment because of its run-in with Hun and Attila. He suggested that Raikou did not trust humans at all, citing its lengthy history with people who tried to control it. Kudo recommended that it must be returned to the wild as soon as possible. \n\nKudo's expertise would have offered valuable insight, though he was quickly relegated to the sidelines by Legendary Pokémon enthusiast Eugene. He remained on standby at the Pokémon Center as Eugene, along with and , followed Raikou after its sudden escape.\n\n==Voice actors==\n \n \n \n\n \n \n \n \n \n\nes:Kudo\nit:Kudo",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kudo (Japanese: クドウ Kudō) is a character of the day in Pokémon Chronicles. He is an archaeologist and a Pokémon researcher who appeared in Part Two of The Legend of Thunder!.\n\nOfficer Jenny escorted Kudo to the Pokémon Center to see as it was receiving treatment because of its run-in with Hun and Attila. He suggested that Raikou did not trust humans at all, citing its lengthy history with people who tried to control it. Kudo recommended that it must be returned to the wild as soon as possible. \n\nKudo's expertise would have offered valuable insight, though he was quickly relegated to the sidelines by Legendary Pokémon enthusiast Eugene. He remained on standby at the Pokémon Center as Eugene, along with and , followed Raikou after its sudden escape."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Kudo\nit:Kudo"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kudo",
+    "pageType": "character",
+    "searchableText": "Kudo\nCategory:Chronicles characters of the day\nKudo (Japanese: クドウ Kudō) is a character of the day in Pokémon Chronicles. He is an archaeologist and a Pokémon researcher who appeared in Part Two of The Legend of Thunder!.\n\nOfficer Jenny escorted Kudo to the Pokémon Center to see as it was receiving treatment because of its run-in with Hun and Attila. He suggested that Raikou did not trust humans at all, citing its lengthy history with people who tried to control it. Kudo recommended that it must be returned to the wild as soon as possible. \n\nKudo's expertise would have offered valuable insight, though he was quickly relegated to the sidelines by Legendary Pokémon enthusiast Eugene. He remained on standby at the Pokémon Center as Eugene, along with and , followed Raikou after its sudden escape.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 809,
+    "sectionCount": 2
+  }
+}

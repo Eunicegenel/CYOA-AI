@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Raymond Johnson",
+    "slug": "raymond-johnson",
+    "pageId": 48983,
+    "revisionId": 4190999
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "raymond-johnson__48983.json",
+    "revisionTimestamp": "2024-11-24T01:45:41Z",
+    "fetchedAt": "2026-05-14T14:45:45.372Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Raymond Johnson (Japanese: レイモンド・ジョンソン) is a performer and children's entertainer who has appeared in Japanese Pokémon promotional materials as himself.",
+  "plainText": "Raymond Johnson (Japanese: レイモンド・ジョンソン) is a performer and children's entertainer who has appeared in Japanese Pokémon promotional materials as himself.\n\n==Biography==\nJohnson is an American expatriate who has lived in Japan since 1986, although he was born in Germany. From 1997 to 2001, he became popular as host of the children's morning show Oha Suta on TV Tokyo, where he promoted children's products, including Pokémon. In addition to singing with the Pokémon musical group Suzukisan, he also voiced a character named after him in M01 and M22.\n\n==Voice acting roles==\n===Animation===\n==== ====\nRaymond (M01, M22)\n\n==In the TCG==\nRaymond appears in one promotional card.\n \n \n \n\n \n \n \n \n \n\nit:Raymond Johnson\nja:レイモンド・ジョンソン",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Raymond Johnson (Japanese: レイモンド・ジョンソン) is a performer and children's entertainer who has appeared in Japanese Pokémon promotional materials as himself."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Johnson is an American expatriate who has lived in Japan since 1986, although he was born in Germany. From 1997 to 2001, he became popular as host of the children's morning show Oha Suta on TV Tokyo, where he promoted children's products, including Pokémon. In addition to singing with the Pokémon musical group Suzukisan, he also voiced a character named after him in M01 and M22."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Raymond (M01, M22)"
+    },
+    {
+      "heading": "In the TCG",
+      "level": 2,
+      "text": "Raymond appears in one promotional card.\n \n \n \n\n \n \n \n \n \n\nit:Raymond Johnson\nja:レイモンド・ジョンソン"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Raymond Johnson",
+    "pageType": "general-anime-lore",
+    "searchableText": "Raymond Johnson\nCategory:Japanese voice actors\nRaymond Johnson (Japanese: レイモンド・ジョンソン) is a performer and children's entertainer who has appeared in Japanese Pokémon promotional materials as himself.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "In the TCG"
+    ],
+    "characterCount": 727,
+    "sectionCount": 4
+  }
+}

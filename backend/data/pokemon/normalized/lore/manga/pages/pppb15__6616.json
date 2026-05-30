@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PPPB15",
+    "slug": "pppb15",
+    "pageId": 6616,
+    "revisionId": 4530388
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "pppb15__6616.json",
+    "revisionTimestamp": "2026-04-11T15:56:40Z",
+    "fetchedAt": "2026-05-14T15:39:30.411Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Loves Me? Loves Me Not? (Japanese: すき？　きらい？ Loves Me? Loves Me Not?) is the 15th bonus chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Loves Me? Loves Me Not? (Japanese: すき？　きらい？ Loves Me? Loves Me Not?) is the 15th bonus chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n===Pokémon=== \n( )\n( )\n( )\n\n \n \n \n \n \n\nit:PPPB15",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Loves Me? Loves Me Not? (Japanese: すき？　きらい？ Loves Me? Loves Me Not?) is the 15th bonus chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "===Pokémon=== \n( )\n( )\n( )\n\n \n \n \n \n \n\nit:PPPB15"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPPB15",
+    "pageType": "chapter",
+    "searchableText": "PPPB15\nCategory:Magical Pokémon Journey chapters\nLoves Me? Loves Me Not? (Japanese: すき？　きらい？ Loves Me? Loves Me Not?) is the 15th bonus chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 276,
+    "sectionCount": 2
+  }
+}

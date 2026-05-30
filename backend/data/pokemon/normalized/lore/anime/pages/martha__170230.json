@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Martha",
+    "slug": "martha",
+    "pageId": 170230,
+    "revisionId": 4095062
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "martha__170230.json",
+    "revisionTimestamp": "2024-09-01T00:13:37Z",
+    "fetchedAt": "2026-05-14T14:35:19.040Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Martha (Japanese: マーサ Martha) is a character of the day who appeared in Drayden Versus Iris: Past, Present, and Future!. She was 's dorm advisor in Opelucid Academy when Iris was young.\n\nWhen Iris returned to Opelucid City to Drayden, Martha was present when Iris climbed the big tower in Opelucid City and got in trouble with Officer Jenny. Happy to see Iris again, Martha took everyone over to Opelucid Academy to have lunch before Iris's battle. She commented on how Iris was the most troublesome student the academy ever had but she enjoyed Iris's stay anyway. As Iris failed to make friends at the Academy, Martha always cheered her up by making Iris's favorite dish, consisting of Oran and Pecha berries. \n\nMartha took everyone to Iris's old dorm room, which was currently empty and still had the drawings she made on the wall. After that, she took Iris to see the the latter had battled with years prior.\n\nBefore Iris, , and left the city, Martha revealed that Drayden was the one who recommended Iris to leave the academy and go on a . She added that he hopes that, one day, she will be his successor as the Gym Leader.",
+  "plainText": "Martha (Japanese: マーサ Martha) is a character of the day who appeared in Drayden Versus Iris: Past, Present, and Future!. She was 's dorm advisor in Opelucid Academy when Iris was young.\n\nWhen Iris returned to Opelucid City to Drayden, Martha was present when Iris climbed the big tower in Opelucid City and got in trouble with Officer Jenny. Happy to see Iris again, Martha took everyone over to Opelucid Academy to have lunch before Iris's battle. She commented on how Iris was the most troublesome student the academy ever had but she enjoyed Iris's stay anyway. As Iris failed to make friends at the Academy, Martha always cheered her up by making Iris's favorite dish, consisting of Oran and Pecha berries. \n\nMartha took everyone to Iris's old dorm room, which was currently empty and still had the drawings she made on the wall. After that, she took Iris to see the the latter had battled with years prior.\n\nBefore Iris, , and left the city, Martha revealed that Drayden was the one who recommended Iris to leave the academy and go on a . She added that he hopes that, one day, she will be his successor as the Gym Leader.\n\n==Voice actors==\n \n\n==Names==\n \n \n \n\n \n \n \n\nes:Martha\nit:Martha",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Martha (Japanese: マーサ Martha) is a character of the day who appeared in Drayden Versus Iris: Past, Present, and Future!. She was 's dorm advisor in Opelucid Academy when Iris was young.\n\nWhen Iris returned to Opelucid City to Drayden, Martha was present when Iris climbed the big tower in Opelucid City and got in trouble with Officer Jenny. Happy to see Iris again, Martha took everyone over to Opelucid Academy to have lunch before Iris's battle. She commented on how Iris was the most troublesome student the academy ever had but she enjoyed Iris's stay anyway. As Iris failed to make friends at the Academy, Martha always cheered her up by making Iris's favorite dish, consisting of Oran and Pecha berries. \n\nMartha took everyone to Iris's old dorm room, which was currently empty and still had the drawings she made on the wall. After that, she took Iris to see the the latter had battled with years prior.\n\nBefore Iris, , and left the city, Martha revealed that Drayden was the one who recommended Iris to leave the academy and go on a . She added that he hopes that, one day, she will be his successor as the Gym Leader."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Martha\nit:Martha"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Martha",
+    "pageType": "character",
+    "searchableText": "Martha\nCategory:Unova characters of the day\nMartha (Japanese: マーサ Martha) is a character of the day who appeared in Drayden Versus Iris: Past, Present, and Future!. She was 's dorm advisor in Opelucid Academy when Iris was young.\n\nWhen Iris returned to Opelucid City to Drayden, Martha was present when Iris climbed the big tower in Opelucid City and got in trouble with Officer Jenny. Happy to see Iris again, Martha took everyone over to Opelucid Academy to have lunch before Iris's battle. She commented on how Iris was the most troublesome student the academy ever had but she enjoyed Iris's stay anyway. As Iris failed to make friends at the Academy, Martha always cheered her up by making Iris's favorite dish, consisting of Oran and Pecha berries. \n\nMartha took everyone to Iris's old dorm room, which was currently empty and still had the drawings she made on the wall. After that, she took Iris to see the the latter had battled with years prior.\n\nBefore Iris, , and left the city, Martha revealed that Drayden was the one who recommended Iris to leave the academy and go on a . She added that he hopes that, one day, she will be his successor as the Gym Leader.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 1192,
+    "sectionCount": 2
+  }
+}

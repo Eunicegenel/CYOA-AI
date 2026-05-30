@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Howie",
+    "slug": "howie",
+    "pageId": 44736,
+    "revisionId": 4095892
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Battle Frontier characters of the day",
+    "sourceFileName": "howie__44736.json",
+    "revisionTimestamp": "2024-09-01T00:44:25Z",
+    "fetchedAt": "2026-05-14T14:22:54.331Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Howie (Japanese: ヒロヲ Hiro'o) is a character of the day who appeared in The Ole' Berate and Switch!. He is a from Sable City.\n\nHe was the first Trainer that and his battled in a fake tournament organized by Team Rocket agents Butch and Cassidy.\n\nHowie's battled well and used , , and to weaken Corphish, but when his second Guillotine failed due to Corphish using and then , he lost.",
+  "plainText": "Howie (Japanese: ヒロヲ Hiro'o) is a character of the day who appeared in The Ole' Berate and Switch!. He is a from Sable City.\n\nHe was the first Trainer that and his battled in a fake tournament organized by Team Rocket agents Butch and Cassidy.\n\nHowie's battled well and used , , and to weaken Corphish, but when his second Guillotine failed due to Corphish using and then , he lost.\n\n==Pokémon==\n \n\n==Voice actors==\n \n \n \n \n \n \n\nes:Howie\nfr:Howie\nit:Howie\nzh:小弘",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Howie (Japanese: ヒロヲ Hiro'o) is a character of the day who appeared in The Ole' Berate and Switch!. He is a from Sable City.\n\nHe was the first Trainer that and his battled in a fake tournament organized by Team Rocket agents Butch and Cassidy.\n\nHowie's battled well and used , , and to weaken Corphish, but when his second Guillotine failed due to Corphish using and then , he lost."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Howie\nfr:Howie\nit:Howie\nzh:小弘"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Howie",
+    "pageType": "character",
+    "searchableText": "Howie\nCategory:Battle Frontier characters of the day\nHowie (Japanese: ヒロヲ Hiro'o) is a character of the day who appeared in The Ole' Berate and Switch!. He is a from Sable City.\n\nHe was the first Trainer that and his battled in a fake tournament organized by Team Rocket agents Butch and Cassidy.\n\nHowie's battled well and used , , and to weaken Corphish, but when his second Guillotine failed due to Corphish using and then , he lost.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 461,
+    "sectionCount": 2
+  }
+}

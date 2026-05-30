@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP47",
+    "slug": "pmdp47",
+    "pageId": 176427,
+    "revisionId": 4526433
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp47__176427.json",
+    "revisionTimestamp": "2026-04-09T14:45:49Z",
+    "fetchedAt": "2026-05-14T15:32:42.481Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 大璽新人ピッピ、プヒユ一!! Star Newcomer 's Debut!!) is the forty-seventh chapter of the manga.",
+  "plainText": "(Japanese: 大璽新人ピッピ、プヒユ一!! Star Newcomer 's Debut!!) is the forty-seventh chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n(all forms)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 大璽新人ピッピ、プヒユ一!! Star Newcomer 's Debut!!) is the forty-seventh chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(all forms)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP47",
+    "pageType": "chapter",
+    "searchableText": "PMDP47\nCategory:Pocket Monsters DP chapters\n(Japanese: 大璽新人ピッピ、プヒユ一!! Star Newcomer 's Debut!!) is the forty-seventh chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 230,
+    "sectionCount": 2
+  }
+}

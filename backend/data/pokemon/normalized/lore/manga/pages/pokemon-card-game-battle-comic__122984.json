@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Pokémon Card Game Battle Comic",
+    "slug": "pokemon-card-game-battle-comic",
+    "pageId": 122984,
+    "revisionId": 4132080
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "pokemon-card-game-battle-comic__122984.json",
+    "revisionTimestamp": "2024-09-29T04:29:41Z",
+    "fetchedAt": "2026-05-14T15:36:09.575Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモンカードゲーム　バトルコミック Pokémon Card Game Battle Comic) is a Pokémon manga featured in Pokémon Daisuki Club. It promotes the series of the Pokémon Trading Card Game.\n\n \n \n \n \n \n \n\nit:Pokémon Card Game Battle Comic",
+  "plainText": "(Japanese: ポケモンカードゲーム　バトルコミック Pokémon Card Game Battle Comic) is a Pokémon manga featured in Pokémon Daisuki Club. It promotes the series of the Pokémon Trading Card Game.\n\n \n \n \n \n \n \n\nit:Pokémon Card Game Battle Comic",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンカードゲーム　バトルコミック Pokémon Card Game Battle Comic) is a Pokémon manga featured in Pokémon Daisuki Club. It promotes the series of the Pokémon Trading Card Game.\n\n \n \n \n \n \n \n\nit:Pokémon Card Game Battle Comic"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Card Game Battle Comic",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Card Game Battle Comic\nCategory:Manga stubs\n(Japanese: ポケモンカードゲーム　バトルコミック Pokémon Card Game Battle Comic) is a Pokémon manga featured in Pokémon Daisuki Club. It promotes the series of the Pokémon Trading Card Game.\n\n \n \n \n \n \n \n\nit:Pokémon Card Game Battle Comic",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 219,
+    "sectionCount": 1
+  }
+}

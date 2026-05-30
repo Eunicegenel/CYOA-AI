@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Alba",
+    "slug": "alba",
+    "pageId": 267634,
+    "revisionId": 4548157
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:POKÉTOON characters",
+    "sourceFileName": "alba__267634.json",
+    "revisionTimestamp": "2026-05-10T19:00:51Z",
+    "fetchedAt": "2026-05-14T14:00:26.599Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Alba (Japanese: アンズ Anzu) is a character who appeared in Jigglypuff's Song, the eighth episode of the POKÉTOON animated shorts.\n\nAlba is a girl known to Peaches who decides to tease her with the song her Jigglypuff s. This ended up breaking the confidence of Peaches's Jigglypuff, who fled when it remembered his previous experiences when trying to sing. A few days later, she decided to tease Peaches again but, to defend Peaches, Jigglypuff started singing. Initially Alba was repulsed by Peaches's Jigglypuff music, but this changed over time. Days passed and Peaches and Alba became friends and often got together to hear the melody of Peaches's Jigglypuff. This, however, ended up causing the two girls to fall asleep.",
+  "plainText": "Alba (Japanese: アンズ Anzu) is a character who appeared in Jigglypuff's Song, the eighth episode of the POKÉTOON animated shorts.\n\nAlba is a girl known to Peaches who decides to tease her with the song her Jigglypuff s. This ended up breaking the confidence of Peaches's Jigglypuff, who fled when it remembered his previous experiences when trying to sing. A few days later, she decided to tease Peaches again but, to defend Peaches, Jigglypuff started singing. Initially Alba was repulsed by Peaches's Jigglypuff music, but this changed over time. Days passed and Peaches and Alba became friends and often got together to hear the melody of Peaches's Jigglypuff. This, however, ended up causing the two girls to fall asleep.\n \n==Pokémon==\n \n\n===Voice actors===\n \n\n \n\n \n \n \n\nes:Alba\nit:Alba",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Alba (Japanese: アンズ Anzu) is a character who appeared in Jigglypuff's Song, the eighth episode of the POKÉTOON animated shorts.\n\nAlba is a girl known to Peaches who decides to tease her with the song her Jigglypuff s. This ended up breaking the confidence of Peaches's Jigglypuff, who fled when it remembered his previous experiences when trying to sing. A few days later, she decided to tease Peaches again but, to defend Peaches, Jigglypuff started singing. Initially Alba was repulsed by Peaches's Jigglypuff music, but this changed over time. Days passed and Peaches and Alba became friends and often got together to hear the melody of Peaches's Jigglypuff. This, however, ended up causing the two girls to fall asleep."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 3,
+      "text": "es:Alba\nit:Alba"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Alba",
+    "pageType": "character",
+    "searchableText": "Alba\nCategory:POKÉTOON characters\nAlba (Japanese: アンズ Anzu) is a character who appeared in Jigglypuff's Song, the eighth episode of the POKÉTOON animated shorts.\n\nAlba is a girl known to Peaches who decides to tease her with the song her Jigglypuff s. This ended up breaking the confidence of Peaches's Jigglypuff, who fled when it remembered his previous experiences when trying to sing. A few days later, she decided to tease Peaches again but, to defend Peaches, Jigglypuff started singing. Initially Alba was repulsed by Peaches's Jigglypuff music, but this changed over time. Days passed and Peaches and Alba became friends and often got together to hear the melody of Peaches's Jigglypuff. This, however, ended up causing the two girls to fall asleep.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 788,
+    "sectionCount": 2
+  }
+}

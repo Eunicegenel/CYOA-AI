@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Annie Proctor",
+    "slug": "annie-proctor",
+    "pageId": 21509,
+    "revisionId": 4515208
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "annie-proctor__21509.json",
+    "revisionTimestamp": "2026-03-23T12:15:08Z",
+    "fetchedAt": "2026-05-14T14:02:57.026Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Annie Proctor (Japanese: アンヌ Anne) is a character of the day who appeared in Where's Armaldo?.\n\nThe wife of Professor Proctor, Annie helps him out in their laboratory on Wales Island. Together, they resurrected Fossils into Pokémon. Her husband hoped one day to open their research area on Wales Island for people all around the world to see.\n\nHowever, their attitude changed after one of the they looked after evolved into an and wrought havoc on the island. Luckily, the Professor managed to calm it down. After the mishap, Annie and her husband agreed that the lab should be kept secret. Both promised that they would continue to raise the Fossil Pokémon on Wales Island without interference from outside.",
+  "plainText": "Annie Proctor (Japanese: アンヌ Anne) is a character of the day who appeared in Where's Armaldo?.\n\nThe wife of Professor Proctor, Annie helps him out in their laboratory on Wales Island. Together, they resurrected Fossils into Pokémon. Her husband hoped one day to open their research area on Wales Island for people all around the world to see.\n\nHowever, their attitude changed after one of the they looked after evolved into an and wrought havoc on the island. Luckily, the Professor managed to calm it down. After the mishap, Annie and her husband agreed that the lab should be kept secret. Both promised that they would continue to raise the Fossil Pokémon on Wales Island without interference from outside.\n\n==Pokémon==\n===Looked after===\n \n\n \n\n \n\n==Voice actors==\n \n \n \n\n \n \n \n \n\nes:Annie Proctor\nit:Annie Proctor",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Annie Proctor (Japanese: アンヌ Anne) is a character of the day who appeared in Where's Armaldo?.\n\nThe wife of Professor Proctor, Annie helps him out in their laboratory on Wales Island. Together, they resurrected Fossils into Pokémon. Her husband hoped one day to open their research area on Wales Island for people all around the world to see.\n\nHowever, their attitude changed after one of the they looked after evolved into an and wrought havoc on the island. Luckily, the Professor managed to calm it down. After the mishap, Annie and her husband agreed that the lab should be kept secret. Both promised that they would continue to raise the Fossil Pokémon on Wales Island without interference from outside."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Annie Proctor\nit:Annie Proctor"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Annie Proctor",
+    "pageType": "character",
+    "searchableText": "Annie Proctor\nCategory:Hoenn characters of the day\nAnnie Proctor (Japanese: アンヌ Anne) is a character of the day who appeared in Where's Armaldo?.\n\nThe wife of Professor Proctor, Annie helps him out in their laboratory on Wales Island. Together, they resurrected Fossils into Pokémon. Her husband hoped one day to open their research area on Wales Island for people all around the world to see.\n\nHowever, their attitude changed after one of the they looked after evolved into an and wrought havoc on the island. Luckily, the Professor managed to calm it down. After the mishap, Annie and her husband agreed that the lab should be kept secret. Both promised that they would continue to raise the Fossil Pokémon on Wales Island without interference from outside.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 816,
+    "sectionCount": 2
+  }
+}

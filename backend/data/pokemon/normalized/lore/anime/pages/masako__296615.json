@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Masako",
+    "slug": "masako",
+    "pageId": 296615,
+    "revisionId": 4324181
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures characters",
+    "sourceFileName": "masako__296615.json",
+    "revisionTimestamp": "2025-06-25T07:29:39Z",
+    "fetchedAt": "2026-05-14T14:35:25.342Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Masako (Japanese: まさこ Masako) is a supporting character of A Pocketful of Adventures. She is portrayed by .",
+  "plainText": "Masako (Japanese: まさこ Masako) is a supporting character of A Pocketful of Adventures. She is portrayed by .\n==History==\n===Pre-series===\nBefore having her current cafe, Masako had a restaurant in the district of . She revealed that during that time, she was a very shy and naive person, but that changed when she needed to \"change her skin\".\n\n===Season One===\nIn PPA01, Masako saw Madoka Akagi alone while studying Pokémon's type advantages. When asking Madoka about this, she made a correlation about the type advantages and the people each of them interacts with.\n==Character==\nMasako is a young but very wise woman. Talking about her experiences and advice, she helped Madoka understand the best way to interact with people.\n==Names==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Masako (Japanese: まさこ Masako) is a supporting character of A Pocketful of Adventures. She is portrayed by ."
+    },
+    {
+      "heading": "Pre-series",
+      "level": 3,
+      "text": "Before having her current cafe, Masako had a restaurant in the district of . She revealed that during that time, she was a very shy and naive person, but that changed when she needed to \"change her skin\"."
+    },
+    {
+      "heading": "Season One",
+      "level": 3,
+      "text": "In PPA01, Masako saw Madoka Akagi alone while studying Pokémon's type advantages. When asking Madoka about this, she made a correlation about the type advantages and the people each of them interacts with."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Masako is a young but very wise woman. Talking about her experiences and advice, she helped Madoka understand the best way to interact with people."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Masako",
+    "pageType": "character",
+    "searchableText": "Masako\nCategory:A Pocketful of Adventures characters\nMasako (Japanese: まさこ Masako) is a supporting character of A Pocketful of Adventures. She is portrayed by .",
+    "sectionHeadings": [
+      "Lead",
+      "Pre-series",
+      "Season One",
+      "Character"
+    ],
+    "characterCount": 737,
+    "sectionCount": 4
+  }
+}

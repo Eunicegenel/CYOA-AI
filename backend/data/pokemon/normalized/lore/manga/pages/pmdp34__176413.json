@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP34",
+    "slug": "pmdp34",
+    "pageId": 176413,
+    "revisionId": 4528000
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp34__176413.json",
+    "revisionTimestamp": "2026-04-09T16:02:04Z",
+    "fetchedAt": "2026-05-14T15:32:34.349Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ステキな を かせましょう！！ Let's Bloom Wonderful Flowers!!) is the thirty-fourth chapter of the manga.",
+  "plainText": "(Japanese: ステキな を かせましょう！！ Let's Bloom Wonderful Flowers!!) is the thirty-fourth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ステキな を かせましょう！！ Let's Bloom Wonderful Flowers!!) is the thirty-fourth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP34",
+    "pageType": "chapter",
+    "searchableText": "PMDP34\nCategory:Pocket Monsters DP chapters\n(Japanese: ステキな を かせましょう！！ Let's Bloom Wonderful Flowers!!) is the thirty-fourth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 230,
+    "sectionCount": 2
+  }
+}

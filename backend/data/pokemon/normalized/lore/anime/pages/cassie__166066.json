@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Cassie",
+    "slug": "cassie",
+    "pageId": 166066,
+    "revisionId": 4289221
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "cassie__166066.json",
+    "revisionTimestamp": "2025-04-28T19:50:11Z",
+    "fetchedAt": "2026-05-14T14:08:48.702Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Cassie (Japanese: コバシ Kobashi) is a minor recurring character in .\n\nShe first appeared in Jostling for the Junior Cup!, where she participated in the Pokémon World Tournament Junior Cup and was Geraldo's first opponent. However, she was defeated by him and eliminated from the tournament. She made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where she lined up with all the other competitors in front of Alder, Cynthia, Caitlin, and Freddy O'Martian.",
+  "plainText": "Cassie (Japanese: コバシ Kobashi) is a minor recurring character in .\n\nShe first appeared in Jostling for the Junior Cup!, where she participated in the Pokémon World Tournament Junior Cup and was Geraldo's first opponent. However, she was defeated by him and eliminated from the tournament. She made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where she lined up with all the other competitors in front of Alder, Cynthia, Caitlin, and Freddy O'Martian.\n \n==Pokémon==\n \n \n\n==Pokémon competitions==\nCassie has competed in the following :\nPokémon World Tournament Junior Cup - Top 16 (Jostling for the Junior Cup!)\n\n==Voice actors==\n \n\n==Trivia==\nThe flowers in Cassie's hair resemble the flowers on 's antlers when it's in its Spring Form.\n\n \n \n \n\nes:Cassie\nfr:Cathy (Unys)\nit:Cassie",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Cassie (Japanese: コバシ Kobashi) is a minor recurring character in .\n\nShe first appeared in Jostling for the Junior Cup!, where she participated in the Pokémon World Tournament Junior Cup and was Geraldo's first opponent. However, she was defeated by him and eliminated from the tournament. She made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where she lined up with all the other competitors in front of Alder, Cynthia, Caitlin, and Freddy O'Martian."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Cassie has competed in the following :\nPokémon World Tournament Junior Cup - Top 16 (Jostling for the Junior Cup!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The flowers in Cassie's hair resemble the flowers on 's antlers when it's in its Spring Form.\n\n \n \n \n\nes:Cassie\nfr:Cathy (Unys)\nit:Cassie"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Cassie",
+    "pageType": "character",
+    "searchableText": "Cassie\nCategory:Animation characters\nCassie (Japanese: コバシ Kobashi) is a minor recurring character in .\n\nShe first appeared in Jostling for the Junior Cup!, where she participated in the Pokémon World Tournament Junior Cup and was Geraldo's first opponent. However, she was defeated by him and eliminated from the tournament. She made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where she lined up with all the other competitors in front of Alder, Cynthia, Caitlin, and Freddy O'Martian.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Trivia"
+    ],
+    "characterCount": 797,
+    "sectionCount": 3
+  }
+}

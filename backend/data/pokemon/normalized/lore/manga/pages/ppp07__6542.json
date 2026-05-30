@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PPP07",
+    "slug": "ppp07",
+    "pageId": 6542,
+    "revisionId": 4131813
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp07__6542.json",
+    "revisionTimestamp": "2024-09-29T04:25:43Z",
+    "fetchedAt": "2026-05-14T15:38:40.937Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Adventuring the Stone (Japanese: めざせ！冒険の石!! Aim for it! The Adventure Stone) is the seventh chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Adventuring the Stone (Japanese: めざせ！冒険の石!! Aim for it! The Adventure Stone) is the seventh chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nThe chapter begins with asking Almond if he can be his \"little brother\". Squirtle looks up to Almond and wants him to teach him how to be \"manly\". and decide they would like to become manly too.\n\nAlmond begins by giving the three Pokémon tests of stamina and courage. When they fail at these tests, he challenges them to find the \"Stone of Adventure\", which will make them \"Masters of Adventure\". \n\nInside the cave containing the stone, the group fight off a flock of . Squirtle tries to use its , but it cannot reach the Pokémon. Pikachu, however, is able to defeat the Golbat with a . \n\nAlmond thinks he has found the Stone of Adventure, but when Hazel picks it up, it turns out to be the end of an 's tail. Squirtle defeats Onix with a Water Gun, rescuing the group. Onix awards Squirtle a Stone of Adventure for his bravery.\n\n==Major events==\nreceives a Stone of Adventure.\n \n\n===Debuts===\n====Pokémon====\n\n==Characters==\n===Humans===\nHazel\nAlmond\n\n===Pokémon===\n( )\n( )\n( )\n( )\n(debut)\n\n \n\n \n \n\n \n\nes:MPJ07\nit:PPP07",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Adventuring the Stone (Japanese: めざせ！冒険の石!! Aim for it! The Adventure Stone) is the seventh chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "The chapter begins with asking Almond if he can be his \"little brother\". Squirtle looks up to Almond and wants him to teach him how to be \"manly\". and decide they would like to become manly too.\n\nAlmond begins by giving the three Pokémon tests of stamina and courage. When they fail at these tests, he challenges them to find the \"Stone of Adventure\", which will make them \"Masters of Adventure\". \n\nInside the cave containing the stone, the group fight off a flock of . Squirtle tries to use its , but it cannot reach the Pokémon. Pikachu, however, is able to defeat the Golbat with a . \n\nAlmond thinks he has found the Stone of Adventure, but when Hazel picks it up, it turns out to be the end of an 's tail. Squirtle defeats Onix with a Water Gun, rescuing the group. Onix awards Squirtle a Stone of Adventure for his bravery."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "receives a Stone of Adventure."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nAlmond"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n(debut)\n\n \n\n \n \n\n \n\nes:MPJ07\nit:PPP07"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP07",
+    "pageType": "chapter",
+    "searchableText": "PPP07\nCategory:Magical Pokémon Journey chapters\nAdventuring the Stone (Japanese: めざせ！冒険の石!! Aim for it! The Adventure Stone) is the seventh chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1170,
+    "sectionCount": 5
+  }
+}

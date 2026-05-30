@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB65",
+    "slug": "rb65",
+    "pageId": 163831,
+    "revisionId": 4252905
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb65__163831.json",
+    "revisionTimestamp": "2025-03-04T04:51:34Z",
+    "fetchedAt": "2026-05-14T15:47:56.836Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: それぞれの壁 Respective Barriers) is the 65th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: それぞれの壁 Respective Barriers) is the 65th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nYappy finds Ryouga and takes him back to the others while explaining what happened while Ryouga was away.\nHariru and Carola take their leave, and Hariru and Ryouga promise to fight once again.\nGerubu reveals that he has also recovered Rovy's and Ganku's Burst Heart and uses the three Burst Hearts to revive Fraud with a new, stronger body.\n\n===Debuts===\n\n====Pokémon debuts====\n==Characters==\n===Humans===\nRyouga\nAmu (flashback)\nYappy\nMiruto\nHariru\nCarola\nRug \nKaruta\nFraud\nGerubu\n\n===Pokémon===\n(Hariru's; flashback)\n(Amu's)\n(×2)\n\n \n \n \n\n \n\nzh:RB65",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: それぞれの壁 Respective Barriers) is the 65th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Yappy finds Ryouga and takes him back to the others while explaining what happened while Ryouga was away.\nHariru and Carola take their leave, and Hariru and Ryouga promise to fight once again.\nGerubu reveals that he has also recovered Rovy's and Ganku's Burst Heart and uses the three Burst Hearts to revive Fraud with a new, stronger body."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nAmu (flashback)\nYappy\nMiruto\nHariru\nCarola\nRug \nKaruta\nFraud\nGerubu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hariru's; flashback)\n(Amu's)\n(×2)\n\n \n \n \n\n \n\nzh:RB65"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB65",
+    "pageType": "chapter",
+    "searchableText": "RB65\nCategory:Pokémon RéBURST chapters\n(Japanese: それぞれの壁 Respective Barriers) is the 65th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 669,
+    "sectionCount": 4
+  }
+}

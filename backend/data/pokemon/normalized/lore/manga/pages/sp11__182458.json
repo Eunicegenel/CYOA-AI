@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP11",
+    "slug": "sp11",
+    "pageId": 182458,
+    "revisionId": 4114551
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp11__182458.json",
+    "revisionTimestamp": "2024-09-16T20:30:13Z",
+    "fetchedAt": "2026-05-14T15:49:57.637Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Do Your Best Bulbasaur!! (Japanese: がんばれ、フシギダネ！！ Do Your Best, !!) is the eleventh chapter of the Ash & Pikachu manga.",
+  "plainText": "Do Your Best Bulbasaur!! (Japanese: がんばれ、フシギダネ！！ Do Your Best, !!) is the eleventh chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n\n \n \n\n \n\nit:SP11",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Do Your Best Bulbasaur!! (Japanese: がんばれ、フシギダネ！！ Do Your Best, !!) is the eleventh chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n \n \n\n \n\nit:SP11"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP11",
+    "pageType": "chapter",
+    "searchableText": "SP11\nCategory:Ash & Pikachu chapters\nDo Your Best Bulbasaur!! (Japanese: がんばれ、フシギダネ！！ Do Your Best, !!) is the eleventh chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 278,
+    "sectionCount": 3
+  }
+}

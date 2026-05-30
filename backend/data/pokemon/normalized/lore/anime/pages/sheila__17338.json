@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Sheila",
+    "slug": "sheila",
+    "pageId": 17338,
+    "revisionId": 4143558
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Gym assistants",
+    "sourceFileName": "sheila__17338.json",
+    "revisionTimestamp": "2024-10-11T21:04:59Z",
+    "fetchedAt": "2026-05-14T14:49:15.454Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Sheila (Japanese: シマ Shima) is a recurring character in . She is a long-time friend of Mahogany Town Gym Leader Pryce and serves as the official referee at the Mahogany Gym.",
+  "plainText": "Sheila (Japanese: シマ Shima) is a recurring character in . She is a long-time friend of Mahogany Town Gym Leader Pryce and serves as the official referee at the Mahogany Gym.\n\n==History==\n and first met Sheila in As Cold as Pryce. She learned that Ash was after a Gym battle against Pryce, so she took the group over to his meditation spot in the mountains. After Ash and Pryce fell into a crevasse because of , Sheila led and down the steep canyon walls. During the search effort, she revealed that Pryce was once a spirited before becoming his now cold self after his partner disappeared one night. Pryce and Ash later emerged from a cave, and Sheila was surprised to see Piloswine once again.\n\nIn Nice Pryce, Baby!, Sheila was glad to see her old friend Pryce back to his much friendlier self. She later refereed Ash's match against Pryce.\n\n==Character==\nSheila is a remarkably adventurous individual, with an equally interesting past that was only hinted at when she revealed her status as a Triple A accredited judge. Her energetic spirit surprised and when they first met her. She is unpredictable and always one step ahead of everyone else.\n\n==Voice actors==\n \n\n \n\n \n \n \n\nde:Sheila\nes:Sheila\nit:Sheila\nzh:西玛",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sheila (Japanese: シマ Shima) is a recurring character in . She is a long-time friend of Mahogany Town Gym Leader Pryce and serves as the official referee at the Mahogany Gym."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "and first met Sheila in As Cold as Pryce. She learned that Ash was after a Gym battle against Pryce, so she took the group over to his meditation spot in the mountains. After Ash and Pryce fell into a crevasse because of , Sheila led and down the steep canyon walls. During the search effort, she revealed that Pryce was once a spirited before becoming his now cold self after his partner disappeared one night. Pryce and Ash later emerged from a cave, and Sheila was surprised to see Piloswine once again.\n\nIn Nice Pryce, Baby!, Sheila was glad to see her old friend Pryce back to his much friendlier self. She later refereed Ash's match against Pryce."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Sheila is a remarkably adventurous individual, with an equally interesting past that was only hinted at when she revealed her status as a Triple A accredited judge. Her energetic spirit surprised and when they first met her. She is unpredictable and always one step ahead of everyone else."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Sheila\nes:Sheila\nit:Sheila\nzh:西玛"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sheila",
+    "pageType": "general-anime-lore",
+    "searchableText": "Sheila\nCategory:Gym assistants\nSheila (Japanese: シマ Shima) is a recurring character in . She is a long-time friend of Mahogany Town Gym Leader Pryce and serves as the official referee at the Mahogany Gym.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Voice actors"
+    ],
+    "characterCount": 1213,
+    "sectionCount": 4
+  }
+}

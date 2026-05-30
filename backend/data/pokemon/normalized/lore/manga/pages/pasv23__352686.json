@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PASV23",
+    "slug": "pasv23",
+    "pageId": 352686,
+    "revisionId": 4511063
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasv23__352686.json",
+    "revisionTimestamp": "2026-03-17T19:55:00Z",
+    "fetchedAt": "2026-05-14T15:29:21.431Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 超力！マイティチェンジ！！ Super Strength! !!) is the 23rd chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS イルカマン VS ).",
+  "plainText": "(Japanese: 超力！マイティチェンジ！！ Super Strength! !!) is the 23rd chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS イルカマン VS ).\n\n==Plot==\n \n\n==Major events==\nwins her battle against Atticus, the third of five Team Star bosses.\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nClavell\nGeeta\nAtticus\nYoussef\ns\n\n===Pokémon===\n( )\n(Rotom Phone; Old Roto; 's)\n( 's)\n( 's; )\n(Rotom Phone; 's)\n(Rotom Phone; 's)\n(Atticus's)\n(Atticus's; )\n( 's; fantasy)\n \n \n \n\nde:Kapitel 23 (Karmesin und Purpur Arc)\nes:PMSSV23\nfr:Chapitre 23 (Pocket Monsters Special Écarlate et Violet)\nzh:宝可梦特别篇 朱·紫篇 第18话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 超力！マイティチェンジ！！ Super Strength! !!) is the 23rd chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS イルカマン VS )."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "wins her battle against Atticus, the third of five Team Star bosses."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Clavell\nGeeta\nAtticus\nYoussef\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Rotom Phone; Old Roto; 's)\n( 's)\n( 's; )\n(Rotom Phone; 's)\n(Rotom Phone; 's)\n(Atticus's)\n(Atticus's; )\n( 's; fantasy)\n \n \n \n\nde:Kapitel 23 (Karmesin und Purpur Arc)\nes:PMSSV23\nfr:Chapitre 23 (Pocket Monsters Special Écarlate et Violet)\nzh:宝可梦特别篇 朱·紫篇 第18话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASV23",
+    "pageType": "chapter",
+    "searchableText": "PASV23\nCategory:Pokémon Adventures chapters\n(Japanese: 超力！マイティチェンジ！！ Super Strength! !!) is the 23rd chapter of the of the Pokémon Adventures manga.\n\nIt is subtitled (Japanese: VS イルカマン VS ).",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 625,
+    "sectionCount": 4
+  }
+}

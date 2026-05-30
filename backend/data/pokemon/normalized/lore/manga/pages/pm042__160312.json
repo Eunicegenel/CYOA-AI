@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM042",
+    "slug": "pm042",
+    "pageId": 160312,
+    "revisionId": 4526632
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm042__160312.json",
+    "revisionTimestamp": "2026-04-09T14:59:13Z",
+    "fetchedAt": "2026-05-14T15:30:55.946Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Red VS Green?! (Japanese: 対決！レッドVSグリーン！！ Red VS Green!!) is the forty-second chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Red VS Green?! (Japanese: 対決！レッドVSグリーン！！ Red VS Green!!) is the forty-second chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 42 (Pokémon Pocket Monsters)\nit:PMM042",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Red VS Green?! (Japanese: 対決！レッドVSグリーン！！ Red VS Green!!) is the forty-second chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 42 (Pokémon Pocket Monsters)\nit:PMM042"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM042",
+    "pageType": "chapter",
+    "searchableText": "PM042\nCategory:Pokémon Pocket Monsters chapters\nRed VS Green?! (Japanese: 対決！レッドVSグリーン！！ Red VS Green!!) is the forty-second chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 387,
+    "sectionCount": 3
+  }
+}

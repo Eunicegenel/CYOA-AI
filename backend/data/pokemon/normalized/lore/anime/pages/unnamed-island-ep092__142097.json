@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Unnamed island (EP092)",
+    "slug": "unnamed-island-ep092",
+    "pageId": 142097,
+    "revisionId": 4261323
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands",
+    "sourceFileName": "unnamed-island-ep092__142097.json",
+    "revisionTimestamp": "2025-03-19T21:52:42Z",
+    "fetchedAt": "2026-05-14T14:56:14.011Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "An unnamed island in the Orange Islands appears in The Joy of Pokémon. According to Pocket Monsters Film Comic, it is a deserted island considered to be a part of Kinnow Island.\n\nA particularly athletic and tanned Nurse Joy operates the local Pokémon Center. She also services a number of surrounding islands, rowing from island to island with her to help sick or injured Pokémon because most of the Orange Islands are too small to have Pokémon Centers.",
+  "plainText": "An unnamed island in the Orange Islands appears in The Joy of Pokémon. According to Pocket Monsters Film Comic, it is a deserted island considered to be a part of Kinnow Island.\n\nA particularly athletic and tanned Nurse Joy operates the local Pokémon Center. She also services a number of surrounding islands, rowing from island to island with her to help sick or injured Pokémon because most of the Orange Islands are too small to have Pokémon Centers.\n\n==Pokémon seen around the island==\n \n\n==Related articles==\n \n \n\n \n\nde:Unbenannte Inseln der Orange-Inseln#EP092\nes:Isla sin nombre 2 (Archipiélago Naranja)\nit:Isola senza nome (GA092)\nzh:无名岛（EP093）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "An unnamed island in the Orange Islands appears in The Joy of Pokémon. According to Pocket Monsters Film Comic, it is a deserted island considered to be a part of Kinnow Island.\n\nA particularly athletic and tanned Nurse Joy operates the local Pokémon Center. She also services a number of surrounding islands, rowing from island to island with her to help sick or injured Pokémon because most of the Orange Islands are too small to have Pokémon Centers."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Unbenannte Inseln der Orange-Inseln#EP092\nes:Isla sin nombre 2 (Archipiélago Naranja)\nit:Isola senza nome (GA092)\nzh:无名岛（EP093）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Unnamed island (EP092)",
+    "pageType": "general-anime-lore",
+    "searchableText": "Unnamed island (EP092)\nCategory:Orange Islands\nAn unnamed island in the Orange Islands appears in The Joy of Pokémon. According to Pocket Monsters Film Comic, it is a deserted island considered to be a part of Kinnow Island.\n\nA particularly athletic and tanned Nurse Joy operates the local Pokémon Center. She also services a number of surrounding islands, rowing from island to island with her to help sick or injured Pokémon because most of the Orange Islands are too small to have Pokémon Centers.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 652,
+    "sectionCount": 2
+  }
+}

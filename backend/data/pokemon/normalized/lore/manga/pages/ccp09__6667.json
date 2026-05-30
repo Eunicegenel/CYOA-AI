@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "CCP09",
+    "slug": "ccp09",
+    "pageId": 6667,
+    "revisionId": 4175850
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp09__6667.json",
+    "revisionTimestamp": "2024-11-05T02:51:27Z",
+    "fetchedAt": "2026-05-14T15:15:13.132Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: かわいさのコンテストちゃも! The Cute Contest (chamo!)) is the ninth chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: かわいさのコンテストちゃも! The Cute Contest (chamo!)) is the ninth chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n enters in a ness , where she competes against a and a . thinks that Torchic should not have entered, and when Haruka asks why, he explains that the two often compete in Pokémon Contests and are invincible.\n\nDuring the competition, Plusle and Minun prove to be very formidable opponents indeed. The two are popular among the audience in the hall, which makes Torchic realize that she has to step up her game. In the first turn in the Appeals Round, she uses , and both Poochyena and Mightyena comment that the move is not cute enough.\n\nPlusle asks Torchic if she is competing for the first time in a Pokémon Contest, and as she says yes, Minun comments that it thought so after seeing the move she used. Minun then uses while Plusle uses , leaving the audience very impressed as Torchic starts thinking she will lose the competition at this rate. Mightyena cheers for Torchic and tells her to do her best.\n\nIn the following turn, Torchic uses and Poochyena wonders if that is even a , to which Haruka says that it is and is worth one Appeal Point. Torchic fails to stand out once more and Minun says that Plusle is its closest rival. Plusle uses and Minun uses as Poochyena comments that there is no way for Torchic to win.\n\nThe results are announced and it is revealed that Plusle won the Cuteness Contest with 34 votes, while Minun got second place with 32 votes. Torchic ends up in third place with only two votes. Torchic becomes sad and Haruka comforts her. Mightyena tells her that it was only her first time competing, and that he voted for her because he thought she was cute.\n\nTorchic thanks Haruka for the other vote she received, and Haruka reveals that she did not get to vote. and did not cast their votes either, and Torchic turns to Poochyena. He reveals that he voted for her only because she was trying so hard, and Torchic giggles. Torchic thinks to herself that she may have lost her first Pokémon Contest, but she will do better next time.\n\n==Major events==\nenters a ness and loses.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nContest Hall audience\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: かわいさのコンテストちゃも! The Cute Contest (chamo!)) is the ninth chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "enters in a ness , where she competes against a and a . thinks that Torchic should not have entered, and when Haruka asks why, he explains that the two often compete in Pokémon Contests and are invincible.\n\nDuring the competition, Plusle and Minun prove to be very formidable opponents indeed. The two are popular among the audience in the hall, which makes Torchic realize that she has to step up her game. In the first turn in the Appeals Round, she uses , and both Poochyena and Mightyena comment that the move is not cute enough.\n\nPlusle asks Torchic if she is competing for the first time in a Pokémon Contest, and as she says yes, Minun comments that it thought so after seeing the move she used. Minun then uses while Plusle uses , leaving the audience very impressed as Torchic starts thinking she will lose the competition at this rate. Mightyena cheers for Torchic and tells her to do her best.\n\nIn the following turn, Torchic uses and Poochyena wonders if that is even a , to which Haruka says that it is and is worth one Appeal Point. Torchic fails to stand out once more and Minun says that Plusle is its closest rival. Plusle uses and Minun uses as Poochyena comments that there is no way for Torchic to win.\n\nThe results are announced and it is revealed that Plusle won the Cuteness Contest with 34 votes, while Minun got second place with 32 votes. Torchic ends up in third place with only two votes. Torchic becomes sad and Haruka comforts her. Mightyena tells her that it was only her first time competing, and that he voted for her because he thought she was cute.\n\nTorchic thanks Haruka for the other vote she received, and Haruka reveals that she did not get to vote. and did not cast their votes either, and Torchic turns to Poochyena. He reveals that he voted for her only because she was trying so hard, and Torchic giggles. Torchic thinks to herself that she may have lost her first Pokémon Contest, but she will do better next time."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "enters a ness and loses."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Contest Hall audience"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP09",
+    "pageType": "chapter",
+    "searchableText": "CCP09\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: かわいさのコンテストちゃも! The Cute Contest (chamo!)) is the ninth chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 2255,
+    "sectionCount": 5
+  }
+}

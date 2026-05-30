@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Anything Goes Café",
+    "slug": "anything-goes-cafe",
+    "pageId": 317514,
+    "revisionId": 4534799
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "anything-goes-cafe__317514.json",
+    "revisionTimestamp": "2026-04-19T08:13:41Z",
+    "fetchedAt": "2026-05-14T14:03:05.800Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Anything Goes Café (Japanese: ナンデモ食堂 Anything Eatery) is an -exclusive restaurant located in Medali.",
+  "plainText": "Anything Goes Café (Japanese: ナンデモ食堂 Anything Eatery) is an -exclusive restaurant located in Medali.\n\n==History==\nAnything Goes Café was started by Mokichi and his , eventually joined by his present-day wife Nandy. Due to the popularity of Treasure Eatery, it became a struggling business not attracting many customers. Kingambit is the mascot of the restaurant, greeting guests at the entrance and working in the kitchen to make .\n\nThe restaurant appeared in Food Fit for a Kingambit!, where it was visited by Liko, Roy, and Dot. After Dot's Tinkatink wrecked an iron griddle, the children worked at the eatery for a day to pay up for it. Although Dot's Quaxly managed to attract some customers, none of them felt like coming again. Dot, figuring out that the root of the problem was the restaurant's signature dish, the House Special, having too many flavors to be found memorable, suggested simplifying it to focus on Kingambit's noodles, its tastiest part. With this change and the unknowing help of Sidian, Dot managed to attract more customers to the restaurant, including Larry, who found the new dish tasty and memorable, increasing the restaurant's popularity.\n\n==Staff==\n===Chefs===\n \n\n===Temporary===\n \n\n===Pokémon===\n \n\n==Menu items==\n \n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n\nes:Restaurante Todo se vale/Restaurante Todo es posible\nit:Bistrò di Tutto Un Po'\nzh:萬有食堂",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Anything Goes Café (Japanese: ナンデモ食堂 Anything Eatery) is an -exclusive restaurant located in Medali."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Anything Goes Café was started by Mokichi and his , eventually joined by his present-day wife Nandy. Due to the popularity of Treasure Eatery, it became a struggling business not attracting many customers. Kingambit is the mascot of the restaurant, greeting guests at the entrance and working in the kitchen to make .\n\nThe restaurant appeared in Food Fit for a Kingambit!, where it was visited by Liko, Roy, and Dot. After Dot's Tinkatink wrecked an iron griddle, the children worked at the eatery for a day to pay up for it. Although Dot's Quaxly managed to attract some customers, none of them felt like coming again. Dot, figuring out that the root of the problem was the restaurant's signature dish, the House Special, having too many flavors to be found memorable, suggested simplifying it to focus on Kingambit's noodles, its tastiest part. With this change and the unknowing help of Sidian, Dot managed to attract more customers to the restaurant, including Larry, who found the new dish tasty and memorable, increasing the restaurant's popularity."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Restaurante Todo se vale/Restaurante Todo es posible\nit:Bistrò di Tutto Un Po'\nzh:萬有食堂"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Anything Goes Café",
+    "pageType": "location",
+    "searchableText": "Anything Goes Café\nCategory:Animated series-exclusive locations\nAnything Goes Café (Japanese: ナンデモ食堂 Anything Eatery) is an -exclusive restaurant located in Medali.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1394,
+    "sectionCount": 3
+  }
+}

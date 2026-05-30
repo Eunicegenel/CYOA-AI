@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM067",
+    "slug": "pm067",
+    "pageId": 160493,
+    "revisionId": 4528313
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm067__160493.json",
+    "revisionTimestamp": "2026-04-09T16:15:39Z",
+    "fetchedAt": "2026-05-14T15:31:11.851Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "A Finger Lickin' Battle! (Japanese: なぜかおいしいバトル！ Somehow Delicious Battle!) is the sixty-seventh chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "A Finger Lickin' Battle! (Japanese: なぜかおいしいバトル！ Somehow Delicious Battle!) is the sixty-seventh chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nGirl\n\n===Pokémon===\n( ) \n( )\n( )\n( 's)\n( 's)\n(girl's; multiple; given to Red)\n\n==Trivia==\nA lookalike of appears in this chapter, where he served as a chef.\n\n \n \n\nde:Kapitel 67 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Finger Lickin' Battle! (Japanese: なぜかおいしいバトル！ Somehow Delicious Battle!) is the sixty-seventh chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Girl"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( 's)\n( 's)\n(girl's; multiple; given to Red)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "A lookalike of appears in this chapter, where he served as a chef.\n\n \n \n\nde:Kapitel 67 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM067",
+    "pageType": "chapter",
+    "searchableText": "PM067\nCategory:Pokémon Pocket Monsters chapters\nA Finger Lickin' Battle! (Japanese: なぜかおいしいバトル！ Somehow Delicious Battle!) is the sixty-seventh chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 442,
+    "sectionCount": 4
+  }
+}

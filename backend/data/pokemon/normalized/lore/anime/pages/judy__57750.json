@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Judy",
+    "slug": "judy",
+    "pageId": 57750,
+    "revisionId": 4515017
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "judy__57750.json",
+    "revisionTimestamp": "2026-03-23T03:06:32Z",
+    "fetchedAt": "2026-05-14T14:28:06.657Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Judy (Japanese: ジュディ Judy) is a minor character who appeared in Pokémon Ranger and the Temple of the Sea. She is an Operator who works at a Ranger Base.",
+  "plainText": "Judy (Japanese: ジュディ Judy) is a minor character who appeared in Pokémon Ranger and the Temple of the Sea. She is an Operator who works at a Ranger Base.\n\n==History==\n \nJudy helped coordinate Jack Walker's latest field mission, returning the to Samiya. She was first seen as Jack escaped the Phantom's ship and continued to offer him insights throughout the movie.\n\nJudy's past is unknown, although it is said she once was a popular idol before working for the Ranger Union.\n\nShe is absent in the of the ninth movie.\n \n\n==Character==\nJudy and Jack seem to have a familiar relationship with each other. They tend to engage in a bit of banter, though she remains focused on the task at hand.\n\n==Voice actors==\n \n\n==Related articles==\n \n \n\nes:Judy\nit:Judy",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Judy (Japanese: ジュディ Judy) is a minor character who appeared in Pokémon Ranger and the Temple of the Sea. She is an Operator who works at a Ranger Base."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Judy helped coordinate Jack Walker's latest field mission, returning the to Samiya. She was first seen as Jack escaped the Phantom's ship and continued to offer him insights throughout the movie.\n\nJudy's past is unknown, although it is said she once was a popular idol before working for the Ranger Union.\n\nShe is absent in the of the ninth movie."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Judy and Jack seem to have a familiar relationship with each other. They tend to engage in a bit of banter, though she remains focused on the task at hand."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Judy\nit:Judy"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Judy",
+    "pageType": "movie",
+    "searchableText": "Judy\nCategory:Movie characters\nJudy (Japanese: ジュディ Judy) is a minor character who appeared in Pokémon Ranger and the Temple of the Sea. She is an Operator who works at a Ranger Base.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Related articles"
+    ],
+    "characterCount": 751,
+    "sectionCount": 4
+  }
+}

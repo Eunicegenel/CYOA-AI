@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW24",
+    "slug": "pmbw24",
+    "pageId": 175234,
+    "revisionId": 4528517
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw24__175234.json",
+    "revisionTimestamp": "2026-04-09T16:24:55Z",
+    "fetchedAt": "2026-05-14T15:31:58.446Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 無敵の超機能ライブキャスター!? Invincible Ultra-function !?) is the twenty-fourth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 無敵の超機能ライブキャスター!? Invincible Ultra-function !?) is the twenty-fourth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 無敵の超機能ライブキャスター!? Invincible Ultra-function !?) is the twenty-fourth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW24",
+    "pageType": "chapter",
+    "searchableText": "PMBW24\nCategory:Pocket Monsters BW chapters\n(Japanese: 無敵の超機能ライブキャスター!? Invincible Ultra-function !?) is the twenty-fourth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 256,
+    "sectionCount": 2
+  }
+}

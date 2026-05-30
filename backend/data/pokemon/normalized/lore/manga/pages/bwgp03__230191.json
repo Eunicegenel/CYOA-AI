@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "BWGP03",
+    "slug": "bwgp03",
+    "pageId": 230191,
+    "revisionId": 4527102
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW: Good Partners chapters",
+    "sourceFileName": "bwgp03__230191.json",
+    "revisionTimestamp": "2026-04-09T15:19:59Z",
+    "fetchedAt": "2026-05-14T15:14:46.269Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 夢の跡地 The ) is the third chapter of the Pocket Monsters BW: Good Partners manga.",
+  "plainText": "(Japanese: 夢の跡地 The ) is the third chapter of the Pocket Monsters BW: Good Partners manga.\n\n==Plot==\n \n\n==Major events==\nMashiro a .\n\n===Debuts===\n====Humans====\nCress\n\n====Pokémon debuts====\n(Mashiro's)\n\n==Characters==\n===Humans===\nTakurō\nMashiro\nBado\nCress\n\n===Pokémon===\n(Mashiro's)\n(Mashiro's)\n(Mashiro's; newly caught)\n(Dorry; Bado's; flashback)\n(multiple)\n(×2)\n(multiple; flashback)\n(multiple; flashback)\n(painting)\n(×2; painting)\n(painting)\n(painting)\n\n \n \n \n\nja:ポケットモンスターBWGP 第3話\nzh:GP03",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 夢の跡地 The ) is the third chapter of the Pocket Monsters BW: Good Partners manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Mashiro a ."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Cress"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Mashiro's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Takurō\nMashiro\nBado\nCress"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Mashiro's)\n(Mashiro's)\n(Mashiro's; newly caught)\n(Dorry; Bado's; flashback)\n(multiple)\n(×2)\n(multiple; flashback)\n(multiple; flashback)\n(painting)\n(×2; painting)\n(painting)\n(painting)\n\n \n \n \n\nja:ポケットモンスターBWGP 第3話\nzh:GP03"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "BWGP03",
+    "pageType": "chapter",
+    "searchableText": "BWGP03\nCategory:Pocket Monsters BW: Good Partners chapters\n(Japanese: 夢の跡地 The ) is the third chapter of the Pocket Monsters BW: Good Partners manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 495,
+    "sectionCount": 6
+  }
+}

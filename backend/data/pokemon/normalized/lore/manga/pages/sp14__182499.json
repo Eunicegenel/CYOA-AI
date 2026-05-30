@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "SP14",
+    "slug": "sp14",
+    "pageId": 182499,
+    "revisionId": 4189019
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp14__182499.json",
+    "revisionTimestamp": "2024-11-21T17:05:19Z",
+    "fetchedAt": "2026-05-14T15:49:59.502Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Dragonite's Imperial Wrath (Japanese: カイリューの「逆鱗」 's ) is the fourteenth chapter of the Ash & Pikachu manga. It is based on the episodes Fangs for Nothin and Great Bowls of Fire!.",
+  "plainText": "The Dragonite's Imperial Wrath (Japanese: カイリューの「逆鱗」 's ) is the fourteenth chapter of the Ash & Pikachu manga. It is based on the episodes Fangs for Nothin and Great Bowls of Fire!.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nJessie\nJames\nClair\nKaburagi\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n\n==Differences between the animated series and the manga==\nLiza appearance is omitted. also does not appear in the chapter, with the final battle focusing on a team up between Ash's Pikachu and Clair's Dragonair.\n \n \n\n \n\nit:SP14",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Dragonite's Imperial Wrath (Japanese: カイリューの「逆鱗」 's ) is the fourteenth chapter of the Ash & Pikachu manga. It is based on the episodes Fangs for Nothin and Great Bowls of Fire!."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jessie\nJames\nClair\nKaburagi"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "Liza appearance is omitted. also does not appear in the chapter, with the final battle focusing on a team up between Ash's Pikachu and Clair's Dragonair.\n \n \n\n \n\nit:SP14"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP14",
+    "pageType": "chapter",
+    "searchableText": "SP14\nCategory:Ash & Pikachu chapters\nThe Dragonite's Imperial Wrath (Japanese: カイリューの「逆鱗」 's ) is the fourteenth chapter of the Ash & Pikachu manga. It is based on the episodes Fangs for Nothin and Great Bowls of Fire!.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 572,
+    "sectionCount": 4
+  }
+}

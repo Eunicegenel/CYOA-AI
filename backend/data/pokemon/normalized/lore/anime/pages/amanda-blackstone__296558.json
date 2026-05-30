@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Amanda Blackstone",
+    "slug": "amanda-blackstone",
+    "pageId": 296558,
+    "revisionId": 4544113
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu characters",
+    "sourceFileName": "amanda-blackstone__296558.json",
+    "revisionTimestamp": "2026-05-04T09:50:51Z",
+    "fetchedAt": "2026-05-14T14:00:56.052Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Amanda Blackstone is a supporting character in the game .",
+  "plainText": "Amanda Blackstone is a supporting character in the game .\n\n==In the games==\n \n=== ===\nAmanda is an assistant at the Baker Detective Agency. Her job duties include compiling reports of things her boss Mike Baker has investigated, communicating with clients, and handling appointments. She is generally kind, though she has little patience with and is always getting on his case about things like eating sweets that have been left out for clients. \n\nShe chose to have the Baker Detective Agency's car be a convertible because she insisted it's better to have a sporty vehicle when tailing or chasing down suspects.\n\nAmanda's Pokémon partner is . Fletchling enjoys helping Amanda with small tasks, such as fetching the newspaper and delivering letters and packages. It also likes having visitors at the agency. Wherever Amanda goes, Fletchling is always with her.\n\nAmanda has several entries in Tim's case list:\n \n\n===Pokémon===\nThis listing is of Amanda's known in the games:\n\n \n\n==Gallery==\n===Artwork===\n \n \n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n\nes:Amanda Blackstone\nzh:亞曼達‧布萊克史東",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Amanda Blackstone is a supporting character in the game ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Amanda is an assistant at the Baker Detective Agency. Her job duties include compiling reports of things her boss Mike Baker has investigated, communicating with clients, and handling appointments. She is generally kind, though she has little patience with and is always getting on his case about things like eating sweets that have been left out for clients. \n\nShe chose to have the Baker Detective Agency's car be a convertible because she insisted it's better to have a sporty vehicle when tailing or chasing down suspects.\n\nAmanda's Pokémon partner is . Fletchling enjoys helping Amanda with small tasks, such as fetching the newspaper and delivering letters and packages. It also likes having visitors at the agency. Wherever Amanda goes, Fletchling is always with her.\n\nAmanda has several entries in Tim's case list:"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Amanda's known in the games:"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Amanda Blackstone\nzh:亞曼達‧布萊克史東"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Amanda Blackstone",
+    "pageType": "character",
+    "searchableText": "Amanda Blackstone\nCategory:Detective Pikachu characters\nAmanda Blackstone is a supporting character in the game .",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Pokémon",
+      "Related articles"
+    ],
+    "characterCount": 1097,
+    "sectionCount": 4
+  }
+}

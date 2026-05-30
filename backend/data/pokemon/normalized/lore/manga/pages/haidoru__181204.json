@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Haidoru",
+    "slug": "haidoru",
+    "pageId": 181204,
+    "revisionId": 4528721
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure characters",
+    "sourceFileName": "haidoru__181204.json",
+    "revisionTimestamp": "2026-04-09T16:59:20Z",
+    "fetchedAt": "2026-05-14T15:21:06.574Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ハイドル Haidoru) is a character from the Pokémon Try Adventure manga. He is a phantom thief as well as a recurring foe for Katsuya and his friends.",
+  "plainText": "(Japanese: ハイドル Haidoru) is a character from the Pokémon Try Adventure manga. He is a phantom thief as well as a recurring foe for Katsuya and his friends.\n\n==Character==\nHaidoru appears to take his job as a phantom thief seriously, especially when he yelled at for interrupting him in his debut appearance. In later appearances, he has mellowed out a little.\n\n==History==\nHaidoru first appeared in TA10 where he came out of one of the stone sculptures in the train museum. As Haidoru was about to get away with a stone sculpture. The grappling hook he used accidentally destroyed some train tracks. With the help of Toki's and Katsuya's , the tracks were restored to an icy path and Haidoru was left hanging when he used his grappling hook somewhere else.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ハイドル Haidoru) is a character from the Pokémon Try Adventure manga. He is a phantom thief as well as a recurring foe for Katsuya and his friends."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Haidoru appears to take his job as a phantom thief seriously, especially when he yelled at for interrupting him in his debut appearance. In later appearances, he has mellowed out a little."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Haidoru first appeared in TA10 where he came out of one of the stone sculptures in the train museum. As Haidoru was about to get away with a stone sculpture. The grappling hook he used accidentally destroyed some train tracks. With the help of Toki's and Katsuya's , the tracks were restored to an icy path and Haidoru was left hanging when he used his grappling hook somewhere else."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Haidoru",
+    "pageType": "character",
+    "searchableText": "Haidoru\nCategory:Pokémon Try Adventure characters\n(Japanese: ハイドル Haidoru) is a character from the Pokémon Try Adventure manga. He is a phantom thief as well as a recurring foe for Katsuya and his friends.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History"
+    ],
+    "characterCount": 769,
+    "sectionCount": 3
+  }
+}

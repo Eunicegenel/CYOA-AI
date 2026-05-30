@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Kadabra's Magic Show",
+    "slug": "kadabras-magic-show",
+    "pageId": 202804,
+    "revisionId": 4168513
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "kadabras-magic-show__202804.json",
+    "revisionTimestamp": "2024-10-26T17:03:43Z",
+    "fetchedAt": "2026-05-14T15:23:04.804Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Kadabra's Magic Show is the twelfth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 7th and 8th bonus chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Kadabra's Magic Show is the twelfth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 7th and 8th bonus chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n \n==Blurb==\nPSYCHIC POKéMON APLENTY!\n\nHazel loses her pictures of Almond, and Kadabra arrives to help her and the Pokémon look for them psychically! \n\nThen, while Hazel is gathering vegetables to make curry, Psyduck pops--up when Psyduck gets a headache, weird things happen.....\n\n==Publications==\n \n \n\n==Chapters==\nThe Heart's Search\nWhy, Psyduck, Why?\n\n==Important events==\nHazel's Pokémon meet Kadabra and find her missing photo.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Kadabra's Magic Show is the twelfth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 7th and 8th bonus chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "PSYCHIC POKéMON APLENTY!\n\nHazel loses her pictures of Almond, and Kadabra arrives to help her and the Pokémon look for them psychically! \n\nThen, while Hazel is gathering vegetables to make curry, Psyduck pops--up when Psyduck gets a headache, weird things happen....."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The Heart's Search\nWhy, Psyduck, Why?"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Hazel's Pokémon meet Kadabra and find her missing photo."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kadabra's Magic Show",
+    "pageType": "pokemon-related",
+    "searchableText": "Kadabra's Magic Show\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Kadabra's Magic Show is the twelfth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 7th and 8th bonus chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 823,
+    "sectionCount": 4
+  }
+}

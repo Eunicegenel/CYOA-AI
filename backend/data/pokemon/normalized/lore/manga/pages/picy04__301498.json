@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PICY04",
+    "slug": "picy04",
+    "pageId": 301498,
+    "revisionId": 4527901
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! chapters",
+    "sourceFileName": "picy04__301498.json",
+    "revisionTimestamp": "2026-04-09T15:59:05Z",
+    "fetchedAt": "2026-05-14T15:30:06.681Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Chapter 4 (Japanese: 第４話 Chapter 4) is the fourth chapter of Pokémon the Movie: I Choose You!",
+  "plainText": "Chapter 4 (Japanese: 第４話 Chapter 4) is the fourth chapter of Pokémon the Movie: I Choose You!\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Humans====\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\nVerity\nCross\nSorrel\n\n===Pokémon===\n( 's)\n(formerly Cross's)\n(Verity's)\n(Cross's; )\n\n==Differences between the movie and the manga==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chapter 4 (Japanese: 第４話 Chapter 4) is the fourth chapter of Pokémon the Movie: I Choose You!"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Verity\nCross\nSorrel"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n(formerly Cross's)\n(Verity's)\n(Cross's; )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PICY04",
+    "pageType": "chapter",
+    "searchableText": "PICY04\nCategory:Pokémon the Movie: I Choose You! chapters\nChapter 4 (Japanese: 第４話 Chapter 4) is the fourth chapter of Pokémon the Movie: I Choose You!",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 342,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Len Town",
+    "slug": "len-town",
+    "pageId": 35588,
+    "revisionId": 4308160
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "len-town__35588.json",
+    "revisionTimestamp": "2025-05-21T22:20:23Z",
+    "fetchedAt": "2026-05-14T14:30:51.601Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Len Town (Japanese: ブレンタウン Bren Town) is an -exclusive location in the Johto region. It is situated between Azalea Town and Goldenrod City. It was featured in The Psychic Sidekicks!.\n\nWhile visiting the town, and met Cherry after stumbling across a mysterious Pokémon, which turned out to be Cherry's . Cherry later explained that the forest that surrounds the town is known for being inhabited by . As such, the townspeople have and with exclusively Pokémon as a means of protection for centuries. Later, Cherry and her Girafarig helped destroy 's Gengar mecha and return the townspeople's stolen Pokémon.\n\nOther known residents of Len Town include Mrs. Bellows and .",
+  "plainText": "Len Town (Japanese: ブレンタウン Bren Town) is an -exclusive location in the Johto region. It is situated between Azalea Town and Goldenrod City. It was featured in The Psychic Sidekicks!.\n\nWhile visiting the town, and met Cherry after stumbling across a mysterious Pokémon, which turned out to be Cherry's . Cherry later explained that the forest that surrounds the town is known for being inhabited by . As such, the townspeople have and with exclusively Pokémon as a means of protection for centuries. Later, Cherry and her Girafarig helped destroy 's Gengar mecha and return the townspeople's stolen Pokémon.\n\nOther known residents of Len Town include Mrs. Bellows and .\n\n==Pokémon seen in Len Town==\n \n\n==Trivia==\nThe town's trend of using Psychic-types for protection against Ghost-types should not work due to the town being introduced in Generation II. Ghost-type attacks are super effective against Psychic types starting in that generation. Only one resident is known to actually possess a Psychic-type Pokémon ( ) that can protect against Ghost types because of its immunity being a part .\n\n==In other languages==\n \n\n \n \n\n \n\nde:Len City\nit:Len Town\nes:Pueblo Len\nzh:超能镇",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Len Town (Japanese: ブレンタウン Bren Town) is an -exclusive location in the Johto region. It is situated between Azalea Town and Goldenrod City. It was featured in The Psychic Sidekicks!.\n\nWhile visiting the town, and met Cherry after stumbling across a mysterious Pokémon, which turned out to be Cherry's . Cherry later explained that the forest that surrounds the town is known for being inhabited by . As such, the townspeople have and with exclusively Pokémon as a means of protection for centuries. Later, Cherry and her Girafarig helped destroy 's Gengar mecha and return the townspeople's stolen Pokémon.\n\nOther known residents of Len Town include Mrs. Bellows and ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The town's trend of using Psychic-types for protection against Ghost-types should not work due to the town being introduced in Generation II. Ghost-type attacks are super effective against Psychic types starting in that generation. Only one resident is known to actually possess a Psychic-type Pokémon ( ) that can protect against Ghost types because of its immunity being a part ."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Len City\nit:Len Town\nes:Pueblo Len\nzh:超能镇"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Len Town",
+    "pageType": "location",
+    "searchableText": "Len Town\nCategory:Animated series-exclusive locations\nLen Town (Japanese: ブレンタウン Bren Town) is an -exclusive location in the Johto region. It is situated between Azalea Town and Goldenrod City. It was featured in The Psychic Sidekicks!.\n\nWhile visiting the town, and met Cherry after stumbling across a mysterious Pokémon, which turned out to be Cherry's . Cherry later explained that the forest that surrounds the town is known for being inhabited by . As such, the townspeople have and with exclusively Pokémon as a means of protection for centuries. Later, Cherry and her Girafarig helped destroy 's Gengar mecha and return the townspeople's stolen Pokémon.\n\nOther known residents of Len Town include Mrs. Bellows and .",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1174,
+    "sectionCount": 3
+  }
+}

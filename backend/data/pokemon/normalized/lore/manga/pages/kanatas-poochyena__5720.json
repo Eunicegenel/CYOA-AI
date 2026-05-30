@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Kanata's Poochyena",
+    "slug": "kanatas-poochyena",
+    "pageId": 5720,
+    "revisionId": 4208773
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ characters",
+    "sourceFileName": "kanatas-poochyena__5720.json",
+    "revisionTimestamp": "2024-12-22T19:34:59Z",
+    "fetchedAt": "2026-05-14T15:23:10.393Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kanata's Poochyena (カナタ ポチエナ Kanata's Pochiena) is one of the main characters in Pokémon Chamo-Chamo ☆ Pretty ♪. He's the younger brother of .",
+  "plainText": "Kanata's Poochyena (カナタ ポチエナ Kanata's Pochiena) is one of the main characters in Pokémon Chamo-Chamo ☆ Pretty ♪. He's the younger brother of .\n\n==History==\nPoochyena is introduced along with his Trainer when Torchic mistakes Poochyena as a Prince Charming.\n\n==Personality and characteristics==\nPoochyena doesn't get along with at all; he calls her \"shorty\" and she calls him \"hick-Poochy\". However, he congratulates her for doing well in a , and comforts her when she's upset at times.\n\n==Related articles==\n \n \n \n \n \n \n \n\nit:Poochyena di Kanata",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kanata's Poochyena (カナタ ポチエナ Kanata's Pochiena) is one of the main characters in Pokémon Chamo-Chamo ☆ Pretty ♪. He's the younger brother of ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Poochyena is introduced along with his Trainer when Torchic mistakes Poochyena as a Prince Charming."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 2,
+      "text": "Poochyena doesn't get along with at all; he calls her \"shorty\" and she calls him \"hick-Poochy\". However, he congratulates her for doing well in a , and comforts her when she's upset at times."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Poochyena di Kanata"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kanata's Poochyena",
+    "pageType": "character",
+    "searchableText": "Kanata's Poochyena\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ characters\nKanata's Poochyena (カナタ ポチエナ Kanata's Pochiena) is one of the main characters in Pokémon Chamo-Chamo ☆ Pretty ♪. He's the younger brother of .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Personality and characteristics",
+      "Related articles"
+    ],
+    "characterCount": 545,
+    "sectionCount": 4
+  }
+}

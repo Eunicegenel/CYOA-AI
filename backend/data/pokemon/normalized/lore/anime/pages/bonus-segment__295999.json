@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Bonus segment",
+    "slug": "bonus-segment",
+    "pageId": 295999,
+    "revisionId": 4385082
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series segments",
+    "sourceFileName": "bonus-segment__295999.json",
+    "revisionTimestamp": "2025-09-20T06:26:50Z",
+    "fetchedAt": "2026-05-14T14:05:50.807Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Most episodes of the have various bonus segments, which are used to to show information outside the episode's continuity.",
+  "plainText": "Most episodes of the have various bonus segments, which are used to to show information outside the episode's continuity.\n\n==Types==\nBonus segments can be classified into two types, mid-episode segments and post-episode segments. \n\nMid-episode segments are used during the middle of the episode, generally on either side of a commercial break. The most famous mid-episode is Who's That Pokémon?, a question-and-answer segment asking the audience to guess the shown as a silhouette or outline, or a magnified body part. A similar segment is Pokémon Trainer's Choice, which tests the audience's knowledge about type effectiveness or evolutionary lines. Other mid-episode segments include eyecatches, which are a simple transitional feature to separate the episode from the commercial break.\n\nPost-episode segments are used after the main story of the episode ends, generally after the ending theme. Post-episode segments are generally used for bonus shorts or for giving more information about the world of Pokémon. Examples include Professor Oak's Pokémon Lecture, where Prof. Oak teaches the audience about a new Pokémon species each episode, and Pokémon Trivia Quiz which contained minigames about not only , but Pokémon species as well. Most post-episode segments are not retained outside the Japanese version of the series.\n\n==List of English bonus segments==\n \n\n== List of Japanese bonus segments ==\n \n\n==Related articles==\nEyecatch",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Most episodes of the have various bonus segments, which are used to to show information outside the episode's continuity."
+    },
+    {
+      "heading": "Types",
+      "level": 2,
+      "text": "Bonus segments can be classified into two types, mid-episode segments and post-episode segments. \n\nMid-episode segments are used during the middle of the episode, generally on either side of a commercial break. The most famous mid-episode is Who's That Pokémon?, a question-and-answer segment asking the audience to guess the shown as a silhouette or outline, or a magnified body part. A similar segment is Pokémon Trainer's Choice, which tests the audience's knowledge about type effectiveness or evolutionary lines. Other mid-episode segments include eyecatches, which are a simple transitional feature to separate the episode from the commercial break.\n\nPost-episode segments are used after the main story of the episode ends, generally after the ending theme. Post-episode segments are generally used for bonus shorts or for giving more information about the world of Pokémon. Examples include Professor Oak's Pokémon Lecture, where Prof. Oak teaches the audience about a new Pokémon species each episode, and Pokémon Trivia Quiz which contained minigames about not only , but Pokémon species as well. Most post-episode segments are not retained outside the Japanese version of the series."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Eyecatch"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bonus segment",
+    "pageType": "general-anime-lore",
+    "searchableText": "Bonus segment\nCategory:Animated series segments\nMost episodes of the have various bonus segments, which are used to to show information outside the episode's continuity.",
+    "sectionHeadings": [
+      "Lead",
+      "Types",
+      "Related articles"
+    ],
+    "characterCount": 1436,
+    "sectionCount": 3
+  }
+}

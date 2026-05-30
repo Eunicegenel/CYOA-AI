@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pinery",
+    "slug": "pinery",
+    "pageId": 259235,
+    "revisionId": 4518889
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "pinery__259235.json",
+    "revisionTimestamp": "2026-03-29T10:53:01Z",
+    "fetchedAt": "2026-05-14T14:41:54.531Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Pinery (Japanese: マツバラ Matsubara) is recurring character who first appeared in To Train, or Not to Train!. She is the head of the Eevee Evolution Lab.",
+  "plainText": "Pinery (Japanese: マツバラ Matsubara) is recurring character who first appeared in To Train, or Not to Train!. She is the head of the Eevee Evolution Lab.\n\n==History==\n \nPinery was first seen collecting an that had attempted to imitate a by swimming, only for her to fail. Along with her assistants, she tried to get the Eevee to evolve using a Fire Stone and a Thunder Stone. However, neither Evolution stone succeeded in this regard, leaving them confused as to why Eevee wouldn't evolve.\n\nPinery later traveled to the Cerise Laboratory, where she and her assistants collected Eevee after she had left the Eevee Evolution Laboratory. As they were leaving, Eevee decided she wanted to stay with Chloe after befriending her. Upon seeing this, she allowed Chloe to keep Eevee and informed her that she was somehow unable to evolve.\n\nShe reappeared in a flashback in On Land, In the Sea, and to the Future!. \n\nIn Infinite Possibilities!, Pinery met with Chloe, who talked to her about her travels since meeting Eevee.\n\n==Pokémon==\nThis listing is of Pinery's known Pokémon in :\n===Used in research===\n \n\n===Given away===\n \n\n==Voice actors==\n \n\n==Trivia==\nPinery's hair appears to be loosely based on a 's crest.\n\n==Names==\n \n \n\n \n \n\nes:Pinery\nit:Matsubara\nja:マツバラ\nzh:松原",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pinery (Japanese: マツバラ Matsubara) is recurring character who first appeared in To Train, or Not to Train!. She is the head of the Eevee Evolution Lab."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Pinery was first seen collecting an that had attempted to imitate a by swimming, only for her to fail. Along with her assistants, she tried to get the Eevee to evolve using a Fire Stone and a Thunder Stone. However, neither Evolution stone succeeded in this regard, leaving them confused as to why Eevee wouldn't evolve.\n\nPinery later traveled to the Cerise Laboratory, where she and her assistants collected Eevee after she had left the Eevee Evolution Laboratory. As they were leaving, Eevee decided she wanted to stay with Chloe after befriending her. Upon seeing this, she allowed Chloe to keep Eevee and informed her that she was somehow unable to evolve.\n\nShe reappeared in a flashback in On Land, In the Sea, and to the Future!. \n\nIn Infinite Possibilities!, Pinery met with Chloe, who talked to her about her travels since meeting Eevee."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Pinery's known Pokémon in :"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Pinery's hair appears to be loosely based on a 's crest."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Pinery\nit:Matsubara\nja:マツバラ\nzh:松原"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pinery",
+    "pageType": "character",
+    "searchableText": "Pinery\nCategory:Animation characters\nPinery (Japanese: マツバラ Matsubara) is recurring character who first appeared in To Train, or Not to Train!. She is the head of the Eevee Evolution Lab.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 1263,
+    "sectionCount": 5
+  }
+}

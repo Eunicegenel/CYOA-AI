@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Lightning Island",
+    "slug": "lightning-island",
+    "pageId": 15047,
+    "revisionId": 4356173
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands",
+    "sourceFileName": "lightning-island__15047.json",
+    "revisionTimestamp": "2025-08-10T20:44:29Z",
+    "fetchedAt": "2026-05-14T14:31:06.290Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Lightning Island (Japanese: 雷の島 Lightning Island) is an island in the central Orange Islands, featured in the second movie.\n \nThe southwestern-most of the three elemental islands, Lightning Island is home to the Legendary , who roams the island. The island is a mountainous island. The Treasure of Lightning Island was formerly located in an altar overlooking a chasm. However, this was destroyed by Lawrence III's airship when it crash landed on the island.\n\nAfter placed all three of island treasures at the Shamouti Island shrine, peace was restored and Zapdos returned to Lightning Island.",
+  "plainText": "Lightning Island (Japanese: 雷の島 Lightning Island) is an island in the central Orange Islands, featured in the second movie.\n \nThe southwestern-most of the three elemental islands, Lightning Island is home to the Legendary , who roams the island. The island is a mountainous island. The Treasure of Lightning Island was formerly located in an altar overlooking a chasm. However, this was destroyed by Lawrence III's airship when it crash landed on the island.\n\nAfter placed all three of island treasures at the Shamouti Island shrine, peace was restored and Zapdos returned to Lightning Island.\n\n==Pokémon seen on Lightning Island==\n \n==In other languages==\n \n \n\n==Related articles==\n \n\n \n \n\n \n \n\nit:Isola del Fulmine\nzh:雷之岛\nfr:Île de Foudre",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lightning Island (Japanese: 雷の島 Lightning Island) is an island in the central Orange Islands, featured in the second movie.\n \nThe southwestern-most of the three elemental islands, Lightning Island is home to the Legendary , who roams the island. The island is a mountainous island. The Treasure of Lightning Island was formerly located in an altar overlooking a chasm. However, this was destroyed by Lawrence III's airship when it crash landed on the island.\n\nAfter placed all three of island treasures at the Shamouti Island shrine, peace was restored and Zapdos returned to Lightning Island."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Isola del Fulmine\nzh:雷之岛\nfr:Île de Foudre"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lightning Island",
+    "pageType": "general-anime-lore",
+    "searchableText": "Lightning Island\nCategory:Orange Islands\nLightning Island (Japanese: 雷の島 Lightning Island) is an island in the central Orange Islands, featured in the second movie.\n \nThe southwestern-most of the three elemental islands, Lightning Island is home to the Legendary , who roams the island. The island is a mountainous island. The Treasure of Lightning Island was formerly located in an altar overlooking a chasm. However, this was destroyed by Lawrence III's airship when it crash landed on the island.\n\nAfter placed all three of island treasures at the Shamouti Island shrine, peace was restored and Zapdos returned to Lightning Island.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 740,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Discover Pokémon Together",
+    "slug": "discover-pokemon-together",
+    "pageId": 296565,
+    "revisionId": 4519823
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation",
+    "sourceFileName": "discover-pokemon-together__296565.json",
+    "revisionTimestamp": "2026-03-30T16:37:31Z",
+    "fetchedAt": "2026-05-14T14:12:03.080Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Discover Pokémon Together is a series of shorts released directly on the official Pokémon YouTube channel, each focusing on a different Pokémon. In addition to the animated shorts, the Pokémon focused on in the video would receive a sheet with some details about it on the Pokémon website and a video in the Beyond the Pokédex series about it (also hosted on the YouTube channel).",
+  "plainText": "Discover Pokémon Together is a series of shorts released directly on the official Pokémon YouTube channel, each focusing on a different Pokémon. In addition to the animated shorts, the Pokémon focused on in the video would receive a sheet with some details about it on the Pokémon website and a video in the Beyond the Pokédex series about it (also hosted on the YouTube channel).\n\n==List of shorts==\n \n \n \n \n \n\n==Lechonk==\n \n\n===Summary===\nA narrator comments about Lechonk's abilities, namely its sense of adventure, senstive snout, immense strength, and sense of taste as it sniffs around for food, before noticing many Occa Berries in a tree above it. It headbutts the tree, causing the berries to fall down. Later, after having eaten the berries, Lechonk is asleep. The narrator accidentally wakes up Lechonk, and it runs off.\n\n===Pokémon===\n\n===Staff===\n\n==An Oddish Tale==\n \n\n===Summary===\nAn Oddish emerges from a small mound of dirt, walking through the woods and leaving a trail of seeds as several sets of eyes watch it from inside of a bush. Oddish notices that many Rattata are following it, eating the trail of seeds it has left along the way. In anger, it attacks the Rattata, attempting to drive them away, but is unsuccessful. After attacking a Rattata with , it evolves into Raticate. The clouds above clear and Oddish is able to use to strike Raticate, leaving it dazed and causing it to flee. The sun rises, and Oddish plants itself back into the dirt, and falls asleep.\n\n===Pokémon===\n\n===Staff===\n\n===Beyond the Pokédex===\n \n \n\n==The Mysterious Mismagius==\n \n\n===Summary===\n\n===Pokémon===\n\n( )\n\n===Staff===\nDirection- Parker Simmons \n\nAnimation- Raymond Luc, Pat Casao\n\nComp/Lighting- Aaron Smith\n\nEditing- HeiLiMei \nFX/Environment - Cody Winchester, Kelsey Brownley, Ethan DuToit\nProduction- Brendan O'Connor\n\n===Beyond the Pokédex===\n \n \n\n==In other languages==\n \n\n==See also==\nDiscover Pokémon Together: Lechonk (Official Site)\nDiscover Pokémon Together: Oddish (Official Site)\nDiscover Pokémon Together: Mismagius (Official Site)\n\n==References==\n \n\n \n\n \n\nes:Descubrir Pokémon juntos\nzh:与宝可梦在一起",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Discover Pokémon Together is a series of shorts released directly on the official Pokémon YouTube channel, each focusing on a different Pokémon. In addition to the animated shorts, the Pokémon focused on in the video would receive a sheet with some details about it on the Pokémon website and a video in the Beyond the Pokédex series about it (also hosted on the YouTube channel)."
+    },
+    {
+      "heading": "Summary",
+      "level": 3,
+      "text": "A narrator comments about Lechonk's abilities, namely its sense of adventure, senstive snout, immense strength, and sense of taste as it sniffs around for food, before noticing many Occa Berries in a tree above it. It headbutts the tree, causing the berries to fall down. Later, after having eaten the berries, Lechonk is asleep. The narrator accidentally wakes up Lechonk, and it runs off."
+    },
+    {
+      "heading": "Summary",
+      "level": 3,
+      "text": "An Oddish emerges from a small mound of dirt, walking through the woods and leaving a trail of seeds as several sets of eyes watch it from inside of a bush. Oddish notices that many Rattata are following it, eating the trail of seeds it has left along the way. In anger, it attacks the Rattata, attempting to drive them away, but is unsuccessful. After attacking a Rattata with , it evolves into Raticate. The clouds above clear and Oddish is able to use to strike Raticate, leaving it dazed and causing it to flee. The sun rises, and Oddish plants itself back into the dirt, and falls asleep."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )"
+    },
+    {
+      "heading": "Staff",
+      "level": 3,
+      "text": "Direction- Parker Simmons \n\nAnimation- Raymond Luc, Pat Casao\n\nComp/Lighting- Aaron Smith\n\nEditing- HeiLiMei \nFX/Environment - Cody Winchester, Kelsey Brownley, Ethan DuToit\nProduction- Brendan O'Connor"
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "Discover Pokémon Together: Lechonk (Official Site)\nDiscover Pokémon Together: Oddish (Official Site)\nDiscover Pokémon Together: Mismagius (Official Site)"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "es:Descubrir Pokémon juntos\nzh:与宝可梦在一起"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Discover Pokémon Together",
+    "pageType": "pokemon-related",
+    "searchableText": "Discover Pokémon Together\nCategory:Animation\nDiscover Pokémon Together is a series of shorts released directly on the official Pokémon YouTube channel, each focusing on a different Pokémon. In addition to the animated shorts, the Pokémon focused on in the video would receive a sheet with some details about it on the Pokémon website and a video in the Beyond the Pokédex series about it (also hosted on the YouTube channel).",
+    "sectionHeadings": [
+      "Lead",
+      "Summary",
+      "Summary",
+      "Pokémon",
+      "Staff",
+      "See also",
+      "References"
+    ],
+    "characterCount": 2119,
+    "sectionCount": 7
+  }
+}

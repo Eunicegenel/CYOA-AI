@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Trinity",
+    "slug": "trinity",
+    "pageId": 8359,
+    "revisionId": 4358485
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "trinity__8359.json",
+    "revisionTimestamp": "2025-08-15T17:11:57Z",
+    "fetchedAt": "2026-05-14T14:55:31.346Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Trinity (Japanese: タカミ Takami) is a character of the day who appeared in the episode The Perfect Match!. She was one of the competitors in the Whirl Cup and 's rival in the tournament.",
+  "plainText": "Trinity (Japanese: タカミ Takami) is a character of the day who appeared in the episode The Perfect Match!. She was one of the competitors in the Whirl Cup and 's rival in the tournament.\n\n==History==\nLike Misty, Trinity specializes in . Impressed with Misty's performance in the Whirl Cup, they personally met after Misty's win against in the competition in The Perfect Match!. remembered her from her previous victory, mentioning that she fought perfectly. Trinity battled Misty in the third round against her and , and won after a tough battle. At the end of the battle, Misty and Trinity met up again. Misty congratulated her for the victory and wished good luck to her rival and friend in her next battle, which ultimately lead her to the finals of the competition.\n\nJust before the match began between her and a powerful Trainer with a , she, Misty, Ash, and the Trainer united to defeat , who was trying to steal the Great Sea Spirit Sapphire from the hands of . After that, her finals battle continued, but she eventually lost the battle. As a result, she was ranked second in the tournament. At the end of the episode, she appeared next to Ash, Misty, and Brock, talking about how they could improve their skills with Water-type Pokémon.\n\nShe reappeared in a flashback in Espeon, Not Included.\n\n==Pokémon==\nThis listing is of Trinity's known Pokémon in : \n \n\n \n\n \n\n==Achievements==\n \n===Pokémon competitions===\nTrinity has competed in the following :\nWhirl Cup - Runner-up (The Perfect Match!)\n \n\n==Voice actors==\n \n \n\n \n\n \n \n \n \n\nde:Gute Freunde – heiße Rivalen!#Trinity\nes:Trinity\nfr:Trinity\nit:Trinity\nzh:高美",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Trinity (Japanese: タカミ Takami) is a character of the day who appeared in the episode The Perfect Match!. She was one of the competitors in the Whirl Cup and 's rival in the tournament."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Like Misty, Trinity specializes in . Impressed with Misty's performance in the Whirl Cup, they personally met after Misty's win against in the competition in The Perfect Match!. remembered her from her previous victory, mentioning that she fought perfectly. Trinity battled Misty in the third round against her and , and won after a tough battle. At the end of the battle, Misty and Trinity met up again. Misty congratulated her for the victory and wished good luck to her rival and friend in her next battle, which ultimately lead her to the finals of the competition.\n\nJust before the match began between her and a powerful Trainer with a , she, Misty, Ash, and the Trainer united to defeat , who was trying to steal the Great Sea Spirit Sapphire from the hands of . After that, her finals battle continued, but she eventually lost the battle. As a result, she was ranked second in the tournament. At the end of the episode, she appeared next to Ash, Misty, and Brock, talking about how they could improve their skills with Water-type Pokémon.\n\nShe reappeared in a flashback in Espeon, Not Included."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Trinity's known Pokémon in :"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 3,
+      "text": "Trinity has competed in the following :\nWhirl Cup - Runner-up (The Perfect Match!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Gute Freunde – heiße Rivalen!#Trinity\nes:Trinity\nfr:Trinity\nit:Trinity\nzh:高美"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Trinity",
+    "pageType": "character",
+    "searchableText": "Trinity\nCategory:Johto characters of the day\nTrinity (Japanese: タカミ Takami) is a character of the day who appeared in the episode The Perfect Match!. She was one of the competitors in the Whirl Cup and 's rival in the tournament.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 1616,
+    "sectionCount": 5
+  }
+}

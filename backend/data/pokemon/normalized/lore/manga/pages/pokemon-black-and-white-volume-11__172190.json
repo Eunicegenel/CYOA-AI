@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon Black and White volume 11",
+    "slug": "pokemon-black-and-white-volume-11",
+    "pageId": 172190,
+    "revisionId": 4131876
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-black-and-white-volume-11__172190.json",
+    "revisionTimestamp": "2024-09-29T04:26:40Z",
+    "fetchedAt": "2026-05-14T15:35:52.830Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 11 is the eleventh volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 11 is the eleventh volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n \n\n==Chapters==\nAdventure 35 - The Battle Within\nAdventure 36 - Museum Showdown\nAdventure 37 - Finding Truth\n\n==Party changes==\n===Additions===\nNite evolves into an in PS496\n\n==Gym battles==\n defeats the following Gym Leaders:\n\nClay in PS493\nSkyla in PS495\n\n==Trivia==\n===Errors===\nIn this cover, VIZ Media mistakenly colored a female with 's colors.\n\n \n \n\nde:Band 11 (Pokémon Black and White)\nes:Tomo 11 (Pokémon Black and White)\nfr:Volume 11 (Pokémon Black and White)\nit:Pokémon Nero e Bianco volume 11",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 11 is the eleventh volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 35 - The Battle Within\nAdventure 36 - Museum Showdown\nAdventure 37 - Finding Truth"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "Nite evolves into an in PS496"
+    },
+    {
+      "heading": "Gym battles",
+      "level": 2,
+      "text": "defeats the following Gym Leaders:\n\nClay in PS493\nSkyla in PS495"
+    },
+    {
+      "heading": "Errors",
+      "level": 3,
+      "text": "In this cover, VIZ Media mistakenly colored a female with 's colors.\n\n \n \n\nde:Band 11 (Pokémon Black and White)\nes:Tomo 11 (Pokémon Black and White)\nfr:Volume 11 (Pokémon Black and White)\nit:Pokémon Nero e Bianco volume 11"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Black and White volume 11",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Black and White volume 11\nCategory:Pokémon Adventures volumes\nVolume 11 is the eleventh volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions",
+      "Gym battles",
+      "Errors"
+    ],
+    "characterCount": 927,
+    "sectionCount": 5
+  }
+}

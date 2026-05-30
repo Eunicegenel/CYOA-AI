@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "JBA5",
+    "slug": "jba5",
+    "pageId": 174358,
+    "revisionId": 4549529
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS Jō's Big Adventure chapters",
+    "sourceFileName": "jba5__174358.json",
+    "revisionTimestamp": "2026-05-11T02:02:46Z",
+    "fetchedAt": "2026-05-14T15:22:27.336Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 最強の名を賭けて！ Betting on the Name of the Strongest!) is the fifth chapter of the Pocket Monsters HGSS Jō's Big Adventure manga.",
+  "plainText": "(Japanese: 最強の名を賭けて！ Betting on the Name of the Strongest!) is the fifth chapter of the Pocket Monsters HGSS Jō's Big Adventure manga.\n\n==Plot==\n \n\n==Major events==\nJō defeats Karen and Lance.\nJō learns about the Kanto region and its set of Gym Leaders and decides to travel there.\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nJō\n(flashback)\nFalkner (flashback)\nMorty (flashback)\nKaren\nLance\n(silhouette)\n(silhouette)\nLt. Surge (silhouette)\nSabrina (silhouette)\nMisty (silhouette)\nErika (silhouette)\nJanine (silhouette)\nBrock (silhouette)\nBlaine (silhouette)\n\n===Pokémon===\n( )\n( 's; flashback)\n(Falkner's; flashback)\n( ; flashback)\n(Karen's)\n(Lance's)\n( )\n(Red's; silhouette)\n( ; silhouette)\n(Sabrina's; silhouette)\n( ; silhouette)\n(Janine's; silhouette)\n( ; silhouette)\n( 's; silhouette)\n(Blaine's; silhouette)\n(silhouette)\n(silhouette)\n(silhouette)\n\n==In other languages==\n \n \n\n \n \n\nit:JBA5",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 最強の名を賭けて！ Betting on the Name of the Strongest!) is the fifth chapter of the Pocket Monsters HGSS Jō's Big Adventure manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Jō defeats Karen and Lance.\nJō learns about the Kanto region and its set of Gym Leaders and decides to travel there."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jō\n(flashback)\nFalkner (flashback)\nMorty (flashback)\nKaren\nLance\n(silhouette)\n(silhouette)\nLt. Surge (silhouette)\nSabrina (silhouette)\nMisty (silhouette)\nErika (silhouette)\nJanine (silhouette)\nBrock (silhouette)\nBlaine (silhouette)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's; flashback)\n(Falkner's; flashback)\n( ; flashback)\n(Karen's)\n(Lance's)\n( )\n(Red's; silhouette)\n( ; silhouette)\n(Sabrina's; silhouette)\n( ; silhouette)\n(Janine's; silhouette)\n( ; silhouette)\n( 's; silhouette)\n(Blaine's; silhouette)\n(silhouette)\n(silhouette)\n(silhouette)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:JBA5"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JBA5",
+    "pageType": "chapter",
+    "searchableText": "JBA5\nCategory:Pocket Monsters HGSS Jō's Big Adventure chapters\n(Japanese: 最強の名を賭けて！ Betting on the Name of the Strongest!) is the fifth chapter of the Pocket Monsters HGSS Jō's Big Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 915,
+    "sectionCount": 5
+  }
+}

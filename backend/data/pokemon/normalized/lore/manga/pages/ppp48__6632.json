@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP48",
+    "slug": "ppp48",
+    "pageId": 6632,
+    "revisionId": 4526664
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp48__6632.json",
+    "revisionTimestamp": "2026-04-09T15:00:49Z",
+    "fetchedAt": "2026-05-14T15:39:06.729Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Cherry Blossom Gift (Japanese: 桜の花のプレゼント Cherry Blossom Present ), is the forty-eighth chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Cherry Blossom Gift (Japanese: 桜の花のプレゼント Cherry Blossom Present ), is the forty-eighth chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nAlmond promised Hazel he'd go see the cherry blossoms with her... so why's he backing out at the last minute to see them with the Pokémon Fan Club instead?! Hazel \"borrows\" Grandpa's shrinking potion and follows Almond to find out if he's seeing a girl in the Fan Club.\n\n==Important characters and Pokémon==\nAlmond\nHazel\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Cherry Blossom Gift (Japanese: 桜の花のプレゼント Cherry Blossom Present ), is the forty-eighth chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Almond promised Hazel he'd go see the cherry blossoms with her... so why's he backing out at the last minute to see them with the Pokémon Fan Club instead?! Hazel \"borrows\" Grandpa's shrinking potion and follows Almond to find out if he's seeing a girl in the Fan Club."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Almond\nHazel"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP48",
+    "pageType": "chapter",
+    "searchableText": "PPP48\nCategory:Magical Pokémon Journey chapters\nCherry Blossom Gift (Japanese: 桜の花のプレゼント Cherry Blossom Present ), is the forty-eighth chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon"
+    ],
+    "characterCount": 516,
+    "sectionCount": 3
+  }
+}

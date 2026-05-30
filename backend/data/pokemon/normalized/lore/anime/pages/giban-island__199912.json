@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Giban Island",
+    "slug": "giban-island",
+    "pageId": 199912,
+    "revisionId": 4261038
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "giban-island__199912.json",
+    "revisionTimestamp": "2025-03-19T21:49:26Z",
+    "fetchedAt": "2026-05-14T14:20:24.455Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "(Japanese: ギバン島 Giban Island) is an -exclusive island in Hoenn that appeared in Showdown At Linoone. It is located somewhere between Sootopolis City and . Kimmy Shoney lives there with his parents Korban and Harmony.\n\nThe island features a large square mountain and is covered in dense forest. It also has a Pokémon Center.\n\n and boarded a ship to Giban Island, hoping the stop would be a good location for Ash to train for the upcoming Ever Grande Conference, and for to train for her next . The group ultimately got little in, however, after a , nicknamed Tokin, stole two of May's s due to its habit of random items.",
+  "plainText": "(Japanese: ギバン島 Giban Island) is an -exclusive island in Hoenn that appeared in Showdown At Linoone. It is located somewhere between Sootopolis City and . Kimmy Shoney lives there with his parents Korban and Harmony.\n\nThe island features a large square mountain and is covered in dense forest. It also has a Pokémon Center.\n\n and boarded a ship to Giban Island, hoping the stop would be a good location for Ash to train for the upcoming Ever Grande Conference, and for to train for her next . The group ultimately got little in, however, after a , nicknamed Tokin, stole two of May's s due to its habit of random items.\n\n== Pokémon seen on Giban Island ==\n \n\n \n \n\n \n\nit:Isola di Giban",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ギバン島 Giban Island) is an -exclusive island in Hoenn that appeared in Showdown At Linoone. It is located somewhere between Sootopolis City and . Kimmy Shoney lives there with his parents Korban and Harmony.\n\nThe island features a large square mountain and is covered in dense forest. It also has a Pokémon Center.\n\n and boarded a ship to Giban Island, hoping the stop would be a good location for Ash to train for the upcoming Ever Grande Conference, and for to train for her next . The group ultimately got little in, however, after a , nicknamed Tokin, stole two of May's s due to its habit of random items."
+    },
+    {
+      "heading": "Pokémon seen on Giban Island",
+      "level": 2,
+      "text": "it:Isola di Giban"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Giban Island",
+    "pageType": "location",
+    "searchableText": "Giban Island\nCategory:Animated series-exclusive locations\n(Japanese: ギバン島 Giban Island) is an -exclusive island in Hoenn that appeared in Showdown At Linoone. It is located somewhere between Sootopolis City and . Kimmy Shoney lives there with his parents Korban and Harmony.\n\nThe island features a large square mountain and is covered in dense forest. It also has a Pokémon Center.\n\n and boarded a ship to Giban Island, hoping the stop would be a good location for Ash to train for the upcoming Ever Grande Conference, and for to train for her next . The group ultimately got little in, however, after a , nicknamed Tokin, stole two of May's s due to its habit of random items.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon seen on Giban Island"
+    ],
+    "characterCount": 684,
+    "sectionCount": 2
+  }
+}

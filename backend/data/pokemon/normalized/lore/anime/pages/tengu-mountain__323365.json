@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Tengu Mountain",
+    "slug": "tengu-mountain",
+    "pageId": 323365,
+    "revisionId": 4524109
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "tengu-mountain__323365.json",
+    "revisionTimestamp": "2026-04-06T19:13:58Z",
+    "fetchedAt": "2026-05-14T14:53:44.043Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Tengu Mountain (Japanese: 天狗山 Tengu Mountain) is a location in the land of Kitakami. It exclusively appears in .\n\nTengu Mountain first appeared near the end of Into a New Sky! The Brave Olivine!, where Perrin was seen taking a picture of Lucius's . In The Search for Kleavor!, Perrin led Liko, Roy, Dot, and Friede to Tengu Mountain to track down Kleavor. Using the clues provided from Perrin's photo, which are a specific kind of plant and a -shaped rock, and the axe markings left by Kleavor, the Rising Volt Tacklers were able to narrow down where Kleavor currently resided to a Dugtrio-shaped rock near the wetlands.",
+  "plainText": "Tengu Mountain (Japanese: 天狗山 Tengu Mountain) is a location in the land of Kitakami. It exclusively appears in .\n\nTengu Mountain first appeared near the end of Into a New Sky! The Brave Olivine!, where Perrin was seen taking a picture of Lucius's . In The Search for Kleavor!, Perrin led Liko, Roy, Dot, and Friede to Tengu Mountain to track down Kleavor. Using the clues provided from Perrin's photo, which are a specific kind of plant and a -shaped rock, and the axe markings left by Kleavor, the Rising Volt Tacklers were able to narrow down where Kleavor currently resided to a Dugtrio-shaped rock near the wetlands. \n \n\n==Pokémon seen in Tengu Mountain==\n \n\n===Pokémon previously seen in Tengu Mountain===\n \n\n==In other languages==\n \n\n==Related articles==\n \n \n \n\nes:Montaña/Monte Tengu\nit:Monte Tengu\nzh:天狗山",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tengu Mountain (Japanese: 天狗山 Tengu Mountain) is a location in the land of Kitakami. It exclusively appears in .\n\nTengu Mountain first appeared near the end of Into a New Sky! The Brave Olivine!, where Perrin was seen taking a picture of Lucius's . In The Search for Kleavor!, Perrin led Liko, Roy, Dot, and Friede to Tengu Mountain to track down Kleavor. Using the clues provided from Perrin's photo, which are a specific kind of plant and a -shaped rock, and the axe markings left by Kleavor, the Rising Volt Tacklers were able to narrow down where Kleavor currently resided to a Dugtrio-shaped rock near the wetlands."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Montaña/Monte Tengu\nit:Monte Tengu\nzh:天狗山"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tengu Mountain",
+    "pageType": "location",
+    "searchableText": "Tengu Mountain\nCategory:Animated series-exclusive locations\nTengu Mountain (Japanese: 天狗山 Tengu Mountain) is a location in the land of Kitakami. It exclusively appears in .\n\nTengu Mountain first appeared near the end of Into a New Sky! The Brave Olivine!, where Perrin was seen taking a picture of Lucius's . In The Search for Kleavor!, Perrin led Liko, Roy, Dot, and Friede to Tengu Mountain to track down Kleavor. Using the clues provided from Perrin's photo, which are a specific kind of plant and a -shaped rock, and the axe markings left by Kleavor, the Rising Volt Tacklers were able to narrow down where Kleavor currently resided to a Dugtrio-shaped rock near the wetlands.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 812,
+    "sectionCount": 2
+  }
+}

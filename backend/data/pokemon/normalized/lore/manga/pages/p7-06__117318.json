@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "P7-06",
+    "slug": "p7-06",
+    "pageId": 117318,
+    "revisionId": 4526372
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Phantom Thief Pokémon 7 chapters",
+    "sourceFileName": "p7-06__117318.json",
+    "revisionTimestamp": "2026-04-09T14:39:58Z",
+    "fetchedAt": "2026-05-14T15:28:05.043Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Showdown With An Assassin (Japanese: 立ちはだかる刺客 Assassin Blocking the Way) is the sixth chapter of the Phantom Thief Pokémon 7 manga.",
+  "plainText": "Showdown With An Assassin (Japanese: 立ちはだかる刺客 Assassin Blocking the Way) is the sixth chapter of the Phantom Thief Pokémon 7 manga.\n\n==Plot==\n \n\n==Major events==\nHiori defeats the Galactic Grunt.\nHiori and Rocco, while on their way to the Team Galactic headquarters, are attacked by another Team Galactic Grunt who is also defeated.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHiori\nRocco\n(male)\n(female)\n\n===Pokémon===\n( )\n(Hiori's)\n(Hiori's)\n(Rocco's)\n( 's)\n( 's)\n\n==Trivia==\nWhile riding on Hiori's , Rocco can be seen playing with a Nintendo DS to relieve his boredom.\n \n \n \n \n\nes:PT7-06\nzh:快盗！宝可梦７ 第6话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Showdown With An Assassin (Japanese: 立ちはだかる刺客 Assassin Blocking the Way) is the sixth chapter of the Phantom Thief Pokémon 7 manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hiori defeats the Galactic Grunt.\nHiori and Rocco, while on their way to the Team Galactic headquarters, are attacked by another Team Galactic Grunt who is also defeated."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hiori\nRocco\n(male)\n(female)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Hiori's)\n(Hiori's)\n(Rocco's)\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "While riding on Hiori's , Rocco can be seen playing with a Nintendo DS to relieve his boredom.\n \n \n \n \n\nes:PT7-06\nzh:快盗！宝可梦７ 第6话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "P7-06",
+    "pageType": "chapter",
+    "searchableText": "P7-06\nCategory:Phantom Thief Pokémon 7 chapters\nShowdown With An Assassin (Japanese: 立ちはだかる刺客 Assassin Blocking the Way) is the sixth chapter of the Phantom Thief Pokémon 7 manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 628,
+    "sectionCount": 5
+  }
+}

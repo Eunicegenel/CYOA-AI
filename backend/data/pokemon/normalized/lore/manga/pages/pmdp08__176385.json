@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP08",
+    "slug": "pmdp08",
+    "pageId": 176385,
+    "revisionId": 4527960
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp08__176385.json",
+    "revisionTimestamp": "2026-04-09T16:01:45Z",
+    "fetchedAt": "2026-05-14T15:32:18.093Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: スーパーコンテスト ！！ Super Contest Opens!!) is the eighth chapter of the manga.",
+  "plainText": "(Japanese: スーパーコンテスト ！！ Super Contest Opens!!) is the eighth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: スーパーコンテスト ！！ Super Contest Opens!!) is the eighth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP08",
+    "pageType": "chapter",
+    "searchableText": "PMDP08\nCategory:Pocket Monsters DP chapters\n(Japanese: スーパーコンテスト ！！ Super Contest Opens!!) is the eighth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 210,
+    "sectionCount": 2
+  }
+}

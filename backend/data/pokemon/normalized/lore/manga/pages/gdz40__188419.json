@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GDZ40",
+    "slug": "gdz40",
+    "pageId": 188419,
+    "revisionId": 4528127
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz40__188419.json",
+    "revisionTimestamp": "2026-04-09T16:08:09Z",
+    "fetchedAt": "2026-05-14T15:19:47.004Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピカチュウの初恋 Pikachu's First Love) is the 40th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ピカチュウの初恋 Pikachu's First Love) is the 40th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nTrainer\n\n====Pokémon debuts====\n\n(Trainer's)\n\n==Characters==\n===Humans===\nShu\nShu's father\nTrainer\n\n===Pokémon===\n( )\n(Trainer's; female)\n(Trainer's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピカチュウの初恋 Pikachu's First Love) is the 40th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Trainer"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Trainer's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nShu's father\nTrainer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Trainer's; female)\n(Trainer's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ40",
+    "pageType": "chapter",
+    "searchableText": "GDZ40\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ピカチュウの初恋 Pikachu's First Love) is the 40th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 314,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Old man (HZ043)",
+    "slug": "old-man-hz043",
+    "pageId": 306808,
+    "revisionId": 4297874
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "old-man-hz043__306808.json",
+    "revisionTimestamp": "2025-05-10T22:21:35Z",
+    "fetchedAt": "2026-05-14T14:40:01.360Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The old man is a character of the day who appeared in A Challenge from the Explorers.",
+  "plainText": "The old man is a character of the day who appeared in A Challenge from the Explorers.\n\n==History==\nThe old man was the manager of a branch of a Paldean candy store that Liko and Roy visited. He met Liko and Roy after they were returning from buying some groceries and, with a serious appearance, he intimidated the girl, but Roy was able to understand that he could be having problems with back pain. After Liko and Roy managed to help him, he gave them a lesson on how his store's products were made and gave them a limited box of sweet buns.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n \n\n \n \n \n\nit:Anziano (OP043)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The old man is a character of the day who appeared in A Challenge from the Explorers."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "The old man was the manager of a branch of a Paldean candy store that Liko and Roy visited. He met Liko and Roy after they were returning from buying some groceries and, with a serious appearance, he intimidated the girl, but Roy was able to understand that he could be having problems with back pain. After Liko and Roy managed to help him, he gave them a lesson on how his store's products were made and gave them a limited box of sweet buns."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Anziano (OP043)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Old man (HZ043)",
+    "pageType": "character",
+    "searchableText": "Old man (HZ043)\nCategory:Horizons characters of the day\nThe old man is a character of the day who appeared in A Challenge from the Explorers.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Voice actors"
+    ],
+    "characterCount": 608,
+    "sectionCount": 3
+  }
+}

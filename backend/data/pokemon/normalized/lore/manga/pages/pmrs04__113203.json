@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PMRS04",
+    "slug": "pmrs04",
+    "pageId": 113203,
+    "revisionId": 4264607
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs04__113203.json",
+    "revisionTimestamp": "2025-03-23T18:26:28Z",
+    "fetchedAt": "2026-05-14T15:33:10.274Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "There's Someone More Important Than Clefairy?! (Japanese: ピッピ以上の大物登場！？ Someone More Important Than Appears?!) is the fourth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "There's Someone More Important Than Clefairy?! (Japanese: ピッピ以上の大物登場！？ Someone More Important Than Appears?!) is the fourth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n , , and arrive in Petalburg City. They are exploring the streets when they are startled by Poké Balls whizzing by. They follow the Poké Balls to Petalburg Gym, where they discover that they are being kicked around by the Gym Leader, Norman. They discover that the reason why Norman is kicking Poké Balls and drinking is because his does not want to take part in any battles. Furthermore, the group heard from Norman that the is swallowed by Slakoth.\n\nClefairy tries to surgically extract the Balance Badge, however, Red refuses to let him do it. Clefairy then decides to take a nap. However, Slakoth grouchily begins attacking Clefairy, as Clefairy is being lazier than it. It uses to make Clefairy sleepy. Clefairy refuses to let himself fall asleep, strapping several alarm clocks to himself to keep awake. Slakoth responds by all of the alarm clocks, and swallows Clefairy as well.\n\nInside Slakoth's stomach, Clefairy finds the Balance Badge amidst the clocks and an assortment of other garbage that it has eaten. Slakoth starts attacking Clefairy by hitting its stomach so that Clefairy will not steal the Badge. However, Clefairy managed to dodge all the hits, and crawls out when Slakoth knocked itself out with the badge. Norman demanded the group to return the badge, but Clefairy refused. Norman then angrily chases after him and the others.\n\n==Major events==\nClefairy recovers the from the inside of Norman's 's stomach.\n\n===Debuts===\n====Humans====\nNorman\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nNorman\n\n===Pokémon===\n( )\n( )\n( )\n(Norman's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "There's Someone More Important Than Clefairy?! (Japanese: ピッピ以上の大物登場！？ Someone More Important Than Appears?!) is the fourth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": ", , and arrive in Petalburg City. They are exploring the streets when they are startled by Poké Balls whizzing by. They follow the Poké Balls to Petalburg Gym, where they discover that they are being kicked around by the Gym Leader, Norman. They discover that the reason why Norman is kicking Poké Balls and drinking is because his does not want to take part in any battles. Furthermore, the group heard from Norman that the is swallowed by Slakoth.\n\nClefairy tries to surgically extract the Balance Badge, however, Red refuses to let him do it. Clefairy then decides to take a nap. However, Slakoth grouchily begins attacking Clefairy, as Clefairy is being lazier than it. It uses to make Clefairy sleepy. Clefairy refuses to let himself fall asleep, strapping several alarm clocks to himself to keep awake. Slakoth responds by all of the alarm clocks, and swallows Clefairy as well.\n\nInside Slakoth's stomach, Clefairy finds the Balance Badge amidst the clocks and an assortment of other garbage that it has eaten. Slakoth starts attacking Clefairy by hitting its stomach so that Clefairy will not steal the Badge. However, Clefairy managed to dodge all the hits, and crawls out when Slakoth knocked itself out with the badge. Norman demanded the group to return the badge, but Clefairy refused. Norman then angrily chases after him and the others."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Clefairy recovers the from the inside of Norman's 's stomach."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Norman"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Norman"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Norman's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS04",
+    "pageType": "chapter",
+    "searchableText": "PMRS04\nCategory:Pokémon Ruby-Sapphire chapters\nThere's Someone More Important Than Clefairy?! (Japanese: ピッピ以上の大物登場！？ Someone More Important Than Appears?!) is the fourth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1746,
+    "sectionCount": 6
+  }
+}

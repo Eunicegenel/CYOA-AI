@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pocket Monsters Diamond & Pearl chapters",
+    "slug": "list-of-pocket-monsters-diamond-and-pearl-chapters",
+    "pageId": 179220,
+    "revisionId": 4130959
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "list-of-pocket-monsters-diamond-and-pearl-chapters__179220.json",
+    "revisionTimestamp": "2024-09-29T03:56:29Z",
+    "fetchedAt": "2026-05-14T15:24:33.918Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is a list of chapters of the manga created by 坂井 孝行 Sakai Takayuki. Altogether, there are 29 chapters. Currently, the Pocket Monsters Diamond & Pearl manga has not been translated into English by either VIZ Media or Chuang Yi.",
+  "plainText": "This is a list of chapters of the manga created by 坂井 孝行 Sakai Takayuki. Altogether, there are 29 chapters. Currently, the Pocket Monsters Diamond & Pearl manga has not been translated into English by either VIZ Media or Chuang Yi.\n\n==List of chapters==\n=== ===\n \n \n\n=== ===\n \n\n \n\n \n \n\nit:Elenco dei capitoli di Pocket Monsters Diamond & Pearl\nzh:精灵宝可梦 钻石与珍珠（漫画）回数列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of chapters of the manga created by 坂井 孝行 Sakai Takayuki. Altogether, there are 29 chapters. Currently, the Pocket Monsters Diamond & Pearl manga has not been translated into English by either VIZ Media or Chuang Yi."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "it:Elenco dei capitoli di Pocket Monsters Diamond & Pearl\nzh:精灵宝可梦 钻石与珍珠（漫画）回数列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pocket Monsters Diamond & Pearl chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Pocket Monsters Diamond & Pearl chapters\nCategory:Pocket Monsters Diamond & Pearl chapters\nThis is a list of chapters of the manga created by 坂井 孝行 Sakai Takayuki. Altogether, there are 29 chapters. Currently, the Pocket Monsters Diamond & Pearl manga has not been translated into English by either VIZ Media or Chuang Yi.",
+    "sectionHeadings": [
+      "Lead",
+      ""
+    ],
+    "characterCount": 366,
+    "sectionCount": 2
+  }
+}

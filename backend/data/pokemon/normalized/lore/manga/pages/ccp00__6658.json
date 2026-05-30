@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "CCP00",
+    "slug": "ccp00",
+    "pageId": 6658,
+    "revisionId": 4527069
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp00__6658.json",
+    "revisionTimestamp": "2026-04-09T15:18:11Z",
+    "fetchedAt": "2026-05-14T15:15:07.421Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: アチャモ姫 Princess) is the prologue chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: アチャモ姫 Princess) is the prologue chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \nThe story of the first volume is told in a condensed, crayon-drawn, fairy-tale version of itself.\n\n==Major events==\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n( )\n( )\n( )\n( )\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy) \n(fantasy)\n( )\n( )\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: アチャモ姫 Princess) is the prologue chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "The story of the first volume is told in a condensed, crayon-drawn, fairy-tale version of itself."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )\n( )\n( )\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy) \n(fantasy)\n( )\n( )\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP00",
+    "pageType": "chapter",
+    "searchableText": "CCP00\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: アチャモ姫 Princess) is the prologue chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 497,
+    "sectionCount": 4
+  }
+}

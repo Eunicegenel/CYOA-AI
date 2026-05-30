@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PM107",
+    "slug": "pm107",
+    "pageId": 169367,
+    "revisionId": 4526651
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm107__169367.json",
+    "revisionTimestamp": "2026-04-09T15:00:09Z",
+    "fetchedAt": "2026-05-14T15:31:36.908Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy, the Wizard (Japanese: 魔法使いピッピ , the Wizard) is the one hundredth-seventh chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Clefairy, the Wizard (Japanese: 魔法使いピッピ , the Wizard) is the one hundredth-seventh chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( ) \n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy, the Wizard (Japanese: 魔法使いピッピ , the Wizard) is the one hundredth-seventh chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM107",
+    "pageType": "chapter",
+    "searchableText": "PM107\nCategory:Pokémon Pocket Monsters chapters\nClefairy, the Wizard (Japanese: 魔法使いピッピ , the Wizard) is the one hundredth-seventh chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 266,
+    "sectionCount": 2
+  }
+}

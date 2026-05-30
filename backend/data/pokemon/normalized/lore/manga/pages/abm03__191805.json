@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "ABM03",
+    "slug": "abm03",
+    "pageId": 191805,
+    "revisionId": 4527350
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abm03__191805.json",
+    "revisionTimestamp": "2026-04-09T15:33:51Z",
+    "fetchedAt": "2026-05-14T15:12:07.326Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: リュウの秘めた才能！？ Ryū's Hidden Talent!?) is the third chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: リュウの秘めた才能！？ Ryū's Hidden Talent!?) is the third chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyū Tendō\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: リュウの秘めた才能！？ Ryū's Hidden Talent!?) is the third chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryū Tendō"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABM03",
+    "pageType": "chapter",
+    "searchableText": "ABM03\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: リュウの秘めた才能！？ Ryū's Hidden Talent!?) is the third chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 243,
+    "sectionCount": 2
+  }
+}

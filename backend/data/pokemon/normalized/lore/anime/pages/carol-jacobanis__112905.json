@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Carol Jacobanis",
+    "slug": "carol-jacobanis",
+    "pageId": 112905,
+    "revisionId": 4526918
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "carol-jacobanis__112905.json",
+    "revisionTimestamp": "2026-04-09T15:11:48Z",
+    "fetchedAt": "2026-05-14T14:08:39.230Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Carol Jacobanis is an American voice actress for the English dub of . She is currently affiliated with Stewart Talent Agency.",
+  "plainText": "Carol Jacobanis is an American voice actress for the English dub of . She is currently affiliated with Stewart Talent Agency.\n\n== Pokémon roles ==\nJacobanis began to provide voices for Pokémon in the third season until HS01.\n===Animation===\n==== ====\nMadame Muchmoney\nLola (HS01)\nArielle\nTrinity\nEllen\nPietra\nAdditional voices\n\n== Other non-Pokémon roles ==\nSaki Kasukabe ( )\nSerika Kurusugawa ( )\nMaho Isawa ( )\nAya Hasebe ( )\nMs. Griffin ( ) (4Kids dub)\nPetty Officer Harumi Nakagawa ( )\nHamako Shihonmatsu ( 2 (OVA))\n\n== External links ==\nOfficial website\nResume\nVoice123 profile\n \n \n \n \n\nit:Carol Jacobanis",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Carol Jacobanis is an American voice actress for the English dub of . She is currently affiliated with Stewart Talent Agency."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Jacobanis began to provide voices for Pokémon in the third season until HS01."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Madame Muchmoney\nLola (HS01)\nArielle\nTrinity\nEllen\nPietra\nAdditional voices"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Saki Kasukabe ( )\nSerika Kurusugawa ( )\nMaho Isawa ( )\nAya Hasebe ( )\nMs. Griffin ( ) (4Kids dub)\nPetty Officer Harumi Nakagawa ( )\nHamako Shihonmatsu ( 2 (OVA))"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nResume\nVoice123 profile\n \n \n \n \n\nit:Carol Jacobanis"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Carol Jacobanis",
+    "pageType": "general-anime-lore",
+    "searchableText": "Carol Jacobanis\nCategory:TPCi voice actors\nCarol Jacobanis is an American voice actress for the English dub of . She is currently affiliated with Stewart Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 610,
+    "sectionCount": 5
+  }
+}

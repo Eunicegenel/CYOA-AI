@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Riyado Town",
+    "slug": "riyado-town",
+    "pageId": 20989,
+    "revisionId": 4261045
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "riyado-town__20989.json",
+    "revisionTimestamp": "2025-03-19T21:49:34Z",
+    "fetchedAt": "2026-05-14T14:46:39.703Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Riyado Town (Japanese: リヤド村 Riyado Village) is an -exclusive small village located among the mountains of Izabe Island in Hoenn.\n\nIt appeared in Absol-ute Disaster. The town is home to and his younger brother . For a long time, the locals believed a was putting the town under a curse and causing them many problems, including destroyed bridges. However, Gordon, , and discovered the Absol was actually trying to warn them of an imminent flood coming from the area's water source, an underground spring. As a result, the town was saved, and Absol was forgiven.",
+  "plainText": "Riyado Town (Japanese: リヤド村 Riyado Village) is an -exclusive small village located among the mountains of Izabe Island in Hoenn.\n\nIt appeared in Absol-ute Disaster. The town is home to and his younger brother . For a long time, the locals believed a was putting the town under a curse and causing them many problems, including destroyed bridges. However, Gordon, , and discovered the Absol was actually trying to warn them of an imminent flood coming from the area's water source, an underground spring. As a result, the town was saved, and Absol was forgiven.\n\n==Places of interest==\n \n===Square Top===\nSquare Top is the highest peak on Izabe Island, named for its cube-shaped summit. The surrounding area is a rugged mountain with an underground spring running through it.\n\nSquare Top also marks the center of 's territory.\n \n\n==Pokémon seen in Riyado Town==\n \n\n \n \n \n\nes:Pueblo/Ciudad Riyado\nfr:Riyadoville\nit:Riyado Town\nzh:利亞多村",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Riyado Town (Japanese: リヤド村 Riyado Village) is an -exclusive small village located among the mountains of Izabe Island in Hoenn.\n\nIt appeared in Absol-ute Disaster. The town is home to and his younger brother . For a long time, the locals believed a was putting the town under a curse and causing them many problems, including destroyed bridges. However, Gordon, , and discovered the Absol was actually trying to warn them of an imminent flood coming from the area's water source, an underground spring. As a result, the town was saved, and Absol was forgiven."
+    },
+    {
+      "heading": "Square Top",
+      "level": 3,
+      "text": "Square Top is the highest peak on Izabe Island, named for its cube-shaped summit. The surrounding area is a rugged mountain with an underground spring running through it.\n\nSquare Top also marks the center of 's territory."
+    },
+    {
+      "heading": "Pokémon seen in Riyado Town",
+      "level": 2,
+      "text": "es:Pueblo/Ciudad Riyado\nfr:Riyadoville\nit:Riyado Town\nzh:利亞多村"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Riyado Town",
+    "pageType": "location",
+    "searchableText": "Riyado Town\nCategory:Animated series-exclusive locations\nRiyado Town (Japanese: リヤド村 Riyado Village) is an -exclusive small village located among the mountains of Izabe Island in Hoenn.\n\nIt appeared in Absol-ute Disaster. The town is home to and his younger brother . For a long time, the locals believed a was putting the town under a curse and causing them many problems, including destroyed bridges. However, Gordon, , and discovered the Absol was actually trying to warn them of an imminent flood coming from the area's water source, an underground spring. As a result, the town was saved, and Absol was forgiven.",
+    "sectionHeadings": [
+      "Lead",
+      "Square Top",
+      "Pokémon seen in Riyado Town"
+    ],
+    "characterCount": 932,
+    "sectionCount": 3
+  }
+}

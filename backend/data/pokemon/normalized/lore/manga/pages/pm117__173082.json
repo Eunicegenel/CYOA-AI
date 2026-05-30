@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM117",
+    "slug": "pm117",
+    "pageId": 173082,
+    "revisionId": 4526658
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm117__173082.json",
+    "revisionTimestamp": "2026-04-09T15:00:33Z",
+    "fetchedAt": "2026-05-14T15:31:43.209Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy's Most Deadly Rival (Japanese: 強力ライバル、登場！？ Strongest Rival Appears!?) is the final chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Clefairy's Most Deadly Rival (Japanese: 強力ライバル、登場！？ Strongest Rival Appears!?) is the final chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nProfessor Birch\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Birch\n\n===Pokémon===\n( ) \n( )\n( )\n\n==Trivia==\n\n \n \n\nit:PMM117",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy's Most Deadly Rival (Japanese: 強力ライバル、登場！？ Strongest Rival Appears!?) is the final chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Professor Birch"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Birch"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "it:PMM117"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM117",
+    "pageType": "chapter",
+    "searchableText": "PM117\nCategory:Pokémon Pocket Monsters chapters\nClefairy's Most Deadly Rival (Japanese: 強力ライバル、登場！？ Strongest Rival Appears!?) is the final chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 338,
+    "sectionCount": 5
+  }
+}

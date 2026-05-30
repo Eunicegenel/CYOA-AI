@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "QPLB1",
+    "slug": "qplb1",
+    "pageId": 180160,
+    "revisionId": 4231327
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters",
+    "sourceFileName": "qplb1__180160.json",
+    "revisionTimestamp": "2025-01-31T11:05:46Z",
+    "fetchedAt": "2026-05-14T15:47:07.279Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: Sore Party is a Pain, Nyaa!!) is the first bonus chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+  "plainText": "(Japanese: Sore Party is a Pain, Nyaa!!) is the first bonus chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n\n==Characters==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: Sore Party is a Pain, Nyaa!!) is the first bonus chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "QPLB1",
+    "pageType": "chapter",
+    "searchableText": "QPLB1\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters\n(Japanese: Sore Party is a Pain, Nyaa!!) is the first bonus chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 196,
+    "sectionCount": 1
+  }
+}

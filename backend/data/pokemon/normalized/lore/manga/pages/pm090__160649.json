@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM090",
+    "slug": "pm090",
+    "pageId": 160649,
+    "revisionId": 4526724
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm090__160649.json",
+    "revisionTimestamp": "2026-04-09T15:03:48Z",
+    "fetchedAt": "2026-05-14T15:31:26.286Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Legendary Ho-oh!! (Japanese: 伝説のホウオウ！！ The Legendary !!) is the ninetieth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Legendary Ho-oh!! (Japanese: 伝説のホウオウ！！ The Legendary !!) is the ninetieth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMorty\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n\n==Trivia==\n\n \n \n\nit:PMM090",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Legendary Ho-oh!! (Japanese: 伝説のホウオウ！！ The Legendary !!) is the ninetieth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Morty"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "it:PMM090"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM090",
+    "pageType": "chapter",
+    "searchableText": "PM090\nCategory:Pokémon Pocket Monsters chapters\nThe Legendary Ho-oh!! (Japanese: 伝説のホウオウ！！ The Legendary !!) is the ninetieth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 287,
+    "sectionCount": 4
+  }
+}

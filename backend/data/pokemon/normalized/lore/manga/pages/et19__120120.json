@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "ET19",
+    "slug": "et19",
+    "pageId": 120120,
+    "revisionId": 4538650
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu chapters",
+    "sourceFileName": "et19__120120.json",
+    "revisionTimestamp": "2026-04-27T13:07:54Z",
+    "fetchedAt": "2026-05-14T15:18:32.108Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Side Story: Ash vs. Gary (Japanese: ヤドン ) is the nineteenth chapter of the manga The Electric Tale of Pikachu.",
+  "plainText": "Side Story: Ash vs. Gary (Japanese: ヤドン ) is the nineteenth chapter of the manga The Electric Tale of Pikachu.\n\n==Plot==\n \n\n==Major events==\nand battle over ownership of a .\nAsh the Slowpoke, but trades it to Gary for a picture of May.\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nGary Oak\nJessie\nJames\n\n===Pokémon===\n(Ash's)\n( )\n( )\n( )\n(Ash's; new; ; given to Gary for a photo of May; evolves)\n( 's)\n( 's)\n( 's)\n( 's) \n( )\n( 's; newly evolved)\n( )\n\n==Trivia==\n \n \n \n \n\nes:ETP19\nit:ET19",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Side Story: Ash vs. Gary (Japanese: ヤドン ) is the nineteenth chapter of the manga The Electric Tale of Pikachu."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and battle over ownership of a .\nAsh the Slowpoke, but trades it to Gary for a picture of May."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Gary Oak\nJessie\nJames"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ash's)\n( )\n( )\n( )\n(Ash's; new; ; given to Gary for a photo of May; evolves)\n( 's)\n( 's)\n( 's)\n( 's) \n( )\n( 's; newly evolved)\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "es:ETP19\nit:ET19"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ET19",
+    "pageType": "chapter",
+    "searchableText": "ET19\nCategory:Electric Tale of Pikachu chapters\nSide Story: Ash vs. Gary (Japanese: ヤドン ) is the nineteenth chapter of the manga The Electric Tale of Pikachu.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 510,
+    "sectionCount": 5
+  }
+}

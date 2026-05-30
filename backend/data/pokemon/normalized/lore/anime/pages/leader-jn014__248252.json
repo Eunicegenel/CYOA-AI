@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Leader (JN014)",
+    "slug": "leader-jn014",
+    "pageId": 248252,
+    "revisionId": 4426756
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "leader-jn014__248252.json",
+    "revisionTimestamp": "2025-11-19T15:51:53Z",
+    "fetchedAt": "2026-05-14T14:30:42.694Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The leader (Japanese: 団長 leader) is a recurring character in .",
+  "plainText": "The leader (Japanese: 団長 leader) is a recurring character in .\n\n==History==\nThe leader of the ruins excavation team first appeared in Raid Battle in The Ruins! exploring the newly discovered Colossus Ruins at the Desert Resort. He joined , Goh, , and Shane Seeker in a Raid Battle against a , using his and . Eventually, the group defeated Golurk, and Goh subsequently caught it.\n\nHe reappeared in a flashback in Restore and Renew! when Ash and Goh mistook the curator for him.\n\nIn Trial on a Golden Scale!, he showed Ash and Goh the mural found at the Colossus Ruins.\n\nHe was later seen in a fantasy in Out of Their Elements! and in another flashback in Battling in the Freezing Raid!.\n\n==Pokémon==\nThis listing is of the excavation team leader's known in :\n \n \n\n \n\n==Voice actors==\n \n\n==Trivia==\nThe leader bears a resemblance to the curator, who appeared in Restore and Renew!, and the showman, who appeared in Out of Their Elements!. In the case of the curator, they also share the same Japanese, Arabic, Brazilian, Italian, Polish, and European Spanish voice actors.\n\n \n\n \n \n \n\nes:Líder de las ruinas del equipo de excavación/Jefe del equipo de excavación\nit:Capo della squadra di scavi\nja:団長 (新無印編第14話)\nzh:团长",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The leader (Japanese: 団長 leader) is a recurring character in ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "The leader of the ruins excavation team first appeared in Raid Battle in The Ruins! exploring the newly discovered Colossus Ruins at the Desert Resort. He joined , Goh, , and Shane Seeker in a Raid Battle against a , using his and . Eventually, the group defeated Golurk, and Goh subsequently caught it.\n\nHe reappeared in a flashback in Restore and Renew! when Ash and Goh mistook the curator for him.\n\nIn Trial on a Golden Scale!, he showed Ash and Goh the mural found at the Colossus Ruins.\n\nHe was later seen in a fantasy in Out of Their Elements! and in another flashback in Battling in the Freezing Raid!."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of the excavation team leader's known in :"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The leader bears a resemblance to the curator, who appeared in Restore and Renew!, and the showman, who appeared in Out of Their Elements!. In the case of the curator, they also share the same Japanese, Arabic, Brazilian, Italian, Polish, and European Spanish voice actors.\n\n \n\n \n \n \n\nes:Líder de las ruinas del equipo de excavación/Jefe del equipo de excavación\nit:Capo della squadra di scavi\nja:団長 (新無印編第14話)\nzh:团长"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Leader (JN014)",
+    "pageType": "character",
+    "searchableText": "Leader (JN014)\nCategory:Animation characters\nThe leader (Japanese: 団長 leader) is a recurring character in .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1214,
+    "sectionCount": 4
+  }
+}

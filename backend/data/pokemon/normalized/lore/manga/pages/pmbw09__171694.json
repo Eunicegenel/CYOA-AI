@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMBW09",
+    "slug": "pmbw09",
+    "pageId": 171694,
+    "revisionId": 4528530
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw09__171694.json",
+    "revisionTimestamp": "2026-04-09T16:25:31Z",
+    "fetchedAt": "2026-05-14T15:31:49.070Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピ刑事の迷推理！？ Detective 's Stray Reasoning!?) is the ninth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ピッピ刑事の迷推理！？ Detective 's Stray Reasoning!?) is the ninth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nBurgh\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nBurgh\n\n===Pokémon===\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピ刑事の迷推理！？ Detective 's Stray Reasoning!?) is the ninth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Burgh"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Burgh"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW09",
+    "pageType": "chapter",
+    "searchableText": "PMBW09\nCategory:Pocket Monsters BW chapters\n(Japanese: ピッピ刑事の迷推理！？ Detective 's Stray Reasoning!?) is the ninth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 269,
+    "sectionCount": 4
+  }
+}

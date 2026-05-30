@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Matthew (DP059)",
+    "slug": "matthew-dp059",
+    "pageId": 43571,
+    "revisionId": 4095164
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "matthew-dp059__43571.json",
+    "revisionTimestamp": "2024-09-01T00:17:29Z",
+    "fetchedAt": "2026-05-14T14:35:44.355Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Matthew (Japanese: マシュー Matthew) is a character of the day who appeared in Luxray Vision!.\n\nMatthew is the owner of a strange manor with hidden traps and tunnels. He had hired to help protect the Old Charm from The Bandit Beauties Three after receiving a threatening letter from them. Eventually, he also enlisted the help of and after they stumbled upon his mansion.",
+  "plainText": "Matthew (Japanese: マシュー Matthew) is a character of the day who appeared in Luxray Vision!.\n\nMatthew is the owner of a strange manor with hidden traps and tunnels. He had hired to help protect the Old Charm from The Bandit Beauties Three after receiving a threatening letter from them. Eventually, he also enlisted the help of and after they stumbled upon his mansion.\n\n==Voice actors==\n \n \n \n\n \n \n \n\nde:Die drei schönen Banditen#Matthew\nes:Matthew (Sinnoh)\nit:Matthew (DP059)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Matthew (Japanese: マシュー Matthew) is a character of the day who appeared in Luxray Vision!.\n\nMatthew is the owner of a strange manor with hidden traps and tunnels. He had hired to help protect the Old Charm from The Bandit Beauties Three after receiving a threatening letter from them. Eventually, he also enlisted the help of and after they stumbled upon his mansion."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Die drei schönen Banditen#Matthew\nes:Matthew (Sinnoh)\nit:Matthew (DP059)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Matthew (DP059)",
+    "pageType": "character",
+    "searchableText": "Matthew (DP059)\nCategory:Sinnoh characters of the day\nMatthew (Japanese: マシュー Matthew) is a character of the day who appeared in Luxray Vision!.\n\nMatthew is the owner of a strange manor with hidden traps and tunnels. He had hired to help protect the Old Charm from The Bandit Beauties Three after receiving a threatening letter from them. Eventually, he also enlisted the help of and after they stumbled upon his mansion.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 475,
+    "sectionCount": 2
+  }
+}

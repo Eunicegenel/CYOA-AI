@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Schuyler",
+    "slug": "schuyler",
+    "pageId": 17894,
+    "revisionId": 4487251
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "schuyler__17894.json",
+    "revisionTimestamp": "2026-02-16T01:45:27Z",
+    "fetchedAt": "2026-05-14T14:48:41.528Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Schuyler (Japanese: ジョン John) is a minor supporting character who appeared in Spell of the Unown: Entei. He works as Spencer Hale's assistant and is himself a .",
+  "plainText": "Schuyler (Japanese: ジョン John) is a minor supporting character who appeared in Spell of the Unown: Entei. He works as Spencer Hale's assistant and is himself a .\n\n==History==\nSchuyler alerted Spencer to a new chamber at some ruins in a desert, though the sudden call interrupted Molly's playtime with her father. While at the site, Spencer mysteriously disappeared after making contact with several tiles. Schuyler returned to the Hale's Greenfield manor to inform Molly of her father's disappearance. He brought the box of Unown tiles with him, which Molly later tipped over and began playing with, which in turn led to the crystallization of the Hale mansion and 's arrival. That night, Schuyler found Molly playing with the Unown, just as he and the Hale household staff were forced to retreat to outside.\n\nAs the crystallization spread throughout Greenfield, Schuyler, , , and greeted and as they arrived at the Pokémon Center to assist in the efforts to combat the ongoing crisis. He remained with Oak and Lisa at the Center to provide support and information while Ash and his friends went to confront Molly and retrieve Delia after she had been kidnapped by Entei. Eventually, he was forced to flee the Center when the crystallization engulfed the building.\n\nAfter Entei helped destroy the Unown and the crystallization receded, Schuyler and the others greeted Molly, Delia, Ash, and his friends outside the Hale mansion. He later drove Spencer back to his home after he reappeared at the ruins.\n\n==Voice actors==\n \n\n==In other languages==\n \n \n==Related articles==\n \n \n\n \n \n\nde:Skyler\nes:Schuyler\nit:Schuyler",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Schuyler (Japanese: ジョン John) is a minor supporting character who appeared in Spell of the Unown: Entei. He works as Spencer Hale's assistant and is himself a ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Schuyler alerted Spencer to a new chamber at some ruins in a desert, though the sudden call interrupted Molly's playtime with her father. While at the site, Spencer mysteriously disappeared after making contact with several tiles. Schuyler returned to the Hale's Greenfield manor to inform Molly of her father's disappearance. He brought the box of Unown tiles with him, which Molly later tipped over and began playing with, which in turn led to the crystallization of the Hale mansion and 's arrival. That night, Schuyler found Molly playing with the Unown, just as he and the Hale household staff were forced to retreat to outside.\n\nAs the crystallization spread throughout Greenfield, Schuyler, , , and greeted and as they arrived at the Pokémon Center to assist in the efforts to combat the ongoing crisis. He remained with Oak and Lisa at the Center to provide support and information while Ash and his friends went to confront Molly and retrieve Delia after she had been kidnapped by Entei. Eventually, he was forced to flee the Center when the crystallization engulfed the building.\n\nAfter Entei helped destroy the Unown and the crystallization receded, Schuyler and the others greeted Molly, Delia, Ash, and his friends outside the Hale mansion. He later drove Spencer back to his home after he reappeared at the ruins."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Skyler\nes:Schuyler\nit:Schuyler"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Schuyler",
+    "pageType": "movie",
+    "searchableText": "Schuyler\nCategory:Movie characters\nSchuyler (Japanese: ジョン John) is a minor supporting character who appeared in Spell of the Unown: Entei. He works as Spencer Hale's assistant and is himself a .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1614,
+    "sectionCount": 3
+  }
+}

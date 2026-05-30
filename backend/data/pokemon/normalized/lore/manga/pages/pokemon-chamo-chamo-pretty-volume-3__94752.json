@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Chamo-Chamo ☆ Pretty ♪ volume 3",
+    "slug": "pokemon-chamo-chamo-pretty-volume-3",
+    "pageId": 94752,
+    "revisionId": 4528306
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ volumes",
+    "sourceFileName": "pokemon-chamo-chamo-pretty-volume-3__94752.json",
+    "revisionTimestamp": "2026-04-09T16:15:05Z",
+    "fetchedAt": "2026-05-14T15:36:13.277Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 3 is the third and final volume of the Pokémon Chamo-Chamo ☆ Pretty ♪ series created by Yumi Tsukirino.",
+  "plainText": "Volume 3 is the third and final volume of the Pokémon Chamo-Chamo ☆ Pretty ♪ series created by Yumi Tsukirino.\n\n==Publications==\n \n \n\n==Chapters==\nGet the Love Potion (chamo)\nTanabata Wishes (chamo)\nSea of Uneasy Feelings (chamo)\nPoochyena's Weird Hobby (chamo)\nGrumpig's Wonderful Ball (chamo)\nBeyond Love (chamo)\nChristmas Present (chamo)\nA Lovely New Year's Eve (chamo)\nHeart-thumping Valentine's Day (chamo)\nGluttony Tournament of Romance (chamo)\nThe Guardian God of Love Metamiko (chamo)\nSandslash's Love (chamo)\nSwablu's Proposal Completion!? (chamo)\nMirage Island's Liechi Berries (chamo)\nTorchic's Love's Final Chapter (prequel)\nTorchic's Love's Final Chapter (sequel)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 3 is the third and final volume of the Pokémon Chamo-Chamo ☆ Pretty ♪ series created by Yumi Tsukirino."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Get the Love Potion (chamo)\nTanabata Wishes (chamo)\nSea of Uneasy Feelings (chamo)\nPoochyena's Weird Hobby (chamo)\nGrumpig's Wonderful Ball (chamo)\nBeyond Love (chamo)\nChristmas Present (chamo)\nA Lovely New Year's Eve (chamo)\nHeart-thumping Valentine's Day (chamo)\nGluttony Tournament of Romance (chamo)\nThe Guardian God of Love Metamiko (chamo)\nSandslash's Love (chamo)\nSwablu's Proposal Completion!? (chamo)\nMirage Island's Liechi Berries (chamo)\nTorchic's Love's Final Chapter (prequel)\nTorchic's Love's Final Chapter (sequel)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Chamo-Chamo ☆ Pretty ♪ volume 3",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Chamo-Chamo ☆ Pretty ♪ volume 3\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ volumes\nVolume 3 is the third and final volume of the Pokémon Chamo-Chamo ☆ Pretty ♪ series created by Yumi Tsukirino.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 676,
+    "sectionCount": 2
+  }
+}

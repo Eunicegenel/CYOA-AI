@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB50",
+    "slug": "rb50",
+    "pageId": 160271,
+    "revisionId": 4247775
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb50__160271.json",
+    "revisionTimestamp": "2025-02-25T03:04:45Z",
+    "fetchedAt": "2026-05-14T15:47:47.387Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 2対1 2 Against 1) is the 50th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 2対1 2 Against 1) is the 50th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nRug uses Lovestruck Capture on Karuta and commands him to attack Ryouga.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyouga\nMiruto\nYappy\nKaruta\nRug\nTorahige\nMen in Saloon \n\n===Pokémon===\n(Ryouga's)\n(Karuta's)\n(Rug's)\n\n \n \n \n\n \n\nzh:RB50",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 2対1 2 Against 1) is the 50th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Rug uses Lovestruck Capture on Karuta and commands him to attack Ryouga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nMiruto\nYappy\nKaruta\nRug\nTorahige\nMen in Saloon"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ryouga's)\n(Karuta's)\n(Rug's)\n\n \n \n \n\n \n\nzh:RB50"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB50",
+    "pageType": "chapter",
+    "searchableText": "RB50\nCategory:Pokémon RéBURST chapters\n(Japanese: 2対1 2 Against 1) is the 50th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 365,
+    "sectionCount": 4
+  }
+}

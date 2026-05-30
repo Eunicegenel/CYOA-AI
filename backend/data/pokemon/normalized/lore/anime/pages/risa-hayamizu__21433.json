@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Risa Hayamizu",
+    "slug": "risa-hayamizu",
+    "pageId": 21433,
+    "revisionId": 4323364
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "risa-hayamizu__21433.json",
+    "revisionTimestamp": "2025-06-24T03:28:50Z",
+    "fetchedAt": "2026-05-14T14:46:33.969Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Risa Hayamizu (Japanese: 早水リサ Hayamizu Risa) is a Japanese voice actress for .",
+  "plainText": "Risa Hayamizu (Japanese: 早水リサ Hayamizu Risa) is a Japanese voice actress for .\n\n==Biography==\nHayamizu was born on February 28, 1975, in , , and became a voice actress as an adult. She started her work on the in . In , she provided the voice of both Zoey and . Hayamizu is currently affiliated with the talent agency .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nZoey\n\nVisquez\nHelia\n\n=====Pokémon=====\n\n==Other non-Pokémon roles==\nSaori Eguchi ( )\nAlber Hidstaff ( )\nMatako Kijima ( )\nMegumi Kobayashi ( )\nYū and Aoi Kuchiba ( )\nMaya Takahashi ( )\nKyōko Asechi, Rabit-ch ( )\n\n==External links==\nArts Vision profile\n\n \n \n\nit:Risa Hayamizu\nja:早水リサ\nzh:早水理沙",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Risa Hayamizu (Japanese: 早水リサ Hayamizu Risa) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hayamizu was born on February 28, 1975, in , , and became a voice actress as an adult. She started her work on the in . In , she provided the voice of both Zoey and . Hayamizu is currently affiliated with the talent agency ."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Zoey\n\nVisquez\nHelia"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Saori Eguchi ( )\nAlber Hidstaff ( )\nMatako Kijima ( )\nMegumi Kobayashi ( )\nYū and Aoi Kuchiba ( )\nMaya Takahashi ( )\nKyōko Asechi, Rabit-ch ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Arts Vision profile\n\n \n \n\nit:Risa Hayamizu\nja:早水リサ\nzh:早水理沙"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Risa Hayamizu",
+    "pageType": "general-anime-lore",
+    "searchableText": "Risa Hayamizu\nCategory:Japanese voice actors\nRisa Hayamizu (Japanese: 早水リサ Hayamizu Risa) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 671,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Hi-Hat Café",
+    "slug": "hi-hat-cafe",
+    "pageId": 235991,
+    "revisionId": 4545635
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu locations",
+    "sourceFileName": "hi-hat-cafe__235991.json",
+    "revisionTimestamp": "2026-05-06T09:52:55Z",
+    "fetchedAt": "2026-05-14T14:22:15.522Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Hi-Hat Café (Japanese: ハイハットカフェ Hi-Hat Café) is a café owned by Pablo Millan in Ryme City in the game and its sequel Detective Pikachu Returns. It is known for its coffee and live music.\n\nIn the original games, it is located on the first floor of a building south of Tahnti Park, below the Baker Detective Agency. It is first visited at the end of Chapter 2. In the sequel, the café has moved to its own separate building west of . It is noticeably larger, and has a proper stage for performing musicians. It is open from 10 am to 10 pm and is closed on Mondays .",
+  "plainText": "The Hi-Hat Café (Japanese: ハイハットカフェ Hi-Hat Café) is a café owned by Pablo Millan in Ryme City in the game and its sequel Detective Pikachu Returns. It is known for its coffee and live music.\n\nIn the original games, it is located on the first floor of a building south of Tahnti Park, below the Baker Detective Agency. It is first visited at the end of Chapter 2. In the sequel, the café has moved to its own separate building west of . It is noticeably larger, and has a proper stage for performing musicians. It is open from 10 am to 10 pm and is closed on Mondays .\n\n==Pokémon==\n ]]\n===In ===\n \n\n===In Detective Pikachu Returns===\n \n\n==Local concerns==\nLocal concerns are a featured in Detective Pikachu Returns. These are small optional tasks which locals will ask for assistance from Tim and Pikachu.\n \n\n==Trivia==\n===Name origin===\n refers to a type of cymbals found in a drum set.\n\n==In other languages==\n \n\n==References==\n \n\n==Related articles==\n \n \n \n\n \n\nes:Detective Pikachu (videojuego)#Lugares de interés\nit:Hi-Hat Café\nzh:踩镲咖啡馆",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Hi-Hat Café (Japanese: ハイハットカフェ Hi-Hat Café) is a café owned by Pablo Millan in Ryme City in the game and its sequel Detective Pikachu Returns. It is known for its coffee and live music.\n\nIn the original games, it is located on the first floor of a building south of Tahnti Park, below the Baker Detective Agency. It is first visited at the end of Chapter 2. In the sequel, the café has moved to its own separate building west of . It is noticeably larger, and has a proper stage for performing musicians. It is open from 10 am to 10 pm and is closed on Mondays ."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "]]"
+    },
+    {
+      "heading": "Local concerns",
+      "level": 2,
+      "text": "Local concerns are a featured in Detective Pikachu Returns. These are small optional tasks which locals will ask for assistance from Tim and Pikachu."
+    },
+    {
+      "heading": "Name origin",
+      "level": 3,
+      "text": "refers to a type of cymbals found in a drum set."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Detective Pikachu (videojuego)#Lugares de interés\nit:Hi-Hat Café\nzh:踩镲咖啡馆"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hi-Hat Café",
+    "pageType": "location",
+    "searchableText": "Hi-Hat Café\nCategory:Detective Pikachu locations\nThe Hi-Hat Café (Japanese: ハイハットカフェ Hi-Hat Café) is a café owned by Pablo Millan in Ryme City in the game and its sequel Detective Pikachu Returns. It is known for its coffee and live music.\n\nIn the original games, it is located on the first floor of a building south of Tahnti Park, below the Baker Detective Agency. It is first visited at the end of Chapter 2. In the sequel, the café has moved to its own separate building west of . It is noticeably larger, and has a proper stage for performing musicians. It is open from 10 am to 10 pm and is closed on Mondays .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Local concerns",
+      "Name origin",
+      "Related articles"
+    ],
+    "characterCount": 1039,
+    "sectionCount": 5
+  }
+}

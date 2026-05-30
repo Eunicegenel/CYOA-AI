@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "TA22",
+    "slug": "ta22",
+    "pageId": 187126,
+    "revisionId": 2805051
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta22__187126.json",
+    "revisionTimestamp": "2018-06-09T05:02:10Z",
+    "fetchedAt": "2026-05-14T15:50:45.825Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 工場大パニック Big Panic at the Factory) is the 22nd chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 工場大パニック Big Panic at the Factory) is the 22nd chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 工場大パニック Big Panic at the Factory) is the 22nd chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA22",
+    "pageType": "chapter",
+    "searchableText": "TA22\nCategory:Pokémon Try Adventure chapters\n(Japanese: 工場大パニック Big Panic at the Factory) is the 22nd chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 230,
+    "sectionCount": 2
+  }
+}

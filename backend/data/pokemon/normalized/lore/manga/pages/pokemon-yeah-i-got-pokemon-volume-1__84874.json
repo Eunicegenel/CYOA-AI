@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon: Yeah! I Got Pokémon! volume 1",
+    "slug": "pokemon-yeah-i-got-pokemon-volume-1",
+    "pageId": 84874,
+    "revisionId": 4528182
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! volumes",
+    "sourceFileName": "pokemon-yeah-i-got-pokemon-volume-1__84874.json",
+    "revisionTimestamp": "2026-04-09T16:09:35Z",
+    "fetchedAt": "2026-05-14T15:38:29.834Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada.",
+  "plainText": "Volume 1 is the first volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada.\n\n==Publications==\n \n \n \n \n \n \n \n \n \n \n\n==Chapters==\nChapter 1: Shu and Pikachu's Debut!\nChapter 2: A Powerful Foe Venusaur!\nChapter 3: A Match For Pokémon\nChapter 4: The Raining Crystal Ball\nChapter 5: A Mischievous Wartortle\nChapter 6: The Challenge at Celadon University!\nChapter 7: Down with the \"Kick Fighter\"\nChapter 8: A Farfetch'd Fencing Match!\nChapter 9: Catch the Poliwag!\nChapter 10: Hammer the Diglett!!\nChapter 11: The Terrible Twins, Rin & Ran\nChapter 12: The Trial for Moltres\nChapter 13: The Forest Insect Hunt\nChapter 14: Pokémon Cooking Contest!\nChapter 15: Special Chapter: I Caught a Pikachu! \n\n==Important events==\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained: \nShū's in Chapter 1\nShū's in Chapter 3\nShū's in Chapter 5\nShū's in Chapter 7\n \n \n \n\nzh:宝可梦大搜捕1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 1: Shu and Pikachu's Debut!\nChapter 2: A Powerful Foe Venusaur!\nChapter 3: A Match For Pokémon\nChapter 4: The Raining Crystal Ball\nChapter 5: A Mischievous Wartortle\nChapter 6: The Challenge at Celadon University!\nChapter 7: Down with the \"Kick Fighter\"\nChapter 8: A Farfetch'd Fencing Match!\nChapter 9: Catch the Poliwag!\nChapter 10: Hammer the Diglett!!\nChapter 11: The Terrible Twins, Rin & Ran\nChapter 12: The Trial for Moltres\nChapter 13: The Forest Insect Hunt\nChapter 14: Pokémon Cooking Contest!\nChapter 15: Special Chapter: I Caught a Pikachu!"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained: \nShū's in Chapter 1\nShū's in Chapter 3\nShū's in Chapter 5\nShū's in Chapter 7\n \n \n \n\nzh:宝可梦大搜捕1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon: Yeah! I Got Pokémon! volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon: Yeah! I Got Pokémon! volume 1\nCategory:Pokémon: Yeah! I Got Pokémon! volumes\nVolume 1 is the first volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions"
+    ],
+    "characterCount": 896,
+    "sectionCount": 3
+  }
+}

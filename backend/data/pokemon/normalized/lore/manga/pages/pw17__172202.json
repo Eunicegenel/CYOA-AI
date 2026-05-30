@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PW17",
+    "slug": "pw17",
+    "pageId": 172202,
+    "revisionId": 4528339
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw17__172202.json",
+    "revisionTimestamp": "2026-04-09T16:16:09Z",
+    "fetchedAt": "2026-05-14T15:46:38.509Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 傷だらけのペルシアン The Injured Persian) is the seventeenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+  "plainText": "(Japanese: 傷だらけのペルシアン The Injured Persian) is the seventeenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .\n\n==Plot==\n \nA boy discovers a wounded and helps it recover. Although wary at first, Persian eventually bonds with the boy, who is implied to be Giovanni.\n\n==Major events==\n\n==Characters==\n===Humans===\nGiovanni\n\n===Pokémon===\n\n \n \n\nit:PW17",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 傷だらけのペルシアン The Injured Persian) is the seventeenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is ."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "A boy discovers a wounded and helps it recover. Although wary at first, Persian eventually bonds with the boy, who is implied to be Giovanni."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Giovanni"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "it:PW17"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW17",
+    "pageType": "chapter",
+    "searchableText": "PW17\nCategory:How I Became a Pokémon Card chapters\n(Japanese: 傷だらけのペルシアン The Injured Persian) is the seventeenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 423,
+    "sectionCount": 4
+  }
+}

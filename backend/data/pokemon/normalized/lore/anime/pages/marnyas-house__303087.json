@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Marnya's house",
+    "slug": "marnyas-house",
+    "pageId": 303087,
+    "revisionId": 4523566
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "marnyas-house__303087.json",
+    "revisionTimestamp": "2026-04-05T14:37:25Z",
+    "fetchedAt": "2026-05-14T14:35:13.438Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Marnya's house (Japanese: マーニャの家 Manya's house) is an animated series-exclusive location near Steelbound Town, a house owned by a named Marnya and where many cat Pokémon live.\n\nIn Farewell, Sprigatito?, trying to find her , Liko walked upon a house, owned by Marnya, where Sprigatito was formerly born and raised.",
+  "plainText": "Marnya's house (Japanese: マーニャの家 Manya's house) is an animated series-exclusive location near Steelbound Town, a house owned by a named Marnya and where many cat Pokémon live.\n\nIn Farewell, Sprigatito?, trying to find her , Liko walked upon a house, owned by Marnya, where Sprigatito was formerly born and raised.\n\n==Pokémon seen at Marnya's house==\n \n\n===Pokémon previously seen at Marnya's house===\n \n\n \n \n \n \n\nes:Criadero de Miaugdalena/Marnya\nit:Casa di Marnya",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Marnya's house (Japanese: マーニャの家 Manya's house) is an animated series-exclusive location near Steelbound Town, a house owned by a named Marnya and where many cat Pokémon live.\n\nIn Farewell, Sprigatito?, trying to find her , Liko walked upon a house, owned by Marnya, where Sprigatito was formerly born and raised."
+    },
+    {
+      "heading": "Pokémon previously seen at Marnya's house",
+      "level": 3,
+      "text": "es:Criadero de Miaugdalena/Marnya\nit:Casa di Marnya"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Marnya's house",
+    "pageType": "location",
+    "searchableText": "Marnya's house\nCategory:Animated series-exclusive locations\nMarnya's house (Japanese: マーニャの家 Manya's house) is an animated series-exclusive location near Steelbound Town, a house owned by a named Marnya and where many cat Pokémon live.\n\nIn Farewell, Sprigatito?, trying to find her , Liko walked upon a house, owned by Marnya, where Sprigatito was formerly born and raised.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon previously seen at Marnya's house"
+    ],
+    "characterCount": 464,
+    "sectionCount": 2
+  }
+}

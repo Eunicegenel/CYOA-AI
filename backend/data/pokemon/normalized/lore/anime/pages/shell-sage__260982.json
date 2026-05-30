@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Shell Sage",
+    "slug": "shell-sage",
+    "pageId": 260982,
+    "revisionId": 4318620
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "shell-sage__260982.json",
+    "revisionTimestamp": "2025-06-11T21:07:19Z",
+    "fetchedAt": "2026-05-14T14:49:16.690Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Shell Sage (Japanese: カメマスター Turtle Master) is a character of the day who appeared in Eyes on the Goal!.\n\nHe appeared at the end of Eyes on the Goal!, riding on top of a group of , where he called out to his Pokémon that were taking part in a race across a park against .",
+  "plainText": "The Shell Sage (Japanese: カメマスター Turtle Master) is a character of the day who appeared in Eyes on the Goal!.\n\nHe appeared at the end of Eyes on the Goal!, riding on top of a group of , where he called out to his Pokémon that were taking part in a race across a park against . \n\n==Pokémon==\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n==Voice actors==\n \n\n==Names==\n \n \n \n\n \n \n \n\nes:Caparasabio/Sabio caparazón\nit:Saggio del Guscio",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Shell Sage (Japanese: カメマスター Turtle Master) is a character of the day who appeared in Eyes on the Goal!.\n\nHe appeared at the end of Eyes on the Goal!, riding on top of a group of , where he called out to his Pokémon that were taking part in a race across a park against ."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Caparasabio/Sabio caparazón\nit:Saggio del Guscio"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shell Sage",
+    "pageType": "character",
+    "searchableText": "Shell Sage\nCategory:Journeys characters of the day\nThe Shell Sage (Japanese: カメマスター Turtle Master) is a character of the day who appeared in Eyes on the Goal!.\n\nHe appeared at the end of Eyes on the Goal!, riding on top of a group of , where he called out to his Pokémon that were taking part in a race across a park against .",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 418,
+    "sectionCount": 2
+  }
+}

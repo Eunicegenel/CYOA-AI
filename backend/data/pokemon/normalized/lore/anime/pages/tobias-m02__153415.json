@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Tobias (M02)",
+    "slug": "tobias-m02",
+    "pageId": 153415,
+    "revisionId": 4180147
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "tobias-m02__153415.json",
+    "revisionTimestamp": "2024-11-15T02:48:47Z",
+    "fetchedAt": "2026-05-14T14:54:43.762Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Tobias (Japanese: アーシア島の長老 Island Elder) is a minor character who appeared in The Power of One. He is a Shamouti Island community elder.",
+  "plainText": "Tobias (Japanese: アーシア島の長老 Island Elder) is a minor character who appeared in The Power of One. He is a Shamouti Island community elder.\n\n==History==\n \nTobias was the one who informed and of the ancient prophecy regarding the legendary birds and the guardian of the seas, . Like Carol and , he doesn't take the island tradition too seriously. He even whispers to Ash that the costumed spectacular is a tourist gimmick.\n\nTobias and Carol stayed on Shamouti while Ash and Maren, and eventually , , and Melody, set out to collect the three orbs of , , and to fulfill the prophecy.\n\nTobias was last seen with Carol and the other residents, waving goodbye to Maren and her passengers.\n\nTobias briefly reappeared in a montage in The Rise of Darkrai, which chronicled the preceding nine s.\n \n==Voice actors==\n \n\n==Trivia==\nThis character's name is not mentioned in either the original Japanese or the English dub. However, varying sources, such as the Pokémon the Movie 2000 Trading Cards released by Topps and the subtitles on the Polish DVD of the , suggest that his name, at least in English, is Tobias.\n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n \n\nde:Tobias (Orange-Archipel)\nit:Tobias (F02)\nzh:亞西亞島的長老",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tobias (Japanese: アーシア島の長老 Island Elder) is a minor character who appeared in The Power of One. He is a Shamouti Island community elder."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Tobias was the one who informed and of the ancient prophecy regarding the legendary birds and the guardian of the seas, . Like Carol and , he doesn't take the island tradition too seriously. He even whispers to Ash that the costumed spectacular is a tourist gimmick.\n\nTobias and Carol stayed on Shamouti while Ash and Maren, and eventually , , and Melody, set out to collect the three orbs of , , and to fulfill the prophecy.\n\nTobias was last seen with Carol and the other residents, waving goodbye to Maren and her passengers.\n\nTobias briefly reappeared in a montage in The Rise of Darkrai, which chronicled the preceding nine s."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This character's name is not mentioned in either the original Japanese or the English dub. However, varying sources, such as the Pokémon the Movie 2000 Trading Cards released by Topps and the subtitles on the Polish DVD of the , suggest that his name, at least in English, is Tobias."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Tobias (Orange-Archipel)\nit:Tobias (F02)\nzh:亞西亞島的長老"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tobias (M02)",
+    "pageType": "movie",
+    "searchableText": "Tobias (M02)\nCategory:Movie characters\nTobias (Japanese: アーシア島の長老 Island Elder) is a minor character who appeared in The Power of One. He is a Shamouti Island community elder.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1212,
+    "sectionCount": 4
+  }
+}

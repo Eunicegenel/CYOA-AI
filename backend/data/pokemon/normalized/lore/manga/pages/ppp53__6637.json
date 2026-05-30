@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PPP53",
+    "slug": "ppp53",
+    "pageId": 6637,
+    "revisionId": 4527084
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp53__6637.json",
+    "revisionTimestamp": "2026-04-09T15:18:51Z",
+    "fetchedAt": "2026-05-14T15:39:09.887Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Accidental Treasure (Japanese: 偶然のたからもの A Chance Treasure) is the fifty-third chapter of the Magical Pokémon Journey manga.",
+  "plainText": "The Accidental Treasure (Japanese: 偶然のたからもの A Chance Treasure) is the fifty-third chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nHazel finds an old photo album with pictures of herself and Almond as kids, and she remembers their childhood. She asks and how they met.\n\n==Important characters and Pokémon==\nHazel\nAlmond\n\n==Character introductions==\n\n==Important events==\n\n \n \n\nit:PPP53",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Accidental Treasure (Japanese: 偶然のたからもの A Chance Treasure) is the fifty-third chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Hazel finds an old photo album with pictures of herself and Almond as kids, and she remembers their childhood. She asks and how they met."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Hazel\nAlmond"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "it:PPP53"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP53",
+    "pageType": "chapter",
+    "searchableText": "PPP53\nCategory:Magical Pokémon Journey chapters\nThe Accidental Treasure (Japanese: 偶然のたからもの A Chance Treasure) is the fifty-third chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon",
+      "Important events"
+    ],
+    "characterCount": 394,
+    "sectionCount": 4
+  }
+}

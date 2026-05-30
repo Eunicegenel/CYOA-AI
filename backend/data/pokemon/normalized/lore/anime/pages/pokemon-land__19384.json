@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Land",
+    "slug": "pokemon-land",
+    "pageId": 19384,
+    "revisionId": 4263480
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "pokemon-land__19384.json",
+    "revisionTimestamp": "2025-03-22T18:26:28Z",
+    "fetchedAt": "2026-05-14T14:43:06.197Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Pokémon Land (Japanese: ポケモンランド Pokémon Land) is an attraction located on the Island of the Giant Pokémon. It appeared in Island of the Giant Pokémon.",
+  "plainText": "Pokémon Land (Japanese: ポケモンランド Pokémon Land) is an attraction located on the Island of the Giant Pokémon. It appeared in Island of the Giant Pokémon.\n\n==In animation==\n===Pokémon the Series===\n==== ====\nThe park's biggest attraction is its many different robotic Pokémon. When , , and ended up in Pokémon Land, they didn't realize that the Pokémon were robots, and believed them to be s. They learned they were robots when they were trying to escape them. A roller coaster car they were riding in crashed through a robotic , sending metal flying everywhere. Sadly, the amusement park was destroyed.\n\n spent billions of units of currency on building Pokémon Land, and wasn't happy to learn that everything had been destroyed.\n\nFor unexplained reasons, the robotic Pokémon seemed to try to kill the s and the lost Pokémon, as evidenced by Zapdos and discharging electricity and flames at a fleeing Ash, and and Jessie and James, respectively, trying to vaporize Ash and friends with a , spraying the group's Pokémon with a water blast that would be a lethal dose, chasing Jessie and James, Charizard, Blastoise, and chasing down the lost Pokémon, and apparently trying to attack the lost Pokémon.\n\nIn the dub for Attack of the Prehistoric Pokémon, James indicated that the payoff they'll get from selling Fossils will be such that the Dinosaur theme park they'll open will rival that of the theme park (called \"PokéWorld\" here).\n\n====Pokémon seen at Pokémon Land====\n \n\n=====Giant robots=====\n \n\n==In the manga==\n===Pokémon Pocket Monsters===\nIn the Pokémon Pocket Monsters manga, a similar attraction to Pokémon Land known as the Amusement Park was built by . , , and visited the Amusement Park. Giovanni was not happy to see them in the place he built. He sent out and , which evolved into , to take care of them. Like most places that Clefairy visits, this one ends up being destroyed in the end by Clefairy himself.\n\n==In other languages==\n \n\n==Related articles==\n \n\n \n \n\nde:Pokémon-Land\nes:Tierra Pokémon/Isla Pokémon\nit:Pokémon Land\nzh:寶可夢園",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Land (Japanese: ポケモンランド Pokémon Land) is an attraction located on the Island of the Giant Pokémon. It appeared in Island of the Giant Pokémon."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "The park's biggest attraction is its many different robotic Pokémon. When , , and ended up in Pokémon Land, they didn't realize that the Pokémon were robots, and believed them to be s. They learned they were robots when they were trying to escape them. A roller coaster car they were riding in crashed through a robotic , sending metal flying everywhere. Sadly, the amusement park was destroyed.\n\n spent billions of units of currency on building Pokémon Land, and wasn't happy to learn that everything had been destroyed.\n\nFor unexplained reasons, the robotic Pokémon seemed to try to kill the s and the lost Pokémon, as evidenced by Zapdos and discharging electricity and flames at a fleeing Ash, and and Jessie and James, respectively, trying to vaporize Ash and friends with a , spraying the group's Pokémon with a water blast that would be a lethal dose, chasing Jessie and James, Charizard, Blastoise, and chasing down the lost Pokémon, and apparently trying to attack the lost Pokémon.\n\nIn the dub for Attack of the Prehistoric Pokémon, James indicated that the payoff they'll get from selling Fossils will be such that the Dinosaur theme park they'll open will rival that of the theme park (called \"PokéWorld\" here)."
+    },
+    {
+      "heading": "Pokémon Pocket Monsters",
+      "level": 3,
+      "text": "In the Pokémon Pocket Monsters manga, a similar attraction to Pokémon Land known as the Amusement Park was built by . , , and visited the Amusement Park. Giovanni was not happy to see them in the place he built. He sent out and , which evolved into , to take care of them. Like most places that Clefairy visits, this one ends up being destroyed in the end by Clefairy himself."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Pokémon-Land\nes:Tierra Pokémon/Isla Pokémon\nit:Pokémon Land\nzh:寶可夢園"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Land",
+    "pageType": "location",
+    "searchableText": "Pokémon Land\nCategory:Animated series-exclusive locations\nPokémon Land (Japanese: ポケモンランド Pokémon Land) is an attraction located on the Island of the Giant Pokémon. It appeared in Island of the Giant Pokémon.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Pokémon Pocket Monsters",
+      "Related articles"
+    ],
+    "characterCount": 2045,
+    "sectionCount": 4
+  }
+}

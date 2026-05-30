@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "ESEZ0",
+    "slug": "esez0",
+    "pageId": 230525,
+    "revisionId": 4549084
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "esez0__230525.json",
+    "revisionTimestamp": "2026-05-11T01:13:18Z",
+    "fetchedAt": "2026-05-14T15:18:17.512Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Preview (Japanese: エピソード・ゼラオラ予告編 Episode Zeraora Preview) is a chapter in Pokémon the Movie: The Power of Us: Zeraora's Story. It was released as preview for the manga before it officially began its serialization. As such, the events of this chapter are merely an abridged version of the actual first chapter.",
+  "plainText": "Preview (Japanese: エピソード・ゼラオラ予告編 Episode Zeraora Preview) is a chapter in Pokémon the Movie: The Power of Us: Zeraora's Story. It was released as preview for the manga before it officially began its serialization. As such, the events of this chapter are merely an abridged version of the actual first chapter.\n\n==Plot==\n \n\n==Major events==\nand arrive in Fula City, where they participate in the Wind Festival.\nAsh meets Margo, a young girl living in Fula City.\nMargo tells Ash about , a Legendary Pokémon, and , a Mythical Pokémon living somewhere on the outskirts of Fula City.\n\n===Debuts===\n====Humans====\n\nMargo\n\n====Pokémon debuts====\n( )\n\n( )\n( )\n\n==Characters==\n===Humans===\n\nMargo\n\n===Pokémon===\n( )\n(Trainer's)\n(Trainer's)\n(Trainer's)\n( ; fantasy)\n( )\n\n==In other languages==\n \n \n \nes:MP21-00\nit:ESEZ0\nzh:M21M05",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Preview (Japanese: エピソード・ゼラオラ予告編 Episode Zeraora Preview) is a chapter in Pokémon the Movie: The Power of Us: Zeraora's Story. It was released as preview for the manga before it officially began its serialization. As such, the events of this chapter are merely an abridged version of the actual first chapter."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and arrive in Fula City, where they participate in the Wind Festival.\nAsh meets Margo, a young girl living in Fula City.\nMargo tells Ash about , a Legendary Pokémon, and , a Mythical Pokémon living somewhere on the outskirts of Fula City."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Margo"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n\n( )\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Margo"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Trainer's)\n(Trainer's)\n(Trainer's)\n( ; fantasy)\n( )"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:MP21-00\nit:ESEZ0\nzh:M21M05"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ESEZ0",
+    "pageType": "manga-series",
+    "searchableText": "ESEZ0\nCategory:Manga stubs\nPreview (Japanese: エピソード・ゼラオラ予告編 Episode Zeraora Preview) is a chapter in Pokémon the Movie: The Power of Us: Zeraora's Story. It was released as preview for the manga before it officially began its serialization. As such, the events of this chapter are merely an abridged version of the actual first chapter.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 819,
+    "sectionCount": 7
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PW16",
+    "slug": "pw16",
+    "pageId": 172200,
+    "revisionId": 4528511
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw16__172200.json",
+    "revisionTimestamp": "2026-04-09T16:24:52Z",
+    "fetchedAt": "2026-05-14T15:46:37.888Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 涙色のシャワーズ Tear-Colored ) is the sixteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+  "plainText": "(Japanese: 涙色のシャワーズ Tear-Colored ) is the sixteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .\n\n==Plot==\n \n\n==Major events==\n\n==Characters==\n===Humans===\nProfessor Oak\nErika\n\n===Pokémon===\n\n \n \n\nit:PW16",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 涙色のシャワーズ Tear-Colored ) is the sixteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Oak\nErika"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "it:PW16"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW16",
+    "pageType": "chapter",
+    "searchableText": "PW16\nCategory:How I Became a Pokémon Card chapters\n(Japanese: 涙色のシャワーズ Tear-Colored ) is the sixteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 282,
+    "sectionCount": 3
+  }
+}

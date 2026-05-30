@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "RB69",
+    "slug": "rb69",
+    "pageId": 166330,
+    "revisionId": 4255173
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb69__166330.json",
+    "revisionTimestamp": "2025-03-07T17:10:37Z",
+    "fetchedAt": "2026-05-14T15:47:59.311Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 父とアルカデス Father and Arcades) is the 69th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 父とアルカデス Father and Arcades) is the 69th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nRyouga's group lands on an unknown island.\nRyouga and company finds a statue of Garyū.\nA woman claiming to be Arcades' caretaker reveals that the statue is Ryouga's actual father, turned to stone.\nThe caretaker reveals that Arcades isn't a single person, but rather many people over the years that took the name of Arcades.\nDespite the protests of his friends, Ryouga decides to become the next Arcades in order to face Fraud, despite the fact that he will share the same fate as his father.\nBefore Ryouga can do so, the caretaker decides to test him first.\n\n===Debuts===\n====Humans====\nArcades' caretaker\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKaruta\nMiruto\nRyouga\nYappy\nRug\nGaryū\nArcades' caretaker\nFraud (flashback)\nGreat Gavel Grunts (flashback)\nPrevious Arcades\n\n===Pokémon===\n\n \n \n \n\n \n\nzh:RB69",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 父とアルカデス Father and Arcades) is the 69th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga's group lands on an unknown island.\nRyouga and company finds a statue of Garyū.\nA woman claiming to be Arcades' caretaker reveals that the statue is Ryouga's actual father, turned to stone.\nThe caretaker reveals that Arcades isn't a single person, but rather many people over the years that took the name of Arcades.\nDespite the protests of his friends, Ryouga decides to become the next Arcades in order to face Fraud, despite the fact that he will share the same fate as his father.\nBefore Ryouga can do so, the caretaker decides to test him first."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Arcades' caretaker"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Karuta\nMiruto\nRyouga\nYappy\nRug\nGaryū\nArcades' caretaker\nFraud (flashback)\nGreat Gavel Grunts (flashback)\nPrevious Arcades"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "zh:RB69"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB69",
+    "pageType": "chapter",
+    "searchableText": "RB69\nCategory:Pokémon RéBURST chapters\n(Japanese: 父とアルカデス Father and Arcades) is the 69th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 932,
+    "sectionCount": 5
+  }
+}

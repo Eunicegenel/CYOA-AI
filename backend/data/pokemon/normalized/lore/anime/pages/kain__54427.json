@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Kain",
+    "slug": "kain",
+    "pageId": 54427,
+    "revisionId": 4545966
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "kain__54427.json",
+    "revisionTimestamp": "2026-05-06T20:11:34Z",
+    "fetchedAt": "2026-05-14T14:28:21.734Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kain (Japanese: ケイン Cane) is a recurring character who first appeared in Going for a Spinda!.",
+  "plainText": "Kain (Japanese: ケイン Cane) is a recurring character who first appeared in Going for a Spinda!.\n\n==History==\n=== ===\nKain became Claire's fiancé after the pair met in a flower field. Kain is a Pokémon adventurer who travels the world in search of rare Pokémon. As a result, he had to leave, but he left his in Claire's care as a sign of his devotion to her. \n\nKain eventually returned and reunited with Claire at the place where they first met after Spinda ran away. He attempted to battle , but Spinda's was reflected back at it and it was subsequently captured. Thanks to 's Pokémon, Team Rocket was defeated and Spinda was returned to him and Claire.\n\n=== ===\nKain appeared again in Battling as Hard as Stone!, watching and 's Masters Eight Tournament battle on television.\n \n\n==Pokémon==\n \n \n\n==Voice actors==\n \n \n\n \n\n \n \n\nde:Schnapp dir das Pandir!#Kain\nes:Kain\nfr:Ken\nit:Kain\nzh:肯恩（AG057）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kain (Japanese: ケイン Cane) is a recurring character who first appeared in Going for a Spinda!."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Kain became Claire's fiancé after the pair met in a flower field. Kain is a Pokémon adventurer who travels the world in search of rare Pokémon. As a result, he had to leave, but he left his in Claire's care as a sign of his devotion to her. \n\nKain eventually returned and reunited with Claire at the place where they first met after Spinda ran away. He attempted to battle , but Spinda's was reflected back at it and it was subsequently captured. Thanks to 's Pokémon, Team Rocket was defeated and Spinda was returned to him and Claire."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Kain appeared again in Battling as Hard as Stone!, watching and 's Masters Eight Tournament battle on television."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Schnapp dir das Pandir!#Kain\nes:Kain\nfr:Ken\nit:Kain\nzh:肯恩（AG057）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kain",
+    "pageType": "character",
+    "searchableText": "Kain\nCategory:Animation characters\nKain (Japanese: ケイン Cane) is a recurring character who first appeared in Going for a Spinda!.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "",
+      "Voice actors"
+    ],
+    "characterCount": 892,
+    "sectionCount": 4
+  }
+}

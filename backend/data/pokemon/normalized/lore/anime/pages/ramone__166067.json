@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Ramone",
+    "slug": "ramone",
+    "pageId": 166067,
+    "revisionId": 4289126
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:League Conference participants",
+    "sourceFileName": "ramone__166067.json",
+    "revisionTimestamp": "2025-04-28T19:48:26Z",
+    "fetchedAt": "2026-05-14T14:45:37.736Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Ramone (Japanese: リキオー Rikiō) is a minor recurring character in .",
+  "plainText": "Ramone (Japanese: リキオー Rikiō) is a minor recurring character in .\n\n==History==\nRamone debuted in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup and was 's first opponent. However, he was defeated by her and eliminated from the tournament. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin, and Freddy O'Martian.\n\nIn Curtain Up, Unova League!, Ramone competed in the Vertress Conference. In Mission: Defeat Your Rival!, he appeared on the screen showing the match-ups for the second round of the Conference, meaning he had made it through the first round. In Lost at the League!, he appeared once again on the screen of the Vertress Conference, now showing the match-ups for the last sixteen, meaning that he had made it through the second and third rounds.\n\nIn Strong Strategy Steals the Show!, it was revealed he had made it through the fourth round as well. In the quarterfinals, he battled Antonio and won. In the semifinals, he battled Dino but lost, placing him in the Top 4. Afterwards, he appeared once again during the closing ceremonies of the Vertress Conference.\n\n==Pokémon==\n===In rotation===\n \n \n\n \n\n \n\n===Scoreboard Pokémon===\nRamone was shown to have these Pokémon briefly on the scoreboard during the Vertress Conference. They were used in his battle against Antonio.\n\n \n\n==Achievements==\n===Badges obtained===\nThis listing is of the Badges Ramone has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)\n\n===Pokémon League===\nRamone has competed in the following Pokémon League Conferences:\nVertress Conference - Top 4 (A Unova League Evolution!)\n\n===Pokémon competitions===\nRamone has competed in the following :\nPokémon World Tournament Junior Cup - Top 16 (Jostling for the Junior Cup!)\n\n==Trivia==\nRamone's hairstyle and the color scheme of his outfit are based on his Stoutland.\n\n==Related articles==\n \n\n \n\nes:Ramón\nfr:Roger\nit:Ramone\nzh:力雄",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ramone (Japanese: リキオー Rikiō) is a minor recurring character in ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Ramone debuted in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup and was 's first opponent. However, he was defeated by her and eliminated from the tournament. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin, and Freddy O'Martian.\n\nIn Curtain Up, Unova League!, Ramone competed in the Vertress Conference. In Mission: Defeat Your Rival!, he appeared on the screen showing the match-ups for the second round of the Conference, meaning he had made it through the first round. In Lost at the League!, he appeared once again on the screen of the Vertress Conference, now showing the match-ups for the last sixteen, meaning that he had made it through the second and third rounds.\n\nIn Strong Strategy Steals the Show!, it was revealed he had made it through the fourth round as well. In the quarterfinals, he battled Antonio and won. In the semifinals, he battled Dino but lost, placing him in the Top 4. Afterwards, he appeared once again during the closing ceremonies of the Vertress Conference."
+    },
+    {
+      "heading": "Scoreboard Pokémon",
+      "level": 3,
+      "text": "Ramone was shown to have these Pokémon briefly on the scoreboard during the Vertress Conference. They were used in his battle against Antonio."
+    },
+    {
+      "heading": "Badges obtained",
+      "level": 3,
+      "text": "This listing is of the Badges Ramone has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)"
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Ramone has competed in the following Pokémon League Conferences:\nVertress Conference - Top 4 (A Unova League Evolution!)"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 3,
+      "text": "Ramone has competed in the following :\nPokémon World Tournament Junior Cup - Top 16 (Jostling for the Junior Cup!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Ramone's hairstyle and the color scheme of his outfit are based on his Stoutland."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Ramón\nfr:Roger\nit:Ramone\nzh:力雄"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ramone",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ramone\nCategory:League Conference participants\nRamone (Japanese: リキオー Rikiō) is a minor recurring character in .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Scoreboard Pokémon",
+      "Badges obtained",
+      "Pokémon League",
+      "Pokémon competitions",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 2051,
+    "sectionCount": 8
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Atsuko Yuya",
+    "slug": "atsuko-yuya",
+    "pageId": 257539,
+    "revisionId": 4323681
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "atsuko-yuya__257539.json",
+    "revisionTimestamp": "2025-06-24T03:34:27Z",
+    "fetchedAt": "2026-05-14T14:04:13.458Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Atsuko Yuya (Japanese: 湯屋敦子 Yuya Atsuko) is a Japanese voice actress for .",
+  "plainText": "Atsuko Yuya (Japanese: 湯屋敦子 Yuya Atsuko) is a Japanese voice actress for .\n\n==Biography==\nYuya was born on September 1, 1968, in , and became a voice actress as an adult. She joined during , where she voiced Oleana. Yuya is currently affiliated with .\n\n==Pokémon roles==\n===Animation===\n==== ====\nOleana\n\n==Other non-Pokémon roles==\nTakeru's Mother ( )\nShinjo's Mother ( )\nKyo's Mother ( )\nYinshi ( )\nEmelina Anderson ( )\nKonjikiou ( )\nAnju ( )\nCat Lady ( )\nMiwako Sato ( )\nIchiko Fuji ( )\nRyoko Hishikawa ( )\n\n==External links==\nAnime-Planet\nMy Anime List\nGekidan Subaru profile\n\n \n\n \n\nit:Atsuko Yuya\nja:湯屋敦子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Atsuko Yuya (Japanese: 湯屋敦子 Yuya Atsuko) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Yuya was born on September 1, 1968, in , and became a voice actress as an adult. She joined during , where she voiced Oleana. Yuya is currently affiliated with ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Oleana"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Takeru's Mother ( )\nShinjo's Mother ( )\nKyo's Mother ( )\nYinshi ( )\nEmelina Anderson ( )\nKonjikiou ( )\nAnju ( )\nCat Lady ( )\nMiwako Sato ( )\nIchiko Fuji ( )\nRyoko Hishikawa ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anime-Planet\nMy Anime List\nGekidan Subaru profile\n\n \n\n \n\nit:Atsuko Yuya\nja:湯屋敦子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Atsuko Yuya",
+    "pageType": "general-anime-lore",
+    "searchableText": "Atsuko Yuya\nCategory:Japanese voice actors\nAtsuko Yuya (Japanese: 湯屋敦子 Yuya Atsuko) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 609,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMRS05",
+    "slug": "pmrs05",
+    "pageId": 113245,
+    "revisionId": 4528224
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs05__113245.json",
+    "revisionTimestamp": "2026-04-09T16:10:29Z",
+    "fetchedAt": "2026-05-14T15:33:10.885Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Let's Try To Be Idols!! (Japanese: アイドルをねらえ！！ Aim to be Idols!!) is the fifth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Let's Try To Be Idols!! (Japanese: アイドルをねらえ！！ Aim to be Idols!!) is the fifth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\nenters his first .\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nTrainer\n\n===Pokémon===\n( )\n( )\n( )\n( 's)\n(Trainer's)\n\n \n \n\nit:PMRS05",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Let's Try To Be Idols!! (Japanese: アイドルをねらえ！！ Aim to be Idols!!) is the fifth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "enters his first ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Trainer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( 's)\n(Trainer's)\n\n \n \n\nit:PMRS05"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS05",
+    "pageType": "chapter",
+    "searchableText": "PMRS05\nCategory:Pokémon Ruby-Sapphire chapters\nLet's Try To Be Idols!! (Japanese: アイドルをねらえ！！ Aim to be Idols!!) is the fifth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 322,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Manami",
+    "slug": "manami",
+    "pageId": 192137,
+    "revisionId": 4528469
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure characters",
+    "sourceFileName": "manami__192137.json",
+    "revisionTimestamp": "2026-04-09T16:23:07Z",
+    "fetchedAt": "2026-05-14T15:25:46.071Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: マナミ Manami) is a character from Pokémon Try Adventure. She is the sister of Katsuya.",
+  "plainText": "(Japanese: マナミ Manami) is a character from Pokémon Try Adventure. She is the sister of Katsuya.\n\n==History==\nManami debuted in A New Encounter.\n \n\n==Pokémon==\n===On Hand===\n \n\n===Borrowed===\n \n \n \n \n \n \n\nit:Manami",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: マナミ Manami) is a character from Pokémon Try Adventure. She is the sister of Katsuya."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Manami debuted in A New Encounter."
+    },
+    {
+      "heading": "Borrowed",
+      "level": 3,
+      "text": "it:Manami"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Manami",
+    "pageType": "character",
+    "searchableText": "Manami\nCategory:Pokémon Try Adventure characters\n(Japanese: マナミ Manami) is a character from Pokémon Try Adventure. She is the sister of Katsuya.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Borrowed"
+    ],
+    "characterCount": 213,
+    "sectionCount": 3
+  }
+}

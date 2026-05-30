@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS60",
+    "slug": "pmrs60",
+    "pageId": 160856,
+    "revisionId": 4528552
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs60__160856.json",
+    "revisionTimestamp": "2026-04-09T16:26:34Z",
+    "fetchedAt": "2026-05-14T15:33:50.170Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy Has Been Abandoned?! (Japanese: 見捨てられたピッピ！？ Has Been Abandoned?!) is the sixtieth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Clefairy Has Been Abandoned?! (Japanese: 見捨てられたピッピ！？ Has Been Abandoned?!) is the sixtieth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( 's)\n( 's)\n( 's)\n( 's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy Has Been Abandoned?! (Japanese: 見捨てられたピッピ！？ Has Been Abandoned?!) is the sixtieth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( 's)\n( 's)\n( 's)\n( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS60",
+    "pageType": "chapter",
+    "searchableText": "PMRS60\nCategory:Pokémon Ruby-Sapphire chapters\nClefairy Has Been Abandoned?! (Japanese: 見捨てられたピッピ！？ Has Been Abandoned?!) is the sixtieth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 281,
+    "sectionCount": 2
+  }
+}

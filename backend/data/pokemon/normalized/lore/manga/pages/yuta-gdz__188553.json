@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Yūta (GDZ)",
+    "slug": "yuta-gdz",
+    "pageId": 188553,
+    "revisionId": 4398480
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "yuta-gdz__188553.json",
+    "revisionTimestamp": "2025-10-12T11:59:33Z",
+    "fetchedAt": "2026-05-14T15:53:09.078Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n \n(Japanese: ユウタ Yūta) is a character from the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "----\n \n(Japanese: ユウタ Yūta) is a character from the Pokémon: Yeah! I Got Pokémon! manga.\n\n==History==\nYuta appeared in Pokémon Hot Springs, Hot-Hot Battle, where he caught an in the hot spring where Shu was relaxing. When the duo attempted to take over the hot springs, he attempted to battle Shu using . It took a majority of Shu's team to take them on, until 's placed Magmar in a hot spring of its own. After Magmar found the hot springs, Yuta apologized for his actions and was subsequently chased by Magmar.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \n(Japanese: ユウタ Yūta) is a character from the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Yuta appeared in Pokémon Hot Springs, Hot-Hot Battle, where he caught an in the hot spring where Shu was relaxing. When the duo attempted to take over the hot springs, he attempted to battle Shu using . It took a majority of Shu's team to take them on, until 's placed Magmar in a hot spring of its own. After Magmar found the hot springs, Yuta apologized for his actions and was subsequently chased by Magmar."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yūta (GDZ)",
+    "pageType": "character",
+    "searchableText": "Yūta (GDZ)\nCategory:Pokémon: Yeah! I Got Pokémon! characters\n----\n \n(Japanese: ユウタ Yūta) is a character from the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 525,
+    "sectionCount": 2
+  }
+}

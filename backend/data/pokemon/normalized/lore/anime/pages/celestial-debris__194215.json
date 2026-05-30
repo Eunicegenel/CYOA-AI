@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Celestial Debris",
+    "slug": "celestial-debris",
+    "pageId": 194215,
+    "revisionId": 4527743
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Planetarium specials",
+    "sourceFileName": "celestial-debris__194215.json",
+    "revisionTimestamp": "2026-04-09T15:51:33Z",
+    "fetchedAt": "2026-05-14T14:08:58.747Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "(Japanese: ポケットモンスター ＸＹ XY: Celestial Debris) is an animated series special that is shown at various planetariums and museums in Japan, being the fifth of such specials. It debuted at the Planetarium in on July 12, 2014. It is 40 minutes long, including a presentation about the summer sky.",
+  "plainText": "(Japanese: ポケットモンスター ＸＹ XY: Celestial Debris) is an animated series special that is shown at various planetariums and museums in Japan, being the fifth of such specials. It debuted at the Planetarium in on July 12, 2014. It is 40 minutes long, including a presentation about the summer sky.\n\n==Blurb==\n \nThe story starts with Satoshi and friends paying a visit to PAXA, an organisation which does research and development on space. Satoshi and friends get excited hearing about the wonders of space and the Pokémon that might be found in space from a female astronaut stationed at PAXA. However, they also learn of the crisis caused by the threat of space debris, and the growing problem of space junk, when suddenly a siren rings out. Shockingly, Team Rocket have infiltrated PAXA, aiming to hijack the facility. In the midst of this emergency, trouble also occurs with the man-made satellite defense system. If nothing is done, it will crash into a large piece of debris, which in turn has the risk of causing even more space debris. If there's any more space debris, then the space around the planet will be full, and mankind will have its path to space closed off forever.\n\n==Airings==\n \n\n==Plot==\n \n\n==Characters==\n\n===Humans===\n\nJessie\nJames\nAstronaut\n\n===Pokémon===\n( )\n( )\n( )\n( )\n(hologram)\n\n==External links==\n \nPromotional PDF (archive)\nDiscovery Park Yaizu event page (archive)\nPokémon Sunshine City 2015 (archive)\nDogasu's Backpack\nTrailer\n\n \n \n\n \n\nes:PL05\nzh:寶可夢 天文館 第5集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケットモンスター ＸＹ XY: Celestial Debris) is an animated series special that is shown at various planetariums and museums in Japan, being the fifth of such specials. It debuted at the Planetarium in on July 12, 2014. It is 40 minutes long, including a presentation about the summer sky."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "The story starts with Satoshi and friends paying a visit to PAXA, an organisation which does research and development on space. Satoshi and friends get excited hearing about the wonders of space and the Pokémon that might be found in space from a female astronaut stationed at PAXA. However, they also learn of the crisis caused by the threat of space debris, and the growing problem of space junk, when suddenly a siren rings out. Shockingly, Team Rocket have infiltrated PAXA, aiming to hijack the facility. In the midst of this emergency, trouble also occurs with the man-made satellite defense system. If nothing is done, it will crash into a large piece of debris, which in turn has the risk of causing even more space debris. If there's any more space debris, then the space around the planet will be full, and mankind will have its path to space closed off forever."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jessie\nJames\nAstronaut"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n(hologram)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Promotional PDF (archive)\nDiscovery Park Yaizu event page (archive)\nPokémon Sunshine City 2015 (archive)\nDogasu's Backpack\nTrailer\n\n \n \n\n \n\nes:PL05\nzh:寶可夢 天文館 第5集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Celestial Debris",
+    "pageType": "general-anime-lore",
+    "searchableText": "Celestial Debris\nCategory:Planetarium specials\n(Japanese: ポケットモンスター ＸＹ XY: Celestial Debris) is an animated series special that is shown at various planetariums and museums in Japan, being the fifth of such specials. It debuted at the Planetarium in on July 12, 2014. It is 40 minutes long, including a presentation about the summer sky.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Humans",
+      "Pokémon",
+      "External links"
+    ],
+    "characterCount": 1484,
+    "sectionCount": 5
+  }
+}

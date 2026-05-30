@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Edmund",
+    "slug": "edmund",
+    "pageId": 156365,
+    "revisionId": 4096079
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "edmund__156365.json",
+    "revisionTimestamp": "2024-09-01T00:49:35Z",
+    "fetchedAt": "2026-05-14T14:14:57.559Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Edmund (Japanese: エドモンド Edmund) is a character of the day who appeared in The Clubsplosion Begins!. He was Stephan's first opponent in the Clubsplosion tournament.\n\nEdmund has earned the nickname \"Rain Man\", to account for the fact that every time he battles, a rainstorm suddenly appears over him. His battle with Stephan was no exception, and he was confident that he would be victorious because of his 's Ability, . However, he did not count on Seismitoad getting injured and thus slowing down, which led to his loss.\n\nEdmund usually appears to be quite meek and timid, but he is uncharacteristically more aggressive in battle. He is a strategic and adaptable , often having Seismitoad use a combination of its speed and to keep its opponent distant.",
+  "plainText": "Edmund (Japanese: エドモンド Edmund) is a character of the day who appeared in The Clubsplosion Begins!. He was Stephan's first opponent in the Clubsplosion tournament.\n\nEdmund has earned the nickname \"Rain Man\", to account for the fact that every time he battles, a rainstorm suddenly appears over him. His battle with Stephan was no exception, and he was confident that he would be victorious because of his 's Ability, . However, he did not count on Seismitoad getting injured and thus slowing down, which led to his loss.\n\nEdmund usually appears to be quite meek and timid, but he is uncharacteristically more aggressive in battle. He is a strategic and adaptable , often having Seismitoad use a combination of its speed and to keep its opponent distant.\n\n==Pokémon==\n \n\n==Pokémon competitions==\nEdmund has competed in the following :\nClubsplosion - Top 16 (The Clubsplosion Begins!)\n\n==Voice actors==\n \n\n \n\n \n \n \n\nes:Edmund/Edmundo\nfr:Edmund\nit:Edmund\nzh:艾多蒙",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Edmund (Japanese: エドモンド Edmund) is a character of the day who appeared in The Clubsplosion Begins!. He was Stephan's first opponent in the Clubsplosion tournament.\n\nEdmund has earned the nickname \"Rain Man\", to account for the fact that every time he battles, a rainstorm suddenly appears over him. His battle with Stephan was no exception, and he was confident that he would be victorious because of his 's Ability, . However, he did not count on Seismitoad getting injured and thus slowing down, which led to his loss.\n\nEdmund usually appears to be quite meek and timid, but he is uncharacteristically more aggressive in battle. He is a strategic and adaptable , often having Seismitoad use a combination of its speed and to keep its opponent distant."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Edmund has competed in the following :\nClubsplosion - Top 16 (The Clubsplosion Begins!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Edmund/Edmundo\nfr:Edmund\nit:Edmund\nzh:艾多蒙"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Edmund",
+    "pageType": "character",
+    "searchableText": "Edmund\nCategory:Unova characters of the day\nEdmund (Japanese: エドモンド Edmund) is a character of the day who appeared in The Clubsplosion Begins!. He was Stephan's first opponent in the Clubsplosion tournament.\n\nEdmund has earned the nickname \"Rain Man\", to account for the fact that every time he battles, a rainstorm suddenly appears over him. His battle with Stephan was no exception, and he was confident that he would be victorious because of his 's Ability, . However, he did not count on Seismitoad getting injured and thus slowing down, which led to his loss.\n\nEdmund usually appears to be quite meek and timid, but he is uncharacteristically more aggressive in battle. He is a strategic and adaptable , often having Seismitoad use a combination of its speed and to keep its opponent distant.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 958,
+    "sectionCount": 3
+  }
+}

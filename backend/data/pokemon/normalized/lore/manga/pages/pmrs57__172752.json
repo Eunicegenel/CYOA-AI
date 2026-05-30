@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS57",
+    "slug": "pmrs57",
+    "pageId": 172752,
+    "revisionId": 4296723
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs57__172752.json",
+    "revisionTimestamp": "2025-05-09T03:17:03Z",
+    "fetchedAt": "2026-05-14T15:33:48.289Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Spring Cleaning Mayhem! (Japanese: きれいにしすぎな大掃除！？ Overly Clean Spring Cleaning !? ) is the fifty-seventh chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Spring Cleaning Mayhem! (Japanese: きれいにしすぎな大掃除！？ Overly Clean Spring Cleaning !? ) is the fifty-seventh chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Spring Cleaning Mayhem! (Japanese: きれいにしすぎな大掃除！？ Overly Clean Spring Cleaning !? ) is the fifty-seventh chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS57",
+    "pageType": "chapter",
+    "searchableText": "PMRS57\nCategory:Pokémon Ruby-Sapphire chapters\nSpring Cleaning Mayhem! (Japanese: きれいにしすぎな大掃除！？ Overly Clean Spring Cleaning !? ) is the fifty-seventh chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 271,
+    "sectionCount": 2
+  }
+}

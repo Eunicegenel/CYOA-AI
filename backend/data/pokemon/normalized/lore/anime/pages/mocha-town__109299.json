@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Mocha Town",
+    "slug": "mocha-town",
+    "pageId": 109299,
+    "revisionId": 4261023
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "mocha-town__109299.json",
+    "revisionTimestamp": "2025-03-19T21:49:10Z",
+    "fetchedAt": "2026-05-14T14:37:47.132Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Mocha Town (Japanese: ミカワタウン Mikawa Town) is the hometown of Jeffrey. It was mentioned in Gymbaliar!. It is unknown where it is located, but it is thought to be located in Sinnoh.\n\n \n \n \n\n \n\nit:Mocha Town\nzh:美川鎮",
+  "plainText": "Mocha Town (Japanese: ミカワタウン Mikawa Town) is the hometown of Jeffrey. It was mentioned in Gymbaliar!. It is unknown where it is located, but it is thought to be located in Sinnoh.\n\n \n \n \n\n \n\nit:Mocha Town\nzh:美川鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mocha Town (Japanese: ミカワタウン Mikawa Town) is the hometown of Jeffrey. It was mentioned in Gymbaliar!. It is unknown where it is located, but it is thought to be located in Sinnoh.\n\n \n \n \n\n \n\nit:Mocha Town\nzh:美川鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mocha Town",
+    "pageType": "location",
+    "searchableText": "Mocha Town\nCategory:Animated series-exclusive locations\nMocha Town (Japanese: ミカワタウン Mikawa Town) is the hometown of Jeffrey. It was mentioned in Gymbaliar!. It is unknown where it is located, but it is thought to be located in Sinnoh.\n\n \n \n \n\n \n\nit:Mocha Town\nzh:美川鎮",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 211,
+    "sectionCount": 1
+  }
+}

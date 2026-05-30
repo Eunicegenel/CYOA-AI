@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMHGSS10",
+    "slug": "pmhgss10",
+    "pageId": 176446,
+    "revisionId": 4528668
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS chapters",
+    "sourceFileName": "pmhgss10__176446.json",
+    "revisionTimestamp": "2026-04-09T16:33:40Z",
+    "fetchedAt": "2026-05-14T15:32:57.106Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 目指せ優勝！バルキー猛特訓 Aim for Victory! Training Extra Hard) is the 10th chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 目指せ優勝！バルキー猛特訓 Aim for Victory! Training Extra Hard) is the 10th chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 目指せ優勝！バルキー猛特訓 Aim for Victory! Training Extra Hard) is the 10th chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMHGSS10",
+    "pageType": "chapter",
+    "searchableText": "PMHGSS10\nCategory:Pocket Monsters HGSS chapters\n(Japanese: 目指せ優勝！バルキー猛特訓 Aim for Victory! Training Extra Hard) is the 10th chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 263,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "P7-13",
+    "slug": "p7-13",
+    "pageId": 233171,
+    "revisionId": 4527078
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Phantom Thief Pokémon 7 chapters",
+    "sourceFileName": "p7-13__233171.json",
+    "revisionTimestamp": "2026-04-09T15:18:38Z",
+    "fetchedAt": "2026-05-14T15:28:09.501Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the thirteenth chapter of the Phantom Thief Pokémon 7 manga. It was never collected into volume format.",
+  "plainText": "This is the thirteenth chapter of the Phantom Thief Pokémon 7 manga. It was never collected into volume format.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHiori\n\n===Pokémon===\n( )\n(Hiori's)\n( 's)\n\n==Trivia==\n\n \n \n\nzh:快盗！宝可梦７ 第13话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the thirteenth chapter of the Phantom Thief Pokémon 7 manga. It was never collected into volume format."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hiori"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Hiori's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "zh:快盗！宝可梦７ 第13话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "P7-13",
+    "pageType": "chapter",
+    "searchableText": "P7-13\nCategory:Phantom Thief Pokémon 7 chapters\nThis is the thirteenth chapter of the Phantom Thief Pokémon 7 manga. It was never collected into volume format.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 282,
+    "sectionCount": 4
+  }
+}

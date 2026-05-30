@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Wilkinson",
+    "slug": "wilkinson",
+    "pageId": 85187,
+    "revisionId": 4373197
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "wilkinson__85187.json",
+    "revisionTimestamp": "2025-09-05T19:02:43Z",
+    "fetchedAt": "2026-05-14T14:57:45.099Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Wilkinson (Japanese: ワタナベ Watanabe) is a character of the day who appeared in To Thine Own Pokémon Be True!. He beat and in the Pokémon Ping Pong Tournament with his . He then lost to and .",
+  "plainText": "Wilkinson (Japanese: ワタナベ Watanabe) is a character of the day who appeared in To Thine Own Pokémon Be True!. He beat and in the Pokémon Ping Pong Tournament with his . He then lost to and .\n \n==Pokémon==\n \nThis listing is of Wilkinson's known in :\n \n\n==Pokémon competitions==\nWilkinson has competed in the following :\nPokémon Ping Pong Tournament - Top 16 (To Thine Own Pokémon Be True!)\n\n==Voice actors==\n \n\n \n \n \n \n \n\nes:Wilkinson\nfr:Wilkinson\nit:Wilkinson\nzh:渡边（DP122）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Wilkinson (Japanese: ワタナベ Watanabe) is a character of the day who appeared in To Thine Own Pokémon Be True!. He beat and in the Pokémon Ping Pong Tournament with his . He then lost to and ."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Wilkinson's known in :"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Wilkinson has competed in the following :\nPokémon Ping Pong Tournament - Top 16 (To Thine Own Pokémon Be True!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Wilkinson\nfr:Wilkinson\nit:Wilkinson\nzh:渡边（DP122）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Wilkinson",
+    "pageType": "character",
+    "searchableText": "Wilkinson\nCategory:Sinnoh characters of the day\nWilkinson (Japanese: ワタナベ Watanabe) is a character of the day who appeared in To Thine Own Pokémon Be True!. He beat and in the Pokémon Ping Pong Tournament with his . He then lost to and .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 471,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Tasuku Hatanaka",
+    "slug": "tasuku-hatanaka",
+    "pageId": 344740,
+    "revisionId": 4491911
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "tasuku-hatanaka__344740.json",
+    "revisionTimestamp": "2026-02-23T12:38:19Z",
+    "fetchedAt": "2026-05-14T14:53:10.175Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Tasuku Hatanaka (Japanese: 畠中 祐 Tasuku Hatanaka) is a Japanese voice actor for .",
+  "plainText": "Tasuku Hatanaka (Japanese: 畠中 祐 Tasuku Hatanaka) is a Japanese voice actor for .\n\n==Biography==\nHatanaka was born on August 17, 1994, in , . He started work on the with , where he voiced Jacq. Hatanaka would gain additional roles including Roy's Kilowattrel and . He is married to fellow voice actor Sayaka Senbongi.\n\n==Pokémon roles==\n===Animation===\n==== ====\n======Humans======\nJacq\n\n======Pokémon======\nRoy's Kilowattrel\n\nMurdock's Lycanroc\nDot's Gimmighoul and Gholdengo\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\n( )\nIkoma ( )\nTaiga Kōgami ( )\nDenki Kaminari ( )\nShōhei Kaga ( )\nUltraman Z ( )\n\n==External links==\nAnime News Network\nKen Production profile\n\n \n\n \n\nit:Tasuku Hatanaka\nja:畠中祐",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tasuku Hatanaka (Japanese: 畠中 祐 Tasuku Hatanaka) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hatanaka was born on August 17, 1994, in , . He started work on the with , where he voiced Jacq. Hatanaka would gain additional roles including Roy's Kilowattrel and . He is married to fellow voice actor Sayaka Senbongi."
+    },
+    {
+      "heading": "Humans",
+      "level": 6,
+      "text": "Jacq"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 6,
+      "text": "Roy's Kilowattrel\n\nMurdock's Lycanroc\nDot's Gimmighoul and Gholdengo"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "( )\nIkoma ( )\nTaiga Kōgami ( )\nDenki Kaminari ( )\nShōhei Kaga ( )\nUltraman Z ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anime News Network\nKen Production profile\n\n \n\n \n\nit:Tasuku Hatanaka\nja:畠中祐"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tasuku Hatanaka",
+    "pageType": "general-anime-lore",
+    "searchableText": "Tasuku Hatanaka\nCategory:Japanese voice actors\nTasuku Hatanaka (Japanese: 畠中 祐 Tasuku Hatanaka) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 726,
+    "sectionCount": 6
+  }
+}

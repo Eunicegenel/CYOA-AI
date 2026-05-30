@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pershie",
+    "slug": "pershie",
+    "pageId": 234195,
+    "revisionId": 4352699
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters (Pokémon)",
+    "sourceFileName": "pershie__234195.json",
+    "revisionTimestamp": "2025-08-05T03:09:59Z",
+    "fetchedAt": "2026-05-14T14:41:10.143Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Pershie (Japanese: ペルちゃん Per-chan) is an owned by a . It tends to wander around the streets of Hau'oli City.",
+  "plainText": "Pershie (Japanese: ペルちゃん Per-chan) is an owned by a . It tends to wander around the streets of Hau'oli City.\n\n==History==\n \nPershie first appeared in That's Why the Litten is a Scamp!, where it stole food from . It was later seen confronting Litten but was stopped by and . It later reappeared to seek revenge, only to be seen off.\n\nIn Dummy, You Shrunk the Kids!, it chased Ash, , and after they were shrunk by 's latest invention. Later, Mallow's Tsareena intervened and shaved off some of Pershie's fur.\n\nIn We Know Where You're Going, Eevee!, Pershie was sitting outside a store while its was trying on several pieces of jewelry. It soon spotted an Eevee and gave chase. Lana's Popplio went on to save using its , and the trail of water led Pershie to slip. Though Pershie saw Popplio and Eevee fall into a canal, it abandoned the pursuit after its Trainer called it back.\n\n==Personality and characteristics==\nPershie appears to live a life of luxury and is treated more like a pet by its . However, it is characteristically cruel and manipulative. It enjoys tormenting its victims and is a non-relenting pursuer. It uses its sheer size and sharp claws to intimidate opponents. Despite its manner, it will quickly flee when injured in .\n\nIts cunning behavior was showcased in We Know Where You're Going, Eevee!, where it pretended to be friendly in order to lure an Eevee to come closer.\n\n==Moves used==\n \n \n \n \n\n==Related articles==\n \n\n \n\n \n\nit:Pershie",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pershie (Japanese: ペルちゃん Per-chan) is an owned by a . It tends to wander around the streets of Hau'oli City."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Pershie first appeared in That's Why the Litten is a Scamp!, where it stole food from . It was later seen confronting Litten but was stopped by and . It later reappeared to seek revenge, only to be seen off.\n\nIn Dummy, You Shrunk the Kids!, it chased Ash, , and after they were shrunk by 's latest invention. Later, Mallow's Tsareena intervened and shaved off some of Pershie's fur.\n\nIn We Know Where You're Going, Eevee!, Pershie was sitting outside a store while its was trying on several pieces of jewelry. It soon spotted an Eevee and gave chase. Lana's Popplio went on to save using its , and the trail of water led Pershie to slip. Though Pershie saw Popplio and Eevee fall into a canal, it abandoned the pursuit after its Trainer called it back."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 2,
+      "text": "Pershie appears to live a life of luxury and is treated more like a pet by its . However, it is characteristically cruel and manipulative. It enjoys tormenting its victims and is a non-relenting pursuer. It uses its sheer size and sharp claws to intimidate opponents. Despite its manner, it will quickly flee when injured in .\n\nIts cunning behavior was showcased in We Know Where You're Going, Eevee!, where it pretended to be friendly in order to lure an Eevee to come closer."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Pershie"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pershie",
+    "pageType": "character",
+    "searchableText": "Pershie\nCategory:Animation characters (Pokémon)\nPershie (Japanese: ペルちゃん Per-chan) is an owned by a . It tends to wander around the streets of Hau'oli City.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Personality and characteristics",
+      "Related articles"
+    ],
+    "characterCount": 1457,
+    "sectionCount": 4
+  }
+}

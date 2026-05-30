@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GDZ56",
+    "slug": "gdz56",
+    "pageId": 188447,
+    "revisionId": 4526210
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz56__188447.json",
+    "revisionTimestamp": "2026-04-09T14:24:37Z",
+    "fetchedAt": "2026-05-14T15:19:57.220Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ゲームセンター大パニック！ Panic at the Game Center!) is the 56th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ゲームセンター大パニック！ Panic at the Game Center!) is the 56th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n(in game)\n(in game)\n\n==Characters==\n===Humans===\nShu\nGame center customers\nGame center staff\n\n===Pokémon===\n( )\n\n(in game)\n(in game)\n(in game)\n(in game)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ゲームセンター大パニック！ Panic at the Game Center!) is the 56th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(in game)\n(in game)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nGame center customers\nGame center staff"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n\n(in game)\n(in game)\n(in game)\n(in game)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ56",
+    "pageType": "chapter",
+    "searchableText": "GDZ56\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ゲームセンター大パニック！ Panic at the Game Center!) is the 56th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 336,
+    "sectionCount": 4
+  }
+}

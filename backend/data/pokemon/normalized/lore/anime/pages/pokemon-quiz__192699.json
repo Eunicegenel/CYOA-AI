@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Quiz",
+    "slug": "pokemon-quiz",
+    "pageId": 192699,
+    "revisionId": 4317543
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series segments",
+    "sourceFileName": "pokemon-quiz__192699.json",
+    "revisionTimestamp": "2025-06-08T19:09:27Z",
+    "fetchedAt": "2026-05-14T14:43:19.550Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Quiz (Japanese: Pokémon Quiz) is a question-and-answer segment used in the Japanese and Korean versions of Pokémon the Series: XY, as opposed to the Who's That Pokémon? segment used in the English dub.\n\nEach Pokémon Quiz starts by featuring the silhouette of a Pokémon on a large card. Then, to the right, four smaller cards with silhouettes appear. One card has a silhouette identical to the first, two have silhouettes of similar Pokémon species, and the remaining has the silhouette of . The objective is for the viewers to find the matching card and remember its location. After the commercial break, the quiz reveals the solution, as well as the identities of the Pokémon species silhouetted.",
+  "plainText": "Pokémon Quiz (Japanese: Pokémon Quiz) is a question-and-answer segment used in the Japanese and Korean versions of Pokémon the Series: XY, as opposed to the Who's That Pokémon? segment used in the English dub.\n\nEach Pokémon Quiz starts by featuring the silhouette of a Pokémon on a large card. Then, to the right, four smaller cards with silhouettes appear. One card has a silhouette identical to the first, two have silhouettes of similar Pokémon species, and the remaining has the silhouette of . The objective is for the viewers to find the matching card and remember its location. After the commercial break, the quiz reveals the solution, as well as the identities of the Pokémon species silhouetted.\n\n==List of quizzes==\nThe correct answers are in bold.\n=== ===\n \n\n=== ===\n \n\n==Trivia==\nA running gag is that whenever hosts the segment, James gets cut off or has trouble saying his part.\nIn XY010, two cards presenting Piplup and Oshawott below right to Chespin and Team Rocket decoy cards are likely a reference to and .\nXY051 and XY079 are the only episodes that don't present the Team Rocket decoy card.\nXY078 is the only episode not to feature this segment.\nIn XY087, the answer is , but only its silhouette is shown.\nIn XY133 and XY136, the two other Pokémon, and in XY133 and and in XY136 are Pokémon that Ash has.\n\n==In other languages==\n \n\n==Related articles==\nPoké TV\nPoké Problem\n\n \n \n\nes:Pokémon Quiz\nit:Pokémon Quiz\nzh:寶可夢猜謎",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Quiz (Japanese: Pokémon Quiz) is a question-and-answer segment used in the Japanese and Korean versions of Pokémon the Series: XY, as opposed to the Who's That Pokémon? segment used in the English dub.\n\nEach Pokémon Quiz starts by featuring the silhouette of a Pokémon on a large card. Then, to the right, four smaller cards with silhouettes appear. One card has a silhouette identical to the first, two have silhouettes of similar Pokémon species, and the remaining has the silhouette of . The objective is for the viewers to find the matching card and remember its location. After the commercial break, the quiz reveals the solution, as well as the identities of the Pokémon species silhouetted."
+    },
+    {
+      "heading": "List of quizzes",
+      "level": 2,
+      "text": "The correct answers are in bold."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "A running gag is that whenever hosts the segment, James gets cut off or has trouble saying his part.\nIn XY010, two cards presenting Piplup and Oshawott below right to Chespin and Team Rocket decoy cards are likely a reference to and .\nXY051 and XY079 are the only episodes that don't present the Team Rocket decoy card.\nXY078 is the only episode not to feature this segment.\nIn XY087, the answer is , but only its silhouette is shown.\nIn XY133 and XY136, the two other Pokémon, and in XY133 and and in XY136 are Pokémon that Ash has."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Poké TV\nPoké Problem\n\n \n \n\nes:Pokémon Quiz\nit:Pokémon Quiz\nzh:寶可夢猜謎"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Quiz",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Quiz\nCategory:Animated series segments\nPokémon Quiz (Japanese: Pokémon Quiz) is a question-and-answer segment used in the Japanese and Korean versions of Pokémon the Series: XY, as opposed to the Who's That Pokémon? segment used in the English dub.\n\nEach Pokémon Quiz starts by featuring the silhouette of a Pokémon on a large card. Then, to the right, four smaller cards with silhouettes appear. One card has a silhouette identical to the first, two have silhouettes of similar Pokémon species, and the remaining has the silhouette of . The objective is for the viewers to find the matching card and remember its location. After the commercial break, the quiz reveals the solution, as well as the identities of the Pokémon species silhouetted.",
+    "sectionHeadings": [
+      "Lead",
+      "List of quizzes",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1442,
+    "sectionCount": 4
+  }
+}

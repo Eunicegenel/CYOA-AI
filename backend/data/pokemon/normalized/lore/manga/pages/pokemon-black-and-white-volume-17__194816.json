@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Black and White volume 17",
+    "slug": "pokemon-black-and-white-volume-17",
+    "pageId": 194816,
+    "revisionId": 4527725
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-black-and-white-volume-17__194816.json",
+    "revisionTimestamp": "2026-04-09T15:51:04Z",
+    "fetchedAt": "2026-05-14T15:35:56.559Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 17 is the seventeenth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As part of VIZ Media's Pokémon Black and White series, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 17 is the seventeenth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As part of VIZ Media's Pokémon Black and White series, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n \n\n==Chapters==\nAdventure 55 - Into the Quarterfinals!\nAdventure 56 - The Tournament Continues\nAdventure 57 - The Shadow Triad\n\n \n \n\nde:Band 17 (Pokémon Black and White)\nes:Tomo 17 (Pokémon Black and White)\nfr:Volume 17 (Pokémon Black and White)\nit:Pokémon Nero e Bianco volume 17",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 17 is the seventeenth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As part of VIZ Media's Pokémon Black and White series, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 55 - Into the Quarterfinals!\nAdventure 56 - The Tournament Continues\nAdventure 57 - The Shadow Triad\n\n \n \n\nde:Band 17 (Pokémon Black and White)\nes:Tomo 17 (Pokémon Black and White)\nfr:Volume 17 (Pokémon Black and White)\nit:Pokémon Nero e Bianco volume 17"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Black and White volume 17",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Black and White volume 17\nCategory:Pokémon Adventures volumes\nVolume 17 is the seventeenth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As part of VIZ Media's Pokémon Black and White series, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 635,
+    "sectionCount": 2
+  }
+}

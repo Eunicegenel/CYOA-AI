@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Doug and Eva",
+    "slug": "doug-and-eva",
+    "pageId": 257935,
+    "revisionId": 4287817
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "doug-and-eva__257935.json",
+    "revisionTimestamp": "2025-04-26T13:54:49Z",
+    "fetchedAt": "2026-05-14T14:12:19.638Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Doug (Japanese: ダグ Doug) and Eva (Japanese: エバ Eva) are a father and daughter who live in an unnamed town in southern Galar. They are characters of the day who appeared in the episode Sword and Shield, Slumbering Weald!.",
+  "plainText": "Doug (Japanese: ダグ Doug) and Eva (Japanese: エバ Eva) are a father and daughter who live in an unnamed town in southern Galar. They are characters of the day who appeared in the episode Sword and Shield, Slumbering Weald!.\n\n==In animation==\n===History===\nEva was feeding her father's , nicknamed Centy, some Oran Berries, when it was suddenly hit by a beam of Dynamax energy that came all the way from the Energy Plant in Hammerlocke. This caused Centy to Gigantamax and go on a rampage throughout the town. Shortly afterwards, arrived at the town and met up with Doug and Eva. After talking to them, Ash promised to stop Centy and return it to normal. After failing to do so, stepped in and defeated Centy with his . The Radiator Pokémon subsequently returned to normal and reunited with Doug and Eva.\n\n===Pokémon===\n====Doug====\nThis listing is of Doug's known Pokémon:\n \n\n===Voice actors===\n \n\n \n\n==In the manga==\n \n===Pokémon Journeys===\nDoug and Eva appeared in Sword and Shield... The Legends Awaken! (Part 1), serving the same role as in the animated series.\n\n====Pokémon====\n=====Doug=====\nThis listing is of Doug's known Pokémon:\n \n\n==Trivia==\nClosed captions for the English dub refer to Doug as man‬.\n \n \n\n \n \n \n\nes:Doug y Eva\nit:Doug ed Eva\nzh:道格和伊娃",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Doug (Japanese: ダグ Doug) and Eva (Japanese: エバ Eva) are a father and daughter who live in an unnamed town in southern Galar. They are characters of the day who appeared in the episode Sword and Shield, Slumbering Weald!."
+    },
+    {
+      "heading": "History",
+      "level": 3,
+      "text": "Eva was feeding her father's , nicknamed Centy, some Oran Berries, when it was suddenly hit by a beam of Dynamax energy that came all the way from the Energy Plant in Hammerlocke. This caused Centy to Gigantamax and go on a rampage throughout the town. Shortly afterwards, arrived at the town and met up with Doug and Eva. After talking to them, Ash promised to stop Centy and return it to normal. After failing to do so, stepped in and defeated Centy with his . The Radiator Pokémon subsequently returned to normal and reunited with Doug and Eva."
+    },
+    {
+      "heading": "Doug",
+      "level": 4,
+      "text": "This listing is of Doug's known Pokémon:"
+    },
+    {
+      "heading": "Pokémon Journeys",
+      "level": 3,
+      "text": "Doug and Eva appeared in Sword and Shield... The Legends Awaken! (Part 1), serving the same role as in the animated series."
+    },
+    {
+      "heading": "Doug",
+      "level": 5,
+      "text": "This listing is of Doug's known Pokémon:"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Closed captions for the English dub refer to Doug as man‬.\n \n \n\n \n \n \n\nes:Doug y Eva\nit:Doug ed Eva\nzh:道格和伊娃"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Doug and Eva",
+    "pageType": "character",
+    "searchableText": "Doug and Eva\nCategory:Journeys characters of the day\nDoug (Japanese: ダグ Doug) and Eva (Japanese: エバ Eva) are a father and daughter who live in an unnamed town in southern Galar. They are characters of the day who appeared in the episode Sword and Shield, Slumbering Weald!.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Doug",
+      "Pokémon Journeys",
+      "Doug",
+      "Trivia"
+    ],
+    "characterCount": 1259,
+    "sectionCount": 6
+  }
+}

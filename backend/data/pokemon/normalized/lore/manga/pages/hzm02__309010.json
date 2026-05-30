@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "HZM02",
+    "slug": "hzm02",
+    "pageId": 309010,
+    "revisionId": 4322667
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Anime Pocket Monsters: Liko and Roy's Adventure chapters",
+    "sourceFileName": "hzm02__309010.json",
+    "revisionTimestamp": "2025-06-22T17:32:02Z",
+    "fetchedAt": "2026-05-14T15:21:57.513Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ガラルファイヤー VS ) is the second regular chapter of the manga. It was first published in the January 2024 issue of CoroCoro Comics, released on December 15, 2023. It is based on the episodes Charge! Galar Mine! and Fiery Galarian Moltres. It is 49 pages long, including the color cover.",
+  "plainText": "(Japanese: ガラルファイヤー VS ) is the second regular chapter of the manga. It was first published in the January 2024 issue of CoroCoro Comics, released on December 15, 2023. It is based on the episodes Charge! Galar Mine! and Fiery Galarian Moltres. It is 49 pages long, including the color cover.\n\n==Plot==\n \n\n==Major events==\nLiko and Roy are revealed to have joined the Rising Volt Tacklers.\nLiko is revealed to have a .\nA is revealed to have emerged from Liko's pendant before.\nThe Rising Volt Tacklers encounter Amethio again.\nLiko and Roy encounter Lucius's third Pokémon, a .\nLiko is revealed to have taken under her care Lucius's second Pokémon, a .\nRoy is revealed to have a .\nLucius's Galarian Moltres goes inside the third Ancient Poké Ball and is taken under Liko's care.\nThe mysterious Pokémon emerges from Liko's pendant again, but does not change back.\n\n===Debuts===\n====Humans====\nDot (in person)\nNurse Joy\nLucius (illusion)\n\n====Pokémon debuts====\n( )\n( ; )\n\n( ; Galarian Form)\n( ; )\n( )\n\n==Characters==\n===Humans===\nLiko\nRoy\nFriede\nMollie\nOrla\nLudlow\nMurdock\nDot\nAmethio\nLucius (illusion)\nNurse Joy\nMiners\n\n===Pokémon===\n( )\n( )\n(Liko's; Rotom Phone)\n( )\n( )\n( )\n(Friede's; Captain Pikachu)\n( )\n(Dot's; Rotom Phone)\n( )\n(Lucius's; Black Rayquaza)\n( ; )\n( ; Galarian Form)\n( ; )\n\n==Differences between the animated series and the manga==\n \n\n==References==\n \n\n \n \n \n\nit:HZM02",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ガラルファイヤー VS ) is the second regular chapter of the manga. It was first published in the January 2024 issue of CoroCoro Comics, released on December 15, 2023. It is based on the episodes Charge! Galar Mine! and Fiery Galarian Moltres. It is 49 pages long, including the color cover."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Liko and Roy are revealed to have joined the Rising Volt Tacklers.\nLiko is revealed to have a .\nA is revealed to have emerged from Liko's pendant before.\nThe Rising Volt Tacklers encounter Amethio again.\nLiko and Roy encounter Lucius's third Pokémon, a .\nLiko is revealed to have taken under her care Lucius's second Pokémon, a .\nRoy is revealed to have a .\nLucius's Galarian Moltres goes inside the third Ancient Poké Ball and is taken under Liko's care.\nThe mysterious Pokémon emerges from Liko's pendant again, but does not change back."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Dot (in person)\nNurse Joy\nLucius (illusion)"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( ; )\n\n( ; Galarian Form)\n( ; )\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Liko\nRoy\nFriede\nMollie\nOrla\nLudlow\nMurdock\nDot\nAmethio\nLucius (illusion)\nNurse Joy\nMiners"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Liko's; Rotom Phone)\n( )\n( )\n( )\n(Friede's; Captain Pikachu)\n( )\n(Dot's; Rotom Phone)\n( )\n(Lucius's; Black Rayquaza)\n( ; )\n( ; Galarian Form)\n( ; )"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:HZM02"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "HZM02",
+    "pageType": "chapter",
+    "searchableText": "HZM02\nCategory:Anime Pocket Monsters: Liko and Roy's Adventure chapters\n(Japanese: ガラルファイヤー VS ) is the second regular chapter of the manga. It was first published in the January 2024 issue of CoroCoro Comics, released on December 15, 2023. It is based on the episodes Charge! Galar Mine! and Fiery Galarian Moltres. It is 49 pages long, including the color cover.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "References"
+    ],
+    "characterCount": 1386,
+    "sectionCount": 7
+  }
+}

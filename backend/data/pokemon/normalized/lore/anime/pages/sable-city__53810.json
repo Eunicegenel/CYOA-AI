@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Sable City",
+    "slug": "sable-city",
+    "pageId": 53810,
+    "revisionId": 4261309
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "sable-city__53810.json",
+    "revisionTimestamp": "2025-03-19T21:52:37Z",
+    "fetchedAt": "2026-05-14T14:47:50.280Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Sable City (Japanese: サビシティ Sabi City) is a small -exclusive town located in Kanto, very close to Pewter City.\n\nIn The Ole' Berate and Switch!, Sable City held a one-day Pokémon Tournament, in which entered to train for his upcoming match at the Battle Pyramid. Ash participated with his , who helped him win against Howie and Oriba. However, Max accidentally discovered that Team Rocket's Butch and Cassidy had created the event as a scheme to steal all the competitors' Pokémon and give them to . Ash and joined forces with the other Trainers to defeat the plot, while the Team Rocket trio helped and decided to get their revenge on rivals Butch and Cassidy.",
+  "plainText": "Sable City (Japanese: サビシティ Sabi City) is a small -exclusive town located in Kanto, very close to Pewter City.\n\nIn The Ole' Berate and Switch!, Sable City held a one-day Pokémon Tournament, in which entered to train for his upcoming match at the Battle Pyramid. Ash participated with his , who helped him win against Howie and Oriba. However, Max accidentally discovered that Team Rocket's Butch and Cassidy had created the event as a scheme to steal all the competitors' Pokémon and give them to . Ash and joined forces with the other Trainers to defeat the plot, while the Team Rocket trio helped and decided to get their revenge on rivals Butch and Cassidy.\n\n==Pokémon seen in Sable City==\n \n\n \n \n\n \n\nde:Sable City\nes:Ciudad Sable\nit:Città dello Zibellino\nzh:沙比市",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sable City (Japanese: サビシティ Sabi City) is a small -exclusive town located in Kanto, very close to Pewter City.\n\nIn The Ole' Berate and Switch!, Sable City held a one-day Pokémon Tournament, in which entered to train for his upcoming match at the Battle Pyramid. Ash participated with his , who helped him win against Howie and Oriba. However, Max accidentally discovered that Team Rocket's Butch and Cassidy had created the event as a scheme to steal all the competitors' Pokémon and give them to . Ash and joined forces with the other Trainers to defeat the plot, while the Team Rocket trio helped and decided to get their revenge on rivals Butch and Cassidy."
+    },
+    {
+      "heading": "Pokémon seen in Sable City",
+      "level": 2,
+      "text": "de:Sable City\nes:Ciudad Sable\nit:Città dello Zibellino\nzh:沙比市"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sable City",
+    "pageType": "location",
+    "searchableText": "Sable City\nCategory:Animated series-exclusive locations\nSable City (Japanese: サビシティ Sabi City) is a small -exclusive town located in Kanto, very close to Pewter City.\n\nIn The Ole' Berate and Switch!, Sable City held a one-day Pokémon Tournament, in which entered to train for his upcoming match at the Battle Pyramid. Ash participated with his , who helped him win against Howie and Oriba. However, Max accidentally discovered that Team Rocket's Butch and Cassidy had created the event as a scheme to steal all the competitors' Pokémon and give them to . Ash and joined forces with the other Trainers to defeat the plot, while the Team Rocket trio helped and decided to get their revenge on rivals Butch and Cassidy.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon seen in Sable City"
+    ],
+    "characterCount": 765,
+    "sectionCount": 2
+  }
+}

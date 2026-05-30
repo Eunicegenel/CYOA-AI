@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Primary Colors",
+    "slug": "primary-colors",
+    "pageId": 198216,
+    "revisionId": 4132729
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "primary-colors__198216.json",
+    "revisionTimestamp": "2024-09-29T05:26:29Z",
+    "fetchedAt": "2026-05-14T15:39:37.862Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Primary Colors is the thirty-ninth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 49 and 50 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Primary Colors is the thirty-ninth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 49 and 50 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 89: The Might of... Metapod?!\nChapter 90: The Legend\n\n==Important events==\n\n \n \n\n \n\nfr:Volume 36 (Pokémon Adventures)\nit:Primary Colors",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Primary Colors is the thirty-ninth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 49 and 50 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 89: The Might of... Metapod?!\nChapter 90: The Legend"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "fr:Volume 36 (Pokémon Adventures)\nit:Primary Colors"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Primary Colors",
+    "pageType": "pokemon-related",
+    "searchableText": "Primary Colors\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Primary Colors is the thirty-ninth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 49 and 50 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 572,
+    "sectionCount": 3
+  }
+}

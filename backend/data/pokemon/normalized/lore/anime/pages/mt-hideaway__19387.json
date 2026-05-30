@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mt. Hideaway",
+    "slug": "mt-hideaway",
+    "pageId": 19387,
+    "revisionId": 4261157
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "mt-hideaway__19387.json",
+    "revisionTimestamp": "2025-03-19T21:50:52Z",
+    "fetchedAt": "2026-05-14T14:38:31.616Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Mount Hideaway (Japanese: ミヤーザーキ山 Mount Miyāzāki) is an -exclusive mountain located near Pallet Town. The rugged area is home to unusually large . Something in the soil causes the Onix to grow to gigantic proportions. \n\nIt is also a area for Kanto Elite Four member Bruno. While training for the Indigo Plateau Conference, and decided to find him and seek his advice on training in To Master the Onixpected!.",
+  "plainText": "Mount Hideaway (Japanese: ミヤーザーキ山 Mount Miyāzāki) is an -exclusive mountain located near Pallet Town. The rugged area is home to unusually large . Something in the soil causes the Onix to grow to gigantic proportions. \n\nIt is also a area for Kanto Elite Four member Bruno. While training for the Indigo Plateau Conference, and decided to find him and seek his advice on training in To Master the Onixpected!.\n\n==Pokémon seen at Mt. Hideaway==\n \n\n===Caught Pokémon===\n \n\n==In other languages==\n \n \n \n\n \n\nde:Mount Hideaway\nes:Monte Escondite/Oculto\nit:Monte Hideaway\nzh:米亞查山",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mount Hideaway (Japanese: ミヤーザーキ山 Mount Miyāzāki) is an -exclusive mountain located near Pallet Town. The rugged area is home to unusually large . Something in the soil causes the Onix to grow to gigantic proportions. \n\nIt is also a area for Kanto Elite Four member Bruno. While training for the Indigo Plateau Conference, and decided to find him and seek his advice on training in To Master the Onixpected!."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Mount Hideaway\nes:Monte Escondite/Oculto\nit:Monte Hideaway\nzh:米亞查山"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mt. Hideaway",
+    "pageType": "location",
+    "searchableText": "Mt. Hideaway\nCategory:Animated series-exclusive locations\nMount Hideaway (Japanese: ミヤーザーキ山 Mount Miyāzāki) is an -exclusive mountain located near Pallet Town. The rugged area is home to unusually large . Something in the soil causes the Onix to grow to gigantic proportions. \n\nIt is also a area for Kanto Elite Four member Bruno. While training for the Indigo Plateau Conference, and decided to find him and seek his advice on training in To Master the Onixpected!.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 572,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Manager (HZ109)",
+    "slug": "manager-hz109",
+    "pageId": 340624,
+    "revisionId": 4517487
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Horizons characters of the day",
+    "sourceFileName": "manager-hz109__340624.json",
+    "revisionTimestamp": "2026-03-27T09:33:29Z",
+    "fetchedAt": "2026-05-14T14:34:36.978Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The manager is a character of the day who appeared in Tinkatuff's Hammer Wasn't Made in a Year!. She appears to be an executive linked to Exceed and by extension to the Explorers, responsible for scheduling and arranging appointments and public appearances for Sidian and Coral.",
+  "plainText": "The manager is a character of the day who appeared in Tinkatuff's Hammer Wasn't Made in a Year!. She appears to be an executive linked to Exceed and by extension to the Explorers, responsible for scheduling and arranging appointments and public appearances for Sidian and Coral.\n\n \n==History==\nShe was first seen in Tinkatuff's Hammer Wasn't Made in a Year! when Sidian was approached by a crowd of his fans in front of a Japanese food restaurant; some time later, the manager was seen again removing Coral from the same conditions when she was seen by another group in a bakery.\n\nWith Vigoroth's help, she took the two Explorers to a , where she introduced herself and said she was responsible for scheduling their appointments. Upon arriving, she also asked the Cabbie to drive to a location in Paldea. When Coral refused, she threw them both into a Flying Taxi and forced the Cabbie to continue on his way.\n==Pokémon==\n \n\n==Voice actors==\n \n \n \n \n \n \n \n\nes:Representante (EP1345)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The manager is a character of the day who appeared in Tinkatuff's Hammer Wasn't Made in a Year!. She appears to be an executive linked to Exceed and by extension to the Explorers, responsible for scheduling and arranging appointments and public appearances for Sidian and Coral."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "She was first seen in Tinkatuff's Hammer Wasn't Made in a Year! when Sidian was approached by a crowd of his fans in front of a Japanese food restaurant; some time later, the manager was seen again removing Coral from the same conditions when she was seen by another group in a bakery.\n\nWith Vigoroth's help, she took the two Explorers to a , where she introduced herself and said she was responsible for scheduling their appointments. Upon arriving, she also asked the Cabbie to drive to a location in Paldea. When Coral refused, she threw them both into a Flying Taxi and forced the Cabbie to continue on his way."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Representante (EP1345)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Manager (HZ109)",
+    "pageType": "character",
+    "searchableText": "Manager (HZ109)\nCategory:Horizons characters of the day\nThe manager is a character of the day who appeared in Tinkatuff's Hammer Wasn't Made in a Year!. She appears to be an executive linked to Exceed and by extension to the Explorers, responsible for scheduling and arranging appointments and public appearances for Sidian and Coral.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Voice actors"
+    ],
+    "characterCount": 982,
+    "sectionCount": 3
+  }
+}

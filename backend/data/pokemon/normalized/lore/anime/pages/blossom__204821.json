@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Blossom",
+    "slug": "blossom",
+    "pageId": 204821,
+    "revisionId": 4381769
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Gym assistants",
+    "sourceFileName": "blossom__204821.json",
+    "revisionTimestamp": "2025-09-17T16:36:56Z",
+    "fetchedAt": "2026-05-14T14:05:33.632Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Blossom (Japanese: シオネ Shione) is a from the Laverre Gym. In , she is a recurring character who first appeared in A Fashionable Battle!.",
+  "plainText": "Blossom (Japanese: シオネ Shione) is a from the Laverre Gym. In , she is a recurring character who first appeared in A Fashionable Battle!.\n\n==In animation==\n===Pokémon the Series===\n==== ====\nBlossom is a loyal to Laverre City Gym Leader Valerie. She and another Furisode Girl, , were first seen spying on and when they were looking through Valerie's fashion collection. They thought they would be perfect to participate in a fashion show of Valerie's collection and asked them to come with them.\n\nBlossom reappeared in Fairy-Type Trickery!, where she was following and Valerie's Gym .\n\nShe reappeared in a flashback in Till We Compete Again!.\n\n====Voice actors====\n \n\n==In the core series games==\nBlossom appears in Pokémon X and Y as one of the s in the Laverre Gym.\n\n===Pokémon===\n \n \n \n \n \n==In the spin-off games==\n===Pokémon Masters EX===\n \nBlossom forms a sync pair with in Pokémon Masters EX. Blossom became a playable sync pair on January 3, 2025.\n\n \n \n\n==Gallery==\n===Artwork===\n \n\n===Sprites and models===\n \n\n==Quotes==\n \n\n==In other languages==\n \n \n\n \n \n \n \n \n\nde:Ganoe\nes:Janelle\nfr:Lizzy\nit:Selene (Kalos)\nzh:汐音",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Blossom (Japanese: シオネ Shione) is a from the Laverre Gym. In , she is a recurring character who first appeared in A Fashionable Battle!."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Blossom is a loyal to Laverre City Gym Leader Valerie. She and another Furisode Girl, , were first seen spying on and when they were looking through Valerie's fashion collection. They thought they would be perfect to participate in a fashion show of Valerie's collection and asked them to come with them.\n\nBlossom reappeared in Fairy-Type Trickery!, where she was following and Valerie's Gym .\n\nShe reappeared in a flashback in Till We Compete Again!."
+    },
+    {
+      "heading": "In the core series games",
+      "level": 2,
+      "text": "Blossom appears in Pokémon X and Y as one of the s in the Laverre Gym."
+    },
+    {
+      "heading": "Pokémon Masters EX",
+      "level": 3,
+      "text": "Blossom forms a sync pair with in Pokémon Masters EX. Blossom became a playable sync pair on January 3, 2025."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Ganoe\nes:Janelle\nfr:Lizzy\nit:Selene (Kalos)\nzh:汐音"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Blossom",
+    "pageType": "general-anime-lore",
+    "searchableText": "Blossom\nCategory:Gym assistants\nBlossom (Japanese: シオネ Shione) is a from the Laverre Gym. In , she is a recurring character who first appeared in A Fashionable Battle!.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "In the core series games",
+      "Pokémon Masters EX",
+      "In other languages"
+    ],
+    "characterCount": 1123,
+    "sectionCount": 5
+  }
+}

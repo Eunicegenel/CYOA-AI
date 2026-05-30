@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Hiroshi (AG166)",
+    "slug": "hiroshi-ag166",
+    "pageId": 87766,
+    "revisionId": 4240175
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Battle Frontier characters of the day",
+    "sourceFileName": "hiroshi-ag166__87766.json",
+    "revisionTimestamp": "2025-02-15T04:27:56Z",
+    "fetchedAt": "2026-05-14T14:22:28.063Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ヒロシ Hiroshi) is a character of the day who appeared in Curbing the Crimson Tide!. \n\nHe and his friends were confronted by Red Lightning, who challenged them to a Pokémon battle. Despite his friends' warnings, Hiroshi accepted and called out his . Red Lightning won quickly, however, and scribbled on Poliwag's face afterwards. When he took Poliwag to the Pokémon Center, he ran into and , which alerted them to Red Lightning's antics.",
+  "plainText": "(Japanese: ヒロシ Hiroshi) is a character of the day who appeared in Curbing the Crimson Tide!. \n\nHe and his friends were confronted by Red Lightning, who challenged them to a Pokémon battle. Despite his friends' warnings, Hiroshi accepted and called out his . Red Lightning won quickly, however, and scribbled on Poliwag's face afterwards. When he took Poliwag to the Pokémon Center, he ran into and , which alerted them to Red Lightning's antics.\n \n==Pokémon==\n \n \n\n==Voice actors==\n \n \n \n\n \n \n \n\nes:Hiroshi\nit:Hiroshi (RZ166)\nzh:小广（AG165）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ヒロシ Hiroshi) is a character of the day who appeared in Curbing the Crimson Tide!. \n\nHe and his friends were confronted by Red Lightning, who challenged them to a Pokémon battle. Despite his friends' warnings, Hiroshi accepted and called out his . Red Lightning won quickly, however, and scribbled on Poliwag's face afterwards. When he took Poliwag to the Pokémon Center, he ran into and , which alerted them to Red Lightning's antics."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Hiroshi\nit:Hiroshi (RZ166)\nzh:小广（AG165）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hiroshi (AG166)",
+    "pageType": "character",
+    "searchableText": "Hiroshi (AG166)\nCategory:Battle Frontier characters of the day\n(Japanese: ヒロシ Hiroshi) is a character of the day who appeared in Curbing the Crimson Tide!. \n\nHe and his friends were confronted by Red Lightning, who challenged them to a Pokémon battle. Despite his friends' warnings, Hiroshi accepted and called out his . Red Lightning won quickly, however, and scribbled on Poliwag's face afterwards. When he took Poliwag to the Pokémon Center, he ran into and , which alerted them to Red Lightning's antics.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 538,
+    "sectionCount": 2
+  }
+}

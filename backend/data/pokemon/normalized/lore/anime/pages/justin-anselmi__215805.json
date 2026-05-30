@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Justin Anselmi",
+    "slug": "justin-anselmi",
+    "pageId": 215805,
+    "revisionId": 4323616
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "justin-anselmi__215805.json",
+    "revisionTimestamp": "2025-06-24T03:33:20Z",
+    "fetchedAt": "2026-05-14T14:28:16.694Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Justin Anselmi is an American voice actor for the English-language dub of .",
+  "plainText": "Justin Anselmi is an American voice actor for the English-language dub of .\n\n==Biography==\nAnselmi was born on September 18, 1984, in Paola, Kansas. As an adult, he became an actor, getting only minor roles in lesser-known films and TV shows. He eventually joined the during . Several of the roles Anselmi has taken on were previously voiced by Tom Wayland.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nHeidayu\nMantle\n\n======Minor======\nSanto\n(XY094, XY102, XY103, XY107)\nResearcher B (XY087)\nTrainer (XY119)\nVillager Man - White Kerchief\nVillagers\nMale Bellhop\nParty Crowd\nHead Judge\nMale Ball Cap Customer\nNina's fiancé\n\n=====Pokémon=====\n======Major======\nShauna's Ivysaur\n\n======Minor======\n\n(XYS04)\n(XY095, M19)\n\n=====Other=====\nRobon\n\n===Video games===\n====Super Smash Bros. Ultimate====\nIvysaur\n\n==Other non-Pokémon roles==\nPaul Springfield, P.I. (Frolf: The Movie)\nLance (It's Fine)\nDog ( )\n\n \n\n \n\nit:Justin Anselmi",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Justin Anselmi is an American voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Anselmi was born on September 18, 1984, in Paola, Kansas. As an adult, he became an actor, getting only minor roles in lesser-known films and TV shows. He eventually joined the during . Several of the roles Anselmi has taken on were previously voiced by Tom Wayland."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Heidayu\nMantle"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Santo\n(XY094, XY102, XY103, XY107)\nResearcher B (XY087)\nTrainer (XY119)\nVillager Man - White Kerchief\nVillagers\nMale Bellhop\nParty Crowd\nHead Judge\nMale Ball Cap Customer\nNina's fiancé"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Shauna's Ivysaur"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(XYS04)\n(XY095, M19)"
+    },
+    {
+      "heading": "Other",
+      "level": 5,
+      "text": "Robon"
+    },
+    {
+      "heading": "Super Smash Bros. Ultimate",
+      "level": 4,
+      "text": "Ivysaur"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Paul Springfield, P.I. (Frolf: The Movie)\nLance (It's Fine)\nDog ( )\n\n \n\n \n\nit:Justin Anselmi"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Justin Anselmi",
+    "pageType": "general-anime-lore",
+    "searchableText": "Justin Anselmi\nCategory:TPCi voice actors\nJustin Anselmi is an American voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Other",
+      "Super Smash Bros. Ultimate",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 958,
+    "sectionCount": 9
+  }
+}

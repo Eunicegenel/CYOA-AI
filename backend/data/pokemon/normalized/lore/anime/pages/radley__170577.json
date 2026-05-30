@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Radley",
+    "slug": "radley",
+    "pageId": 170577,
+    "revisionId": 4289128
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "radley__170577.json",
+    "revisionTimestamp": "2025-04-28T19:48:28Z",
+    "fetchedAt": "2026-05-14T14:45:30.918Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Radley (Japanese: ラウル Raul) is a character of the day who appeared in Curtain Up, Unova League!. He participated in the Vertress Conference and was Stephan's first opponent. However, he was defeated by him and eliminated from the tournament.",
+  "plainText": "Radley (Japanese: ラウル Raul) is a character of the day who appeared in Curtain Up, Unova League!. He participated in the Vertress Conference and was Stephan's first opponent. However, he was defeated by him and eliminated from the tournament.\n\n==Pokémon==\n \n \n\n==Achievements==\n===Badges obtained===\nThis listing is of the Badges Radley has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)\n\n===Pokémon League===\nRadley has competed in the following Pokémon League Conferences:\nVertress Conference - Top 128 (Curtain Up, Unova League!)\n\n==Voice actors==\n \n\n==Related articles==\n \n \n\n \n \n \n\nes:Radley\nfr:Pablo\nit:Radley\nzh:拉魯",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Radley (Japanese: ラウル Raul) is a character of the day who appeared in Curtain Up, Unova League!. He participated in the Vertress Conference and was Stephan's first opponent. However, he was defeated by him and eliminated from the tournament."
+    },
+    {
+      "heading": "Badges obtained",
+      "level": 3,
+      "text": "This listing is of the Badges Radley has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)"
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Radley has competed in the following Pokémon League Conferences:\nVertress Conference - Top 128 (Curtain Up, Unova League!)"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Radley\nfr:Pablo\nit:Radley\nzh:拉魯"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Radley",
+    "pageType": "character",
+    "searchableText": "Radley\nCategory:Unova characters of the day\nRadley (Japanese: ラウル Raul) is a character of the day who appeared in Curtain Up, Unova League!. He participated in the Vertress Conference and was Stephan's first opponent. However, he was defeated by him and eliminated from the tournament.",
+    "sectionHeadings": [
+      "Lead",
+      "Badges obtained",
+      "Pokémon League",
+      "Related articles"
+    ],
+    "characterCount": 662,
+    "sectionCount": 4
+  }
+}

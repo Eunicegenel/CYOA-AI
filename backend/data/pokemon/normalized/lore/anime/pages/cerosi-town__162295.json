@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Cerosi Town",
+    "slug": "cerosi-town",
+    "pageId": 162295,
+    "revisionId": 4261248
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "cerosi-town__162295.json",
+    "revisionTimestamp": "2025-03-19T21:51:49Z",
+    "fetchedAt": "2026-05-14T14:09:04.435Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Cerosi Town (Japanese: セルロスタウン Cellulos Town) is an -exclusive town located on Izabe Island in the Hoenn region. It was never seen onscreen, but it was mentioned in A Cacturne for the Worse, Beg, Burrow and Steal, Let it Snow, Let it Snow, Let it Snorunt!, and Do I Hear a Ralts?. , , , and Max were traveling to Cerosi Town because it has ferry services to Sootopolis City.",
+  "plainText": "Cerosi Town (Japanese: セルロスタウン Cellulos Town) is an -exclusive town located on Izabe Island in the Hoenn region. It was never seen onscreen, but it was mentioned in A Cacturne for the Worse, Beg, Burrow and Steal, Let it Snow, Let it Snow, Let it Snorunt!, and Do I Hear a Ralts?. , , , and Max were traveling to Cerosi Town because it has ferry services to Sootopolis City.\n\n==Names==\n \n\n \n \n \n\n \n\nfr:Épicéa\nit:Cerosi Town\nzh:赛罗斯镇",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Cerosi Town (Japanese: セルロスタウン Cellulos Town) is an -exclusive town located on Izabe Island in the Hoenn region. It was never seen onscreen, but it was mentioned in A Cacturne for the Worse, Beg, Burrow and Steal, Let it Snow, Let it Snow, Let it Snorunt!, and Do I Hear a Ralts?. , , , and Max were traveling to Cerosi Town because it has ferry services to Sootopolis City."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "fr:Épicéa\nit:Cerosi Town\nzh:赛罗斯镇"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Cerosi Town",
+    "pageType": "location",
+    "searchableText": "Cerosi Town\nCategory:Animated series-exclusive locations\nCerosi Town (Japanese: セルロスタウン Cellulos Town) is an -exclusive town located on Izabe Island in the Hoenn region. It was never seen onscreen, but it was mentioned in A Cacturne for the Worse, Beg, Burrow and Steal, Let it Snow, Let it Snow, Let it Snorunt!, and Do I Hear a Ralts?. , , , and Max were traveling to Cerosi Town because it has ferry services to Sootopolis City.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 431,
+    "sectionCount": 2
+  }
+}

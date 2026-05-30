@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Mia",
+    "slug": "mia",
+    "pageId": 230917,
+    "revisionId": 4515112
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "mia__230917.json",
+    "revisionTimestamp": "2026-03-23T06:45:01Z",
+    "fetchedAt": "2026-05-14T14:36:42.705Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Mia (Japanese: ミア Mia) is a supporting character who appeared in The Power of Us. She is the mother of Kellie and the sister of Callahan.",
+  "plainText": "Mia (Japanese: ミア Mia) is a supporting character who appeared in The Power of Us. She is the mother of Kellie and the sister of Callahan.\n\n==History==\nMia and her daughter Kellie caught up with Callahan and attended the Wind Festival with him. She watched her older brother compete in the Pokémon Catch Race. On their return home, a that Callahan met during the Catch Race began following the trio. Callahan was irritated by this, but Mia found it amusing and encouraged Sudowoodo to continue chasing after Callahan.\n\nThe next day, she later assisted with the cleanup operation after someone had deliberately sabotaged the Wind Festival. Mia and the others followed Callahan after he left abruptly to present a research presentation on Toren's behalf. She directly confronted Callahan after footage revealed that Toren had illegally assisted him in winning the Catch Race. After Kellie fell ill again, Mia decided it was best that she and her daughter return home.\n\nThe next day, Mia and Kellie boarded Fula City's cable car services to return home. However, the pair were left stranded in a gondola after Fula City lost power because of an cloud and subsequent fire. Mia remained calm and comforted Kellie despite the chaos and uncertainty of the situation. After Fula City was saved, Mia and Kellie attended the Wind Festival's closing ceremony.\n\n==Character==\nMia and her brother have a close relationship. She is fully aware of when he is lying, and his compulsive lies make it difficult for her to trust him at times.\n\n==Voice actors==\n \n\n==Names==\n \n\n==Related articles==\n \n \n\nes:Mia (vigésimo primera película)\nit:Mira (F21)\nzh:米娅",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mia (Japanese: ミア Mia) is a supporting character who appeared in The Power of Us. She is the mother of Kellie and the sister of Callahan."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Mia and her daughter Kellie caught up with Callahan and attended the Wind Festival with him. She watched her older brother compete in the Pokémon Catch Race. On their return home, a that Callahan met during the Catch Race began following the trio. Callahan was irritated by this, but Mia found it amusing and encouraged Sudowoodo to continue chasing after Callahan.\n\nThe next day, she later assisted with the cleanup operation after someone had deliberately sabotaged the Wind Festival. Mia and the others followed Callahan after he left abruptly to present a research presentation on Toren's behalf. She directly confronted Callahan after footage revealed that Toren had illegally assisted him in winning the Catch Race. After Kellie fell ill again, Mia decided it was best that she and her daughter return home.\n\nThe next day, Mia and Kellie boarded Fula City's cable car services to return home. However, the pair were left stranded in a gondola after Fula City lost power because of an cloud and subsequent fire. Mia remained calm and comforted Kellie despite the chaos and uncertainty of the situation. After Fula City was saved, Mia and Kellie attended the Wind Festival's closing ceremony."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Mia and her brother have a close relationship. She is fully aware of when he is lying, and his compulsive lies make it difficult for her to trust him at times."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Mia (vigésimo primera película)\nit:Mira (F21)\nzh:米娅"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mia",
+    "pageType": "movie",
+    "searchableText": "Mia\nCategory:Movie characters\nMia (Japanese: ミア Mia) is a supporting character who appeared in The Power of Us. She is the mother of Kellie and the sister of Callahan.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Related articles"
+    ],
+    "characterCount": 1637,
+    "sectionCount": 4
+  }
+}

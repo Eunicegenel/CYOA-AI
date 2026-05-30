@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP35",
+    "slug": "sp35",
+    "pageId": 182550,
+    "revisionId": 4114571
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp35__182550.json",
+    "revisionTimestamp": "2024-09-16T20:30:38Z",
+    "fetchedAt": "2026-05-14T15:50:13.333Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "A 'Thank You' That Transcends Time (Japanese: ありがとうは時を越えて \"Thank You\" Goes Beyond Time) is the thirty fifth chapter of the Ash & Pikachu manga.",
+  "plainText": "A 'Thank You' That Transcends Time (Japanese: ありがとうは時を越えて \"Thank You\" Goes Beyond Time) is the thirty fifth chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMax\nSolana\n\n===Pokémon===\n( )\n( )\n( )\n(Solana's)\n\n \n \n\n \n\nit:SP35",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A 'Thank You' That Transcends Time (Japanese: ありがとうは時を越えて \"Thank You\" Goes Beyond Time) is the thirty fifth chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max\nSolana"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Solana's)\n\n \n \n\n \n\nit:SP35"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP35",
+    "pageType": "chapter",
+    "searchableText": "SP35\nCategory:Ash & Pikachu chapters\nA 'Thank You' That Transcends Time (Japanese: ありがとうは時を越えて \"Thank You\" Goes Beyond Time) is the thirty fifth chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 307,
+    "sectionCount": 3
+  }
+}

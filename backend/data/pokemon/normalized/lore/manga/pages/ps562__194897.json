@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PS562",
+    "slug": "ps562",
+    "pageId": 194897,
+    "revisionId": 4549070
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps562__194897.json",
+    "revisionTimestamp": "2026-05-11T01:10:58Z",
+    "fetchedAt": "2026-05-14T15:45:52.188Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pangoro Poses a Problem (Japanese: ゴロンダ、探る , Search) is the 562nd chapter of the Pokémon Adventures manga, and the 14th chapter of the .",
+  "plainText": "Pangoro Poses a Problem (Japanese: ゴロンダ、探る , Search) is the 562nd chapter of the Pokémon Adventures manga, and the 14th chapter of the .\n\n==Plot==\n \n\n==Major events==\nAlexa finishes her report of the Vaniville Town incident.\nAlexa learns from Viola what happened in Santalune City.\nAlexa heads off to Prism Tower to have an interview with Professor Sycamore.\nreveals he decided to keep Marisso and nicknamed Salamè.\nUpon arriving, Alexa finds that the Lumiose Press editor-in-chief has already done the interview in her place.\nSensing that something is wrong, X heads into Prism Tower and finds Alexa being attacked by the editor-in-chief.\nX rescues Alexa, but the editor-in-chief captures and holds it hostage.\ntakes Alexa to safety and promises that X will rescue Heli.\nAlexa realizes that some force must be controlling the media to make sure the truth about Vaniville Town does not become public knowledge.\n\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Sycamore\nViola (video)\nMalva (video)\nLysandre (flashback and fantasy)\nAlexa\nSina\nDexio\nLumiose Press editor-in-chief\n\n===Pokémon===\n(Kanga; 's)\n(Li'l Kanga; 's)\n(Marisso; 's)\n(Salamè; 's)\n(Heli; Alexa's)\n( 's)\n(Editor-in-chief's)\n(Editor-in-chief's; ×2)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Adventures; flashback)\n(flashback)\n(flashback)\n\n \n\n==In other languages==\n \n\n \n \n \n\nde:Episode 10 (Pocket Monsters SPECIAL X und Y)\nfr:Chapitre 10 (Pocket Monsters Special X•Y)\nit:PS562\nzh:精灵宝可梦特别篇 Ｘ·Ｙ篇 第10话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pangoro Poses a Problem (Japanese: ゴロンダ、探る , Search) is the 562nd chapter of the Pokémon Adventures manga, and the 14th chapter of the ."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Alexa finishes her report of the Vaniville Town incident.\nAlexa learns from Viola what happened in Santalune City.\nAlexa heads off to Prism Tower to have an interview with Professor Sycamore.\nreveals he decided to keep Marisso and nicknamed Salamè.\nUpon arriving, Alexa finds that the Lumiose Press editor-in-chief has already done the interview in her place.\nSensing that something is wrong, X heads into Prism Tower and finds Alexa being attacked by the editor-in-chief.\nX rescues Alexa, but the editor-in-chief captures and holds it hostage.\ntakes Alexa to safety and promises that X will rescue Heli.\nAlexa realizes that some force must be controlling the media to make sure the truth about Vaniville Town does not become public knowledge."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Sycamore\nViola (video)\nMalva (video)\nLysandre (flashback and fantasy)\nAlexa\nSina\nDexio\nLumiose Press editor-in-chief"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Kanga; 's)\n(Li'l Kanga; 's)\n(Marisso; 's)\n(Salamè; 's)\n(Heli; Alexa's)\n( 's)\n(Editor-in-chief's)\n(Editor-in-chief's; ×2)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Prism Tower's; multiple)\n(Adventures; flashback)\n(flashback)\n(flashback)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Episode 10 (Pocket Monsters SPECIAL X und Y)\nfr:Chapitre 10 (Pocket Monsters Special X•Y)\nit:PS562\nzh:精灵宝可梦特别篇 Ｘ·Ｙ篇 第10话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS562",
+    "pageType": "chapter",
+    "searchableText": "PS562\nCategory:Pokémon Adventures chapters\nPangoro Poses a Problem (Japanese: ゴロンダ、探る , Search) is the 562nd chapter of the Pokémon Adventures manga, and the 14th chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1663,
+    "sectionCount": 5
+  }
+}

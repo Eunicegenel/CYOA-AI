@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Mudkip (Ginji's Rescue Team)",
+    "slug": "mudkip-ginjis-rescue-team",
+    "pageId": 15422,
+    "revisionId": 4528563
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mystery Dungeon Ginji's Rescue Team characters",
+    "sourceFileName": "mudkip-ginjis-rescue-team__15422.json",
+    "revisionTimestamp": "2026-04-09T16:26:51Z",
+    "fetchedAt": "2026-05-14T15:27:22.845Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mudkip (Japanese: ミズゴロウ Mizugorou) is a Pokémon that Ginji befriends in Pokémon Mystery Dungeon: Ginji's Rescue Team.",
+  "plainText": "Mudkip (Japanese: ミズゴロウ Mizugorou) is a Pokémon that Ginji befriends in Pokémon Mystery Dungeon: Ginji's Rescue Team.\n\n== Character ==\nInitially, Mudkip is a cowardly Pokémon that longs to become stronger and form a rescue team. He idolizes of Team A.C.T..\n\n== History ==\nAfter meeting Ginji and seeing his determination, they team up to form a rescue team. He accompanies Ginji on his adventures and remains extremely loyal to him.\n\nThroughout the story, Mudkip becomes braver and stronger. One example is when he befriends Gengar despite the fact that Gengar had mistreated them before.\n\nAt the end of the story, when Ginji becomes a human again, it is revealed that Mudkip continues rescuing Pokémon.\n\n===Moves used===\n \n \n \n \n \n\nWith the help of Ginji, Mudkip used Water Gun while Ginji used Flamethrower to create in Goodbye to a Peaceful Village!.\n\n==Related articles==\n \nGinji\n \n \n\n \n \n\nfr:Gobou (Secouristes de Ginji)\nit:Mudkip (Ginji's Rescue Team)\nzh:水躍魚（銀次的救助隊）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mudkip (Japanese: ミズゴロウ Mizugorou) is a Pokémon that Ginji befriends in Pokémon Mystery Dungeon: Ginji's Rescue Team."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Initially, Mudkip is a cowardly Pokémon that longs to become stronger and form a rescue team. He idolizes of Team A.C.T.."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "After meeting Ginji and seeing his determination, they team up to form a rescue team. He accompanies Ginji on his adventures and remains extremely loyal to him.\n\nThroughout the story, Mudkip becomes braver and stronger. One example is when he befriends Gengar despite the fact that Gengar had mistreated them before.\n\nAt the end of the story, when Ginji becomes a human again, it is revealed that Mudkip continues rescuing Pokémon."
+    },
+    {
+      "heading": "Moves used",
+      "level": 3,
+      "text": "With the help of Ginji, Mudkip used Water Gun while Ginji used Flamethrower to create in Goodbye to a Peaceful Village!."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Ginji\n \n \n\n \n \n\nfr:Gobou (Secouristes de Ginji)\nit:Mudkip (Ginji's Rescue Team)\nzh:水躍魚（銀次的救助隊）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mudkip (Ginji's Rescue Team)",
+    "pageType": "character",
+    "searchableText": "Mudkip (Ginji's Rescue Team)\nCategory:Pokémon Mystery Dungeon Ginji's Rescue Team characters\nMudkip (Japanese: ミズゴロウ Mizugorou) is a Pokémon that Ginji befriends in Pokémon Mystery Dungeon: Ginji's Rescue Team.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History",
+      "Moves used",
+      "Related articles"
+    ],
+    "characterCount": 972,
+    "sectionCount": 5
+  }
+}

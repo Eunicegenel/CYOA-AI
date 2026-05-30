@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Yumiko Sudo",
+    "slug": "yumiko-sudo",
+    "pageId": 220593,
+    "revisionId": 4231426
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga crew",
+    "sourceFileName": "yumiko-sudo__220593.json",
+    "revisionTimestamp": "2025-01-31T12:23:13Z",
+    "fetchedAt": "2026-05-14T15:53:08.448Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Yumiko Sudou (Japanese: ) is the creator of several Pokémon manga born on May 19 in the . Her manga, usually aimed at children, have been published by Shogakukan.\n\nBefore the January issue of Bessatsu CoroCoro Comics, she would prefer a pen-name, such as \"Yumi\". She is also associated with Televi-kun, a monthly manga magazine aimed at boys. Her other Nintendo manga series have included and .",
+  "plainText": "Yumiko Sudou (Japanese: ) is the creator of several Pokémon manga born on May 19 in the . Her manga, usually aimed at children, have been published by Shogakukan.\n\nBefore the January issue of Bessatsu CoroCoro Comics, she would prefer a pen-name, such as \"Yumi\". She is also associated with Televi-kun, a monthly manga magazine aimed at boys. Her other Nintendo manga series have included and .\n\n==Pokémon manga by Yumiko Sudou==\nPokémon Quiz Puzzle Land: Pikachu is a Famous Detective\nPikachu VS Hitmonchan\nPikachu's hide-and-seek\nPokemon Ruby-Sapphire Battle Strategy Comic\n\n==External links==\nTwitter (Japanese)\nBlog (last updated 2009)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yumiko Sudou (Japanese: ) is the creator of several Pokémon manga born on May 19 in the . Her manga, usually aimed at children, have been published by Shogakukan.\n\nBefore the January issue of Bessatsu CoroCoro Comics, she would prefer a pen-name, such as \"Yumi\". She is also associated with Televi-kun, a monthly manga magazine aimed at boys. Her other Nintendo manga series have included and ."
+    },
+    {
+      "heading": "Pokémon manga by Yumiko Sudou",
+      "level": 2,
+      "text": "Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective\nPikachu VS Hitmonchan\nPikachu's hide-and-seek\nPokemon Ruby-Sapphire Battle Strategy Comic"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter (Japanese)\nBlog (last updated 2009)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yumiko Sudo",
+    "pageType": "manga-series",
+    "searchableText": "Yumiko Sudo\nCategory:Manga crew\nYumiko Sudou (Japanese: ) is the creator of several Pokémon manga born on May 19 in the . Her manga, usually aimed at children, have been published by Shogakukan.\n\nBefore the January issue of Bessatsu CoroCoro Comics, she would prefer a pen-name, such as \"Yumi\". She is also associated with Televi-kun, a monthly manga magazine aimed at boys. Her other Nintendo manga series have included and .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon manga by Yumiko Sudou",
+      "External links"
+    ],
+    "characterCount": 639,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB30",
+    "slug": "rb30",
+    "pageId": 152273,
+    "revisionId": 4245743
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb30__152273.json",
+    "revisionTimestamp": "2025-02-22T21:24:00Z",
+    "fetchedAt": "2026-05-14T15:47:34.731Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 勝ち残った４人 The Remaining Four) is the 30th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 勝ち残った４人 The Remaining Four) is the 30th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n==Major events==\nRyouga ends up in the location where all of the other defeated players were sent to by Pauline.\nPauline sends her Pokémon to retrieve Ryouga so they can start the next round on the next day.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyouga\nKaruta\nRurimaru\nDokan\nRush\nGizairu \nEurou\nPikke\nLoren\nHariru\nRabine\nFraud\n\nPauline\nYappy\nMiruto\nPlayers\n\n===Pokémon===\n(Pauline's)\n(Pauline's; multiple)\n\n \n \n \n\n \n\nzh:RB30",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 勝ち残った４人 The Remaining Four) is the 30th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga ends up in the location where all of the other defeated players were sent to by Pauline.\nPauline sends her Pokémon to retrieve Ryouga so they can start the next round on the next day."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nKaruta\nRurimaru\nDokan\nRush\nGizairu \nEurou\nPikke\nLoren\nHariru\nRabine\nFraud\n\nPauline\nYappy\nMiruto\nPlayers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Pauline's)\n(Pauline's; multiple)\n\n \n \n \n\n \n\nzh:RB30"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB30",
+    "pageType": "chapter",
+    "searchableText": "RB30\nCategory:Pokémon RéBURST chapters\n(Japanese: 勝ち残った４人 The Remaining Four) is the 30th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 553,
+    "sectionCount": 4
+  }
+}

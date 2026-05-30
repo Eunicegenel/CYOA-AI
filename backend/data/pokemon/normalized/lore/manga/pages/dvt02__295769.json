@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "DVT02",
+    "slug": "dvt02",
+    "pageId": 295769,
+    "revisionId": 4527025
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters ~The Detouring Volt Tacklers!!~ chapters",
+    "sourceFileName": "dvt02__295769.json",
+    "revisionTimestamp": "2026-04-09T15:16:27Z",
+    "fetchedAt": "2026-05-14T15:17:47.502Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ２ひきめ：キャプテンピカチュウ 2nd Monster: Captain Pikachu) is the second chapter of the Pocket Monsters ~The Detouring Volt Tacklers!!~ manga. It was first published in the October 2023 issue of Ciao, released on September 1, 2023. It is eight pages long.",
+  "plainText": "(Japanese: ２ひきめ：キャプテンピカチュウ 2nd Monster: Captain Pikachu) is the second chapter of the Pocket Monsters ~The Detouring Volt Tacklers!!~ manga. It was first published in the October 2023 issue of Ciao, released on September 1, 2023. It is eight pages long.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\nOrla\nMurdock\nFriede\n\n====Pokémon debuts====\n(Friede's; Captain Pikachu)\n(Orla's)\n(Orla's)\n(Murdock's; )\n(Murdock's)\n\n==Characters==\n===Humans===\nLiko\nFriede\nOrla\nMurdock\n\n===Pokémon===\n( )\n(Friede's; Captain Pikachu)\n(Orla's)\n(Orla's)\n(Murdock's)\n(Murdock's; )\n(fantasy)\n\n==References==\n \n\n \n \n \n \n\nit:DVT02",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ２ひきめ：キャプテンピカチュウ 2nd Monster: Captain Pikachu) is the second chapter of the Pocket Monsters ~The Detouring Volt Tacklers!!~ manga. It was first published in the October 2023 issue of Ciao, released on September 1, 2023. It is eight pages long."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Orla\nMurdock\nFriede"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Friede's; Captain Pikachu)\n(Orla's)\n(Orla's)\n(Murdock's; )\n(Murdock's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Liko\nFriede\nOrla\nMurdock"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Friede's; Captain Pikachu)\n(Orla's)\n(Orla's)\n(Murdock's)\n(Murdock's; )\n(fantasy)"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:DVT02"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "DVT02",
+    "pageType": "chapter",
+    "searchableText": "DVT02\nCategory:Pocket Monsters ~The Detouring Volt Tacklers!!~ chapters\n(Japanese: ２ひきめ：キャプテンピカチュウ 2nd Monster: Captain Pikachu) is the second chapter of the Pocket Monsters ~The Detouring Volt Tacklers!!~ manga. It was first published in the October 2023 issue of Ciao, released on September 1, 2023. It is eight pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "References"
+    ],
+    "characterCount": 619,
+    "sectionCount": 6
+  }
+}

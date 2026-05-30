@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP19",
+    "slug": "pmdp19",
+    "pageId": 176398,
+    "revisionId": 4528086
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp19__176398.json",
+    "revisionTimestamp": "2026-04-09T16:06:31Z",
+    "fetchedAt": "2026-05-14T15:32:25.033Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: のポケモン・ダークライ る！！ The Illusory Pokémon Darkrai Appears!!) is the nineteenth chapter of the manga.",
+  "plainText": "(Japanese: のポケモン・ダークライ る！！ The Illusory Pokémon Darkrai Appears!!) is the nineteenth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: のポケモン・ダークライ る！！ The Illusory Pokémon Darkrai Appears!!) is the nineteenth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP19",
+    "pageType": "chapter",
+    "searchableText": "PMDP19\nCategory:Pocket Monsters DP chapters\n(Japanese: のポケモン・ダークライ る！！ The Illusory Pokémon Darkrai Appears!!) is the nineteenth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 234,
+    "sectionCount": 2
+  }
+}

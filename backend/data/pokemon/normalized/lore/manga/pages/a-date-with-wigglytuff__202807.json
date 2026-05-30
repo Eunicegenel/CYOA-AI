@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "A Date with Wigglytuff",
+    "slug": "a-date-with-wigglytuff",
+    "pageId": 202807,
+    "revisionId": 4168531
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "a-date-with-wigglytuff__202807.json",
+    "revisionTimestamp": "2024-10-26T18:20:56Z",
+    "fetchedAt": "2026-05-14T15:12:03.591Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: A Date with Wigglytuff is the seventeenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 25th and 26th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: A Date with Wigglytuff is the seventeenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 25th and 26th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster not part of the regular volume.\n \n==Blurb==\nLOVE AT FIRST FIGHT!\n\nHazel and her Pokémon are taking a walk near the sunflowers one day when they meet just about the brashest, most violent Oddish who ever lived! \n\nThen, Arbok asks Wigglytuff out on a date like no other--a run around an obstacle course! Can Arbok go the distance or will Wigglytuff's challenge have it making tracks in the opposite direction?\n\n==Publications==\n \n \n\n==Chapters==\n\nOdd Oddish Out\nThe Terror of... the First Date!\n\n==Major events==\n\nPikachu and Clefairy befriend Oddish.\nArbok and Wigglytuff go on their first date. They are not seen again until Pokémon Sports Meet!.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: A Date with Wigglytuff is the seventeenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 25th and 26th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "LOVE AT FIRST FIGHT!\n\nHazel and her Pokémon are taking a walk near the sunflowers one day when they meet just about the brashest, most violent Oddish who ever lived! \n\nThen, Arbok asks Wigglytuff out on a date like no other--a run around an obstacle course! Can Arbok go the distance or will Wigglytuff's challenge have it making tracks in the opposite direction?"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Odd Oddish Out\nThe Terror of... the First Date!"
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Pikachu and Clefairy befriend Oddish.\nArbok and Wigglytuff go on their first date. They are not seen again until Pokémon Sports Meet!."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "A Date with Wigglytuff",
+    "pageType": "pokemon-related",
+    "searchableText": "A Date with Wigglytuff\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: A Date with Wigglytuff is the seventeenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 25th and 26th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Major events"
+    ],
+    "characterCount": 997,
+    "sectionCount": 4
+  }
+}

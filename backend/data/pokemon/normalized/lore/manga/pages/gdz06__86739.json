@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "GDZ06",
+    "slug": "gdz06",
+    "pageId": 86739,
+    "revisionId": 4131005
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz06__86739.json",
+    "revisionTimestamp": "2024-09-29T03:57:20Z",
+    "fetchedAt": "2026-05-14T15:19:24.842Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Challenge at Celadon University! (Japanese: タマムシ大学にちょうせん! Taking on University!) is the sixth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "The Challenge at Celadon University! (Japanese: タマムシ大学にちょうせん! Taking on University!) is the sixth chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\nShu and Pikachu have arrived at Celadon University. Shu plans to explore the campus, however first he must correctly answer a question asked by the gatekeeper. \"What is the name of this gate?\" Shu notes that there is an image of a Charizard on the gate and wonders if it might be the \"Charizard Gate\", however he instead settles on \" \". However he is told that this is incorrect and is told to look closer at the Charizard's face, and he notices that the Charizard's eyes look like a transformed Ditto's. Shu changes his answer to the \" \" and is permitted entrance. As he explores the campus, he is asked different questions by members of different research departments.\n\nEventually he arrives at the campus hospital where a Machamp in the middle of treatment has gone berserk and has gone on a rampage. Pikachu tries to stop it with a to no avail. As Machamp continues its rampage it smashes a fish tank containing a Magikarp which Shu leaps in to protect. As Machamp pounds on Shu, one of the researchers tells him to abandon the Magikarp and come to safety. However Shu refuses, because while Magikarp may be useless, he can't abandon a Pokémon in danger. Magikarp then suddenly unleashes a attack, sending Machamp flying. After Magikarp is placed in a new tank, the researchers explain that this Magikarp is a rare specimen that could supposedly use the Dragon Rage attack, however since it hadn't displayed any power previously they were close to giving up on ever getting proof. But thanks to Shu it became motivated to show its true power. As thanks, Shu is presented with a special school badge representing a Magikarp and Gyarados. The researchers explain that it symbolizes how no matter who you are anything can be accomplished with great effort and that they're sure that Shu shall grow to become a fine Trainer.\n\n==Major events==\n===Debuts===\n====Humans====\nImakuni?\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nImakuni?\nCeladon University staff\n\n===Pokémon===\n( )\n\n==In other languages==\n \n\n \n\n \n\nit:GDZ06\nzh:GDZ06",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Challenge at Celadon University! (Japanese: タマムシ大学にちょうせん! Taking on University!) is the sixth chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Shu and Pikachu have arrived at Celadon University. Shu plans to explore the campus, however first he must correctly answer a question asked by the gatekeeper. \"What is the name of this gate?\" Shu notes that there is an image of a Charizard on the gate and wonders if it might be the \"Charizard Gate\", however he instead settles on \" \". However he is told that this is incorrect and is told to look closer at the Charizard's face, and he notices that the Charizard's eyes look like a transformed Ditto's. Shu changes his answer to the \" \" and is permitted entrance. As he explores the campus, he is asked different questions by members of different research departments.\n\nEventually he arrives at the campus hospital where a Machamp in the middle of treatment has gone berserk and has gone on a rampage. Pikachu tries to stop it with a to no avail. As Machamp continues its rampage it smashes a fish tank containing a Magikarp which Shu leaps in to protect. As Machamp pounds on Shu, one of the researchers tells him to abandon the Magikarp and come to safety. However Shu refuses, because while Magikarp may be useless, he can't abandon a Pokémon in danger. Magikarp then suddenly unleashes a attack, sending Machamp flying. After Magikarp is placed in a new tank, the researchers explain that this Magikarp is a rare specimen that could supposedly use the Dragon Rage attack, however since it hadn't displayed any power previously they were close to giving up on ever getting proof. But thanks to Shu it became motivated to show its true power. As thanks, Shu is presented with a special school badge representing a Magikarp and Gyarados. The researchers explain that it symbolizes how no matter who you are anything can be accomplished with great effort and that they're sure that Shu shall grow to become a fine Trainer."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Imakuni?"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nImakuni?\nCeladon University staff"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:GDZ06\nzh:GDZ06"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ06",
+    "pageType": "chapter",
+    "searchableText": "GDZ06\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\nThe Challenge at Celadon University! (Japanese: タマムシ大学にちょうせん! Taking on University!) is the sixth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 2200,
+    "sectionCount": 6
+  }
+}

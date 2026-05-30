@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pigton Town",
+    "slug": "pigton-town",
+    "pageId": 302517,
+    "revisionId": 4510086
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "pigton-town__302517.json",
+    "revisionTimestamp": "2026-03-16T08:34:19Z",
+    "fetchedAt": "2026-05-14T14:41:42.074Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Pigton Town (Japanese: ピグトンタウン Pigton Town) is an -exclusive town where many pig Pokémon live.\n\nIn Mission: Find Oinkologne's Partner!, Liko and Roy visited Pigton Town along with Nidothing to assist Yuno with her , who was having trouble pairing up with other Pokémon for the upcoming Pigton Town Multi Battle Tournament. Eventually, Yuno and her crush Renta managed to settle their differences and teamed up to fight together in the tournament.",
+  "plainText": "Pigton Town (Japanese: ピグトンタウン Pigton Town) is an -exclusive town where many pig Pokémon live.\n\nIn Mission: Find Oinkologne's Partner!, Liko and Roy visited Pigton Town along with Nidothing to assist Yuno with her , who was having trouble pairing up with other Pokémon for the upcoming Pigton Town Multi Battle Tournament. Eventually, Yuno and her crush Renta managed to settle their differences and teamed up to fight together in the tournament.\n\n==Pokémon seen in Pigton Town==\n \n\n==Names==\n \n \n\n \n \n\n \n\nes:Pueblo Cerditón\nit:Porcellinia\nzh:豬豚鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pigton Town (Japanese: ピグトンタウン Pigton Town) is an -exclusive town where many pig Pokémon live.\n\nIn Mission: Find Oinkologne's Partner!, Liko and Roy visited Pigton Town along with Nidothing to assist Yuno with her , who was having trouble pairing up with other Pokémon for the upcoming Pigton Town Multi Battle Tournament. Eventually, Yuno and her crush Renta managed to settle their differences and teamed up to fight together in the tournament."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Pueblo Cerditón\nit:Porcellinia\nzh:豬豚鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pigton Town",
+    "pageType": "location",
+    "searchableText": "Pigton Town\nCategory:Animated series-exclusive locations\nPigton Town (Japanese: ピグトンタウン Pigton Town) is an -exclusive town where many pig Pokémon live.\n\nIn Mission: Find Oinkologne's Partner!, Liko and Roy visited Pigton Town along with Nidothing to assist Yuno with her , who was having trouble pairing up with other Pokémon for the upcoming Pigton Town Multi Battle Tournament. Eventually, Yuno and her crush Renta managed to settle their differences and teamed up to fight together in the tournament.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 546,
+    "sectionCount": 2
+  }
+}

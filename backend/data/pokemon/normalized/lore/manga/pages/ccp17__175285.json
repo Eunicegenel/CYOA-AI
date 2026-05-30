@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "CCP17",
+    "slug": "ccp17",
+    "pageId": 175285,
+    "revisionId": 4527475
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp17__175285.json",
+    "revisionTimestamp": "2026-04-09T15:39:36Z",
+    "fetchedAt": "2026-05-14T15:15:18.223Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ちるちるの片思い…ちゃも Chiru-Chiru's Unrequited Love (chamo)) is the 17th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: ちるちるの片思い…ちゃも Chiru-Chiru's Unrequited Love (chamo)) is the 17th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n's friend, Chiru-Chiru, is introduced.\n\n===Debuts===\n====Pokémon debuts====\n(Chiru-Chiru)\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n(Chiru-Chiru)\n(fantasy)\n(fantasy)\n(Pokémon Chamo-Chamo ☆ Pretty ♪)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ちるちるの片思い…ちゃも Chiru-Chiru's Unrequited Love (chamo)) is the 17th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "'s friend, Chiru-Chiru, is introduced."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Chiru-Chiru)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Chiru-Chiru)\n(fantasy)\n(fantasy)\n(Pokémon Chamo-Chamo ☆ Pretty ♪)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP17",
+    "pageType": "chapter",
+    "searchableText": "CCP17\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: ちるちるの片思い…ちゃも Chiru-Chiru's Unrequited Love (chamo)) is the 17th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 370,
+    "sectionCount": 4
+  }
+}

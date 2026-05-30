@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Vermilion Forest",
+    "slug": "vermilion-forest",
+    "pageId": 259692,
+    "revisionId": 4261101
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "vermilion-forest__259692.json",
+    "revisionTimestamp": "2025-03-19T21:50:14Z",
+    "fetchedAt": "2026-05-14T14:56:44.846Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Vermilion Forest (Japanese: クチバの森 Kuchiba Forest) is an -exclusive forest in the Kanto region. It is located outside Vermilion City.\n\n and Goh first visited Vermilion Forest in Working My Way Back to Mew!, when Goh was keen to catch more Pokémon and fill the Pokédex. Whilst there, Ash and Goh encountered a variety of Wild Pokémon with Goh managing to successfully capture all of Kanto's -types.\n\nAsh and Goh visited Vermilion Forest once more in Trade, Borrow, and Steal!, where they hoped to find a that Goh could trade to Kricketina Kylie in exchange for her . After an encounter with , Goh was able to catch a Pinsir that he later traded for Heracross.",
+  "plainText": "Vermilion Forest (Japanese: クチバの森 Kuchiba Forest) is an -exclusive forest in the Kanto region. It is located outside Vermilion City.\n\n and Goh first visited Vermilion Forest in Working My Way Back to Mew!, when Goh was keen to catch more Pokémon and fill the Pokédex. Whilst there, Ash and Goh encountered a variety of Wild Pokémon with Goh managing to successfully capture all of Kanto's -types.\n\nAsh and Goh visited Vermilion Forest once more in Trade, Borrow, and Steal!, where they hoped to find a that Goh could trade to Kricketina Kylie in exchange for her . After an encounter with , Goh was able to catch a Pinsir that he later traded for Heracross.\n \n\n==Pokémon seen in Vermilion Forest==\n \n \n \n\n===Caught Pokémon===\n \n \n \n\n==In other languages==\n \n\n \n \n\n \n\nit:Foresta di Aranciopoli\nzh:枯叶森林",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Vermilion Forest (Japanese: クチバの森 Kuchiba Forest) is an -exclusive forest in the Kanto region. It is located outside Vermilion City.\n\n and Goh first visited Vermilion Forest in Working My Way Back to Mew!, when Goh was keen to catch more Pokémon and fill the Pokédex. Whilst there, Ash and Goh encountered a variety of Wild Pokémon with Goh managing to successfully capture all of Kanto's -types.\n\nAsh and Goh visited Vermilion Forest once more in Trade, Borrow, and Steal!, where they hoped to find a that Goh could trade to Kricketina Kylie in exchange for her . After an encounter with , Goh was able to catch a Pinsir that he later traded for Heracross."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Foresta di Aranciopoli\nzh:枯叶森林"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Vermilion Forest",
+    "pageType": "location",
+    "searchableText": "Vermilion Forest\nCategory:Animated series-exclusive locations\nVermilion Forest (Japanese: クチバの森 Kuchiba Forest) is an -exclusive forest in the Kanto region. It is located outside Vermilion City.\n\n and Goh first visited Vermilion Forest in Working My Way Back to Mew!, when Goh was keen to catch more Pokémon and fill the Pokédex. Whilst there, Ash and Goh encountered a variety of Wild Pokémon with Goh managing to successfully capture all of Kanto's -types.\n\nAsh and Goh visited Vermilion Forest once more in Trade, Borrow, and Steal!, where they hoped to find a that Goh could trade to Kricketina Kylie in exchange for her . After an encounter with , Goh was able to catch a Pinsir that he later traded for Heracross.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 800,
+    "sectionCount": 2
+  }
+}

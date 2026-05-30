@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Meg",
+    "slug": "meg",
+    "pageId": 323880,
+    "revisionId": 4487013
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:POKÉTOON characters",
+    "sourceFileName": "meg__323880.json",
+    "revisionTimestamp": "2026-02-15T20:05:56Z",
+    "fetchedAt": "2026-05-14T14:36:07.658Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "For the TCG expansion with the set code MEG, see Mega Evolution (TCG).\n \n(Japanese: メグ Meg) is the main character of PT14. She is allergic to .",
+  "plainText": "For the TCG expansion with the set code MEG, see Mega Evolution (TCG).\n \n(Japanese: メグ Meg) is the main character of PT14. She is allergic to .\n\n==History==\nMeg decided to travel to her family's Safari Zone for her summer vacation. There, she quickly encountered a wearing a hat, who was being chased down by her uncle Bozly. When asked, he refused to talk much about Chansey, only saying she was a local troublemaker, but Meg had her doubts, especially after seeing her cure the of a with her . After pressing a bit more, Bozly conceded and told Meg that Chansey used to belong to the previous Safari Zone warden, Meg's grandfather, and that she stole his hat once he took over his father's mantle.\n\nOne day, she told her uncle about her allergy after he unknowingly triggered it by simply mentioning the move . This seemed to give him an idea, and he asked her if she wanted to tag along. They visited an area densily populated by , , and , who Bozly theorized could be responsible for the weird things happening at the Safari Zone lately, such as the paralyzed Dratini. Suddenly, a Hoppip used to paralyze Bozly's , but the status condition was quickly cured by Chansey. Seeing how misguided he was, Bozly apologized to Chansey, and she returned his hat.\n\nSome time later, Meg's summer vacation ended, and she was picked up by her mother. In the car, she discovered that Chansey had managed to shrink down and sneak into her bag.\n\n==Pokémon==\n===Befriended===\n \n\n==Voice actors==\n \n\n==Artwork==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "For the TCG expansion with the set code MEG, see Mega Evolution (TCG).\n \n(Japanese: メグ Meg) is the main character of PT14. She is allergic to ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Meg decided to travel to her family's Safari Zone for her summer vacation. There, she quickly encountered a wearing a hat, who was being chased down by her uncle Bozly. When asked, he refused to talk much about Chansey, only saying she was a local troublemaker, but Meg had her doubts, especially after seeing her cure the of a with her . After pressing a bit more, Bozly conceded and told Meg that Chansey used to belong to the previous Safari Zone warden, Meg's grandfather, and that she stole his hat once he took over his father's mantle.\n\nOne day, she told her uncle about her allergy after he unknowingly triggered it by simply mentioning the move . This seemed to give him an idea, and he asked her if she wanted to tag along. They visited an area densily populated by , , and , who Bozly theorized could be responsible for the weird things happening at the Safari Zone lately, such as the paralyzed Dratini. Suddenly, a Hoppip used to paralyze Bozly's , but the status condition was quickly cured by Chansey. Seeing how misguided he was, Bozly apologized to Chansey, and she returned his hat.\n\nSome time later, Meg's summer vacation ended, and she was picked up by her mother. In the car, she discovered that Chansey had managed to shrink down and sneak into her bag."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Meg",
+    "pageType": "character",
+    "searchableText": "Meg\nCategory:POKÉTOON characters\nFor the TCG expansion with the set code MEG, see Mega Evolution (TCG).\n \n(Japanese: メグ Meg) is the main character of PT14. She is allergic to .",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 1497,
+    "sectionCount": 2
+  }
+}

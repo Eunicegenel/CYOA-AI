@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Horizon volume 1",
+    "slug": "pokemon-horizon-volume-1",
+    "pageId": 225989,
+    "revisionId": 4298278
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Horizon volumes",
+    "sourceFileName": "pokemon-horizon-volume-1__225989.json",
+    "revisionTimestamp": "2025-05-11T10:03:34Z",
+    "fetchedAt": "2026-05-14T15:36:31.504Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume of the Pokémon Horizon, a Pokémon manga created by mangaka Tenya Yabuno.",
+  "plainText": "Volume 1 is the first volume of the Pokémon Horizon, a Pokémon manga created by mangaka Tenya Yabuno.\n\n==Publications==\n \n \n \n \n \n \n \n \n\n==Chapters==\nEvent 01: Journey to a New Horizon\nEvent 02: The Power of Teamwork\nEvent 03: Traveling Trainer Tokio\nEvent 04: Mastering the Z-Move!\nEvent 05: Rockruff's Secret\n\n==Important events==\nmeets Mana and Tokio.\n\n \n\n \n\nit:Pokémon Horizon volume 1\nzh:宝可梦地平线1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the Pokémon Horizon, a Pokémon manga created by mangaka Tenya Yabuno."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Event 01: Journey to a New Horizon\nEvent 02: The Power of Teamwork\nEvent 03: Traveling Trainer Tokio\nEvent 04: Mastering the Z-Move!\nEvent 05: Rockruff's Secret"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "meets Mana and Tokio.\n\n \n\n \n\nit:Pokémon Horizon volume 1\nzh:宝可梦地平线1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Horizon volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Horizon volume 1\nCategory:Pokémon Horizon volumes\nVolume 1 is the first volume of the Pokémon Horizon, a Pokémon manga created by mangaka Tenya Yabuno.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 400,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP45",
+    "slug": "pmdp45",
+    "pageId": 176425,
+    "revisionId": 4527896
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp45__176425.json",
+    "revisionTimestamp": "2026-04-09T15:58:43Z",
+    "fetchedAt": "2026-05-14T15:32:41.225Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 家庭教師ピッピがキタ〜！！ Say Hello to the Tutor!!) is the forty-fifth chapter of the manga.",
+  "plainText": "(Japanese: 家庭教師ピッピがキタ〜！！ Say Hello to the Tutor!!) is the forty-fifth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 家庭教師ピッピがキタ〜！！ Say Hello to the Tutor!!) is the forty-fifth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP45",
+    "pageType": "chapter",
+    "searchableText": "PMDP45\nCategory:Pocket Monsters DP chapters\n(Japanese: 家庭教師ピッピがキタ〜！！ Say Hello to the Tutor!!) is the forty-fifth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 219,
+    "sectionCount": 2
+  }
+}

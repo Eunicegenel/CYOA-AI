@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon 4Koma School",
+    "slug": "pokemon-4koma-school",
+    "pageId": 192872,
+    "revisionId": 4527723
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-4koma-school__192872.json",
+    "revisionTimestamp": "2026-04-09T15:51:01Z",
+    "fetchedAt": "2026-05-14T15:34:49.828Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモン４コマ Pokémon 4Koma School) is a Pokémon 4Koma created by Takahiro Yamashita. Each volume is 192 pages long.",
+  "plainText": "(Japanese: ポケモン４コマ Pokémon 4Koma School) is a Pokémon 4Koma created by Takahiro Yamashita. Each volume is 192 pages long.\n\n==List of volumes==\n \n\n==External links==\nWeekly CoroCoro Comics\nVolume 1 on Shogakukan's website\nVolume 2 on Shogakukan's website\nVolume 3 on Shogakukan's website\nVolume 4 on Shogakukan's website\nVolume 5 on Shogakukan's website\nVolume 6 on Shogakukan's website\nVolume 7 on Shogakukan's website\nVolume 8 on Shogakukan's website\n\n \n\n \n\nes:Pokémon 4-Koma Gakuen\nit:Pokémon 4Koma School\nja:ポケモン4コマ学園\nzh:宝可梦四格学园",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン４コマ Pokémon 4Koma School) is a Pokémon 4Koma created by Takahiro Yamashita. Each volume is 192 pages long."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Weekly CoroCoro Comics\nVolume 1 on Shogakukan's website\nVolume 2 on Shogakukan's website\nVolume 3 on Shogakukan's website\nVolume 4 on Shogakukan's website\nVolume 5 on Shogakukan's website\nVolume 6 on Shogakukan's website\nVolume 7 on Shogakukan's website\nVolume 8 on Shogakukan's website\n\n \n\n \n\nes:Pokémon 4-Koma Gakuen\nit:Pokémon 4Koma School\nja:ポケモン4コマ学園\nzh:宝可梦四格学园"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 4Koma School",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 4Koma School\nCategory:Pokémon 4Koma\n(Japanese: ポケモン４コマ Pokémon 4Koma School) is a Pokémon 4Koma created by Takahiro Yamashita. Each volume is 192 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 531,
+    "sectionCount": 2
+  }
+}

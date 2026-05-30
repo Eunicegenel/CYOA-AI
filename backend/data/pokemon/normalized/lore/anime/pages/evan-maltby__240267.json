@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Evan Maltby",
+    "slug": "evan-maltby",
+    "pageId": 240267,
+    "revisionId": 4323703
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "evan-maltby__240267.json",
+    "revisionTimestamp": "2025-06-24T03:34:46Z",
+    "fetchedAt": "2026-05-14T14:18:34.349Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Evan Maltby is a voice actor for the English-language dub of .",
+  "plainText": "Evan Maltby is a voice actor for the English-language dub of .\n\n==Biography==\nMaltby was born and is currently living in New York. He became a voice actor as an adult and joined the during . There, he gained his first role as Team Skull boss Guzma.\n\n==Pokémon roles==\n===Animation===\n==== ====\nGuzma\n\n==Other non-Pokémon roles==\nHack My Life\nPeople People\nLucas and the Stars\n\n==External links==\nWebsite\nInstagram\nbackstage\nTwitter\n\n \n \n\nit:Evan Maltby",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Evan Maltby is a voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Maltby was born and is currently living in New York. He became a voice actor as an adult and joined the during . There, he gained his first role as Team Skull boss Guzma."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Guzma"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Hack My Life\nPeople People\nLucas and the Stars"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Website\nInstagram\nbackstage\nTwitter\n\n \n \n\nit:Evan Maltby"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Evan Maltby",
+    "pageType": "general-anime-lore",
+    "searchableText": "Evan Maltby\nCategory:TPCi voice actors\nEvan Maltby is a voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 452,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Yuna Ogata",
+    "slug": "yuna-ogata",
+    "pageId": 287254,
+    "revisionId": 4405319
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "yuna-ogata__287254.json",
+    "revisionTimestamp": "2025-10-18T14:13:51Z",
+    "fetchedAt": "2026-05-14T15:00:20.468Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yuna Ogata (Japanese: 緒方佑奈 Ogata Yūna) is a Japanese voice actress for and .",
+  "plainText": "Yuna Ogata (Japanese: 緒方佑奈 Ogata Yūna) is a Japanese voice actress for and .\n\n==Biography==\nOgata was born on July 31 in Hiroshima Prefecture, Japan and became a voice actress as an adult. Ogata first worked on Pokémon voicing in Pokémon: Twilight Wings before joining the voicing minor recurring character Vic. She gained her most notable role during when she voiced Liko's classmate Ann. Ogata is currently affiliated with .\n\n==Pokémon roles==\n===Animation===\n==== ====\nVic\n\n==== ====\n=====Humans=====\nAnn\nYoung Diana\n\n=====Pokémon=====\n\n(HZ020)\n(HZ036)\n\n====Pokémon: Twilight Wings====\n\n====Pokémon: Paldean Winds====\n(PPW01)\n\n==Other non-Pokémon roles==\nEma Baily ( )\nHonoka Tsukii ( )\nNoblin ( )\nHajime ( )\n\n==External links==\nAnime News Network\nAgency Profile\n\n \n \n \n\nit:Yūna Ogata\nja:緒方佑奈",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yuna Ogata (Japanese: 緒方佑奈 Ogata Yūna) is a Japanese voice actress for and ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Ogata was born on July 31 in Hiroshima Prefecture, Japan and became a voice actress as an adult. Ogata first worked on Pokémon voicing in Pokémon: Twilight Wings before joining the voicing minor recurring character Vic. She gained her most notable role during when she voiced Liko's classmate Ann. Ogata is currently affiliated with ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Vic"
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Ann\nYoung Diana"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(HZ020)\n(HZ036)"
+    },
+    {
+      "heading": "Pokémon: Paldean Winds",
+      "level": 4,
+      "text": "(PPW01)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Ema Baily ( )\nHonoka Tsukii ( )\nNoblin ( )\nHajime ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anime News Network\nAgency Profile\n\n \n \n \n\nit:Yūna Ogata\nja:緒方佑奈"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yuna Ogata",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yuna Ogata\nCategory:Japanese voice actors\nYuna Ogata (Japanese: 緒方佑奈 Ogata Yūna) is a Japanese voice actress for and .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Humans",
+      "Pokémon",
+      "Pokémon: Paldean Winds",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 795,
+    "sectionCount": 8
+  }
+}

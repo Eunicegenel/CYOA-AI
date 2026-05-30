@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "CXY04",
+    "slug": "cxy04",
+    "pageId": 346769,
+    "revisionId": 4547820
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Let's Play the Pokémon Card Game XY! chapters",
+    "sourceFileName": "cxy04__346769.json",
+    "revisionTimestamp": "2026-05-10T04:44:48Z",
+    "fetchedAt": "2026-05-14T15:16:33.826Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the fourth regular chapter of the Let's Play the Pokémon Card Game XY! manga.",
+  "plainText": "This is the fourth regular chapter of the Let's Play the Pokémon Card Game XY! manga.\n\n== Plot ==\n Manabu badgers Uratane constantly begging him to explain what the official championship is. Eventually Uratane gives and says he will explain what the official circuit is and what it entails. However, he says he will only do it if Manabu can beat him using the structure deck and expansion pack given to him by the strange man. Manabu agrees and they commence their battles. Despite Manabu's vigor, he is unable to win against Uratane who is using a Mega Charizard X to wipe out all of Manabu's Pokémon before he can establish them. Manabu is able to gain victory by drawing a Pyroar promo he got from an issue of CoroCoro Ichiban. That Pyroar lets Manabu remove one energy from Uratane's Mega Charizard to prevent it from attacking. Furthermore, due to Mega Charizard milling Uratane's deck every-time it attacked, he no longer has any energy in his deck to attach to it. This lets Manabu ready his own Mega Charizard Y and gain victory.\n\n== Major events ==\n\n=== Debuts ===\n\n== Characters ==\n\n=== Humans ===\n\nManabu Kadoo\nHiroshi Uratane\nGuladari\n\nOther depictions\n\n=== Pokémon ===\n\nOther depictions\n\n== Cards featured ==\nManabu's cards:\n\nUratane's cards:\n\n== External links ==\n\nChapter 4 on the Pokémon Card Game official website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the fourth regular chapter of the Let's Play the Pokémon Card Game XY! manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Manabu badgers Uratane constantly begging him to explain what the official championship is. Eventually Uratane gives and says he will explain what the official circuit is and what it entails. However, he says he will only do it if Manabu can beat him using the structure deck and expansion pack given to him by the strange man. Manabu agrees and they commence their battles. Despite Manabu's vigor, he is unable to win against Uratane who is using a Mega Charizard X to wipe out all of Manabu's Pokémon before he can establish them. Manabu is able to gain victory by drawing a Pyroar promo he got from an issue of CoroCoro Ichiban. That Pyroar lets Manabu remove one energy from Uratane's Mega Charizard to prevent it from attacking. Furthermore, due to Mega Charizard milling Uratane's deck every-time it attacked, he no longer has any energy in his deck to attach to it. This lets Manabu ready his own Mega Charizard Y and gain victory."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Manabu Kadoo\nHiroshi Uratane\nGuladari\n\nOther depictions"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "Other depictions"
+    },
+    {
+      "heading": "Cards featured",
+      "level": 2,
+      "text": "Manabu's cards:\n\nUratane's cards:"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 4 on the Pokémon Card Game official website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CXY04",
+    "pageType": "chapter",
+    "searchableText": "CXY04\nCategory:Let's Play the Pokémon Card Game XY! chapters\nThis is the fourth regular chapter of the Let's Play the Pokémon Card Game XY! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon",
+      "Cards featured",
+      "External links"
+    ],
+    "characterCount": 1330,
+    "sectionCount": 6
+  }
+}

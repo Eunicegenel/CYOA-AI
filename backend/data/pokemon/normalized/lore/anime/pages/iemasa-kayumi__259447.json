@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Iemasa Kayumi",
+    "slug": "iemasa-kayumi",
+    "pageId": 259447,
+    "revisionId": 4323698
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "iemasa-kayumi__259447.json",
+    "revisionTimestamp": "2025-06-24T03:34:39Z",
+    "fetchedAt": "2026-05-14T14:24:47.281Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Iemasa Kayumi (Japanese: 家弓家正 Kayumi Iemasa) was a Japanese voice actor for .",
+  "plainText": "Iemasa Kayumi (Japanese: 家弓家正 Kayumi Iemasa) was a Japanese voice actor for .\n\n==Biography==\nKayumi was born on October 31, 1933, in , , and became an actor as an adult. He joined the during , voicing Professor Rowan. Kayumi passed away on September 30, 2014, at the age of 80.\n\n==Pokémon roles==\n===Animation===\n==== ====\nProfessor Rowan (DP001-DPS01)\n\n==Other non-Pokémon roles==\nSkunk Kusai ( )\nDr. Tatsunoko ( )\nFudou ( )\nHenry James ( )\nKyōsuke Mamō, William Hafner ( )\nPresident ( )\nGolder ( )\nHendrick Ray ( )\nGordam, Narrator ( )\nLifsey ( )\nLepka ( )\nMr. Big ( )\nGeneral Pavlochiva ( )\nStuart Pitock ( )\nColonel Krueger, Narrator ( )\nKou ( )\nKenneth Goldman ( )\n\n==External links==\nAgency Profile\nAnime News Network\nBehind the Voice Actors\nAnime-Planet\n\n \n\n \n \n\nit:Iemasa Kayumi\nja:家弓家正",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Iemasa Kayumi (Japanese: 家弓家正 Kayumi Iemasa) was a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kayumi was born on October 31, 1933, in , , and became an actor as an adult. He joined the during , voicing Professor Rowan. Kayumi passed away on September 30, 2014, at the age of 80."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Professor Rowan (DP001-DPS01)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Skunk Kusai ( )\nDr. Tatsunoko ( )\nFudou ( )\nHenry James ( )\nKyōsuke Mamō, William Hafner ( )\nPresident ( )\nGolder ( )\nHendrick Ray ( )\nGordam, Narrator ( )\nLifsey ( )\nLepka ( )\nMr. Big ( )\nGeneral Pavlochiva ( )\nStuart Pitock ( )\nColonel Krueger, Narrator ( )\nKou ( )\nKenneth Goldman ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Agency Profile\nAnime News Network\nBehind the Voice Actors\nAnime-Planet\n\n \n\n \n \n\nit:Iemasa Kayumi\nja:家弓家正"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Iemasa Kayumi",
+    "pageType": "general-anime-lore",
+    "searchableText": "Iemasa Kayumi\nCategory:Japanese voice actors\nIemasa Kayumi (Japanese: 家弓家正 Kayumi Iemasa) was a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 794,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mickey",
+    "slug": "mickey",
+    "pageId": 176878,
+    "revisionId": 4289143
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "mickey__176878.json",
+    "revisionTimestamp": "2025-04-28T19:48:48Z",
+    "fetchedAt": "2026-05-14T14:36:49.598Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mickey (Japanese: ミキ Miki) is a character of the day who appeared in Ariados, Amigos. She is a student at the Pokémon Jujitsu Academy.\n\nMickey took the Red classes of the Academy which studies battle techniques. She had a battle with and lost.",
+  "plainText": "Mickey (Japanese: ミキ Miki) is a character of the day who appeared in Ariados, Amigos. She is a student at the Pokémon Jujitsu Academy.\n\nMickey took the Red classes of the Academy which studies battle techniques. She had a battle with and lost.\n \n==Pokémon==\n \n \n\n==Voice actors==\n \n \n \n\n \n \n \n \n\nes:Nicky (Johto)\nfr:Miky (épisode 176)\nit:Mickey",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mickey (Japanese: ミキ Miki) is a character of the day who appeared in Ariados, Amigos. She is a student at the Pokémon Jujitsu Academy.\n\nMickey took the Red classes of the Academy which studies battle techniques. She had a battle with and lost."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Nicky (Johto)\nfr:Miky (épisode 176)\nit:Mickey"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mickey",
+    "pageType": "character",
+    "searchableText": "Mickey\nCategory:Johto characters of the day\nMickey (Japanese: ミキ Miki) is a character of the day who appeared in Ariados, Amigos. She is a student at the Pokémon Jujitsu Academy.\n\nMickey took the Red classes of the Academy which studies battle techniques. She had a battle with and lost.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 344,
+    "sectionCount": 2
+  }
+}

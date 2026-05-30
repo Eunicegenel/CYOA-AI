@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PPPB20",
+    "slug": "pppb20",
+    "pageId": 6656,
+    "revisionId": 4528647
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "pppb20__6656.json",
+    "revisionTimestamp": "2026-04-09T16:32:50Z",
+    "fetchedAt": "2026-05-14T15:39:33.492Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Those Were The Days (Japanese: あの頃の二人 The Two Back Then) is the twentieth and final bonus chapter of the Magical Pokémon Journey manga. It is the final chapter of the manga altogether.",
+  "plainText": "Those Were The Days (Japanese: あの頃の二人 The Two Back Then) is the twentieth and final bonus chapter of the Magical Pokémon Journey manga. It is the final chapter of the manga altogether.\n\n==Plot==\n \n\n==Major events==\nHazel recollects her childhood friendship with Almond.\nThe story of Magical Pokémon Journey comes to a close.\n\n==Debuts==\n===Pokémon debuts===\n\n==Characters==\nHazel\nAlmond\n\n===Pokémon===\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Those Were The Days (Japanese: あの頃の二人 The Two Back Then) is the twentieth and final bonus chapter of the Magical Pokémon Journey manga. It is the final chapter of the manga altogether."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hazel recollects her childhood friendship with Almond.\nThe story of Magical Pokémon Journey comes to a close."
+    },
+    {
+      "heading": "Characters",
+      "level": 2,
+      "text": "Hazel\nAlmond"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPPB20",
+    "pageType": "chapter",
+    "searchableText": "PPPB20\nCategory:Magical Pokémon Journey chapters\nThose Were The Days (Japanese: あの頃の二人 The Two Back Then) is the twentieth and final bonus chapter of the Magical Pokémon Journey manga. It is the final chapter of the manga altogether.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Characters",
+      "Pokémon"
+    ],
+    "characterCount": 405,
+    "sectionCount": 4
+  }
+}

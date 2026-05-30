@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP22",
+    "slug": "pmdp22",
+    "pageId": 176401,
+    "revisionId": 4528318
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp22__176401.json",
+    "revisionTimestamp": "2026-04-09T16:15:45Z",
+    "fetchedAt": "2026-05-14T15:32:26.906Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ウキウキお Lighthearted Flower-viewing Mayhem) is the twenty-second chapter of the manga.",
+  "plainText": "(Japanese: ウキウキお Lighthearted Flower-viewing Mayhem) is the twenty-second chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ウキウキお Lighthearted Flower-viewing Mayhem) is the twenty-second chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP22",
+    "pageType": "chapter",
+    "searchableText": "PMDP22\nCategory:Pocket Monsters DP chapters\n(Japanese: ウキウキお Lighthearted Flower-viewing Mayhem) is the twenty-second chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 223,
+    "sectionCount": 2
+  }
+}

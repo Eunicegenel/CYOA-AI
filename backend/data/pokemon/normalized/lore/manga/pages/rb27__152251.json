@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB27",
+    "slug": "rb27",
+    "pageId": 152251,
+    "revisionId": 4242859
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb27__152251.json",
+    "revisionTimestamp": "2025-02-19T14:56:50Z",
+    "fetchedAt": "2026-05-14T15:47:32.863Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 再びハリルと…！！ Once More, with Hariru...!!) is the 27th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 再びハリルと…！！ Once More, with Hariru...!!) is the 27th chapter of the Pokémon RéBURST manga.\n==Plot==\n \n== Major events ==\nRyouga battles Hariru again.\nWhile Ryouga and Hariru battle, Fraud spies on Carola from afar.\n\n=== Debuts ===\n\n==== Pokémon debuts ====\n\n== Characters ==\n=== Humans ===\nRyouga\nFraud\nCarola\n\nRurimaru\nHariru\nHariru's father (flashback)\n=== Pokémon ===\n(Hariru's)\n(Ryouga's)\n(Rurimaru's)\n( 's)\n\n \n \n \n\n \n\nzh:RB27",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 再びハリルと…！！ Once More, with Hariru...!!) is the 27th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga battles Hariru again.\nWhile Ryouga and Hariru battle, Fraud spies on Carola from afar."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nFraud\nCarola\n\nRurimaru\nHariru\nHariru's father (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hariru's)\n(Ryouga's)\n(Rurimaru's)\n( 's)\n\n \n \n \n\n \n\nzh:RB27"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB27",
+    "pageType": "chapter",
+    "searchableText": "RB27\nCategory:Pokémon RéBURST chapters\n(Japanese: 再びハリルと…！！ Once More, with Hariru...!!) is the 27th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 439,
+    "sectionCount": 4
+  }
+}

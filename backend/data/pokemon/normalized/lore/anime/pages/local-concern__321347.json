@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Local concern",
+    "slug": "local-concern",
+    "pageId": 321347,
+    "revisionId": 4329000
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns",
+    "sourceFileName": "local-concern__321347.json",
+    "revisionTimestamp": "2025-07-02T01:29:02Z",
+    "fetchedAt": "2026-05-14T14:33:05.386Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Local concerns (Japanese: みんなの困りごと Everyone's Problems) are a feature introduced in Detective Pikachu Returns. These are small optional tasks that local residents, including Pokémon, will ask Tim and Pikachu for assistance in finding a solution. These are detailed in a separate concerns list, which can be accessed by pressing the Y button. When these tasks are completed, newspaper articles will talk about events based on said tasks. The game's prologue and final chapter (A Plan That Transcends Time) feature no local concerns.",
+  "plainText": "Local concerns (Japanese: みんなの困りごと Everyone's Problems) are a feature introduced in Detective Pikachu Returns. These are small optional tasks that local residents, including Pokémon, will ask Tim and Pikachu for assistance in finding a solution. These are detailed in a separate concerns list, which can be accessed by pressing the Y button. When these tasks are completed, newspaper articles will talk about events based on said tasks. The game's prologue and final chapter (A Plan That Transcends Time) feature no local concerns.\n\n==List of local concerns==\n===The Missing Jewel===\n \n\n===The Fabled Aurora===\n \n\n===Detainee Pikachu===\n \n\n===Memories of the Bamboo Forest===\n \n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Local concerns (Japanese: みんなの困りごと Everyone's Problems) are a feature introduced in Detective Pikachu Returns. These are small optional tasks that local residents, including Pokémon, will ask Tim and Pikachu for assistance in finding a solution. These are detailed in a separate concerns list, which can be accessed by pressing the Y button. When these tasks are completed, newspaper articles will talk about events based on said tasks. The game's prologue and final chapter (A Plan That Transcends Time) feature no local concerns."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Local concern",
+    "pageType": "general-anime-lore",
+    "searchableText": "Local concern\nCategory:Detective Pikachu Returns\nLocal concerns (Japanese: みんなの困りごと Everyone's Problems) are a feature introduced in Detective Pikachu Returns. These are small optional tasks that local residents, including Pokémon, will ask Tim and Pikachu for assistance in finding a solution. These are detailed in a separate concerns list, which can be accessed by pressing the Y button. When these tasks are completed, newspaper articles will talk about events based on said tasks. The game's prologue and final chapter (A Plan That Transcends Time) feature no local concerns.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 701,
+    "sectionCount": 1
+  }
+}

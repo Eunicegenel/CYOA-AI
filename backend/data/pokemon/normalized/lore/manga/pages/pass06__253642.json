@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASS06",
+    "slug": "pass06",
+    "pageId": 253642,
+    "revisionId": 4527848
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass06__253642.json",
+    "revisionTimestamp": "2026-04-09T15:55:58Z",
+    "fetchedAt": "2026-05-14T15:28:43.225Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Watch Out!! Strong Rivals (Japanese: ワラワラ！！強きライバル Bustling!! Strong Rivals) is the sixth chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Watch Out!! Strong Rivals (Japanese: ワラワラ！！強きライバル Bustling!! Strong Rivals) is the sixth chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nand meet Sonia.\nHenry and Casey learn about the Darkest Day.\nHenry and Casey meet Hop, Bede, and Marnie.\nHenry starts his gym battle against Milo.\n\n \n \n\n===Debuts===\n====Humans====\nSonia\nHop\nBede\nMarnie\n\n====Pokémon debuts====\n\n( )\n\n==Characters==\n===Humans===\nHenry\nCasey\nProfessor Magnolia\nMarvin\nMilo\nHop\nBede\nMarnie\nRose\nSonia\nOleana\nAnnouncer\n\n===Pokémon===\n(Lancelot; Dynamax; Henry's)\n(Steeler; Henry's)\n( )\n(Milo's; debut)\n(Milo's; Dynamax; debut)\n(Hop's; debut)\n(Bede's; debut)\n( ; Marnie's; debut)\n(Sonia's; debut)\n(Flying Taxi; debut)\n(Gigantamax; fantasy; silhouette)\n(Gigantamax; fantasy; silhouette)\n(Gigantamax; fantasy; silhouette)\n(Gigantamax; fantasy; silhouette)\n\n \n\n \n \n \n\nde:Auftritt der Rivalen\nes:PMSSwSh06\nfr:Chapitre 6 (Pocket Monsters Special Épée et Bouclier)\nit:PASS06\nzh:宝可梦特别篇 剑·盾篇 第6话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Watch Out!! Strong Rivals (Japanese: ワラワラ！！強きライバル Bustling!! Strong Rivals) is the sixth chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and meet Sonia.\nHenry and Casey learn about the Darkest Day.\nHenry and Casey meet Hop, Bede, and Marnie.\nHenry starts his gym battle against Milo."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Sonia\nHop\nBede\nMarnie"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nProfessor Magnolia\nMarvin\nMilo\nHop\nBede\nMarnie\nRose\nSonia\nOleana\nAnnouncer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Lancelot; Dynamax; Henry's)\n(Steeler; Henry's)\n( )\n(Milo's; debut)\n(Milo's; Dynamax; debut)\n(Hop's; debut)\n(Bede's; debut)\n( ; Marnie's; debut)\n(Sonia's; debut)\n(Flying Taxi; debut)\n(Gigantamax; fantasy; silhouette)\n(Gigantamax; fantasy; silhouette)\n(Gigantamax; fantasy; silhouette)\n(Gigantamax; fantasy; silhouette)\n\n \n\n \n \n \n\nde:Auftritt der Rivalen\nes:PMSSwSh06\nfr:Chapitre 6 (Pocket Monsters Special Épée et Bouclier)\nit:PASS06\nzh:宝可梦特别篇 剑·盾篇 第6话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS06",
+    "pageType": "chapter",
+    "searchableText": "PASS06\nCategory:Pokémon Adventures chapters\nWatch Out!! Strong Rivals (Japanese: ワラワラ！！強きライバル Bustling!! Strong Rivals) is the sixth chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 984,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP42",
+    "slug": "pmdp42",
+    "pageId": 176422,
+    "revisionId": 4528470
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp42__176422.json",
+    "revisionTimestamp": "2026-04-09T16:23:11Z",
+    "fetchedAt": "2026-05-14T15:32:39.356Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 遭難！魔の洞くつ！！ Calamity! A Treacherous Cave!!) is the forty-second chapter of the manga.",
+  "plainText": "(Japanese: 遭難！魔の洞くつ！！ Calamity! A Treacherous Cave!!) is the forty-second chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 遭難！魔の洞くつ！！ Calamity! A Treacherous Cave!!) is the forty-second chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP42",
+    "pageType": "chapter",
+    "searchableText": "PMDP42\nCategory:Pocket Monsters DP chapters\n(Japanese: 遭難！魔の洞くつ！！ Calamity! A Treacherous Cave!!) is the forty-second chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 223,
+    "sectionCount": 2
+  }
+}

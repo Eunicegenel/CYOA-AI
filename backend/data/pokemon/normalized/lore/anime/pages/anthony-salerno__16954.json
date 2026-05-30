@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Anthony Salerno",
+    "slug": "anthony-salerno",
+    "pageId": 16954,
+    "revisionId": 4504055
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "anthony-salerno__16954.json",
+    "revisionTimestamp": "2026-03-08T13:01:49Z",
+    "fetchedAt": "2026-05-14T14:03:03.887Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Anthony Salerno is an American voice actor, voice director, dubbing supervisor, script writer and filmmaker who currently works for the English-language dub of and former director under the dub by 4Kids Entertainment. He is sometimes credited as Tony Salerno.",
+  "plainText": "Anthony Salerno is an American voice actor, voice director, dubbing supervisor, script writer and filmmaker who currently works for the English-language dub of and former director under the dub by 4Kids Entertainment. He is sometimes credited as Tony Salerno.\n\n==Biography==\nSalerno began his career with Pokémon as a voice director during the second and third seasons. Eventually, he started lending his voice to various characters on the show. One of his most notable roles is that of Jackson. He left at the end of the eighth season, when and TAJ Productions took over the dubbing and distribution of the series, but returned in Thawing An Icy Panic! as Ramos.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Major=====\nRamos\nJackson\n\n=====Minor=====\nBart\nFitzwilliam\n\nClark\n\n==Other non-Pokémon roles==\nRex Raptor ( (season 5))\nChazz Princeton ( )\nChip ( )\n\n==External links==\nOfficial website\n\n \n\n \n \n \n \n\nit:Anthony Salerno",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Anthony Salerno is an American voice actor, voice director, dubbing supervisor, script writer and filmmaker who currently works for the English-language dub of and former director under the dub by 4Kids Entertainment. He is sometimes credited as Tony Salerno."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Salerno began his career with Pokémon as a voice director during the second and third seasons. Eventually, he started lending his voice to various characters on the show. One of his most notable roles is that of Jackson. He left at the end of the eighth season, when and TAJ Productions took over the dubbing and distribution of the series, but returned in Thawing An Icy Panic! as Ramos."
+    },
+    {
+      "heading": "Major",
+      "level": 5,
+      "text": "Ramos\nJackson"
+    },
+    {
+      "heading": "Minor",
+      "level": 5,
+      "text": "Bart\nFitzwilliam\n\nClark"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Rex Raptor ( (season 5))\nChazz Princeton ( )\nChip ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\n\n \n\n \n \n \n \n\nit:Anthony Salerno"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Anthony Salerno",
+    "pageType": "general-anime-lore",
+    "searchableText": "Anthony Salerno\nCategory:TPCi voice actors\nAnthony Salerno is an American voice actor, voice director, dubbing supervisor, script writer and filmmaker who currently works for the English-language dub of and former director under the dub by 4Kids Entertainment. He is sometimes credited as Tony Salerno.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 931,
+    "sectionCount": 6
+  }
+}

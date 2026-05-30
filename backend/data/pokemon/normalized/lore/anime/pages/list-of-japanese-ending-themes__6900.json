@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Japanese ending themes",
+    "slug": "list-of-japanese-ending-themes",
+    "pageId": 6900,
+    "revisionId": 4412139
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese ending themes",
+    "sourceFileName": "list-of-japanese-ending-themes__6900.json",
+    "revisionTimestamp": "2025-11-02T11:49:54Z",
+    "fetchedAt": "2026-05-14T14:32:27.742Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "This is a list of Japanese ending themes of Pokémon animation.",
+  "plainText": "This is a list of Japanese ending themes of Pokémon animation.\n\n==Animated series==\n \n\n==Movies==\n \n\n==Specials==\n \n\n===Side stories===\n \n\n===Pikachu shorts===\n \n\n==Pokémon variety shows==\n===Weekly Pokémon Broadcasting Station===\n \n\n===Pokémon Sunday===\n \n\n===Pokémon Smash!===\n \n\n===Meet Up at the Pokémon House?===\n \n\n==Related articles==\n \n\n \n\n \n\n \n \n\nde:Openings und Endings#Japanische Endings\nes:Ending\nfr:Générique#Liste des endings japonais\nit:Elenco delle sigle di chiusura giapponesi\nja:エンディングテーマ曲一覧\nzh:日語片尾曲列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of Japanese ending themes of Pokémon animation."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Openings und Endings#Japanische Endings\nes:Ending\nfr:Générique#Liste des endings japonais\nit:Elenco delle sigle di chiusura giapponesi\nja:エンディングテーマ曲一覧\nzh:日語片尾曲列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Japanese ending themes",
+    "pageType": "general-anime-lore",
+    "searchableText": "List of Japanese ending themes\nCategory:Japanese ending themes\nThis is a list of Japanese ending themes of Pokémon animation.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 520,
+    "sectionCount": 2
+  }
+}

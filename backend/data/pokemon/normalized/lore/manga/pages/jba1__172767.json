@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "JBA1",
+    "slug": "jba1",
+    "pageId": 172767,
+    "revisionId": 4549147
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS Jō's Big Adventure chapters",
+    "sourceFileName": "jba1__172767.json",
+    "revisionTimestamp": "2026-05-11T01:20:49Z",
+    "fetchedAt": "2026-05-14T15:22:24.844Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 目指せ最強！熱血兄弟コンビ！！ Aim to be the Strongest! The Hot-Blooded Brotherly Combination!!) is the first chapter of the Pocket Monsters HGSS Jō's Big Adventure manga.",
+  "plainText": "(Japanese: 目指せ最強！熱血兄弟コンビ！！ Aim to be the Strongest! The Hot-Blooded Brotherly Combination!!) is the first chapter of the Pocket Monsters HGSS Jō's Big Adventure manga.\n\n==Plot==\n \n\n==Major events==\nJō starts his with a and meets his rival, .\nJō gets his first Badge, the , from Falkner.\n\n===Debuts===\n====Humans====\nJō\n\nFalkner\nProfessor Elm\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\nJō\n\nFalkner\nProfessor Elm\nKurt\ns\n\n===Pokémon===\n( )\n( 's)\n(Falkner's)\n\n==In other languages==\n \n \n\n \n \n\nes:JBA1\nit:JBA1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 目指せ最強！熱血兄弟コンビ！！ Aim to be the Strongest! The Hot-Blooded Brotherly Combination!!) is the first chapter of the Pocket Monsters HGSS Jō's Big Adventure manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Jō starts his with a and meets his rival, .\nJō gets his first Badge, the , from Falkner."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Jō\n\nFalkner\nProfessor Elm"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jō\n\nFalkner\nProfessor Elm\nKurt\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's)\n(Falkner's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:JBA1\nit:JBA1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JBA1",
+    "pageType": "chapter",
+    "searchableText": "JBA1\nCategory:Pocket Monsters HGSS Jō's Big Adventure chapters\n(Japanese: 目指せ最強！熱血兄弟コンビ！！ Aim to be the Strongest! The Hot-Blooded Brotherly Combination!!) is the first chapter of the Pocket Monsters HGSS Jō's Big Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 518,
+    "sectionCount": 7
+  }
+}

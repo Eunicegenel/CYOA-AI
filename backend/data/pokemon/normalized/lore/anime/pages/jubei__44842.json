@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Jubei",
+    "slug": "jubei",
+    "pageId": 44842,
+    "revisionId": 4357181
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Chronicles characters of the day",
+    "sourceFileName": "jubei__44842.json",
+    "revisionTimestamp": "2025-08-12T14:49:09Z",
+    "fetchedAt": "2026-05-14T14:28:06.020Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n \nJubei (Japanese: ジュウベエ Jūbei) is a character of the day who appeared in Training Daze. \n\nHe was a red team member and Jessie's twelfth partner (tenth in the dub). He shared a with her as well, until they failed a robbing test. This resulted in him getting a poor grade.",
+  "plainText": "----\n \nJubei (Japanese: ジュウベエ Jūbei) is a character of the day who appeared in Training Daze. \n\nHe was a red team member and Jessie's twelfth partner (tenth in the dub). He shared a with her as well, until they failed a robbing test. This resulted in him getting a poor grade.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n==Related articles==\n \n \n\n \n \n \n \n\nes:Jubei\nit:Jubei (SS012)\nja:ジュウベエ\nzh:十兵卫",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \nJubei (Japanese: ジュウベエ Jūbei) is a character of the day who appeared in Training Daze. \n\nHe was a red team member and Jessie's twelfth partner (tenth in the dub). He shared a with her as well, until they failed a robbing test. This resulted in him getting a poor grade."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Jubei\nit:Jubei (SS012)\nja:ジュウベエ\nzh:十兵卫"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jubei",
+    "pageType": "character",
+    "searchableText": "Jubei\nCategory:Chronicles characters of the day\n----\n \nJubei (Japanese: ジュウベエ Jūbei) is a character of the day who appeared in Training Daze. \n\nHe was a red team member and Jessie's twelfth partner (tenth in the dub). He shared a with her as well, until they failed a robbing test. This resulted in him getting a poor grade.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 389,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Megarig",
+    "slug": "megarig",
+    "pageId": 50533,
+    "revisionId": 4191594
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series objects",
+    "sourceFileName": "megarig__50533.json",
+    "revisionTimestamp": "2024-11-24T08:17:41Z",
+    "fetchedAt": "2026-05-14T14:36:12.626Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "The Megarig (Japanese: メガリバ Megariba, short for Mega Reverse) is Zero's airship in Giratina and the Sky Warrior.",
+  "plainText": "The Megarig (Japanese: メガリバ Megariba, short for Mega Reverse) is Zero's airship in Giratina and the Sky Warrior. \n\n==Technology==\n \nThe Megarig is operated by Infi, Zero's artificial intelligence program. Projections of Infi fill the ship, providing Zero with data on his surroundings at all times.\n\nThe most prominent feature in the Megarig is a scanning system originally designed by Zero's former mentor, Newton Graceland. This system can scan and copy 's dimension-warping ability; however, Newton realized that it would come at a great cost— 's life. Newton destroyed the original prototype, knowing that its use would violate the researcher's oath to do no harm to a Pokémon. But Zero rebuilt the technology from memory and seized it for his own use. Ultimately, it fell to Newton to destroy his creation by initiating an embedded fail-safe in the computer system that Zero never knew about.\n\nAt least one smaller and more streamlined fighter jet is docked inside the ship. When the Megarig becomes disabled, Zero detaches it and uses it instead. This ship is called the \"Mecha Giratina\". Zero also keeps a hoverboard inside the Megarig for use in directly observing events outside the ship.\n\nThe wreckage of the Mecha Giratina later appeared in Arceus and the Jewel of Life, where Sheena and Kevin saw it when they visited the Gracidea garden during their investigation of prior space-time distortions.\n\n==Moves used (copied from Giratina)==\nThe Megarig's copying system allowed Zero's fighter ship to use these moves:\n \n \n \n \n \n\n==In the manga==\n \n===Movie adaptations===\nThe Megarig appears in the manga adaptation of .\n \n \n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n \n \n\nde:Megarig\nes:Megarig\nit:Megarig",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Megarig (Japanese: メガリバ Megariba, short for Mega Reverse) is Zero's airship in Giratina and the Sky Warrior."
+    },
+    {
+      "heading": "Technology",
+      "level": 2,
+      "text": "The Megarig is operated by Infi, Zero's artificial intelligence program. Projections of Infi fill the ship, providing Zero with data on his surroundings at all times.\n\nThe most prominent feature in the Megarig is a scanning system originally designed by Zero's former mentor, Newton Graceland. This system can scan and copy 's dimension-warping ability; however, Newton realized that it would come at a great cost— 's life. Newton destroyed the original prototype, knowing that its use would violate the researcher's oath to do no harm to a Pokémon. But Zero rebuilt the technology from memory and seized it for his own use. Ultimately, it fell to Newton to destroy his creation by initiating an embedded fail-safe in the computer system that Zero never knew about.\n\nAt least one smaller and more streamlined fighter jet is docked inside the ship. When the Megarig becomes disabled, Zero detaches it and uses it instead. This ship is called the \"Mecha Giratina\". Zero also keeps a hoverboard inside the Megarig for use in directly observing events outside the ship.\n\nThe wreckage of the Mecha Giratina later appeared in Arceus and the Jewel of Life, where Sheena and Kevin saw it when they visited the Gracidea garden during their investigation of prior space-time distortions."
+    },
+    {
+      "heading": "Moves used (copied from Giratina)",
+      "level": 2,
+      "text": "The Megarig's copying system allowed Zero's fighter ship to use these moves:"
+    },
+    {
+      "heading": "Movie adaptations",
+      "level": 3,
+      "text": "The Megarig appears in the manga adaptation of ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Megarig\nes:Megarig\nit:Megarig"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Megarig",
+    "pageType": "general-anime-lore",
+    "searchableText": "Megarig\nCategory:Animated series objects\nThe Megarig (Japanese: メガリバ Megariba, short for Mega Reverse) is Zero's airship in Giratina and the Sky Warrior.",
+    "sectionHeadings": [
+      "Lead",
+      "Technology",
+      "Moves used (copied from Giratina)",
+      "Movie adaptations",
+      "Related articles"
+    ],
+    "characterCount": 1725,
+    "sectionCount": 5
+  }
+}

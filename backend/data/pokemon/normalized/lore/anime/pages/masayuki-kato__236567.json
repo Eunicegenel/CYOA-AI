@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Masayuki Katō",
+    "slug": "masayuki-kato",
+    "pageId": 236567,
+    "revisionId": 4323611
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "masayuki-kato__236567.json",
+    "revisionTimestamp": "2025-06-24T03:33:18Z",
+    "fetchedAt": "2026-05-14T14:35:32.463Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Masayuki Katō (Japanese: 加藤将之 Katō Masayuki) is a Japanese voice actor for .",
+  "plainText": "Masayuki Katō (Japanese: 加藤将之 Katō Masayuki) is a Japanese voice actor for .\n\n==Biography==\nKatō was born on September 23, 1972, in , , and became a voice actor as an adult. He joined the during , where his only role was Porter, a group of cruise ship guides in the Decolore Islands. Katō was once affiliated with Mausu Promotion, and is currently affiliated with Ken Production.\n\n==Pokémon roles==\n===Animation===\n==== ====\nPorter\n\n==Other non-Pokémon roles==\nTakai Kiryuu ( )\nDerihourai ( )\nUshio ( )\nYoshio Kanzaki ( )\nSousuke Iwasaki ( )\nMatoma ( )\nZhang Fei \"Chō Hi\" Gundam ( )\nKiyomasa Senji/Crow ( )\nHal Kamhout ( )\nDemiurge ( series)\nKenji Makabe ( )\nKazuhiko ( )\nSeishū Saotome ( )\nHoldem ( )\nShūichi Wakui ( )\nYasuhiro Takanashi ( )\n\n==External links==\nKen Production profile\n\n \n\n \n\nit:Masayuki Katō",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Masayuki Katō (Japanese: 加藤将之 Katō Masayuki) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Katō was born on September 23, 1972, in , , and became a voice actor as an adult. He joined the during , where his only role was Porter, a group of cruise ship guides in the Decolore Islands. Katō was once affiliated with Mausu Promotion, and is currently affiliated with Ken Production."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Porter"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Takai Kiryuu ( )\nDerihourai ( )\nUshio ( )\nYoshio Kanzaki ( )\nSousuke Iwasaki ( )\nMatoma ( )\nZhang Fei \"Chō Hi\" Gundam ( )\nKiyomasa Senji/Crow ( )\nHal Kamhout ( )\nDemiurge ( series)\nKenji Makabe ( )\nKazuhiko ( )\nSeishū Saotome ( )\nHoldem ( )\nShūichi Wakui ( )\nYasuhiro Takanashi ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Ken Production profile\n\n \n\n \n\nit:Masayuki Katō"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Masayuki Katō",
+    "pageType": "general-anime-lore",
+    "searchableText": "Masayuki Katō\nCategory:Japanese voice actors\nMasayuki Katō (Japanese: 加藤将之 Katō Masayuki) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 809,
+    "sectionCount": 5
+  }
+}

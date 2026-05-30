@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "P7-12",
+    "slug": "p7-12",
+    "pageId": 117381,
+    "revisionId": 4528571
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Phantom Thief Pokémon 7 chapters",
+    "sourceFileName": "p7-12__117381.json",
+    "revisionTimestamp": "2026-04-09T16:27:24Z",
+    "fetchedAt": "2026-05-14T15:28:08.889Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Stopping Darkrai!! (Japanese: ダークライを止めろ！！ Stop Darkrai!!) is the 12th chapter of the Phantom Thief Pokémon 7 manga.",
+  "plainText": "Stopping Darkrai!! (Japanese: ダークライを止めろ！！ Stop Darkrai!!) is the 12th chapter of the Phantom Thief Pokémon 7 manga.\n\n==Plot==\n \n\n==Major events==\nHiori defeats with the Super and it calms down.\nHiori, , and Rocco go missing but resurface one month later.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHiori\nRocco\n\nIo\nNazuna\n\n===Pokémon===\n( )\n(Hiori's)\n(Hiori's)\n(Hiori's)\n(Hiori's)\n(Hiori's)\n\n \n \n \n \n\nzh:快盗！宝可梦７ 第12话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Stopping Darkrai!! (Japanese: ダークライを止めろ！！ Stop Darkrai!!) is the 12th chapter of the Phantom Thief Pokémon 7 manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hiori defeats with the Super and it calms down.\nHiori, , and Rocco go missing but resurface one month later."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hiori\nRocco\n\nIo\nNazuna"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Hiori's)\n(Hiori's)\n(Hiori's)\n(Hiori's)\n(Hiori's)\n\n \n \n \n \n\nzh:快盗！宝可梦７ 第12话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "P7-12",
+    "pageType": "chapter",
+    "searchableText": "P7-12\nCategory:Phantom Thief Pokémon 7 chapters\nStopping Darkrai!! (Japanese: ダークライを止めろ！！ Stop Darkrai!!) is the 12th chapter of the Phantom Thief Pokémon 7 manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 438,
+    "sectionCount": 4
+  }
+}

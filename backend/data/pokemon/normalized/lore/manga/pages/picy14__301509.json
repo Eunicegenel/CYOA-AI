@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PICY14",
+    "slug": "picy14",
+    "pageId": 301509,
+    "revisionId": 4528459
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! chapters",
+    "sourceFileName": "picy14__301509.json",
+    "revisionTimestamp": "2026-04-09T16:22:33Z",
+    "fetchedAt": "2026-05-14T15:30:12.831Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Chapter 14 (Japanese: 第１４話 Chapter 14) is the 14th chapter of Pokémon the Movie: I Choose You!",
+  "plainText": "Chapter 14 (Japanese: 第１４話 Chapter 14) is the 14th chapter of Pokémon the Movie: I Choose You!\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Humans====\n====Pokémon debuts====\n\n( )\n\n==Characters==\n===Humans===\n\nVerity\nSorrel\nBonji\nCross\n\n===Pokémon===\n( 's; )\n( 's)\n(Cross's; )\n(Verity's)\n(Sorrel's)\n( )\n\n==Differences between the movie and the manga==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chapter 14 (Japanese: 第１４話 Chapter 14) is the 14th chapter of Pokémon the Movie: I Choose You!"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Verity\nSorrel\nBonji\nCross"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's; )\n( 's)\n(Cross's; )\n(Verity's)\n(Sorrel's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PICY14",
+    "pageType": "chapter",
+    "searchableText": "PICY14\nCategory:Pokémon the Movie: I Choose You! chapters\nChapter 14 (Japanese: 第１４話 Chapter 14) is the 14th chapter of Pokémon the Movie: I Choose You!",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 354,
+    "sectionCount": 4
+  }
+}

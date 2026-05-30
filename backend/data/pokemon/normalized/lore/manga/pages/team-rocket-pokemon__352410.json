@@ -1,0 +1,105 @@
+{
+  "identity": {
+    "title": "Team Rocket Pokémon",
+    "slug": "team-rocket-pokemon",
+    "pageId": 352410,
+    "revisionId": 4484632
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga",
+    "sourceFileName": "team-rocket-pokemon__352410.json",
+    "revisionTimestamp": "2026-02-09T02:40:56Z",
+    "fetchedAt": "2026-05-14T15:51:20.413Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Team Rocket Pokémon (Japanese: Rocket Gang and Pokémon) is a Pokémon manga based on the Pokémon Trading Card Game. It was published daily in on Poké Times from April 15 to 17, 2025. Each of its three chapters is based on a different card from the expansion and illustrated by a different artist. Each chapter is three pages long.\n\nThe manga was posted on the official Asian Pokémon TCG Facebook account in English from June 1 to 3, 2025. The official social media accounts in , , , and also posted the manga in the respective local languages.",
+  "plainText": "Team Rocket Pokémon (Japanese: Rocket Gang and Pokémon) is a Pokémon manga based on the Pokémon Trading Card Game. It was published daily in on Poké Times from April 15 to 17, 2025. Each of its three chapters is based on a different card from the expansion and illustrated by a different artist. Each chapter is three pages long.\n\nThe manga was posted on the official Asian Pokémon TCG Facebook account in English from June 1 to 3, 2025. The official social media accounts in , , , and also posted the manga in the respective local languages.\n\n==Chapters==\n \n\n==Team Rocket's Meowth==\n \nTeam Rocket's Meowth (Japanese: Rocket Gang's Nyarth) is the first chapter. It was illustrated by Kino Takahashi. It is based on the print of Team Rocket's Meowth. It was published in Japan on Poké Times on April 15, 2025 at 10:00 AM JST, in English on June 1, 2025, in Hong Kong and Taiwan on May 3, 2025, in Indonesia on May 30, 2025, and in Thailand on June 13, 2025. \n\n===Summary===\n \n\n===Characters===\n====Humans====\nGiovanni\n\n====Pokémon====\n(Giovanni's)\n\n==Team Rocket's Murkrow==\n \nTeam Rocket's Murkrow (Japanese: Rocket Gang's Yamikarasu) is the second chapter. It was illustrated by Tika Matsuno. It is based on the print of Team Rocket's Murkrow. It was published in Japan on Poké Times on April 16, 2025 at 10:00 AM JST, in English on June 2, 2025, in Hong Kong and Taiwan on May 2, 2025, in Indonesia on May 31, 2025, and in Thailand on June 14, 2025. \n\n===Summary===\n \n\n===Characters===\n====Humans====\nAriana\ns\n\n====Pokémon====\n(Ariana's)\n( 's)\n\n(×3)\n\n==Kangaskhan==\n \nKangaskhan (Japanese: Garura) is the third and final chapter. It was illustrated by Hitoshi Ariga. It is based on the print of Kangaskhan. It was published in Japan on Poké Times on April 17, 2025 at 10:00 AM JST, in English on June 3, 2025, in Hong Kong and Taiwan on May 4, 2025, in Indonesia on June 1, 2025, and in Thailand on June 15, 2025. \n\n===Summary===\n \n\n===Characters===\n====Humans====\ns\n\n====Pokémon====\n( 's)\n( 's)\n\n==In other languages==\n \n \nTeam Rocket's Meowth\n \n \nTeam Rocket's Murkrow\n \n \nKangaskhan\n \n\n==References==\n \n\n \n \n\n \n\nzh:火箭隊和寶可夢",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Team Rocket Pokémon (Japanese: Rocket Gang and Pokémon) is a Pokémon manga based on the Pokémon Trading Card Game. It was published daily in on Poké Times from April 15 to 17, 2025. Each of its three chapters is based on a different card from the expansion and illustrated by a different artist. Each chapter is three pages long.\n\nThe manga was posted on the official Asian Pokémon TCG Facebook account in English from June 1 to 3, 2025. The official social media accounts in , , , and also posted the manga in the respective local languages."
+    },
+    {
+      "heading": "Team Rocket's Meowth",
+      "level": 2,
+      "text": "Team Rocket's Meowth (Japanese: Rocket Gang's Nyarth) is the first chapter. It was illustrated by Kino Takahashi. It is based on the print of Team Rocket's Meowth. It was published in Japan on Poké Times on April 15, 2025 at 10:00 AM JST, in English on June 1, 2025, in Hong Kong and Taiwan on May 3, 2025, in Indonesia on May 30, 2025, and in Thailand on June 13, 2025."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Giovanni"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 4,
+      "text": "(Giovanni's)"
+    },
+    {
+      "heading": "Team Rocket's Murkrow",
+      "level": 2,
+      "text": "Team Rocket's Murkrow (Japanese: Rocket Gang's Yamikarasu) is the second chapter. It was illustrated by Tika Matsuno. It is based on the print of Team Rocket's Murkrow. It was published in Japan on Poké Times on April 16, 2025 at 10:00 AM JST, in English on June 2, 2025, in Hong Kong and Taiwan on May 2, 2025, in Indonesia on May 31, 2025, and in Thailand on June 14, 2025."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Ariana\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 4,
+      "text": "(Ariana's)\n( 's)\n\n(×3)"
+    },
+    {
+      "heading": "Kangaskhan",
+      "level": 2,
+      "text": "Kangaskhan (Japanese: Garura) is the third and final chapter. It was illustrated by Hitoshi Ariga. It is based on the print of Kangaskhan. It was published in Japan on Poké Times on April 17, 2025 at 10:00 AM JST, in English on June 3, 2025, in Hong Kong and Taiwan on May 4, 2025, in Indonesia on June 1, 2025, and in Thailand on June 15, 2025."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "s"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 4,
+      "text": "( 's)\n( 's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "Team Rocket's Meowth\n \n \nTeam Rocket's Murkrow\n \n \nKangaskhan"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "zh:火箭隊和寶可夢"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Team Rocket Pokémon",
+    "pageType": "pokemon-related",
+    "searchableText": "Team Rocket Pokémon\nCategory:Manga\nTeam Rocket Pokémon (Japanese: Rocket Gang and Pokémon) is a Pokémon manga based on the Pokémon Trading Card Game. It was published daily in on Poké Times from April 15 to 17, 2025. Each of its three chapters is based on a different card from the expansion and illustrated by a different artist. Each chapter is three pages long.\n\nThe manga was posted on the official Asian Pokémon TCG Facebook account in English from June 1 to 3, 2025. The official social media accounts in , , , and also posted the manga in the respective local languages.",
+    "sectionHeadings": [
+      "Lead",
+      "Team Rocket's Meowth",
+      "Humans",
+      "Pokémon",
+      "Team Rocket's Murkrow",
+      "Humans",
+      "Pokémon",
+      "Kangaskhan",
+      "Humans",
+      "Pokémon",
+      "In other languages",
+      "References"
+    ],
+    "characterCount": 2128,
+    "sectionCount": 12
+  }
+}

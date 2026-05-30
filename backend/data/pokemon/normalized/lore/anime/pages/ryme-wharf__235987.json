@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Ryme Wharf",
+    "slug": "ryme-wharf",
+    "pageId": 235987,
+    "revisionId": 4545672
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu locations",
+    "sourceFileName": "ryme-wharf__235987.json",
+    "revisionTimestamp": "2026-05-06T11:29:27Z",
+    "fetchedAt": "2026-05-14T14:47:26.965Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "]]\nRyme Wharf (Japanese: ライム Ryme Wharf) is a wharf located in South Water, a district south of central Ryme in the game . Its port is located in the western side of Ryme Harbor . Goods from all over the world are stored in the many warehouses located around the area. Most of Chapter 7 takes place here.",
+  "plainText": "]]\nRyme Wharf (Japanese: ライム Ryme Wharf) is a wharf located in South Water, a district south of central Ryme in the game . Its port is located in the western side of Ryme Harbor . Goods from all over the world are stored in the many warehouses located around the area. Most of Chapter 7 takes place here.\n\n==Pokémon==\n \n\n==Trivia==\nImages of a port in , Netherlands are used in Detective Pikachu Ryme City Guide for the area of Ryme Wharf, and may have served as inspiration for this location.\n\n==In other languages==\n \n\n==References==\n \n\n==Related articles==\n \n \n \n\nzh:莱姆码头",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "]]\nRyme Wharf (Japanese: ライム Ryme Wharf) is a wharf located in South Water, a district south of central Ryme in the game . Its port is located in the western side of Ryme Harbor . Goods from all over the world are stored in the many warehouses located around the area. Most of Chapter 7 takes place here."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Images of a port in , Netherlands are used in Detective Pikachu Ryme City Guide for the area of Ryme Wharf, and may have served as inspiration for this location."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "zh:莱姆码头"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ryme Wharf",
+    "pageType": "location",
+    "searchableText": "Ryme Wharf\nCategory:Detective Pikachu locations\n]]\nRyme Wharf (Japanese: ライム Ryme Wharf) is a wharf located in South Water, a district south of central Ryme in the game . Its port is located in the western side of Ryme Harbor . Goods from all over the world are stored in the many warehouses located around the area. Most of Chapter 7 takes place here.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 574,
+    "sectionCount": 3
+  }
+}

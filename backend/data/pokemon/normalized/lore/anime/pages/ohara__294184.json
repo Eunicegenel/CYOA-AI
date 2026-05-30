@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Ohara",
+    "slug": "ohara",
+    "pageId": 294184,
+    "revisionId": 4340155
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Paldean Winds characters",
+    "sourceFileName": "ohara__294184.json",
+    "revisionTimestamp": "2025-07-21T06:45:06Z",
+    "fetchedAt": "2026-05-14T14:39:57.608Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ohara (Japanese: オハラ Ohara) is a character who appeared in Pokémon: Paldean Winds, and a main character. She attends Naranja Academy.",
+  "plainText": "Ohara (Japanese: オハラ Ohara) is a character who appeared in Pokémon: Paldean Winds, and a main character. She attends Naranja Academy.\n\n==History==\n \n \n \n\n==Character==\nOhara is a humble student and is a flutist. Ohara has a difficult relationship with her father, which was developed little by little, thanks to what she learned from and her friends.\n\nOhara also often says what she thinks without thinking about the consequences, which has sometimes caused her to get into arguments with Aliquis.\n\n==Pokémon==\n===On hand===\n \n\n===Traveling with===\n \n\n==Gallery==\n===Artwork===\n \n\n==Voice actors==\n \n\n==Names==\n \n\n==Trivia==\nOhara's is the only one among the first partner Pokémon of the three main characters of Pokémon: Paldean Winds to not be evolved, and also the only one that has not evolved at least once.\nOhara's Rotom Phone uses a White Case.\n\n==References==\n \n\n \n\n \n\nes:Ohara\nit:Ohara\nzh:小原",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ohara (Japanese: オハラ Ohara) is a character who appeared in Pokémon: Paldean Winds, and a main character. She attends Naranja Academy."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Ohara is a humble student and is a flutist. Ohara has a difficult relationship with her father, which was developed little by little, thanks to what she learned from and her friends.\n\nOhara also often says what she thinks without thinking about the consequences, which has sometimes caused her to get into arguments with Aliquis."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Ohara's is the only one among the first partner Pokémon of the three main characters of Pokémon: Paldean Winds to not be evolved, and also the only one that has not evolved at least once.\nOhara's Rotom Phone uses a White Case."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "es:Ohara\nit:Ohara\nzh:小原"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ohara",
+    "pageType": "character",
+    "searchableText": "Ohara\nCategory:Pokémon: Paldean Winds characters\nOhara (Japanese: オハラ Ohara) is a character who appeared in Pokémon: Paldean Winds, and a main character. She attends Naranja Academy.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "Trivia",
+      "References"
+    ],
+    "characterCount": 900,
+    "sectionCount": 4
+  }
+}

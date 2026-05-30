@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pokémon Ruby-Sapphire volumes",
+    "slug": "list-of-pokemon-ruby-sapphire-volumes",
+    "pageId": 84296,
+    "revisionId": 4131213
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire volumes",
+    "sourceFileName": "list-of-pokemon-ruby-sapphire-volumes__84296.json",
+    "revisionTimestamp": "2024-09-29T04:14:53Z",
+    "fetchedAt": "2026-05-14T15:24:54.679Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "This is a list of volumes of the Pokémon Ruby-Sapphire manga. There are six volumes in total, all of which have been translated into English by Chuang Yi.",
+  "plainText": "This is a list of volumes of the Pokémon Ruby-Sapphire manga. There are six volumes in total, all of which have been translated into English by Chuang Yi.\n\n==List of volumes==\n \n\n \n\n \n \n\nit:Elenco dei volumi di Pokémon Ruby-Sapphire\nzh:宝可梦欢乐祭 红宝石・蓝宝石篇单行本列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of volumes of the Pokémon Ruby-Sapphire manga. There are six volumes in total, all of which have been translated into English by Chuang Yi."
+    },
+    {
+      "heading": "List of volumes",
+      "level": 2,
+      "text": "it:Elenco dei volumi di Pokémon Ruby-Sapphire\nzh:宝可梦欢乐祭 红宝石・蓝宝石篇单行本列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon Ruby-Sapphire volumes",
+    "pageType": "pokemon-related",
+    "searchableText": "List of Pokémon Ruby-Sapphire volumes\nCategory:Pokémon Ruby-Sapphire volumes\nThis is a list of volumes of the Pokémon Ruby-Sapphire manga. There are six volumes in total, all of which have been translated into English by Chuang Yi.",
+    "sectionHeadings": [
+      "Lead",
+      "List of volumes"
+    ],
+    "characterCount": 256,
+    "sectionCount": 2
+  }
+}

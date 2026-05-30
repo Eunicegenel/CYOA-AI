@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Kimie",
+    "slug": "kimie",
+    "pageId": 208695,
+    "revisionId": 4095209
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "kimie__208695.json",
+    "revisionTimestamp": "2024-09-01T00:19:18Z",
+    "fetchedAt": "2026-05-14T14:29:33.821Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: キミエ Kimie) is a character of the day who appeared in Extreme Pokémon!.\n\nKimie lives in the town of Eggseter with her husband Mr. Shellby. She was holding an when Mr. Shellby took and to their house at the Shellby Ranch. She was next seen speaking to about Pokémon Breeding while Ash was practicing for the Extreme Pokémon Race.\n\nShe hosted the race alongside Mr. Shellby. During the race, Kimie witnessed 's balloon fall onto the ranch with freed from their net. After Ash defeated Team Rocket and won the race, Mr. Shellby rewarded Ash with a Egg, and Kimie and her husband waved Ash and his friends goodbye.",
+  "plainText": "(Japanese: キミエ Kimie) is a character of the day who appeared in Extreme Pokémon!.\n\nKimie lives in the town of Eggseter with her husband Mr. Shellby. She was holding an when Mr. Shellby took and to their house at the Shellby Ranch. She was next seen speaking to about Pokémon Breeding while Ash was practicing for the Extreme Pokémon Race.\n\nShe hosted the race alongside Mr. Shellby. During the race, Kimie witnessed 's balloon fall onto the ranch with freed from their net. After Ash defeated Team Rocket and won the race, Mr. Shellby rewarded Ash with a Egg, and Kimie and her husband waved Ash and his friends goodbye.\n\n==Pokémon==\n \n===Cared for===\n \nKimie has hatched many Eggs at Mr. Shellby's ranch which she cares for.\n\n===Given away===\n \n\n==Voice actors==\n \n \n \n\n \n \n \n \n\nit:Mrs. Shellby",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: キミエ Kimie) is a character of the day who appeared in Extreme Pokémon!.\n\nKimie lives in the town of Eggseter with her husband Mr. Shellby. She was holding an when Mr. Shellby took and to their house at the Shellby Ranch. She was next seen speaking to about Pokémon Breeding while Ash was practicing for the Extreme Pokémon Race.\n\nShe hosted the race alongside Mr. Shellby. During the race, Kimie witnessed 's balloon fall onto the ranch with freed from their net. After Ash defeated Team Rocket and won the race, Mr. Shellby rewarded Ash with a Egg, and Kimie and her husband waved Ash and his friends goodbye."
+    },
+    {
+      "heading": "Cared for",
+      "level": 3,
+      "text": "Kimie has hatched many Eggs at Mr. Shellby's ranch which she cares for."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Mrs. Shellby"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kimie",
+    "pageType": "character",
+    "searchableText": "Kimie\nCategory:Johto characters of the day\n(Japanese: キミエ Kimie) is a character of the day who appeared in Extreme Pokémon!.\n\nKimie lives in the town of Eggseter with her husband Mr. Shellby. She was holding an when Mr. Shellby took and to their house at the Shellby Ranch. She was next seen speaking to about Pokémon Breeding while Ash was practicing for the Extreme Pokémon Race.\n\nShe hosted the race alongside Mr. Shellby. During the race, Kimie witnessed 's balloon fall onto the ranch with freed from their net. After Ash defeated Team Rocket and won the race, Mr. Shellby rewarded Ash with a Egg, and Kimie and her husband waved Ash and his friends goodbye.",
+    "sectionHeadings": [
+      "Lead",
+      "Cared for",
+      "Voice actors"
+    ],
+    "characterCount": 795,
+    "sectionCount": 3
+  }
+}

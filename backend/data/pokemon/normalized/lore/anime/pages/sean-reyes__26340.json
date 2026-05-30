@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Sean Reyes",
+    "slug": "sean-reyes",
+    "pageId": 26340,
+    "revisionId": 4323613
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:PUSA voice actors",
+    "sourceFileName": "sean-reyes__26340.json",
+    "revisionTimestamp": "2025-06-24T03:33:19Z",
+    "fetchedAt": "2026-05-14T14:48:49.673Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Sean Reyes (born Sean Elias-Reyes; also credited as Sean Kenin) is an American voice actor for the English-language dub of . He is currently affiliated with KMR Talent Agency in New York and SBV Talent Agency in Los Angeles.",
+  "plainText": "Sean Reyes (born Sean Elias-Reyes; also credited as Sean Kenin) is an American voice actor for the English-language dub of . He is currently affiliated with KMR Talent Agency in New York and SBV Talent Agency in Los Angeles.\n\n==Biography==\nReyes was born sometime on October 7 and became a voice actor as an adult. He joined during Pokémon Ranger and the Temple of the Sea and has since voiced several characters in the . In his personal life, Reyes is married to fellow Pokémon voice actor Rosie Reyes and co-owns the New York City dubbing studio Hyperbolic Audio with another fellow Pokémon voice actor, Julián Rebolledo.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nProfessor Rowan\nWallace\nKellyn\nAbe\n\n======Minor======\n\nAstin\nSome of J's henchmen\n\n(SM063)\nCameraman (SM017)\nMan (SM017)\n\n=====Pokémon=====\n======Major======\nand \n\n======Minor======\n(M09, AG184, DP115)\n\n==Other non-Pokémon roles==\nKulon, Micho ( )\nOsamu ( )\nKakusuke, Shintaro Nakaoka ( )\nLaird ( )\nManny ( )\nSoundwave ( )\nTiny ( )\nHubie & Bertie ( )\n\n==External links==\nTwitter\nFacebook\nInstagram\nOfficial Website\n\n \n \n\nit:Sean Reyes",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sean Reyes (born Sean Elias-Reyes; also credited as Sean Kenin) is an American voice actor for the English-language dub of . He is currently affiliated with KMR Talent Agency in New York and SBV Talent Agency in Los Angeles."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Reyes was born sometime on October 7 and became a voice actor as an adult. He joined during Pokémon Ranger and the Temple of the Sea and has since voiced several characters in the . In his personal life, Reyes is married to fellow Pokémon voice actor Rosie Reyes and co-owns the New York City dubbing studio Hyperbolic Audio with another fellow Pokémon voice actor, Julián Rebolledo."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Professor Rowan\nWallace\nKellyn\nAbe"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Astin\nSome of J's henchmen\n\n(SM063)\nCameraman (SM017)\nMan (SM017)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "and"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(M09, AG184, DP115)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Kulon, Micho ( )\nOsamu ( )\nKakusuke, Shintaro Nakaoka ( )\nLaird ( )\nManny ( )\nSoundwave ( )\nTiny ( )\nHubie & Bertie ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nFacebook\nInstagram\nOfficial Website\n\n \n \n\nit:Sean Reyes"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sean Reyes",
+    "pageType": "general-anime-lore",
+    "searchableText": "Sean Reyes\nCategory:PUSA voice actors\nSean Reyes (born Sean Elias-Reyes; also credited as Sean Kenin) is an American voice actor for the English-language dub of . He is currently affiliated with KMR Talent Agency in New York and SBV Talent Agency in Los Angeles.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1138,
+    "sectionCount": 8
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Larry Turner",
+    "slug": "larry-turner",
+    "pageId": 323476,
+    "revisionId": 4215001
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "larry-turner__323476.json",
+    "revisionTimestamp": "2025-01-04T02:40:10Z",
+    "fetchedAt": "2026-05-14T14:30:32.629Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Larry Turner (Japanese: ラリー・ターナー Larry Turner) is a house staff member at the Denis Residence in the game Detective Pikachu Returns.",
+  "plainText": "Larry Turner (Japanese: ラリー・ターナー Larry Turner) is a house staff member at the Denis Residence in the game Detective Pikachu Returns.\n\n==In the games==\n===Detective Pikachu Returns===\nLarry is introduced at the start of the game during Tim's first major case investigating the theft of the Aurora Drop. He is a staff member at the Denis Residence, with his main duties including managing the house and groundskeeping. He is also involved in food preparation. \n\nLarry is later revealed by Tim and Pikachu to be the thief of the Aurora Drop. He is revealed to have laced the Pokémon's food with , causing the Pokémon of the house to fall asleep and allowing Larry to take the key off Sanjeev's and access the storage room containing the Aurora Drop. With the assistance of wild and (who slices the glass container protecting the Aurora Drop), Larry gets his partner to swallow the jewel and run away. Once apprehended by Tim and Pikachu, Larry reveals that he had teamed up with someone he barely knew in exchange for material rewards which would have led to an easier life.\n\nLarry is shown to be imprisoned in the ending credits.\n\n===Personality and characteristics===\nLarry appears to be relatively naive and misguided, as he partners with someone he had barely known to orchestrate the theft of the Aurora Drop. He is also shown to lack competence in his job, as he still struggles to maintain his formal speech when working, despite having worked at the Denis Residence for some time. He is however shown to be caring towards his partner Cramorant.\n\n===Pokémon===\nThis listing is of Larry's known in the games:\n\n \n\n===Voice actors===\n \n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Larry Turner (Japanese: ラリー・ターナー Larry Turner) is a house staff member at the Denis Residence in the game Detective Pikachu Returns."
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Larry is introduced at the start of the game during Tim's first major case investigating the theft of the Aurora Drop. He is a staff member at the Denis Residence, with his main duties including managing the house and groundskeeping. He is also involved in food preparation. \n\nLarry is later revealed by Tim and Pikachu to be the thief of the Aurora Drop. He is revealed to have laced the Pokémon's food with , causing the Pokémon of the house to fall asleep and allowing Larry to take the key off Sanjeev's and access the storage room containing the Aurora Drop. With the assistance of wild and (who slices the glass container protecting the Aurora Drop), Larry gets his partner to swallow the jewel and run away. Once apprehended by Tim and Pikachu, Larry reveals that he had teamed up with someone he barely knew in exchange for material rewards which would have led to an easier life.\n\nLarry is shown to be imprisoned in the ending credits."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "Larry appears to be relatively naive and misguided, as he partners with someone he had barely known to orchestrate the theft of the Aurora Drop. He is also shown to lack competence in his job, as he still struggles to maintain his formal speech when working, despite having worked at the Denis Residence for some time. He is however shown to be caring towards his partner Cramorant."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Larry's known in the games:"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Larry Turner",
+    "pageType": "character",
+    "searchableText": "Larry Turner\nCategory:Detective Pikachu Returns characters\nLarry Turner (Japanese: ラリー・ターナー Larry Turner) is a house staff member at the Denis Residence in the game Detective Pikachu Returns.",
+    "sectionHeadings": [
+      "Lead",
+      "Detective Pikachu Returns",
+      "Personality and characteristics",
+      "Pokémon"
+    ],
+    "characterCount": 1684,
+    "sectionCount": 4
+  }
+}

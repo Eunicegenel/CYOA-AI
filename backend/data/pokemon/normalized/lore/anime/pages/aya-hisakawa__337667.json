@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Aya Hisakawa",
+    "slug": "aya-hisakawa",
+    "pageId": 337667,
+    "revisionId": 4335761
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "aya-hisakawa__337667.json",
+    "revisionTimestamp": "2025-07-13T14:05:35Z",
+    "fetchedAt": "2026-05-14T14:04:23.061Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Aya Hisakawa (Japanese: 久川 綾 Hisakawa Aya) is a Japanese voice actress for .",
+  "plainText": "Aya Hisakawa (Japanese: 久川 綾 Hisakawa Aya) is a Japanese voice actress for .\n\n==Biography==\nHisakawa was born on November 12, 1968 in , , and became an actress as an adult. She originally voiced Carol in the second movie and Luna Carson in Mewtwo Returns before returning to the franchise nearly two decades later in Pokémon Masters EX.\n\n==Pokémon roles==\n===Animation===\n==== ====\nCarol\nLuna Carson\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\n===In anime===\n( )\n( (2018-present))\n( )\nMiki Kaoru ( )\nRetsu Unohana ( )\nKero ( )\nYuri Tsukikage/Cure Moonlight ( )\nRem Saverem ( )\nRei Kon ( )\nMaya Natsume ( )\nRay Beams ( )\nYohko Mano ( )\nFiona Ran Winchester ( )\n( )\n\n==External links==\nAgency profile\nAnime News Network\n\n \n\n \n\nit:Aya Hisakawa\nja:久川 綾",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Aya Hisakawa (Japanese: 久川 綾 Hisakawa Aya) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hisakawa was born on November 12, 1968 in , , and became an actress as an adult. She originally voiced Carol in the second movie and Luna Carson in Mewtwo Returns before returning to the franchise nearly two decades later in Pokémon Masters EX."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Carol\nLuna Carson"
+    },
+    {
+      "heading": "In anime",
+      "level": 3,
+      "text": "( )\n( (2018-present))\n( )\nMiki Kaoru ( )\nRetsu Unohana ( )\nKero ( )\nYuri Tsukikage/Cure Moonlight ( )\nRem Saverem ( )\nRei Kon ( )\nMaya Natsume ( )\nRay Beams ( )\nYohko Mano ( )\nFiona Ran Winchester ( )\n( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Agency profile\nAnime News Network\n\n \n\n \n\nit:Aya Hisakawa\nja:久川 綾"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Aya Hisakawa",
+    "pageType": "general-anime-lore",
+    "searchableText": "Aya Hisakawa\nCategory:Japanese voice actors\nAya Hisakawa (Japanese: 久川 綾 Hisakawa Aya) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "In anime",
+      "External links"
+    ],
+    "characterCount": 778,
+    "sectionCount": 5
+  }
+}

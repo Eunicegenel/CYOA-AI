@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Magician (Adventures)",
+    "slug": "magician-adventures",
+    "pageId": 202504,
+    "revisionId": 4444304
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "magician-adventures__202504.json",
+    "revisionTimestamp": "2025-12-14T04:55:46Z",
+    "fetchedAt": "2026-05-14T15:25:33.564Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Magician (Japanese: マジシャン Magician) is a recurring character in the Pokémon Adventures manga. He is a high-ranking member of the International Police and his codename is Black No. 1 (Japanese: 黒の壱号 Black 1).",
+  "plainText": "The Magician (Japanese: マジシャン Magician) is a recurring character in the Pokémon Adventures manga. He is a high-ranking member of the International Police and his codename is Black No. 1 (Japanese: 黒の壱号 Black 1).\n\n==Character==\nThe Magician is an acquaintance of who helps the boy by providing routine health checks and International Police Arms. Unlike the ones uses, the Arms that the Magician makes do not comically break when used. As compensation for these jobs, Blake pays the Magician large sums of money as well as allowing him access to the International Police computer database.\n\n==History==\nThe Magician debuted in Mr. Perfect, where Blake took Looker to the Magician's hideout in the Aspertia City alleyways. After performing a check-up on Blake's vitals, the Magician revealed he designed prototype Poké Ball covers that would make them easier to throw. Upon hearing an explosion coming from outside, Blake and Looker left to investigate and found the culprit to be the Mythical Pokémon .\n\nIn Innocent Scientist, the Magician delivered a case full of Poké Ball covers to Blake. With them, Blake was able to successfully capture .\n\nIn Pink Slip, after losing contact with Blake, Looker went to the Magician's hideout, only to find the man in the process of fleeing. The Magician revealed that Blake had been discharged from the International Police after they discovered his and the Magician's deal with each other. Due to the International Police now knowing where he resided, the Magician was forced to escape. As he left, the Magician told Looker that he was last in contact with Blake in Castelia City.\n\nIn Epilogue, Blake was reinstated in the International Police due to his work in capturing the Seven Sages and Colress. Afterward, it was revealed that the Magician was actually an International Police member as well. After speaking with the International Police chief about Colress's sentence, the Magician returned to his usual role as Blake's supporter. Sometime later, Blake, disguised as Colress, departed for a new mission in Alola with the Magician.\n\n==Pokémon==\n \n\n==Related articles==\n \n \n\n \n \n \n \n\nes:Prestidigitador/Mago\nit:Mago\nzh:魔术师（特别篇）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Magician (Japanese: マジシャン Magician) is a recurring character in the Pokémon Adventures manga. He is a high-ranking member of the International Police and his codename is Black No. 1 (Japanese: 黒の壱号 Black 1)."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "The Magician is an acquaintance of who helps the boy by providing routine health checks and International Police Arms. Unlike the ones uses, the Arms that the Magician makes do not comically break when used. As compensation for these jobs, Blake pays the Magician large sums of money as well as allowing him access to the International Police computer database."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "The Magician debuted in Mr. Perfect, where Blake took Looker to the Magician's hideout in the Aspertia City alleyways. After performing a check-up on Blake's vitals, the Magician revealed he designed prototype Poké Ball covers that would make them easier to throw. Upon hearing an explosion coming from outside, Blake and Looker left to investigate and found the culprit to be the Mythical Pokémon .\n\nIn Innocent Scientist, the Magician delivered a case full of Poké Ball covers to Blake. With them, Blake was able to successfully capture .\n\nIn Pink Slip, after losing contact with Blake, Looker went to the Magician's hideout, only to find the man in the process of fleeing. The Magician revealed that Blake had been discharged from the International Police after they discovered his and the Magician's deal with each other. Due to the International Police now knowing where he resided, the Magician was forced to escape. As he left, the Magician told Looker that he was last in contact with Blake in Castelia City.\n\nIn Epilogue, Blake was reinstated in the International Police due to his work in capturing the Seven Sages and Colress. Afterward, it was revealed that the Magician was actually an International Police member as well. After speaking with the International Police chief about Colress's sentence, the Magician returned to his usual role as Blake's supporter. Sometime later, Blake, disguised as Colress, departed for a new mission in Alola with the Magician."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Prestidigitador/Mago\nit:Mago\nzh:魔术师（特别篇）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Magician (Adventures)",
+    "pageType": "character",
+    "searchableText": "Magician (Adventures)\nCategory:Pokémon Adventures characters\nThe Magician (Japanese: マジシャン Magician) is a recurring character in the Pokémon Adventures manga. He is a high-ranking member of the International Police and his codename is Black No. 1 (Japanese: 黒の壱号 Black 1).",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 2171,
+    "sectionCount": 4
+  }
+}

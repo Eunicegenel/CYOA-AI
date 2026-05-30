@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMRS22",
+    "slug": "pmrs22",
+    "pageId": 171068,
+    "revisionId": 4264626
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs22__171068.json",
+    "revisionTimestamp": "2025-03-23T18:29:12Z",
+    "fetchedAt": "2026-05-14T15:33:21.582Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Descent Of The Weather God!! (Japanese: 天気の神さま、降臨！！ The Weather God Descends!!) is the twenty-second chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Descent Of The Weather God!! (Japanese: 天気の神さま、降臨！！ The Weather God Descends!!) is the twenty-second chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n(all forms)\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n(all forms)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Descent Of The Weather God!! (Japanese: 天気の神さま、降臨！！ The Weather God Descends!!) is the twenty-second chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(all forms)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(all forms)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS22",
+    "pageType": "chapter",
+    "searchableText": "PMRS22\nCategory:Pokémon Ruby-Sapphire chapters\nDescent Of The Weather God!! (Japanese: 天気の神さま、降臨！！ The Weather God Descends!!) is the twenty-second chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 292,
+    "sectionCount": 3
+  }
+}

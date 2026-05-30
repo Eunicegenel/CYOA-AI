@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon Pocket Monsters volume 13",
+    "slug": "pokemon-pocket-monsters-volume-13",
+    "pageId": 160506,
+    "revisionId": 4354763
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters volumes",
+    "sourceFileName": "pokemon-pocket-monsters-volume-13__160506.json",
+    "revisionTimestamp": "2025-08-08T19:04:50Z",
+    "fetchedAt": "2026-05-14T15:36:54.112Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 13 is the thirteenth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 13 is the thirteenth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\n\nIce World\nSummer Time at Clefairy's Dome\nTo the Dragon's Den!!\nThe Ultimate Battle...?!\nThe Great Helper!!\nReturn light to Bellossom!!\nA Challenge to the Elite Four!\nClefairy, the Wizard\nThe Exam Showdown!!\n\n==Important events==\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\n\n===Evolutions===\n\n==Gym Battles==\nRed defeats the following Gym Leaders:\n\n==Character summary==\n\n===Red's Party===\n \n\n \n\n \n\nit:Pokémon Pocket Monsters volume 13\nzh:宝可梦欢乐祭13",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 13 is the thirteenth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Ice World\nSummer Time at Clefairy's Dome\nTo the Dragon's Den!!\nThe Ultimate Battle...?!\nThe Great Helper!!\nReturn light to Bellossom!!\nA Challenge to the Elite Four!\nClefairy, the Wizard\nThe Exam Showdown!!"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:"
+    },
+    {
+      "heading": "Gym Battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:"
+    },
+    {
+      "heading": "Red's Party",
+      "level": 3,
+      "text": "it:Pokémon Pocket Monsters volume 13\nzh:宝可梦欢乐祭13"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pocket Monsters volume 13",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pocket Monsters volume 13\nCategory:Pokémon Pocket Monsters volumes\nVolume 13 is the thirteenth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions",
+      "Gym Battles",
+      "Red's Party"
+    ],
+    "characterCount": 625,
+    "sectionCount": 5
+  }
+}

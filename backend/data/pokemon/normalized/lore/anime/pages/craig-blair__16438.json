@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Craig Blair",
+    "slug": "craig-blair",
+    "pageId": 16438,
+    "revisionId": 4323478
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "craig-blair__16438.json",
+    "revisionTimestamp": "2025-06-24T03:30:54Z",
+    "fetchedAt": "2026-05-14T14:10:31.802Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Craig Blair is an American voice actor who worked for the English-language dub of .",
+  "plainText": "Craig Blair is an American voice actor who worked for the English-language dub of .\n\n==Pokémon roles==\nBlair joined up with after the dubbing of the series was put under the control of Pokémon USA. Since then, he has voiced several different characters for the series. His most notable roles are that of and , both of which were originally done by Ed Paul.\n\nBlair left the at the end of season 12, with his recurring roles of Contest judges Contesta and Mr. Sukizo going to Mike Pollock (Contesta's original voice actor) and Tom Wayland at the start of the 13th season. Ed Paul previously returned to his role as .\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nTracey Sketchit (AG192)\n(DP002-DP043)\n\nRoark\nMr. Sukizo (AG151-DP146)\nRaoul Contesta (AG151-DP155)\n\n======Minor======\n\nCowboy (AG173)\n\n=====Pokémon=====\n======Major======\nMay's Wartortle\n\n======Minor======\n\nMany additional voices.\n\n====Pokémon Mystery Dungeon: Team Go-Getters Out of the Gate!====\n\n===Video games===\n====Super Smash Bros. Brawl====\n\n==Other non-Pokémon roles==\nas Pedestrian\nas Gary\n\n==External links==\nOfficial website\nInstagram\n \n \n \n\nit:Craig Blair",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Craig Blair is an American voice actor who worked for the English-language dub of ."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Blair joined up with after the dubbing of the series was put under the control of Pokémon USA. Since then, he has voiced several different characters for the series. His most notable roles are that of and , both of which were originally done by Ed Paul.\n\nBlair left the at the end of season 12, with his recurring roles of Contest judges Contesta and Mr. Sukizo going to Mike Pollock (Contesta's original voice actor) and Tom Wayland at the start of the 13th season. Ed Paul previously returned to his role as ."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Tracey Sketchit (AG192)\n(DP002-DP043)\n\nRoark\nMr. Sukizo (AG151-DP146)\nRaoul Contesta (AG151-DP155)"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Cowboy (AG173)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "May's Wartortle"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Many additional voices."
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "as Pedestrian\nas Gary"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nInstagram\n \n \n \n\nit:Craig Blair"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Craig Blair",
+    "pageType": "general-anime-lore",
+    "searchableText": "Craig Blair\nCategory:TPCi voice actors\nCraig Blair is an American voice actor who worked for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1144,
+    "sectionCount": 8
+  }
+}

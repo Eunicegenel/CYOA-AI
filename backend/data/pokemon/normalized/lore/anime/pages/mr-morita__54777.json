@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mr. Morita",
+    "slug": "mr-morita",
+    "pageId": 54777,
+    "revisionId": 4487884
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "mr-morita__54777.json",
+    "revisionTimestamp": "2026-02-17T14:47:57Z",
+    "fetchedAt": "2026-05-14T14:38:22.130Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mr. Morita (Japanese: モリタ Morita) is a character of the day who appeared in True Blue Swablu.\n\nMorita is the of a Pokémon nature preserve located somewhere between Verdanturf Town and Petalburg City. He let , , , and Max stay at his home in the preserve while they nursed an injured back to health and attempted to teach it to fly again. He commended May's efforts when Swablu healed after several days of treatment. Meanwhile, he was able to locate Swablu's flock at a nearby lake.",
+  "plainText": "Mr. Morita (Japanese: モリタ Morita) is a character of the day who appeared in True Blue Swablu.\n\nMorita is the of a Pokémon nature preserve located somewhere between Verdanturf Town and Petalburg City. He let , , , and Max stay at his home in the preserve while they nursed an injured back to health and attempted to teach it to fly again. He commended May's efforts when Swablu healed after several days of treatment. Meanwhile, he was able to locate Swablu's flock at a nearby lake.\n\n==Pokémon==\n===On hand===\n \n\n===Cared for===\n \n\n==Voice actors==\n \n\n \n\n \n \n \n \n \n\nes:Morita\nfr:Morita\nit:Signor Morita\nzh:森田",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mr. Morita (Japanese: モリタ Morita) is a character of the day who appeared in True Blue Swablu.\n\nMorita is the of a Pokémon nature preserve located somewhere between Verdanturf Town and Petalburg City. He let , , , and Max stay at his home in the preserve while they nursed an injured back to health and attempted to teach it to fly again. He commended May's efforts when Swablu healed after several days of treatment. Meanwhile, he was able to locate Swablu's flock at a nearby lake."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Morita\nfr:Morita\nit:Signor Morita\nzh:森田"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mr. Morita",
+    "pageType": "character",
+    "searchableText": "Mr. Morita\nCategory:Hoenn characters of the day\nMr. Morita (Japanese: モリタ Morita) is a character of the day who appeared in True Blue Swablu.\n\nMorita is the of a Pokémon nature preserve located somewhere between Verdanturf Town and Petalburg City. He let , , , and Max stay at his home in the preserve while they nursed an injured back to health and attempted to teach it to fly again. He commended May's efforts when Swablu healed after several days of treatment. Meanwhile, he was able to locate Swablu's flock at a nearby lake.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 608,
+    "sectionCount": 2
+  }
+}

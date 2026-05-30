@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PW31",
+    "slug": "pw31",
+    "pageId": 182556,
+    "revisionId": 4528486
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw31__182556.json",
+    "revisionTimestamp": "2026-04-09T16:23:48Z",
+    "fetchedAt": "2026-05-14T15:46:47.276Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 怒りのサンダース The Angry ) is the thirty first chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno.",
+  "plainText": "(Japanese: 怒りのサンダース The Angry ) is the thirty first chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno.\n\n==Plot==\n \n\n==Major events==\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( 's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 怒りのサンダース The Angry ) is the thirty first chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW31",
+    "pageType": "chapter",
+    "searchableText": "PW31\nCategory:How I Became a Pokémon Card chapters\n(Japanese: 怒りのサンダース The Angry ) is the thirty first chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 215,
+    "sectionCount": 2
+  }
+}

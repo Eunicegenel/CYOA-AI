@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PPP67",
+    "slug": "ppp67",
+    "pageId": 60658,
+    "revisionId": 4526354
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp67__60658.json",
+    "revisionTimestamp": "2026-04-09T14:39:01Z",
+    "fetchedAt": "2026-05-14T15:39:18.628Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Last Spell (Part 1) (Japanese: 最後のおまじない (前編) The Final Good-Luck Charm (Part 1)) is the sixty-seventh chapter of the Magical Pokémon Journey manga.",
+  "plainText": "The Last Spell (Part 1) (Japanese: 最後のおまじない (前編) The Final Good-Luck Charm (Part 1)) is the sixty-seventh chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nHazel and Coconut learn of a legendary Pokémon called , known for its power to grant wishes. They try to find Mew's Forest, where the creature is said to dwell, but all they find is an empty field... until Hazel comes across a strange portal.\n\n==Important characters and Pokémon==\nHazel\nCoconut\n\nAlmond\n\n==Character introductions==\n\n==Important events==\n\n \n \n \n\nit:PPP67",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Last Spell (Part 1) (Japanese: 最後のおまじない (前編) The Final Good-Luck Charm (Part 1)) is the sixty-seventh chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Hazel and Coconut learn of a legendary Pokémon called , known for its power to grant wishes. They try to find Mew's Forest, where the creature is said to dwell, but all they find is an empty field... until Hazel comes across a strange portal."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Hazel\nCoconut\n\nAlmond"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "it:PPP67"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP67",
+    "pageType": "chapter",
+    "searchableText": "PPP67\nCategory:Magical Pokémon Journey chapters\nThe Last Spell (Part 1) (Japanese: 最後のおまじない (前編) The Final Good-Luck Charm (Part 1)) is the sixty-seventh chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon",
+      "Important events"
+    ],
+    "characterCount": 534,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Major Attaway",
+    "slug": "major-attaway",
+    "pageId": 305778,
+    "revisionId": 4323714
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "major-attaway__305778.json",
+    "revisionTimestamp": "2025-06-24T03:34:56Z",
+    "fetchedAt": "2026-05-14T14:34:25.093Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Major Attaway is an American actor for the English-language dub of .",
+  "plainText": "Major Attaway is an American actor for the English-language dub of .\n\n==Biography==\nAttaway became a voice actor as an adult. Attaway first worked on Pokémon animation voicing several Pokémon during Secrets of the Jungle before joining , voicing Murdock of the Rising Volt Tacklers.\n\n==Pokémon roles==\n===Animation===\n====I Choose You! trilogy====\nSub-Alpha \n(M23)\n\n==== ====\n=====Humans=====\nMurdock\n\n=====Pokémon=====\n\n==External links==\nBehind the Voice Actors\nInstagram\nTwitter\n\n \n \n\nit:Major Attaway",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Major Attaway is an American actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Attaway became a voice actor as an adult. Attaway first worked on Pokémon animation voicing several Pokémon during Secrets of the Jungle before joining , voicing Murdock of the Rising Volt Tacklers."
+    },
+    {
+      "heading": "I Choose You! trilogy",
+      "level": 4,
+      "text": "Sub-Alpha \n(M23)"
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Murdock"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Behind the Voice Actors\nInstagram\nTwitter\n\n \n \n\nit:Major Attaway"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Major Attaway",
+    "pageType": "general-anime-lore",
+    "searchableText": "Major Attaway\nCategory:TPCi voice actors\nMajor Attaway is an American actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "I Choose You! trilogy",
+      "Humans",
+      "External links"
+    ],
+    "characterCount": 504,
+    "sectionCount": 5
+  }
+}

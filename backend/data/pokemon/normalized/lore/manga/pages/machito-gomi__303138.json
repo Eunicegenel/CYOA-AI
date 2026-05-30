@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Machito Gomi",
+    "slug": "machito-gomi",
+    "pageId": 303138,
+    "revisionId": 4243113
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga crew",
+    "sourceFileName": "machito-gomi__303138.json",
+    "revisionTimestamp": "2025-02-19T15:36:06Z",
+    "fetchedAt": "2026-05-14T15:25:24.800Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Machito Gomi (Japanese: 五味まちと Gomi Machito; born March 12, 1992) is a mangaka from and artist for the Pokémon series, beginning with his manga adaptation of M22, .",
+  "plainText": "Machito Gomi (Japanese: 五味まちと Gomi Machito; born March 12, 1992) is a mangaka from and artist for the Pokémon series, beginning with his manga adaptation of M22, .\n\n==Artwork==\nThis is a collection of official Pokémon artwork drawn by Gomi.\n\n===Other games===\nThis is a collection of other Pokémon games that Gomi has contributed artwork to.\n\n \n \n\n \n \n \n \n \n\n \n \n \n \n \n\n \n \n \n \n \n\n \n \n \n \n \n\n \n \n \n\n===Animation===\nThis is a collection of art for animation that Gomi has contributed to.\n\n \n \n\n \n \n \n CoroCoro promotional art \n \n\n \n \n \n\n==Works==\n===Pokémon & GAME FREAK Releases===\n\n \n\n \n\n==References==\n\n \n \n\nit:Machito Gomi",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Machito Gomi (Japanese: 五味まちと Gomi Machito; born March 12, 1992) is a mangaka from and artist for the Pokémon series, beginning with his manga adaptation of M22, ."
+    },
+    {
+      "heading": "Artwork",
+      "level": 2,
+      "text": "This is a collection of official Pokémon artwork drawn by Gomi."
+    },
+    {
+      "heading": "Other games",
+      "level": 3,
+      "text": "This is a collection of other Pokémon games that Gomi has contributed artwork to."
+    },
+    {
+      "heading": "Animation",
+      "level": 3,
+      "text": "This is a collection of art for animation that Gomi has contributed to.\n\n \n \n\n \n \n \n CoroCoro promotional art"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:Machito Gomi"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Machito Gomi",
+    "pageType": "manga-series",
+    "searchableText": "Machito Gomi\nCategory:Manga crew\nMachito Gomi (Japanese: 五味まちと Gomi Machito; born March 12, 1992) is a mangaka from and artist for the Pokémon series, beginning with his manga adaptation of M22, .",
+    "sectionHeadings": [
+      "Lead",
+      "Artwork",
+      "Other games",
+      "Animation",
+      "References"
+    ],
+    "characterCount": 625,
+    "sectionCount": 5
+  }
+}

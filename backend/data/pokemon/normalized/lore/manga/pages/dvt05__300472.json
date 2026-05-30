@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "DVT05",
+    "slug": "dvt05",
+    "pageId": 300472,
+    "revisionId": 4527683
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters ~The Detouring Volt Tacklers!!~ chapters",
+    "sourceFileName": "dvt05__300472.json",
+    "revisionTimestamp": "2026-04-09T15:47:59Z",
+    "fetchedAt": "2026-05-14T15:17:49.377Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 5ひきめ：テラパゴス 5th Monster: Terapagos) is the fifth chapter of the Pocket Monsters ~The Detouring Volt Tacklers!!~ manga. It is eight pages long.",
+  "plainText": "(Japanese: 5ひきめ：テラパゴス 5th Monster: Terapagos) is the fifth chapter of the Pocket Monsters ~The Detouring Volt Tacklers!!~ manga. It is eight pages long.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\n====Pokémon debuts====\n( ; )\n( )\n\n==Characters==\n===Humans===\nLiko\nRoy\nFriede\nOrla\nMurdock\nMollie\n\n===Pokémon===\n( )\n( )\n( )\n( )\n(Friede's; Captain Pikachu)\n( ; )\n\n==References==\n \n\n \n \n \n \n\nit:DVT05",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 5ひきめ：テラパゴス 5th Monster: Terapagos) is the fifth chapter of the Pocket Monsters ~The Detouring Volt Tacklers!!~ manga. It is eight pages long."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( ; )\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Liko\nRoy\nFriede\nOrla\nMurdock\nMollie"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n(Friede's; Captain Pikachu)\n( ; )"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:DVT05"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "DVT05",
+    "pageType": "chapter",
+    "searchableText": "DVT05\nCategory:Pocket Monsters ~The Detouring Volt Tacklers!!~ chapters\n(Japanese: 5ひきめ：テラパゴス 5th Monster: Terapagos) is the fifth chapter of the Pocket Monsters ~The Detouring Volt Tacklers!!~ manga. It is eight pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "References"
+    ],
+    "characterCount": 410,
+    "sectionCount": 5
+  }
+}

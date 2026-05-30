@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW15",
+    "slug": "pmbw15",
+    "pageId": 171701,
+    "revisionId": 4526371
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw15__171701.json",
+    "revisionTimestamp": "2026-04-09T14:39:56Z",
+    "fetchedAt": "2026-05-14T15:31:52.818Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: パイロットになりた～い！ I Want to Become a Pi~lot!) is the fifteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: パイロットになりた～い！ I Want to Become a Pi~lot!) is the fifteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: パイロットになりた～い！ I Want to Become a Pi~lot!) is the fifteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW15",
+    "pageType": "chapter",
+    "searchableText": "PMBW15\nCategory:Pocket Monsters BW chapters\n(Japanese: パイロットになりた～い！ I Want to Become a Pi~lot!) is the fifteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 246,
+    "sectionCount": 2
+  }
+}

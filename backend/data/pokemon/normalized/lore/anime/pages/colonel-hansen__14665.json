@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Colonel Hansen",
+    "slug": "colonel-hansen",
+    "pageId": 14665,
+    "revisionId": 4546097
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "colonel-hansen__14665.json",
+    "revisionTimestamp": "2026-05-07T07:45:28Z",
+    "fetchedAt": "2026-05-14T14:10:12.425Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Colonel Hansen (Japanese: ハンゾウ Hanzō) is a minor recurring character in . He appeared in The Princess and the Togepi and A Togepi Mirage!. He is a crooked Mirage Kingdom official who seeks to take over the kingdom by force.",
+  "plainText": "Colonel Hansen (Japanese: ハンゾウ Hanzō) is a minor recurring character in . He appeared in The Princess and the Togepi and A Togepi Mirage!. He is a crooked Mirage Kingdom official who seeks to take over the kingdom by force.\n\n==History==\nHansen enlisted the help of to kidnap from . After he was crowned and sent the king and queen to the dungeon, Hansen relieved Team Rocket of their duties and sent them blasting off. Due to his impure heart, Hansen's rule over the Mirage Kingdom began to destroy the Togepi Paradise.\n\nIn response to this, , Misty, , Max, , , and Princess Sara fought back against him with Togepi, who by that point had evolved into Togetic; the group was covertly assisted by Team Rocket, who was vengeful from their betrayal. Even with the help of his Pokémon, Hansen ended up losing to the group, after which he was dethroned and put into the dungeon for his crime of high treason.\n\n==Pokémon==\n===On hand===\n \nThis is the listing of Colonel Hansen's known Pokémon:\n \n\n \n\n===Temporary===\n \n\n==Voice actors==\n \n\n==Names==\n \n \n\n \n \n \n\nde:Gasputin Hansen\nes:Coronel Hansen\nfr:Colonel Hansen\nit:Colonnello Hansen\nja:ハンゾウ\nzh:韩佐",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Colonel Hansen (Japanese: ハンゾウ Hanzō) is a minor recurring character in . He appeared in The Princess and the Togepi and A Togepi Mirage!. He is a crooked Mirage Kingdom official who seeks to take over the kingdom by force."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Hansen enlisted the help of to kidnap from . After he was crowned and sent the king and queen to the dungeon, Hansen relieved Team Rocket of their duties and sent them blasting off. Due to his impure heart, Hansen's rule over the Mirage Kingdom began to destroy the Togepi Paradise.\n\nIn response to this, , Misty, , Max, , , and Princess Sara fought back against him with Togepi, who by that point had evolved into Togetic; the group was covertly assisted by Team Rocket, who was vengeful from their betrayal. Even with the help of his Pokémon, Hansen ended up losing to the group, after which he was dethroned and put into the dungeon for his crime of high treason."
+    },
+    {
+      "heading": "On hand",
+      "level": 3,
+      "text": "This is the listing of Colonel Hansen's known Pokémon:"
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:Gasputin Hansen\nes:Coronel Hansen\nfr:Colonel Hansen\nit:Colonnello Hansen\nja:ハンゾウ\nzh:韩佐"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Colonel Hansen",
+    "pageType": "character",
+    "searchableText": "Colonel Hansen\nCategory:Animation characters\nColonel Hansen (Japanese: ハンゾウ Hanzō) is a minor recurring character in . He appeared in The Princess and the Togepi and A Togepi Mirage!. He is a crooked Mirage Kingdom official who seeks to take over the kingdom by force.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "On hand",
+      "Names"
+    ],
+    "characterCount": 1144,
+    "sectionCount": 4
+  }
+}

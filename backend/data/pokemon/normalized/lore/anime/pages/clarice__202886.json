@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Clarice",
+    "slug": "clarice",
+    "pageId": 202886,
+    "revisionId": 4289241
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Performers",
+    "sourceFileName": "clarice__202886.json",
+    "revisionTimestamp": "2025-04-28T19:50:27Z",
+    "fetchedAt": "2026-05-14T14:09:54.365Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Clarice (Japanese: クラリス Clarisse) is a recurring character in Pokémon the Series: XY. She is a Pokémon Performer.",
+  "plainText": "Clarice (Japanese: クラリス Clarisse) is a recurring character in Pokémon the Series: XY. She is a Pokémon Performer.\n\n==History==\nClarice first appeared in A Showcase Debut!, where she competed in the Coumarine City Pokémon Showcase. She was first shown in the preparing room for Pokémon Performers. She was later called onstage to perform in the first round, together with and . As part of the theme of the first round, \"Pokémon Styling\", Clarice decorated Fletchling with a tie and a top hat. It wasn't enough to proceed, however, as she didn't get enough votes from the audience and fell slightly behind Blanche.\n\nIn Master Class Choices!, Clarice competed in the Fleurrh City Pokémon Showcase. However, once again, she did not make it to the Freestyle Performance.\n\nIn Master Class Is in Session! and Performing a Pathway to the Future!, Clarice competed in the Master Class Pokémon Showcase in Gloire City. In the first round, her performance didn't get enough votes from the audience, and as such, she was eliminated from the tournament.\n\n==Pokémon==\n \n \n\n==Showcases==\n===Princess Keys obtained===\nThis listing is of the s Clarice has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)\n\n===Master Class ranking===\nClarice has achieved the following ranking in the Master Class tournament:\nShowcase - Top 28 (Master Class Is in Session!)\n\n===Other achievements===\nClarice has competed in the following Rookie Class tournaments:\nShowcase - Theme Performance (A Showcase Debut!)\nShowcase - Theme Performance (Master Class Choices!)\n\n==Voice actors==\n \n\n==Trivia==\nIn A Showcase Debut!, the closed captions show Clarice's name as Clarissa in the dub.\n \n\n \n\n \n \n \n\nde:Clarissa\nes:Clarissa/Clarisse\nfr:Clarisse\nit:Cirilla\nja:クラリス\nzh:克萊莉絲",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clarice (Japanese: クラリス Clarisse) is a recurring character in Pokémon the Series: XY. She is a Pokémon Performer."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Clarice first appeared in A Showcase Debut!, where she competed in the Coumarine City Pokémon Showcase. She was first shown in the preparing room for Pokémon Performers. She was later called onstage to perform in the first round, together with and . As part of the theme of the first round, \"Pokémon Styling\", Clarice decorated Fletchling with a tie and a top hat. It wasn't enough to proceed, however, as she didn't get enough votes from the audience and fell slightly behind Blanche.\n\nIn Master Class Choices!, Clarice competed in the Fleurrh City Pokémon Showcase. However, once again, she did not make it to the Freestyle Performance.\n\nIn Master Class Is in Session! and Performing a Pathway to the Future!, Clarice competed in the Master Class Pokémon Showcase in Gloire City. In the first round, her performance didn't get enough votes from the audience, and as such, she was eliminated from the tournament."
+    },
+    {
+      "heading": "Princess Keys obtained",
+      "level": 3,
+      "text": "This listing is of the s Clarice has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)"
+    },
+    {
+      "heading": "Master Class ranking",
+      "level": 3,
+      "text": "Clarice has achieved the following ranking in the Master Class tournament:\nShowcase - Top 28 (Master Class Is in Session!)"
+    },
+    {
+      "heading": "Other achievements",
+      "level": 3,
+      "text": "Clarice has competed in the following Rookie Class tournaments:\nShowcase - Theme Performance (A Showcase Debut!)\nShowcase - Theme Performance (Master Class Choices!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In A Showcase Debut!, the closed captions show Clarice's name as Clarissa in the dub.\n \n\n \n\n \n \n \n\nde:Clarissa\nes:Clarissa/Clarisse\nfr:Clarisse\nit:Cirilla\nja:クラリス\nzh:克萊莉絲"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Clarice",
+    "pageType": "general-anime-lore",
+    "searchableText": "Clarice\nCategory:Performers\nClarice (Japanese: クラリス Clarisse) is a recurring character in Pokémon the Series: XY. She is a Pokémon Performer.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Princess Keys obtained",
+      "Master Class ranking",
+      "Other achievements",
+      "Trivia"
+    ],
+    "characterCount": 1762,
+    "sectionCount": 6
+  }
+}

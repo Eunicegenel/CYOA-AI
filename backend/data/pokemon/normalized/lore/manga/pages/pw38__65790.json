@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PW38",
+    "slug": "pw38",
+    "pageId": 65790,
+    "revisionId": 3392949
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw38__65790.json",
+    "revisionTimestamp": "2021-08-26T23:55:45Z",
+    "fetchedAt": "2026-05-14T15:46:51.633Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: アカリとピカチュウのたんじょうび Akari and Pikachu's Birthday), is the 38th and last chapter of the How I Became a Pokémon Card manga.",
+  "plainText": "(Japanese: アカリとピカチュウのたんじょうび Akari and Pikachu's Birthday), is the 38th and last chapter of the How I Became a Pokémon Card manga.\n\n \n\n==Plot==\n wants his first Pokémon seeing that his long-time friend has a Pokémon.\n\n==Major events==\nreceives a as a present.\n\n==Characters==\n===Humans===\n\nStudents\n\n===Pokémon===\n( 's)\n( 's)\n(student's)\n\n(×5)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: アカリとピカチュウのたんじょうび Akari and Pikachu's Birthday), is the 38th and last chapter of the How I Became a Pokémon Card manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "wants his first Pokémon seeing that his long-time friend has a Pokémon."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "receives a as a present."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Students"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( 's)\n(student's)\n\n(×5)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW38",
+    "pageType": "chapter",
+    "searchableText": "PW38\nCategory:How I Became a Pokémon Card chapters\n(Japanese: アカリとピカチュウのたんじょうび Akari and Pikachu's Birthday), is the 38th and last chapter of the How I Became a Pokémon Card manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 342,
+    "sectionCount": 5
+  }
+}

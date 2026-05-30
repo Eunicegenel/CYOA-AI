@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Roy's hometown",
+    "slug": "roys-hometown",
+    "pageId": 283803,
+    "revisionId": 4332609
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "roys-hometown__283803.json",
+    "revisionTimestamp": "2025-07-07T18:43:28Z",
+    "fetchedAt": "2026-05-14T14:47:11.306Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Roy's hometown is an unnamed island off the coast of Kanto. It first appeared in For Sure! 'Cause Sprigatito's with Me!, and is the hometown of Roy and his .\n\nIt is revealed that this island has a harmonious coexistence between the and the humans that live on it, and that there are no s on it. The leader of the island is Roy's grandfather.",
+  "plainText": "Roy's hometown is an unnamed island off the coast of Kanto. It first appeared in For Sure! 'Cause Sprigatito's with Me!, and is the hometown of Roy and his .\n\nIt is revealed that this island has a harmonious coexistence between the and the humans that live on it, and that there are no s on it. The leader of the island is Roy's grandfather.\n\n==History==\nIn The Treasure After the Storm!, Liko arrived on the island looking for of the Rising Volt Tacklers, but the had eaten the of the Pokémon on the island. This sparked an uprising among the wild Pokémon. While running away from the Pokémon, Liko met Roy, an island resident who helped her escape. With Friede's help, the two children were able to calm the wild Pokémon.\n\nIn Found You, Fuecoco!, the Explorers make a massive attack on the island and face the Rising Volt Tacklers again. This battle continued into The Ancient Poké Ball but ended when the Explorers retreated when a Black Rayquaza emerged from Roy's Ancient Poké Ball. Once the Brave Olivine had been mended, the Rising Volt Tacklers departed from Roy's hometown with Roy now a member of the group.\n\n==Places of interest==\n===Roy's house===\n \nThe house of the island's elder and where Roy lives is an important point in the residential area, some residents usually go there to try to solve problems on the island and several residents gather to eat and share their food.\n\nSome wild Pokémon are often seen living there and helping some humans with chores.\n \n\n==Pokémon seen on the island==\n \n\n==Trivia==\nThis is the first main character's hometown to not have an official name. \n \n \n \n\n \n\nes:Isla natal de Rod\nit:Città natale di Roy\nzh:孤島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Roy's hometown is an unnamed island off the coast of Kanto. It first appeared in For Sure! 'Cause Sprigatito's with Me!, and is the hometown of Roy and his .\n\nIt is revealed that this island has a harmonious coexistence between the and the humans that live on it, and that there are no s on it. The leader of the island is Roy's grandfather."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "In The Treasure After the Storm!, Liko arrived on the island looking for of the Rising Volt Tacklers, but the had eaten the of the Pokémon on the island. This sparked an uprising among the wild Pokémon. While running away from the Pokémon, Liko met Roy, an island resident who helped her escape. With Friede's help, the two children were able to calm the wild Pokémon.\n\nIn Found You, Fuecoco!, the Explorers make a massive attack on the island and face the Rising Volt Tacklers again. This battle continued into The Ancient Poké Ball but ended when the Explorers retreated when a Black Rayquaza emerged from Roy's Ancient Poké Ball. Once the Brave Olivine had been mended, the Rising Volt Tacklers departed from Roy's hometown with Roy now a member of the group."
+    },
+    {
+      "heading": "Roy's house",
+      "level": 3,
+      "text": "The house of the island's elder and where Roy lives is an important point in the residential area, some residents usually go there to try to solve problems on the island and several residents gather to eat and share their food.\n\nSome wild Pokémon are often seen living there and helping some humans with chores."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This is the first main character's hometown to not have an official name. \n \n \n \n\n \n\nes:Isla natal de Rod\nit:Città natale di Roy\nzh:孤島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Roy's hometown",
+    "pageType": "location",
+    "searchableText": "Roy's hometown\nCategory:Animated series-exclusive locations\nRoy's hometown is an unnamed island off the coast of Kanto. It first appeared in For Sure! 'Cause Sprigatito's with Me!, and is the hometown of Roy and his .\n\nIt is revealed that this island has a harmonious coexistence between the and the humans that live on it, and that there are no s on it. The leader of the island is Roy's grandfather.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Roy's house",
+      "Trivia"
+    ],
+    "characterCount": 1656,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PS492",
+    "slug": "ps492",
+    "pageId": 172078,
+    "revisionId": 4548753
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps492__172078.json",
+    "revisionTimestamp": "2026-05-11T00:41:30Z",
+    "fetchedAt": "2026-05-14T15:45:07.416Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Mine Mayhem (Japanese: VS ドリュウズ VS Excadrill), titled VS Excadrill in the Shogakukan Asia translation, is the 492nd chapter of the Pokémon Adventures manga, and the 32nd chapter of the .\n\nIt is subtitled Excadrill (Japanese: 出土 Excavation) in the VIZ Media translation and Mine Mayhem in the Shogakukan Asia translation.",
+  "plainText": "Mine Mayhem (Japanese: VS ドリュウズ VS Excadrill), titled VS Excadrill in the Shogakukan Asia translation, is the 492nd chapter of the Pokémon Adventures manga, and the 32nd chapter of the .\n\nIt is subtitled Excadrill (Japanese: 出土 Excavation) in the VIZ Media translation and Mine Mayhem in the Shogakukan Asia translation.\n\n==Plot==\n \n\n==Major events==\narrives at the Driftveil Gym.\nBlack tries to get his to listen to him.\nAfter learning that Tirtouga evolves into , Black names his Tirtouga \"Costa\".\nBlack begins his Gym battle against Clay.\nChili, Cress, and Cilan prepare to head to Nacrene City.\nLenora wonders why the people spying on her haven't acted yet.\n\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nCilan\nChili\nCress\nLenora\nClay\nHawes (flashback)\nBronius (flashback)\nFelix\nRich\nSterling\nDon\nHeath\ns\ns (flashback)\n\n===Pokémon===\n(Musha; 's)\n(Nite; 's)\n(Tula; 's)\n(Costa; 's)\n(Costa; 's; fantasy)\n( )\n( )\n( )\n(Lenora's)\n(Lenora's)\n( )\n(Clay's)\n(Clay's)\n(multiple)\n( ; fantasy)\n\n \n\n==In other languages==\n \n \n \n \n\nde:VS. Stalobor\nes:PMS492\nfr:Chapitre 492 (Pocket Monsters Special)\nit:LGA492\nzh:宝可梦特别篇 第492话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mine Mayhem (Japanese: VS ドリュウズ VS Excadrill), titled VS Excadrill in the Shogakukan Asia translation, is the 492nd chapter of the Pokémon Adventures manga, and the 32nd chapter of the .\n\nIt is subtitled Excadrill (Japanese: 出土 Excavation) in the VIZ Media translation and Mine Mayhem in the Shogakukan Asia translation."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "arrives at the Driftveil Gym.\nBlack tries to get his to listen to him.\nAfter learning that Tirtouga evolves into , Black names his Tirtouga \"Costa\".\nBlack begins his Gym battle against Clay.\nChili, Cress, and Cilan prepare to head to Nacrene City.\nLenora wonders why the people spying on her haven't acted yet."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Cilan\nChili\nCress\nLenora\nClay\nHawes (flashback)\nBronius (flashback)\nFelix\nRich\nSterling\nDon\nHeath\ns\ns (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Musha; 's)\n(Nite; 's)\n(Tula; 's)\n(Costa; 's)\n(Costa; 's; fantasy)\n( )\n( )\n( )\n(Lenora's)\n(Lenora's)\n( )\n(Clay's)\n(Clay's)\n(multiple)\n( ; fantasy)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Stalobor\nes:PMS492\nfr:Chapitre 492 (Pocket Monsters Special)\nit:LGA492\nzh:宝可梦特别篇 第492话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS492",
+    "pageType": "chapter",
+    "searchableText": "PS492\nCategory:Pokémon Adventures chapters\nMine Mayhem (Japanese: VS ドリュウズ VS Excadrill), titled VS Excadrill in the Shogakukan Asia translation, is the 492nd chapter of the Pokémon Adventures manga, and the 32nd chapter of the .\n\nIt is subtitled Excadrill (Japanese: 出土 Excavation) in the VIZ Media translation and Mine Mayhem in the Shogakukan Asia translation.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1139,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "BET6",
+    "slug": "bet6",
+    "pageId": 167613,
+    "revisionId": 4089727
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mystery Dungeon: Blazing Exploration Team chapters",
+    "sourceFileName": "bet6__167613.json",
+    "revisionTimestamp": "2024-08-27T16:42:01Z",
+    "fetchedAt": "2026-05-14T15:13:58.630Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 世界をかけた最後の戦い！！ The Final Battle for the Fate of the World!!) is the sixth and final chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.",
+  "plainText": "(Japanese: 世界をかけた最後の戦い！！ The Final Battle for the Fate of the World!!) is the sixth and final chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.\n\n==Plot==\n \n\n==Major events==\nAs Totodile lies on the beach alone, he reminisces about how all that happened to lead up to that moment.\nTotodile and Honō climb up to the Temporal Tower.\nThe two encounter Dialga, who is still undergoing the process that turned it into Primal Dialga.\nThey battle Dialga and successfully put the Time Gears into their proper location, fixing the future in the process.\nHonō reveals to Totodile that he will disappear from existence due to their victory, and thanks him before he goes away.\nBack in the present, Totodile still feels extreme sorrow over Honō's disappearance, which prompts Dialga to revive him.\nTotodile and Honō have a tearful reunion.\n\n===Debuts===\n\n==Characters==\n===Pokémon===\nHonō\n\nPrimal Dialga\n\n==Trivia==\n \n \n \n\nde:Chapter 6 (Pokémon Mystery Dungeon 2)\nzh:BET6",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 世界をかけた最後の戦い！！ The Final Battle for the Fate of the World!!) is the sixth and final chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "As Totodile lies on the beach alone, he reminisces about how all that happened to lead up to that moment.\nTotodile and Honō climb up to the Temporal Tower.\nThe two encounter Dialga, who is still undergoing the process that turned it into Primal Dialga.\nThey battle Dialga and successfully put the Time Gears into their proper location, fixing the future in the process.\nHonō reveals to Totodile that he will disappear from existence due to their victory, and thanks him before he goes away.\nBack in the present, Totodile still feels extreme sorrow over Honō's disappearance, which prompts Dialga to revive him.\nTotodile and Honō have a tearful reunion."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "Honō\n\nPrimal Dialga"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Chapter 6 (Pokémon Mystery Dungeon 2)\nzh:BET6"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "BET6",
+    "pageType": "chapter",
+    "searchableText": "BET6\nCategory:Pokémon Mystery Dungeon: Blazing Exploration Team chapters\n(Japanese: 世界をかけた最後の戦い！！ The Final Battle for the Fate of the World!!) is the sixth and final chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 980,
+    "sectionCount": 4
+  }
+}

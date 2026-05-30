@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Thief (GDZ47)",
+    "slug": "thief-gdz47",
+    "pageId": 188618,
+    "revisionId": 4398487
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "thief-gdz47__188618.json",
+    "revisionTimestamp": "2025-10-12T11:59:34Z",
+    "fetchedAt": "2026-05-14T15:51:44.076Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The thief is a character who appeared Pokémon: Yeah! I Got Pokémon!.",
+  "plainText": "The thief is a character who appeared Pokémon: Yeah! I Got Pokémon!.\n\n==History==\nThe thief appeared in Run Out the Thieves!, where she is first seen in a picture on a wanted sign that Shu and were looking at. Her Pokémon later kidnaps Shu and ties him up while Pikachu gets locked in a cage. Shu sends out his but the thief's and get the best of it with and , respectively. Their attacks caused Wooper to be bounce over towards Pikachu's cage. Shu provoked the thief causing her to have her Sneasel and Houndoom attack him; however, Shu actually planned for this as his Wooper used before the thief's Sneasel's and Houndoom's attacks could connect, causing them to strike the cage instead and freeing Pikachu in the process. With Pikachu freed, Pikachu and Wooper incapacitate the thief with a combination of and aimed at the sky. The thief and her Pokémon are defeated, but the thief runs off with an item that she steals from Shu.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The thief is a character who appeared Pokémon: Yeah! I Got Pokémon!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "The thief appeared in Run Out the Thieves!, where she is first seen in a picture on a wanted sign that Shu and were looking at. Her Pokémon later kidnaps Shu and ties him up while Pikachu gets locked in a cage. Shu sends out his but the thief's and get the best of it with and , respectively. Their attacks caused Wooper to be bounce over towards Pikachu's cage. Shu provoked the thief causing her to have her Sneasel and Houndoom attack him; however, Shu actually planned for this as his Wooper used before the thief's Sneasel's and Houndoom's attacks could connect, causing them to strike the cage instead and freeing Pikachu in the process. With Pikachu freed, Pikachu and Wooper incapacitate the thief with a combination of and aimed at the sky. The thief and her Pokémon are defeated, but the thief runs off with an item that she steals from Shu."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Thief (GDZ47)",
+    "pageType": "character",
+    "searchableText": "Thief (GDZ47)\nCategory:Pokémon: Yeah! I Got Pokémon! characters\nThe thief is a character who appeared Pokémon: Yeah! I Got Pokémon!.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 946,
+    "sectionCount": 2
+  }
+}

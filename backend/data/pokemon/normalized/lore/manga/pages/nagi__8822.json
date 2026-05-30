@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Nagi",
+    "slug": "nagi",
+    "pageId": 8822,
+    "revisionId": 4398486
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "nagi__8822.json",
+    "revisionTimestamp": "2025-10-12T11:59:34Z",
+    "fetchedAt": "2026-05-14T15:27:32.180Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ナギ Nagi) is a character who appeared Pokémon: Yeah! I Got Pokémon!, and a recurring rival of Shu's.",
+  "plainText": "(Japanese: ナギ Nagi) is a character who appeared Pokémon: Yeah! I Got Pokémon!, and a recurring rival of Shu's.\n\n==Character==\nDuring Nagi's debut, he was shown to care only for strong Pokémon which was evidenced by the way he treated Chikorita. Overtime, when Shu rescued Pikachu, he realized the error of his ways and had Charizard rescue them from falling.\n\n==History==\nNagi first appeared in Enter the Rival! when Shu rescued . He attacked Shu with and raced with him. After Shu threw a Poké Ball, Nagi sent out to freeze the Poké Ball. He then battled Shu with Articuno and then where they simultaneously attacked Chikorita but were stopped by the efforts of Shu and his . In the next chapter, he battled Shu using Larvitar and explained about the line of Trainer he faced overtime. After Shu defeated Larvitar, Nagi spoke to Shu and then walked off.\n\nIn A Grand, Mid-air Battle with a Rival!, Nagi met up with Shu in a mountainous area where they had an air battle using Charizard and , respectively. As Shu and Skarmory weren't in sync with each other yet, Nagi was able to easily get in control of the battle. When Charizard used and accidentally knocked Pikachu off of Skarmory's back, Nagi had Charizard fly down to save Shu. Afterwards, both Trainers part off with their good ways.\n\nNagi cameoed in Goodbye, Pikachu!? with his Chikorita in Shu's flashback.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ナギ Nagi) is a character who appeared Pokémon: Yeah! I Got Pokémon!, and a recurring rival of Shu's."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "During Nagi's debut, he was shown to care only for strong Pokémon which was evidenced by the way he treated Chikorita. Overtime, when Shu rescued Pikachu, he realized the error of his ways and had Charizard rescue them from falling."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Nagi first appeared in Enter the Rival! when Shu rescued . He attacked Shu with and raced with him. After Shu threw a Poké Ball, Nagi sent out to freeze the Poké Ball. He then battled Shu with Articuno and then where they simultaneously attacked Chikorita but were stopped by the efforts of Shu and his . In the next chapter, he battled Shu using Larvitar and explained about the line of Trainer he faced overtime. After Shu defeated Larvitar, Nagi spoke to Shu and then walked off.\n\nIn A Grand, Mid-air Battle with a Rival!, Nagi met up with Shu in a mountainous area where they had an air battle using Charizard and , respectively. As Shu and Skarmory weren't in sync with each other yet, Nagi was able to easily get in control of the battle. When Charizard used and accidentally knocked Pikachu off of Skarmory's back, Nagi had Charizard fly down to save Shu. Afterwards, both Trainers part off with their good ways.\n\nNagi cameoed in Goodbye, Pikachu!? with his Chikorita in Shu's flashback."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Nagi",
+    "pageType": "character",
+    "searchableText": "Nagi\nCategory:Pokémon: Yeah! I Got Pokémon! characters\n(Japanese: ナギ Nagi) is a character who appeared Pokémon: Yeah! I Got Pokémon!, and a recurring rival of Shu's.",
+    "sectionHeadings": [
+      "Lead",
+      "Character",
+      "History"
+    ],
+    "characterCount": 1379,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Kyle Hebert",
+    "slug": "kyle-hebert",
+    "pageId": 202199,
+    "revisionId": 4514848
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "kyle-hebert__202199.json",
+    "revisionTimestamp": "2026-03-22T21:37:42Z",
+    "fetchedAt": "2026-05-14T14:30:07.469Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kyle Hebert is an American actor for the English-language dub of .",
+  "plainText": "Kyle Hebert is an American actor for the English-language dub of .\n\n==Biography==\nHebert is an American voice actor who became an active voice actor in 1996. Hebert first worked on Pokémon voicing characters in before voicing roles in Pokémon Origins and Pokémon Generations before joining the in , voicing several roles, most notably Goh's Darmanitan.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nDan\nKarate Master\nKublock\n\n=====Pokémon=====\nGoh's Darmanitan\n\n====Pokémon Origins====\nProfessor Oak\n\n====Pokémon Generations====\nEusine\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nGohan (Older), Narrator, Ox King ( )\nKarasu (Yu Yu Hakusho)\nGilliam, Legolas ( )\nKamina ( )\nLahabrea (Final Fantasy XIV: A Realm Reborn)\nNimbus (Final Fantasy Type-0 HD)\nTerry Fawles (Ace Attorney)\nMiles Edgeworth ( , )\nKiba Inuzuka, Jūgo ( )\nSpec ( )\nToichiro Suzuki ( )\nBallistamon, Dorulumon, Greymon ( )\n(Super Smash Bros. series)\n, , and ( series)\n\n==External links==\nOfficial website\nTwitter\nInstagram\nYoutube\nFacebook\n\n \n \n\nit:Kyle Hebert",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kyle Hebert is an American actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hebert is an American voice actor who became an active voice actor in 1996. Hebert first worked on Pokémon voicing characters in before voicing roles in Pokémon Origins and Pokémon Generations before joining the in , voicing several roles, most notably Goh's Darmanitan."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Dan\nKarate Master\nKublock"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "Goh's Darmanitan"
+    },
+    {
+      "heading": "Pokémon Origins",
+      "level": 4,
+      "text": "Professor Oak"
+    },
+    {
+      "heading": "Pokémon Generations",
+      "level": 4,
+      "text": "Eusine"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Gohan (Older), Narrator, Ox King ( )\nKarasu (Yu Yu Hakusho)\nGilliam, Legolas ( )\nKamina ( )\nLahabrea (Final Fantasy XIV: A Realm Reborn)\nNimbus (Final Fantasy Type-0 HD)\nTerry Fawles (Ace Attorney)\nMiles Edgeworth ( , )\nKiba Inuzuka, Jūgo ( )\nSpec ( )\nToichiro Suzuki ( )\nBallistamon, Dorulumon, Greymon ( )\n(Super Smash Bros. series)\n, , and ( series)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTwitter\nInstagram\nYoutube\nFacebook\n\n \n \n\nit:Kyle Hebert"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kyle Hebert",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kyle Hebert\nCategory:TPCi voice actors\nKyle Hebert is an American actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "Pokémon Origins",
+      "Pokémon Generations",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1072,
+    "sectionCount": 8
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Karimna and Yurado",
+    "slug": "karimna-and-yurado",
+    "pageId": 352543,
+    "revisionId": 4532234
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:POKÉTOON characters",
+    "sourceFileName": "karimna-and-yurado__352543.json",
+    "revisionTimestamp": "2026-04-14T20:44:45Z",
+    "fetchedAt": "2026-05-14T14:28:33.611Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Karimna (Japanese: カリムナ Karimna) and Yurado (Japanese: ユラド Yurado) are characters who appeared in Bonding with Kangaskhan. They are mother and daughter.",
+  "plainText": "Karimna (Japanese: カリムナ Karimna) and Yurado (Japanese: ユラド Yurado) are characters who appeared in Bonding with Kangaskhan. They are mother and daughter.\n\n==History==\nKarimna works as a Pokémon battle commentator and lives with her daughter, Yurado, whose hobby is building dioramas, something she appears to have taken from her father.\n\nOne day, while Karimna was occupied with work, Yurado challenged herself and the baby to fully build a large diorama before the tournament ended. As the final match was taking place, Yurado accidentally caused the mountain she was building to fall over her, scaring her into taking a step back and fall off the table. Fortunately, Karimna noticed the situation in time through the reflection, and her feelings connected with Kangaskhan's, allowing her to Mega Evolve and catch Yurado before she fell.\n\n==Pokémon==\n===On hand===\n \n\n===Traveling with===\n \n\n==Voice actors==\nKarimna\n \n\nYurado",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Karimna (Japanese: カリムナ Karimna) and Yurado (Japanese: ユラド Yurado) are characters who appeared in Bonding with Kangaskhan. They are mother and daughter."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Karimna works as a Pokémon battle commentator and lives with her daughter, Yurado, whose hobby is building dioramas, something she appears to have taken from her father.\n\nOne day, while Karimna was occupied with work, Yurado challenged herself and the baby to fully build a large diorama before the tournament ended. As the final match was taking place, Yurado accidentally caused the mountain she was building to fall over her, scaring her into taking a step back and fall off the table. Fortunately, Karimna noticed the situation in time through the reflection, and her feelings connected with Kangaskhan's, allowing her to Mega Evolve and catch Yurado before she fell."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "Karimna\n \n\nYurado"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Karimna and Yurado",
+    "pageType": "character",
+    "searchableText": "Karimna and Yurado\nCategory:POKÉTOON characters\nKarimna (Japanese: カリムナ Karimna) and Yurado (Japanese: ユラド Yurado) are characters who appeared in Bonding with Kangaskhan. They are mother and daughter.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Voice actors"
+    ],
+    "characterCount": 926,
+    "sectionCount": 3
+  }
+}

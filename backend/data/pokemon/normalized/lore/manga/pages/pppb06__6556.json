@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PPPB06",
+    "slug": "pppb06",
+    "pageId": 6556,
+    "revisionId": 4131640
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "pppb06__6556.json",
+    "revisionTimestamp": "2024-09-29T04:23:11Z",
+    "fetchedAt": "2026-05-14T15:39:24.849Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Heart's Search (Japanese: さがしものでドッキドキ!? Excitement of the Search!?) is the sixth bonus chapter of the Magical Pokémon Journey manga.",
+  "plainText": "The Heart's Search (Japanese: さがしものでドッキドキ!? Excitement of the Search!?) is the sixth bonus chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nWhile picnicking with her friends, Hazel realizes that a photo of Almond she had kept in her bag has gone missing. When Almond—who had no knowledge of the photo being taken—asks about it, Hazel nervously sets off to look for it. Her Pokémon agree to help her find the photo, as well as a curious and Coconut.\n\nAs the Pokémon begin searching together, they come across a . Kadabra tells the Pokémon that it senses they are looking for something, then encourages them to follow it so it can help with its powers. When asks what \"Psychic\" means, Kadabra demonstrates its abilities by bending a spoon by using . When gets annoyed by the distraction, Kadabra hastily demonstrates its move, but doesn't use it to help them find the photo. It then shows off its , but doesn't notice that the other Pokémon have already gone back to searching.\n\n reports back to the group that it found something, and the group follows it up a cliff where a is resting. Kadabra announces that the photo is beneath Snorlax, but the group is unable to wake it up in order to ask it to move. Kadabra shows off its , but it is met with frustration from the others for using it on a Pokémon that is already asleep. The group then attempts to push Snorlax, but they are unsuccessful. \n\nSeeing how exhausted everyone is after pushing, Kadabra realizes it can help, but first decides to have a picnic with everyone. The scent of the food manages to wake Snorlax, and it gets to its feet, revealing Hazel's crumbled photograph underneath it. The group thanks Kadabra for its help, then leaves to return the photo to Hazel. After eating all of the food, Snorlax lies back down, trapping Kadabra underneath it.\n\n==Major events==\nHazel's Pokémon meet and find her missing photo.\n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHazel\nAlmond\nCoconut\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Heart's Search (Japanese: さがしものでドッキドキ!? Excitement of the Search!?) is the sixth bonus chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "While picnicking with her friends, Hazel realizes that a photo of Almond she had kept in her bag has gone missing. When Almond—who had no knowledge of the photo being taken—asks about it, Hazel nervously sets off to look for it. Her Pokémon agree to help her find the photo, as well as a curious and Coconut.\n\nAs the Pokémon begin searching together, they come across a . Kadabra tells the Pokémon that it senses they are looking for something, then encourages them to follow it so it can help with its powers. When asks what \"Psychic\" means, Kadabra demonstrates its abilities by bending a spoon by using . When gets annoyed by the distraction, Kadabra hastily demonstrates its move, but doesn't use it to help them find the photo. It then shows off its , but doesn't notice that the other Pokémon have already gone back to searching.\n\n reports back to the group that it found something, and the group follows it up a cliff where a is resting. Kadabra announces that the photo is beneath Snorlax, but the group is unable to wake it up in order to ask it to move. Kadabra shows off its , but it is met with frustration from the others for using it on a Pokémon that is already asleep. The group then attempts to push Snorlax, but they are unsuccessful. \n\nSeeing how exhausted everyone is after pushing, Kadabra realizes it can help, but first decides to have a picnic with everyone. The scent of the food manages to wake Snorlax, and it gets to its feet, revealing Hazel's crumbled photograph underneath it. The group thanks Kadabra for its help, then leaves to return the photo to Hazel. After eating all of the food, Snorlax lies back down, trapping Kadabra underneath it."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hazel's Pokémon meet and find her missing photo."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nAlmond\nCoconut"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPPB06",
+    "pageType": "chapter",
+    "searchableText": "PPPB06\nCategory:Magical Pokémon Journey chapters\nThe Heart's Search (Japanese: さがしものでドッキドキ!? Excitement of the Search!?) is the sixth bonus chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 2014,
+    "sectionCount": 5
+  }
+}

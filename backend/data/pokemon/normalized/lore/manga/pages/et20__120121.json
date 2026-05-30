@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "ET20",
+    "slug": "et20",
+    "pageId": 120121,
+    "revisionId": 4526905
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu chapters",
+    "sourceFileName": "et20__120121.json",
+    "revisionTimestamp": "2026-04-09T15:11:30Z",
+    "fetchedAt": "2026-05-14T15:18:32.739Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Epilogue: Wild Type (Japanese: タイプ：ワイルド Type: Wild) is the twentieth and final chapter of the manga The Electric Tale of Pikachu.",
+  "plainText": "Epilogue: Wild Type (Japanese: タイプ：ワイルド Type: Wild) is the twentieth and final chapter of the manga The Electric Tale of Pikachu.\n\n==Plot==\n \n\n==Major events==\nand May receive letters from and detailing their adventures while traveling together.\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nJessie\nJames\nDelia Ketchum\nMay Oak\n\nGary Oak\n\nRitchie\n\n===Pokémon===\n(Ash's)\n( )\n( )\n(many)\n\n==Trivia==\nThis chapter's title likely takes its name from the ending theme Type: Wild.\n\n \n \n \n\nes:ETP20\nit:ET20",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Epilogue: Wild Type (Japanese: タイプ：ワイルド Type: Wild) is the twentieth and final chapter of the manga The Electric Tale of Pikachu."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and May receive letters from and detailing their adventures while traveling together."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jessie\nJames\nDelia Ketchum\nMay Oak\n\nGary Oak\n\nRitchie"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ash's)\n( )\n( )\n(many)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This chapter's title likely takes its name from the ending theme Type: Wild.\n\n \n \n \n\nes:ETP20\nit:ET20"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ET20",
+    "pageType": "chapter",
+    "searchableText": "ET20\nCategory:Electric Tale of Pikachu chapters\nEpilogue: Wild Type (Japanese: タイプ：ワイルド Type: Wild) is the twentieth and final chapter of the manga The Electric Tale of Pikachu.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 518,
+    "sectionCount": 5
+  }
+}

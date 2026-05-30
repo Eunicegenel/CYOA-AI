@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASS33",
+    "slug": "pass33",
+    "pageId": 281147,
+    "revisionId": 4527914
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass33__281147.json",
+    "revisionTimestamp": "2026-04-09T16:00:21Z",
+    "fetchedAt": "2026-05-14T15:29:00.447Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Whoosh!! To the Forest of Focus (Japanese: ギュンギュン！！いざ集中の森へ Whoosh!! Off to the Forest of Focus) is the 33rd chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Whoosh!! To the Forest of Focus (Japanese: ギュンギュン！！いざ集中の森へ Whoosh!! Off to the Forest of Focus) is the 33rd chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nMarnie wins a battle against Peony and she, Hop, and Bede join him in investigating the legends of the Crown Tundra.\nand collect sap for a poison antidote and send it to Oleana.\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n(Galarian Form)\n(Alolan form)\n\n==Characters==\n===Humans===\nHenry\nCasey\nHop\nBede\nMarnie\nAvery\nKlara\nHyde\nPeony\nPeonia\nMarvin\n\n===Pokémon===\n(Kayne; Henry's)\n(Mega; Galarian Form; 's)\n(Marnie's; evolves)\n(Marnie's; newly evolved)\n(Rotom Phone; Marnie's)\n(Galarian Form; Avery's)\n(Avery's; newly caught)\n(Galarian Form; Klara's)\n(Rotom Phone; Klara's)\n(Mustard's)\n(Peony's)\n(Sniffler; Marvin's)\n\n(Alolan form; multiple)\n(multiple)\n\n(multiple)\n\n(multiple)\n\n(multiple)\n\n==Trivia==\n \n \n \n\nde:Auf geht’s in den Fokusforst\nes:PMSSwSh33\nfr:Chapitre 33 (Pocket Monsters Special Épée et Bouclier)\nit:PASS33\nzh:宝可梦特别篇 剑·盾篇 第33话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Whoosh!! To the Forest of Focus (Japanese: ギュンギュン！！いざ集中の森へ Whoosh!! Off to the Forest of Focus) is the 33rd chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Marnie wins a battle against Peony and she, Hop, and Bede join him in investigating the legends of the Crown Tundra.\nand collect sap for a poison antidote and send it to Oleana."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Galarian Form)\n(Alolan form)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nHop\nBede\nMarnie\nAvery\nKlara\nHyde\nPeony\nPeonia\nMarvin"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Kayne; Henry's)\n(Mega; Galarian Form; 's)\n(Marnie's; evolves)\n(Marnie's; newly evolved)\n(Rotom Phone; Marnie's)\n(Galarian Form; Avery's)\n(Avery's; newly caught)\n(Galarian Form; Klara's)\n(Rotom Phone; Klara's)\n(Mustard's)\n(Peony's)\n(Sniffler; Marvin's)\n\n(Alolan form; multiple)\n(multiple)\n\n(multiple)\n\n(multiple)\n\n(multiple)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Auf geht’s in den Fokusforst\nes:PMSSwSh33\nfr:Chapitre 33 (Pocket Monsters Special Épée et Bouclier)\nit:PASS33\nzh:宝可梦特别篇 剑·盾篇 第33话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS33",
+    "pageType": "chapter",
+    "searchableText": "PASS33\nCategory:Pokémon Adventures chapters\nWhoosh!! To the Forest of Focus (Japanese: ギュンギュン！！いざ集中の森へ Whoosh!! Off to the Forest of Focus) is the 33rd chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1039,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Whirl Cup winner",
+    "slug": "whirl-cup-winner",
+    "pageId": 137832,
+    "revisionId": 4289210
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "whirl-cup-winner__137832.json",
+    "revisionTimestamp": "2025-04-28T19:49:59Z",
+    "fetchedAt": "2026-05-14T14:57:34.993Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Whirl Cup winner is a character of the day who appeared in The Perfect Match!\n\nHe battled Trinity in the final stages of the Whirl Cup. However, just before the battle began, broke into the competition with the intent of stealing the Sea Spirit. He, Trinity, , and defeated Team Rocket, and he continued with the battle.\n\nAlthough the battle was not shown, he appeared later receiving a Mystic Water for winning the competition.",
+  "plainText": "The Whirl Cup winner is a character of the day who appeared in The Perfect Match!\n\nHe battled Trinity in the final stages of the Whirl Cup. However, just before the battle began, broke into the competition with the intent of stealing the Sea Spirit. He, Trinity, , and defeated Team Rocket, and he continued with the battle.\n\nAlthough the battle was not shown, he appeared later receiving a Mystic Water for winning the competition.\n \n\n==Pokémon==\n \n \n\n== Voice actors ==\n \n\n \n \n\n \n \n \n\nit:Vincitore della Coppa Vortice",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Whirl Cup winner is a character of the day who appeared in The Perfect Match!\n\nHe battled Trinity in the final stages of the Whirl Cup. However, just before the battle began, broke into the competition with the intent of stealing the Sea Spirit. He, Trinity, , and defeated Team Rocket, and he continued with the battle.\n\nAlthough the battle was not shown, he appeared later receiving a Mystic Water for winning the competition."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Vincitore della Coppa Vortice"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Whirl Cup winner",
+    "pageType": "character",
+    "searchableText": "Whirl Cup winner\nCategory:Johto characters of the day\nThe Whirl Cup winner is a character of the day who appeared in The Perfect Match!\n\nHe battled Trinity in the final stages of the Whirl Cup. However, just before the battle began, broke into the competition with the intent of stealing the Sea Spirit. He, Trinity, , and defeated Team Rocket, and he continued with the battle.\n\nAlthough the battle was not shown, he appeared later receiving a Mystic Water for winning the competition.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 519,
+    "sectionCount": 2
+  }
+}

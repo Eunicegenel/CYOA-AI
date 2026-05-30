@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "QPL13",
+    "slug": "qpl13",
+    "pageId": 180751,
+    "revisionId": 4231339
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters",
+    "sourceFileName": "qpl13__180751.json",
+    "revisionTimestamp": "2025-01-31T11:14:14Z",
+    "fetchedAt": "2026-05-14T15:47:06.653Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: and Marathon Showdown, Pikka!!) is the 13th chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+  "plainText": "(Japanese: and Marathon Showdown, Pikka!!) is the 13th chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n\n==Characters==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: and Marathon Showdown, Pikka!!) is the 13th chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "QPL13",
+    "pageType": "chapter",
+    "searchableText": "QPL13\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective chapters\n(Japanese: and Marathon Showdown, Pikka!!) is the 13th chapter of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 191,
+    "sectionCount": 1
+  }
+}

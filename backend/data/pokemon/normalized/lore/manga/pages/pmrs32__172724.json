@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMRS32",
+    "slug": "pmrs32",
+    "pageId": 172724,
+    "revisionId": 4282182
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs32__172724.json",
+    "revisionTimestamp": "2025-04-16T20:17:04Z",
+    "fetchedAt": "2026-05-14T15:33:27.848Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "A Visitor From Outer Space?! (Japanese: 宇宙からの訪問者！？ A Visitor From Outer Space!?) is the thirty-second chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "A Visitor From Outer Space?! (Japanese: 宇宙からの訪問者！？ A Visitor From Outer Space!?) is the thirty-second chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nPokémon hunter\n\n===Pokémon===\n( )\n( )\n( )\n(hunter's)\n\n \n\n \n \n\nit:PMRS32",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Visitor From Outer Space?! (Japanese: 宇宙からの訪問者！？ A Visitor From Outer Space!?) is the thirty-second chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Pokémon hunter"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(hunter's)\n\n \n\n \n \n\nit:PMRS32"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS32",
+    "pageType": "chapter",
+    "searchableText": "PMRS32\nCategory:Pokémon Ruby-Sapphire chapters\nA Visitor From Outer Space?! (Japanese: 宇宙からの訪問者！？ A Visitor From Outer Space!?) is the thirty-second chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 315,
+    "sectionCount": 3
+  }
+}

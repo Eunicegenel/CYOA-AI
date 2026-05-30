@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PPP57",
+    "slug": "ppp57",
+    "pageId": 6641,
+    "revisionId": 4526550
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp57__6641.json",
+    "revisionTimestamp": "2026-04-09T14:55:27Z",
+    "fetchedAt": "2026-05-14T15:39:12.399Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "What Makes a Girl? (Japanese: \"女のコ\"って？ Like a \"Girl\"?) is the fifty-seventh chapter of the Magical Pokémon Journey manga.",
+  "plainText": "What Makes a Girl? (Japanese: \"女のコ\"って？ Like a \"Girl\"?) is the fifty-seventh chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nApricot decides she should be more girly if she wants Walnut to fall in love with her. However, she doesn't know how. She enlists Hazel and Coconut to teach her the ways of femininity.\n\n==Important characters and Pokémon==\nApricot\nHazel\nCoconut\n\n==Character introductions==\n\n==Important events==\n\n \n \n\nit:PPP57",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "What Makes a Girl? (Japanese: \"女のコ\"って？ Like a \"Girl\"?) is the fifty-seventh chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Apricot decides she should be more girly if she wants Walnut to fall in love with her. However, she doesn't know how. She enlists Hazel and Coconut to teach her the ways of femininity."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Apricot\nHazel\nCoconut"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "it:PPP57"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP57",
+    "pageType": "chapter",
+    "searchableText": "PPP57\nCategory:Magical Pokémon Journey chapters\nWhat Makes a Girl? (Japanese: \"女のコ\"って？ Like a \"Girl\"?) is the fifty-seventh chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon",
+      "Important events"
+    ],
+    "characterCount": 444,
+    "sectionCount": 4
+  }
+}

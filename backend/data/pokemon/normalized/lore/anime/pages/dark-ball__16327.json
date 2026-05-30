@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Dark Ball",
+    "slug": "dark-ball",
+    "pageId": 16327,
+    "revisionId": 4514910
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series objects",
+    "sourceFileName": "dark-ball__16327.json",
+    "revisionTimestamp": "2026-03-23T01:18:00Z",
+    "fetchedAt": "2026-05-14T14:11:10.888Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "-----\n \nA Dark Ball (Japanese: ダークボール Dark Ball) is a Poké Ball variation that was featured in Celebi: The Voice of the Forest. Similar to the \"Mewtwo Balls\" from Mewtwo Strikes Back, Dark Balls are able to that already belong to a , as opposed to catching wild Pokémon only.",
+  "plainText": "-----\n \nA Dark Ball (Japanese: ダークボール Dark Ball) is a Poké Ball variation that was featured in Celebi: The Voice of the Forest. Similar to the \"Mewtwo Balls\" from Mewtwo Strikes Back, Dark Balls are able to that already belong to a , as opposed to catching wild Pokémon only.\n\n==History==\nThe only person who has been seen using a Dark Ball is the Iron-Masked Marauder. He claimed that any with a Dark Ball will become evil and their power will increase to the highest level. The Pokémon loses its freedom and will obey all commands of its master.\n\nThe Iron-Masked Marauder used a Dark Ball to capture a owned by a Pokémon poacher and bring it under his control, even though it already belonged to someone. Later, he caught a in a Dark Ball as well.\n\nThe control of a Dark Ball can be fought and even broken if the Pokémon has enough willpower. Should this happen, the Dark Ball that captured it will be destroyed. This happened to Celebi after it had been captured by Iron-Masked Marauder, although it nearly lost its life in the process. Conversely, if a Dark Ball is destroyed, the Pokémon it was used to capture will be freed from its influence and return to its normal state (as happened with the Marauder's other three Pokémon).\n\n==Trivia==\nPokémon captured with the Dark Ball have similar characteristics to Shadow Pokémon, which in Japanese are called , Dark Pokémon . Both Shadow Pokémon and Pokémon captured with Dark Balls supposedly have their power increased and both are described as being \"soulless\".\nThe Pokémon who are caught with Dark Balls seem to have their skin color darkened. Celebi is the exception, instead developing a blank, lifeless expression with narrowed pupils.\nThe Dusk Ball introduced in is called the Dark Ball in Japanese, but the name was changed in localizations.\n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n \n\nde:Pokémon 4 – Die zeitlose Begegnung#Dark Ball\nes:Poké Ball#Negra Ball\nfr:Dark Ball\nit:Dark Ball\nja:ダークボール (映画)\nzh:黑暗球（电影系列第4作）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "-----\n \nA Dark Ball (Japanese: ダークボール Dark Ball) is a Poké Ball variation that was featured in Celebi: The Voice of the Forest. Similar to the \"Mewtwo Balls\" from Mewtwo Strikes Back, Dark Balls are able to that already belong to a , as opposed to catching wild Pokémon only."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "The only person who has been seen using a Dark Ball is the Iron-Masked Marauder. He claimed that any with a Dark Ball will become evil and their power will increase to the highest level. The Pokémon loses its freedom and will obey all commands of its master.\n\nThe Iron-Masked Marauder used a Dark Ball to capture a owned by a Pokémon poacher and bring it under his control, even though it already belonged to someone. Later, he caught a in a Dark Ball as well.\n\nThe control of a Dark Ball can be fought and even broken if the Pokémon has enough willpower. Should this happen, the Dark Ball that captured it will be destroyed. This happened to Celebi after it had been captured by Iron-Masked Marauder, although it nearly lost its life in the process. Conversely, if a Dark Ball is destroyed, the Pokémon it was used to capture will be freed from its influence and return to its normal state (as happened with the Marauder's other three Pokémon)."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Pokémon captured with the Dark Ball have similar characteristics to Shadow Pokémon, which in Japanese are called , Dark Pokémon . Both Shadow Pokémon and Pokémon captured with Dark Balls supposedly have their power increased and both are described as being \"soulless\".\nThe Pokémon who are caught with Dark Balls seem to have their skin color darkened. Celebi is the exception, instead developing a blank, lifeless expression with narrowed pupils.\nThe Dusk Ball introduced in is called the Dark Ball in Japanese, but the name was changed in localizations."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Pokémon 4 – Die zeitlose Begegnung#Dark Ball\nes:Poké Ball#Negra Ball\nfr:Dark Ball\nit:Dark Ball\nja:ダークボール (映画)\nzh:黑暗球（电影系列第4作）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dark Ball",
+    "pageType": "general-anime-lore",
+    "searchableText": "Dark Ball\nCategory:Animated series objects\n-----\n \nA Dark Ball (Japanese: ダークボール Dark Ball) is a Poké Ball variation that was featured in Celebi: The Voice of the Forest. Similar to the \"Mewtwo Balls\" from Mewtwo Strikes Back, Dark Balls are able to that already belong to a , as opposed to catching wild Pokémon only.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1988,
+    "sectionCount": 4
+  }
+}

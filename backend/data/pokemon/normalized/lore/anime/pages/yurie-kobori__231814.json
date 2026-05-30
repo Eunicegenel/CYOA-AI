@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Yurie Kobori",
+    "slug": "yurie-kobori",
+    "pageId": 231814,
+    "revisionId": 4323451
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "yurie-kobori__231814.json",
+    "revisionTimestamp": "2025-06-24T03:30:26Z",
+    "fetchedAt": "2026-05-14T15:00:22.344Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yurie Kobori (Japanese: 小堀友里絵 Kobori Yurie) is a Japanese voice actress for .",
+  "plainText": "Yurie Kobori (Japanese: 小堀友里絵 Kobori Yurie) is a Japanese voice actress for .\n\n==Biography==\nKobori was born on July 19, 1983, in , , and became a voice actress as an adult. She provided the voice of , 's main rival in Pokémon Showcases, during of the . Kobori is currently affiliated with Air Agency.\n\n==Pokémon roles==\n===Animation===\n==== ====\n\n==Other non-Pokémon roles==\nSachura ( )\nMikoto Kanzaki ( )\nKimi Nishino ( )\nFutatsuki, Moira, Hikari Nire ( )\nShiori Nakamura ( )\n\n==External links==\nAir Agency profile\nOfficial blog\n\n \n\n \n\nit:Yurie Kobori\nja:小堀友里絵",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yurie Kobori (Japanese: 小堀友里絵 Kobori Yurie) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Kobori was born on July 19, 1983, in , , and became a voice actress as an adult. She provided the voice of , 's main rival in Pokémon Showcases, during of the . Kobori is currently affiliated with Air Agency."
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Sachura ( )\nMikoto Kanzaki ( )\nKimi Nishino ( )\nFutatsuki, Moira, Hikari Nire ( )\nShiori Nakamura ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Air Agency profile\nOfficial blog\n\n \n\n \n\nit:Yurie Kobori\nja:小堀友里絵"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yurie Kobori",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yurie Kobori\nCategory:Japanese voice actors\nYurie Kobori (Japanese: 小堀友里絵 Kobori Yurie) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 562,
+    "sectionCount": 4
+  }
+}

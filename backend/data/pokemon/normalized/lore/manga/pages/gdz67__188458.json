@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GDZ67",
+    "slug": "gdz67",
+    "pageId": 188458,
+    "revisionId": 4527775
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz67__188458.json",
+    "revisionTimestamp": "2026-04-09T15:52:58Z",
+    "fetchedAt": "2026-05-14T15:20:04.171Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: がまんくらべだ、ソーナンス！ A Battle of Wills, !) is the 67th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: がまんくらべだ、ソーナンス！ A Battle of Wills, !) is the 67th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n(monk's)\n(monk's)\n(monk's)\n(monk's)\n\n==Characters==\n===Humans===\nShu\n\n===Pokémon===\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n\n==Trivia==\nThe monk in this chapter appears to be able to carry more than six Pokémon with him.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: がまんくらべだ、ソーナンス！ A Battle of Wills, !) is the 67th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(monk's)\n(monk's)\n(monk's)\n(monk's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The monk in this chapter appears to be able to carry more than six Pokémon with him."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ67",
+    "pageType": "chapter",
+    "searchableText": "GDZ67\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: がまんくらべだ、ソーナンス！ A Battle of Wills, !) is the 67th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 433,
+    "sectionCount": 5
+  }
+}

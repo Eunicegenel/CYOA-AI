@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Magnus (XY028)",
+    "slug": "magnus-xy028",
+    "pageId": 192834,
+    "revisionId": 4289096
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kalos characters of the day",
+    "sourceFileName": "magnus-xy028__192834.json",
+    "revisionTimestamp": "2025-04-28T19:47:59Z",
+    "fetchedAt": "2026-05-14T14:34:18.813Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Magnus (Japanese: モーガン Morgan) is a character of the day who appeared in The Bonds of Evolution!. He comes from Brackish Town. \n\nFollowing his title as \"last year's best from Brackish Town\", Magnus was given the opportunity to compete in an against the Kalos Diantha. He sent out his to battle Diantha's Gardevoir, but it was easily defeated without Absol scoring a hit on Gardevoir. After the battle, Magnus respectfully shook hands with Diantha.",
+  "plainText": "Magnus (Japanese: モーガン Morgan) is a character of the day who appeared in The Bonds of Evolution!. He comes from Brackish Town. \n\nFollowing his title as \"last year's best from Brackish Town\", Magnus was given the opportunity to compete in an against the Kalos Diantha. He sent out his to battle Diantha's Gardevoir, but it was easily defeated without Absol scoring a hit on Gardevoir. After the battle, Magnus respectfully shook hands with Diantha.\n\n==Pokémon==\n \n \n\n==Voice actors==\n \n\n \n\n \n \n \n\nes:Magnus\nfr:Jean-Marc\nit:Magnus\nzh:摩更",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magnus (Japanese: モーガン Morgan) is a character of the day who appeared in The Bonds of Evolution!. He comes from Brackish Town. \n\nFollowing his title as \"last year's best from Brackish Town\", Magnus was given the opportunity to compete in an against the Kalos Diantha. He sent out his to battle Diantha's Gardevoir, but it was easily defeated without Absol scoring a hit on Gardevoir. After the battle, Magnus respectfully shook hands with Diantha."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Magnus\nfr:Jean-Marc\nit:Magnus\nzh:摩更"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Magnus (XY028)",
+    "pageType": "character",
+    "searchableText": "Magnus (XY028)\nCategory:Kalos characters of the day\nMagnus (Japanese: モーガン Morgan) is a character of the day who appeared in The Bonds of Evolution!. He comes from Brackish Town. \n\nFollowing his title as \"last year's best from Brackish Town\", Magnus was given the opportunity to compete in an against the Kalos Diantha. He sent out his to battle Diantha's Gardevoir, but it was easily defeated without Absol scoring a hit on Gardevoir. After the battle, Magnus respectfully shook hands with Diantha.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 534,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Silver (Pocket Monsters)",
+    "slug": "silver-pocket-monsters",
+    "pageId": 57571,
+    "revisionId": 4261932
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters characters",
+    "sourceFileName": "silver-pocket-monsters__57571.json",
+    "revisionTimestamp": "2025-03-20T18:44:13Z",
+    "fetchedAt": "2026-05-14T15:49:32.600Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n \n\nSilver (Japanese: 銀次郎 Ginjirō) is a character who appeared in Pokémon Pocket Monsters. He is a rival of .",
+  "plainText": "----\n \n\nSilver (Japanese: 銀次郎 Ginjirō) is a character who appeared in Pokémon Pocket Monsters. He is a rival of .\n\n==History==\nSilver debuted in Welcome Back, Clefairy!!, where he was recommended to along with by Professor Elm to travel around the Johto region and complete the Pokédex. Starting off with a Totodile, Silver receives his hand-held device, a Pokédex, and sets off. During that time, he meets who tells him the basics of training. Unlike the games, he does not steal Totodile but got that honor. He makes a cameo in the next chapter in Professor Elm's flashback.\n\nIn Clefairy, the Battle Instructor, Silver has his Totodile battle . During the battle, Clefairy uses a vehicle powered up by to chase Silver and Totodile away.\n\nIn Pokémon Snowball Fight, he competes in a race with Red's other rivals. During the race, he does not make it onward after threw him off course with his . Silver reappeared in Return light to Bellossom!! where he helps Red fight off a .\n\n==Personality==\nSilver is very different from his game counterpart, as he did not steal the first partner Pokémon that had a type advantage to Gold's. Also, he is seen being friendly to Red most of the time in contrast to Red's rivals in Kanto.\n\n==Pokémon==\n \n\n==Trivia==\n===Name origin===\n \n\n==Related articles==\n\n \n \n\n \n\nde:Ginjirō\nit:Silver (Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \n\nSilver (Japanese: 銀次郎 Ginjirō) is a character who appeared in Pokémon Pocket Monsters. He is a rival of ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Silver debuted in Welcome Back, Clefairy!!, where he was recommended to along with by Professor Elm to travel around the Johto region and complete the Pokédex. Starting off with a Totodile, Silver receives his hand-held device, a Pokédex, and sets off. During that time, he meets who tells him the basics of training. Unlike the games, he does not steal Totodile but got that honor. He makes a cameo in the next chapter in Professor Elm's flashback.\n\nIn Clefairy, the Battle Instructor, Silver has his Totodile battle . During the battle, Clefairy uses a vehicle powered up by to chase Silver and Totodile away.\n\nIn Pokémon Snowball Fight, he competes in a race with Red's other rivals. During the race, he does not make it onward after threw him off course with his . Silver reappeared in Return light to Bellossom!! where he helps Red fight off a ."
+    },
+    {
+      "heading": "Personality",
+      "level": 2,
+      "text": "Silver is very different from his game counterpart, as he did not steal the first partner Pokémon that had a type advantage to Gold's. Also, he is seen being friendly to Red most of the time in contrast to Red's rivals in Kanto."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Ginjirō\nit:Silver (Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Silver (Pocket Monsters)",
+    "pageType": "character",
+    "searchableText": "Silver (Pocket Monsters)\nCategory:Pokémon Pocket Monsters characters\n----\n \n\nSilver (Japanese: 銀次郎 Ginjirō) is a character who appeared in Pokémon Pocket Monsters. He is a rival of .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Personality",
+      "Related articles"
+    ],
+    "characterCount": 1340,
+    "sectionCount": 4
+  }
+}

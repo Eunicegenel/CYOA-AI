@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Swimming with the Qwilfish",
+    "slug": "swimming-with-the-qwilfish",
+    "pageId": 202815,
+    "revisionId": 4348615
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "swimming-with-the-qwilfish__202815.json",
+    "revisionTimestamp": "2025-07-31T18:43:32Z",
+    "fetchedAt": "2026-05-14T15:50:30.920Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Swimming with the Qwilfish is the twenty-fifth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 37th and 38th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Swimming with the Qwilfish is the twenty-fifth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 37th and 38th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n\n==Publications==\n \n \n\n==Chapters==\nThe Mysterious Beauty\nSwimming with the Qwilfish\n\n==Important events==\nThis is the first and only appearance of Grandpa's wife Ginger; her , however, plays an important role later on.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Swimming with the Qwilfish is the twenty-fifth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 37th and 38th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The Mysterious Beauty\nSwimming with the Qwilfish"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "This is the first and only appearance of Grandpa's wife Ginger; her , however, plays an important role later on."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Swimming with the Qwilfish",
+    "pageType": "pokemon-related",
+    "searchableText": "Swimming with the Qwilfish\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Swimming with the Qwilfish is the twenty-fifth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 37th and 38th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 617,
+    "sectionCount": 3
+  }
+}

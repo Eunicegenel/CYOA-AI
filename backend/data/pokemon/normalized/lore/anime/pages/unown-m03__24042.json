@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Unown (M03)",
+    "slug": "unown-m03",
+    "pageId": 24042,
+    "revisionId": 4190710
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie antagonists",
+    "sourceFileName": "unown-m03__24042.json",
+    "revisionTimestamp": "2024-11-24T00:45:33Z",
+    "fetchedAt": "2026-05-14T14:56:16.515Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "The Unown (Japanese: アンノーン Unknown) are the main antagonists of Spell of the Unown: Entei.",
+  "plainText": "The Unown (Japanese: アンノーン Unknown) are the main antagonists of Spell of the Unown: Entei.\n\n==In the movies==\n \nThe Unown sent Spencer Hale into their dimension when he was conducting research on them inside a temple. Later, Molly Hale released some Unown from the stone tiles hidden in a box in her house. The Unown, reading Molly's mind, made her wishes come true, including turning Greenfield into crystal and creating to be Molly's new father. Because Molly also wanted a mother, Entei kidnapped .\n\nEventually, Molly realized that what she was doing was wrong and she wanted to stop. However, the power of the Unown had spiraled out of control. As a result, Entei destroyed a psychic energy shield that formed around the Unown, sacrificing himself in the process. The Unown were subsequently turned back into stone tiles, and Spencer Hale was released from the Unown Dimension.\n\n===Personality and characteristics===\nThe Unown are creatures that do not want to be disturbed, as shown when they took Spencer Hale into their dimension. They have the power to make someone's wish come true without the person telling them to do so, as evidenced with Molly Hale, but at the cost of their own energy force.\n\n==In the manga==\n===Movie adaptations===\nThe Unown appeared in .\n\n==In the TCG==\nThe Unown is featured in the TCG. The following is a list of cards featuring the Unown.\n \n \n \n\n==Related articles==\n \nEntei (M03)\n\n \n \n\n \n \n \n\nit:Unown (F03)\nzh:未知圖騰（電影系列第3作）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Unown (Japanese: アンノーン Unknown) are the main antagonists of Spell of the Unown: Entei."
+    },
+    {
+      "heading": "In the movies",
+      "level": 2,
+      "text": "The Unown sent Spencer Hale into their dimension when he was conducting research on them inside a temple. Later, Molly Hale released some Unown from the stone tiles hidden in a box in her house. The Unown, reading Molly's mind, made her wishes come true, including turning Greenfield into crystal and creating to be Molly's new father. Because Molly also wanted a mother, Entei kidnapped .\n\nEventually, Molly realized that what she was doing was wrong and she wanted to stop. However, the power of the Unown had spiraled out of control. As a result, Entei destroyed a psychic energy shield that formed around the Unown, sacrificing himself in the process. The Unown were subsequently turned back into stone tiles, and Spencer Hale was released from the Unown Dimension."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "The Unown are creatures that do not want to be disturbed, as shown when they took Spencer Hale into their dimension. They have the power to make someone's wish come true without the person telling them to do so, as evidenced with Molly Hale, but at the cost of their own energy force."
+    },
+    {
+      "heading": "Movie adaptations",
+      "level": 3,
+      "text": "The Unown appeared in ."
+    },
+    {
+      "heading": "In the TCG",
+      "level": 2,
+      "text": "The Unown is featured in the TCG. The following is a list of cards featuring the Unown."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Entei (M03)\n\n \n \n\n \n \n \n\nit:Unown (F03)\nzh:未知圖騰（電影系列第3作）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Unown (M03)",
+    "pageType": "movie",
+    "searchableText": "Unown (M03)\nCategory:Movie antagonists\nThe Unown (Japanese: アンノーン Unknown) are the main antagonists of Spell of the Unown: Entei.",
+    "sectionHeadings": [
+      "Lead",
+      "In the movies",
+      "Personality and characteristics",
+      "Movie adaptations",
+      "In the TCG",
+      "Related articles"
+    ],
+    "characterCount": 1462,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Evelyn",
+    "slug": "evelyn",
+    "pageId": 186677,
+    "revisionId": 4509273
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "evelyn__186677.json",
+    "revisionTimestamp": "2026-03-16T07:26:36Z",
+    "fetchedAt": "2026-05-14T15:18:35.239Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Evelyn (Japanese: ルスワール Lesoir) is one of the four of the Battle Maison in Pokémon X, Y, Omega Ruby, and Alpha Sapphire, alongside her sisters Nita, Dana, and Morgan.",
+  "plainText": "Evelyn (Japanese: ルスワール Lesoir) is one of the four of the Battle Maison in Pokémon X, Y, Omega Ruby, and Alpha Sapphire, alongside her sisters Nita, Dana, and Morgan.\n\n==In the core series games==\nEvelyn is the leader of the Double Battle format of the Battle Maison, as well as the second youngest of the sisters. Evelyn can be battled once the has acquired a 19-win streak, and on the Super Double Battle once the player has acquired a 49-win streak. \n\nShe joins with Dana or Morgan in the Multi Battle format once the player has reached a 19-win streak. Evelyn will randomly send out two of the four Pokémon from her Double Battle team.\n\n===Pokémon===\n====Double Battle (on 20th consecutive battle)====\n \n \n \n \n \n \n \n \n====Super Double Battle (on 50th consecutive battle)====\n \n \n \n \n \n \n \n \n==In the spin-off games==\n===Pokémon Masters EX===\n \nEvelyn forms a sync pair with in Pokémon Masters EX. Evelyn became a playable sync pair on July 28, 2021.\n\n \n \n\n==Gallery==\n===Artwork===\n \n\n===Sprites and models===\n \n\n==Quotes==\n \n\n==In animation==\n===GOTCHA!===\nEvelyn briefly appeared alongside her sisters in GOTCHA!.\n\n==In the manga==\n ]]\n===Pokémon Adventures===\nEvelyn debuted in Pinsir Glares. At the shore of Kiloude City, the Battle Chatelaines found an unconscious , who was injured after being sent flying by the firing of the ultimate weapon. They took Blaine to the Battle Maison and allowed him to rest and recuperate there. Later, in Malamar Traps, Evelyn and her sisters saw a recovered Blaine off.\n \n\n==In the TCG==\n \nEvelyn, as with the rest of the Battle Chatelaines, received a card in . Evelyn's card, , allows the player to draw four cards. However, it can only be played if the opponent's Active Pokémon is a Stage 1 Pokémon. The card can also be discarded as part of the cost for playing , the card of the eldest Battle Chatelaine.\n \n \n \n\n==Names==\n \n \n\n==References==\n \n\n==Related articles==\n\n \n \n\n \n \n \n\nde:Soir\nes:Vésper\nfr:Vesper\nit:Vespera\nja:ルスワール\nzh:夕絲",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Evelyn (Japanese: ルスワール Lesoir) is one of the four of the Battle Maison in Pokémon X, Y, Omega Ruby, and Alpha Sapphire, alongside her sisters Nita, Dana, and Morgan."
+    },
+    {
+      "heading": "In the core series games",
+      "level": 2,
+      "text": "Evelyn is the leader of the Double Battle format of the Battle Maison, as well as the second youngest of the sisters. Evelyn can be battled once the has acquired a 19-win streak, and on the Super Double Battle once the player has acquired a 49-win streak. \n\nShe joins with Dana or Morgan in the Multi Battle format once the player has reached a 19-win streak. Evelyn will randomly send out two of the four Pokémon from her Double Battle team."
+    },
+    {
+      "heading": "Pokémon Masters EX",
+      "level": 3,
+      "text": "Evelyn forms a sync pair with in Pokémon Masters EX. Evelyn became a playable sync pair on July 28, 2021."
+    },
+    {
+      "heading": "GOTCHA!",
+      "level": 3,
+      "text": "Evelyn briefly appeared alongside her sisters in GOTCHA!."
+    },
+    {
+      "heading": "In the manga",
+      "level": 2,
+      "text": "]]"
+    },
+    {
+      "heading": "Pokémon Adventures",
+      "level": 3,
+      "text": "Evelyn debuted in Pinsir Glares. At the shore of Kiloude City, the Battle Chatelaines found an unconscious , who was injured after being sent flying by the firing of the ultimate weapon. They took Blaine to the Battle Maison and allowed him to rest and recuperate there. Later, in Malamar Traps, Evelyn and her sisters saw a recovered Blaine off."
+    },
+    {
+      "heading": "In the TCG",
+      "level": 2,
+      "text": "Evelyn, as with the rest of the Battle Chatelaines, received a card in . Evelyn's card, , allows the player to draw four cards. However, it can only be played if the opponent's Active Pokémon is a Stage 1 Pokémon. The card can also be discarded as part of the cost for playing , the card of the eldest Battle Chatelaine."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Soir\nes:Vésper\nfr:Vesper\nit:Vespera\nja:ルスワール\nzh:夕絲"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Evelyn",
+    "pageType": "character",
+    "searchableText": "Evelyn\nCategory:Pokémon Adventures characters\nEvelyn (Japanese: ルスワール Lesoir) is one of the four of the Battle Maison in Pokémon X, Y, Omega Ruby, and Alpha Sapphire, alongside her sisters Nita, Dana, and Morgan.",
+    "sectionHeadings": [
+      "Lead",
+      "In the core series games",
+      "Pokémon Masters EX",
+      "GOTCHA!",
+      "In the manga",
+      "Pokémon Adventures",
+      "In the TCG",
+      "Related articles"
+    ],
+    "characterCount": 1982,
+    "sectionCount": 8
+  }
+}

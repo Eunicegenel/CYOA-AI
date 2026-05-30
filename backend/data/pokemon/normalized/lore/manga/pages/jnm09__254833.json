@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "JNM09",
+    "slug": "jnm09",
+    "pageId": 254833,
+    "revisionId": 4528170
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm09__254833.json",
+    "revisionTimestamp": "2026-04-09T16:09:19Z",
+    "fetchedAt": "2026-05-14T15:22:45.838Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Destination: Coronation! (Japanese: サトシ参戦！ポケモンワールドチャンピオンシップス！！ Participates! The !!) is the ninth chapter of the manga. It is based on the animated series episode by the same name.",
+  "plainText": "Destination: Coronation! (Japanese: サトシ参戦！ポケモンワールドチャンピオンシップス！！ Participates! The !!) is the ninth chapter of the manga. It is based on the animated series episode by the same name.\n\n==Plot==\n \n\n==Major events==\nregisters for the new season of the World Coronation Series.\nAsh battles Visquez in his first World Coronation Series match and wins, bringing his rank to 3,763.\n\n===Debuts===\n====Pokémon debuts====\n(Drone Rotom)\n\n==Characters==\n===Humans===\n\nGoh\nLt. Surge (fantasy)\nProfessor Cerise\nVisquez\nSteve and Tony\n\n===Pokémon===\n( )\n( )\n( )\n( ; fantasy)\n(Professor Cerise's; Rotom Phone; ×2)\n(Visquez's)\n(Visquez's)\n(Visquez's; Rotom Phone)\n(Trainer's)\n(Drone Rotom)\n\n==Differences between the animated series and the manga==\nGoh is never shown a .\n\n \n \n \n\nde:Endstation Krönung! (Pokémon Reisen)\nes:PV009\nit:JNM09",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Destination: Coronation! (Japanese: サトシ参戦！ポケモンワールドチャンピオンシップス！！ Participates! The !!) is the ninth chapter of the manga. It is based on the animated series episode by the same name."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "registers for the new season of the World Coronation Series.\nAsh battles Visquez in his first World Coronation Series match and wins, bringing his rank to 3,763."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Drone Rotom)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nLt. Surge (fantasy)\nProfessor Cerise\nVisquez\nSteve and Tony"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( ; fantasy)\n(Professor Cerise's; Rotom Phone; ×2)\n(Visquez's)\n(Visquez's)\n(Visquez's; Rotom Phone)\n(Trainer's)\n(Drone Rotom)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "Goh is never shown a .\n\n \n \n \n\nde:Endstation Krönung! (Pokémon Reisen)\nes:PV009\nit:JNM09"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM09",
+    "pageType": "chapter",
+    "searchableText": "JNM09\nCategory:Pokémon Journeys chapters\nDestination: Coronation! (Japanese: サトシ参戦！ポケモンワールドチャンピオンシップス！！ Participates! The !!) is the ninth chapter of the manga. It is based on the animated series episode by the same name.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 818,
+    "sectionCount": 6
+  }
+}

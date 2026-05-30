@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Pokémon Gold & Silver: The Golden Boys volume 1",
+    "slug": "pokemon-gold-and-silver-the-golden-boys-volume-1",
+    "pageId": 86939,
+    "revisionId": 4298475
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys volumes",
+    "sourceFileName": "pokemon-gold-and-silver-the-golden-boys-volume-1__86939.json",
+    "revisionTimestamp": "2025-05-11T10:05:09Z",
+    "fetchedAt": "2026-05-14T15:36:27.152Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first of three volumes in the Pokémon Gold & Silver: The Golden Boys manga series authored and illustrated by Muneo Saitō.",
+  "plainText": "Volume 1 is the first of three volumes in the Pokémon Gold & Silver: The Golden Boys manga series authored and illustrated by Muneo Saitō.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\nChapter 1: Let's Go!! The Journey Towards the Championship\nChapter 2: Falkner, the Bird Keeper's Challenge!!\nChapter 3: The Legendary Pokémon Appears!!\nChapter 4: Let's Aim for the Goal!!\nChapter 5: Extreme Power!! The Friday Pokémon\nChapter 6: Get Up Again, Bayleef\nChapter 7: The Great Search! Let's Rescue The Slowpoke!\nChapter 8: For Pikachu's Sake!! The Search for the Missing Farfetch'd\n\n==Important events==\n \nbegins his journey with his .\nGold encounters .\nGold received a new version of the Pokédex from Professor Oak.\nWhitney temporarily takes Gold's Pikachu. \n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\nGold's in GB01.\nGold's in GB03.\nGold's in GB04.\nGold's in GB05.\n\n===Evolutions===\nThe following Pokémon evolve:\nNone\n\n===Other===\nreleases in Extreme Power!! The Friday Pokémon\n\n==Gym battles==\nGold defeats the following Gym Leaders:\nFalkner in GB03\nBugsy in GB06",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first of three volumes in the Pokémon Gold & Silver: The Golden Boys manga series authored and illustrated by Muneo Saitō."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 1: Let's Go!! The Journey Towards the Championship\nChapter 2: Falkner, the Bird Keeper's Challenge!!\nChapter 3: The Legendary Pokémon Appears!!\nChapter 4: Let's Aim for the Goal!!\nChapter 5: Extreme Power!! The Friday Pokémon\nChapter 6: Get Up Again, Bayleef\nChapter 7: The Great Search! Let's Rescue The Slowpoke!\nChapter 8: For Pikachu's Sake!! The Search for the Missing Farfetch'd"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "begins his journey with his .\nGold encounters .\nGold received a new version of the Pokédex from Professor Oak.\nWhitney temporarily takes Gold's Pikachu."
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:\nGold's in GB01.\nGold's in GB03.\nGold's in GB04.\nGold's in GB05."
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "The following Pokémon evolve:\nNone"
+    },
+    {
+      "heading": "Other",
+      "level": 3,
+      "text": "releases in Extreme Power!! The Friday Pokémon"
+    },
+    {
+      "heading": "Gym battles",
+      "level": 2,
+      "text": "Gold defeats the following Gym Leaders:\nFalkner in GB03\nBugsy in GB06"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Gold & Silver: The Golden Boys volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Gold & Silver: The Golden Boys volume 1\nCategory:Pokémon Gold & Silver: The Golden Boys volumes\nVolume 1 is the first of three volumes in the Pokémon Gold & Silver: The Golden Boys manga series authored and illustrated by Muneo Saitō.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Additions",
+      "Evolutions",
+      "Other",
+      "Gym battles"
+    ],
+    "characterCount": 1090,
+    "sectionCount": 7
+  }
+}

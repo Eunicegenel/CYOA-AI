@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASS02",
+    "slug": "pass02",
+    "pageId": 253638,
+    "revisionId": 4527921
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass02__253638.json",
+    "revisionTimestamp": "2026-04-09T16:00:49Z",
+    "fetchedAt": "2026-05-14T15:28:40.588Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Crackle!! Practice Battle (Japanese: メリメリ！！練習バトル Crackle!! Practice Battle) is the second chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Crackle!! Practice Battle (Japanese: メリメリ！！練習バトル Crackle!! Practice Battle) is the second chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nand met Leon.\nLeon calls Rose about endorsing Henry and Casey for the Gym Challenge.\n\n \n \n\n===Debuts===\n====Humans====\nLeon\nRose\nOleana\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Magnolia\nMarvin\nLeon\nAnnouncer\nRailroad workers\n\n===Pokémon===\n( )\n( )\n( )\n( )\n(Dynamax; hologram)\n(×2)\n(multiple)\n\n \n\n \n \n \n\nde:Ein knackiger Testlauf\nes:PMSSwSh02\nfr:Chapitre 2 (Pocket Monsters Special Épée et Bouclier)\nit:PASS02\nzh:宝可梦特别篇 剑·盾篇 第2话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Crackle!! Practice Battle (Japanese: メリメリ！！練習バトル Crackle!! Practice Battle) is the second chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and met Leon.\nLeon calls Rose about endorsing Henry and Casey for the Gym Challenge."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Leon\nRose\nOleana"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Magnolia\nMarvin\nLeon\nAnnouncer\nRailroad workers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n(Dynamax; hologram)\n(×2)\n(multiple)\n\n \n\n \n \n \n\nde:Ein knackiger Testlauf\nes:PMSSwSh02\nfr:Chapitre 2 (Pocket Monsters Special Épée et Bouclier)\nit:PASS02\nzh:宝可梦特别篇 剑·盾篇 第2话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS02",
+    "pageType": "chapter",
+    "searchableText": "PASS02\nCategory:Pokémon Adventures chapters\nCrackle!! Practice Battle (Japanese: メリメリ！！練習バトル Crackle!! Practice Battle) is the second chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 620,
+    "sectionCount": 5
+  }
+}

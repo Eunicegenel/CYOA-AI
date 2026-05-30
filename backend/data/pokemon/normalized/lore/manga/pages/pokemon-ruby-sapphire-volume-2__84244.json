@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Ruby-Sapphire volume 2",
+    "slug": "pokemon-ruby-sapphire-volume-2",
+    "pageId": 84244,
+    "revisionId": 4354750
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire volumes",
+    "sourceFileName": "pokemon-ruby-sapphire-volume-2__84244.json",
+    "revisionTimestamp": "2025-08-08T19:03:24Z",
+    "fetchedAt": "2026-05-14T15:37:35.498Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 2 is the second volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 2 is the second volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\nThe Haunted Gym\nSave Wailmer!\nI Hate Pokémon?!\nPokémon Friendship Story\nClefairy Goes Home!\nDeath Match Between Summer And Winter!\nSerious Bicycle Match!\nAnother Spheal Boom?!\nWhat's In The Box?!\nClefairy Becomes A Billionaire?!\n \n\n \n\nit:Pokémon Ruby-Sapphire volume 2\nzh:宝可梦欢乐祭 红宝石・蓝宝石篇2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The Haunted Gym\nSave Wailmer!\nI Hate Pokémon?!\nPokémon Friendship Story\nClefairy Goes Home!\nDeath Match Between Summer And Winter!\nSerious Bicycle Match!\nAnother Spheal Boom?!\nWhat's In The Box?!\nClefairy Becomes A Billionaire?!\n \n\n \n\nit:Pokémon Ruby-Sapphire volume 2\nzh:宝可梦欢乐祭 红宝石・蓝宝石篇2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Ruby-Sapphire volume 2",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Ruby-Sapphire volume 2\nCategory:Pokémon Ruby-Sapphire volumes\nVolume 2 is the second volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 432,
+    "sectionCount": 2
+  }
+}

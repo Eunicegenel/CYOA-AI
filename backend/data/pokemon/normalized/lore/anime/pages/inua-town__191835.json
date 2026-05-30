@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Inua Town",
+    "slug": "inua-town",
+    "pageId": 191835,
+    "revisionId": 4320465
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "inua-town__191835.json",
+    "revisionTimestamp": "2025-06-16T13:14:52Z",
+    "fetchedAt": "2026-05-14T14:24:59.868Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Inua Town (Japanese: イヌアタウン Inua Town) is the hometown of Dominick. It was mentioned in From Brags to Riches. It is unknown where it is located.",
+  "plainText": "Inua Town (Japanese: イヌアタウン Inua Town) is the hometown of Dominick. It was mentioned in From Brags to Riches. It is unknown where it is located.\n\n==Names==\n \n \n \n \n\n \n\nit:Città di Inua\nzh:伊努亞鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Inua Town (Japanese: イヌアタウン Inua Town) is the hometown of Dominick. It was mentioned in From Brags to Riches. It is unknown where it is located."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "it:Città di Inua\nzh:伊努亞鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Inua Town",
+    "pageType": "location",
+    "searchableText": "Inua Town\nCategory:Animated series-exclusive locations\nInua Town (Japanese: イヌアタウン Inua Town) is the hometown of Dominick. It was mentioned in From Brags to Riches. It is unknown where it is located.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 192,
+    "sectionCount": 2
+  }
+}

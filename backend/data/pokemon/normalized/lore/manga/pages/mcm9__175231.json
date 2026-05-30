@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "MCM9",
+    "slug": "mcm9",
+    "pageId": 175231,
+    "revisionId": 4528660
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Aim to Be a Card Master!! chapters",
+    "sourceFileName": "mcm9__175231.json",
+    "revisionTimestamp": "2026-04-09T16:33:16Z",
+    "fetchedAt": "2026-05-14T15:26:18.345Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ワールドチャレンジ夏（後編） カードマスターへの道 The Summer World Challenge (Part Three) \"The Road to Being a Card Master\") is the ninth and final chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.",
+  "plainText": "(Japanese: ワールドチャレンジ夏（後編） カードマスターへの道 The Summer World Challenge (Part Three) \"The Road to Being a Card Master\") is the ninth and final chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ワールドチャレンジ夏（後編） カードマスターへの道 The Summer World Challenge (Part Three) \"The Road to Being a Card Master\") is the ninth and final chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MCM9",
+    "pageType": "chapter",
+    "searchableText": "MCM9\nCategory:Aim to Be a Card Master!! chapters\n(Japanese: ワールドチャレンジ夏（後編） カードマスターへの道 The Summer World Challenge (Part Three) \"The Road to Being a Card Master\") is the ninth and final chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 318,
+    "sectionCount": 2
+  }
+}

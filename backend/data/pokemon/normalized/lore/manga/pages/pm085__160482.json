@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "PM085",
+    "slug": "pm085",
+    "pageId": 160482,
+    "revisionId": 4528365
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm085__160482.json",
+    "revisionTimestamp": "2026-04-09T16:18:04Z",
+    "fetchedAt": "2026-05-14T15:31:23.110Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Togepi's Determination (Japanese: トゲピーの重大決心 's Serious Determination) is the eighty-fifth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Togepi's Determination (Japanese: トゲピーの重大決心 's Serious Determination) is the eighty-fifth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \nWhile still at Goldenrod City, Red meets the Pokémon Fan Club Chairman of Johto. The Chairman notices Red's Togepi and is interested in having it. With Togepi having a new training partner, will this be goodbye for Togepi?\n\n==Major events==\ntrades his for the Pokémon Fan Club Chairman's .\n\n===Debuts===\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\nPokémon Fan Club Chairman\n\n===Pokémon===\n( ) \n( )\n( ; given to the Chairman)\n(the Chairman's; given to Red)\n\n==Trivia==\nThe trade that Red did with the Chairman is similar to the one that happened in the games at the Goldenrod Department Store where the Pokémon received is a . However, the one in the games is a .\n\n \n \n\nit:PMM085",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Togepi's Determination (Japanese: トゲピーの重大決心 's Serious Determination) is the eighty-fifth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "While still at Goldenrod City, Red meets the Pokémon Fan Club Chairman of Johto. The Chairman notices Red's Togepi and is interested in having it. With Togepi having a new training partner, will this be goodbye for Togepi?"
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "trades his for the Pokémon Fan Club Chairman's ."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Pokémon Fan Club Chairman"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( ; given to the Chairman)\n(the Chairman's; given to Red)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The trade that Red did with the Chairman is similar to the one that happened in the games at the Goldenrod Department Store where the Pokémon received is a . However, the one in the games is a .\n\n \n \n\nit:PMM085"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM085",
+    "pageType": "chapter",
+    "searchableText": "PM085\nCategory:Pokémon Pocket Monsters chapters\nTogepi's Determination (Japanese: トゲピーの重大決心 's Serious Determination) is the eighty-fifth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 840,
+    "sectionCount": 7
+  }
+}

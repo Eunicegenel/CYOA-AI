@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP50",
+    "slug": "ppp50",
+    "pageId": 6634,
+    "revisionId": 4526434
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp50__6634.json",
+    "revisionTimestamp": "2026-04-09T14:45:49Z",
+    "fetchedAt": "2026-05-14T15:39:08.006Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Vulpix and Cyndaquil (Japanese: ロコちゃんとアラシくん -chan and -kun) is the fiftieth chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Vulpix and Cyndaquil (Japanese: ロコちゃんとアラシくん -chan and -kun) is the fiftieth chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nCoconut, , , and meet a and who are searching for a Fire Stone for their Trainer. Whichever of his Pokémon finds it first gets to be the leader of his party! The problem is, Vulpix and Cyndaquil can't agree on which of them should be the leader, but their disagreement isn't the one that would be obvious.\n\n==Important characters and Pokémon==\nCoconut\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Vulpix and Cyndaquil (Japanese: ロコちゃんとアラシくん -chan and -kun) is the fiftieth chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Coconut, , , and meet a and who are searching for a Fire Stone for their Trainer. Whichever of his Pokémon finds it first gets to be the leader of his party! The problem is, Vulpix and Cyndaquil can't agree on which of them should be the leader, but their disagreement isn't the one that would be obvious."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Coconut"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP50",
+    "pageType": "chapter",
+    "searchableText": "PPP50\nCategory:Magical Pokémon Journey chapters\nVulpix and Cyndaquil (Japanese: ロコちゃんとアラシくん -chan and -kun) is the fiftieth chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon"
+    ],
+    "characterCount": 536,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM041",
+    "slug": "pm041",
+    "pageId": 160309,
+    "revisionId": 4528022
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm041__160309.json",
+    "revisionTimestamp": "2026-04-09T16:03:44Z",
+    "fetchedAt": "2026-05-14T15:30:55.322Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy's Weight-Gaining Mission!! (Japanese: ピッピの逆減量大作戦！！ 's Weight-Gaining Mission) is the forty-first chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Clefairy's Weight-Gaining Mission!! (Japanese: ピッピの逆減量大作戦！！ 's Weight-Gaining Mission) is the forty-first chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 41 (Pokémon Pocket Monsters)\nit:PMM041",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy's Weight-Gaining Mission!! (Japanese: ピッピの逆減量大作戦！！ 's Weight-Gaining Mission) is the forty-first chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 41 (Pokémon Pocket Monsters)\nit:PMM041"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM041",
+    "pageType": "chapter",
+    "searchableText": "PM041\nCategory:Pokémon Pocket Monsters chapters\nClefairy's Weight-Gaining Mission!! (Japanese: ピッピの逆減量大作戦！！ 's Weight-Gaining Mission) is the forty-first chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 348,
+    "sectionCount": 3
+  }
+}

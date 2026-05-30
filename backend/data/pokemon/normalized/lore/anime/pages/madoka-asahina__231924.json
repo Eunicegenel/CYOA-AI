@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Madoka Asahina",
+    "slug": "madoka-asahina",
+    "pageId": 231924,
+    "revisionId": 4323426
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "madoka-asahina__231924.json",
+    "revisionTimestamp": "2025-06-24T03:30:04Z",
+    "fetchedAt": "2026-05-14T14:34:13.064Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Madoka Asahina (Japanese: 朝日奈丸佳 Asahina Madoka) is a Japanese voice actress for .",
+  "plainText": "Madoka Asahina (Japanese: 朝日奈丸佳 Asahina Madoka) is a Japanese voice actress for .\n\n==Biography==\nAsahina was born on December 17, 1993 in , , and became a voice actress as an adult. She joined during , voicing Team Skull member Rapp, one of her best-known roles to date. Asahina is currently affiliated with the talent agency .\n\n==Pokémon roles==\n===Animation===\n==== ====\nRapp\n\n==Other non-Pokémon roles==\nNene Sakura ( )\nMai Kawai ( )\nMaki ( )\nAvery ( )\nLiones Yelistratova ( )\nFumika Mori, Kinako Mitarai )\n\n==External links==\n81 Produce profile\nOfficial blog\nTwitter\n\n \n\n \n\nit:Madoka Asahina\nzh:朝日奈丸佳",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Madoka Asahina (Japanese: 朝日奈丸佳 Asahina Madoka) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Asahina was born on December 17, 1993 in , , and became a voice actress as an adult. She joined during , voicing Team Skull member Rapp, one of her best-known roles to date. Asahina is currently affiliated with the talent agency ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Rapp"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Nene Sakura ( )\nMai Kawai ( )\nMaki ( )\nAvery ( )\nLiones Yelistratova ( )\nFumika Mori, Kinako Mitarai )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "81 Produce profile\nOfficial blog\nTwitter\n\n \n\n \n\nit:Madoka Asahina\nzh:朝日奈丸佳"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Madoka Asahina",
+    "pageType": "general-anime-lore",
+    "searchableText": "Madoka Asahina\nCategory:Japanese voice actors\nMadoka Asahina (Japanese: 朝日奈丸佳 Asahina Madoka) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 604,
+    "sectionCount": 5
+  }
+}

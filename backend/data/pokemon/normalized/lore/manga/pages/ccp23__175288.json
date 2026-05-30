@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CCP23",
+    "slug": "ccp23",
+    "pageId": 175288,
+    "revisionId": 4528466
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp23__175288.json",
+    "revisionTimestamp": "2026-04-09T16:23:04Z",
+    "fetchedAt": "2026-05-14T15:15:21.943Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: アチャモとちるの大作戦ちゃも and 's Big Strategy (chamo)) is the 23rd chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: アチャモとちるの大作戦ちゃも and 's Big Strategy (chamo)) is the 23rd chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n( )\n(Chiru-Chiru)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: アチャモとちるの大作戦ちゃも and 's Big Strategy (chamo)) is the 23rd chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n( )\n(Chiru-Chiru)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP23",
+    "pageType": "chapter",
+    "searchableText": "CCP23\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: アチャモとちるの大作戦ちゃも and 's Big Strategy (chamo)) is the 23rd chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 289,
+    "sectionCount": 2
+  }
+}

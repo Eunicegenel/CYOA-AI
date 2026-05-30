@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ29",
+    "slug": "gdz29",
+    "pageId": 168634,
+    "revisionId": 4526696
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz29__168634.json",
+    "revisionTimestamp": "2026-04-09T15:02:32Z",
+    "fetchedAt": "2026-05-14T15:19:39.782Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: シンジ・カミング・バック Shinji Coming Back) is the twenty-ninth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: シンジ・カミング・バック Shinji Coming Back) is the twenty-ninth chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\n\n===Pokémon===\n( )\n( 's)\n(evolves)\n(newly evolved)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: シンジ・カミング・バック Shinji Coming Back) is the twenty-ninth chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's)\n(evolves)\n(newly evolved)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ29",
+    "pageType": "chapter",
+    "searchableText": "GDZ29\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: シンジ・カミング・バック Shinji Coming Back) is the twenty-ninth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 291,
+    "sectionCount": 3
+  }
+}

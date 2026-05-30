@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASM32",
+    "slug": "pasm32",
+    "pageId": 246119,
+    "revisionId": 4549424
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasm32__246119.json",
+    "revisionTimestamp": "2026-05-11T01:54:15Z",
+    "fetchedAt": "2026-05-14T15:28:36.149Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Shock!! Father in the Pendant! (Japanese: 動揺！！ペンダントのとうさま！ Trembling!! The Father in the Pendant!) is the 32nd chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Shock!! Father in the Pendant! (Japanese: 動揺！！ペンダントのとうさま！ Trembling!! The Father in the Pendant!) is the 32nd chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n==Major events==\n\n \n\n===Debuts===\nRyuki\n====Pokémon debuts====\n\n(Alolan form)\n(Alolan form)\n(Alolan form)\n(Alolan form)\n\n==Characters==\n===Humans===\n\nSamson Oak\nHala\nOlivia\nKahili\nLillie\nGladion (picture)\nLusamine\nGuzma\nHau\nFaba\nPlumeria\nRyuki\nSina \nDexio\n\n===Pokémon===\n(Alolan form; Cent; 's)\n( ; 's)\n(Loot; 's)\n(Hau's)\n(Hau's)\n(Kahili's)\n(Lusamine's; separates from Lusamine)\n( )\n( ; )\n( )\n(Ride Pokémon)\n(multiple; Alolan form)\n(multiple; Alolan form)\n(multiple; Alolan form)\n(multiple; Alolan form)\n(multiple)\n(multiple)\n(multiple)\n(multiple)\n(Alolan form)\n\n==In other languages==\n \n\n \n\n \n \n \n\nde:Das Foto im Schmuckanhänger\nes:PMSSM32\nit:PASM32\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第32话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shock!! Father in the Pendant! (Japanese: 動揺！！ペンダントのとうさま！ Trembling!! The Father in the Pendant!) is the 32nd chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Debuts",
+      "level": 3,
+      "text": "Ryuki"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Alolan form)\n(Alolan form)\n(Alolan form)\n(Alolan form)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Samson Oak\nHala\nOlivia\nKahili\nLillie\nGladion (picture)\nLusamine\nGuzma\nHau\nFaba\nPlumeria\nRyuki\nSina \nDexio"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Alolan form; Cent; 's)\n( ; 's)\n(Loot; 's)\n(Hau's)\n(Hau's)\n(Kahili's)\n(Lusamine's; separates from Lusamine)\n( )\n( ; )\n( )\n(Ride Pokémon)\n(multiple; Alolan form)\n(multiple; Alolan form)\n(multiple; Alolan form)\n(multiple; Alolan form)\n(multiple)\n(multiple)\n(multiple)\n(multiple)\n(Alolan form)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Das Foto im Schmuckanhänger\nes:PMSSM32\nit:PASM32\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第32话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASM32",
+    "pageType": "chapter",
+    "searchableText": "PASM32\nCategory:Pokémon Adventures chapters\nShock!! Father in the Pendant! (Japanese: 動揺！！ペンダントのとうさま！ Trembling!! The Father in the Pendant!) is the 32nd chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Debuts",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 852,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "PMLT02",
+    "slug": "pmlt02",
+    "pageId": 294948,
+    "revisionId": 4527852
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monster: Liko's treasure chapters",
+    "sourceFileName": "pmlt02__294948.json",
+    "revisionTimestamp": "2026-04-09T15:56:05Z",
+    "fetchedAt": "2026-05-14T15:33:07.087Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ２ Episode 2) is the second regular chapter of the Pocket Monster: Liko's treasure manga. It was first published in the July 2023 issue of Ciao, released on June 2, 2023. It is based on the Pokémon Horizons: The Series episode The Pendant That Starts It All (Part Two). It is 31 pages long.",
+  "plainText": "(Japanese: ２ Episode 2) is the second regular chapter of the Pocket Monster: Liko's treasure manga. It was first published in the July 2023 issue of Ciao, released on June 2, 2023. It is based on the Pokémon Horizons: The Series episode The Pendant That Starts It All (Part Two). It is 31 pages long.\n\n==Plot==\n \n\n==Major events==\nA briefly appears from Liko's pendant.\nLiko is introduced to the Rising Volt Tacklers.\nAmethio kidnaps Liko's Sprigatito.\n\n===Debuts===\n====Humans====\nMollie\nMurdock\nLudlow\nOrla\n\n====Pokémon debuts====\n( )\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n(Murdock's)\n(Amethio's)\n(Onia's; Zirc's)\n\n==Characters==\n===Humans===\nLiko\nFriede\nMollie\nOrla\nLudlow\nMurdock\nAmethio\nOnia\nZirc\n\n===Pokémon===\n( )\n( )\n(Friede's; Captain Pikachu)\n(Friede's; Rotom Phone)\n(Mollie's; Rotom Phone)\n(Orla's; Rotom Phone)\n(Murdock's)\n( )\n(Amethio's)\n(Onia's)\n(Zirc's)\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n( )\n\n==Differences between the animated series and the manga==\n \n\n==References==\n \n\n \n \n \n \n\nes:LNT02\nit:PMLT02",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ２ Episode 2) is the second regular chapter of the Pocket Monster: Liko's treasure manga. It was first published in the July 2023 issue of Ciao, released on June 2, 2023. It is based on the Pokémon Horizons: The Series episode The Pendant That Starts It All (Part Two). It is 31 pages long."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "A briefly appears from Liko's pendant.\nLiko is introduced to the Rising Volt Tacklers.\nAmethio kidnaps Liko's Sprigatito."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Mollie\nMurdock\nLudlow\nOrla"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n(Murdock's)\n(Amethio's)\n(Onia's; Zirc's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Liko\nFriede\nMollie\nOrla\nLudlow\nMurdock\nAmethio\nOnia\nZirc"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Friede's; Captain Pikachu)\n(Friede's; Rotom Phone)\n(Mollie's; Rotom Phone)\n(Orla's; Rotom Phone)\n(Murdock's)\n( )\n(Amethio's)\n(Onia's)\n(Zirc's)\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n(Rising Volt Tacklers')\n( )"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "es:LNT02\nit:PMLT02"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMLT02",
+    "pageType": "chapter",
+    "searchableText": "PMLT02\nCategory:Pocket Monster: Liko's treasure chapters\n(Japanese: ２ Episode 2) is the second regular chapter of the Pocket Monster: Liko's treasure manga. It was first published in the July 2023 issue of Ciao, released on June 2, 2023. It is based on the Pokémon Horizons: The Series episode The Pendant That Starts It All (Part Two). It is 31 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "References"
+    ],
+    "characterCount": 1158,
+    "sectionCount": 7
+  }
+}

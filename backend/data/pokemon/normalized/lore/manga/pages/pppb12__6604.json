@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PPPB12",
+    "slug": "pppb12",
+    "pageId": 6604,
+    "revisionId": 4528586
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "pppb12__6604.json",
+    "revisionTimestamp": "2026-04-09T16:29:03Z",
+    "fetchedAt": "2026-05-14T15:39:28.551Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Gone Fishing!? (Japanese: ピカチュウのさかなつり!?, Pikachu's Fishing Trip!?), is the third bonus chapter of the fifth volume of Magical Pokémon Journey.",
+  "plainText": "Gone Fishing!? (Japanese: ピカチュウのさかなつり!?, Pikachu's Fishing Trip!?), is the third bonus chapter of the fifth volume of Magical Pokémon Journey.\n\n==Plot==\n \nHazel and the others head down to the river to fish.\n\n==Important characters and Pokémon==\nHazel\nAlmond\n\nGrandpa\n\n==Character introductions==\nNone\n\n==Important events==\n \n==Trivia==\nThis four-page story originally ran in both Ciao and Shogakukan 6th Grader magazines.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Gone Fishing!? (Japanese: ピカチュウのさかなつり!?, Pikachu's Fishing Trip!?), is the third bonus chapter of the fifth volume of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Hazel and the others head down to the river to fish."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Hazel\nAlmond\n\nGrandpa"
+    },
+    {
+      "heading": "Character introductions",
+      "level": 2,
+      "text": "None"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This four-page story originally ran in both Ciao and Shogakukan 6th Grader magazines."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPPB12",
+    "pageType": "chapter",
+    "searchableText": "PPPB12\nCategory:Magical Pokémon Journey chapters\nGone Fishing!? (Japanese: ピカチュウのさかなつり!?, Pikachu's Fishing Trip!?), is the third bonus chapter of the fifth volume of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon",
+      "Character introductions",
+      "Trivia"
+    ],
+    "characterCount": 422,
+    "sectionCount": 5
+  }
+}

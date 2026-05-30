@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Taylor (DP118)",
+    "slug": "taylor-dp118",
+    "pageId": 72055,
+    "revisionId": 4094953
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "taylor-dp118__72055.json",
+    "revisionTimestamp": "2024-09-01T00:09:27Z",
+    "fetchedAt": "2026-05-14T14:53:15.822Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Taylor (Japanese: テツオ Tetsuo) is a character of the day who appeared in Pursuing a Lofty Goal!.\n\nTaylor was 's first opponent in the Squallville PokéRinger competition. During their match, he used his against Ash's Staravia. It nearly defeated Staravia with an attack, but a gust of wind pushed Staravia out of the way in time. Taylor commanded another Air Cutter, but Staravia dodged it and landed the ring on the goal, resulting in his loss.",
+  "plainText": "Taylor (Japanese: テツオ Tetsuo) is a character of the day who appeared in Pursuing a Lofty Goal!.\n\nTaylor was 's first opponent in the Squallville PokéRinger competition. During their match, he used his against Ash's Staravia. It nearly defeated Staravia with an attack, but a gust of wind pushed Staravia out of the way in time. Taylor commanded another Air Cutter, but Staravia dodged it and landed the ring on the goal, resulting in his loss.\n\n==Pokémon==\nThis listing is of Taylor's known Pokémon:\n \n\n==Pokémon competitions==\nTaylor has competed in the following :\nSquallville PokéRinger - Round 1 (Pursuing a Lofty Goal!)\n\n==Voice actors==\n \n \n \n\n \n \n \n\nes:Taylor/Tomás\nfr:Jean (épisode 584)\nit:Taylor (DP118)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Taylor (Japanese: テツオ Tetsuo) is a character of the day who appeared in Pursuing a Lofty Goal!.\n\nTaylor was 's first opponent in the Squallville PokéRinger competition. During their match, he used his against Ash's Staravia. It nearly defeated Staravia with an attack, but a gust of wind pushed Staravia out of the way in time. Taylor commanded another Air Cutter, but Staravia dodged it and landed the ring on the goal, resulting in his loss."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Taylor's known Pokémon:"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Taylor has competed in the following :\nSquallville PokéRinger - Round 1 (Pursuing a Lofty Goal!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Taylor/Tomás\nfr:Jean (épisode 584)\nit:Taylor (DP118)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Taylor (DP118)",
+    "pageType": "character",
+    "searchableText": "Taylor (DP118)\nCategory:Sinnoh characters of the day\nTaylor (Japanese: テツオ Tetsuo) is a character of the day who appeared in Pursuing a Lofty Goal!.\n\nTaylor was 's first opponent in the Squallville PokéRinger competition. During their match, he used his against Ash's Staravia. It nearly defeated Staravia with an attack, but a gust of wind pushed Staravia out of the way in time. Taylor commanded another Air Cutter, but Staravia dodged it and landed the ring on the goal, resulting in his loss.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 712,
+    "sectionCount": 4
+  }
+}

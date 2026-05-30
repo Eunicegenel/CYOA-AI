@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Don't be afraid",
+    "slug": "dont-be-afraid",
+    "pageId": 234239,
+    "revisionId": 4546154
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Korean movie ending themes",
+    "sourceFileName": "dont-be-afraid__234239.json",
+    "revisionTimestamp": "2026-05-07T09:33:16Z",
+    "fetchedAt": "2026-05-14T14:12:11.712Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Don't be afraid is the ending theme for the Korean dub of Everyone's Story. It is performed by .",
+  "plainText": "Don't be afraid is the ending theme for the Korean dub of Everyone's Story. It is performed by .\n\n==Lyrics==\n \n! Korean\n! English\n\n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n \n\nwhen the things are looking down\nthen look up don't be afraid\n \n\n \n \n \n \n\n \n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\nI can do anything if I'm next to you\n\nTell me, even the smallest of things\nJoyful things, sad things\nSo that it doesn't get tough being alone\nI'm here\n\nI enjoy walking with you\nGetting lost and wandering\nRunning, rolling and falling over\nThere is always us\n\nI enjoy walking together\nLet's be together always\nLike you have always done\nSo that you won't think you're alone\nLet's be together\n\nWhen the things are looking down\nThen look up don't be afraid\nWe are friends who look after you, Oo oo Yeah!\n\nI enjoy walking with you\nGetting lost and wandering\nRunning, rolling and falling over\nThere is always us\n\nI enjoy walking together\nLet's be together always\nLike you have always done\nSo that you won't think you're alone\nLet's be together\n\nDream to your heart's content\nJump around with strength\nI'm there beside you\nWe can always smile\n\nI enjoy walking together\nLet's be together always\nLike you have always done\nLet's be together so that you won't think you're alone \n\n==Video==\n \n\n \n \n \n\nzh:寶可夢電影 韓語片尾曲21",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Don't be afraid is the ending theme for the Korean dub of Everyone's Story. It is performed by ."
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "! Korean\n! English\n\n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n \n\nwhen the things are looking down\nthen look up don't be afraid\n \n\n \n \n \n \n\n \n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\nI can do anything if I'm next to you\n\nTell me, even the smallest of things\nJoyful things, sad things\nSo that it doesn't get tough being alone\nI'm here\n\nI enjoy walking with you\nGetting lost and wandering\nRunning, rolling and falling over\nThere is always us\n\nI enjoy walking together\nLet's be together always\nLike you have always done\nSo that you won't think you're alone\nLet's be together\n\nWhen the things are looking down\nThen look up don't be afraid\nWe are friends who look after you, Oo oo Yeah!\n\nI enjoy walking with you\nGetting lost and wandering\nRunning, rolling and falling over\nThere is always us\n\nI enjoy walking together\nLet's be together always\nLike you have always done\nSo that you won't think you're alone\nLet's be together\n\nDream to your heart's content\nJump around with strength\nI'm there beside you\nWe can always smile\n\nI enjoy walking together\nLet's be together always\nLike you have always done\nLet's be together so that you won't think you're alone"
+    },
+    {
+      "heading": "Video",
+      "level": 2,
+      "text": "zh:寶可夢電影 韓語片尾曲21"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Don't be afraid",
+    "pageType": "movie",
+    "searchableText": "Don't be afraid\nCategory:Korean movie ending themes\nDon't be afraid is the ending theme for the Korean dub of Everyone's Story. It is performed by .",
+    "sectionHeadings": [
+      "Lead",
+      "Lyrics",
+      "Video"
+    ],
+    "characterCount": 1271,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Spencer (Adventures)",
+    "slug": "spencer-adventures",
+    "pageId": 221586,
+    "revisionId": 4450559
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "spencer-adventures__221586.json",
+    "revisionTimestamp": "2025-12-19T20:02:07Z",
+    "fetchedAt": "2026-05-14T15:50:15.156Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Spencer (Japanese: スペンサー Spencer) is a character in the Pokémon Adventures manga. He is a resident of Vaniville Town who works at a second-hand book store.",
+  "plainText": "Spencer (Japanese: スペンサー Spencer) is a character in the Pokémon Adventures manga. He is a resident of Vaniville Town who works at a second-hand book store.\n\n==History==\n=== ===\nSpencer debuts in Gathering Klefki. He was one of the people who were kidnapped by Team Flare after attempting to escape from the destruction of Vaniville Town caused by the battle between Xerneas and . Spencer and the other kidnapped Vaniville Town residents were taken to the Team Flare Secret HQ, where they were locked inside jail cells.\n\nWhen Team Flare began the operation to retrieve the dormant tree form of Xerneas, Celosia used her to mind control the Vaniville townspeople in order to use them for slave labor. The townspeople were taken to , where they were made to load Xerneas's tree form into a vehicle so that it can be moved to Team Flare's base. Spencer was freed from the mind control when Korrina battled against Celosia and defeated Aegislash with her .\n\nAfterward, Spencer and the other Vaniville townspeople were taken to a Laverre City hospital to recuperate.\n\n==Trivia==\nAccording to Satoshi Yamamoto, several of the Vaniville Town residents are a reference to the long-running television series, . Spencer's design is a reference to the character . \n\n==References==\n \n \n\n \n \n \n\nit:Spencer",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Spencer (Japanese: スペンサー Spencer) is a character in the Pokémon Adventures manga. He is a resident of Vaniville Town who works at a second-hand book store."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Spencer debuts in Gathering Klefki. He was one of the people who were kidnapped by Team Flare after attempting to escape from the destruction of Vaniville Town caused by the battle between Xerneas and . Spencer and the other kidnapped Vaniville Town residents were taken to the Team Flare Secret HQ, where they were locked inside jail cells.\n\nWhen Team Flare began the operation to retrieve the dormant tree form of Xerneas, Celosia used her to mind control the Vaniville townspeople in order to use them for slave labor. The townspeople were taken to , where they were made to load Xerneas's tree form into a vehicle so that it can be moved to Team Flare's base. Spencer was freed from the mind control when Korrina battled against Celosia and defeated Aegislash with her .\n\nAfterward, Spencer and the other Vaniville townspeople were taken to a Laverre City hospital to recuperate."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "According to Satoshi Yamamoto, several of the Vaniville Town residents are a reference to the long-running television series, . Spencer's design is a reference to the character ."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:Spencer"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Spencer (Adventures)",
+    "pageType": "character",
+    "searchableText": "Spencer (Adventures)\nCategory:Pokémon Adventures characters\nSpencer (Japanese: スペンサー Spencer) is a character in the Pokémon Adventures manga. He is a resident of Vaniville Town who works at a second-hand book store.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Trivia",
+      "References"
+    ],
+    "characterCount": 1291,
+    "sectionCount": 4
+  }
+}

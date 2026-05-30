@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "MTM10",
+    "slug": "mtm10",
+    "pageId": 316327,
+    "revisionId": 4169325
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mezastar: Aim to Be a Tag Master! chapters",
+    "sourceFileName": "mtm10__316327.json",
+    "revisionTimestamp": "2024-10-27T20:49:11Z",
+    "fetchedAt": "2026-05-14T15:27:18.474Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the 10th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the September 2022 issue of CoroCoro Ichiban!, released on July 21, 2022. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on November 27, 2023.",
+  "plainText": "This is the 10th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the September 2022 issue of CoroCoro Ichiban!, released on July 21, 2022. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on November 27, 2023.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\n\n==Characters==\n===Humans===\nKira Hoshio\nSuguru Tsukino\nDouji Futakata\nRekuto Kuroko\n\n==Tags featured==\n \nZygarde (CoroCoro Ichiban! September 2022)\nRayquaza (2-5-001)\nLucario (2-5-009)\nObstagoon (3-1-009)\nSolgaleo (3-1-007)\n \n\n==Trivia==\n \nThis chapter was published in an extra book of the CoroCoro Ichiban! September 2022 issue titled (Japanese: ポケモンメザスタ　ＤＣ１だん超攻略ＢＯＯＫ！！). \nThis chapter features the September 2022 issue of CoroCoro Ichiban!.\n\n==References==\n \n\n==External links==\nChapter 10 on Weekly CoroCoro Comics",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the 10th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the September 2022 issue of CoroCoro Ichiban!, released on July 21, 2022. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on November 27, 2023."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kira Hoshio\nSuguru Tsukino\nDouji Futakata\nRekuto Kuroko"
+    },
+    {
+      "heading": "Tags featured",
+      "level": 2,
+      "text": "Zygarde (CoroCoro Ichiban! September 2022)\nRayquaza (2-5-001)\nLucario (2-5-009)\nObstagoon (3-1-009)\nSolgaleo (3-1-007)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This chapter was published in an extra book of the CoroCoro Ichiban! September 2022 issue titled (Japanese: ポケモンメザスタ　ＤＣ１だん超攻略ＢＯＯＫ！！). \nThis chapter features the September 2022 issue of CoroCoro Ichiban!."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 10 on Weekly CoroCoro Comics"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MTM10",
+    "pageType": "chapter",
+    "searchableText": "MTM10\nCategory:Pokémon Mezastar: Aim to Be a Tag Master! chapters\nThis is the 10th chapter of the Pokémon Mezastar: Aim to Be a Tag Master! manga. It was first published in the September 2022 issue of CoroCoro Ichiban!, released on July 21, 2022. It is 18 pages long.\n\nIt was made available on Weekly CoroCoro Comics on November 27, 2023.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Tags featured",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 850,
+    "sectionCount": 5
+  }
+}

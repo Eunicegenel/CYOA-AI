@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mossgreen Village",
+    "slug": "mossgreen-village",
+    "pageId": 19382,
+    "revisionId": 4548375
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "mossgreen-village__19382.json",
+    "revisionTimestamp": "2026-05-11T00:25:13Z",
+    "fetchedAt": "2026-05-14T14:38:06.173Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Mossgreen Village (Japanese: マツモタウン Matsumo Town) is an -exclusive location in Kanto. It is a small town found between the and Cinnabar Island. It was featured in The Problem with Paras.\n\nMossgreen Village is home to a medicine shop, which is owned by Cassandra and her grandmother . They make their own potions to sell to traveling s, which is how they ended up meeting and . The shop has its very own , which helps them make the medicines and potions they need. There is also a that helps guard the shop.",
+  "plainText": "Mossgreen Village (Japanese: マツモタウン Matsumo Town) is an -exclusive location in Kanto. It is a small town found between the and Cinnabar Island. It was featured in The Problem with Paras.\n\nMossgreen Village is home to a medicine shop, which is owned by Cassandra and her grandmother . They make their own potions to sell to traveling s, which is how they ended up meeting and . The shop has its very own , which helps them make the medicines and potions they need. There is also a that helps guard the shop.\n\n==Pokémon seen in Mossgreen Village==\n \n\n==In other languages==\n \n \n \n \n\n \n \n\nde:Moosgrün Stadt\nes:Pueblo del Hongo Verde/Musgo\nit:Villaggio di Mossgreen\nzh:松藻鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mossgreen Village (Japanese: マツモタウン Matsumo Town) is an -exclusive location in Kanto. It is a small town found between the and Cinnabar Island. It was featured in The Problem with Paras.\n\nMossgreen Village is home to a medicine shop, which is owned by Cassandra and her grandmother . They make their own potions to sell to traveling s, which is how they ended up meeting and . The shop has its very own , which helps them make the medicines and potions they need. There is also a that helps guard the shop."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Moosgrün Stadt\nes:Pueblo del Hongo Verde/Musgo\nit:Villaggio di Mossgreen\nzh:松藻鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mossgreen Village",
+    "pageType": "location",
+    "searchableText": "Mossgreen Village\nCategory:Animated series-exclusive locations\nMossgreen Village (Japanese: マツモタウン Matsumo Town) is an -exclusive location in Kanto. It is a small town found between the and Cinnabar Island. It was featured in The Problem with Paras.\n\nMossgreen Village is home to a medicine shop, which is owned by Cassandra and her grandmother . They make their own potions to sell to traveling s, which is how they ended up meeting and . The shop has its very own , which helps them make the medicines and potions they need. There is also a that helps guard the shop.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 668,
+    "sectionCount": 2
+  }
+}

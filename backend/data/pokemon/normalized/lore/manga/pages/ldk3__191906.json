@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "LDK3",
+    "slug": "ldk3",
+    "pageId": 191906,
+    "revisionId": 3997551
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY: The Legend of the Pokémon Dragon King chapters",
+    "sourceFileName": "ldk3__191906.json",
+    "revisionTimestamp": "2024-04-30T13:07:32Z",
+    "fetchedAt": "2026-05-14T15:24:01.472Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 竜王戦、ついに開幕！！ Dragon King Cup Finally Begins!!) is the third chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.",
+  "plainText": "(Japanese: 竜王戦、ついに開幕！！ Dragon King Cup Finally Begins!!) is the third chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nTaichi\nGoro\n\n====Pokémon debuts====\n(Taichi's)\n\n==Characters==\n===Humans===\n\nKanna\nTaichi\n\nKunio\nGoro\n\n===Pokémon===\n( 's)\n(Taichi's)\n( 's)\n(Goro's)\n(Kanna's)\n\n \n \n \n\nit:LDK3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 竜王戦、ついに開幕！！ Dragon King Cup Finally Begins!!) is the third chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Taichi\nGoro"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Taichi's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kanna\nTaichi\n\nKunio\nGoro"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n(Taichi's)\n( 's)\n(Goro's)\n(Kanna's)\n\n \n \n \n\nit:LDK3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "LDK3",
+    "pageType": "chapter",
+    "searchableText": "LDK3\nCategory:Pocket Monsters XY: The Legend of the Pokémon Dragon King chapters\n(Japanese: 竜王戦、ついに開幕！！ Dragon King Cup Finally Begins!!) is the third chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 383,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GB22",
+    "slug": "gb22",
+    "pageId": 161728,
+    "revisionId": 4526627
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys chapters",
+    "sourceFileName": "gb22__161728.json",
+    "revisionTimestamp": "2026-04-09T14:59:05Z",
+    "fetchedAt": "2026-05-14T15:19:20.375Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Farewell To Pikachu?! (Japanese: ピカチュウとの別れ!? Farewell To Pikachu!?) is the twenty second chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+  "plainText": "Farewell To Pikachu?! (Japanese: ピカチュウとの別れ!? Farewell To Pikachu!?) is the twenty second chapter of the Pokémon Gold & Silver: The Golden Boys manga.\n\n==Plot==\n \n\n==Major events==\nEusine explains how and why he sent back in time.\nrefuses to hand Pikachu to Eusine.\nChuck declares a battle to decide who gets to keep Pikachu.\nGold and send the SecretPotion to Olivine City.\nGold battles Eusine and wins, getting to keep Pikachu.\nunseals the Black Tyranitar, which goes on a rampage.\n\n===Debuts===\n====Pokémon debuts====\n\n(Black Tyranitar)\n\n==Characters==\n===Humans===\n\nChuck\nEusine\nMorty (flashback)\nBill (flashback)\n\n===Pokémon===\n( )\n( )\n( 's)\n( )\n( 's)\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n(Chuck's)\n(Eusine's; debut)\n(Black Tyranitar; debut)\n(delivery service's)\n(fantasy)\n\n \n \n \n\nes:GB23\nit:GB22",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Farewell To Pikachu?! (Japanese: ピカチュウとの別れ!? Farewell To Pikachu!?) is the twenty second chapter of the Pokémon Gold & Silver: The Golden Boys manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Eusine explains how and why he sent back in time.\nrefuses to hand Pikachu to Eusine.\nChuck declares a battle to decide who gets to keep Pikachu.\nGold and send the SecretPotion to Olivine City.\nGold battles Eusine and wins, getting to keep Pikachu.\nunseals the Black Tyranitar, which goes on a rampage."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Black Tyranitar)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Chuck\nEusine\nMorty (flashback)\nBill (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( 's)\n( )\n( 's)\n( )\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n( 's)\n(Chuck's)\n(Eusine's; debut)\n(Black Tyranitar; debut)\n(delivery service's)\n(fantasy)\n\n \n \n \n\nes:GB23\nit:GB22"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GB22",
+    "pageType": "chapter",
+    "searchableText": "GB22\nCategory:Pokémon Gold & Silver: The Golden Boys chapters\nFarewell To Pikachu?! (Japanese: ピカチュウとの別れ!? Farewell To Pikachu!?) is the twenty second chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 808,
+    "sectionCount": 5
+  }
+}

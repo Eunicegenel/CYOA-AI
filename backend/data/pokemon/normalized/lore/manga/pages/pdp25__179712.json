@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "PDP25",
+    "slug": "pdp25",
+    "pageId": 179712,
+    "revisionId": 4527892
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp25__179712.json",
+    "revisionTimestamp": "2026-04-09T15:58:17Z",
+    "fetchedAt": "2026-05-14T15:29:51.108Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: やんちゃなコイル Mischievous ) is the twenty-fifth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: やんちゃなコイル Mischievous ) is the twenty-fifth chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: やんちゃなコイル Mischievous ) is the twenty-fifth chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP25",
+    "pageType": "chapter",
+    "searchableText": "PDP25\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: やんちゃなコイル Mischievous ) is the twenty-fifth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 219,
+    "sectionCount": 1
+  }
+}

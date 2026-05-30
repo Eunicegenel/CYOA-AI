@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Mollie's mother",
+    "slug": "mollies-mother",
+    "pageId": 333423,
+    "revisionId": 4504331
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Horizons: The Series characters",
+    "sourceFileName": "mollies-mother__333423.json",
+    "revisionTimestamp": "2026-03-09T00:37:24Z",
+    "fetchedAt": "2026-05-14T14:37:52.742Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mollie's mother is a recurring character in . She is the mother of Mollie, one of the members of the Rising Volt Tacklers, and an elderly Nurse Joy that works at Mochew City's Pokémon Center.",
+  "plainText": "Mollie's mother is a recurring character in . She is the mother of Mollie, one of the members of the Rising Volt Tacklers, and an elderly Nurse Joy that works at Mochew City's Pokémon Center.\n\n==History==\nMollie's mother was first referenced in Arboliva's Forest, where during a phone call, she insisted that Mollie return to helping her with the family business.\n\nIn The SOS is from Tandemaus?, Mollie referenced her again when she told Liko about her family.\n\nMollie's mother first appeared in person in The Pokémon Center Lady, after a night of work, she came to Mollie and told her how happy she was to have her around. When Mollie found out about the injured Pokémon in Woody Park, she was initially opposed to Mollie personally trying to resolve the situation, but as Mollie walked away, she looked on with pride at the person her daughter had become.\n\nShe reappeared during a flashback in We Are the Rising Volt Tacklers!, when Mollie revealed to her that she was leaving to re-join the Rising Volt Tacklers.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n==Related articles==\nNurse Joy\n \n \n\n \n \n \n \n\nes:Madre de Mollie\nit:Madre di Mollie\nzh:莫丽的母亲",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mollie's mother is a recurring character in . She is the mother of Mollie, one of the members of the Rising Volt Tacklers, and an elderly Nurse Joy that works at Mochew City's Pokémon Center."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Mollie's mother was first referenced in Arboliva's Forest, where during a phone call, she insisted that Mollie return to helping her with the family business.\n\nIn The SOS is from Tandemaus?, Mollie referenced her again when she told Liko about her family.\n\nMollie's mother first appeared in person in The Pokémon Center Lady, after a night of work, she came to Mollie and told her how happy she was to have her around. When Mollie found out about the injured Pokémon in Woody Park, she was initially opposed to Mollie personally trying to resolve the situation, but as Mollie walked away, she looked on with pride at the person her daughter had become.\n\nShe reappeared during a flashback in We Are the Rising Volt Tacklers!, when Mollie revealed to her that she was leaving to re-join the Rising Volt Tacklers."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Nurse Joy\n \n \n\n \n \n \n \n\nes:Madre de Mollie\nit:Madre di Mollie\nzh:莫丽的母亲"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mollie's mother",
+    "pageType": "character",
+    "searchableText": "Mollie's mother\nCategory:Pokémon Horizons: The Series characters\nMollie's mother is a recurring character in . She is the mother of Mollie, one of the members of the Rising Volt Tacklers, and an elderly Nurse Joy that works at Mochew City's Pokémon Center.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1143,
+    "sectionCount": 3
+  }
+}

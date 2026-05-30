@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Masayuki Omoro",
+    "slug": "masayuki-omoro",
+    "pageId": 146606,
+    "revisionId": 4528281
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "masayuki-omoro__146606.json",
+    "revisionTimestamp": "2026-04-09T16:13:16Z",
+    "fetchedAt": "2026-05-14T14:35:33.076Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Masayuki Omoro (Japanese: 小室正幸 Omoro Masayuki) is a Japanese voice actor for . He was born on March 6, 1948 in , .",
+  "plainText": "Masayuki Omoro (Japanese: 小室正幸 Omoro Masayuki) is a Japanese voice actor for . He was born on March 6, 1948 in , . \n\n==Pokémon roles==\nOmoro began his work on near the end of , providing the voice of . While in , his only role was Team Rocket scientists, Dr. Zager.\n\n===Animation===\n==== ====\n\nDr. Zager\n\n====Pokémon Generations====\nGiallo\n\n==Other non-Pokémon roles==\nTim Marcoh ( )\nColonel Mike Hodges ( )\nPresident Brian Stegmeyer ( )\nManabu Tadokoro ( )\nIzo Motobe ( )\nSimon Gantt ( )\nKinzan Kyouzou ( )\n\n==External links==\n81 Produce\n \n \n\n \n\nit:Masayuki Omoro\nja:小室正幸",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Masayuki Omoro (Japanese: 小室正幸 Omoro Masayuki) is a Japanese voice actor for . He was born on March 6, 1948 in , ."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Omoro began his work on near the end of , providing the voice of . While in , his only role was Team Rocket scientists, Dr. Zager."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Dr. Zager"
+    },
+    {
+      "heading": "Pokémon Generations",
+      "level": 4,
+      "text": "Giallo"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Tim Marcoh ( )\nColonel Mike Hodges ( )\nPresident Brian Stegmeyer ( )\nManabu Tadokoro ( )\nIzo Motobe ( )\nSimon Gantt ( )\nKinzan Kyouzou ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "81 Produce\n \n \n\n \n\nit:Masayuki Omoro\nja:小室正幸"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Masayuki Omoro",
+    "pageType": "general-anime-lore",
+    "searchableText": "Masayuki Omoro\nCategory:Japanese voice actors\nMasayuki Omoro (Japanese: 小室正幸 Omoro Masayuki) is a Japanese voice actor for . He was born on March 6, 1948 in , .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "",
+      "Pokémon Generations",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 572,
+    "sectionCount": 6
+  }
+}

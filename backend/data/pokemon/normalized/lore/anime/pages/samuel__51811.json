@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Samuel",
+    "slug": "samuel",
+    "pageId": 51811,
+    "revisionId": 4541523
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Gym assistants",
+    "sourceFileName": "samuel__51811.json",
+    "revisionTimestamp": "2026-04-30T12:43:59Z",
+    "fetchedAt": "2026-05-14T14:48:12.840Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "For the Pokémon Professor, see Professor Oak.\n----\n \nSamuel (Japanese: ソウタロウ Sōtarō), also known as Sam, is a recurring character in . He is the assistant of , and he also referees Brandon's matches.",
+  "plainText": "For the Pokémon Professor, see Professor Oak.\n----\n \nSamuel (Japanese: ソウタロウ Sōtarō), also known as Sam, is a recurring character in . He is the assistant of , and he also referees Brandon's matches.\n\n==History==\n===Pokémon the Series: Ruby and Sapphire===\nSamuel debuted in Battling the Enemy Within!, where he refereed the match of Brandon and , the latter of whom was then possessed by the King of Pokélantis. At one point, the king used Samuel as a human shield by forcing to hide behind him as Brandon's was preparing to fire a at it, but Brandon was able to stop Regirock in time.\n\nSamuel later accompanied Brandon, who was searching for a rare Pokémon at the Fennel Valley ruins. Ash and arrived at Fennel Valley, and Samuel refereed Ash's long-awaited rematch against Brandon in Overjoyed!. After Ash's loss, Brandon continued to search the ruins.\n\nBy Pinch Healing!, Samuel confirmed that Brandon had finally located the rare Pokémon, allowing for Ash to have another chance at the Brave Symbol. In Gathering the Gang of Four! and Pace - The Final Frontier!, Samuel refereed the battle between Brandon and Ash. Samuel almost awarded the victory to Brandon after was by an from Brandon's . However, Pikachu was able to break free and eventually win the match, earning Ash his final Symbol and a place in the Hall of Fame.\n\n===Pokémon the Series: Diamond and Pearl===\nSamuel appeared in A Pyramiding Rage!, where he was sent off with to the Snowpoint Temple. In Pillars of Friendship!, Samuel alerted Brandon and Ash's group to the arrival of mysterious people at Snowpoint Temple, who were later identified as J and her crew. While Brandon, Maria, and Ash's group deal with the trouble down at the Temple, Samuel was ordered to repair one of the Battle Pyramid's broken motors.\n\n==Character==\nSamuel is a reliable individual, often running errands on behalf of his boss . When refereeing, Samuel is particularly stern as he observes Brandon's matches, and he is quick to make his ruling judgments.\n\n==Voice actors==\n \n\n==Trivia==\nSamuel did not receive a dub name until his and Brandon's reappearance in Pokémon the Series: Diamond and Pearl.\n\n \n \n \n \n\nes:Samuel\nfr:Samuel (dessin animé)\nit:Samuel\nzh:奏太郎",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "For the Pokémon Professor, see Professor Oak.\n----\n \nSamuel (Japanese: ソウタロウ Sōtarō), also known as Sam, is a recurring character in . He is the assistant of , and he also referees Brandon's matches."
+    },
+    {
+      "heading": "Pokémon the Series: Ruby and Sapphire",
+      "level": 3,
+      "text": "Samuel debuted in Battling the Enemy Within!, where he refereed the match of Brandon and , the latter of whom was then possessed by the King of Pokélantis. At one point, the king used Samuel as a human shield by forcing to hide behind him as Brandon's was preparing to fire a at it, but Brandon was able to stop Regirock in time.\n\nSamuel later accompanied Brandon, who was searching for a rare Pokémon at the Fennel Valley ruins. Ash and arrived at Fennel Valley, and Samuel refereed Ash's long-awaited rematch against Brandon in Overjoyed!. After Ash's loss, Brandon continued to search the ruins.\n\nBy Pinch Healing!, Samuel confirmed that Brandon had finally located the rare Pokémon, allowing for Ash to have another chance at the Brave Symbol. In Gathering the Gang of Four! and Pace - The Final Frontier!, Samuel refereed the battle between Brandon and Ash. Samuel almost awarded the victory to Brandon after was by an from Brandon's . However, Pikachu was able to break free and eventually win the match, earning Ash his final Symbol and a place in the Hall of Fame."
+    },
+    {
+      "heading": "Pokémon the Series: Diamond and Pearl",
+      "level": 3,
+      "text": "Samuel appeared in A Pyramiding Rage!, where he was sent off with to the Snowpoint Temple. In Pillars of Friendship!, Samuel alerted Brandon and Ash's group to the arrival of mysterious people at Snowpoint Temple, who were later identified as J and her crew. While Brandon, Maria, and Ash's group deal with the trouble down at the Temple, Samuel was ordered to repair one of the Battle Pyramid's broken motors."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Samuel is a reliable individual, often running errands on behalf of his boss . When refereeing, Samuel is particularly stern as he observes Brandon's matches, and he is quick to make his ruling judgments."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Samuel did not receive a dub name until his and Brandon's reappearance in Pokémon the Series: Diamond and Pearl.\n\n \n \n \n \n\nes:Samuel\nfr:Samuel (dessin animé)\nit:Samuel\nzh:奏太郎"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Samuel",
+    "pageType": "general-anime-lore",
+    "searchableText": "Samuel\nCategory:Gym assistants\nFor the Pokémon Professor, see Professor Oak.\n----\n \nSamuel (Japanese: ソウタロウ Sōtarō), also known as Sam, is a recurring character in . He is the assistant of , and he also referees Brandon's matches.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon the Series: Ruby and Sapphire",
+      "Pokémon the Series: Diamond and Pearl",
+      "Character",
+      "Trivia"
+    ],
+    "characterCount": 2212,
+    "sectionCount": 5
+  }
+}

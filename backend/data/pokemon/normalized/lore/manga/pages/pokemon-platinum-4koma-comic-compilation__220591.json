@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Pokémon Platinum 4Koma Comic Compilation",
+    "slug": "pokemon-platinum-4koma-comic-compilation",
+    "pageId": 220591,
+    "revisionId": 3790783
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-platinum-4koma-comic-compilation__220591.json",
+    "revisionTimestamp": "2023-09-02T11:35:06Z",
+    "fetchedAt": "2026-05-14T15:36:46.905Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモンプラチナ4コマまんが全集 Pokémon Platinum 4Koma Comic Compilation) is a Pokémon 4Koma by Santa Harukaze.\n\n \n \n\n \n \n\n \n\nzh:宝可梦白金四格漫画全集",
+  "plainText": "(Japanese: ポケモンプラチナ4コマまんが全集 Pokémon Platinum 4Koma Comic Compilation) is a Pokémon 4Koma by Santa Harukaze.\n\n \n \n\n \n \n\n \n\nzh:宝可梦白金四格漫画全集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンプラチナ4コマまんが全集 Pokémon Platinum 4Koma Comic Compilation) is a Pokémon 4Koma by Santa Harukaze.\n\n \n \n\n \n \n\n \n\nzh:宝可梦白金四格漫画全集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Platinum 4Koma Comic Compilation",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Platinum 4Koma Comic Compilation\nCategory:Pokémon 4Koma\n(Japanese: ポケモンプラチナ4コマまんが全集 Pokémon Platinum 4Koma Comic Compilation) is a Pokémon 4Koma by Santa Harukaze.\n\n \n \n\n \n \n\n \n\nzh:宝可梦白金四格漫画全集",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 136,
+    "sectionCount": 1
+  }
+}

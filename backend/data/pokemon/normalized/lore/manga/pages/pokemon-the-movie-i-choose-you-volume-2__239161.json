@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon the Movie: I Choose You! volume 2",
+    "slug": "pokemon-the-movie-i-choose-you-volume-2",
+    "pageId": 239161,
+    "revisionId": 3952911
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! (manga)",
+    "sourceFileName": "pokemon-the-movie-i-choose-you-volume-2__239161.json",
+    "revisionTimestamp": "2024-03-11T15:30:50Z",
+    "fetchedAt": "2026-05-14T15:38:06.578Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 2 is the second volume of the I Choose You! Pokémon manga created by 鷹岬 諒 Ryo Takamisaki.",
+  "plainText": "Volume 2 is the second volume of the I Choose You! Pokémon manga created by 鷹岬 諒 Ryo Takamisaki.\n\n==Publications==\n \n \n \n \n\n==Chapters==\nChapter 8\nChapter 9\nChapter 10\nChapter 11\nChapter 12\nChapter 13\nChapter 14\nFinal Chapter\n\n \n\nzh:就决定是你了！（漫画）下",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume of the I Choose You! Pokémon manga created by 鷹岬 諒 Ryo Takamisaki."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 8\nChapter 9\nChapter 10\nChapter 11\nChapter 12\nChapter 13\nChapter 14\nFinal Chapter\n\n \n\nzh:就决定是你了！（漫画）下"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon the Movie: I Choose You! volume 2",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon the Movie: I Choose You! volume 2\nCategory:Pokémon the Movie: I Choose You! (manga)\nVolume 2 is the second volume of the I Choose You! Pokémon manga created by 鷹岬 諒 Ryo Takamisaki.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 245,
+    "sectionCount": 2
+  }
+}

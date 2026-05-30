@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "BWGP05",
+    "slug": "bwgp05",
+    "pageId": 231200,
+    "revisionId": 4527660
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW: Good Partners chapters",
+    "sourceFileName": "bwgp05__231200.json",
+    "revisionTimestamp": "2026-04-09T15:45:54Z",
+    "fetchedAt": "2026-05-14T15:14:47.500Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 一億年前のポケモン The 100 Million Year Old Pokémon) is the fifth chapter of the Pocket Monsters BW: Good Partners manga.",
+  "plainText": "(Japanese: 一億年前のポケモン The 100 Million Year Old Pokémon) is the fifth chapter of the Pocket Monsters BW: Good Partners manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\nHawes\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nTakurō\nMashiro\nHawes\nMuseum staff\n\n===Pokémon===\n(Takurō's)\n(Takurō's)\n(Takurō's)\n(Takurō's)\n(Mashiro's)\n(Mashiro's)\n(×2)\n\n \n \n \n\nzh:GP05",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 一億年前のポケモン The 100 Million Year Old Pokémon) is the fifth chapter of the Pocket Monsters BW: Good Partners manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Hawes"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Takurō\nMashiro\nHawes\nMuseum staff"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Takurō's)\n(Takurō's)\n(Takurō's)\n(Takurō's)\n(Mashiro's)\n(Mashiro's)\n(×2)\n\n \n \n \n\nzh:GP05"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "BWGP05",
+    "pageType": "chapter",
+    "searchableText": "BWGP05\nCategory:Pocket Monsters BW: Good Partners chapters\n(Japanese: 一億年前のポケモン The 100 Million Year Old Pokémon) is the fifth chapter of the Pocket Monsters BW: Good Partners manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 378,
+    "sectionCount": 4
+  }
+}

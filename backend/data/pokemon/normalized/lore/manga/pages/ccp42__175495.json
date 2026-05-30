@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "CCP42",
+    "slug": "ccp42",
+    "pageId": 175495,
+    "revisionId": 4528569
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp42__175495.json",
+    "revisionTimestamp": "2026-04-09T16:27:00Z",
+    "fetchedAt": "2026-05-14T15:15:33.814Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: アチャモの恋の完結編チャモ(前編) Love's Final Chapter (prequel)) is the 42nd chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga. It is the final regular chapter of the series.",
+  "plainText": "(Japanese: アチャモの恋の完結編チャモ(前編) Love's Final Chapter (prequel)) is the 42nd chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga. It is the final regular chapter of the series.\n\n==Plot==\n \n\n==Major events==\nand move back to the city.\nleaves for boarding school, taking with him.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n(Chiru-Chiru)\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: アチャモの恋の完結編チャモ(前編) Love's Final Chapter (prequel)) is the 42nd chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga. It is the final regular chapter of the series."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and move back to the city.\nleaves for boarding school, taking with him."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Chiru-Chiru)\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP42",
+    "pageType": "chapter",
+    "searchableText": "CCP42\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: アチャモの恋の完結編チャモ(前編) Love's Final Chapter (prequel)) is the 42nd chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga. It is the final regular chapter of the series.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon"
+    ],
+    "characterCount": 422,
+    "sectionCount": 3
+  }
+}

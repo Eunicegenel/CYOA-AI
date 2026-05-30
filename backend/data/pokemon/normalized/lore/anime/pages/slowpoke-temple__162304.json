@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Slowpoke Temple",
+    "slug": "slowpoke-temple",
+    "pageId": 162304,
+    "revisionId": 4261052
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "slowpoke-temple__162304.json",
+    "revisionTimestamp": "2025-03-19T21:49:40Z",
+    "fetchedAt": "2026-05-14T14:50:05.615Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Slowpoke Temple (Japanese: ヤドン寺 Temple) is an -exclusive location in Johto, found in between Mahogany Town and Blackthorn City. It appeared in Enlighten Up!. It is close to Lake Slowpoke.\n\nThousands of people come here for training. It is called the Slowpoke Temple because the area around the temple has been a home to for many generations. Hundreds of years ago, a priest achieved enlightenment by meditating with a Slowpoke. The temple was built in his honor.\n\nAfter , , and arrived at Lake Slowpoke, they were invited by , a student of ten years, to come along to the temple. They were surprised that the temple holds a massive golden Slowpoke statue at its heart. When having a lunch in the temple, Madeleine revealed to Ash that, a while ago, had also come to the temple and had trained there.",
+  "plainText": "Slowpoke Temple (Japanese: ヤドン寺 Temple) is an -exclusive location in Johto, found in between Mahogany Town and Blackthorn City. It appeared in Enlighten Up!. It is close to Lake Slowpoke.\n\nThousands of people come here for training. It is called the Slowpoke Temple because the area around the temple has been a home to for many generations. Hundreds of years ago, a priest achieved enlightenment by meditating with a Slowpoke. The temple was built in his honor.\n\nAfter , , and arrived at Lake Slowpoke, they were invited by , a student of ten years, to come along to the temple. They were surprised that the temple holds a massive golden Slowpoke statue at its heart. When having a lunch in the temple, Madeleine revealed to Ash that, a while ago, had also come to the temple and had trained there. \n \n\n==In other languages==\n \n \n \n \n\n \n\nde:Flegmon-Tempel\nes:Templo Slowpoke\nit:Tempio di Slowpoke\nzh:呆呆兽寺院",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Slowpoke Temple (Japanese: ヤドン寺 Temple) is an -exclusive location in Johto, found in between Mahogany Town and Blackthorn City. It appeared in Enlighten Up!. It is close to Lake Slowpoke.\n\nThousands of people come here for training. It is called the Slowpoke Temple because the area around the temple has been a home to for many generations. Hundreds of years ago, a priest achieved enlightenment by meditating with a Slowpoke. The temple was built in his honor.\n\nAfter , , and arrived at Lake Slowpoke, they were invited by , a student of ten years, to come along to the temple. They were surprised that the temple holds a massive golden Slowpoke statue at its heart. When having a lunch in the temple, Madeleine revealed to Ash that, a while ago, had also come to the temple and had trained there."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Flegmon-Tempel\nes:Templo Slowpoke\nit:Tempio di Slowpoke\nzh:呆呆兽寺院"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Slowpoke Temple",
+    "pageType": "location",
+    "searchableText": "Slowpoke Temple\nCategory:Animated series-exclusive locations\nSlowpoke Temple (Japanese: ヤドン寺 Temple) is an -exclusive location in Johto, found in between Mahogany Town and Blackthorn City. It appeared in Enlighten Up!. It is close to Lake Slowpoke.\n\nThousands of people come here for training. It is called the Slowpoke Temple because the area around the temple has been a home to for many generations. Hundreds of years ago, a priest achieved enlightenment by meditating with a Slowpoke. The temple was built in his honor.\n\nAfter , , and arrived at Lake Slowpoke, they were invited by , a student of ten years, to come along to the temple. They were surprised that the temple holds a massive golden Slowpoke statue at its heart. When having a lunch in the temple, Madeleine revealed to Ash that, a while ago, had also come to the temple and had trained there.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 906,
+    "sectionCount": 2
+  }
+}

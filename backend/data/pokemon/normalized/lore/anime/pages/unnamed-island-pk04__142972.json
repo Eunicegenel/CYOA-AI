@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Unnamed island (PK04)",
+    "slug": "unnamed-island-pk04",
+    "pageId": 142972,
+    "revisionId": 4261337
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands",
+    "sourceFileName": "unnamed-island-pk04__142972.json",
+    "revisionTimestamp": "2025-03-19T21:52:48Z",
+    "fetchedAt": "2026-05-14T14:56:15.869Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "An unnamed island in the Orange Islands appears in Pikachu's Rescue Adventure. Its location is unknown, though assuming the events of the short take place following Bound for Trouble (the short, along with The Power of One, hit theaters two days after the episode aired), it is quite likely one of the two tiny islands to the northeast of Fairchild Island.\n\nIt is unknown if this island has a permanent population; however, there is a located there.",
+  "plainText": "An unnamed island in the Orange Islands appears in Pikachu's Rescue Adventure. Its location is unknown, though assuming the events of the short take place following Bound for Trouble (the short, along with The Power of One, hit theaters two days after the episode aired), it is quite likely one of the two tiny islands to the northeast of Fairchild Island.\n\nIt is unknown if this island has a permanent population; however, there is a located there.\n\n==Pokémon seen on the island==\n \n\n==Related articles==\n \n \n\n \n\nit:Isola senza nome (PK04)\nzh:无名岛（PK04）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "An unnamed island in the Orange Islands appears in Pikachu's Rescue Adventure. Its location is unknown, though assuming the events of the short take place following Bound for Trouble (the short, along with The Power of One, hit theaters two days after the episode aired), it is quite likely one of the two tiny islands to the northeast of Fairchild Island.\n\nIt is unknown if this island has a permanent population; however, there is a located there."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Isola senza nome (PK04)\nzh:无名岛（PK04）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Unnamed island (PK04)",
+    "pageType": "general-anime-lore",
+    "searchableText": "Unnamed island (PK04)\nCategory:Orange Islands\nAn unnamed island in the Orange Islands appears in Pikachu's Rescue Adventure. Its location is unknown, though assuming the events of the short take place following Bound for Trouble (the short, along with The Power of One, hit theaters two days after the episode aired), it is quite likely one of the two tiny islands to the northeast of Fairchild Island.\n\nIt is unknown if this island has a permanent population; however, there is a located there.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 553,
+    "sectionCount": 2
+  }
+}

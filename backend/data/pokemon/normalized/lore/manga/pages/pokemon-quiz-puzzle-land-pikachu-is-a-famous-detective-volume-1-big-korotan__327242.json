@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volume 1 (Big Korotan)",
+    "slug": "pokemon-quiz-puzzle-land-pikachu-is-a-famous-detective-volume-1-big-korotan",
+    "pageId": 327242,
+    "revisionId": 4231530
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volumes",
+    "sourceFileName": "pokemon-quiz-puzzle-land-pikachu-is-a-famous-detective-volume-1-big-korotan__327242.json",
+    "revisionTimestamp": "2025-01-31T14:18:45Z",
+    "fetchedAt": "2026-05-14T15:37:12.691Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga under the label. It is composed by Hiroshi Takase and illustrated by Yumiko Sudo.",
+  "plainText": "Volume 1 is the first volume of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga under the label. It is composed by Hiroshi Takase and illustrated by Yumiko Sudo.\n\n==Publications==\n \n \n\n==Chapters==\n \n \n\n==External links==\nShogakukan's website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga under the label. It is composed by Hiroshi Takase and illustrated by Yumiko Sudo."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Shogakukan's website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volume 1 (Big Korotan)",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volume 1 (Big Korotan)\nCategory:Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective volumes\nVolume 1 is the first volume of the Pokémon Quiz Puzzle Land: Pikachu is a Famous Detective manga under the label. It is composed by Hiroshi Takase and illustrated by Yumiko Sudo.",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 260,
+    "sectionCount": 2
+  }
+}

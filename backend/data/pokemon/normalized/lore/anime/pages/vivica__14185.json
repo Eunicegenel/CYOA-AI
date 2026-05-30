@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Vivica",
+    "slug": "vivica",
+    "pageId": 14185,
+    "revisionId": 4357205
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "vivica__14185.json",
+    "revisionTimestamp": "2025-08-12T14:49:29Z",
+    "fetchedAt": "2026-05-14T14:57:04.748Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Vivica (Japanese: ユリコ Yuriko) is a character of the day who appeared in Saved by the Beldum. She is a Pokémon Trainer who competed in the Ever Grande Conference.\n\nVivica was pitted against during the first preliminary . She sent her to battle Tyson's Meowth, who seemed very determined to defeat its evolved form.\n\nUnfortunately for Tyson, Vivica's Persian had the early advantage. Using attacks such as and , it managed to weaken . Meowth, though, eventually gained the upper-hand and defeated it. However, even after Persian fainted, Tyson's Meowth ran up to Persian with its claws extended, prepared to finish it off for good, but Tyson quickly recalled it before anything could happen. Due to this loss, Vivica was eliminated from the tournament.",
+  "plainText": "Vivica (Japanese: ユリコ Yuriko) is a character of the day who appeared in Saved by the Beldum. She is a Pokémon Trainer who competed in the Ever Grande Conference.\n\nVivica was pitted against during the first preliminary . She sent her to battle Tyson's Meowth, who seemed very determined to defeat its evolved form.\n\nUnfortunately for Tyson, Vivica's Persian had the early advantage. Using attacks such as and , it managed to weaken . Meowth, though, eventually gained the upper-hand and defeated it. However, even after Persian fainted, Tyson's Meowth ran up to Persian with its claws extended, prepared to finish it off for good, but Tyson quickly recalled it before anything could happen. Due to this loss, Vivica was eliminated from the tournament.\n\n==Pokémon==\n \nThis listing is of Vivica's known in :\n \n\n==Achievements==\n===Badges obtained===\nThis listing is of the Badges Vivica has obtained in the Hoenn region:\nAt least eight Badges (prior to Saved by the Beldum)\n\n===Pokémon League===\nVivica has competed in the following Pokémon League Conferences:\nEver Grande Conference - Preliminaries (Saved by the Beldum)\n\n==Voice actors==\n \n\n==Related articles==\n \n \n\n \n \n \n\nes:Vivica\nfr:Virginie\nit:Vivica\nzh:由梨子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Vivica (Japanese: ユリコ Yuriko) is a character of the day who appeared in Saved by the Beldum. She is a Pokémon Trainer who competed in the Ever Grande Conference.\n\nVivica was pitted against during the first preliminary . She sent her to battle Tyson's Meowth, who seemed very determined to defeat its evolved form.\n\nUnfortunately for Tyson, Vivica's Persian had the early advantage. Using attacks such as and , it managed to weaken . Meowth, though, eventually gained the upper-hand and defeated it. However, even after Persian fainted, Tyson's Meowth ran up to Persian with its claws extended, prepared to finish it off for good, but Tyson quickly recalled it before anything could happen. Due to this loss, Vivica was eliminated from the tournament."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Vivica's known in :"
+    },
+    {
+      "heading": "Badges obtained",
+      "level": 3,
+      "text": "This listing is of the Badges Vivica has obtained in the Hoenn region:\nAt least eight Badges (prior to Saved by the Beldum)"
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Vivica has competed in the following Pokémon League Conferences:\nEver Grande Conference - Preliminaries (Saved by the Beldum)"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Vivica\nfr:Virginie\nit:Vivica\nzh:由梨子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Vivica",
+    "pageType": "character",
+    "searchableText": "Vivica\nCategory:Hoenn characters of the day\nVivica (Japanese: ユリコ Yuriko) is a character of the day who appeared in Saved by the Beldum. She is a Pokémon Trainer who competed in the Ever Grande Conference.\n\nVivica was pitted against during the first preliminary . She sent her to battle Tyson's Meowth, who seemed very determined to defeat its evolved form.\n\nUnfortunately for Tyson, Vivica's Persian had the early advantage. Using attacks such as and , it managed to weaken . Meowth, though, eventually gained the upper-hand and defeated it. However, even after Persian fainted, Tyson's Meowth ran up to Persian with its claws extended, prepared to finish it off for good, but Tyson quickly recalled it before anything could happen. Due to this loss, Vivica was eliminated from the tournament.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Badges obtained",
+      "Pokémon League",
+      "Related articles"
+    ],
+    "characterCount": 1211,
+    "sectionCount": 5
+  }
+}

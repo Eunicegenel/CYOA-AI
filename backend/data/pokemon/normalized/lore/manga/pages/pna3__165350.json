@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PNA3",
+    "slug": "pna3",
+    "pageId": 165350,
+    "revisionId": 4527791
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ chapters",
+    "sourceFileName": "pna3__165350.json",
+    "revisionTimestamp": "2026-04-09T15:53:48Z",
+    "fetchedAt": "2026-05-14T15:34:02.781Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 黄の巻：ハンベエvsカンベエ The Yellow Scroll: Hanbei vs Kanbei) is the third chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga.",
+  "plainText": "(Japanese: 黄の巻：ハンベエvsカンベエ The Yellow Scroll: Hanbei vs Kanbei) is the third chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga. \n\n==Plot==\n \n\n==Major events==\nHideyoshi asks Hanbei and Kanbei to look for a legendary Pokémon.\nHanbei and Kanbei make their search into a competition.\nDuring the search, they anger a Steelix, which goes wild and nearly destroys everything.\nWith the help of some wild Pichu, the Steelix is defeated, but the search is failed.\n\n===Debuts===\n====Humans====\nHanbei\nKanbei\nHideyoshi\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHanbei\nKanbei\nHideyoshi\nWarriors\n\n===Pokémon===\n(Hideyoshi's)\n(Hanbei's)\n(Hanbei's)\n(Kanbei's)\n(multiple)\n\n(×2)\n\n(multiple)\n\n(multiple)\n(×2)\n\n==Trivia==\n\n \n \n \n\nde:Ki no Maki: Hanbē vs Kanbē\nzh:PNA3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 黄の巻：ハンベエvsカンベエ The Yellow Scroll: Hanbei vs Kanbei) is the third chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hideyoshi asks Hanbei and Kanbei to look for a legendary Pokémon.\nHanbei and Kanbei make their search into a competition.\nDuring the search, they anger a Steelix, which goes wild and nearly destroys everything.\nWith the help of some wild Pichu, the Steelix is defeated, but the search is failed."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Hanbei\nKanbei\nHideyoshi"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hanbei\nKanbei\nHideyoshi\nWarriors"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hideyoshi's)\n(Hanbei's)\n(Hanbei's)\n(Kanbei's)\n(multiple)\n\n(×2)\n\n(multiple)\n\n(multiple)\n(×2)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Ki no Maki: Hanbē vs Kanbē\nzh:PNA3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PNA3",
+    "pageType": "chapter",
+    "searchableText": "PNA3\nCategory:Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ chapters\n(Japanese: 黄の巻：ハンベエvsカンベエ The Yellow Scroll: Hanbei vs Kanbei) is the third chapter of the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 792,
+    "sectionCount": 6
+  }
+}

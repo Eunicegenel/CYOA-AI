@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Rosie Reyes",
+    "slug": "rosie-reyes",
+    "pageId": 224351,
+    "revisionId": 4323523
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "rosie-reyes__224351.json",
+    "revisionTimestamp": "2025-06-24T03:31:44Z",
+    "fetchedAt": "2026-05-14T14:47:01.726Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Rohana Kenin Elias-Reyes (credited as Rosie Reyes) is a voice actress for the English-language dub of . She is currently affiliated with Stewart Talent Agency.",
+  "plainText": "Rohana Kenin Elias-Reyes (credited as Rosie Reyes) is a voice actress for the English-language dub of . She is currently affiliated with Stewart Talent Agency.\n\n==Biography==\nReyes was born on April 15, 1968 and became a voice actress as an adult. Reyes started work for the during . Her most notable role so far is that of , . Rosie is married to fellow Pokémon voice actor Sean Reyes.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n\nAnela\n\n=====Pokémon=====\n\n==Other non-Pokémon roles==\nKurosasori (Samurai Deeper)\nKurako Hieda ( )\nOld Lady Grocer, Shin ( )\n\n==External links==\nOfficial website\nTwitter\nAnime News Network\nInstagram\n\n \n\n \n\nit:Rosie Reyes",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Rohana Kenin Elias-Reyes (credited as Rosie Reyes) is a voice actress for the English-language dub of . She is currently affiliated with Stewart Talent Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Reyes was born on April 15, 1968 and became a voice actress as an adult. Reyes started work for the during . Her most notable role so far is that of , . Rosie is married to fellow Pokémon voice actor Sean Reyes."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Anela"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Kurosasori (Samurai Deeper)\nKurako Hieda ( )\nOld Lady Grocer, Shin ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTwitter\nAnime News Network\nInstagram\n\n \n\n \n\nit:Rosie Reyes"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rosie Reyes",
+    "pageType": "general-anime-lore",
+    "searchableText": "Rosie Reyes\nCategory:TPCi voice actors\nRohana Kenin Elias-Reyes (credited as Rosie Reyes) is a voice actress for the English-language dub of . She is currently affiliated with Stewart Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 670,
+    "sectionCount": 5
+  }
+}

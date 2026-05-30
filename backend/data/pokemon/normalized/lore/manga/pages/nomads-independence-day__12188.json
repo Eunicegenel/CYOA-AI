@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Nomads Independence Day",
+    "slug": "nomads-independence-day",
+    "pageId": 12188,
+    "revisionId": 2340619
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu",
+    "sourceFileName": "nomads-independence-day__12188.json",
+    "revisionTimestamp": "2015-10-05T23:28:19Z",
+    "fetchedAt": "2026-05-14T15:27:46.342Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "The Nomads Independence Day is a week-long festival celebrated in Fuchsia City annually. It commemorates the independence day of various nomadic tribespeople in Kanto. It appears exclusively in the series The Electric Tale of Pikachu.\n\nEvery year, members of several nomadic tribes congregate in the Fuchsia City area for a series of over 100 Pokémon races. The races are chiefly held amongst Pokémon of the same species, such as the Fuchsia Race and the Race. The festival culminates at the end of the week with the Fuchsia Free-For-All Race, the biggest and most well-known of all the Independence Day races. The Free-For-All Race alone generates many tourists in Fuchsia City.\n\nAside from the races, there are other attractions during the Nomads Independence Day celebrations as well, such as street vendors.",
+  "plainText": "The Nomads Independence Day is a week-long festival celebrated in Fuchsia City annually. It commemorates the independence day of various nomadic tribespeople in Kanto. It appears exclusively in the series The Electric Tale of Pikachu.\n\nEvery year, members of several nomadic tribes congregate in the Fuchsia City area for a series of over 100 Pokémon races. The races are chiefly held amongst Pokémon of the same species, such as the Fuchsia Race and the Race. The festival culminates at the end of the week with the Fuchsia Free-For-All Race, the biggest and most well-known of all the Independence Day races. The Free-For-All Race alone generates many tourists in Fuchsia City.\n\nAside from the races, there are other attractions during the Nomads Independence Day celebrations as well, such as street vendors.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Nomads Independence Day is a week-long festival celebrated in Fuchsia City annually. It commemorates the independence day of various nomadic tribespeople in Kanto. It appears exclusively in the series The Electric Tale of Pikachu.\n\nEvery year, members of several nomadic tribes congregate in the Fuchsia City area for a series of over 100 Pokémon races. The races are chiefly held amongst Pokémon of the same species, such as the Fuchsia Race and the Race. The festival culminates at the end of the week with the Fuchsia Free-For-All Race, the biggest and most well-known of all the Independence Day races. The Free-For-All Race alone generates many tourists in Fuchsia City.\n\nAside from the races, there are other attractions during the Nomads Independence Day celebrations as well, such as street vendors."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Nomads Independence Day",
+    "pageType": "general-manga-lore",
+    "searchableText": "Nomads Independence Day\nCategory:Electric Tale of Pikachu\nThe Nomads Independence Day is a week-long festival celebrated in Fuchsia City annually. It commemorates the independence day of various nomadic tribespeople in Kanto. It appears exclusively in the series The Electric Tale of Pikachu.\n\nEvery year, members of several nomadic tribes congregate in the Fuchsia City area for a series of over 100 Pokémon races. The races are chiefly held amongst Pokémon of the same species, such as the Fuchsia Race and the Race. The festival culminates at the end of the week with the Fuchsia Free-For-All Race, the biggest and most well-known of all the Independence Day races. The Free-For-All Race alone generates many tourists in Fuchsia City.\n\nAside from the races, there are other attractions during the Nomads Independence Day celebrations as well, such as street vendors.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 811,
+    "sectionCount": 1
+  }
+}

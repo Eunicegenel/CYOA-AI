@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pocket Monsters the Movie: I Choose You! Remix",
+    "slug": "pocket-monsters-the-movie-i-choose-you-remix",
+    "pageId": 224406,
+    "revisionId": 4298410
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie manga adaptations",
+    "sourceFileName": "pocket-monsters-the-movie-i-choose-you-remix__224406.json",
+    "revisionTimestamp": "2025-05-11T10:04:23Z",
+    "fetchedAt": "2026-05-14T15:34:33.369Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "(Japanese: Pocket Monsters the Movie: I Choose You! Remix) is a collection of several short tie-in adaptations of the twentieth Pokémon movie. It is adapted by Kemon Kawamoto.",
+  "plainText": "(Japanese: Pocket Monsters the Movie: I Choose You! Remix) is a collection of several short tie-in adaptations of the twentieth Pokémon movie. It is adapted by Kemon Kawamoto.\n\n==Chapters==\nICYR1\nICYR2\nICYR3\nICYR4\n\n==Publications==\n \n \n \n \n \n \n \n \n\n==Related articles==\n \n \n \n\n \n \n\nes:MP20 Remix\nit:Gekijouban Pocket Monsters: Kimi ni kimeta! Remix\nzh:就决定是你了！Remix",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: Pocket Monsters the Movie: I Choose You! Remix) is a collection of several short tie-in adaptations of the twentieth Pokémon movie. It is adapted by Kemon Kawamoto."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "ICYR1\nICYR2\nICYR3\nICYR4"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:MP20 Remix\nit:Gekijouban Pocket Monsters: Kimi ni kimeta! Remix\nzh:就决定是你了！Remix"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters the Movie: I Choose You! Remix",
+    "pageType": "manga-series",
+    "searchableText": "Pocket Monsters the Movie: I Choose You! Remix\nCategory:Movie manga adaptations\n(Japanese: Pocket Monsters the Movie: I Choose You! Remix) is a collection of several short tie-in adaptations of the twentieth Pokémon movie. It is adapted by Kemon Kawamoto.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Related articles"
+    ],
+    "characterCount": 364,
+    "sectionCount": 3
+  }
+}

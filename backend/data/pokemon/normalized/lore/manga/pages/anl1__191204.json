@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "ANL1",
+    "slug": "anl1",
+    "pageId": 191204,
+    "revisionId": 4548544
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga chapters in need of images",
+    "sourceFileName": "anl1__191204.json",
+    "revisionTimestamp": "2026-05-11T00:31:58Z",
+    "fetchedAt": "2026-05-14T15:12:38.979Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 新たなる冒険の始まり!! The Beginning of a New Adventure!!) is the first chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga.",
+  "plainText": "(Japanese: 新たなる冒険の始まり!! The Beginning of a New Adventure!!) is the first chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nArata\nHiro\nCheren\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nArata\nHiro\nCheren\ns\n\n===Pokémon===\n(Hiro's)\n(Hiro's)\n(Cheren's)\n( 's)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 新たなる冒険の始まり!! The Beginning of a New Adventure!!) is the first chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Arata\nHiro\nCheren"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Arata\nHiro\nCheren\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hiro's)\n(Hiro's)\n(Cheren's)\n( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ANL1",
+    "pageType": "chapter",
+    "searchableText": "ANL1\nCategory:Manga chapters in need of images\n(Japanese: 新たなる冒険の始まり!! The Beginning of a New Adventure!!) is the first chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 357,
+    "sectionCount": 4
+  }
+}

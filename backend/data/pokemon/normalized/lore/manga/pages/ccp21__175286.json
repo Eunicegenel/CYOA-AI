@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "CCP21",
+    "slug": "ccp21",
+    "pageId": 175286,
+    "revisionId": 4526775
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp21__175286.json",
+    "revisionTimestamp": "2026-04-09T15:06:34Z",
+    "fetchedAt": "2026-05-14T15:15:20.705Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: エネコロロちゃんの告白ちゃも Confession (chamo)) is the 21st chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: エネコロロちゃんの告白ちゃも Confession (chamo)) is the 21st chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\nDelcatty is introduced as 's love interest.\n\n===Debuts===\n====Pokémon debuts====\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: エネコロロちゃんの告白ちゃも Confession (chamo)) is the 21st chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Delcatty is introduced as 's love interest."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Pokémon Chamo-Chamo ☆ Pretty ♪)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP21",
+    "pageType": "chapter",
+    "searchableText": "CCP21\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: エネコロロちゃんの告白ちゃも Confession (chamo)) is the 21st chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 343,
+    "sectionCount": 4
+  }
+}

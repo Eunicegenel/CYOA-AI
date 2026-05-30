@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of English voice actors",
+    "slug": "list-of-english-voice-actors",
+    "pageId": 51708,
+    "revisionId": 4545106
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:English voice actors",
+    "sourceFileName": "list-of-english-voice-actors__51708.json",
+    "revisionTimestamp": "2026-05-05T13:29:19Z",
+    "fetchedAt": "2026-05-14T14:32:18.018Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "This is a list of all voice actors who have appeared in the English-language dub of Pokémon animation.",
+  "plainText": "This is a list of all voice actors who have appeared in the English-language dub of Pokémon animation.\n\n \n\n==Related articles==\nList of Japanese voice actors\nList of international voice actors\n \n\n \n \n\nit:Elenco dei doppiatori inglesi",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of all voice actors who have appeared in the English-language dub of Pokémon animation."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "List of Japanese voice actors\nList of international voice actors\n \n\n \n \n\nit:Elenco dei doppiatori inglesi"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of English voice actors",
+    "pageType": "general-anime-lore",
+    "searchableText": "List of English voice actors\nCategory:English voice actors\nThis is a list of all voice actors who have appeared in the English-language dub of Pokémon animation.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 233,
+    "sectionCount": 2
+  }
+}

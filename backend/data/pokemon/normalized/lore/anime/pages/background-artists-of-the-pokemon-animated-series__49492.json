@@ -1,0 +1,31 @@
+{
+  "identity": {
+    "title": "Background artists of the Pokémon animated series",
+    "slug": "background-artists-of-the-pokemon-animated-series",
+    "pageId": 49492,
+    "revisionId": 4338009
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon animated series",
+    "sourceFileName": "background-artists-of-the-pokemon-animated-series__49492.json",
+    "revisionTimestamp": "2025-07-18T19:12:57Z",
+    "fetchedAt": "2026-05-14T14:04:30.556Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "",
+  "plainText": "",
+  "sections": [],
+  "aiReadySummary": {
+    "title": "Background artists of the Pokémon animated series",
+    "pageType": "pokemon-related",
+    "searchableText": "Background artists of the Pokémon animated series\nCategory:Pokémon animated series",
+    "sectionHeadings": [],
+    "characterCount": 0,
+    "sectionCount": 0
+  }
+}

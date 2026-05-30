@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Team Twin Starmie",
+    "slug": "team-twin-starmie",
+    "pageId": 225504,
+    "revisionId": 4143446
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "team-twin-starmie__225504.json",
+    "revisionTimestamp": "2024-10-11T20:09:37Z",
+    "fetchedAt": "2026-05-14T14:53:37.200Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Twin Starmie team (Japanese: ツインスターミー Twin Starmie) are minor recurring characters in . They are students at the Pokémon School.",
+  "plainText": "The Twin Starmie team (Japanese: ツインスターミー Twin Starmie) are minor recurring characters in . They are students at the Pokémon School.\n\n==History==\nThey first appeared in A Guardian Rematch!, where they watched against .\n\nThey appeared again in Mounting an Electrifying Charge!, where they entered the Charjabug race with a . They raced against , , and , who had entered with Sophocles's Charjabug; and , who disguised as a Charjabug. During the race, the Twin Starmie team managed to get to the first section, where they were stopped by a creating a huge wall of rocks. The team tried to copy the Sophocles Lab team's strategy of overcoming this by having their Charjabug launch of the team's runner's back, but due to their racing car not being sturdy enough, it broke. With this, the Twin Starmie team was eliminated from the race.\n\nThey appeared again during a fantasy in the Poké Problem segment for SM083.\n\n==Pokémon==\nThis listing is of the Twin Starmie team's known in :\n \n \n\n==Pokémon competitions==\nTeam Twin Starmie has competed in the following :\nCharjabug race Koko Cup - DNF (Mounting an Electrifying Charge!)\n\n==Voice actors==\n \n\n==Trivia==\nA background character in Z-Move Showdown! bears a striking resemblance to the team member with a print on his T-shirt.\n\n==In other languages==\n \n \n \n \n\nit:Squadra Doppio Starmie\nzh:双生宝石海星队",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Twin Starmie team (Japanese: ツインスターミー Twin Starmie) are minor recurring characters in . They are students at the Pokémon School."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "They first appeared in A Guardian Rematch!, where they watched against .\n\nThey appeared again in Mounting an Electrifying Charge!, where they entered the Charjabug race with a . They raced against , , and , who had entered with Sophocles's Charjabug; and , who disguised as a Charjabug. During the race, the Twin Starmie team managed to get to the first section, where they were stopped by a creating a huge wall of rocks. The team tried to copy the Sophocles Lab team's strategy of overcoming this by having their Charjabug launch of the team's runner's back, but due to their racing car not being sturdy enough, it broke. With this, the Twin Starmie team was eliminated from the race.\n\nThey appeared again during a fantasy in the Poké Problem segment for SM083."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of the Twin Starmie team's known in :"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Team Twin Starmie has competed in the following :\nCharjabug race Koko Cup - DNF (Mounting an Electrifying Charge!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "A background character in Z-Move Showdown! bears a striking resemblance to the team member with a print on his T-shirt."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Squadra Doppio Starmie\nzh:双生宝石海星队"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Team Twin Starmie",
+    "pageType": "character",
+    "searchableText": "Team Twin Starmie\nCategory:Animation characters\nThe Twin Starmie team (Japanese: ツインスターミー Twin Starmie) are minor recurring characters in . They are students at the Pokémon School.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Pokémon competitions",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1343,
+    "sectionCount": 6
+  }
+}

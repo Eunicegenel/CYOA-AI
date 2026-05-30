@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM081",
+    "slug": "pm081",
+    "pageId": 160639,
+    "revisionId": 4526740
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm081__160639.json",
+    "revisionTimestamp": "2026-04-09T15:05:05Z",
+    "fetchedAt": "2026-05-14T15:31:20.597Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Showdown at the Radio Tower!! (Japanese: ラジオ塔の大決戦！！ Showdown at the Radio Tower!!) is the eighty-first chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Showdown at the Radio Tower!! (Japanese: ラジオ塔の大決戦！！ Showdown at the Radio Tower!!) is the eighty-first chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nDJ Mary\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nDJ Mary\n\n===Pokémon===\n( ) \n( )\n( )\n( 's)\n( 's)\n( 's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 81 (Pokémon Pocket Monsters)\nit:PMM081",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Showdown at the Radio Tower!! (Japanese: ラジオ塔の大決戦！！ Showdown at the Radio Tower!!) is the eighty-first chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "DJ Mary"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "DJ Mary"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( 's)\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 81 (Pokémon Pocket Monsters)\nit:PMM081"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM081",
+    "pageType": "chapter",
+    "searchableText": "PM081\nCategory:Pokémon Pocket Monsters chapters\nShowdown at the Radio Tower!! (Japanese: ラジオ塔の大決戦！！ Showdown at the Radio Tower!!) is the eighty-first chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 391,
+    "sectionCount": 5
+  }
+}

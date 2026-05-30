@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "The Pikachu Maneuver",
+    "slug": "the-pikachu-maneuver",
+    "pageId": 198191,
+    "revisionId": 4133073
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "the-pikachu-maneuver__198191.json",
+    "revisionTimestamp": "2024-09-29T05:31:37Z",
+    "fetchedAt": "2026-05-14T15:51:39.744Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: The Pikachu Maneuver is the seventeenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-eight and thirty-nine of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: The Pikachu Maneuver is the seventeenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-eight and thirty-nine of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 38 - Long Live the Nidoqueen!?\nChapter 39 - Just a Spearow Carrier\n\n==Important events==\n's battle with ends with Red winning.\n, , Red, and reach the semi-finals of the Indigo League tournament.\nGreen becomes a Pokédex holder.\nGreen is defeated by Dr. O in the semi-finals, who then withdraws from the competition, leaving Red and Blue to battle in the final round of the Indigo League Tournament.\n\n==Gym battles==\nRed defeats the following Gym Leaders:\nin PS038\n\n \n \n\nfr:Volume 17 (Pokémon Adventures)\nit:The Pikachu Maneuver",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: The Pikachu Maneuver is the seventeenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-eight and thirty-nine of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 38 - Long Live the Nidoqueen!?\nChapter 39 - Just a Spearow Carrier"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "'s battle with ends with Red winning.\n, , Red, and reach the semi-finals of the Indigo League tournament.\nGreen becomes a Pokédex holder.\nGreen is defeated by Dr. O in the semi-finals, who then withdraws from the competition, leaving Red and Blue to battle in the final round of the Indigo League Tournament."
+    },
+    {
+      "heading": "Gym battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:\nin PS038\n\n \n \n\nfr:Volume 17 (Pokémon Adventures)\nit:The Pikachu Maneuver"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Pikachu Maneuver",
+    "pageType": "pokemon-related",
+    "searchableText": "The Pikachu Maneuver\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: The Pikachu Maneuver is the seventeenth monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters thirty-eight and thirty-nine of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events",
+      "Gym battles"
+    ],
+    "characterCount": 987,
+    "sectionCount": 4
+  }
+}

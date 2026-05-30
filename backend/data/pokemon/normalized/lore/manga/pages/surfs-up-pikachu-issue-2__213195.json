@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Surf's Up, Pikachu issue 2",
+    "slug": "surfs-up-pikachu-issue-2",
+    "pageId": 213195,
+    "revisionId": 4132797
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu monthly issues",
+    "sourceFileName": "surfs-up-pikachu-issue-2__213195.json",
+    "revisionTimestamp": "2024-09-29T05:27:37Z",
+    "fetchedAt": "2026-05-14T15:50:29.462Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Surf's Up, Pikachu issue 2 is the fourteenth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the sixteenth chapter of the manga, as well as some bonus content that was not in the original volume.\n\nThe contents of this issue were later rereleased by VIZ Media as part of .",
+  "plainText": "Surf's Up, Pikachu issue 2 is the fourteenth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the sixteenth chapter of the manga, as well as some bonus content that was not in the original volume.\n\nThe contents of this issue were later rereleased by VIZ Media as part of .\n\n==Publications==\n \n \n\n==Chapters==\nYou Bet Your Wife\n\n==Important events==\nAsh meets up with Misty again and meets Rudy and Mahri.\nAsh challenges the Trovita Gym and wins. \nRudy begins crossdressing so that his little sister can have an older sister.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Surf's Up, Pikachu issue 2 is the fourteenth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the sixteenth chapter of the manga, as well as some bonus content that was not in the original volume.\n\nThe contents of this issue were later rereleased by VIZ Media as part of ."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "You Bet Your Wife"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Ash meets up with Misty again and meets Rudy and Mahri.\nAsh challenges the Trovita Gym and wins. \nRudy begins crossdressing so that his little sister can have an older sister."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Surf's Up, Pikachu issue 2",
+    "pageType": "general-manga-lore",
+    "searchableText": "Surf's Up, Pikachu issue 2\nCategory:Electric Tale of Pikachu monthly issues\nSurf's Up, Pikachu issue 2 is the fourteenth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the sixteenth chapter of the manga, as well as some bonus content that was not in the original volume.\n\nThe contents of this issue were later rereleased by VIZ Media as part of .",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 579,
+    "sectionCount": 3
+  }
+}

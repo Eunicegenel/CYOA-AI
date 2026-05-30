@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Chieko Honda",
+    "slug": "chieko-honda",
+    "pageId": 55326,
+    "revisionId": 4323626
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "chieko-honda__55326.json",
+    "revisionTimestamp": "2025-06-24T03:33:27Z",
+    "fetchedAt": "2026-05-14T14:09:27.902Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Chieko Honda (Japanese: 本多知恵子 Honda Chieko) was a Japanese voice actress for .",
+  "plainText": "Chieko Honda (Japanese: 本多知恵子 Honda Chieko) was a Japanese voice actress for .\n\n==Biography==\nHonda was born on March 28, 1963, in , . She became a voice actress as an adult and led a long voice acting career since the mid-1980s. She provided the voice of Eterna City Gym Leader Gardenia during of the . At various points in her career, Honda was affiliated with the , Mix Max, and . On February 18, 2013, she passed away while undergoing treatment for multiple forms of colon cancer.\n\n==Pokémon roles==\n===Animation===\n==== ====\nGardenia\n\n==Other non-Pokémon roles==\nMachiko ( )\nAmu Fanneria ( )\nElpeo Ple, Ple Two ( )\nPochawompa ( )\nNatasha Pablochiva/Tekkaman Vesna ( )\nMisako ( )\nEmi, Opaopa ( )\nAraiguma ( )\nHerself ( )\nTellu ( )\nEnnil El ( )\nAzusa ( )\nAkane Isaka, Akiko Sayama, young Kinoshita ( )\nCynthia ( )\nKozue Kaoru ( )\nMikoto ( )\nJun Goutokuji/Blood Falcon ( )\nNami Yamigumo ( )\nMeroko Yui ( )\nYūri ( )\nTenshi ( )\nHaruka Yuzuhara ( )\nMary Fastia ( )\nYoka Iris ( )\nAgeha Kurono ( )\nMarie Mjolnir ( )\n\n==External links==\nAoni Production profile\nOfficial blog (inactive)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chieko Honda (Japanese: 本多知恵子 Honda Chieko) was a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Honda was born on March 28, 1963, in , . She became a voice actress as an adult and led a long voice acting career since the mid-1980s. She provided the voice of Eterna City Gym Leader Gardenia during of the . At various points in her career, Honda was affiliated with the , Mix Max, and . On February 18, 2013, she passed away while undergoing treatment for multiple forms of colon cancer."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Gardenia"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Machiko ( )\nAmu Fanneria ( )\nElpeo Ple, Ple Two ( )\nPochawompa ( )\nNatasha Pablochiva/Tekkaman Vesna ( )\nMisako ( )\nEmi, Opaopa ( )\nAraiguma ( )\nHerself ( )\nTellu ( )\nEnnil El ( )\nAzusa ( )\nAkane Isaka, Akiko Sayama, young Kinoshita ( )\nCynthia ( )\nKozue Kaoru ( )\nMikoto ( )\nJun Goutokuji/Blood Falcon ( )\nNami Yamigumo ( )\nMeroko Yui ( )\nYūri ( )\nTenshi ( )\nHaruka Yuzuhara ( )\nMary Fastia ( )\nYoka Iris ( )\nAgeha Kurono ( )\nMarie Mjolnir ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Aoni Production profile\nOfficial blog (inactive)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Chieko Honda",
+    "pageType": "general-anime-lore",
+    "searchableText": "Chieko Honda\nCategory:Japanese voice actors\nChieko Honda (Japanese: 本多知恵子 Honda Chieko) was a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1081,
+    "sectionCount": 5
+  }
+}

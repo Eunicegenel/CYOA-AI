@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PPP47",
+    "slug": "ppp47",
+    "pageId": 6631,
+    "revisionId": 4526504
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp47__6631.json",
+    "revisionTimestamp": "2026-04-09T14:52:10Z",
+    "fetchedAt": "2026-05-14T15:39:06.107Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Dangerous Love of the Two Ninjas! (Japanese: 二人の忍者 危険な恋！ The Dangerous Love of the Two Ninjas!) is the forty-seventh chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Dangerous Love of the Two Ninjas! (Japanese: 二人の忍者 危険な恋！ The Dangerous Love of the Two Ninjas!) is the forty-seventh chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nWhile working at his parents' bakery, Walnut meets the girl of his dreams -- Apricot, but he doesn't know it!\n\n==Important characters and Pokémon==\nWalnut\nApricot\nMaster Ditto\n\n==Character introductions==\n\n==Important events==\n\n \n \n\nit:PPP47",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Dangerous Love of the Two Ninjas! (Japanese: 二人の忍者 危険な恋！ The Dangerous Love of the Two Ninjas!) is the forty-seventh chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "While working at his parents' bakery, Walnut meets the girl of his dreams -- Apricot, but he doesn't know it!"
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Walnut\nApricot\nMaster Ditto"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "it:PPP47"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP47",
+    "pageType": "chapter",
+    "searchableText": "PPP47\nCategory:Magical Pokémon Journey chapters\nDangerous Love of the Two Ninjas! (Japanese: 二人の忍者 危険な恋！ The Dangerous Love of the Two Ninjas!) is the forty-seventh chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon",
+      "Important events"
+    ],
+    "characterCount": 416,
+    "sectionCount": 4
+  }
+}

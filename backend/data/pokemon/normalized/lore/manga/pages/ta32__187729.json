@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "TA32",
+    "slug": "ta32",
+    "pageId": 187729,
+    "revisionId": 2805066
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta32__187729.json",
+    "revisionTimestamp": "2018-06-09T05:44:37Z",
+    "fetchedAt": "2026-05-14T15:50:52.015Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 手ごわい！？花のミツ！ Tough!? The Flower's Nectar!) is the 32nd chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 手ごわい！？花のミツ！ Tough!? The Flower's Nectar!) is the 32nd chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\nManami\n\n===Pokémon===\n(Hikoza; Katsuya's)\n(Chacha; Katsuya's)\n(Manami's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 手ごわい！？花のミツ！ Tough!? The Flower's Nectar!) is the 32nd chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty\nManami"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hikoza; Katsuya's)\n(Chacha; Katsuya's)\n(Manami's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA32",
+    "pageType": "chapter",
+    "searchableText": "TA32\nCategory:Pokémon Try Adventure chapters\n(Japanese: 手ごわい！？花のミツ！ Tough!? The Flower's Nectar!) is the 32nd chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 301,
+    "sectionCount": 3
+  }
+}

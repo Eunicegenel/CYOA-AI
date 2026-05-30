@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "CXY02",
+    "slug": "cxy02",
+    "pageId": 339068,
+    "revisionId": 4357010
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Let's Play the Pokémon Card Game XY! chapters",
+    "sourceFileName": "cxy02__339068.json",
+    "revisionTimestamp": "2025-08-12T01:46:01Z",
+    "fetchedAt": "2026-05-14T15:16:32.591Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the second regular chapter of the Let's Play the Pokémon Card Game XY! manga.",
+  "plainText": "This is the second regular chapter of the Let's Play the Pokémon Card Game XY! manga.\n\n==Plot==\nAfter Manabu and Uratane each get the Xerneas and Yveltal half decks, respectively, they rebuild them to better suit their play styles and immediately start to battle. It is then that Manabu learns that attacks need certain types of Energy in order to be used, due him attaching only -type Energy and failing to use his 's attack. Manabu loses the battle as a result of that blunder, and Uratane then explains to him that that type and number of Energy cards, as well as resistances in a deck, are very important when building one. Taking what Uratane said to heart, Manabu rebuilds his Xerneas deck with those aspects in mind to focus more on s, and challenges Uratane to another battle. Manabu easily wins thanks to the resistance to s that Fairy-type Pokémon have.\n\n==Major events==\n===Debuts===\n\n==Characters==\n===Humans===\nManabu Kadoo\nHiroshi Uratane\n\n===Pokémon===\n\nOther depictions\n(Uratane's costume)\n(Uratane's costume)\n(Uratane's costume)\n(Text bubble)\n(Text bubble)\n\n==Cards featured==\nManabu's cards:\nFletchling (Beginning Set 31)\nFletchinder (Collection Y 12)\nTalonflame (XY-P Promo 18)\nClefairy (Furious Fists 70)\nFlabébé (Flashfire 63) (on bench)\nXerneas-EX (XY 97) \nFairy Energy (XY)\nDouble Colorless Energy (Base Set 96)\n\nUratane's cards:\nPancham (Furious Fists 60)\nYveltal (XY 78)\nBasic Darkness Energy (TCG)\n\n==External links==\nChapter 2 on the Pokémon Card Game official website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the second regular chapter of the Let's Play the Pokémon Card Game XY! manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "After Manabu and Uratane each get the Xerneas and Yveltal half decks, respectively, they rebuild them to better suit their play styles and immediately start to battle. It is then that Manabu learns that attacks need certain types of Energy in order to be used, due him attaching only -type Energy and failing to use his 's attack. Manabu loses the battle as a result of that blunder, and Uratane then explains to him that that type and number of Energy cards, as well as resistances in a deck, are very important when building one. Taking what Uratane said to heart, Manabu rebuilds his Xerneas deck with those aspects in mind to focus more on s, and challenges Uratane to another battle. Manabu easily wins thanks to the resistance to s that Fairy-type Pokémon have."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Manabu Kadoo\nHiroshi Uratane"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "Other depictions\n(Uratane's costume)\n(Uratane's costume)\n(Uratane's costume)\n(Text bubble)\n(Text bubble)"
+    },
+    {
+      "heading": "Cards featured",
+      "level": 2,
+      "text": "Manabu's cards:\nFletchling (Beginning Set 31)\nFletchinder (Collection Y 12)\nTalonflame (XY-P Promo 18)\nClefairy (Furious Fists 70)\nFlabébé (Flashfire 63) (on bench)\nXerneas-EX (XY 97) \nFairy Energy (XY)\nDouble Colorless Energy (Base Set 96)\n\nUratane's cards:\nPancham (Furious Fists 60)\nYveltal (XY 78)\nBasic Darkness Energy (TCG)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 2 on the Pokémon Card Game official website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CXY02",
+    "pageType": "chapter",
+    "searchableText": "CXY02\nCategory:Let's Play the Pokémon Card Game XY! chapters\nThis is the second regular chapter of the Let's Play the Pokémon Card Game XY! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon",
+      "Cards featured",
+      "External links"
+    ],
+    "characterCount": 1495,
+    "sectionCount": 6
+  }
+}

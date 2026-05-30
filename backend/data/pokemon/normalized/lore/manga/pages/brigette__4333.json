@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Brigette",
+    "slug": "brigette",
+    "pageId": 4333,
+    "revisionId": 4509952
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "brigette__4333.json",
+    "revisionTimestamp": "2026-03-16T08:22:56Z",
+    "fetchedAt": "2026-05-14T15:14:30.850Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Brigette (Japanese: アズサ Azusa) is the older sister of Lanette and the host of and Pokémon Bank, as well as the developer of the latter.",
+  "plainText": "Brigette (Japanese: アズサ Azusa) is the older sister of Lanette and the host of and Pokémon Bank, as well as the developer of the latter. \n\n==In the games==\n \n===Pokémon Box Ruby & Sapphire===\nShe upgraded the Pokémon Storage System with the ability to hold 1,500 , and the ability to select and move multiple Pokémon at once. \n\nShe is also generous, and will give away Pokémon Eggs containing special Pokémon if certain conditions are met.\n\n===Pokémon Bank===\nBrigette returns in Pokémon Bank, an online paid cloud storage system for the Nintendo 3DS that complements the release of Pokémon X and Y. She is mentioned to be the developer of the Bank system. \n\nWhen the player deposits Pokémon, Brigette will award the with their choice of Battle Points or Poké Miles. The amount received is dependent on the amount of Pokémon deposited and the amount of time they are deposited for.\n\n===Pokémon===\n====Given away====\n=====Pokémon Box Ruby & Sapphire=====\nMain article: List of game-based Pokémon distributions in Generation III → Pokémon Box Bonus Eggs\nwith : Brigette gives the player this Swablu at the start.\n \n\nwith : Brigette gives the player this Zigzagoon Egg after storing 100 Pokémon from one game.\n \n\nwith : Brigette gives the player this Skitty Egg after storing 500 Pokémon from one game.\n \n\nwith : Brigette gives the player this Pichu Egg after storing 1,499 Pokémon from one game.\n \n\n==Gallery==\n===Artwork===\n \n \n\n===Notes===\n \n\n==References==\n \n\n==Related articles==\n \n \n \n\n \n \n \n \n\nde:Linette\nes:Nereida (Hoenn)\nfr:Juliette (Banque Pokémon)\nit:Colette\nja:アズサ\nzh:梓美",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Brigette (Japanese: アズサ Azusa) is the older sister of Lanette and the host of and Pokémon Bank, as well as the developer of the latter."
+    },
+    {
+      "heading": "Pokémon Box Ruby & Sapphire",
+      "level": 3,
+      "text": "She upgraded the Pokémon Storage System with the ability to hold 1,500 , and the ability to select and move multiple Pokémon at once. \n\nShe is also generous, and will give away Pokémon Eggs containing special Pokémon if certain conditions are met."
+    },
+    {
+      "heading": "Pokémon Bank",
+      "level": 3,
+      "text": "Brigette returns in Pokémon Bank, an online paid cloud storage system for the Nintendo 3DS that complements the release of Pokémon X and Y. She is mentioned to be the developer of the Bank system. \n\nWhen the player deposits Pokémon, Brigette will award the with their choice of Battle Points or Poké Miles. The amount received is dependent on the amount of Pokémon deposited and the amount of time they are deposited for."
+    },
+    {
+      "heading": "Pokémon Box Ruby & Sapphire",
+      "level": 5,
+      "text": "Main article: List of game-based Pokémon distributions in Generation III → Pokémon Box Bonus Eggs\nwith : Brigette gives the player this Swablu at the start.\n \n\nwith : Brigette gives the player this Zigzagoon Egg after storing 100 Pokémon from one game.\n \n\nwith : Brigette gives the player this Skitty Egg after storing 500 Pokémon from one game.\n \n\nwith : Brigette gives the player this Pichu Egg after storing 1,499 Pokémon from one game."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Linette\nes:Nereida (Hoenn)\nfr:Juliette (Banque Pokémon)\nit:Colette\nja:アズサ\nzh:梓美"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Brigette",
+    "pageType": "character",
+    "searchableText": "Brigette\nCategory:Pokémon Adventures characters\nBrigette (Japanese: アズサ Azusa) is the older sister of Lanette and the host of and Pokémon Bank, as well as the developer of the latter.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon Box Ruby & Sapphire",
+      "Pokémon Bank",
+      "Pokémon Box Ruby & Sapphire",
+      "Related articles"
+    ],
+    "characterCount": 1579,
+    "sectionCount": 5
+  }
+}

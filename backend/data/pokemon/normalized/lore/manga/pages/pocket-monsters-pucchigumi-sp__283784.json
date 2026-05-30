@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters ~Pucchigumi SP~",
+    "slug": "pocket-monsters-pucchigumi-sp",
+    "pageId": 283784,
+    "revisionId": 4076562
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters ~Pucchigumi SP~",
+    "sourceFileName": "pocket-monsters-pucchigumi-sp__283784.json",
+    "revisionTimestamp": "2024-08-08T18:27:37Z",
+    "fetchedAt": "2026-05-14T15:34:05.895Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "(Japanese: ポケットモンスター～ぷっちぐみ ～ Pocket Monsters ~Pucchigumi SP~) is a series by おりとかほり Kahori Orito. It is an adaptation of Pokémon Horizons: The Series and briefly summarizes the main events from The Pendant That Starts It All (Part One) to The Future I Choose. It was serialized in the magazine in the June / July 2023 issue (released on April 28, 2023) and the August 2023 issue (released on June 30, 2023).",
+  "plainText": "(Japanese: ポケットモンスター～ぷっちぐみ ～ Pocket Monsters ~Pucchigumi SP~) is a series by おりとかほり Kahori Orito. It is an adaptation of Pokémon Horizons: The Series and briefly summarizes the main events from The Pendant That Starts It All (Part One) to The Future I Choose. It was serialized in the magazine in the June / July 2023 issue (released on April 28, 2023) and the August 2023 issue (released on June 30, 2023).\n\n==List of chapters==\n \n \n\n==Related articles==\n\nPocket Monster: Liko's treasure\nPocket Monsters ~The Detouring Volt Tacklers!!~\n\n \n\n \n\n \n \n\nit:Pocket Monsters ~Pucchigumi SP~\nzh:寶可夢 地平線～Pucchigumi ＳＰ～",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケットモンスター～ぷっちぐみ ～ Pocket Monsters ~Pucchigumi SP~) is a series by おりとかほり Kahori Orito. It is an adaptation of Pokémon Horizons: The Series and briefly summarizes the main events from The Pendant That Starts It All (Part One) to The Future I Choose. It was serialized in the magazine in the June / July 2023 issue (released on April 28, 2023) and the August 2023 issue (released on June 30, 2023)."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Pocket Monster: Liko's treasure\nPocket Monsters ~The Detouring Volt Tacklers!!~\n\n \n\n \n\n \n \n\nit:Pocket Monsters ~Pucchigumi SP~\nzh:寶可夢 地平線～Pucchigumi ＳＰ～"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters ~Pucchigumi SP~",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters ~Pucchigumi SP~\nCategory:Pocket Monsters ~Pucchigumi SP~\n(Japanese: ポケットモンスター～ぷっちぐみ ～ Pocket Monsters ~Pucchigumi SP~) is a series by おりとかほり Kahori Orito. It is an adaptation of Pokémon Horizons: The Series and briefly summarizes the main events from The Pendant That Starts It All (Part One) to The Future I Choose. It was serialized in the magazine in the June / July 2023 issue (released on April 28, 2023) and the August 2023 issue (released on June 30, 2023).",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 609,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Romeo",
+    "slug": "romeo",
+    "pageId": 20990,
+    "revisionId": 4458085
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "romeo__20990.json",
+    "revisionTimestamp": "2025-12-28T22:19:43Z",
+    "fetchedAt": "2026-05-14T14:46:56.063Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Romeo (Japanese: ロミオ Romeo) is a character of the day who appeared in Love at First Flight.\n\nHe grew up in Lake May alongside his good friend Juliet, who he was deeply in love with, but he was always nervous around her. This affected their preparations for the upcoming May Festival, as it caused him to bumble through his performance rehearsals.\n\n took a particular interest Romeo's dilemma and decided to help him confess to Juliet, though her attempt to have pose as Juliet failed. Later, he helped save Juliet's , who had been stolen by . Romeo and his Volbeat helped defeat the trio. Then, after seeing Illumise display her affections for Beat, Romeo gained the courage to confess his own feelings for Juliet, which were revealed to be mutual. Romeo had regained his confidence, and the pair put on a well-received May Festival light show for the crowd.",
+  "plainText": "Romeo (Japanese: ロミオ Romeo) is a character of the day who appeared in Love at First Flight.\n\nHe grew up in Lake May alongside his good friend Juliet, who he was deeply in love with, but he was always nervous around her. This affected their preparations for the upcoming May Festival, as it caused him to bumble through his performance rehearsals.\n\n took a particular interest Romeo's dilemma and decided to help him confess to Juliet, though her attempt to have pose as Juliet failed. Later, he helped save Juliet's , who had been stolen by . Romeo and his Volbeat helped defeat the trio. Then, after seeing Illumise display her affections for Beat, Romeo gained the courage to confess his own feelings for Juliet, which were revealed to be mutual. Romeo had regained his confidence, and the pair put on a well-received May Festival light show for the crowd.\n\n==Pokémon==\n \n\n \n\n==Voice actors==\n \n\n==Trivia==\nRomeo's name is derived from the male lead in 's tragic play .\n\n \n \n\n \n \n \n\nde:Liebe auf den zweiten Blick#Romeo\nes:Romeo\nfr:Roméo\nit:Romeo\nzh:罗密欧",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Romeo (Japanese: ロミオ Romeo) is a character of the day who appeared in Love at First Flight.\n\nHe grew up in Lake May alongside his good friend Juliet, who he was deeply in love with, but he was always nervous around her. This affected their preparations for the upcoming May Festival, as it caused him to bumble through his performance rehearsals.\n\n took a particular interest Romeo's dilemma and decided to help him confess to Juliet, though her attempt to have pose as Juliet failed. Later, he helped save Juliet's , who had been stolen by . Romeo and his Volbeat helped defeat the trio. Then, after seeing Illumise display her affections for Beat, Romeo gained the courage to confess his own feelings for Juliet, which were revealed to be mutual. Romeo had regained his confidence, and the pair put on a well-received May Festival light show for the crowd."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Romeo's name is derived from the male lead in 's tragic play .\n\n \n \n\n \n \n \n\nde:Liebe auf den zweiten Blick#Romeo\nes:Romeo\nfr:Roméo\nit:Romeo\nzh:罗密欧"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Romeo",
+    "pageType": "character",
+    "searchableText": "Romeo\nCategory:Hoenn characters of the day\nRomeo (Japanese: ロミオ Romeo) is a character of the day who appeared in Love at First Flight.\n\nHe grew up in Lake May alongside his good friend Juliet, who he was deeply in love with, but he was always nervous around her. This affected their preparations for the upcoming May Festival, as it caused him to bumble through his performance rehearsals.\n\n took a particular interest Romeo's dilemma and decided to help him confess to Juliet, though her attempt to have pose as Juliet failed. Later, he helped save Juliet's , who had been stolen by . Romeo and his Volbeat helped defeat the trio. Then, after seeing Illumise display her affections for Beat, Romeo gained the courage to confess his own feelings for Juliet, which were revealed to be mutual. Romeo had regained his confidence, and the pair put on a well-received May Festival light show for the crowd.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 1055,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Nina Kumagaya",
+    "slug": "nina-kumagaya",
+    "pageId": 263234,
+    "revisionId": 4190936
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "nina-kumagaya__263234.json",
+    "revisionTimestamp": "2024-11-24T01:44:28Z",
+    "fetchedAt": "2026-05-14T14:39:26.719Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Nina Kumagaya (Japanese: 熊谷ニーナ Kumagaya Nina) is a Japanese voice actress for . She was born on July 18, 1963 in , . She joined the during , voicing recurring character .",
+  "plainText": "Nina Kumagaya (Japanese: 熊谷ニーナ Kumagaya Nina) is a Japanese voice actress for . She was born on July 18, 1963 in , . She joined the during , voicing recurring character .\n\n==Pokémon roles==\n===Animation===\n==== ====\n\n==Other non-Pokémon roles==\nMao \"Mariah\" Chou ( )\nShimoi Chino ( )\nMisuzu Noguchi ( )\nReila ( )\nAi Amatsu ( )\nMarina ( )\nJun ( )\n\n==External links==\nMy Anime List\nAnime News Network\nAnime Planet\n\n \n \n \n\nit:Nina Kumagaya",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Nina Kumagaya (Japanese: 熊谷ニーナ Kumagaya Nina) is a Japanese voice actress for . She was born on July 18, 1963 in , . She joined the during , voicing recurring character ."
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Mao \"Mariah\" Chou ( )\nShimoi Chino ( )\nMisuzu Noguchi ( )\nReila ( )\nAi Amatsu ( )\nMarina ( )\nJun ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "My Anime List\nAnime News Network\nAnime Planet\n\n \n \n \n\nit:Nina Kumagaya"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Nina Kumagaya",
+    "pageType": "general-anime-lore",
+    "searchableText": "Nina Kumagaya\nCategory:Japanese voice actors\nNina Kumagaya (Japanese: 熊谷ニーナ Kumagaya Nina) is a Japanese voice actress for . She was born on July 18, 1963 in , . She joined the during , voicing recurring character .",
+    "sectionHeadings": [
+      "Lead",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 436,
+    "sectionCount": 3
+  }
+}

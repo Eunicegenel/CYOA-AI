@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Banks",
+    "slug": "banks",
+    "pageId": 20508,
+    "revisionId": 4190696
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "banks__20508.json",
+    "revisionTimestamp": "2024-11-24T00:36:33Z",
+    "fetchedAt": "2026-05-14T14:04:36.192Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Lieutenant Banks (Japanese: バンクス Banks) is a supporting character who appeared in Lucario and the Mystery of Mew. He is Kidd Summers's commander.",
+  "plainText": "Lieutenant Banks (Japanese: バンクス Banks) is a supporting character who appeared in Lucario and the Mystery of Mew. He is Kidd Summers's commander. \n\n==History==\nWhen Kidd discovered the Tree of Beginning, she immediately began sending transmissions to Banks so they could find out more about it. Their communications were briefly interrupted when the Tree began to fall apart. When everything was back to normal, Banks agreed with Kidd's suggestion that tourists should not be allowed to access the tree.\n \nFile:Banks computer.png|Banks on his computer\nFile:Summers Banks logo.png|The logo of the organization that Kidd Summers and Lieutenant Banks work for\n \n\n==Gallery==\n===Artwork===\n \n\n==Voice actors==\n \n\n==Names==\n \n\n==Related articles==\n \n \n\nes:Banks\nit:Banks\nja:バンクス",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lieutenant Banks (Japanese: バンクス Banks) is a supporting character who appeared in Lucario and the Mystery of Mew. He is Kidd Summers's commander."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "When Kidd discovered the Tree of Beginning, she immediately began sending transmissions to Banks so they could find out more about it. Their communications were briefly interrupted when the Tree began to fall apart. When everything was back to normal, Banks agreed with Kidd's suggestion that tourists should not be allowed to access the tree.\n \nFile:Banks computer.png|Banks on his computer\nFile:Summers Banks logo.png|The logo of the organization that Kidd Summers and Lieutenant Banks work for"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Banks\nit:Banks\nja:バンクス"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Banks",
+    "pageType": "movie",
+    "searchableText": "Banks\nCategory:Movie characters\nLieutenant Banks (Japanese: バンクス Banks) is a supporting character who appeared in Lucario and the Mystery of Mew. He is Kidd Summers's commander.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 773,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Lindsey Warner",
+    "slug": "lindsey-warner",
+    "pageId": 20352,
+    "revisionId": 4528203
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:4Kids voice actors",
+    "sourceFileName": "lindsey-warner__20352.json",
+    "revisionTimestamp": "2026-04-09T16:10:07Z",
+    "fetchedAt": "2026-05-14T14:31:19.802Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Lindsey Warner is an American voice actress for the English dub of . She did voice work for the series for three seasons.",
+  "plainText": "Lindsey Warner is an American voice actress for the English dub of . She did voice work for the series for three seasons.\n\n==Pokémon roles==\nWarner joined around season six, and provided voices for minor characters and Pokémon up to season eight.\n===Animation===\n==== ====\n=====Humans=====\n\nEliza\nSamantha\n\n=====Pokémon=====\nJames's Cacnea (AG006-AG144)\nBrock's Mudkip (AG046-AG141)\nAsh's Phanpy (AG133-AG145)\n\n \n \n \n\nit:Lindsey Warner",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lindsey Warner is an American voice actress for the English dub of . She did voice work for the series for three seasons."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Warner joined around season six, and provided voices for minor characters and Pokémon up to season eight."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Eliza\nSamantha"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "James's Cacnea (AG006-AG144)\nBrock's Mudkip (AG046-AG141)\nAsh's Phanpy (AG133-AG145)\n\n \n \n \n\nit:Lindsey Warner"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lindsey Warner",
+    "pageType": "general-anime-lore",
+    "searchableText": "Lindsey Warner\nCategory:4Kids voice actors\nLindsey Warner is an American voice actress for the English dub of . She did voice work for the series for three seasons.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 435,
+    "sectionCount": 4
+  }
+}

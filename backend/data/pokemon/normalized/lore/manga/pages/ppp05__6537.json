@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PPP05",
+    "slug": "ppp05",
+    "pageId": 6537,
+    "revisionId": 4131554
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp05__6537.json",
+    "revisionTimestamp": "2024-09-29T04:22:02Z",
+    "fetchedAt": "2026-05-14T15:38:39.708Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The First Labor of Pikachu (Japanese: ピカチュウの大事件 Pikachu's Big Scandal) is the fifth chapter of the Magical Pokémon Journey manga.",
+  "plainText": "The First Labor of Pikachu (Japanese: ピカチュウの大事件 Pikachu's Big Scandal) is the fifth chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \n is playing in a field of flowers when Grandpa comes up to it and asks for it to deliver a package containing \"the ultimate invention.\" Stressing the amount of work put into the invention, and how there is only one in existence, he tells Pikachu that it must bring it directly to Hazel. Pikachu is happy to volunteer, envisioning Hazel's grateful reaction when she receives it.\n\nAs Pikachu walks with the package, it is overcome with curiosity and decides to open it. Pikachu is initially disappointed to see there is only a mirror inside, but suddenly, someone's horrified expression appears on it. Startled, Pikachu tosses the mirror, shattering it. \n\nPikachu panics when it realizes what it has done to Grandpa's work. It finds a nearby and attempts to explain the situation to it, but the conversation doesn't get very far. spots Pikachu from nearby and attempts to greet it, but Pikachu takes off running with the shattered mirror. It flees to the woods to catch its breath, but is already there, startling Pikachu. Offended at Pikachu's reaction, Jigglypuff floats away. Later that night, Hazel wonders why she has not seen Pikachu all day. \n\nWhen the sun rises, Pikachu is still sadly dragging the broken mirror with it across the fields. Grandpa stumbles across it, causing Pikachu to hide the mirror behind its back. Grandpa wonders if Pikachu is upset because Hazel had scolded it, then encourages it to apologize for its mistakes\n\nPikachu runs to Hazel's home and shows her the broken mirror. As it begins to explain how much care Grandpa had put into the mirror, he suddenly appears, wondering if Hazel likes his gift. Grandpa tells her that it can see into the future, then reveals that he had wanted to give her only the first of many. To Pikachu's shock, Grandpa explains that the mirror can only work once, and that he means to make lots of money from selling them. When Hazel realizes that Grandpa's heartfelt gift is only a product he plans to mass produce, she tells Pikachu to shock him, which it eagerly does. A horrified expression appears on Grandpa's face, matching exactly what Pikachu had seen in the mirror earlier.\n\n==Major events==\nGrandpa sends on an errand to deliver a very important package to Hazel.\n \n\n==Characters==\n===Humans===\nGrandpa\nHazel\n\n===Pokémon===\n( )\n( )\n( )\n\n \n==In other languages==\n \n\n \n \n\n \n\nes:MPJ05\nit:PPP05",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The First Labor of Pikachu (Japanese: ピカチュウの大事件 Pikachu's Big Scandal) is the fifth chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "is playing in a field of flowers when Grandpa comes up to it and asks for it to deliver a package containing \"the ultimate invention.\" Stressing the amount of work put into the invention, and how there is only one in existence, he tells Pikachu that it must bring it directly to Hazel. Pikachu is happy to volunteer, envisioning Hazel's grateful reaction when she receives it.\n\nAs Pikachu walks with the package, it is overcome with curiosity and decides to open it. Pikachu is initially disappointed to see there is only a mirror inside, but suddenly, someone's horrified expression appears on it. Startled, Pikachu tosses the mirror, shattering it. \n\nPikachu panics when it realizes what it has done to Grandpa's work. It finds a nearby and attempts to explain the situation to it, but the conversation doesn't get very far. spots Pikachu from nearby and attempts to greet it, but Pikachu takes off running with the shattered mirror. It flees to the woods to catch its breath, but is already there, startling Pikachu. Offended at Pikachu's reaction, Jigglypuff floats away. Later that night, Hazel wonders why she has not seen Pikachu all day. \n\nWhen the sun rises, Pikachu is still sadly dragging the broken mirror with it across the fields. Grandpa stumbles across it, causing Pikachu to hide the mirror behind its back. Grandpa wonders if Pikachu is upset because Hazel had scolded it, then encourages it to apologize for its mistakes\n\nPikachu runs to Hazel's home and shows her the broken mirror. As it begins to explain how much care Grandpa had put into the mirror, he suddenly appears, wondering if Hazel likes his gift. Grandpa tells her that it can see into the future, then reveals that he had wanted to give her only the first of many. To Pikachu's shock, Grandpa explains that the mirror can only work once, and that he means to make lots of money from selling them. When Hazel realizes that Grandpa's heartfelt gift is only a product he plans to mass produce, she tells Pikachu to shock him, which it eagerly does. A horrified expression appears on Grandpa's face, matching exactly what Pikachu had seen in the mirror earlier."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Grandpa sends on an errand to deliver a very important package to Hazel."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Grandpa\nHazel"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:MPJ05\nit:PPP05"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP05",
+    "pageType": "chapter",
+    "searchableText": "PPP05\nCategory:Magical Pokémon Journey chapters\nThe First Labor of Pikachu (Japanese: ピカチュウの大事件 Pikachu's Big Scandal) is the fifth chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 2502,
+    "sectionCount": 6
+  }
+}

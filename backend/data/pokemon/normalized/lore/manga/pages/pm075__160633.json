@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM075",
+    "slug": "pm075",
+    "pageId": 160633,
+    "revisionId": 4526639
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm075__160633.json",
+    "revisionTimestamp": "2026-04-09T14:59:33Z",
+    "fetchedAt": "2026-05-14T15:31:16.846Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pichu and Pichu's Big Fight (Japanese: ピチューとピチューの大げんか Pichu and Pichu's Big Fight) is the seventy-fifth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Pichu and Pichu's Big Fight (Japanese: ピチューとピチューの大げんか Pichu and Pichu's Big Fight) is the seventy-fifth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\nPichu Brothers\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n(Giovanni's)\n(Pichu Brothers; ×2)\n\n==Trivia==\n\n \n \n\nde:Kapitel 75 (Pokémon Pocket Monsters)\nit:PMM075",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pichu and Pichu's Big Fight (Japanese: ピチューとピチューの大げんか Pichu and Pichu's Big Fight) is the seventy-fifth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "Pichu Brothers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(Giovanni's)\n(Pichu Brothers; ×2)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 75 (Pokémon Pocket Monsters)\nit:PMM075"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM075",
+    "pageType": "chapter",
+    "searchableText": "PM075\nCategory:Pokémon Pocket Monsters chapters\nPichu and Pichu's Big Fight (Japanese: ピチューとピチューの大げんか Pichu and Pichu's Big Fight) is the seventy-fifth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 391,
+    "sectionCount": 4
+  }
+}

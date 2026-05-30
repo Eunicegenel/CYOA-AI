@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP28",
+    "slug": "sp28",
+    "pageId": 182543,
+    "revisionId": 4114570
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp28__182543.json",
+    "revisionTimestamp": "2024-09-16T20:30:37Z",
+    "fetchedAt": "2026-05-14T15:50:08.974Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Saving Kyogre, The Lord Of The Ocean Depths! (Japanese: 海底のヌシ &bull; カイオーガを救え！！ Save the Lord of the Ocean Depths - Kyogre!!) is the twenty eighth chapter of the Ash & Pikachu manga.",
+  "plainText": "Saving Kyogre, The Lord Of The Ocean Depths! (Japanese: 海底のヌシ &bull; カイオーガを救え！！ Save the Lord of the Ocean Depths - Kyogre!!) is the twenty eighth chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMax\n\n===Pokémon===\n( )\n( )\n\n \n \n\n \n\nit:SP28",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Saving Kyogre, The Lord Of The Ocean Depths! (Japanese: 海底のヌシ &bull; カイオーガを救え！！ Save the Lord of the Ocean Depths - Kyogre!!) is the twenty eighth chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n\n \n \n\n \n\nit:SP28"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP28",
+    "pageType": "chapter",
+    "searchableText": "SP28\nCategory:Ash & Pikachu chapters\nSaving Kyogre, The Lord Of The Ocean Depths! (Japanese: 海底のヌシ &bull; カイオーガを救え！！ Save the Lord of the Ocean Depths - Kyogre!!) is the twenty eighth chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 324,
+    "sectionCount": 3
+  }
+}

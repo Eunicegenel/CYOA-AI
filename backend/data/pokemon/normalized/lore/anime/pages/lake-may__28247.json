@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Lake May",
+    "slug": "lake-may",
+    "pageId": 28247,
+    "revisionId": 4458086
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "lake-may__28247.json",
+    "revisionTimestamp": "2025-12-28T22:19:51Z",
+    "fetchedAt": "2026-05-14T14:30:16.890Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Lake May (Japanese: ハルカレイク Lake) is an -exclusive location in Hoenn. It is located between Mauville City and Fallarbor Town. There is a small lakeside township, which includes several cabin-style homes and a Pokémon Center.\n\nIn Love at First Flight, and stopped by at Lake May because of its famous scenic beauty. The local Nurse Joy then invited them to watch the rehearsals for the May Festival. They met the main performers, Romeo and Juliet, who were their and for the light show. However, Romeo was particularly nervous, and his clumsiness led the performing troupe to fall into the lake. However, Ash and the others were able to rescue them all.\n\nWith their help, Romeo later revealed his true feelings to Juliet, allowing the May Festival to continue without any further complications.",
+  "plainText": "Lake May (Japanese: ハルカレイク Lake) is an -exclusive location in Hoenn. It is located between Mauville City and Fallarbor Town. There is a small lakeside township, which includes several cabin-style homes and a Pokémon Center.\n\nIn Love at First Flight, and stopped by at Lake May because of its famous scenic beauty. The local Nurse Joy then invited them to watch the rehearsals for the May Festival. They met the main performers, Romeo and Juliet, who were their and for the light show. However, Romeo was particularly nervous, and his clumsiness led the performing troupe to fall into the lake. However, Ash and the others were able to rescue them all.\n\nWith their help, Romeo later revealed his true feelings to Juliet, allowing the May Festival to continue without any further complications.\n\n==Pokémon seen at Lake May==\n \n\n==In other languages==\n \n\n \n \n\n \n\nit:Lago Vera\nes:Lago May/Aura\nzh:遠遙湖",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lake May (Japanese: ハルカレイク Lake) is an -exclusive location in Hoenn. It is located between Mauville City and Fallarbor Town. There is a small lakeside township, which includes several cabin-style homes and a Pokémon Center.\n\nIn Love at First Flight, and stopped by at Lake May because of its famous scenic beauty. The local Nurse Joy then invited them to watch the rehearsals for the May Festival. They met the main performers, Romeo and Juliet, who were their and for the light show. However, Romeo was particularly nervous, and his clumsiness led the performing troupe to fall into the lake. However, Ash and the others were able to rescue them all.\n\nWith their help, Romeo later revealed his true feelings to Juliet, allowing the May Festival to continue without any further complications."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Lago Vera\nes:Lago May/Aura\nzh:遠遙湖"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lake May",
+    "pageType": "location",
+    "searchableText": "Lake May\nCategory:Animated series-exclusive locations\nLake May (Japanese: ハルカレイク Lake) is an -exclusive location in Hoenn. It is located between Mauville City and Fallarbor Town. There is a small lakeside township, which includes several cabin-style homes and a Pokémon Center.\n\nIn Love at First Flight, and stopped by at Lake May because of its famous scenic beauty. The local Nurse Joy then invited them to watch the rehearsals for the May Festival. They met the main performers, Romeo and Juliet, who were their and for the light show. However, Romeo was particularly nervous, and his clumsiness led the performing troupe to fall into the lake. However, Ash and the others were able to rescue them all.\n\nWith their help, Romeo later revealed his true feelings to Juliet, allowing the May Festival to continue without any further complications.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 896,
+    "sectionCount": 2
+  }
+}

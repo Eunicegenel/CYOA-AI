@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Vicinity of Tahnti Station",
+    "slug": "vicinity-of-tahnti-station",
+    "pageId": 235980,
+    "revisionId": 4545612
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu locations",
+    "sourceFileName": "vicinity-of-tahnti-station__235980.json",
+    "revisionTimestamp": "2026-05-06T07:48:48Z",
+    "fetchedAt": "2026-05-14T14:56:49.831Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The vicinity of Tahnti Station (Japanese: タンティ Vicinity of Tahnti Station) is a road located in the downtown of Ryme City near Tahnti Park in the game . The first part of Chapter 1 takes place here.",
+  "plainText": "The vicinity of Tahnti Station (Japanese: タンティ Vicinity of Tahnti Station) is a road located in the downtown of Ryme City near Tahnti Park in the game . The first part of Chapter 1 takes place here.\n\n==Events==\nTrack Down the Aipom!\nFigure out where Aipom went!\n\n==Case Notes==\n===Evidence===\nNecklace\nIt belongs to the girl, but Aipom took it. It's apparently an important item she got from her mother.\nKetchup tail print\nA red mark in the shape of Aipom's tail. We found it on the path that leads to the park.\nPaint tail print\nA white mark shaped like Aipom's tail.\n\n===Testimony===\nThe Aipom that ran away to the park\nIt came down from the roof and ran along the path to the park.\nThe Aipom that ran away to the bank\nIt jumped over our heads and ran along the path to the bank.\nAipom with ketchup on it\nIt had the necklace.\n\n===People===\nGirl\nHer necklace was taken by Aipom. I have to get it back.\nWoman\nShe's with the girl whose necklace was taken.\n\n===Pokémon===\nPikachu\n\"The detective hat is his trademark\"\nFor some reason, he can only talk to me. I still can't believe it. He seems kind of pompous.\n\n\"Loves to make mischief\"\nIt took the girl's necklace. We chased it but lost sight of it.\n\n\"A fur fashionista\"\nIts fur is all messed up. It was really sad.\n\n\"Really digs digging\"\nIt's good at digging holes. It's helping out with construction.\n\n==Pokémon==\n \n\n==Trivia==\n \nThe internal data of the game refers to the building on the corner as \"friendlyshop\", the Japanese name for Poké Marts.\n\n==In other languages==\n \n\n \n \n\nde:Ryme City#Tahnti Station\nzh:探堤车站前",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The vicinity of Tahnti Station (Japanese: タンティ Vicinity of Tahnti Station) is a road located in the downtown of Ryme City near Tahnti Park in the game . The first part of Chapter 1 takes place here."
+    },
+    {
+      "heading": "Events",
+      "level": 2,
+      "text": "Track Down the Aipom!\nFigure out where Aipom went!"
+    },
+    {
+      "heading": "Evidence",
+      "level": 3,
+      "text": "Necklace\nIt belongs to the girl, but Aipom took it. It's apparently an important item she got from her mother.\nKetchup tail print\nA red mark in the shape of Aipom's tail. We found it on the path that leads to the park.\nPaint tail print\nA white mark shaped like Aipom's tail."
+    },
+    {
+      "heading": "Testimony",
+      "level": 3,
+      "text": "The Aipom that ran away to the park\nIt came down from the roof and ran along the path to the park.\nThe Aipom that ran away to the bank\nIt jumped over our heads and ran along the path to the bank.\nAipom with ketchup on it\nIt had the necklace."
+    },
+    {
+      "heading": "People",
+      "level": 3,
+      "text": "Girl\nHer necklace was taken by Aipom. I have to get it back.\nWoman\nShe's with the girl whose necklace was taken."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "Pikachu\n\"The detective hat is his trademark\"\nFor some reason, he can only talk to me. I still can't believe it. He seems kind of pompous.\n\n\"Loves to make mischief\"\nIt took the girl's necklace. We chased it but lost sight of it.\n\n\"A fur fashionista\"\nIts fur is all messed up. It was really sad.\n\n\"Really digs digging\"\nIt's good at digging holes. It's helping out with construction."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The internal data of the game refers to the building on the corner as \"friendlyshop\", the Japanese name for Poké Marts."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Ryme City#Tahnti Station\nzh:探堤车站前"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Vicinity of Tahnti Station",
+    "pageType": "location",
+    "searchableText": "Vicinity of Tahnti Station\nCategory:Detective Pikachu locations\nThe vicinity of Tahnti Station (Japanese: タンティ Vicinity of Tahnti Station) is a road located in the downtown of Ryme City near Tahnti Park in the game . The first part of Chapter 1 takes place here.",
+    "sectionHeadings": [
+      "Lead",
+      "Events",
+      "Evidence",
+      "Testimony",
+      "People",
+      "Pokémon",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1567,
+    "sectionCount": 8
+  }
+}

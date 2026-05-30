@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM070",
+    "slug": "pm070",
+    "pageId": 160582,
+    "revisionId": 4526544
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm070__160582.json",
+    "revisionTimestamp": "2026-04-09T14:55:07Z",
+    "fetchedAt": "2026-05-14T15:31:13.727Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Gym Challenges Begin!! (Japanese: ジムリーダー戦、ついにスタート！！ Gym Leader Battle, Finally Starts!!) is the seventieth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Gym Challenges Begin!! (Japanese: ジムリーダー戦、ついにスタート！！ Gym Leader Battle, Finally Starts!!) is the seventieth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nFalkner\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nFalkner\ns\n\n===Pokémon===\n( ) \n( )\n( )\n(Falkner's)\n(×5; Clefairy Rangers)\n\n==Trivia==\n\n \n \n\nde:Kapitel 70 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Gym Challenges Begin!! (Japanese: ジムリーダー戦、ついにスタート！！ Gym Leader Battle, Finally Starts!!) is the seventieth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Falkner"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Falkner\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(Falkner's)\n(×5; Clefairy Rangers)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 70 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM070",
+    "pageType": "chapter",
+    "searchableText": "PM070\nCategory:Pokémon Pocket Monsters chapters\nThe Gym Challenges Begin!! (Japanese: ジムリーダー戦、ついにスタート！！ Gym Leader Battle, Finally Starts!!) is the seventieth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 408,
+    "sectionCount": 5
+  }
+}

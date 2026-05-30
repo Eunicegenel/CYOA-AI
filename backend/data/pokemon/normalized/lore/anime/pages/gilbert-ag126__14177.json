@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Gilbert (AG126)",
+    "slug": "gilbert-ag126",
+    "pageId": 14177,
+    "revisionId": 4357185
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "gilbert-ag126__14177.json",
+    "revisionTimestamp": "2025-08-12T14:49:11Z",
+    "fetchedAt": "2026-05-14T14:20:26.359Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Gilbert (Japanese: ゲンキ Genki) is a character of the day who appeared in Saved by the Beldum. He is a Pokémon Trainer who competed in the preliminary rounds of the Ever Grande Conference. \n\nGilbert went up against during the preliminary rounds. Using his , he was determined to defeat Ash's Pikachu. However, 's speed caused his Pokémon's s to miss and injure his leg. He was able to gain a slight advantage when Hitmonlee used on Pikachu, but the Pokémon ended up losing the . With that loss, Gilbert was out of the tournament.",
+  "plainText": "Gilbert (Japanese: ゲンキ Genki) is a character of the day who appeared in Saved by the Beldum. He is a Pokémon Trainer who competed in the preliminary rounds of the Ever Grande Conference. \n\nGilbert went up against during the preliminary rounds. Using his , he was determined to defeat Ash's Pikachu. However, 's speed caused his Pokémon's s to miss and injure his leg. He was able to gain a slight advantage when Hitmonlee used on Pikachu, but the Pokémon ended up losing the . With that loss, Gilbert was out of the tournament.\n\n==Pokémon==\n \nThis listing is of Gilbert's known in :\n \n\n==Achievements==\n===Badges obtained===\nThis listing is of the Badges Gilbert has obtained in the Hoenn region:\nAt least eight Badges (prior to Saved by the Beldum)\n\n===Pokémon League===\nGilbert has competed in the following Pokémon League Conferences:\nEver Grande Conference - Preliminaries (Saved by the Beldum)\n\n==Voice actors==\n \n\n==Related articles==\n \n \n\n \n \n \n\nes:Gilbert (Hoenn)\nfr:Gilbert (Hoenn)\nit:Gilbert (RZ126)\nzh:源奇",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Gilbert (Japanese: ゲンキ Genki) is a character of the day who appeared in Saved by the Beldum. He is a Pokémon Trainer who competed in the preliminary rounds of the Ever Grande Conference. \n\nGilbert went up against during the preliminary rounds. Using his , he was determined to defeat Ash's Pikachu. However, 's speed caused his Pokémon's s to miss and injure his leg. He was able to gain a slight advantage when Hitmonlee used on Pikachu, but the Pokémon ended up losing the . With that loss, Gilbert was out of the tournament."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Gilbert's known in :"
+    },
+    {
+      "heading": "Badges obtained",
+      "level": 3,
+      "text": "This listing is of the Badges Gilbert has obtained in the Hoenn region:\nAt least eight Badges (prior to Saved by the Beldum)"
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Gilbert has competed in the following Pokémon League Conferences:\nEver Grande Conference - Preliminaries (Saved by the Beldum)"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Gilbert (Hoenn)\nfr:Gilbert (Hoenn)\nit:Gilbert (RZ126)\nzh:源奇"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Gilbert (AG126)",
+    "pageType": "character",
+    "searchableText": "Gilbert (AG126)\nCategory:Hoenn characters of the day\nGilbert (Japanese: ゲンキ Genki) is a character of the day who appeared in Saved by the Beldum. He is a Pokémon Trainer who competed in the preliminary rounds of the Ever Grande Conference. \n\nGilbert went up against during the preliminary rounds. Using his , he was determined to defeat Ash's Pikachu. However, 's speed caused his Pokémon's s to miss and injure his leg. He was able to gain a slight advantage when Hitmonlee used on Pikachu, but the Pokémon ended up losing the . With that loss, Gilbert was out of the tournament.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Badges obtained",
+      "Pokémon League",
+      "Related articles"
+    ],
+    "characterCount": 1015,
+    "sectionCount": 5
+  }
+}

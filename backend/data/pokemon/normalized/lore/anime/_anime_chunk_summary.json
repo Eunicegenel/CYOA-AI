@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-05-14T17:03:34.147Z",
+  "canon": "anime",
+  "chunkingRules": {
+    "targetCharacterLength": 1800,
+    "minimumCharacterLength": 250
+  },
+  "totals": {
+    "processedPages": 5949,
+    "pagesWithChunks": 5606,
+    "pagesWithoutChunks": 343,
+    "totalChunks": 33026
+  }
+}

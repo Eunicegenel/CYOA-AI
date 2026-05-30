@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW12",
+    "slug": "pmbw12",
+    "pageId": 171698,
+    "revisionId": 4528300
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw12__171698.json",
+    "revisionTimestamp": "2026-04-09T16:14:34Z",
+    "fetchedAt": "2026-05-14T15:31:50.925Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 海底遺跡にご招待 Invited to the ) is the twelfth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 海底遺跡にご招待 Invited to the ) is the twelfth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 海底遺跡にご招待 Invited to the ) is the twelfth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW12",
+    "pageType": "chapter",
+    "searchableText": "PMBW12\nCategory:Pocket Monsters BW chapters\n(Japanese: 海底遺跡にご招待 Invited to the ) is the twelfth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 225,
+    "sectionCount": 2
+  }
+}

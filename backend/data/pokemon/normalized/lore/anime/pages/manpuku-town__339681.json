@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Manpūku Town",
+    "slug": "manpuku-town",
+    "pageId": 339681,
+    "revisionId": 4524103
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "manpuku-town__339681.json",
+    "revisionTimestamp": "2026-04-06T19:11:52Z",
+    "fetchedAt": "2026-05-14T14:34:44.042Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "(Japanese: マンプゥクタウン Manpūku Town) is an -exclusive town located in Paldea. It was not given a name in the English dub.\n\n is a local street artist here known among the residents. He is known to make paintings with his in the shopping district, offering passersby to paint them something. He lives in a treehouse just outside of the town.\n\nAn Explorers base is located not far from the town.",
+  "plainText": "(Japanese: マンプゥクタウン Manpūku Town) is an -exclusive town located in Paldea. It was not given a name in the English dub.\n\n is a local street artist here known among the residents. He is known to make paintings with his in the shopping district, offering passersby to paint them something. He lives in a treehouse just outside of the town.\n\nAn Explorers base is located not far from the town.\n\n==Gallery==\n \nManpuku Town shopping street.png|Manpūku Town's shopping street\nRyan treehouse.png|Ryan's treehouse\n \n\n \n==Names==\n \n \n \n \n\n \n\nes:Pueblo Manpūku\nzh:飽食鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: マンプゥクタウン Manpūku Town) is an -exclusive town located in Paldea. It was not given a name in the English dub.\n\n is a local street artist here known among the residents. He is known to make paintings with his in the shopping district, offering passersby to paint them something. He lives in a treehouse just outside of the town.\n\nAn Explorers base is located not far from the town."
+    },
+    {
+      "heading": "Gallery",
+      "level": 2,
+      "text": "Manpuku Town shopping street.png|Manpūku Town's shopping street\nRyan treehouse.png|Ryan's treehouse"
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Pueblo Manpūku\nzh:飽食鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Manpūku Town",
+    "pageType": "location",
+    "searchableText": "Manpūku Town\nCategory:Animated series-exclusive locations\n(Japanese: マンプゥクタウン Manpūku Town) is an -exclusive town located in Paldea. It was not given a name in the English dub.\n\n is a local street artist here known among the residents. He is known to make paintings with his in the shopping district, offering passersby to paint them something. He lives in a treehouse just outside of the town.\n\nAn Explorers base is located not far from the town.",
+    "sectionHeadings": [
+      "Lead",
+      "Gallery",
+      "Names"
+    ],
+    "characterCount": 556,
+    "sectionCount": 3
+  }
+}

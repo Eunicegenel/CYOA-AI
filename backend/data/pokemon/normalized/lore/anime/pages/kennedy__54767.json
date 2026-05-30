@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Kennedy",
+    "slug": "kennedy",
+    "pageId": 54767,
+    "revisionId": 4430515
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "kennedy__54767.json",
+    "revisionTimestamp": "2025-11-24T17:38:55Z",
+    "fetchedAt": "2026-05-14T14:29:10.002Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Kennedy (Japanese: クロダ Kuroda) is a character of the day who appeared in Stairway to Devon. He is the assistant to the Devon Corporation's President, Mr. Stone. He notifies Mr. Stone of upcoming appointments and scheduled meetings.\n\nMax first saw Kennedy chasing after Mr. Stone and mistook him for a kidnapper. After the misunderstanding was cleared, Mr. Stone sent Kennedy to escort , , and to the Devon Corporation to reunite them with Max. The entire time, Kennedy made little conversation aside from niceties with Ash and , though he did inform them about Mr. Stone's son, . Kennedy keeps a phone with him at all times, and assisted Ash and his friends as they tracked down the on the Devon Corporation's roof.",
+  "plainText": "Kennedy (Japanese: クロダ Kuroda) is a character of the day who appeared in Stairway to Devon. He is the assistant to the Devon Corporation's President, Mr. Stone. He notifies Mr. Stone of upcoming appointments and scheduled meetings.\n\nMax first saw Kennedy chasing after Mr. Stone and mistook him for a kidnapper. After the misunderstanding was cleared, Mr. Stone sent Kennedy to escort , , and to the Devon Corporation to reunite them with Max. The entire time, Kennedy made little conversation aside from niceties with Ash and , though he did inform them about Mr. Stone's son, . Kennedy keeps a phone with him at all times, and assisted Ash and his friends as they tracked down the on the Devon Corporation's roof.\n\n==Voice actors==\n \n \n\n \n\n \n \n \n\nde:Max’ erstes Abenteuer#Kennedy\nes:Kennedy\nit:Kennedy\nzh:黑田",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kennedy (Japanese: クロダ Kuroda) is a character of the day who appeared in Stairway to Devon. He is the assistant to the Devon Corporation's President, Mr. Stone. He notifies Mr. Stone of upcoming appointments and scheduled meetings.\n\nMax first saw Kennedy chasing after Mr. Stone and mistook him for a kidnapper. After the misunderstanding was cleared, Mr. Stone sent Kennedy to escort , , and to the Devon Corporation to reunite them with Max. The entire time, Kennedy made little conversation aside from niceties with Ash and , though he did inform them about Mr. Stone's son, . Kennedy keeps a phone with him at all times, and assisted Ash and his friends as they tracked down the on the Devon Corporation's roof."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Max’ erstes Abenteuer#Kennedy\nes:Kennedy\nit:Kennedy\nzh:黑田"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kennedy",
+    "pageType": "character",
+    "searchableText": "Kennedy\nCategory:Hoenn characters of the day\nKennedy (Japanese: クロダ Kuroda) is a character of the day who appeared in Stairway to Devon. He is the assistant to the Devon Corporation's President, Mr. Stone. He notifies Mr. Stone of upcoming appointments and scheduled meetings.\n\nMax first saw Kennedy chasing after Mr. Stone and mistook him for a kidnapper. After the misunderstanding was cleared, Mr. Stone sent Kennedy to escort , , and to the Devon Corporation to reunite them with Max. The entire time, Kennedy made little conversation aside from niceties with Ash and , though he did inform them about Mr. Stone's son, . Kennedy keeps a phone with him at all times, and assisted Ash and his friends as they tracked down the on the Devon Corporation's roof.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 809,
+    "sectionCount": 2
+  }
+}

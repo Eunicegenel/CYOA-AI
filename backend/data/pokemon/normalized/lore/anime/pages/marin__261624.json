@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Marin",
+    "slug": "marin",
+    "pageId": 261624,
+    "revisionId": 4289332
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "marin__261624.json",
+    "revisionTimestamp": "2025-04-28T19:58:36Z",
+    "fetchedAt": "2026-05-14T14:35:01.553Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Marin (Japanese: マリン Marin) is a minor recurring character in Pokémon Journeys: The Series.\n\nMarin first appeared in The Cuteness Quotient!, in which she competed in the Friendship Festival with her . At the awards ceremony, Marin appeared on stage with a trophy, although it remained unknown if she won the competition.\n\nMarin reappeared in On Land, In the Sea, and to the Future!, where she was among the competitors taking part in the Kids Marine Athletic Race. She ended up finishing eighth.",
+  "plainText": "Marin (Japanese: マリン Marin) is a minor recurring character in Pokémon Journeys: The Series.\n\nMarin first appeared in The Cuteness Quotient!, in which she competed in the Friendship Festival with her . At the awards ceremony, Marin appeared on stage with a trophy, although it remained unknown if she won the competition.\n\nMarin reappeared in On Land, In the Sea, and to the Future!, where she was among the competitors taking part in the Kids Marine Athletic Race. She ended up finishing eighth.\n\n==Pokémon==\n \n \n\n===Achievements===\nMarin has competed in the following :\nFriendship Festival - Unknown (The Cuteness Quotient!)\nKids Marine Athletic Race - Eighth (On Land, In the Sea, and to the Future!)\n\n \n \n \n\nes:Marin/Marina\nit:Miki (Hoenn)\nzh:玛琳",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Marin (Japanese: マリン Marin) is a minor recurring character in Pokémon Journeys: The Series.\n\nMarin first appeared in The Cuteness Quotient!, in which she competed in the Friendship Festival with her . At the awards ceremony, Marin appeared on stage with a trophy, although it remained unknown if she won the competition.\n\nMarin reappeared in On Land, In the Sea, and to the Future!, where she was among the competitors taking part in the Kids Marine Athletic Race. She ended up finishing eighth."
+    },
+    {
+      "heading": "Achievements",
+      "level": 3,
+      "text": "Marin has competed in the following :\nFriendship Festival - Unknown (The Cuteness Quotient!)\nKids Marine Athletic Race - Eighth (On Land, In the Sea, and to the Future!)\n\n \n \n \n\nes:Marin/Marina\nit:Miki (Hoenn)\nzh:玛琳"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Marin",
+    "pageType": "character",
+    "searchableText": "Marin\nCategory:Animation characters\nMarin (Japanese: マリン Marin) is a minor recurring character in Pokémon Journeys: The Series.\n\nMarin first appeared in The Cuteness Quotient!, in which she competed in the Friendship Festival with her . At the awards ceremony, Marin appeared on stage with a trophy, although it remained unknown if she won the competition.\n\nMarin reappeared in On Land, In the Sea, and to the Future!, where she was among the competitors taking part in the Kids Marine Athletic Race. She ended up finishing eighth.",
+    "sectionHeadings": [
+      "Lead",
+      "Achievements"
+    ],
+    "characterCount": 748,
+    "sectionCount": 2
+  }
+}

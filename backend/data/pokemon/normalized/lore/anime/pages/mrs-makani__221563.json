@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mrs. Makani",
+    "slug": "mrs-makani",
+    "pageId": 221563,
+    "revisionId": 4095402
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Alola characters of the day",
+    "sourceFileName": "mrs-makani__221563.json",
+    "revisionTimestamp": "2024-09-01T00:26:32Z",
+    "fetchedAt": "2026-05-14T14:38:29.139Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mrs. Makani (Japanese: マカニ様 Mrs. Makani) is a character of the day who appeared in Crystal-Clear Sleuthing!.\n\nShe is a character who appeared in an episode of a TV show called Alolan Detective Laki. Mrs. Makani is most likely not the actress's real name but rather the name of the character she portrays. She is a widow who received the Princess Tear from her late husband. In one episode of the TV show, the jewel was stolen. Detective Laki investigated the case and gathered all of his suspects in a single room, with Mrs. Makani also present. Laki deduced the thief was the doctor among the group, who had hidden the jewel in dolls. Mrs. Makani was relieved to have her precious jewels back.",
+  "plainText": "Mrs. Makani (Japanese: マカニ様 Mrs. Makani) is a character of the day who appeared in Crystal-Clear Sleuthing!.\n\nShe is a character who appeared in an episode of a TV show called Alolan Detective Laki. Mrs. Makani is most likely not the actress's real name but rather the name of the character she portrays. She is a widow who received the Princess Tear from her late husband. In one episode of the TV show, the jewel was stolen. Detective Laki investigated the case and gathered all of his suspects in a single room, with Mrs. Makani also present. Laki deduced the thief was the doctor among the group, who had hidden the jewel in dolls. Mrs. Makani was relieved to have her precious jewels back.\n\n==Voice actors==\n \n \n \n\n \n \n \n\nit:Signora Makani\nzh:馬卡尼夫人",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mrs. Makani (Japanese: マカニ様 Mrs. Makani) is a character of the day who appeared in Crystal-Clear Sleuthing!.\n\nShe is a character who appeared in an episode of a TV show called Alolan Detective Laki. Mrs. Makani is most likely not the actress's real name but rather the name of the character she portrays. She is a widow who received the Princess Tear from her late husband. In one episode of the TV show, the jewel was stolen. Detective Laki investigated the case and gathered all of his suspects in a single room, with Mrs. Makani also present. Laki deduced the thief was the doctor among the group, who had hidden the jewel in dolls. Mrs. Makani was relieved to have her precious jewels back."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Signora Makani\nzh:馬卡尼夫人"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mrs. Makani",
+    "pageType": "character",
+    "searchableText": "Mrs. Makani\nCategory:Alola characters of the day\nMrs. Makani (Japanese: マカニ様 Mrs. Makani) is a character of the day who appeared in Crystal-Clear Sleuthing!.\n\nShe is a character who appeared in an episode of a TV show called Alolan Detective Laki. Mrs. Makani is most likely not the actress's real name but rather the name of the character she portrays. She is a widow who received the Princess Tear from her late husband. In one episode of the TV show, the jewel was stolen. Detective Laki investigated the case and gathered all of his suspects in a single room, with Mrs. Makani also present. Laki deduced the thief was the doctor among the group, who had hidden the jewel in dolls. Mrs. Makani was relieved to have her precious jewels back.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 753,
+    "sectionCount": 2
+  }
+}

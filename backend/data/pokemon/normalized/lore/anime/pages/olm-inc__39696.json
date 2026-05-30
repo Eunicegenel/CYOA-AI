@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "OLM, Inc.",
+    "slug": "olm-inc",
+    "pageId": 39696,
+    "revisionId": 4528134
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon animated series",
+    "sourceFileName": "olm-inc__39696.json",
+    "revisionTimestamp": "2026-04-09T16:08:21Z",
+    "fetchedAt": "2026-05-14T14:40:12.462Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "OLM, Inc. and OLM Digital, Inc. (Japanese: 株式会社オー・エル・エム Kabushiki-gaisha OLM), formerly Oriental Light and Magic, is a animation studio founded in 1994, located in , Japan. OLM is responsible for animating several Pokémon productions and series, as well as the Pokémon movies, and the Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer. The title is partially derived from 's visual effects company (also known as \"ILM\"), which is a subsidiary of Lucas's production company, . Since ILM is widely considered to be the greatest visual effects company in the entire worldwide film business, mainly because the company has broken ground in almost every visual effects area imaginable in film, OLM was given that name as a homage to the legendary visual effects house.",
+  "plainText": "OLM, Inc. and OLM Digital, Inc. (Japanese: 株式会社オー・エル・エム Kabushiki-gaisha OLM), formerly Oriental Light and Magic, is a animation studio founded in 1994, located in , Japan. OLM is responsible for animating several Pokémon productions and series, as well as the Pokémon movies, and the Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer. The title is partially derived from 's visual effects company (also known as \"ILM\"), which is a subsidiary of Lucas's production company, . Since ILM is widely considered to be the greatest visual effects company in the entire worldwide film business, mainly because the company has broken ground in almost every visual effects area imaginable in film, OLM was given that name as a homage to the legendary visual effects house.\n\n==List of series animated by OLM==\n===Pokémon works===\nThe company's main work in the franchise is attributed to the Pokémon animated series. However they have been involved with other work outside the animated series including:\nnumerous Pokémon movies and their Pikachu shorts\nMany specials including those found within Pokémon Chronicles\nPokémon Black Version 2 and Pokémon White Version 2 Animated Trailer\nPokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer\nPokémon Generations \nPokémon Evolutions \n\n===Other===\n\n==Video games==\nOLM has also been involved with video games, usually providing resources based on animation they have produced. Additionally, many of their staff would work on the short, Pichu Bros. in Party Panic, a special that was distributed in Pokémon Channel for Nintendo GameCube exclusively. They are also credited for \"illustration support\" on Pokémon Sun and Moon for the Nintendo 3DS.\n\n==External links==\nOfficial website\non Wikipedia\n\n==References==\n \n\n \n\n \n\n \n\n \n \n\nes:OLM Incorporated\nit:OLM, Inc.\nja:オー・エル・エム\nzh:OLM, Inc.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "OLM, Inc. and OLM Digital, Inc. (Japanese: 株式会社オー・エル・エム Kabushiki-gaisha OLM), formerly Oriental Light and Magic, is a animation studio founded in 1994, located in , Japan. OLM is responsible for animating several Pokémon productions and series, as well as the Pokémon movies, and the Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer. The title is partially derived from 's visual effects company (also known as \"ILM\"), which is a subsidiary of Lucas's production company, . Since ILM is widely considered to be the greatest visual effects company in the entire worldwide film business, mainly because the company has broken ground in almost every visual effects area imaginable in film, OLM was given that name as a homage to the legendary visual effects house."
+    },
+    {
+      "heading": "Pokémon works",
+      "level": 3,
+      "text": "The company's main work in the franchise is attributed to the Pokémon animated series. However they have been involved with other work outside the animated series including:\nnumerous Pokémon movies and their Pikachu shorts\nMany specials including those found within Pokémon Chronicles\nPokémon Black Version 2 and Pokémon White Version 2 Animated Trailer\nPokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer\nPokémon Generations \nPokémon Evolutions"
+    },
+    {
+      "heading": "Video games",
+      "level": 2,
+      "text": "OLM has also been involved with video games, usually providing resources based on animation they have produced. Additionally, many of their staff would work on the short, Pichu Bros. in Party Panic, a special that was distributed in Pokémon Channel for Nintendo GameCube exclusively. They are also credited for \"illustration support\" on Pokémon Sun and Moon for the Nintendo 3DS."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\non Wikipedia"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "es:OLM Incorporated\nit:OLM, Inc.\nja:オー・エル・エム\nzh:OLM, Inc."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "OLM, Inc.",
+    "pageType": "pokemon-related",
+    "searchableText": "OLM, Inc.\nCategory:Pokémon animated series\nOLM, Inc. and OLM Digital, Inc. (Japanese: 株式会社オー・エル・エム Kabushiki-gaisha OLM), formerly Oriental Light and Magic, is a animation studio founded in 1994, located in , Japan. OLM is responsible for animating several Pokémon productions and series, as well as the Pokémon movies, and the Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer. The title is partially derived from 's visual effects company (also known as \"ILM\"), which is a subsidiary of Lucas's production company, . Since ILM is widely considered to be the greatest visual effects company in the entire worldwide film business, mainly because the company has broken ground in almost every visual effects area imaginable in film, OLM was given that name as a homage to the legendary visual effects house.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon works",
+      "Video games",
+      "External links",
+      "References"
+    ],
+    "characterCount": 1847,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Zoe Martin",
+    "slug": "zoe-martin",
+    "pageId": 66698,
+    "revisionId": 4323486
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "zoe-martin__66698.json",
+    "revisionTimestamp": "2025-06-24T03:31:03Z",
+    "fetchedAt": "2026-05-14T15:00:37.853Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Zoe Martin is an American voice actress for the English-language dub of . She is also credited by her birth name, Meredith Zeitlin. She is currently affiliated with KMR Talent Agency.",
+  "plainText": "Zoe Martin is an American voice actress for the English-language dub of . She is also credited by her birth name, Meredith Zeitlin. She is currently affiliated with KMR Talent Agency.\n\n==Biography==\nMartin was born as Meredith Zeitlin. As an adult, she became a voice actress and worked on a number of English-dubbed versions of Japanese anime series. She joined during and has notably voiced Angie, 's friend from the Pokémon Summer Academy; and Mairin, Alain's traveling companion from the Mega Evolution Specials. Martin currently resides in New York City, New York.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nAngie\nMairin\n\n======Minor======\n\nYoung Roark\nTeam Electric Princess Small\n\n=====Pokémon=====\n(SM042)\n(SM071)\n\n==Other non-Pokémon roles==\nAdditional voices ( )\nGoddess ( )\nSora Hasegawa ( )\nRin Sawamura ( )\nYuuki Matsubara ( )\nKaede Shiranui ( )\nYuzu Hieda ( )\nRod ( )\n\n==External links==\nOfficial website\nTwitter\nAnime News Network\n \n\n \n \n\nit:Zoe Martin",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Zoe Martin is an American voice actress for the English-language dub of . She is also credited by her birth name, Meredith Zeitlin. She is currently affiliated with KMR Talent Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Martin was born as Meredith Zeitlin. As an adult, she became a voice actress and worked on a number of English-dubbed versions of Japanese anime series. She joined during and has notably voiced Angie, 's friend from the Pokémon Summer Academy; and Mairin, Alain's traveling companion from the Mega Evolution Specials. Martin currently resides in New York City, New York."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Angie\nMairin"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Young Roark\nTeam Electric Princess Small"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(SM042)\n(SM071)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Additional voices ( )\nGoddess ( )\nSora Hasegawa ( )\nRin Sawamura ( )\nYuuki Matsubara ( )\nKaede Shiranui ( )\nYuzu Hieda ( )\nRod ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTwitter\nAnime News Network\n \n\n \n \n\nit:Zoe Martin"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Zoe Martin",
+    "pageType": "general-anime-lore",
+    "searchableText": "Zoe Martin\nCategory:TPCi voice actors\nZoe Martin is an American voice actress for the English-language dub of . She is also credited by her birth name, Meredith Zeitlin. She is currently affiliated with KMR Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Pokémon",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1004,
+    "sectionCount": 7
+  }
+}

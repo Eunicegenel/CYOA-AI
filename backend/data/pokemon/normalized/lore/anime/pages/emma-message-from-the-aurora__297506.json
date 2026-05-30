@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Emma (Message from the Aurora)",
+    "slug": "emma-message-from-the-aurora",
+    "pageId": 297506,
+    "revisionId": 4289213
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "emma-message-from-the-aurora__297506.json",
+    "revisionTimestamp": "2025-04-28T19:50:05Z",
+    "fetchedAt": "2026-05-14T14:15:21.041Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "This article is about the character from Message from the Aurora. For the game character in Pokémon X and Y, see Emma.\n \n----\n \n(Japanese: エマ Emma) is a character of the day who appeared in Message from the Aurora.",
+  "plainText": "This article is about the character from Message from the Aurora. For the game character in Pokémon X and Y, see Emma.\n \n----\n \n(Japanese: エマ Emma) is a character of the day who appeared in Message from the Aurora.\n\n==Pokémon==\n \n \n \n \n\n \n \n \n\nit:Emma (Aurora kara no message)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This article is about the character from Message from the Aurora. For the game character in Pokémon X and Y, see Emma.\n \n----\n \n(Japanese: エマ Emma) is a character of the day who appeared in Message from the Aurora."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Emma (Aurora kara no message)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Emma (Message from the Aurora)",
+    "pageType": "character",
+    "searchableText": "Emma (Message from the Aurora)\nCategory:Journeys characters of the day\nThis article is about the character from Message from the Aurora. For the game character in Pokémon X and Y, see Emma.\n \n----\n \n(Japanese: エマ Emma) is a character of the day who appeared in Message from the Aurora.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 276,
+    "sectionCount": 2
+  }
+}

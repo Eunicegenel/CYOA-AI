@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Gurū",
+    "slug": "guru",
+    "pageId": 225333,
+    "revisionId": 4190685
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "guru__225333.json",
+    "revisionTimestamp": "2024-11-24T00:31:33Z",
+    "fetchedAt": "2026-05-14T14:21:35.099Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "(Japanese: グルー Gurū) is a minor character who appeared in Destiny Deoxys. He is the referee and announcer of Pokémon battles that are held in the Battle Tower in LaRousse City.\n\nGurū judged the match of and Tory against Rafe and Sid. He also explained the rules of a Tag Battle to the audience.",
+  "plainText": "(Japanese: グルー Gurū) is a minor character who appeared in Destiny Deoxys. He is the referee and announcer of Pokémon battles that are held in the Battle Tower in LaRousse City.\n\nGurū judged the match of and Tory against Rafe and Sid. He also explained the rules of a Tag Battle to the audience.\n\n==Voice actors==\n \n\n==Related articles==\n \n \n\n \n \n\nit:Gurū",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: グルー Gurū) is a minor character who appeared in Destiny Deoxys. He is the referee and announcer of Pokémon battles that are held in the Battle Tower in LaRousse City.\n\nGurū judged the match of and Tory against Rafe and Sid. He also explained the rules of a Tag Battle to the audience."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Gurū"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Gurū",
+    "pageType": "movie",
+    "searchableText": "Gurū\nCategory:Movie characters\n(Japanese: グルー Gurū) is a minor character who appeared in Destiny Deoxys. He is the referee and announcer of Pokémon battles that are held in the Battle Tower in LaRousse City.\n\nGurū judged the match of and Tory against Rafe and Sid. He also explained the rules of a Tag Battle to the audience.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 354,
+    "sectionCount": 2
+  }
+}

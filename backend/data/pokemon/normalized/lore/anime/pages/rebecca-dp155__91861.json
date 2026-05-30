@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Rebecca (DP155)",
+    "slug": "rebecca-dp155",
+    "pageId": 91861,
+    "revisionId": 4288133
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "rebecca-dp155__91861.json",
+    "revisionTimestamp": "2025-04-26T23:19:44Z",
+    "fetchedAt": "2026-05-14T14:45:48.500Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Rebecca (Japanese: レベッカ Rebecca) is a character of the day who appeared in Double-Time Battle Training!.\n\nRebecca is a Pokémon Coordinator who competed in the Brussel Town Pokémon Contest with her . She made it all the way to the final round, but lost against Zoey and her .\n\nThis win against Rebecca gave Zoey her fifth and final Ribbon, which qualified her to compete in the Sinnoh Grand Festival.",
+  "plainText": "Rebecca (Japanese: レベッカ Rebecca) is a character of the day who appeared in Double-Time Battle Training!.\n\nRebecca is a Pokémon Coordinator who competed in the Brussel Town Pokémon Contest with her . She made it all the way to the final round, but lost against Zoey and her .\n\nThis win against Rebecca gave Zoey her fifth and final Ribbon, which qualified her to compete in the Sinnoh Grand Festival.\n\n==Pokémon==\nThis listing is of Rebecca's known in :\n \n\n==Contests==\nRebecca has competed in the following Pokémon Contests:\nContest - Runner-Up (Double-Time Battle Training!)\n\n==Voice actors==\n \n \n \n\n \n \n \n \n\nes:Rebecca (Sinnoh)\nfr:Lola (Sinnoh)\nit:Rebecca (DP155)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Rebecca (Japanese: レベッカ Rebecca) is a character of the day who appeared in Double-Time Battle Training!.\n\nRebecca is a Pokémon Coordinator who competed in the Brussel Town Pokémon Contest with her . She made it all the way to the final round, but lost against Zoey and her .\n\nThis win against Rebecca gave Zoey her fifth and final Ribbon, which qualified her to compete in the Sinnoh Grand Festival."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Rebecca's known in :"
+    },
+    {
+      "heading": "Contests",
+      "level": 2,
+      "text": "Rebecca has competed in the following Pokémon Contests:\nContest - Runner-Up (Double-Time Battle Training!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Rebecca (Sinnoh)\nfr:Lola (Sinnoh)\nit:Rebecca (DP155)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rebecca (DP155)",
+    "pageType": "character",
+    "searchableText": "Rebecca (DP155)\nCategory:Sinnoh characters of the day\nRebecca (Japanese: レベッカ Rebecca) is a character of the day who appeared in Double-Time Battle Training!.\n\nRebecca is a Pokémon Coordinator who competed in the Brussel Town Pokémon Contest with her . She made it all the way to the final round, but lost against Zoey and her .\n\nThis win against Rebecca gave Zoey her fifth and final Ribbon, which qualified her to compete in the Sinnoh Grand Festival.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Contests",
+      "Voice actors"
+    ],
+    "characterCount": 665,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMRS21",
+    "slug": "pmrs21",
+    "pageId": 171066,
+    "revisionId": 4264625
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs21__171066.json",
+    "revisionTimestamp": "2025-03-23T18:29:03Z",
+    "fetchedAt": "2026-05-14T15:33:20.944Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Christmas Night Is Battle Night! (Japanese: 聖なる夜はバトルの予感！？ A Holy Night is a Premonition of Battle!?) is the twenty-first chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Christmas Night Is Battle Night! (Japanese: 聖なる夜はバトルの予感！？ A Holy Night is a Premonition of Battle!?) is the twenty-first chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\nWattson's Electrike\n\n==Characters==\n===Humans===\n\nWattson\n\n===Pokémon===\n( )\n( )\n( )\n( )\n\n \n\n \n \n\nit:PMRS21",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Christmas Night Is Battle Night! (Japanese: 聖なる夜はバトルの予感！？ A Holy Night is a Premonition of Battle!?) is the twenty-first chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "Wattson's Electrike"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Wattson"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n\n \n\n \n \n\nit:PMRS21"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS21",
+    "pageType": "chapter",
+    "searchableText": "PMRS21\nCategory:Pokémon Ruby-Sapphire chapters\nChristmas Night Is Battle Night! (Japanese: 聖なる夜はバトルの予感！？ A Holy Night is a Premonition of Battle!?) is the twenty-first chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 340,
+    "sectionCount": 4
+  }
+}

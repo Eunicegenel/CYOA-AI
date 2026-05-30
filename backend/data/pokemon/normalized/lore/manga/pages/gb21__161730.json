@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GB21",
+    "slug": "gb21",
+    "pageId": 161730,
+    "revisionId": 4528251
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys chapters",
+    "sourceFileName": "gb21__161730.json",
+    "revisionTimestamp": "2026-04-09T16:11:15Z",
+    "fetchedAt": "2026-05-14T15:19:19.734Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Secret of the Fighting Type Pokémon (Japanese: かくとうポケモンの極意 The Secret of the Fighting Pokémon) is the twenty first chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+  "plainText": "The Secret of the Fighting Type Pokémon (Japanese: かくとうポケモンの極意 The Secret of the Fighting Pokémon) is the twenty first chapter of the Pokémon Gold & Silver: The Golden Boys manga.\n\n==Plot==\n \nHaving arrived in Cianwood City, Gold and Chris part ways with Lugia. Gold wonders were the pharmacy is. Gold's Tyrogue uses to keep a Pokémon from rolling. Chuck praises Gold and does the rest of the job. Chuck's Poliwrath gets hurt when the Pokémon's owner rolls on top of it and Chuck. Chuck brings out a SecretPotion. Gold and Chris are enthusiastic and tell him why they came but he explains that the pharmacy was closed. Gold acts as a Gym Leader. Black later comes to challenge. His Xatu gang up on Gold Tyrogue and use Peck. However, Gold manages to win: Black calls his Xatu \"weakling\" and swears not to lose next time. Eusine suddenly appears and says Gold's Pikachu is his from the future.\n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nChuck\nEusine\n\n===Pokémon===\n( )\n( )\n( 's)\n( )\n( 's)\n( )\n( 's)\n(Chuck's)\n(Chuck's)\n\n \n \n \n\nes:GB21\nit:GB21",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Secret of the Fighting Type Pokémon (Japanese: かくとうポケモンの極意 The Secret of the Fighting Pokémon) is the twenty first chapter of the Pokémon Gold & Silver: The Golden Boys manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Having arrived in Cianwood City, Gold and Chris part ways with Lugia. Gold wonders were the pharmacy is. Gold's Tyrogue uses to keep a Pokémon from rolling. Chuck praises Gold and does the rest of the job. Chuck's Poliwrath gets hurt when the Pokémon's owner rolls on top of it and Chuck. Chuck brings out a SecretPotion. Gold and Chris are enthusiastic and tell him why they came but he explains that the pharmacy was closed. Gold acts as a Gym Leader. Black later comes to challenge. His Xatu gang up on Gold Tyrogue and use Peck. However, Gold manages to win: Black calls his Xatu \"weakling\" and swears not to lose next time. Eusine suddenly appears and says Gold's Pikachu is his from the future."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Chuck\nEusine"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( 's)\n( )\n( 's)\n( )\n( 's)\n(Chuck's)\n(Chuck's)\n\n \n \n \n\nes:GB21\nit:GB21"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GB21",
+    "pageType": "chapter",
+    "searchableText": "GB21\nCategory:Pokémon Gold & Silver: The Golden Boys chapters\nThe Secret of the Fighting Type Pokémon (Japanese: かくとうポケモンの極意 The Secret of the Fighting Pokémon) is the twenty first chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1084,
+    "sectionCount": 4
+  }
+}

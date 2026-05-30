@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASM20",
+    "slug": "pasm20",
+    "pageId": 234528,
+    "revisionId": 4549586
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasm20__234528.json",
+    "revisionTimestamp": "2026-05-11T02:06:10Z",
+    "fetchedAt": "2026-05-14T15:28:28.368Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "An Urgent Task and the Capture of an Ultra Beast (Japanese: 急務！！UB捕獲戦！ Urgent!! The Battle to Capture the Ultra Beasts!) is the 20th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "An Urgent Task and the Capture of an Ultra Beast (Japanese: 急務！！UB捕獲戦！ Urgent!! The Battle to Capture the Ultra Beasts!) is the 20th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n==Major events==\nand tell and Anabel about the Ultra Beasts in Alola.\nLooker heads off to gather information about the Ultra Beasts.\nAnabel and Sun battle a that appeared from an Ultra Wormhole and try to catch it, but fail.\nappears and , rescuing everyone from it.\nSun and Moon give Tapu Bulu the Mirage Berry.\nAnabel decides to look for the person who can make Poké Balls capable of capturing Ultra Beasts.\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Kukui\nProfessor Burnet\nKiawe (flashback)\nAnabel\nGuzma (flashback)\nGladion (flashback)\nHau (flashback)\nFaba (fantasy)\n\n===Pokémon===\n(Cent; Alolan form; 's)\n( 's; flashback)\n( 's; flashback)\n(Anabel's)\n(Hau's; flashback)\n(debut)\n(debut)\n\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n\n==In other languages==\n \n\n \n \n \n\nde:Ultrabestie-Fangaktion\nes:PMSSM20\nit:PASM20\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第20话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "An Urgent Task and the Capture of an Ultra Beast (Japanese: 急務！！UB捕獲戦！ Urgent!! The Battle to Capture the Ultra Beasts!) is the 20th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and tell and Anabel about the Ultra Beasts in Alola.\nLooker heads off to gather information about the Ultra Beasts.\nAnabel and Sun battle a that appeared from an Ultra Wormhole and try to catch it, but fail.\nappears and , rescuing everyone from it.\nSun and Moon give Tapu Bulu the Mirage Berry.\nAnabel decides to look for the person who can make Poké Balls capable of capturing Ultra Beasts."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Kukui\nProfessor Burnet\nKiawe (flashback)\nAnabel\nGuzma (flashback)\nGladion (flashback)\nHau (flashback)\nFaba (fantasy)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Cent; Alolan form; 's)\n( 's; flashback)\n( 's; flashback)\n(Anabel's)\n(Hau's; flashback)\n(debut)\n(debut)\n\n(flashback)\n(flashback)\n(flashback)\n(flashback)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Ultrabestie-Fangaktion\nes:PMSSM20\nit:PASM20\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第20话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASM20",
+    "pageType": "chapter",
+    "searchableText": "PASM20\nCategory:Pokémon Adventures chapters\nAn Urgent Task and the Capture of an Ultra Beast (Japanese: 急務！！UB捕獲戦！ Urgent!! The Battle to Capture the Ultra Beasts!) is the 20th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1080,
+    "sectionCount": 5
+  }
+}

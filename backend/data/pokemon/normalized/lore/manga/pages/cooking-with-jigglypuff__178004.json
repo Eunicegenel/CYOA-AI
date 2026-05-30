@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Cooking With Jigglypuff",
+    "slug": "cooking-with-jigglypuff",
+    "pageId": 178004,
+    "revisionId": 4168432
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "cooking-with-jigglypuff__178004.json",
+    "revisionTimestamp": "2024-10-26T16:23:51Z",
+    "fetchedAt": "2026-05-14T15:16:14.526Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Cooking With Jigglypuff is the second monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the third and fourth chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out colour poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Cooking With Jigglypuff is the second monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the third and fourth chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out colour poster which was not part of the regular volume.\n\n==Blurb==\nPOKé-BABIES\n\nHazel decides to pack a picnic for herself and Almond, but the picnic is interrupted by Jigglypuff, who blows itself up to enormous size and causes no end of trouble! What can they do with such a perfectly cute, perfectly spherical Pokémon? \n\nThen, Hazel and her Pokémon friends practice drawing pictures, but Hazel, who can't draw to begin with, is confounded by Tangela.\n\n==Publications==\n \n \n \n\n==Chapters==\nOh, that Cute, Cute Jigglypuff!\nTangela's Secret\n\n==Important events==\nHazel meets .\nHazel meets a wild .\n\n==Trivia==\nThis was the last Magical Pokémon Journey monthly issue to be released in .\n\n \n \n\nit:In cucina con Jigglypuff",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Cooking With Jigglypuff is the second monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the third and fourth chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out colour poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "POKé-BABIES\n\nHazel decides to pack a picnic for herself and Almond, but the picnic is interrupted by Jigglypuff, who blows itself up to enormous size and causes no end of trouble! What can they do with such a perfectly cute, perfectly spherical Pokémon? \n\nThen, Hazel and her Pokémon friends practice drawing pictures, but Hazel, who can't draw to begin with, is confounded by Tangela."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Oh, that Cute, Cute Jigglypuff!\nTangela's Secret"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Hazel meets .\nHazel meets a wild ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This was the last Magical Pokémon Journey monthly issue to be released in .\n\n \n \n\nit:In cucina con Jigglypuff"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Cooking With Jigglypuff",
+    "pageType": "pokemon-related",
+    "searchableText": "Cooking With Jigglypuff\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Cooking With Jigglypuff is the second monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the third and fourth chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out colour poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events",
+      "Trivia"
+    ],
+    "characterCount": 1054,
+    "sectionCount": 5
+  }
+}

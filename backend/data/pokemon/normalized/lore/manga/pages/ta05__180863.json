@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "TA05",
+    "slug": "ta05",
+    "pageId": 180863,
+    "revisionId": 4549454
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta05__180863.json",
+    "revisionTimestamp": "2026-05-11T01:57:04Z",
+    "fetchedAt": "2026-05-14T15:50:35.261Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: エンテイをつかまえろ！ Capture Entei!) is the fifth chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: エンテイをつかまえろ！ Capture Entei!) is the fifth chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\n\n===Pokémon===\n(Nanae; Katsuya's)\n(Soro's; flashback)\n(Soro's)\n(Soro's; newly caught)\n(Kachuna; Toki's)\n(flashback)\n\n==In other languages==\n \n \n\n \n \n \n\nes:PTR05",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: エンテイをつかまえろ！ Capture Entei!) is the fifth chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Nanae; Katsuya's)\n(Soro's; flashback)\n(Soro's)\n(Soro's; newly caught)\n(Kachuna; Toki's)\n(flashback)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:PTR05"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA05",
+    "pageType": "chapter",
+    "searchableText": "TA05\nCategory:Pokémon Try Adventure chapters\n(Japanese: エンテイをつかまえろ！ Capture Entei!) is the fifth chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 371,
+    "sectionCount": 4
+  }
+}

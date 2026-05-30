@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMRS27",
+    "slug": "pmrs27",
+    "pageId": 171071,
+    "revisionId": 4264631
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs27__171071.json",
+    "revisionTimestamp": "2025-03-23T18:29:57Z",
+    "fetchedAt": "2026-05-14T15:33:24.716Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy Transforms?! (Japanese: ピッピ、ついに進化！？ , Finally Evolves!?) is the twenty-seventh chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Clefairy Transforms?! (Japanese: ピッピ、ついに進化！？ , Finally Evolves!?) is the twenty-seventh chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\nis revealed to know .\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nDr. Takeda\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy Transforms?! (Japanese: ピッピ、ついに進化！？ , Finally Evolves!?) is the twenty-seventh chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "is revealed to know ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Dr. Takeda"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS27",
+    "pageType": "chapter",
+    "searchableText": "PMRS27\nCategory:Pokémon Ruby-Sapphire chapters\nClefairy Transforms?! (Japanese: ピッピ、ついに進化！？ , Finally Evolves!?) is the twenty-seventh chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 289,
+    "sectionCount": 4
+  }
+}

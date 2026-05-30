@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Pokémon 4Koma Encyclopedia Gag Stars",
+    "slug": "pokemon-4koma-encyclopedia-gag-stars",
+    "pageId": 220583,
+    "revisionId": 4527913
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-4koma-encyclopedia-gag-stars__220583.json",
+    "revisionTimestamp": "2026-04-09T16:00:10Z",
+    "fetchedAt": "2026-05-14T15:34:45.449Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモン4コマ大百科ギャグスターズ Pokémon 4Koma Encyclopedia Gag Stars) is a Pokémon 4Koma written by Takahiro Yamashita.\n\n \n \n\n \n\n \n\nzh:宝可梦4格大百科搞笑明星",
+  "plainText": "(Japanese: ポケモン4コマ大百科ギャグスターズ Pokémon 4Koma Encyclopedia Gag Stars) is a Pokémon 4Koma written by Takahiro Yamashita.\n\n \n \n\n \n\n \n\nzh:宝可梦4格大百科搞笑明星",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン4コマ大百科ギャグスターズ Pokémon 4Koma Encyclopedia Gag Stars) is a Pokémon 4Koma written by Takahiro Yamashita.\n\n \n \n\n \n\n \n\nzh:宝可梦4格大百科搞笑明星"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon 4Koma Encyclopedia Gag Stars",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon 4Koma Encyclopedia Gag Stars\nCategory:Pokémon 4Koma\n(Japanese: ポケモン4コマ大百科ギャグスターズ Pokémon 4Koma Encyclopedia Gag Stars) is a Pokémon 4Koma written by Takahiro Yamashita.\n\n \n \n\n \n\n \n\nzh:宝可梦4格大百科搞笑明星",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 144,
+    "sectionCount": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Ghost Master",
+    "slug": "ghost-master",
+    "pageId": 225259,
+    "revisionId": 4360641
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ghosts",
+    "sourceFileName": "ghost-master__225259.json",
+    "revisionTimestamp": "2025-08-19T02:10:30Z",
+    "fetchedAt": "2026-05-14T14:20:17.576Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "The Ghost Masters (Japanese: ゴーストマスター Ghost Master) are nine statue-based opponents found in the Sealed Fort, which is located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR!. All Ghost Masters fight a full duel with 6 prize cards. Defeating any of the Ghost Masters gets the player a Present Pack, which can have any of the cards from the game that can normally be found in packs.\n\nThe player is first able to access the Sealed Fort after watching the credits for the second time.",
+  "plainText": "The Ghost Masters (Japanese: ゴーストマスター Ghost Master) are nine statue-based opponents found in the Sealed Fort, which is located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR!. All Ghost Masters fight a full duel with 6 prize cards. Defeating any of the Ghost Masters gets the player a Present Pack, which can have any of the cards from the game that can normally be found in packs.\n\nThe player is first able to access the Sealed Fort after watching the credits for the second time.\n\n \n\n==Related articles==\n \n \n \n\n \n \n\nfr:Maîtres Fantômes\nit:Ghost Master",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Ghost Masters (Japanese: ゴーストマスター Ghost Master) are nine statue-based opponents found in the Sealed Fort, which is located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR!. All Ghost Masters fight a full duel with 6 prize cards. Defeating any of the Ghost Masters gets the player a Present Pack, which can have any of the cards from the game that can normally be found in packs.\n\nThe player is first able to access the Sealed Fort after watching the credits for the second time."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "fr:Maîtres Fantômes\nit:Ghost Master"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ghost Master",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ghost Master\nCategory:Ghosts\nThe Ghost Masters (Japanese: ゴーストマスター Ghost Master) are nine statue-based opponents found in the Sealed Fort, which is located on GR Island in Pokémon Trading Card Game 2: The Invasion of Team GR!. All Ghost Masters fight a full duel with 6 prize cards. Defeating any of the Ghost Masters gets the player a Present Pack, which can have any of the cards from the game that can normally be found in packs.\n\nThe player is first able to access the Sealed Fort after watching the credits for the second time.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 576,
+    "sectionCount": 2
+  }
+}

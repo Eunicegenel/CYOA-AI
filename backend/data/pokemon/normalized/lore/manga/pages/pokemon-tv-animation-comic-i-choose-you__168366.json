@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon TV Animation Comic - I Choose You!",
+    "slug": "pokemon-tv-animation-comic-i-choose-you",
+    "pageId": 168366,
+    "revisionId": 4208752
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ani-Manga",
+    "sourceFileName": "pokemon-tv-animation-comic-i-choose-you__168366.json",
+    "revisionTimestamp": "2024-12-22T19:17:53Z",
+    "fetchedAt": "2026-05-14T15:38:15.090Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon TV Animation Comic - I Choose You! is a comic book published as a collaboration between VIZ Media and Nintendo Power. It is a bound collection of all of the \" \" Ani-Manga comics that appeared in Nintendo Power magazine, which in turn are translations of the Pocket Monsters Film Comics created in Japan.\n\nPokémon TV Animation Comic - I Choose You! contains adaptations of Pokémon - I Choose You! through Clefairy and the Moon Stone, as well as character biographies and Pokédex entries for some of the Pokémon that appeared in those stories.",
+  "plainText": "Pokémon TV Animation Comic - I Choose You! is a comic book published as a collaboration between VIZ Media and Nintendo Power. It is a bound collection of all of the \" \" Ani-Manga comics that appeared in Nintendo Power magazine, which in turn are translations of the Pocket Monsters Film Comics created in Japan.\n\nPokémon TV Animation Comic - I Choose You! contains adaptations of Pokémon - I Choose You! through Clefairy and the Moon Stone, as well as character biographies and Pokédex entries for some of the Pokémon that appeared in those stories.\n\n==Publications==\n \n \n\n==Episodes included==\nI Choose You!\nPokémon Emergency\nAsh Catches a Pokémon\nChallenge of the Samurai!\nShowdown in Pewter City\nClefairy and the Moon Stone\n\n \n \n\n \n\nit:Pokémon TV Animation Comic - I Choose You!",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon TV Animation Comic - I Choose You! is a comic book published as a collaboration between VIZ Media and Nintendo Power. It is a bound collection of all of the \" \" Ani-Manga comics that appeared in Nintendo Power magazine, which in turn are translations of the Pocket Monsters Film Comics created in Japan.\n\nPokémon TV Animation Comic - I Choose You! contains adaptations of Pokémon - I Choose You! through Clefairy and the Moon Stone, as well as character biographies and Pokédex entries for some of the Pokémon that appeared in those stories."
+    },
+    {
+      "heading": "Episodes included",
+      "level": 2,
+      "text": "I Choose You!\nPokémon Emergency\nAsh Catches a Pokémon\nChallenge of the Samurai!\nShowdown in Pewter City\nClefairy and the Moon Stone\n\n \n \n\n \n\nit:Pokémon TV Animation Comic - I Choose You!"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon TV Animation Comic - I Choose You!",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon TV Animation Comic - I Choose You!\nCategory:Ani-Manga\nPokémon TV Animation Comic - I Choose You! is a comic book published as a collaboration between VIZ Media and Nintendo Power. It is a bound collection of all of the \" \" Ani-Manga comics that appeared in Nintendo Power magazine, which in turn are translations of the Pocket Monsters Film Comics created in Japan.\n\nPokémon TV Animation Comic - I Choose You! contains adaptations of Pokémon - I Choose You! through Clefairy and the Moon Stone, as well as character biographies and Pokédex entries for some of the Pokémon that appeared in those stories.",
+    "sectionHeadings": [
+      "Lead",
+      "Episodes included"
+    ],
+    "characterCount": 781,
+    "sectionCount": 2
+  }
+}

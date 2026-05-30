@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Clefairy's Blue Period",
+    "slug": "clefairys-blue-period",
+    "pageId": 202818,
+    "revisionId": 4130944
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "clefairys-blue-period__202818.json",
+    "revisionTimestamp": "2024-09-29T03:56:15Z",
+    "fetchedAt": "2026-05-14T15:16:02.820Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Clefairy's Blue Period is the twenty-seventh monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the ??? chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Clefairy's Blue Period is the twenty-seventh monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the ??? chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n\n==Publications==\n \n \n\n==Chapters==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Clefairy's Blue Period is the twenty-seventh monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the ??? chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Clefairy's Blue Period",
+    "pageType": "pokemon-related",
+    "searchableText": "Clefairy's Blue Period\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Clefairy's Blue Period is the twenty-seventh monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the ??? chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 442,
+    "sectionCount": 1
+  }
+}

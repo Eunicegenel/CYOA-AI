@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM029",
+    "slug": "pm029",
+    "pageId": 159879,
+    "revisionId": 4526358
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm029__159879.json",
+    "revisionTimestamp": "2026-04-09T14:39:13Z",
+    "fetchedAt": "2026-05-14T15:30:47.621Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Thrill of a Perfect Score, Big Rampage at the Amusement Park! (Japanese: スリル満点、遊園地で大暴れ！！ The Thrill of a Perfect Score, Big Rampage at the Amusement Park!) is the twenty-ninth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Thrill of a Perfect Score, Big Rampage at the Amusement Park! (Japanese: スリル満点、遊園地で大暴れ！！ The Thrill of a Perfect Score, Big Rampage at the Amusement Park!) is the twenty-ninth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\ns\n\n===Pokémon===\n( ) \n( )\n( 's; evolves)\n( 's; newly evolved)\n( 's)\n\n==Trivia==\n\n \n \n \n\nde:Kapitel 29 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Thrill of a Perfect Score, Big Rampage at the Amusement Park! (Japanese: スリル満点、遊園地で大暴れ！！ The Thrill of a Perfect Score, Big Rampage at the Amusement Park!) is the twenty-ninth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "s"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( 's; evolves)\n( 's; newly evolved)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 29 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM029",
+    "pageType": "chapter",
+    "searchableText": "PM029\nCategory:Pokémon Pocket Monsters chapters\nThe Thrill of a Perfect Score, Big Rampage at the Amusement Park! (Japanese: スリル満点、遊園地で大暴れ！！ The Thrill of a Perfect Score, Big Rampage at the Amusement Park!) is the twenty-ninth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 451,
+    "sectionCount": 4
+  }
+}

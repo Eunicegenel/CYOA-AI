@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Trainer (EP248)",
+    "slug": "trainer-ep248",
+    "pageId": 79855,
+    "revisionId": 4306324
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "trainer-ep248__79855.json",
+    "revisionTimestamp": "2025-05-17T17:30:31Z",
+    "fetchedAt": "2026-05-14T14:55:21.900Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "This female Trainer is a character of the day who appeared in One Trick Phony!.\n\nShe battled with her , nicknamed Josephine. However, she forfeited the battle after Josephine was knocked to the ground by 's . The Trainer let Josephine rest after the \"intense battle\", and recommended that Ash and visit the to practice against more Pokémon and Trainers.",
+  "plainText": "This female Trainer is a character of the day who appeared in One Trick Phony!.\n\nShe battled with her , nicknamed Josephine. However, she forfeited the battle after Josephine was knocked to the ground by 's . The Trainer let Josephine rest after the \"intense battle\", and recommended that Ash and visit the to practice against more Pokémon and Trainers.\n \n==Pokémon==\n \n\n==Voice actors==\n \n \n \n\n \n \n \n\nit:Allenatrice (OA132)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This female Trainer is a character of the day who appeared in One Trick Phony!.\n\nShe battled with her , nicknamed Josephine. However, she forfeited the battle after Josephine was knocked to the ground by 's . The Trainer let Josephine rest after the \"intense battle\", and recommended that Ash and visit the to practice against more Pokémon and Trainers."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Allenatrice (OA132)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Trainer (EP248)",
+    "pageType": "character",
+    "searchableText": "Trainer (EP248)\nCategory:Johto characters of the day\nThis female Trainer is a character of the day who appeared in One Trick Phony!.\n\nShe battled with her , nicknamed Josephine. However, she forfeited the battle after Josephine was knocked to the ground by 's . The Trainer let Josephine rest after the \"intense battle\", and recommended that Ash and visit the to practice against more Pokémon and Trainers.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 424,
+    "sectionCount": 2
+  }
+}

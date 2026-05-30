@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Lisa Adams",
+    "slug": "lisa-adams",
+    "pageId": 21063,
+    "revisionId": 4550460
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "lisa-adams__21063.json",
+    "revisionTimestamp": "2026-05-12T07:22:08Z",
+    "fetchedAt": "2026-05-14T14:31:22.993Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Lisa Adams is an American voice actress who was one of the original voice actresses for the English-language dub of . She is currently affiliated with DDO Artists Agency.",
+  "plainText": "Lisa Adams is an American voice actress who was one of the original voice actresses for the English-language dub of . She is currently affiliated with DDO Artists Agency.\n\n==Biography==\nAdams was born in Joplin, Missouri, and became a voice actress as an adult. She joined during season six, and remained in the cast until its dubbing production was taken over by and TAJ Productions. Adams returned to the cast in The Power of Us, where she voiced Townes.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Major=====\nVivian Meridian (AG035-AG123)\nLilian Meridian (AG143-AG144)\n\nLisa Mitchum\n\n=====Minor=====\nVivi Winstrate\n\n====I Choose You! trilogy====\nTownes\n\n==Other non-Pokémon roles==\n===Animated dubbing roles===\nMedium Rare ( )\nStella ( ; 4Kids dub, episode 54 only)\nSweet ( )\nPip ( )\n\n===Live-action dubbing roles===\nChikoo ( )\n\n==External links==\nVoice123 profile\nOfficial website\nFacebook\nTwitter\nInstagram\n\n \n \n \n\nit:Lisa Adams",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lisa Adams is an American voice actress who was one of the original voice actresses for the English-language dub of . She is currently affiliated with DDO Artists Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Adams was born in Joplin, Missouri, and became a voice actress as an adult. She joined during season six, and remained in the cast until its dubbing production was taken over by and TAJ Productions. Adams returned to the cast in The Power of Us, where she voiced Townes."
+    },
+    {
+      "heading": "Major",
+      "level": 5,
+      "text": "Vivian Meridian (AG035-AG123)\nLilian Meridian (AG143-AG144)\n\nLisa Mitchum"
+    },
+    {
+      "heading": "Minor",
+      "level": 5,
+      "text": "Vivi Winstrate"
+    },
+    {
+      "heading": "I Choose You! trilogy",
+      "level": 4,
+      "text": "Townes"
+    },
+    {
+      "heading": "Animated dubbing roles",
+      "level": 3,
+      "text": "Medium Rare ( )\nStella ( ; 4Kids dub, episode 54 only)\nSweet ( )\nPip ( )"
+    },
+    {
+      "heading": "Live-action dubbing roles",
+      "level": 3,
+      "text": "Chikoo ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Voice123 profile\nOfficial website\nFacebook\nTwitter\nInstagram\n\n \n \n \n\nit:Lisa Adams"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lisa Adams",
+    "pageType": "general-anime-lore",
+    "searchableText": "Lisa Adams\nCategory:TPCi voice actors\nLisa Adams is an American voice actress who was one of the original voice actresses for the English-language dub of . She is currently affiliated with DDO Artists Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "I Choose You! trilogy",
+      "Animated dubbing roles",
+      "Live-action dubbing roles",
+      "External links"
+    ],
+    "characterCount": 939,
+    "sectionCount": 8
+  }
+}

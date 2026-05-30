@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Bloom Canyon",
+    "slug": "bloom-canyon",
+    "pageId": 247213,
+    "revisionId": 4261126
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "bloom-canyon__247213.json",
+    "revisionTimestamp": "2025-03-19T21:50:29Z",
+    "fetchedAt": "2026-05-14T14:05:32.393Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Bloom Canyon is an -exclusive location that was featured in Those Darn Electabuzz!. It was unnamed in the Japanese version.\n\nBloom Canyon is part of a mountainous area, with unpredictable conditions including whirlpools and strong winds. Star baseballer Corey Demario often trains in the area with his nicknamed Don. Corey and his family also operate a ranch nearby.\n\n \n \n\n \n\nes:Bloom Canyon\nit:Bloom Canyon",
+  "plainText": "Bloom Canyon is an -exclusive location that was featured in Those Darn Electabuzz!. It was unnamed in the Japanese version.\n\nBloom Canyon is part of a mountainous area, with unpredictable conditions including whirlpools and strong winds. Star baseballer Corey Demario often trains in the area with his nicknamed Don. Corey and his family also operate a ranch nearby.\n\n \n \n\n \n\nes:Bloom Canyon\nit:Bloom Canyon",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bloom Canyon is an -exclusive location that was featured in Those Darn Electabuzz!. It was unnamed in the Japanese version.\n\nBloom Canyon is part of a mountainous area, with unpredictable conditions including whirlpools and strong winds. Star baseballer Corey Demario often trains in the area with his nicknamed Don. Corey and his family also operate a ranch nearby.\n\n \n \n\n \n\nes:Bloom Canyon\nit:Bloom Canyon"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bloom Canyon",
+    "pageType": "location",
+    "searchableText": "Bloom Canyon\nCategory:Animated series-exclusive locations\nBloom Canyon is an -exclusive location that was featured in Those Darn Electabuzz!. It was unnamed in the Japanese version.\n\nBloom Canyon is part of a mountainous area, with unpredictable conditions including whirlpools and strong winds. Star baseballer Corey Demario often trains in the area with his nicknamed Don. Corey and his family also operate a ranch nearby.\n\n \n \n\n \n\nes:Bloom Canyon\nit:Bloom Canyon",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 407,
+    "sectionCount": 1
+  }
+}

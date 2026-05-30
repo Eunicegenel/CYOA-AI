@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Kenton",
+    "slug": "kenton",
+    "pageId": 166033,
+    "revisionId": 4357180
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:League Conference participants",
+    "sourceFileName": "kenton__166033.json",
+    "revisionTimestamp": "2025-08-12T14:49:08Z",
+    "fetchedAt": "2026-05-14T14:29:16.819Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kenton (Japanese: ケンタ Kenta) is a minor recurring character of .",
+  "plainText": "Kenton (Japanese: ケンタ Kenta) is a minor recurring character of .\n\n==History==\nKenton debuted in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup and was Manning's first opponent. However, he was defeated by him and eliminated from the tournament. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.\n\nIn Curtain Up, Unova League!, Kenton competed in the Vertress Conference. In Mission: Defeat Your Rival!, he appeared on the screen showing the match-ups for the second round of the Conference, meaning that he had made it through the first round. In Lost at the League!, he appeared once again on the screen of the Vertress Conference, now showing the match-ups for the last sixteen, meaning he had made it through the second and third rounds. In the fourth round, he battled and used his to battle Cameron's . Cameron won and Kenton was eliminated from the tournament, placing him in the Top 16. In A Unova League Evolution!, he appeared once again during the closing ceremonies of the Vertress Conference.\n\n==Pokémon==\n \n \n\n \n\nKenton has at least one other Pokémon, as he participated in the third round of the Vertress Conference which is a 3 on 3 battle.\n\n==Achievements==\n===Badges obtained===\nThis listing is of the Badges Kenton has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)\n\n===Pokémon League===\nKenton has competed in the following Pokémon League Conferences:\nVertress Conference - Top 16 (Strong Strategy Steals the Show!)\n\n===Pokémon competitions===\nKenton has competed in the following :\nPokémon World Tournament Junior Cup - Top 16 (Jostling for the Junior Cup!)\n\n==Voice actors==\n \n\n==Trivia==\nThe pattern on Kenton's hat resembles Golett.\n\n==Related articles==\n \n \n\n \n \n\nes:Kenton\nfr:Axel\nit:Kenton\nzh:健太（合众）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kenton (Japanese: ケンタ Kenta) is a minor recurring character of ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Kenton debuted in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup and was Manning's first opponent. However, he was defeated by him and eliminated from the tournament. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.\n\nIn Curtain Up, Unova League!, Kenton competed in the Vertress Conference. In Mission: Defeat Your Rival!, he appeared on the screen showing the match-ups for the second round of the Conference, meaning that he had made it through the first round. In Lost at the League!, he appeared once again on the screen of the Vertress Conference, now showing the match-ups for the last sixteen, meaning he had made it through the second and third rounds. In the fourth round, he battled and used his to battle Cameron's . Cameron won and Kenton was eliminated from the tournament, placing him in the Top 16. In A Unova League Evolution!, he appeared once again during the closing ceremonies of the Vertress Conference."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "Kenton has at least one other Pokémon, as he participated in the third round of the Vertress Conference which is a 3 on 3 battle."
+    },
+    {
+      "heading": "Badges obtained",
+      "level": 3,
+      "text": "This listing is of the Badges Kenton has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)"
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Kenton has competed in the following Pokémon League Conferences:\nVertress Conference - Top 16 (Strong Strategy Steals the Show!)"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 3,
+      "text": "Kenton has competed in the following :\nPokémon World Tournament Junior Cup - Top 16 (Jostling for the Junior Cup!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The pattern on Kenton's hat resembles Golett."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Kenton\nfr:Axel\nit:Kenton\nzh:健太（合众）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kenton",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kenton\nCategory:League Conference participants\nKenton (Japanese: ケンタ Kenta) is a minor recurring character of .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Badges obtained",
+      "Pokémon League",
+      "Pokémon competitions",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1941,
+    "sectionCount": 8
+  }
+}

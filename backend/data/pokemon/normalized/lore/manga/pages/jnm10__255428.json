@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "JNM10",
+    "slug": "jnm10",
+    "pageId": 255428,
+    "revisionId": 4528431
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm10__255428.json",
+    "revisionTimestamp": "2026-04-09T16:20:09Z",
+    "fetchedAt": "2026-05-14T15:22:46.474Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Toughing It Out! (Japanese: 英雄伝説！ダンデ最強バトル！！ Legends of Heroes! 's Greatest Battle!!) is the 10th chapter of the manga. It is based on the animated series episode by the same name.",
+  "plainText": "Toughing It Out! (Japanese: 英雄伝説！ダンデ最強バトル！！ Legends of Heroes! 's Greatest Battle!!) is the 10th chapter of the manga. It is based on the animated series episode by the same name.\n\n==Plot==\n \n\n==Major events==\nis revealed to have defeated in a World Coronation Series battle.\nhas a World Coronation Series with Raihan and wins.\n\n===Debuts===\n====Humans====\nRose\n\n====Pokémon debuts====\n(Gigantamax)\n\n==Characters==\n===Humans===\n\nGoh\nProfessor Cerise (flashback)\nVisquez (flashback)\n(flashback)\n\nRaihan\nRose\nDan\n\n===Pokémon===\n( )\n( ; flashback)\n( )\n( )\n(Professor Cerise's; Rotom Phone)\n( ; Mega Lucario; flashback)\n( ; Gigantamax)\n(Raihan's; Gigantamax; debut)\n(Visquez's; flashback)\n(Drone Rotom)\n\n==Differences between the animated series and the manga==\nGoh does not bring his to watch the between and Raihan.\nThe scenes where and Goh encounter Sonia and the are omitted. \n\n \n \n \n\nde:Hart im Nehmen! (Pokémon Reisen)\nes:PV010\nit:JNM10",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Toughing It Out! (Japanese: 英雄伝説！ダンデ最強バトル！！ Legends of Heroes! 's Greatest Battle!!) is the 10th chapter of the manga. It is based on the animated series episode by the same name."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "is revealed to have defeated in a World Coronation Series battle.\nhas a World Coronation Series with Raihan and wins."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Rose"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Gigantamax)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nProfessor Cerise (flashback)\nVisquez (flashback)\n(flashback)\n\nRaihan\nRose\nDan"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( ; flashback)\n( )\n( )\n(Professor Cerise's; Rotom Phone)\n( ; Mega Lucario; flashback)\n( ; Gigantamax)\n(Raihan's; Gigantamax; debut)\n(Visquez's; flashback)\n(Drone Rotom)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "Goh does not bring his to watch the between and Raihan.\nThe scenes where and Goh encounter Sonia and the are omitted. \n\n \n \n \n\nde:Hart im Nehmen! (Pokémon Reisen)\nes:PV010\nit:JNM10"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM10",
+    "pageType": "chapter",
+    "searchableText": "JNM10\nCategory:Pokémon Journeys chapters\nToughing It Out! (Japanese: 英雄伝説！ダンデ最強バトル！！ Legends of Heroes! 's Greatest Battle!!) is the 10th chapter of the manga. It is based on the animated series episode by the same name.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 938,
+    "sectionCount": 7
+  }
+}

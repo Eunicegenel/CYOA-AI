@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Len (JNS05)",
+    "slug": "len-jns05",
+    "pageId": 279325,
+    "revisionId": 4520041
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "len-jns05__279325.json",
+    "revisionTimestamp": "2026-03-30T19:06:19Z",
+    "fetchedAt": "2026-05-14T14:30:50.987Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Len (Japanese: レン Ren) is a character of the day who appeared in Distant Blue Sky!.\n\nLen was first seen swimming in a lake where he was chased by a . Len bumped into who was also swimming in the lake and was able to get out of the water. Len watched as Ash battled and attempted to catch the Gyarados, only for the Gyarados to flee.\n\nAfter this, Len had a battle against Ash, using his to battle against , only to be defeated.",
+  "plainText": "Len (Japanese: レン Ren) is a character of the day who appeared in Distant Blue Sky!.\n\nLen was first seen swimming in a lake where he was chased by a . Len bumped into who was also swimming in the lake and was able to get out of the water. Len watched as Ash battled and attempted to catch the Gyarados, only for the Gyarados to flee.\n\nAfter this, Len had a battle against Ash, using his to battle against , only to be defeated.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n \n \n\n \n \n \n\nes:Len (EE20)\nfr:Len\nit:Len (EPS01)\nja:レン (遥かなる青い空)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Len (Japanese: レン Ren) is a character of the day who appeared in Distant Blue Sky!.\n\nLen was first seen swimming in a lake where he was chased by a . Len bumped into who was also swimming in the lake and was able to get out of the water. Len watched as Ash battled and attempted to catch the Gyarados, only for the Gyarados to flee.\n\nAfter this, Len had a battle against Ash, using his to battle against , only to be defeated."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Len (EE20)\nfr:Len\nit:Len (EPS01)\nja:レン (遥かなる青い空)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Len (JNS05)",
+    "pageType": "character",
+    "searchableText": "Len (JNS05)\nCategory:Journeys characters of the day\nLen (Japanese: レン Ren) is a character of the day who appeared in Distant Blue Sky!.\n\nLen was first seen swimming in a lake where he was chased by a . Len bumped into who was also swimming in the lake and was able to get out of the water. Len watched as Ash battled and attempted to catch the Gyarados, only for the Gyarados to flee.\n\nAfter this, Len had a battle against Ash, using his to battle against , only to be defeated.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 526,
+    "sectionCount": 2
+  }
+}

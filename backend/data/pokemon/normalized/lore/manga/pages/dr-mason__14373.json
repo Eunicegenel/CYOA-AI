@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Dr. Mason",
+    "slug": "dr-mason",
+    "pageId": 14373,
+    "revisionId": 4116912
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Card GB The Comix characters",
+    "sourceFileName": "dr-mason__14373.json",
+    "revisionTimestamp": "2024-09-20T03:32:17Z",
+    "fetchedAt": "2026-05-14T15:17:36.894Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Dr. Mason (Japanese: Ｄｒ．オーヤマ Dr. Ōyama) is a Pokémon card researcher. He resides in Mason Laboratory, where he teaches people how to play the Pokémon Trading Card Game and coaches practice duels. He was named and modeled after Pokémon Trading Card Game creator Kouichi Ooyama.",
+  "plainText": "Dr. Mason (Japanese: Ｄｒ．オーヤマ Dr. Ōyama) is a Pokémon card researcher. He resides in Mason Laboratory, where he teaches people how to play the Pokémon Trading Card Game and coaches practice duels. He was named and modeled after Pokémon Trading Card Game creator Kouichi Ooyama.\n\n==In the games==\n===Pokémon Trading Card Game===\nIn , Dr. Mason leads the player through a practice duel against and afterwards gives the player a choice of three decks to start off with. They are the , , and . He also gives the player 30 additional cards, which are decided by which deck the player picked.\n\nThrough the course of the game, Dr. Mason sends 15 Mails that can be accessed on the PC. 12 of which are about each of the Club Masters and later the Grand Masters, with advice to defeat them; and 3 of which contain more hints about other matters. All Mails come with one or more .\n\n===Pokémon Trading Card Game 2: The Invasion of Team GR!===\nIn Pokémon Trading Card Game 2: The Invasion of Team GR!, he gives the player the as their first deck. In both games, he builds a Challenge Machine for card duels after the player finishes the game.\n\n==Gallery==\n===Artwork===\n \n\n===Sprites===\n \n\n==Quotes==\n \n\n==In the manga==\n===Pokémon Card GB The Comix===\n ]]\nDr. Mason appears in a supporting role in Pokémon Card GB The Comix, a one-shot manga based on the video game of the same name. In Pokémon Card GB The Comix, Dr. Mason provides advice and explains the rules of the Pokémon Trading Card Game to as he duels .\n \n==Names==\n \n\n==References==\n \n\n==Related articles==\n \n \n\n \n \n \n \n \n\nde:Doktor Mason\nes:Doctor Mayo\nfr:Dr Mason\nit:Dr. Mason\nja:Dr.オーヤマ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Dr. Mason (Japanese: Ｄｒ．オーヤマ Dr. Ōyama) is a Pokémon card researcher. He resides in Mason Laboratory, where he teaches people how to play the Pokémon Trading Card Game and coaches practice duels. He was named and modeled after Pokémon Trading Card Game creator Kouichi Ooyama."
+    },
+    {
+      "heading": "Pokémon Trading Card Game",
+      "level": 3,
+      "text": "In , Dr. Mason leads the player through a practice duel against and afterwards gives the player a choice of three decks to start off with. They are the , , and . He also gives the player 30 additional cards, which are decided by which deck the player picked.\n\nThrough the course of the game, Dr. Mason sends 15 Mails that can be accessed on the PC. 12 of which are about each of the Club Masters and later the Grand Masters, with advice to defeat them; and 3 of which contain more hints about other matters. All Mails come with one or more ."
+    },
+    {
+      "heading": "Pokémon Trading Card Game 2: The Invasion of Team GR!",
+      "level": 3,
+      "text": "In Pokémon Trading Card Game 2: The Invasion of Team GR!, he gives the player the as their first deck. In both games, he builds a Challenge Machine for card duels after the player finishes the game."
+    },
+    {
+      "heading": "Pokémon Card GB The Comix",
+      "level": 3,
+      "text": "]]\nDr. Mason appears in a supporting role in Pokémon Card GB The Comix, a one-shot manga based on the video game of the same name. In Pokémon Card GB The Comix, Dr. Mason provides advice and explains the rules of the Pokémon Trading Card Game to as he duels ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Doktor Mason\nes:Doctor Mayo\nfr:Dr Mason\nit:Dr. Mason\nja:Dr.オーヤマ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dr. Mason",
+    "pageType": "character",
+    "searchableText": "Dr. Mason\nCategory:Pokémon Card GB The Comix characters\nDr. Mason (Japanese: Ｄｒ．オーヤマ Dr. Ōyama) is a Pokémon card researcher. He resides in Mason Laboratory, where he teaches people how to play the Pokémon Trading Card Game and coaches practice duels. He was named and modeled after Pokémon Trading Card Game creator Kouichi Ooyama.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon Trading Card Game",
+      "Pokémon Trading Card Game 2: The Invasion of Team GR!",
+      "Pokémon Card GB The Comix",
+      "Related articles"
+    ],
+    "characterCount": 1636,
+    "sectionCount": 5
+  }
+}

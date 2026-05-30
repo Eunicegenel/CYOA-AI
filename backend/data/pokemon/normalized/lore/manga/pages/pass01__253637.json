@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASS01",
+    "slug": "pass01",
+    "pageId": 253637,
+    "revisionId": 4527853
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass01__253637.json",
+    "revisionTimestamp": "2026-04-09T15:56:07Z",
+    "fetchedAt": "2026-05-14T15:28:39.973Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Wow!! That's One Big Pokémon (Japanese: ドキドキ！！でっかいポケモン Pulse-pounding!! The Huge Pokémon) is the first chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Wow!! That's One Big Pokémon (Japanese: ドキドキ！！でっかいポケモン Pulse-pounding!! The Huge Pokémon) is the first chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nMarvin arrives in the Galar region and meets , , and Professor Magnolia.\nMarvin learns about Dynamaxing.\n\n \n \n\n===Debuts===\n====Humans====\n\nProfessor Magnolia\nMarvin\n\n====Pokémon debuts====\n(Henry's)\n(Henry's)\n(Casey's)\n\n(Galarian Form)\n\n==Characters==\n===Humans===\nHenry\nCasey\nProfessor Magnolia\nMarvin\n\n===Pokémon===\n( ; debut)\n( ; debut)\n( ; debut)\n(later Marvin's; debut)\n(Galarian Form; debut)\n(Dynamax; hologram)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n\n \n\n \n \n \n\nde:Das riesige Pokémon\nes:PMSSwSh01\nfr:Chapitre 1 (Pocket Monsters Special Épée et Bouclier)\nit:PASS01\nzh:宝可梦特别篇 剑·盾篇 第1话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Wow!! That's One Big Pokémon (Japanese: ドキドキ！！でっかいポケモン Pulse-pounding!! The Huge Pokémon) is the first chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Marvin arrives in the Galar region and meets , , and Professor Magnolia.\nMarvin learns about Dynamaxing."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Professor Magnolia\nMarvin"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Henry's)\n(Henry's)\n(Casey's)\n\n(Galarian Form)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nProfessor Magnolia\nMarvin"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; debut)\n( ; debut)\n( ; debut)\n(later Marvin's; debut)\n(Galarian Form; debut)\n(Dynamax; hologram)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n\n \n\n \n \n \n\nde:Das riesige Pokémon\nes:PMSSwSh01\nfr:Chapitre 1 (Pocket Monsters Special Épée et Bouclier)\nit:PASS01\nzh:宝可梦特别篇 剑·盾篇 第1话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS01",
+    "pageType": "chapter",
+    "searchableText": "PASS01\nCategory:Pokémon Adventures chapters\nWow!! That's One Big Pokémon (Japanese: ドキドキ！！でっかいポケモン Pulse-pounding!! The Huge Pokémon) is the first chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 784,
+    "sectionCount": 6
+  }
+}

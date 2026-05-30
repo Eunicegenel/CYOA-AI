@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Mother and daughter (Path to the Peak)",
+    "slug": "mother-and-daughter-path-to-the-peak",
+    "pageId": 295066,
+    "revisionId": 4246672
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Path to the Peak characters",
+    "sourceFileName": "mother-and-daughter-path-to-the-peak__295066.json",
+    "revisionTimestamp": "2025-02-23T21:31:15Z",
+    "fetchedAt": "2026-05-14T14:38:08.061Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "This mother and her daughter are minor characters in Pokémon: Path to the Peak.",
+  "plainText": "This mother and her daughter are minor characters in Pokémon: Path to the Peak.\n\n==History==\nIn Internationals, they were first seen when they met Ava at the hotel the night before the championships started. According to the mother, her daughter watched Ava's videos numerous times and became a huge fan of Ava. When Ava was trying to rebuild her deck with the help of Joshua and Celestine, the daughter decided to deliver the last missing card to complete the deck, a .\n\nThey were seen again watching the finals of the international championship, when Ava lost, the daughter began to cry for her idol's defeat.\n\nIn Worlds, the daughter was seen watching Ava's rematch with Edgar Troy, when Ava became Champion, she was seen celebrating her idol's victory with .\n\n==Deck==\nThe daughter uses a deck, focused on . Her deck is based on the main deck used by Ava in the series.\n\nThe following list is incomplete due to the entire deck not being shown.\n \n \n \n\n==Voice actors==\n \n==Related articles==\nMother and daughter\n\n \n\n \n \n \n\nes:Madre e hija (Pokémon: Senda a la cima)\nit:Madre e figlia (Verso la cima)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This mother and her daughter are minor characters in Pokémon: Path to the Peak."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "In Internationals, they were first seen when they met Ava at the hotel the night before the championships started. According to the mother, her daughter watched Ava's videos numerous times and became a huge fan of Ava. When Ava was trying to rebuild her deck with the help of Joshua and Celestine, the daughter decided to deliver the last missing card to complete the deck, a .\n\nThey were seen again watching the finals of the international championship, when Ava lost, the daughter began to cry for her idol's defeat.\n\nIn Worlds, the daughter was seen watching Ava's rematch with Edgar Troy, when Ava became Champion, she was seen celebrating her idol's victory with ."
+    },
+    {
+      "heading": "Deck",
+      "level": 2,
+      "text": "The daughter uses a deck, focused on . Her deck is based on the main deck used by Ava in the series.\n\nThe following list is incomplete due to the entire deck not being shown."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Mother and daughter\n\n \n\n \n \n \n\nes:Madre e hija (Pokémon: Senda a la cima)\nit:Madre e figlia (Verso la cima)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mother and daughter (Path to the Peak)",
+    "pageType": "character",
+    "searchableText": "Mother and daughter (Path to the Peak)\nCategory:Pokémon: Path to the Peak characters\nThis mother and her daughter are minor characters in Pokémon: Path to the Peak.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Deck",
+      "Related articles"
+    ],
+    "characterCount": 1102,
+    "sectionCount": 4
+  }
+}

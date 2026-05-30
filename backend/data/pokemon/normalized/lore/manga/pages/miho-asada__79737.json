@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Miho Asada",
+    "slug": "miho-asada",
+    "pageId": 79737,
+    "revisionId": 4333909
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga crew",
+    "sourceFileName": "miho-asada__79737.json",
+    "revisionTimestamp": "2025-07-10T16:59:48Z",
+    "fetchedAt": "2026-05-14T15:26:30.022Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Miho Asada (あさだみほ) is the creator of several Pokémon manga. She was born on May 7th in the . She also created several Mega Man Battle Network and Yo-kai Watch manga.",
+  "plainText": "Miho Asada (あさだみほ) is the creator of several Pokémon manga. She was born on May 7th in the . She also created several Mega Man Battle Network and Yo-kai Watch manga.\n\n==Pokémon manga by Miho Asada==\nPhantom Thief Pokémon 7\nPhantom Thief! Pokémon V\nPokémon Battle Stories\nPokémon: Yeah! I Got Pokémon!\nPokémon Try Adventure\nMobilize!! Pokémon Ranger\nPokémon Battle: Pikachu's Big Exciting Adventure\nLucario and the Mystery of Mew (Miho Asada version)\n\n==External links==\nTwitter (Japanese)\non Japanese Wikipedia\nPixiv\n\n \n \n\n \n\nde:Miho Asada\nfr:Miho Asada\nit:Miho Asada\nja:あさだみほ\nzh:浅田实穗",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Miho Asada (あさだみほ) is the creator of several Pokémon manga. She was born on May 7th in the . She also created several Mega Man Battle Network and Yo-kai Watch manga."
+    },
+    {
+      "heading": "Pokémon manga by Miho Asada",
+      "level": 2,
+      "text": "Phantom Thief Pokémon 7\nPhantom Thief! Pokémon V\nPokémon Battle Stories\nPokémon: Yeah! I Got Pokémon!\nPokémon Try Adventure\nMobilize!! Pokémon Ranger\nPokémon Battle: Pikachu's Big Exciting Adventure\nLucario and the Mystery of Mew (Miho Asada version)"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter (Japanese)\non Japanese Wikipedia\nPixiv\n\n \n \n\n \n\nde:Miho Asada\nfr:Miho Asada\nit:Miho Asada\nja:あさだみほ\nzh:浅田实穗"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Miho Asada",
+    "pageType": "manga-series",
+    "searchableText": "Miho Asada\nCategory:Manga crew\nMiho Asada (あさだみほ) is the creator of several Pokémon manga. She was born on May 7th in the . She also created several Mega Man Battle Network and Yo-kai Watch manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon manga by Miho Asada",
+      "External links"
+    ],
+    "characterCount": 584,
+    "sectionCount": 3
+  }
+}

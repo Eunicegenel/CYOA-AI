@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Ryan Andes",
+    "slug": "ryan-andes",
+    "pageId": 232671,
+    "revisionId": 4323684
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "ryan-andes__232671.json",
+    "revisionTimestamp": "2025-06-24T03:34:29Z",
+    "fetchedAt": "2026-05-14T14:47:22.562Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Ryan Andes is an American voice actor for the English-language dub of .",
+  "plainText": "Ryan Andes is an American voice actor for the English-language dub of .\n\n==Biography==\nAndes was born on December 15, 1978, in Los Angeles County, California, but was raised in Philadelphia, Pennsylvania. As an adult, he became an actor in 2010, and initially starred in minor roles in short films and TV shows. In 2013, he became a voice actor and worked on the English-language versions of international shows. Andes began working for the English dub of during , voicing island kahuna Hala. Andes currently resides in New York City, New York. Andes is currently affiliated with A3 Artists Agency.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nHala\n\n=====Pokémon=====\n\n====I Choose You! trilogy====\n(Alpha; M23)\n\n==Other non-Pokémon roles==\n===TV animation===\nErazor ( )\nClaude ( )\nAso/Faust ( )\nGrimlock, Shockwave ( )\n\n===Live-action roles===\nShep ( )\nLead Bodyguard ( )\nMilitia Man #2 ( )\nPolice Officer ( )\n\n===Video game roles===\nBarbarian Thor ( )\n\n==External links==\nOfficial website\nVoice123 profile\nTwitter\nInstagram\nFacebook\n\n \n \n\nit:Ryan Andes",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ryan Andes is an American voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Andes was born on December 15, 1978, in Los Angeles County, California, but was raised in Philadelphia, Pennsylvania. As an adult, he became an actor in 2010, and initially starred in minor roles in short films and TV shows. In 2013, he became a voice actor and worked on the English-language versions of international shows. Andes began working for the English dub of during , voicing island kahuna Hala. Andes currently resides in New York City, New York. Andes is currently affiliated with A3 Artists Agency."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Hala"
+    },
+    {
+      "heading": "I Choose You! trilogy",
+      "level": 4,
+      "text": "(Alpha; M23)"
+    },
+    {
+      "heading": "TV animation",
+      "level": 3,
+      "text": "Erazor ( )\nClaude ( )\nAso/Faust ( )\nGrimlock, Shockwave ( )"
+    },
+    {
+      "heading": "Live-action roles",
+      "level": 3,
+      "text": "Shep ( )\nLead Bodyguard ( )\nMilitia Man #2 ( )\nPolice Officer ( )"
+    },
+    {
+      "heading": "Video game roles",
+      "level": 3,
+      "text": "Barbarian Thor ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nVoice123 profile\nTwitter\nInstagram\nFacebook\n\n \n \n\nit:Ryan Andes"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ryan Andes",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ryan Andes\nCategory:TPCi voice actors\nRyan Andes is an American voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "I Choose You! trilogy",
+      "TV animation",
+      "Live-action roles",
+      "Video game roles",
+      "External links"
+    ],
+    "characterCount": 1071,
+    "sectionCount": 8
+  }
+}

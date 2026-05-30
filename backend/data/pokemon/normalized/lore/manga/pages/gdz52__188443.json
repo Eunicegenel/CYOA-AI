@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GDZ52",
+    "slug": "gdz52",
+    "pageId": 188443,
+    "revisionId": 4527131
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz52__188443.json",
+    "revisionTimestamp": "2026-04-09T15:21:15Z",
+    "fetchedAt": "2026-05-14T15:19:54.500Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ライバル登場！ Enter the Rival!) is the 52nd chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ライバル登場！ Enter the Rival!) is the 52nd chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nNagi\n\n====Pokémon debuts====\n(Nagi's)\n(Nagi's)\n(Nagi's)\n\n==Characters==\n===Humans===\nShu\nNagi\n\n===Pokémon===\n( )\n(Shu's; flashback)\n(Shu's; flashback)\n(Nagi's)\n(Nagi's)\n(Nagi's)\n(Nagi's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ライバル登場！ Enter the Rival!) is the 52nd chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Nagi"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Nagi's)\n(Nagi's)\n(Nagi's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nNagi"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's; flashback)\n(Shu's; flashback)\n(Nagi's)\n(Nagi's)\n(Nagi's)\n(Nagi's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ52",
+    "pageType": "chapter",
+    "searchableText": "GDZ52\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ライバル登場！ Enter the Rival!) is the 52nd chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 346,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PBW8",
+    "slug": "pbw8",
+    "pageId": 172721,
+    "revisionId": 4549169
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Be the Best! Pokémon B+W",
+    "sourceFileName": "pbw8__172721.json",
+    "revisionTimestamp": "2026-05-11T01:23:33Z",
+    "fetchedAt": "2026-05-14T15:29:33.501Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The Birth of the Best Pokémon Trainer! (Japanese: 究極のポケモントレーナー誕生！！ Birth of the Ultimate Pokémon Trainer!!) is the eighth and final chapter of the Be the Best! Pokémon B+W manga.",
+  "plainText": "The Birth of the Best Pokémon Trainer! (Japanese: 究極のポケモントレーナー誕生！！ Birth of the Ultimate Pokémon Trainer!!) is the eighth and final chapter of the Be the Best! Pokémon B+W manga. \n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nMonta\nCheren\nBianca\n\n===Pokémon===\n( ; lent to Cheren)\n(Monta's; new)\n(Monta's; new)\n(Monta's)\n(Cheren's)\n(Cheren's)\n(Cheren's)\n(Bianca's; lent to Cheren)\n\n==Trivia==\n\n==In other languages==\n \n \n\n \n\n \n\nzh:钻研吧!!宝可梦B・W 最终话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Birth of the Best Pokémon Trainer! (Japanese: 究極のポケモントレーナー誕生！！ Birth of the Ultimate Pokémon Trainer!!) is the eighth and final chapter of the Be the Best! Pokémon B+W manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Monta\nCheren\nBianca"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; lent to Cheren)\n(Monta's; new)\n(Monta's; new)\n(Monta's)\n(Cheren's)\n(Cheren's)\n(Cheren's)\n(Bianca's; lent to Cheren)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "zh:钻研吧!!宝可梦B・W 最终话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PBW8",
+    "pageType": "pokemon-related",
+    "searchableText": "PBW8\nCategory:Be the Best! Pokémon B+W\nThe Birth of the Best Pokémon Trainer! (Japanese: 究極のポケモントレーナー誕生！！ Birth of the Ultimate Pokémon Trainer!!) is the eighth and final chapter of the Be the Best! Pokémon B+W manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 495,
+    "sectionCount": 4
+  }
+}

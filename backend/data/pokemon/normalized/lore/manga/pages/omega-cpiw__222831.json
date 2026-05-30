@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Omega (CPIW)",
+    "slug": "omega-cpiw",
+    "pageId": 222831,
+    "revisionId": 4131422
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom characters",
+    "sourceFileName": "omega-cpiw__222831.json",
+    "revisionTimestamp": "2024-09-29T04:19:12Z",
+    "fetchedAt": "2026-05-14T15:27:57.588Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Omega (Japanese: オメガ Omega) is one of the two main characters and older brother of in the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga.",
+  "plainText": "Omega (Japanese: オメガ Omega) is one of the two main characters and older brother of in the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga.\n\n==Pokémon==\n \n\n==Trivia==\nDespite Omega being after Alpha in the Greek alphabet, Omega is the older of the two brothers.\n\n \n \n\n \n \n\nit:Omega (CPIW)\nzh:歐米加",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Omega (Japanese: オメガ Omega) is one of the two main characters and older brother of in the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Despite Omega being after Alpha in the Greek alphabet, Omega is the older of the two brothers.\n\n \n \n\n \n \n\nit:Omega (CPIW)\nzh:歐米加"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Omega (CPIW)",
+    "pageType": "character",
+    "searchableText": "Omega (CPIW)\nCategory:Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom characters\nOmega (Japanese: オメガ Omega) is one of the two main characters and older brother of in the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 328,
+    "sectionCount": 2
+  }
+}

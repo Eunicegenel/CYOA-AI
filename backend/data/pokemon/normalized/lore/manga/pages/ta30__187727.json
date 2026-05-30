@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "TA30",
+    "slug": "ta30",
+    "pageId": 187727,
+    "revisionId": 2805059
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta30__187727.json",
+    "revisionTimestamp": "2018-06-09T05:03:25Z",
+    "fetchedAt": "2026-05-14T15:50:50.762Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: マナミ、デビュー！ Manami's Debut!) is 30th chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: マナミ、デビュー！ Manami's Debut!) is 30th chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\nManami\nMister Crow\n\n===Pokémon===\n(Soro's)\n(Manami's; new)\n(Mister Crow's)\n\n==Trivia==\nEven though the Japanese title of this chapter is called Manami's Debut!, Manami herself debuted in the chapter before this one.\n \n \n \n \n\nit:TA30",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: マナミ、デビュー！ Manami's Debut!) is 30th chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty\nManami\nMister Crow"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Soro's)\n(Manami's; new)\n(Mister Crow's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Even though the Japanese title of this chapter is called Manami's Debut!, Manami herself debuted in the chapter before this one.\n \n \n \n \n\nit:TA30"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA30",
+    "pageType": "chapter",
+    "searchableText": "TA30\nCategory:Pokémon Try Adventure chapters\n(Japanese: マナミ、デビュー！ Manami's Debut!) is 30th chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 442,
+    "sectionCount": 4
+  }
+}

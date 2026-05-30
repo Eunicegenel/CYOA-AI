@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "User:Pokéfan95/Lindsay Sheppard",
+    "slug": "user-pokefan95-lindsay-sheppard",
+    "pageId": 204541,
+    "revisionId": 3596739
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Anime stubs",
+    "sourceFileName": "user-pokefan95-lindsay-sheppard__204541.json",
+    "revisionTimestamp": "2022-11-11T20:27:41Z",
+    "fetchedAt": "2026-05-14T14:56:34.052Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Lindsay Sheppard is an English voice actress for the Pokémon anime.",
+  "plainText": "Lindsay Sheppard is an English voice actress for the Pokémon anime.\n\n==Pokémon roles==\nSheppard began her work during the XY series. Her major role is .\n===Humans===\n\n===Pokémon===\n==Non-Pokémon roles==\n==See also==\nList of English voice actors",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lindsay Sheppard is an English voice actress for the Pokémon anime."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Sheppard began her work during the XY series. Her major role is ."
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "List of English voice actors"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "User:Pokéfan95/Lindsay Sheppard",
+    "pageType": "general-anime-lore",
+    "searchableText": "User:Pokéfan95/Lindsay Sheppard\nCategory:Anime stubs\nLindsay Sheppard is an English voice actress for the Pokémon anime.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "See also"
+    ],
+    "characterCount": 244,
+    "sectionCount": 3
+  }
+}

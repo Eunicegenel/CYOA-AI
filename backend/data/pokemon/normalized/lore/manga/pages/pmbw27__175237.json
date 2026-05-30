@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW27",
+    "slug": "pmbw27",
+    "pageId": 175237,
+    "revisionId": 4528413
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw27__175237.json",
+    "revisionTimestamp": "2026-04-09T16:19:45Z",
+    "fetchedAt": "2026-05-14T15:32:00.332Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: にげきれ！レッドVS予防注射！！ Run! Red VS Immunization!!) is the twenty-seventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: にげきれ！レッドVS予防注射！！ Run! Red VS Immunization!!) is the twenty-seventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: にげきれ！レッドVS予防注射！！ Run! Red VS Immunization!!) is the twenty-seventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW27",
+    "pageType": "chapter",
+    "searchableText": "PMBW27\nCategory:Pocket Monsters BW chapters\n(Japanese: にげきれ！レッドVS予防注射！！ Run! Red VS Immunization!!) is the twenty-seventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 255,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP37",
+    "slug": "pmdp37",
+    "pageId": 176416,
+    "revisionId": 4528605
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp37__176416.json",
+    "revisionTimestamp": "2026-04-09T16:29:53Z",
+    "fetchedAt": "2026-05-14T15:32:36.227Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: プールの熱き競泳バトル！ Fierce Swim Battle in the Pool!) is the thirty-seventh chapter of the manga.",
+  "plainText": "(Japanese: プールの熱き競泳バトル！ Fierce Swim Battle in the Pool!) is the thirty-seventh chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: プールの熱き競泳バトル！ Fierce Swim Battle in the Pool!) is the thirty-seventh chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )\n\n}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP37",
+    "pageType": "chapter",
+    "searchableText": "PMDP37\nCategory:Pocket Monsters DP chapters\n(Japanese: プールの熱き競泳バトル！ Fierce Swim Battle in the Pool!) is the thirty-seventh chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 232,
+    "sectionCount": 2
+  }
+}

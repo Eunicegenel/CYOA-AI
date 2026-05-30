@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW34",
+    "slug": "pmbw34",
+    "pageId": 175244,
+    "revisionId": 4528483
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw34__175244.json",
+    "revisionTimestamp": "2026-04-09T16:23:43Z",
+    "fetchedAt": "2026-05-14T15:32:04.819Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 爆笑ギャグで笑いを取りもせ！ Get a Laugh out of Hilarious Gags!) is the thirty-fourth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 爆笑ギャグで笑いを取りもせ！ Get a Laugh out of Hilarious Gags!) is the thirty-fourth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 爆笑ギャグで笑いを取りもせ！ Get a Laugh out of Hilarious Gags!) is the thirty-fourth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW34",
+    "pageType": "chapter",
+    "searchableText": "PMBW34\nCategory:Pocket Monsters BW chapters\n(Japanese: 爆笑ギャグで笑いを取りもせ！ Get a Laugh out of Hilarious Gags!) is the thirty-fourth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 260,
+    "sectionCount": 2
+  }
+}

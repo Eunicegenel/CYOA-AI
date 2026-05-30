@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Hooligans (Trainer class)",
+    "slug": "hooligans-trainer-class",
+    "pageId": 119599,
+    "revisionId": 4220665
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga characters",
+    "sourceFileName": "hooligans-trainer-class__119599.json",
+    "revisionTimestamp": "2025-01-14T01:47:32Z",
+    "fetchedAt": "2026-05-14T15:21:38.078Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Hooligans (Japanese: バッドチーム Bad Team) are a pair of Pokémon Trainers that debuted in Generation V. They are a combination of a and a .",
+  "plainText": "Hooligans (Japanese: バッドチーム Bad Team) are a pair of Pokémon Trainers that debuted in Generation V. They are a combination of a and a .\n\n==Gallery==\n===Sprites===\n \n\n==Trainer list==\n===Pokémon Black and White===\n \n \n \n \n\n===Pokémon Black 2 and White 2===\n \n \n \n \n \n \n\n==In the manga==\n \n===In the Pocket Monsters BW: The Heroes of Fire and Thunder===\nThe Hooligans appeared in A Very Important Thing.\n \n====Pokémon====\n \n\n \n\n \n\n==In the TCG==\n \nThis listing is of cards mentioning or featuring Hooligans in the Pokémon Trading Card Game.\n\n \n \n \n\n==Trivia==\nDespite the fact that in past generations, Bikers and Roughnecks (also known as Cue Balls) were known to hang out with each other on bike paths, this is the first time that they have battled together in a Double Battle.\nIn French, Hooligans have names similar to the Roughnecks, with the only difference being that one is plural.\n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n \n\nde:Rabauken\nes:Pandilleros\nfr:Loubards\nit:Teppisti\nja:バッドチーム\nzh:坏组合",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hooligans (Japanese: バッドチーム Bad Team) are a pair of Pokémon Trainers that debuted in Generation V. They are a combination of a and a ."
+    },
+    {
+      "heading": "In the Pocket Monsters BW: The Heroes of Fire and Thunder",
+      "level": 3,
+      "text": "The Hooligans appeared in A Very Important Thing."
+    },
+    {
+      "heading": "In the TCG",
+      "level": 2,
+      "text": "This listing is of cards mentioning or featuring Hooligans in the Pokémon Trading Card Game."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Despite the fact that in past generations, Bikers and Roughnecks (also known as Cue Balls) were known to hang out with each other on bike paths, this is the first time that they have battled together in a Double Battle.\nIn French, Hooligans have names similar to the Roughnecks, with the only difference being that one is plural."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Rabauken\nes:Pandilleros\nfr:Loubards\nit:Teppisti\nja:バッドチーム\nzh:坏组合"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hooligans (Trainer class)",
+    "pageType": "character",
+    "searchableText": "Hooligans (Trainer class)\nCategory:Manga characters\nHooligans (Japanese: バッドチーム Bad Team) are a pair of Pokémon Trainers that debuted in Generation V. They are a combination of a and a .",
+    "sectionHeadings": [
+      "Lead",
+      "In the Pocket Monsters BW: The Heroes of Fire and Thunder",
+      "In the TCG",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1012,
+    "sectionCount": 5
+  }
+}

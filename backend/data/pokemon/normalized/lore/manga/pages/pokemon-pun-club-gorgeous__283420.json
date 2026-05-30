@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Pun Club: Gorgeous!",
+    "slug": "pokemon-pun-club-gorgeous",
+    "pageId": 283420,
+    "revisionId": 4130857
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-pun-club-gorgeous__283420.json",
+    "revisionTimestamp": "2024-09-29T03:54:16Z",
+    "fetchedAt": "2026-05-14T15:37:10.189Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモンだじゃれクラブ　ゴージャス！ Pokémon Pun Club: Gorgeous!) is a Pokémon 4Koma created by 春風邪三太 Santa Harukaze. It was serialized in the Pokémon Fan magazine as (Japanese: ポケモン超だじゃれクラブ Pokémon Super Pun Club). It is 192 pages long.",
+  "plainText": "(Japanese: ポケモンだじゃれクラブ　ゴージャス！ Pokémon Pun Club: Gorgeous!) is a Pokémon 4Koma created by 春風邪三太 Santa Harukaze. It was serialized in the Pokémon Fan magazine as (Japanese: ポケモン超だじゃれクラブ Pokémon Super Pun Club). It is 192 pages long.\n\n==Publications==\n \n \n\n==Related articles==\nPokémon Pocket Comics: Classic\nPokémon Diamond & Pearl 4Koma Comic Compilation\nPokémon Platinum 4Koma Comic Compilation\nPokémon HGSS Laughter 4Koma Comic Compilation\nPokémon Pocket Comics: Black & White\nPokémon Pocket Comics: Legendary Pokémon\nPokémon Pocket Comics: XY\nPokémon Pocket Comics: Sun & Moon\n\n==External links==\nShogakukan's website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンだじゃれクラブ　ゴージャス！ Pokémon Pun Club: Gorgeous!) is a Pokémon 4Koma created by 春風邪三太 Santa Harukaze. It was serialized in the Pokémon Fan magazine as (Japanese: ポケモン超だじゃれクラブ Pokémon Super Pun Club). It is 192 pages long."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Pokémon Pocket Comics: Classic\nPokémon Diamond & Pearl 4Koma Comic Compilation\nPokémon Platinum 4Koma Comic Compilation\nPokémon HGSS Laughter 4Koma Comic Compilation\nPokémon Pocket Comics: Black & White\nPokémon Pocket Comics: Legendary Pokémon\nPokémon Pocket Comics: XY\nPokémon Pocket Comics: Sun & Moon"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Shogakukan's website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pun Club: Gorgeous!",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pun Club: Gorgeous!\nCategory:Pokémon 4Koma\n(Japanese: ポケモンだじゃれクラブ　ゴージャス！ Pokémon Pun Club: Gorgeous!) is a Pokémon 4Koma created by 春風邪三太 Santa Harukaze. It was serialized in the Pokémon Fan magazine as (Japanese: ポケモン超だじゃれクラブ Pokémon Super Pun Club). It is 192 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles",
+      "External links"
+    ],
+    "characterCount": 619,
+    "sectionCount": 3
+  }
+}

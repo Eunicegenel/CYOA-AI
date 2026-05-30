@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Claudia Denis",
+    "slug": "claudia-denis",
+    "pageId": 323477,
+    "revisionId": 4215002
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "claudia-denis__323477.json",
+    "revisionTimestamp": "2025-01-04T02:41:53Z",
+    "fetchedAt": "2026-05-14T14:09:55.614Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Claudia Denis (Japanese: クラウディア・デニス Claudia Denis) is the wife of Sanjeev Denis in the game Detective Pikachu Returns.",
+  "plainText": "Claudia Denis (Japanese: クラウディア・デニス Claudia Denis) is the wife of Sanjeev Denis in the game Detective Pikachu Returns.\n\n==In the games==\n===Detective Pikachu Returns===\nClaudia is introduced at the start of the game during Tim's first major case investigating the theft of the Aurora Drop. She is the wife of Sanjeev Denis, and opposes Tim's involvement in the case as she believes that the butler Barnes was the culprit as suspected by the police. Claudia is also revealed to have opposed her husband's decision to donate the Aurora Drop, as she felt that such a precious jewel should not be viewed by the general public but only for a select few.\n\n===Personality and characteristics===\nIn contrast to her husband's good nature, Claudia is shown to be inconsiderate and impetuous. She quickly jumps to the conclusion that the butler Barnes was the culprit, at least partly as she had found him disagreeable previously. She is also characterised as being self-important, feeling that the Aurora Drop should not be viewed by the general public, and disallowing Pokémon to eat in the same room as her.\n\n===Pokémon===\nThis listing is of Claudia's known in the games:\n\n \n\n===Voice actors===\n \n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Claudia Denis (Japanese: クラウディア・デニス Claudia Denis) is the wife of Sanjeev Denis in the game Detective Pikachu Returns."
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Claudia is introduced at the start of the game during Tim's first major case investigating the theft of the Aurora Drop. She is the wife of Sanjeev Denis, and opposes Tim's involvement in the case as she believes that the butler Barnes was the culprit as suspected by the police. Claudia is also revealed to have opposed her husband's decision to donate the Aurora Drop, as she felt that such a precious jewel should not be viewed by the general public but only for a select few."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "In contrast to her husband's good nature, Claudia is shown to be inconsiderate and impetuous. She quickly jumps to the conclusion that the butler Barnes was the culprit, at least partly as she had found him disagreeable previously. She is also characterised as being self-important, feeling that the Aurora Drop should not be viewed by the general public, and disallowing Pokémon to eat in the same room as her."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Claudia's known in the games:"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Claudia Denis",
+    "pageType": "character",
+    "searchableText": "Claudia Denis\nCategory:Detective Pikachu Returns characters\nClaudia Denis (Japanese: クラウディア・デニス Claudia Denis) is the wife of Sanjeev Denis in the game Detective Pikachu Returns.",
+    "sectionHeadings": [
+      "Lead",
+      "Detective Pikachu Returns",
+      "Personality and characteristics",
+      "Pokémon"
+    ],
+    "characterCount": 1236,
+    "sectionCount": 4
+  }
+}

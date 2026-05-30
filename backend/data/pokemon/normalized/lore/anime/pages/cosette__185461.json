@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Cosette",
+    "slug": "cosette",
+    "pageId": 185461,
+    "revisionId": 4143837
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "cosette__185461.json",
+    "revisionTimestamp": "2024-10-12T00:41:34Z",
+    "fetchedAt": "2026-05-14T14:10:26.200Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Cosette (Japanese: コゼット Cosette) is a recurring character in . She is one of 's assistants.",
+  "plainText": "Cosette (Japanese: コゼット Cosette) is a recurring character in . She is one of 's assistants.\n\n==History==\n \nCosette first appeared in Lumiose City Pursuit!. While and were talking to Professor Sycamore, Cosette came by. Professor Sycamore had her look after the lab's while he took the group outside. Cosette then researched Garchomp using a machine to learn about Mega Evolution. When walked in, disguised as scientists, Cosette walked in with Garchomp as she and Sophie did not recall having them invited and would check with Professor Sycamore. However, before she did so, Team Rocket threw a mechanical collar at Garchomp even though it was meant for . As Garchomp went on a rampage, Cosette ran outside and warned Professor Sycamore about what was going on. Cosette stayed behind in the lab while Ash and his friends went after Garchomp.\n\nIn Mega-Mega Meowth Madness!, Cosette cleared up the rubble Team Rocket had caused while kidnapping Professor Sycamore. From Summer of Discovery! to Battling Into the Hall of Fame!, Cosette was part of the staff at the Professor's Summer Camp. Amongst her activities was refereeing a battle between Ash and and judging the teams in the various activities, and guiding the teams at a stamp table during the PokéEnteering competition in Foggy Pokémon Orienteering!.\n\nIn Performing with Fiery Charm!, Cosette watched competing in the Dendemille Town Rookie Class Pokémon Showcase alongside Professor Sycamore and Sophie.\n\nShe briefly appeared again in Cloudy Fate, Bright Future! and All Eyes on the Future!.\n\nIn Master Class is in Session! and Performing a Pathway to the Future!, Cosette was watching Serena's performance in the Gloire City Master Class Pokémon Showcase alongside Professor Sycamore and Sophie.\n\nIn Battling With a Clean Slate!, Cosette handed out medals to Ash, his friends, Alain, Mairin, and their Pokémon for their heroic efforts against Team Flare.\n\n==Voice actors==\n \n\n==Related articles==\n \n \n\n \n \n \n\nde:Nadine\nes:Cosette\nfr:Cosette\nit:Cosette\nja:コゼット\nzh:小豆荚",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Cosette (Japanese: コゼット Cosette) is a recurring character in . She is one of 's assistants."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Cosette first appeared in Lumiose City Pursuit!. While and were talking to Professor Sycamore, Cosette came by. Professor Sycamore had her look after the lab's while he took the group outside. Cosette then researched Garchomp using a machine to learn about Mega Evolution. When walked in, disguised as scientists, Cosette walked in with Garchomp as she and Sophie did not recall having them invited and would check with Professor Sycamore. However, before she did so, Team Rocket threw a mechanical collar at Garchomp even though it was meant for . As Garchomp went on a rampage, Cosette ran outside and warned Professor Sycamore about what was going on. Cosette stayed behind in the lab while Ash and his friends went after Garchomp.\n\nIn Mega-Mega Meowth Madness!, Cosette cleared up the rubble Team Rocket had caused while kidnapping Professor Sycamore. From Summer of Discovery! to Battling Into the Hall of Fame!, Cosette was part of the staff at the Professor's Summer Camp. Amongst her activities was refereeing a battle between Ash and and judging the teams in the various activities, and guiding the teams at a stamp table during the PokéEnteering competition in Foggy Pokémon Orienteering!.\n\nIn Performing with Fiery Charm!, Cosette watched competing in the Dendemille Town Rookie Class Pokémon Showcase alongside Professor Sycamore and Sophie.\n\nShe briefly appeared again in Cloudy Fate, Bright Future! and All Eyes on the Future!.\n\nIn Master Class is in Session! and Performing a Pathway to the Future!, Cosette was watching Serena's performance in the Gloire City Master Class Pokémon Showcase alongside Professor Sycamore and Sophie.\n\nIn Battling With a Clean Slate!, Cosette handed out medals to Ash, his friends, Alain, Mairin, and their Pokémon for their heroic efforts against Team Flare."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Nadine\nes:Cosette\nfr:Cosette\nit:Cosette\nja:コゼット\nzh:小豆荚"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Cosette",
+    "pageType": "character",
+    "searchableText": "Cosette\nCategory:Animation characters\nCosette (Japanese: コゼット Cosette) is a recurring character in . She is one of 's assistants.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 2024,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "TA20",
+    "slug": "ta20",
+    "pageId": 187124,
+    "revisionId": 2805017
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta20__187124.json",
+    "revisionTimestamp": "2018-06-09T02:15:31Z",
+    "fetchedAt": "2026-05-14T15:50:44.575Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: トキ、悲しみの過去 Toki's Sad Past) is the 20th chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: トキ、悲しみの過去 Toki's Sad Past) is the 20th chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: トキ、悲しみの過去 Toki's Sad Past) is the 20th chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA20",
+    "pageType": "chapter",
+    "searchableText": "TA20\nCategory:Pokémon Try Adventure chapters\n(Japanese: トキ、悲しみの過去 Toki's Sad Past) is the 20th chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 228,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Taku Yashiro",
+    "slug": "taku-yashiro",
+    "pageId": 283240,
+    "revisionId": 4514903
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "taku-yashiro__283240.json",
+    "revisionTimestamp": "2026-03-23T01:13:53Z",
+    "fetchedAt": "2026-05-14T14:53:02.459Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Taku Yashiro (Japanese: 八代拓 Yashiro Taku) is a Japanese voice actor for .",
+  "plainText": "Taku Yashiro (Japanese: 八代拓 Yashiro Taku) is a Japanese voice actor for .\n\n==Biography==\nYashiro was born on January 6, 1993, and is affiliated with VIMS talent agency. Yashiro became a voice actor in 2013 and first worked on Pokémon, voicing Gordie in . Yashiro joined , voicing Friede.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nFriede\n\n=====Pokémon=====\nRoy's Lucario\n\n(as )\n\nLucius's Kleavor\n(HZ051)\n\n===Video games===\n====Pokémon Masters EX====\nGordie\n\n==Other non-Pokémon roles==\n( )\nNatsuo Fujii ( )\nRyūji Maesaka ( )\nKakeru Juuouin ( )\nDoriate ( )\nGapri ( )\nNumber 6 ( )\n\n==External links==\nVims profile\n\n \n\n \n\nes:Taku Yashiro\nit:Taku Yashiro\nzh:八代拓",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Taku Yashiro (Japanese: 八代拓 Yashiro Taku) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Yashiro was born on January 6, 1993, and is affiliated with VIMS talent agency. Yashiro became a voice actor in 2013 and first worked on Pokémon, voicing Gordie in . Yashiro joined , voicing Friede."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Friede"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "Roy's Lucario\n\n(as )\n\nLucius's Kleavor\n(HZ051)"
+    },
+    {
+      "heading": "Pokémon Masters EX",
+      "level": 4,
+      "text": "Gordie"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "( )\nNatsuo Fujii ( )\nRyūji Maesaka ( )\nKakeru Juuouin ( )\nDoriate ( )\nGapri ( )\nNumber 6 ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Vims profile\n\n \n\n \n\nes:Taku Yashiro\nit:Taku Yashiro\nzh:八代拓"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Taku Yashiro",
+    "pageType": "general-anime-lore",
+    "searchableText": "Taku Yashiro\nCategory:Japanese voice actors\nTaku Yashiro (Japanese: 八代拓 Yashiro Taku) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "Pokémon Masters EX",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 676,
+    "sectionCount": 7
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP11",
+    "slug": "pmdp11",
+    "pageId": 176389,
+    "revisionId": 4528580
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp11__176389.json",
+    "revisionTimestamp": "2026-04-09T16:28:30Z",
+    "fetchedAt": "2026-05-14T15:32:19.978Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: プロの が た〜い！！ I Want to See a Pro Game!!) is the eleventh chapter of the manga.",
+  "plainText": "(Japanese: プロの が た〜い！！ I Want to See a Pro Game!!) is the eleventh chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: プロの が た〜い！！ I Want to See a Pro Game!!) is the eleventh chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP11",
+    "pageType": "chapter",
+    "searchableText": "PMDP11\nCategory:Pocket Monsters DP chapters\n(Japanese: プロの が た〜い！！ I Want to See a Pro Game!!) is the eleventh chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 212,
+    "sectionCount": 2
+  }
+}

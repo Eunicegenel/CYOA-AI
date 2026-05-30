@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Jo Armeniox",
+    "slug": "jo-armeniox",
+    "pageId": 231136,
+    "revisionId": 4323543
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "jo-armeniox__231136.json",
+    "revisionTimestamp": "2025-06-24T03:32:02Z",
+    "fetchedAt": "2026-05-14T14:27:52.644Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Jo Armeniox is an American voice actress for the English-language dub of .",
+  "plainText": "Jo Armeniox is an American voice actress for the English-language dub of .\n\n==Biography==\nArmeniox has been acting since 2006, mostly playing minor roles in a number of American TV shows. However, in 2014, she was cast in her best known role as the voice of in of the . Armeniox has since been cast in a few additional roles in .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Major=====\n\nPlumeria\n\n=====Minor=====\nCerah\nD (SM065)\n\n==Other non-Pokémon roles==\nTiffani ( )\nSara Parkson ( )\nAngie ( )\nAlma Pastor ( )\nAmber ( )\n\n==External links==\nTwitter\nInstagram\nIMDb\n\n \n \n\nit:Jo Armeniox",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jo Armeniox is an American voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Armeniox has been acting since 2006, mostly playing minor roles in a number of American TV shows. However, in 2014, she was cast in her best known role as the voice of in of the . Armeniox has since been cast in a few additional roles in ."
+    },
+    {
+      "heading": "Major",
+      "level": 5,
+      "text": "Plumeria"
+    },
+    {
+      "heading": "Minor",
+      "level": 5,
+      "text": "Cerah\nD (SM065)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Tiffani ( )\nSara Parkson ( )\nAngie ( )\nAlma Pastor ( )\nAmber ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nInstagram\nIMDb\n\n \n \n\nit:Jo Armeniox"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jo Armeniox",
+    "pageType": "general-anime-lore",
+    "searchableText": "Jo Armeniox\nCategory:TPCi voice actors\nJo Armeniox is an American voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 591,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "ABM12",
+    "slug": "abm12",
+    "pageId": 191815,
+    "revisionId": 4527369
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abm12__191815.json",
+    "revisionTimestamp": "2026-04-09T15:34:51Z",
+    "fetchedAt": "2026-05-14T15:12:13.055Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 勝負のウラを読め！！ Read into the Match!!) is the twelfth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: 勝負のウラを読め！！ Read into the Match!!) is the twelfth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyū Tendō\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 勝負のウラを読め！！ Read into the Match!!) is the twelfth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryū Tendō"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABM12",
+    "pageType": "chapter",
+    "searchableText": "ABM12\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: 勝負のウラを読め！！ Read into the Match!!) is the twelfth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 244,
+    "sectionCount": 2
+  }
+}

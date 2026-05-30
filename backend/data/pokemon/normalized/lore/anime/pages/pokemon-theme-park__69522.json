@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Theme Park",
+    "slug": "pokemon-theme-park",
+    "pageId": 69522,
+    "revisionId": 4484031
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "pokemon-theme-park__69522.json",
+    "revisionTimestamp": "2026-02-07T22:33:36Z",
+    "fetchedAt": "2026-05-14T14:43:52.006Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Pokémon Theme Park (Japanese: ポケモン広場 Pokémon Plaza) is an -exclusive location in Kanto. It appeared in Pikachu's Vacation.\n\nIt is a large playground where s can leave their Pokémon. It has various forms of play-equipment, including a swing set, a climbing frame, a swimming pool and various other leisure activities for Pokémon to participate in. All of 's, 's, and 's Pokémon were let out to explore the area. Four notable wild Pokémon appear here, a , a , a and a .",
+  "plainText": "The Pokémon Theme Park (Japanese: ポケモン広場 Pokémon Plaza) is an -exclusive location in Kanto. It appeared in Pikachu's Vacation.\n\nIt is a large playground where s can leave their Pokémon. It has various forms of play-equipment, including a swing set, a climbing frame, a swimming pool and various other leisure activities for Pokémon to participate in. All of 's, 's, and 's Pokémon were let out to explore the area. Four notable wild Pokémon appear here, a , a , a and a .\n\n==Pokémon seen in the Pokémon Theme Park==\n \n\n==Related articles==\n \n \n \n\n \n\nde:Pokémon Theme Park\nes:Paraíso Pokémon (anime)\nit:Parco a tema Pokémon",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Pokémon Theme Park (Japanese: ポケモン広場 Pokémon Plaza) is an -exclusive location in Kanto. It appeared in Pikachu's Vacation.\n\nIt is a large playground where s can leave their Pokémon. It has various forms of play-equipment, including a swing set, a climbing frame, a swimming pool and various other leisure activities for Pokémon to participate in. All of 's, 's, and 's Pokémon were let out to explore the area. Four notable wild Pokémon appear here, a , a , a and a ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Pokémon Theme Park\nes:Paraíso Pokémon (anime)\nit:Parco a tema Pokémon"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Theme Park",
+    "pageType": "location",
+    "searchableText": "Pokémon Theme Park\nCategory:Animated series-exclusive locations\nThe Pokémon Theme Park (Japanese: ポケモン広場 Pokémon Plaza) is an -exclusive location in Kanto. It appeared in Pikachu's Vacation.\n\nIt is a large playground where s can leave their Pokémon. It has various forms of play-equipment, including a swing set, a climbing frame, a swimming pool and various other leisure activities for Pokémon to participate in. All of 's, 's, and 's Pokémon were let out to explore the area. Four notable wild Pokémon appear here, a , a , a and a .",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 622,
+    "sectionCount": 2
+  }
+}

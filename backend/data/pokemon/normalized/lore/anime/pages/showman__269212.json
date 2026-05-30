@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Showman",
+    "slug": "showman",
+    "pageId": 269212,
+    "revisionId": 4270862
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "showman__269212.json",
+    "revisionTimestamp": "2025-03-27T15:25:10Z",
+    "fetchedAt": "2026-05-14T14:49:38.593Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The showman (Japanese: 座長 ringmaster) is a character of the day who appeared in Out of Their Elements!.\n\nThe showman is the owner of a Pokémon circus that visited Vermilion City. He met , Goh, and Chloe who visited his circus. Before a performance, two of his performers accidentally had their evolve into and which they'd planned to do during their upcoming performance.\n\nAfter and were able come up with a new routine with their Pokémon, the performance went ahead with Ash, Goh, and Chloe taking part.",
+  "plainText": "The showman (Japanese: 座長 ringmaster) is a character of the day who appeared in Out of Their Elements!.\n\nThe showman is the owner of a Pokémon circus that visited Vermilion City. He met , Goh, and Chloe who visited his circus. Before a performance, two of his performers accidentally had their evolve into and which they'd planned to do during their upcoming performance.\n\nAfter and were able come up with a new routine with their Pokémon, the performance went ahead with Ash, Goh, and Chloe taking part.\n\n==Voice actors==\n \n\n==Trivia==\nThe showman bears a resemblance to the , who appeared in Raid Battle in The Ruins!, and the curator, who appeared in Restore and Renew!. This fact was mentioned by and Goh in the episode. They also share the same Japanese, , and voice actors.\n\n \n \n\n \n \n \n\nes:Jefe del circo\nit:Presentatore",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The showman (Japanese: 座長 ringmaster) is a character of the day who appeared in Out of Their Elements!.\n\nThe showman is the owner of a Pokémon circus that visited Vermilion City. He met , Goh, and Chloe who visited his circus. Before a performance, two of his performers accidentally had their evolve into and which they'd planned to do during their upcoming performance.\n\nAfter and were able come up with a new routine with their Pokémon, the performance went ahead with Ash, Goh, and Chloe taking part."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The showman bears a resemblance to the , who appeared in Raid Battle in The Ruins!, and the curator, who appeared in Restore and Renew!. This fact was mentioned by and Goh in the episode. They also share the same Japanese, , and voice actors.\n\n \n \n\n \n \n \n\nes:Jefe del circo\nit:Presentatore"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Showman",
+    "pageType": "character",
+    "searchableText": "Showman\nCategory:Journeys characters of the day\nThe showman (Japanese: 座長 ringmaster) is a character of the day who appeared in Out of Their Elements!.\n\nThe showman is the owner of a Pokémon circus that visited Vermilion City. He met , Goh, and Chloe who visited his circus. Before a performance, two of his performers accidentally had their evolve into and which they'd planned to do during their upcoming performance.\n\nAfter and were able come up with a new routine with their Pokémon, the performance went ahead with Ash, Goh, and Chloe taking part.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 826,
+    "sectionCount": 2
+  }
+}

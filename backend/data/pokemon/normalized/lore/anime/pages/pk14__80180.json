@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PK14",
+    "slug": "pk14",
+    "pageId": 80180,
+    "revisionId": 4528444
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Episodes storyboarded and directed by Yūji Asada",
+    "sourceFileName": "pk14__80180.json",
+    "revisionTimestamp": "2026-04-09T16:21:13Z",
+    "fetchedAt": "2026-05-14T14:42:06.461Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "(Japanese: ポケモン３Ｄアドベンチャー　ミュウを探せ！ Pokémon 3D Adventure: Find Mew!) is the 14th Pikachu short of the Pokémon animated series. It first aired at 109 Cinemas Nagoya adjacent to the theme park from March 18 to September 25, 2005 as part of the 2005 Pikachu Project. It was screened again in 2017 and 2020 together with PK16 in Japanese theaters.",
+  "plainText": "(Japanese: ポケモン３Ｄアドベンチャー　ミュウを探せ！ Pokémon 3D Adventure: Find Mew!) is the 14th Pikachu short of the Pokémon animated series. It first aired at 109 Cinemas Nagoya adjacent to the theme park from March 18 to September 25, 2005 as part of the 2005 Pikachu Project. It was screened again in 2017 and 2020 together with PK16 in Japanese theaters.\n\n \n\n==Plot==\n \n and are on a search for the elusive Pokémon, . They search everywhere! The sea, the sky, the woods...will they ever find Mew?\n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n\n==Trivia==\nThis Pikachu short was released between AG119 and AG120 in Japan.\nEvery Mythical Pokémon as of Generation III (except ) makes an appearance in this Pikachu short.\n\n===Errors===\n\n==References==\n \n}}\n \n\n \n\n \n\n \n \n \n \n \n \n \n\nde:Pokémon 3D Adventure: Mew o Sagase!\nes:PK08\nzh:宝可梦短篇 第14集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン３Ｄアドベンチャー　ミュウを探せ！ Pokémon 3D Adventure: Find Mew!) is the 14th Pikachu short of the Pokémon animated series. It first aired at 109 Cinemas Nagoya adjacent to the theme park from March 18 to September 25, 2005 as part of the 2005 Pikachu Project. It was screened again in 2017 and 2020 together with PK16 in Japanese theaters."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "and are on a search for the elusive Pokémon, . They search everywhere! The sea, the sky, the woods...will they ever find Mew?"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This Pikachu short was released between AG119 and AG120 in Japan.\nEvery Mythical Pokémon as of Generation III (except ) makes an appearance in this Pikachu short."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "}}\n \n\n \n\n \n\n \n \n \n \n \n \n \n\nde:Pokémon 3D Adventure: Mew o Sagase!\nes:PK08\nzh:宝可梦短篇 第14集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PK14",
+    "pageType": "episode",
+    "searchableText": "PK14\nCategory:Episodes storyboarded and directed by Yūji Asada\n(Japanese: ポケモン３Ｄアドベンチャー　ミュウを探せ！ Pokémon 3D Adventure: Find Mew!) is the 14th Pikachu short of the Pokémon animated series. It first aired at 109 Cinemas Nagoya adjacent to the theme park from March 18 to September 25, 2005 as part of the 2005 Pikachu Project. It was screened again in 2017 and 2020 together with PK16 in Japanese theaters.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Pokémon",
+      "Trivia",
+      "References"
+    ],
+    "characterCount": 941,
+    "sectionCount": 5
+  }
+}

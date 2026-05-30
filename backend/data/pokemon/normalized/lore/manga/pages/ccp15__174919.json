@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CCP15",
+    "slug": "ccp15",
+    "pageId": 174919,
+    "revisionId": 4319011
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp15__174919.json",
+    "revisionTimestamp": "2025-06-12T21:02:13Z",
+    "fetchedAt": "2026-05-14T15:15:16.982Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: アチャモの悩み…ちゃも Distress (chamo)) is the 15th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: アチャモの悩み…ちゃも Distress (chamo)) is the 15th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( )\n(fantasy)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: アチャモの悩み…ちゃも Distress (chamo)) is the 15th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n(fantasy)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP15",
+    "pageType": "chapter",
+    "searchableText": "CCP15\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: アチャモの悩み…ちゃも Distress (chamo)) is the 15th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 242,
+    "sectionCount": 2
+  }
+}

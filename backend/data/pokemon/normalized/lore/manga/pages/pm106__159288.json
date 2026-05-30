@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM106",
+    "slug": "pm106",
+    "pageId": 159288,
+    "revisionId": 4264449
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm106__159288.json",
+    "revisionTimestamp": "2025-03-23T17:59:56Z",
+    "fetchedAt": "2026-05-14T15:31:36.285Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "A Challenge to the Elite Four! (Japanese: 四天王に挑戦！！ A Challenge to !!) is the one hundredth-sixth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "A Challenge to the Elite Four! (Japanese: 四天王に挑戦！！ A Challenge to !!) is the one hundredth-sixth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nBruno\nKaren\nWill\nKoga\n\n===Pokémon===\n( ) \n( )\n( )\n(Karen's)\n(Karen's)\n(Karen's)\n( )\n(Bruno's)\n(Bruno's)\n(Bruno's)\n(Bruno's)\n(Koga's)\n(Will's)\n\n==Trivia==\n\n \n\n \n\nit:PMM106",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Challenge to the Elite Four! (Japanese: 四天王に挑戦！！ A Challenge to !!) is the one hundredth-sixth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Bruno\nKaren\nWill\nKoga"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(Karen's)\n(Karen's)\n(Karen's)\n( )\n(Bruno's)\n(Bruno's)\n(Bruno's)\n(Bruno's)\n(Koga's)\n(Will's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "it:PMM106"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM106",
+    "pageType": "chapter",
+    "searchableText": "PM106\nCategory:Pokémon Pocket Monsters chapters\nA Challenge to the Elite Four! (Japanese: 四天王に挑戦！！ A Challenge to !!) is the one hundredth-sixth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 409,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM038",
+    "slug": "pm038",
+    "pageId": 160305,
+    "revisionId": 4528009
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm038__160305.json",
+    "revisionTimestamp": "2026-04-09T16:03:01Z",
+    "fetchedAt": "2026-05-14T15:30:53.352Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Final Battle!! (Japanese: 決戦！最終バトル！! The Final Battle!!) is the thirty-eighth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Final Battle!! (Japanese: 決戦！最終バトル！! The Final Battle!!) is the thirty-eighth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\nLance returns.\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nLance\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n(×2)\n\n(fantasy)\n(fantasy)\n\n==Trivia==\n\n \n \n\nde:Kapitel 38 (Pokémon Pocket Monsters)\nit:PMM038",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Final Battle!! (Japanese: 決戦！最終バトル！! The Final Battle!!) is the thirty-eighth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Lance returns."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Lance"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )\n(×2)\n\n(fantasy)\n(fantasy)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 38 (Pokémon Pocket Monsters)\nit:PMM038"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM038",
+    "pageType": "chapter",
+    "searchableText": "PM038\nCategory:Pokémon Pocket Monsters chapters\nThe Final Battle!! (Japanese: 決戦！最終バトル！! The Final Battle!!) is the thirty-eighth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 372,
+    "sectionCount": 5
+  }
+}

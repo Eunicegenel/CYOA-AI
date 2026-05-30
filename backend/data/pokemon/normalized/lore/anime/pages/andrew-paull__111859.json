@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Andrew Paull",
+    "slug": "andrew-paull",
+    "pageId": 111859,
+    "revisionId": 4323643
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "andrew-paull__111859.json",
+    "revisionTimestamp": "2025-06-24T03:33:42Z",
+    "fetchedAt": "2026-05-14T14:01:09.894Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Andrew Paull is a voice actor for the English-language dub of .",
+  "plainText": "Andrew Paull is a voice actor for the English-language dub of .\n\n==Biography==\nPaull became affiliated with 4Kids Entertainment as a voice actor and worked in a few productions. He started working with the during , and his best-known role was as Steven Stone. Due to the Pokémon USA recasting controversy, Paull was initially unable to continue work on that show due to his ties with 4Kids. When Pokémon USA switched dubbing studios to DuArt Film & Video, this allowed Paull to reprise his role as Steven during and .\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nSteven Stone\nBrodie\nOne of the Gym Badge thieves\n\n=====Pokémon=====\n\n==Other non-Pokémon roles==\nConklin ( )\nAdditional Voices ( )\nDracule Mihawk ( )\n\n==External links==\nAnime News Network\n\n \n \n \n\nit:Andrew Paull",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Andrew Paull is a voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Paull became affiliated with 4Kids Entertainment as a voice actor and worked in a few productions. He started working with the during , and his best-known role was as Steven Stone. Due to the Pokémon USA recasting controversy, Paull was initially unable to continue work on that show due to his ties with 4Kids. When Pokémon USA switched dubbing studios to DuArt Film & Video, this allowed Paull to reprise his role as Steven during and ."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Steven Stone\nBrodie\nOne of the Gym Badge thieves"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Conklin ( )\nAdditional Voices ( )\nDracule Mihawk ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anime News Network\n\n \n \n \n\nit:Andrew Paull"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Andrew Paull",
+    "pageType": "general-anime-lore",
+    "searchableText": "Andrew Paull\nCategory:TPCi voice actors\nAndrew Paull is a voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 792,
+    "sectionCount": 5
+  }
+}

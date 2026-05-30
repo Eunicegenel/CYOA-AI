@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon Pocket Monsters volume 12",
+    "slug": "pokemon-pocket-monsters-volume-12",
+    "pageId": 160505,
+    "revisionId": 4354762
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters volumes",
+    "sourceFileName": "pokemon-pocket-monsters-volume-12__160505.json",
+    "revisionTimestamp": "2025-08-08T19:04:43Z",
+    "fetchedAt": "2026-05-14T15:36:53.493Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 12 is the twelfth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 12 is the twelfth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\n\nThe Legendary Ho-oh!!\nLight Up the Lighthouse!!\nCelebi, the Green Guardian\nTyrogue's in Love?!\nTake me to the Dragon Palace!\nClefairy, the Pop Star?!\nDefeat Chuck Style Martial Arts!!\nThe Mysterious Underground Amusement Park\nThe Food Battle\nStop the Strange Sonic Sound!!\n\n==Important events==\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\n\n===Evolutions===\n\n==Gym Battles==\nRed defeats the following Gym Leaders:\n\n==Character summary==\n\n===Red's Party===\n \n\n \n\n \n\nit:Pokémon Pocket Monsters volume 12\nzh:宝可梦欢乐祭12",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 12 is the twelfth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The Legendary Ho-oh!!\nLight Up the Lighthouse!!\nCelebi, the Green Guardian\nTyrogue's in Love?!\nTake me to the Dragon Palace!\nClefairy, the Pop Star?!\nDefeat Chuck Style Martial Arts!!\nThe Mysterious Underground Amusement Park\nThe Food Battle\nStop the Strange Sonic Sound!!"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:"
+    },
+    {
+      "heading": "Gym Battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:"
+    },
+    {
+      "heading": "Red's Party",
+      "level": 3,
+      "text": "it:Pokémon Pocket Monsters volume 12\nzh:宝可梦欢乐祭12"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pocket Monsters volume 12",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pocket Monsters volume 12\nCategory:Pokémon Pocket Monsters volumes\nVolume 12 is the twelfth volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions",
+      "Gym Battles",
+      "Red's Party"
+    ],
+    "characterCount": 688,
+    "sectionCount": 5
+  }
+}

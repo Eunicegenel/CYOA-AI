@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "The Art of Pokémon Adventures",
+    "slug": "the-art-of-pokemon-adventures",
+    "pageId": 213890,
+    "revisionId": 4525931
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures",
+    "sourceFileName": "the-art-of-pokemon-adventures__213890.json",
+    "revisionTimestamp": "2026-04-09T14:06:57Z",
+    "fetchedAt": "2026-05-14T15:51:27.986Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures 20th Anniversary Illustration Book: The Art of Pokémon Adventures (Japanese: Pocket Monsters SPECIAL Satoshi Yamamoto Art Book: The Art of Pocket Monsters SP) is an art book featuring illustrations by Satoshi Yamamoto for the Pokémon Adventures . It is 172 pages long, including an index and the first chapter of the Pokémon Ranger the Comic: Double Mission .",
+  "plainText": "Pokémon Adventures 20th Anniversary Illustration Book: The Art of Pokémon Adventures (Japanese: Pocket Monsters SPECIAL Satoshi Yamamoto Art Book: The Art of Pocket Monsters SP) is an art book featuring illustrations by Satoshi Yamamoto for the Pokémon Adventures . It is 172 pages long, including an index and the first chapter of the Pokémon Ranger the Comic: Double Mission .\n\n==Publications==\n \n \n \n \n \n \n \n\n==In other languages==\n \n\n==Related articles==\n \n \n \n \n\n \n\nes:Pokémon: El libro de Arte\nfr:Pokémon La Grande Aventure - Recueil d'Illustrations\nit:Pokémon - La Grande Avventura. L’arte di Satoshi Yamamoto\nzh:宝可梦特别篇 山本智画集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures 20th Anniversary Illustration Book: The Art of Pokémon Adventures (Japanese: Pocket Monsters SPECIAL Satoshi Yamamoto Art Book: The Art of Pocket Monsters SP) is an art book featuring illustrations by Satoshi Yamamoto for the Pokémon Adventures . It is 172 pages long, including an index and the first chapter of the Pokémon Ranger the Comic: Double Mission ."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Pokémon: El libro de Arte\nfr:Pokémon La Grande Aventure - Recueil d'Illustrations\nit:Pokémon - La Grande Avventura. L’arte di Satoshi Yamamoto\nzh:宝可梦特别篇 山本智画集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Art of Pokémon Adventures",
+    "pageType": "pokemon-related",
+    "searchableText": "The Art of Pokémon Adventures\nCategory:Pokémon Adventures\nPokémon Adventures 20th Anniversary Illustration Book: The Art of Pokémon Adventures (Japanese: Pocket Monsters SPECIAL Satoshi Yamamoto Art Book: The Art of Pocket Monsters SP) is an art book featuring illustrations by Satoshi Yamamoto for the Pokémon Adventures . It is 172 pages long, including an index and the first chapter of the Pokémon Ranger the Comic: Double Mission .",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 632,
+    "sectionCount": 2
+  }
+}

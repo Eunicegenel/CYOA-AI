@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Magikarpenter",
+    "slug": "magikarpenter",
+    "pageId": 253523,
+    "revisionId": 4468108
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "magikarpenter__253523.json",
+    "revisionTimestamp": "2026-01-15T23:16:58Z",
+    "fetchedAt": "2026-05-14T14:34:17.488Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Magikarpenter (Japanese: コイ・キンゲン Koi Kingen) is a character of the day who appeared in Splash, Dash, and Smash for the Crown!.\n\nMagikarpenter competed in the tenth annual Magikarp High Jump Competition with his . He went up against Goh and his in the semifinals but ultimately lost to him.",
+  "plainText": "Magikarpenter (Japanese: コイ・キンゲン Koi Kingen) is a character of the day who appeared in Splash, Dash, and Smash for the Crown!.\n\nMagikarpenter competed in the tenth annual Magikarp High Jump Competition with his . He went up against Goh and his in the semifinals but ultimately lost to him.\n\n==Pokémon==\n \n\n==Pokémon competitions==\nMagikarpenter has competed in the following :\nNinth annual Magikarp High Jump Competition - Runner-Up (one year before Splash, Dash, and Smash for the Crown!)\nTenth annual Magikarp High Jump Competition - Top 4 (Splash, Dash, and Smash for the Crown!)\n \n\n==Names==\n \n \n \n\n \n \n \n \n\nes:Magikarpenter\nit:Magikarpenter\nzh:李瑜望",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magikarpenter (Japanese: コイ・キンゲン Koi Kingen) is a character of the day who appeared in Splash, Dash, and Smash for the Crown!.\n\nMagikarpenter competed in the tenth annual Magikarp High Jump Competition with his . He went up against Goh and his in the semifinals but ultimately lost to him."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Magikarpenter has competed in the following :\nNinth annual Magikarp High Jump Competition - Runner-Up (one year before Splash, Dash, and Smash for the Crown!)\nTenth annual Magikarp High Jump Competition - Top 4 (Splash, Dash, and Smash for the Crown!)"
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Magikarpenter\nit:Magikarpenter\nzh:李瑜望"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Magikarpenter",
+    "pageType": "character",
+    "searchableText": "Magikarpenter\nCategory:Journeys characters of the day\nMagikarpenter (Japanese: コイ・キンゲン Koi Kingen) is a character of the day who appeared in Splash, Dash, and Smash for the Crown!.\n\nMagikarpenter competed in the tenth annual Magikarp High Jump Competition with his . He went up against Goh and his in the semifinals but ultimately lost to him.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Names"
+    ],
+    "characterCount": 652,
+    "sectionCount": 3
+  }
+}

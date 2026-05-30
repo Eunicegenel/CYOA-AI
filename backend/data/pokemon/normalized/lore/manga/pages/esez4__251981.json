@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "ESEZ4",
+    "slug": "esez4",
+    "pageId": 251981,
+    "revisionId": 4549409
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga chapters in need of images",
+    "sourceFileName": "esez4__251981.json",
+    "revisionTimestamp": "2026-05-11T01:52:58Z",
+    "fetchedAt": "2026-05-14T15:18:20.033Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Everyone Has a Story (Japanese: みんなの物語ビギニング Beginning of Everyone's Story) is the fourth and final chapter of Pokémon the Movie: The Power of Us: Zeraora's Story.",
+  "plainText": "Everyone Has a Story (Japanese: みんなの物語ビギニング Beginning of Everyone's Story) is the fourth and final chapter of Pokémon the Movie: The Power of Us: Zeraora's Story.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n===Pokémon===\n\n==In other languages==\n \n\n \n \nit:ESEZ4\nzh:M21M04",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Everyone Has a Story (Japanese: みんなの物語ビギニング Beginning of Everyone's Story) is the fourth and final chapter of Pokémon the Movie: The Power of Us: Zeraora's Story."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:ESEZ4\nzh:M21M04"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ESEZ4",
+    "pageType": "chapter",
+    "searchableText": "ESEZ4\nCategory:Manga chapters in need of images\nEveryone Has a Story (Japanese: みんなの物語ビギニング Beginning of Everyone's Story) is the fourth and final chapter of Pokémon the Movie: The Power of Us: Zeraora's Story.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 336,
+    "sectionCount": 2
+  }
+}

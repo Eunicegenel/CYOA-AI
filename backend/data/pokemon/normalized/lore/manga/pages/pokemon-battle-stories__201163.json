@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Battle Stories",
+    "slug": "pokemon-battle-stories",
+    "pageId": 201163,
+    "revisionId": 4527916
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battle Stories",
+    "sourceFileName": "pokemon-battle-stories__201163.json",
+    "revisionTimestamp": "2026-04-09T16:00:29Z",
+    "fetchedAt": "2026-05-14T15:35:47.627Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモンバトルストーリーズ Pokémon Battle Stories) is a Pokémon manga created by Miho Asada. It is about the struggles of a girl named Wakaba, a reporter in charge of creating a book about Pokémon. She travels to various places to interview trainers.",
+  "plainText": "(Japanese: ポケモンバトルストーリーズ Pokémon Battle Stories) is a Pokémon manga created by Miho Asada. It is about the struggles of a girl named Wakaba, a reporter in charge of creating a book about Pokémon. She travels to various places to interview trainers.\n\n==Publications==\nPokémon Battle Stories has only ever been published in its original magazine. It was serialized in Shogaku Ninensei over fourteen issues from April 2011 to May 2012.\n\n \n \n \n\nit:Pokémon Battle Stories\nzh:宝可梦对战故事",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンバトルストーリーズ Pokémon Battle Stories) is a Pokémon manga created by Miho Asada. It is about the struggles of a girl named Wakaba, a reporter in charge of creating a book about Pokémon. She travels to various places to interview trainers."
+    },
+    {
+      "heading": "Publications",
+      "level": 2,
+      "text": "Pokémon Battle Stories has only ever been published in its original magazine. It was serialized in Shogaku Ninensei over fourteen issues from April 2011 to May 2012.\n\n \n \n \n\nit:Pokémon Battle Stories\nzh:宝可梦对战故事"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Battle Stories",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Battle Stories\nCategory:Pokémon Battle Stories\n(Japanese: ポケモンバトルストーリーズ Pokémon Battle Stories) is a Pokémon manga created by Miho Asada. It is about the struggles of a girl named Wakaba, a reporter in charge of creating a book about Pokémon. She travels to various places to interview trainers.",
+    "sectionHeadings": [
+      "Lead",
+      "Publications"
+    ],
+    "characterCount": 477,
+    "sectionCount": 2
+  }
+}

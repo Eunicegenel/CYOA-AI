@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Kanto Pokémon Federation",
+    "slug": "kanto-pokemon-federation",
+    "pageId": 66682,
+    "revisionId": 4316092
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "kanto-pokemon-federation__66682.json",
+    "revisionTimestamp": "2025-06-05T15:51:12Z",
+    "fetchedAt": "2026-05-14T15:23:14.161Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "]]\nThe Kanto Pokémon Federation (Japanese: カントーポケモンれんごう Kanto Pokémon Federation) is a Trainer group composed of s (and a in ) from Kanto.",
+  "plainText": "]]\nThe Kanto Pokémon Federation (Japanese: カントーポケモンれんごう Kanto Pokémon Federation) is a Trainer group composed of s (and a in ) from Kanto.\n\n==In the games==\n===Generation II===\nThe Kanto Pokémon Federation first appears in as an affiliation of three s on . The on their route was shut down by the police after they (presumably) wrecked it. Their overworld sprites differ by color: Dwayne's is red, Harris's is green and Zeke's is blue.\n\n \n \n \n \n \n \n \n\n===Generation III===\nIn , the group is known as Kanto Rider Federation (Japanese: カントーれんごう Kanto Federation). They are formed by eight members, here called Goons, and their boss, who are found trying to take over , terrorizing its citizens. To fight them, the must first go to Joyful Game Corner, where one of the members will show up looking for his teammates.\n\n \n \n \n \n \n \n \n \n \n\n===Generation IV===\nThe Kanto Pokémon Federation is present in and plays the same role from Generation II, but using Pokémon in higher levels and rewarding lower prizes. Their overworld sprites don't differ anymore.\n\n \n \n \n \n \n \n \n\n===Sprites===\n \n\n==In the manga==\n===Pokémon Adventures===\nThe Kanto Federation appeared in A Vicious Cycle of Possibilities. Having arrived at Three Island, they were attempting to vandalize Berry Forest. On their way, they found Lostelle, who was looking for her . Their boss threatened the little girl, grabbing her by the shirt. At that moment, appeared and smashed the group and their motorbikes. Their boss then heard someone stepping by and asked for help, but instead hit him back, disgusted by how little effort the bikers were putting into being evil.\n\n====Pokémon====\nThe following is a list of Pokémon owned by the Federation.\n \n\n==Trivia==\nIn , two s were added to . However, they don't seem to be related to the Kanto Pokémon Federation.\n\n==In other languages==\n \n \n\n \n \n \n \n\nes:Federación de Motociclistas de Kanto\nit:Federazione Pokémon di Kanto",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "]]\nThe Kanto Pokémon Federation (Japanese: カントーポケモンれんごう Kanto Pokémon Federation) is a Trainer group composed of s (and a in ) from Kanto."
+    },
+    {
+      "heading": "Generation II",
+      "level": 3,
+      "text": "The Kanto Pokémon Federation first appears in as an affiliation of three s on . The on their route was shut down by the police after they (presumably) wrecked it. Their overworld sprites differ by color: Dwayne's is red, Harris's is green and Zeke's is blue."
+    },
+    {
+      "heading": "Generation III",
+      "level": 3,
+      "text": "In , the group is known as Kanto Rider Federation (Japanese: カントーれんごう Kanto Federation). They are formed by eight members, here called Goons, and their boss, who are found trying to take over , terrorizing its citizens. To fight them, the must first go to Joyful Game Corner, where one of the members will show up looking for his teammates."
+    },
+    {
+      "heading": "Generation IV",
+      "level": 3,
+      "text": "The Kanto Pokémon Federation is present in and plays the same role from Generation II, but using Pokémon in higher levels and rewarding lower prizes. Their overworld sprites don't differ anymore."
+    },
+    {
+      "heading": "Pokémon Adventures",
+      "level": 3,
+      "text": "The Kanto Federation appeared in A Vicious Cycle of Possibilities. Having arrived at Three Island, they were attempting to vandalize Berry Forest. On their way, they found Lostelle, who was looking for her . Their boss threatened the little girl, grabbing her by the shirt. At that moment, appeared and smashed the group and their motorbikes. Their boss then heard someone stepping by and asked for help, but instead hit him back, disgusted by how little effort the bikers were putting into being evil."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 4,
+      "text": "The following is a list of Pokémon owned by the Federation."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In , two s were added to . However, they don't seem to be related to the Kanto Pokémon Federation."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Federación de Motociclistas de Kanto\nit:Federazione Pokémon di Kanto"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kanto Pokémon Federation",
+    "pageType": "character",
+    "searchableText": "Kanto Pokémon Federation\nCategory:Pokémon Adventures characters\n]]\nThe Kanto Pokémon Federation (Japanese: カントーポケモンれんごう Kanto Pokémon Federation) is a Trainer group composed of s (and a in ) from Kanto.",
+    "sectionHeadings": [
+      "Lead",
+      "Generation II",
+      "Generation III",
+      "Generation IV",
+      "Pokémon Adventures",
+      "Pokémon",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1927,
+    "sectionCount": 8
+  }
+}

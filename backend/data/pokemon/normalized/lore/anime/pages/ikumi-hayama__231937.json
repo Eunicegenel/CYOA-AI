@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Ikumi Hayama",
+    "slug": "ikumi-hayama",
+    "pageId": 231937,
+    "revisionId": 4323656
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "ikumi-hayama__231937.json",
+    "revisionTimestamp": "2025-06-24T03:33:56Z",
+    "fetchedAt": "2026-05-14T14:24:50.404Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Ikumi Hayama (Japanese: 葉山いくみ Hayama Ikumi) is a Japanese voice actress for . She is also credited as Ikumi Fujiwara (Japanese: 郁美藤原 Fujiwara Ikumi).",
+  "plainText": "Ikumi Hayama (Japanese: 葉山いくみ Hayama Ikumi) is a Japanese voice actress for . She is also credited as Ikumi Fujiwara (Japanese: 郁美藤原 Fujiwara Ikumi).\n\n==Biography==\nHayama was born on November 17, 1984, in , . She became a voice actress as an adult, and also provided her voice for narrations. She joined the during , voicing Burgundy, 's main rival. Hayama was once affiliated with the talent agency Vi-Vo, but is currently affiliated with Clare Voice.\n\n==Pokémon roles==\n===Animation===\n==== ====\nBurgundy\n\n==Other non-Pokémon roles==\nLaki Olietta ( )\nYoshinari, Yuriko Isoyama ( )\nArisa ( )\nYuki Shiomi ( )\nSakiko Matsuoka ( )\nNekonyā ( )\nAnca Rheinberger ( )\nSayaka Kirasaka ( )\nAkino Terai ( )\nEleanor, Kaname ( )\nTsubaki Andou, Valroph ( )\nHiroko Azuma ( )\n\n==External links==\nOfficial blog\n\n \n\n \n\nde:Ikumi Hayama\nit:Ikumi Hayama",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ikumi Hayama (Japanese: 葉山いくみ Hayama Ikumi) is a Japanese voice actress for . She is also credited as Ikumi Fujiwara (Japanese: 郁美藤原 Fujiwara Ikumi)."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hayama was born on November 17, 1984, in , . She became a voice actress as an adult, and also provided her voice for narrations. She joined the during , voicing Burgundy, 's main rival. Hayama was once affiliated with the talent agency Vi-Vo, but is currently affiliated with Clare Voice."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Burgundy"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Laki Olietta ( )\nYoshinari, Yuriko Isoyama ( )\nArisa ( )\nYuki Shiomi ( )\nSakiko Matsuoka ( )\nNekonyā ( )\nAnca Rheinberger ( )\nSayaka Kirasaka ( )\nAkino Terai ( )\nEleanor, Kaname ( )\nTsubaki Andou, Valroph ( )\nHiroko Azuma ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official blog\n\n \n\n \n\nde:Ikumi Hayama\nit:Ikumi Hayama"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ikumi Hayama",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ikumi Hayama\nCategory:Japanese voice actors\nIkumi Hayama (Japanese: 葉山いくみ Hayama Ikumi) is a Japanese voice actress for . She is also credited as Ikumi Fujiwara (Japanese: 郁美藤原 Fujiwara Ikumi).",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 835,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Delbert",
+    "slug": "delbert",
+    "pageId": 156432,
+    "revisionId": 4318543
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "delbert__156432.json",
+    "revisionTimestamp": "2025-06-11T19:54:37Z",
+    "fetchedAt": "2026-05-14T14:11:34.890Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Delbert (Japanese: ドモン Domon) is a minor recurring character in .\n\nHe first appeared in The Clubsplosion Begins!, where he was a participant of the Clubsplosion tournament. Delbert's first opponent was Montgomery, who he battled in Search for the Clubultimate!. Though Delbert started out confident during the match and made the first move, he was taken aback by Montgomery's 's evasive techniques and heavy-handed approach. The quick match ended with Delbert's loss.",
+  "plainText": "Delbert (Japanese: ドモン Domon) is a minor recurring character in .\n\nHe first appeared in The Clubsplosion Begins!, where he was a participant of the Clubsplosion tournament. Delbert's first opponent was Montgomery, who he battled in Search for the Clubultimate!. Though Delbert started out confident during the match and made the first move, he was taken aback by Montgomery's 's evasive techniques and heavy-handed approach. The quick match ended with Delbert's loss.\n\n==Pokémon==\n \n\n==Pokémon competitions==\nDelbert has competed in the following :\nClubsplosion - Top 16 (Search for the Clubultimate!)\n\n==Voice actors==\n \n\n \n\n \n \n\nes:Delbert\nfr:Albert (Tournoi Donamite)\nit:Delbert\nzh:杜蒙",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Delbert (Japanese: ドモン Domon) is a minor recurring character in .\n\nHe first appeared in The Clubsplosion Begins!, where he was a participant of the Clubsplosion tournament. Delbert's first opponent was Montgomery, who he battled in Search for the Clubultimate!. Though Delbert started out confident during the match and made the first move, he was taken aback by Montgomery's 's evasive techniques and heavy-handed approach. The quick match ended with Delbert's loss."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Delbert has competed in the following :\nClubsplosion - Top 16 (Search for the Clubultimate!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Delbert\nfr:Albert (Tournoi Donamite)\nit:Delbert\nzh:杜蒙"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Delbert",
+    "pageType": "character",
+    "searchableText": "Delbert\nCategory:Animation characters\nDelbert (Japanese: ドモン Domon) is a minor recurring character in .\n\nHe first appeared in The Clubsplosion Begins!, where he was a participant of the Clubsplosion tournament. Delbert's first opponent was Montgomery, who he battled in Search for the Clubultimate!. Though Delbert started out confident during the match and made the first move, he was taken aback by Montgomery's 's evasive techniques and heavy-handed approach. The quick match ended with Delbert's loss.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 687,
+    "sectionCount": 3
+  }
+}

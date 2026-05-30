@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PW33",
+    "slug": "pw33",
+    "pageId": 182558,
+    "revisionId": 4528115
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw33__182558.json",
+    "revisionTimestamp": "2026-04-09T16:07:35Z",
+    "fetchedAt": "2026-05-14T15:46:48.521Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ぐるぐるぐるぐるオムナイト Roly-Poly Roly-Poly ) is the thirty third chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno.",
+  "plainText": "(Japanese: ぐるぐるぐるぐるオムナイト Roly-Poly Roly-Poly ) is the thirty third chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno.\n\n==Plot==\n \n\n==Major events==\n\n==Characters==\n===Humans===\nMaki\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ぐるぐるぐるぐるオムナイト Roly-Poly Roly-Poly ) is the thirty third chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Maki"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW33",
+    "pageType": "chapter",
+    "searchableText": "PW33\nCategory:How I Became a Pokémon Card chapters\n(Japanese: ぐるぐるぐるぐるオムナイト Roly-Poly Roly-Poly ) is the thirty third chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 229,
+    "sectionCount": 2
+  }
+}

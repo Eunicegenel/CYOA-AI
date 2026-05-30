@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Tahnti Park",
+    "slug": "tahnti-park",
+    "pageId": 235981,
+    "revisionId": 4545611
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu locations",
+    "sourceFileName": "tahnti-park__235981.json",
+    "revisionTimestamp": "2026-05-06T07:47:52Z",
+    "fetchedAt": "2026-05-14T14:52:53.749Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Tahnti Park (Japanese: タンティ Tahnti Park) is a park home to various species of Pokémon located in the downtown of Ryme City southeast of the central square in the game . The second part of Chapter 1 takes place here.\n\nThe park is divided into three areas: the fountain area in the center, the nature area to the west, and the café area to the east.",
+  "plainText": "Tahnti Park (Japanese: タンティ Tahnti Park) is a park home to various species of Pokémon located in the downtown of Ryme City southeast of the central square in the game . The second part of Chapter 1 takes place here.\n\nThe park is divided into three areas: the fountain area in the center, the nature area to the west, and the café area to the east.\n\n==Pokémon==\n \n\n==Layout==\n \n\n==In other languages==\n \n\n \n \n\n \n\nde:Ryme City#Tahnti Park\nzh:探堤公园",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tahnti Park (Japanese: タンティ Tahnti Park) is a park home to various species of Pokémon located in the downtown of Ryme City southeast of the central square in the game . The second part of Chapter 1 takes place here.\n\nThe park is divided into three areas: the fountain area in the center, the nature area to the west, and the café area to the east."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Ryme City#Tahnti Park\nzh:探堤公园"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tahnti Park",
+    "pageType": "location",
+    "searchableText": "Tahnti Park\nCategory:Detective Pikachu locations\nTahnti Park (Japanese: タンティ Tahnti Park) is a park home to various species of Pokémon located in the downtown of Ryme City southeast of the central square in the game . The second part of Chapter 1 takes place here.\n\nThe park is divided into three areas: the fountain area in the center, the nature area to the west, and the café area to the east.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 444,
+    "sectionCount": 2
+  }
+}

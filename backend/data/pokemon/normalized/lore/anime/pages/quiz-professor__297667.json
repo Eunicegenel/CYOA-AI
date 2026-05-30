@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Quiz professor",
+    "slug": "quiz-professor",
+    "pageId": 297667,
+    "revisionId": 4330643
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "quiz-professor__297667.json",
+    "revisionTimestamp": "2025-07-05T04:58:00Z",
+    "fetchedAt": "2026-05-14T14:45:27.809Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The quiz professor (Japanese: クイズハカセ Quiz professor) is a character in the game Detective Pikachu Returns. She is a Pokémon studies major at Ryme University.",
+  "plainText": "The quiz professor (Japanese: クイズハカセ Quiz professor) is a character in the game Detective Pikachu Returns. She is a Pokémon studies major at Ryme University.\n\n==In the games==\n===Detective Pikachu Returns===\nThe quiz professor is an infamous student at Ryme University, the university that Tim attends. She loves sharing the knowledge that she's learned in her major, Pokémon studies, by quizzing people about Pokémon, earning her nickname. Her real name is unknown. In addition, she enjoys writing the daily crossword puzzle in Ryme City's daily newspaper.\n\nShe first appears in Serenity Park after Tim Goodman and have interviewed . She's honored to meet Tim and Pikachu, and she's shocked that they don't know her. She appears again at the Southern Ruins, 2nd Avenue, and Bamboo Borough. \n\nEach time she appears, she quizzes Tim about three species of Pokémon that can be found somewhere in the area. She describes something about the Pokémon's appearance or characteristics, and Tim has to figure out which Pokémon she's talking about. This is accomplished by finding the Pokémon and talking to it after the quiz professor gives the hint; talking to the Pokémon before getting its hint from the quiz professor does not allow the player to immediately answer the question. If the player answers all three of the quiz professor's questions before completing the current chapter, the daily crossword will appear in the newspaper the following day, with each hint and answer being identical to the ones in the quiz professor's last quiz.\n\nThe following table lists all the quiz professor's questions and answers for each chapter.\n \n\n===Pokémon===\nThe quiz professor's partner , and only known Pokémon, is Toucannon.\n\n \n\n \n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The quiz professor (Japanese: クイズハカセ Quiz professor) is a character in the game Detective Pikachu Returns. She is a Pokémon studies major at Ryme University."
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "The quiz professor is an infamous student at Ryme University, the university that Tim attends. She loves sharing the knowledge that she's learned in her major, Pokémon studies, by quizzing people about Pokémon, earning her nickname. Her real name is unknown. In addition, she enjoys writing the daily crossword puzzle in Ryme City's daily newspaper.\n\nShe first appears in Serenity Park after Tim Goodman and have interviewed . She's honored to meet Tim and Pikachu, and she's shocked that they don't know her. She appears again at the Southern Ruins, 2nd Avenue, and Bamboo Borough. \n\nEach time she appears, she quizzes Tim about three species of Pokémon that can be found somewhere in the area. She describes something about the Pokémon's appearance or characteristics, and Tim has to figure out which Pokémon she's talking about. This is accomplished by finding the Pokémon and talking to it after the quiz professor gives the hint; talking to the Pokémon before getting its hint from the quiz professor does not allow the player to immediately answer the question. If the player answers all three of the quiz professor's questions before completing the current chapter, the daily crossword will appear in the newspaper the following day, with each hint and answer being identical to the ones in the quiz professor's last quiz.\n\nThe following table lists all the quiz professor's questions and answers for each chapter."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "The quiz professor's partner , and only known Pokémon, is Toucannon."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Quiz professor",
+    "pageType": "character",
+    "searchableText": "Quiz professor\nCategory:Detective Pikachu Returns characters\nThe quiz professor (Japanese: クイズハカセ Quiz professor) is a character in the game Detective Pikachu Returns. She is a Pokémon studies major at Ryme University.",
+    "sectionHeadings": [
+      "Lead",
+      "Detective Pikachu Returns",
+      "Pokémon"
+    ],
+    "characterCount": 1769,
+    "sectionCount": 3
+  }
+}

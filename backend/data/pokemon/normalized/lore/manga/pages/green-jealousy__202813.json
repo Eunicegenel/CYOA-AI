@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Green Jealousy",
+    "slug": "green-jealousy",
+    "pageId": 202813,
+    "revisionId": 4168573
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "green-jealousy__202813.json",
+    "revisionTimestamp": "2024-10-26T19:01:14Z",
+    "fetchedAt": "2026-05-14T15:20:50.414Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Green Jealousy is the twenty-third monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 35th and 36th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Green Jealousy is the twenty-third monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 35th and 36th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n==Blurb==\nEASY DOES IT\n\nAs a favor, Hazel must take care of a group of Hoppip for the day. Can she handle the stress of being around dozens of these crazy characters? \n\nThen, Chikorita and Pistachio are getting cozyŠbut Bulba might have something to say about it!\n\n==Publications==\n \n \n\n==Chapters==\nPoké-Mom\nGreen Jealousy\n\n==Important events==\nChiko is introduced\nThis is Pistachio's final appearance.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Green Jealousy is the twenty-third monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 35th and 36th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "EASY DOES IT\n\nAs a favor, Hazel must take care of a group of Hoppip for the day. Can she handle the stress of being around dozens of these crazy characters? \n\nThen, Chikorita and Pistachio are getting cozyŠbut Bulba might have something to say about it!"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Poké-Mom\nGreen Jealousy"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Chiko is introduced\nThis is Pistachio's final appearance."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Green Jealousy",
+    "pageType": "pokemon-related",
+    "searchableText": "Green Jealousy\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Green Jealousy is the twenty-third monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 35th and 36th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 789,
+    "sectionCount": 4
+  }
+}

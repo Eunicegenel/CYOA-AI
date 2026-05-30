@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Pocket Comics: XY",
+    "slug": "pokemon-pocket-comics-xy",
+    "pageId": 216371,
+    "revisionId": 4130646
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 4Koma",
+    "sourceFileName": "pokemon-pocket-comics-xy__216371.json",
+    "revisionTimestamp": "2024-09-29T03:49:54Z",
+    "fetchedAt": "2026-05-14T15:36:50.073Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Pocket Comics: XY (Japanese: ポケモンＸ・Ｙ爆笑４コマまんが全集 Pokémon X & Y Laughter 4Koma Comic Compilation) is a Pokémon 4Koma created by 春風邪三太 Santa Harukaze with cooperation from ShoPro and design by Sasaki Tariji. It is 240 pages long.",
+  "plainText": "Pokémon Pocket Comics: XY (Japanese: ポケモンＸ・Ｙ爆笑４コマまんが全集 Pokémon X & Y Laughter 4Koma Comic Compilation) is a Pokémon 4Koma created by 春風邪三太 Santa Harukaze with cooperation from ShoPro and design by Sasaki Tariji. It is 240 pages long.\n\n==Publications==\n \n \n \n\n==Related articles==\nPokémon Pocket Comics: Black & White\nPokémon Pocket Comics: Legendary Pokémon\nPokémon Pocket Comics: Classic\nPokémon Pocket Comics: Sun & Moon\n\n==External links==\nShogakukan's website\nVIZ Media's website\n\n \n \n \n\n \n\nit:Pokémon Pocket Comics: XY\nzh:宝可梦X・Y爆笑四格漫画全集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Pocket Comics: XY (Japanese: ポケモンＸ・Ｙ爆笑４コマまんが全集 Pokémon X & Y Laughter 4Koma Comic Compilation) is a Pokémon 4Koma created by 春風邪三太 Santa Harukaze with cooperation from ShoPro and design by Sasaki Tariji. It is 240 pages long."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Pokémon Pocket Comics: Black & White\nPokémon Pocket Comics: Legendary Pokémon\nPokémon Pocket Comics: Classic\nPokémon Pocket Comics: Sun & Moon"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Shogakukan's website\nVIZ Media's website\n\n \n \n \n\n \n\nit:Pokémon Pocket Comics: XY\nzh:宝可梦X・Y爆笑四格漫画全集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pocket Comics: XY",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pocket Comics: XY\nCategory:Pokémon 4Koma\nPokémon Pocket Comics: XY (Japanese: ポケモンＸ・Ｙ爆笑４コマまんが全集 Pokémon X & Y Laughter 4Koma Comic Compilation) is a Pokémon 4Koma created by 春風邪三太 Santa Harukaze with cooperation from ShoPro and design by Sasaki Tariji. It is 240 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles",
+      "External links"
+    ],
+    "characterCount": 541,
+    "sectionCount": 3
+  }
+}

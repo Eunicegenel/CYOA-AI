@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP46",
+    "slug": "ppp46",
+    "pageId": 6630,
+    "revisionId": 4526713
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp46__6630.json",
+    "revisionTimestamp": "2026-04-09T15:03:04Z",
+    "fetchedAt": "2026-05-14T15:39:05.500Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Chikorita's Saint Valentine (Japanese: チコのｓｔバレンタインの巻, 's St. Valentine), is the third chapter of the eighth volume of Magical Pokémon Journey.",
+  "plainText": "Chikorita's Saint Valentine (Japanese: チコのｓｔバレンタインの巻, 's St. Valentine), is the third chapter of the eighth volume of Magical Pokémon Journey.\n\n==Plot==\n \nChiko wants to make Valentine's Day chocolate for Almond, but she's no good at it. And is it really Almond her heart is set on?\n\n==Important characters and Pokémon==\nChiko\nHazel\nCoconut\n\nPeanut\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chikorita's Saint Valentine (Japanese: チコのｓｔバレンタインの巻, 's St. Valentine), is the third chapter of the eighth volume of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Chiko wants to make Valentine's Day chocolate for Almond, but she's no good at it. And is it really Almond her heart is set on?"
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Chiko\nHazel\nCoconut\n\nPeanut"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP46",
+    "pageType": "chapter",
+    "searchableText": "PPP46\nCategory:Magical Pokémon Journey chapters\nChikorita's Saint Valentine (Japanese: チコのｓｔバレンタインの巻, 's St. Valentine), is the third chapter of the eighth volume of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon"
+    ],
+    "characterCount": 399,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW23",
+    "slug": "pmbw23",
+    "pageId": 171709,
+    "revisionId": 4528490
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw23__171709.json",
+    "revisionTimestamp": "2026-04-09T16:23:54Z",
+    "fetchedAt": "2026-05-14T15:31:57.832Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: レッド、涙の卒業式…！？ Red, Graduation Ceremony of Tears...!?) is the twenty-third chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: レッド、涙の卒業式…！？ Red, Graduation Ceremony of Tears...!?) is the twenty-third chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: レッド、涙の卒業式…！？ Red, Graduation Ceremony of Tears...!?) is the twenty-third chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW23",
+    "pageType": "chapter",
+    "searchableText": "PMBW23\nCategory:Pocket Monsters BW chapters\n(Japanese: レッド、涙の卒業式…！？ Red, Graduation Ceremony of Tears...!?) is the twenty-third chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 261,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "RB45",
+    "slug": "rb45",
+    "pageId": 155165,
+    "revisionId": 4246112
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb45__155165.json",
+    "revisionTimestamp": "2025-02-23T05:34:22Z",
+    "fetchedAt": "2026-05-14T15:47:44.206Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: カルタの村へ！ To Karuta's Village!) is the 45th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: カルタの村へ！ To Karuta's Village!) is the 45th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nRyouga, Karuta, Miruto, and Yappy go to Karuta's village with the purchased medicine.\nA member of Great Gavel, Rūkamu, attacks the group.\n\n===Debuts===\n====Humans====\nRūkamu\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKaruta\nRyouga\nMiruto\nYappy\nRūkamu\n\n===Pokémon===\n(Ryouga's)\n(Karuta's)\n(Rūkamu's)\n\n \n \n \n\n \n\nzh:RB45",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: カルタの村へ！ To Karuta's Village!) is the 45th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga, Karuta, Miruto, and Yappy go to Karuta's village with the purchased medicine.\nA member of Great Gavel, Rūkamu, attacks the group."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Rūkamu"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Karuta\nRyouga\nMiruto\nYappy\nRūkamu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ryouga's)\n(Karuta's)\n(Rūkamu's)\n\n \n \n \n\n \n\nzh:RB45"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB45",
+    "pageType": "chapter",
+    "searchableText": "RB45\nCategory:Pokémon RéBURST chapters\n(Japanese: カルタの村へ！ To Karuta's Village!) is the 45th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 448,
+    "sectionCount": 5
+  }
+}

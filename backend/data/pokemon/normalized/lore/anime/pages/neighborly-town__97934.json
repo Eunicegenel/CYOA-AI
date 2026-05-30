@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Neighborly Town",
+    "slug": "neighborly-town",
+    "pageId": 97934,
+    "revisionId": 4345269
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "neighborly-town__97934.json",
+    "revisionTimestamp": "2025-07-28T06:27:44Z",
+    "fetchedAt": "2026-05-14T14:39:06.682Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Neighborly Town (Japanese: トナリノタウン Tonarino Town) is an -exclusive location in Sinnoh. Like many other towns in the region, it is home to a Contest Hall. It was featured in Teaching the Student Teacher!.\n\nTop Coordinator Johanna was invited to join Mr. Contesta and Mr. Sukizo in the panel of judges for the town's Pokémon Contest because the local Nurse Joy was taking care of too many and would not be able to attend.\n\nJessilina was among the several s participating in the Neighborly Contest, which was one of the seven remaining Pokémon Contests to be held before the Sinnoh Grand Festival following Marian's announcement in Fighting Ire with Fire!. She made it all the way to the finals and was able to win the event, earning her fourth Ribbon with the help of her .",
+  "plainText": "Neighborly Town (Japanese: トナリノタウン Tonarino Town) is an -exclusive location in Sinnoh. Like many other towns in the region, it is home to a Contest Hall. It was featured in Teaching the Student Teacher!.\n\nTop Coordinator Johanna was invited to join Mr. Contesta and Mr. Sukizo in the panel of judges for the town's Pokémon Contest because the local Nurse Joy was taking care of too many and would not be able to attend.\n\nJessilina was among the several s participating in the Neighborly Contest, which was one of the seven remaining Pokémon Contests to be held before the Sinnoh Grand Festival following Marian's announcement in Fighting Ire with Fire!. She made it all the way to the finals and was able to win the event, earning her fourth Ribbon with the help of her .\n\n==Names==\n \n \n\n \n \n\n \n\nde:Nachbarstadt\nes:Pueblo Vecino\nfr:Voisinville\nit:Amicopoli\nzh:鄰之鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Neighborly Town (Japanese: トナリノタウン Tonarino Town) is an -exclusive location in Sinnoh. Like many other towns in the region, it is home to a Contest Hall. It was featured in Teaching the Student Teacher!.\n\nTop Coordinator Johanna was invited to join Mr. Contesta and Mr. Sukizo in the panel of judges for the town's Pokémon Contest because the local Nurse Joy was taking care of too many and would not be able to attend.\n\nJessilina was among the several s participating in the Neighborly Contest, which was one of the seven remaining Pokémon Contests to be held before the Sinnoh Grand Festival following Marian's announcement in Fighting Ire with Fire!. She made it all the way to the finals and was able to win the event, earning her fourth Ribbon with the help of her ."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:Nachbarstadt\nes:Pueblo Vecino\nfr:Voisinville\nit:Amicopoli\nzh:鄰之鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Neighborly Town",
+    "pageType": "location",
+    "searchableText": "Neighborly Town\nCategory:Animated series-exclusive locations\nNeighborly Town (Japanese: トナリノタウン Tonarino Town) is an -exclusive location in Sinnoh. Like many other towns in the region, it is home to a Contest Hall. It was featured in Teaching the Student Teacher!.\n\nTop Coordinator Johanna was invited to join Mr. Contesta and Mr. Sukizo in the panel of judges for the town's Pokémon Contest because the local Nurse Joy was taking care of too many and would not be able to attend.\n\nJessilina was among the several s participating in the Neighborly Contest, which was one of the seven remaining Pokémon Contests to be held before the Sinnoh Grand Festival following Marian's announcement in Fighting Ire with Fire!. She made it all the way to the finals and was able to win the event, earning her fourth Ribbon with the help of her .",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 863,
+    "sectionCount": 2
+  }
+}

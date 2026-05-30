@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Oshou Kamo",
+    "slug": "oshou-kamo",
+    "pageId": 297951,
+    "revisionId": 4324803
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures characters",
+    "sourceFileName": "oshou-kamo__297951.json",
+    "revisionTimestamp": "2025-06-26T19:47:56Z",
+    "fetchedAt": "2026-05-14T14:40:33.853Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Oshou Kamo (Japanese: 加茂和尚 Kamo Oshō) is a supporting character of A Pocketful of Adventures. He is a renowned advertiser who works with ADventure and WonderCreate.",
+  "plainText": "Oshou Kamo (Japanese: 加茂和尚 Kamo Oshō) is a supporting character of A Pocketful of Adventures. He is a renowned advertiser who works with ADventure and WonderCreate.\n==History==\n==Character==\n==Names==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Oshou Kamo (Japanese: 加茂和尚 Kamo Oshō) is a supporting character of A Pocketful of Adventures. He is a renowned advertiser who works with ADventure and WonderCreate."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Oshou Kamo",
+    "pageType": "character",
+    "searchableText": "Oshou Kamo\nCategory:A Pocketful of Adventures characters\nOshou Kamo (Japanese: 加茂和尚 Kamo Oshō) is a supporting character of A Pocketful of Adventures. He is a renowned advertiser who works with ADventure and WonderCreate.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 200,
+    "sectionCount": 1
+  }
+}

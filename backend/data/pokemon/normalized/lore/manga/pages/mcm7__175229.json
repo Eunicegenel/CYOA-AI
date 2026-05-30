@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "MCM7",
+    "slug": "mcm7",
+    "pageId": 175229,
+    "revisionId": 4528527
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Aim to Be a Card Master!! chapters",
+    "sourceFileName": "mcm7__175229.json",
+    "revisionTimestamp": "2026-04-09T16:25:18Z",
+    "fetchedAt": "2026-05-14T15:26:17.091Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ワールドチャレンジ夏（後編）　決戦への前奏曲 The Summer World Challenge (Part One) \"The Prelude to the Decisive Battle\") is the seventh chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.",
+  "plainText": "(Japanese: ワールドチャレンジ夏（後編）　決戦への前奏曲 The Summer World Challenge (Part One) \"The Prelude to the Decisive Battle\") is the seventh chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKenta Minamii\n\n===Pokémon===\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ワールドチャレンジ夏（後編）　決戦への前奏曲 The Summer World Challenge (Part One) \"The Prelude to the Decisive Battle\") is the seventh chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kenta Minamii"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MCM7",
+    "pageType": "chapter",
+    "searchableText": "MCM7\nCategory:Aim to Be a Card Master!! chapters\n(Japanese: ワールドチャレンジ夏（後編）　決戦への前奏曲 The Summer World Challenge (Part One) \"The Prelude to the Decisive Battle\") is the seventh chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 322,
+    "sectionCount": 3
+  }
+}

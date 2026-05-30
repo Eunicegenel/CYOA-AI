@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Three punks",
+    "slug": "three-punks",
+    "pageId": 79903,
+    "revisionId": 4288099
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands characters of the day",
+    "sourceFileName": "three-punks__79903.json",
+    "revisionTimestamp": "2025-04-26T22:14:16Z",
+    "fetchedAt": "2026-05-14T14:54:23.375Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The three punks are Pokémon Trainers in the Orange Islands. They are characters of the day who appeared in the episode The Lost Lapras.",
+  "plainText": "The three punks are Pokémon Trainers in the Orange Islands. They are characters of the day who appeared in the episode The Lost Lapras.\n\n==In animation==\n===History===\n and discovered the three punks abusing a . Apparently, they wanted to use it to travel through the Orange Islands so that they could challenge the Orange Crew. They struck it repeatedly with sticks in order to get it to move. They were confronted by Ash and Misty and a battle ensued. As they were about to begin, they were stopped by a then unknown who examined their Pokémon. He stated that all of their Pokémon were \"pitifully underdeveloped\". While Tracey was about to test 's , the three punks attacked. Pikachu let out a strong Thunder Shock attack which shocked them and their Pokémon, as well as Tracey. The three punks then ran away in fear.\n\nBecause of what these Trainers did to it, Lapras started off not trusting humans. It eventually had a change of heart by the end of the episode once it saw what Ash was willing to do for it.\n\n===Pokémon===\n \n \n \n \n\n==In the manga==\n===The Electric Tale of Pikachu===\n \n\nThe three punks appear in The Orange Islands as a set of Trainers who are the first ones Ash met on the Orange Islands. They reappear in a flashback in The Orange Crew Supreme Gym Leader.\n\nUnlike in the animated series, the trio do not beat up a as a group of do it instead.\n\n====Pokémon====\n \n\n==Voice actors==\n \n \n \n\n \n \n \n \n\nde:Drei Typen am Strand\nes:Chicos de la playa\nit:Tre teppisti\nja:不良三人組\nzh:不良少年",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The three punks are Pokémon Trainers in the Orange Islands. They are characters of the day who appeared in the episode The Lost Lapras."
+    },
+    {
+      "heading": "History",
+      "level": 3,
+      "text": "and discovered the three punks abusing a . Apparently, they wanted to use it to travel through the Orange Islands so that they could challenge the Orange Crew. They struck it repeatedly with sticks in order to get it to move. They were confronted by Ash and Misty and a battle ensued. As they were about to begin, they were stopped by a then unknown who examined their Pokémon. He stated that all of their Pokémon were \"pitifully underdeveloped\". While Tracey was about to test 's , the three punks attacked. Pikachu let out a strong Thunder Shock attack which shocked them and their Pokémon, as well as Tracey. The three punks then ran away in fear.\n\nBecause of what these Trainers did to it, Lapras started off not trusting humans. It eventually had a change of heart by the end of the episode once it saw what Ash was willing to do for it."
+    },
+    {
+      "heading": "The Electric Tale of Pikachu",
+      "level": 3,
+      "text": "The three punks appear in The Orange Islands as a set of Trainers who are the first ones Ash met on the Orange Islands. They reappear in a flashback in The Orange Crew Supreme Gym Leader.\n\nUnlike in the animated series, the trio do not beat up a as a group of do it instead."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Drei Typen am Strand\nes:Chicos de la playa\nit:Tre teppisti\nja:不良三人組\nzh:不良少年"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Three punks",
+    "pageType": "character",
+    "searchableText": "Three punks\nCategory:Orange Islands characters of the day\nThe three punks are Pokémon Trainers in the Orange Islands. They are characters of the day who appeared in the episode The Lost Lapras.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "The Electric Tale of Pikachu",
+      "Voice actors"
+    ],
+    "characterCount": 1497,
+    "sectionCount": 4
+  }
+}

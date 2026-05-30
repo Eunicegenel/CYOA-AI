@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Electric Pikachu Boogaloo issue 1",
+    "slug": "electric-pikachu-boogaloo-issue-1",
+    "pageId": 188912,
+    "revisionId": 4131051
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Electric Tale of Pikachu monthly issues",
+    "sourceFileName": "electric-pikachu-boogaloo-issue-1__188912.json",
+    "revisionTimestamp": "2024-09-29T03:58:15Z",
+    "fetchedAt": "2026-05-14T15:17:56.795Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Electric Pikachu Boogaloo issue 1 is the ninth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the ninth and 10th chapters of the manga, as well as some bonus content that was not in the original volume. \n\nThe contents of this issue were later rereleased by VIZ Media as part of .",
+  "plainText": "Electric Pikachu Boogaloo issue 1 is the ninth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the ninth and 10th chapters of the manga, as well as some bonus content that was not in the original volume. \n\nThe contents of this issue were later rereleased by VIZ Media as part of .\n\n==Publications==\n \n \n\n==Chapters==\nI'm Your Venusaur\nClefairy in Space\n\n==Important events==\nand search for a , the guardian spirit of a small town.\nProfessor Oak and solve the mystery behind strange occurrences in Apple City.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Electric Pikachu Boogaloo issue 1 is the ninth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the ninth and 10th chapters of the manga, as well as some bonus content that was not in the original volume. \n\nThe contents of this issue were later rereleased by VIZ Media as part of ."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "I'm Your Venusaur\nClefairy in Space"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "and search for a , the guardian spirit of a small town.\nProfessor Oak and solve the mystery behind strange occurrences in Apple City."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Electric Pikachu Boogaloo issue 1",
+    "pageType": "general-manga-lore",
+    "searchableText": "Electric Pikachu Boogaloo issue 1\nCategory:Electric Tale of Pikachu monthly issues\nElectric Pikachu Boogaloo issue 1 is the ninth monthly issue of the manga series The Electric Tale of Pikachu to be released by VIZ Media. It contains the ninth and 10th chapters of the manga, as well as some bonus content that was not in the original volume. \n\nThe contents of this issue were later rereleased by VIZ Media as part of .",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 564,
+    "sectionCount": 3
+  }
+}

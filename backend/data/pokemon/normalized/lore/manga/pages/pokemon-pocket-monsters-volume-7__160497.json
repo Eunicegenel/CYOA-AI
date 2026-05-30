@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon Pocket Monsters volume 7",
+    "slug": "pokemon-pocket-monsters-volume-7",
+    "pageId": 160497,
+    "revisionId": 4354756
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters volumes",
+    "sourceFileName": "pokemon-pocket-monsters-volume-7__160497.json",
+    "revisionTimestamp": "2025-08-08T19:04:07Z",
+    "fetchedAt": "2026-05-14T15:37:07.672Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 7 is the seventh volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 7 is the seventh volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n \n \n\n==Chapters==\nThe Giant Pikachu Robot\nSquirtle, the Crybaby Pokémon\nStop the Missile!!\nFighting Over Otoshidama!!\nTeam Rocket's Downfall!!\nPikachu's Birthday Party\nProtect Jynx!!\nClefairy's Pikachu Robot\n\n==Important events==\n\n==Party changes==\n===Additions===\nThe following Pokémon are obtained:\n\n===Evolutions===\n\n==Gym Battles==\nRed defeats the following Gym Leaders:\n\n==Character summary==\n\n===Red's Party===\n \n\n \n\n \n\nde:Band 7 (Pokémon Pocket Monsters)\nit:Pokémon Pocket Monsters volume 7\nzh:宝可梦欢乐祭7",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 7 is the seventh volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The Giant Pikachu Robot\nSquirtle, the Crybaby Pokémon\nStop the Missile!!\nFighting Over Otoshidama!!\nTeam Rocket's Downfall!!\nPikachu's Birthday Party\nProtect Jynx!!\nClefairy's Pikachu Robot"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "The following Pokémon are obtained:"
+    },
+    {
+      "heading": "Gym Battles",
+      "level": 2,
+      "text": "Red defeats the following Gym Leaders:"
+    },
+    {
+      "heading": "Red's Party",
+      "level": 3,
+      "text": "de:Band 7 (Pokémon Pocket Monsters)\nit:Pokémon Pocket Monsters volume 7\nzh:宝可梦欢乐祭7"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Pocket Monsters volume 7",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Pocket Monsters volume 7\nCategory:Pokémon Pocket Monsters volumes\nVolume 7 is the seventh volume of the Pokémon Pocket Monsters manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions",
+      "Gym Battles",
+      "Red's Party"
+    ],
+    "characterCount": 641,
+    "sectionCount": 5
+  }
+}

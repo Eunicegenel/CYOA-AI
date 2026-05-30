@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon: Yeah! I Got Pokémon! volume 2",
+    "slug": "pokemon-yeah-i-got-pokemon-volume-2",
+    "pageId": 105561,
+    "revisionId": 4526406
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! volumes",
+    "sourceFileName": "pokemon-yeah-i-got-pokemon-volume-2__105561.json",
+    "revisionTimestamp": "2026-04-09T14:42:54Z",
+    "fetchedAt": "2026-05-14T15:38:30.450Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 2 is the second volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada.",
+  "plainText": "Volume 2 is the second volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada.\n\n==Publications==\n \n \n \n \n \n \n \n \n\n==Chapters==\nGet 1: Battle in the Smokescreen\nGet 2: Catch Bellsprout!\nGet 3: A Gag Battle with Meowth the Comedian \nGet 4: Weedle the Adventurous, Don't Let That Typhoon Beat You!\nGet 5: Catching Contest for Parasect!\nGet 6: Pokémon Hot Springs, Hot-Hot Battle\nGet 7: Vs the Mystery ESP Pokémon\nGet 8: Shu's Christmas\nGet 9: Ruler of Ice, Articuno\nGet 10: Honey-Loving Oddish\nGet 11: Who's the Leader?\nGet 12: Get a Pokémon Shot!\nGet 13: Enter Shinji, Ogre of Revenge!\nGet 14: Shinji Coming Back\nGet 15: Special Chapter: A Very Strange Father-Son Story\n\n==Important events==\n\n==Party changes==\n===Additions===\n\n==Trivia==\nThis was the last volume to be translated into French.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Get 1: Battle in the Smokescreen\nGet 2: Catch Bellsprout!\nGet 3: A Gag Battle with Meowth the Comedian \nGet 4: Weedle the Adventurous, Don't Let That Typhoon Beat You!\nGet 5: Catching Contest for Parasect!\nGet 6: Pokémon Hot Springs, Hot-Hot Battle\nGet 7: Vs the Mystery ESP Pokémon\nGet 8: Shu's Christmas\nGet 9: Ruler of Ice, Articuno\nGet 10: Honey-Loving Oddish\nGet 11: Who's the Leader?\nGet 12: Get a Pokémon Shot!\nGet 13: Enter Shinji, Ogre of Revenge!\nGet 14: Shinji Coming Back\nGet 15: Special Chapter: A Very Strange Father-Son Story"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This was the last volume to be translated into French."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon: Yeah! I Got Pokémon! volume 2",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon: Yeah! I Got Pokémon! volume 2\nCategory:Pokémon: Yeah! I Got Pokémon! volumes\nVolume 2 is the second volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Trivia"
+    ],
+    "characterCount": 808,
+    "sectionCount": 3
+  }
+}

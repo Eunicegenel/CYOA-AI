@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon manga",
+    "slug": "pokemon-manga",
+    "pageId": 19507,
+    "revisionId": 4538442
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga",
+    "sourceFileName": "pokemon-manga__19507.json",
+    "revisionTimestamp": "2026-04-27T03:22:50Z",
+    "fetchedAt": "2026-05-14T15:36:36.510Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon manga (Japanese: manga), much like the term \"Pokémon anime\", does not actually refer to one specific or one particular piece of Pokémon canon, but rather an entire subcategory of comics and graphic novels written with their own storylines and interpretations of the Pokémon world. These frequently have no connection to one another beyond their medium.\n\nMany Pokémon manga are never translated into English, likely due to manga featuring more traditional aspects in Japanese culture. Additionally, some series contain scenarios and artwork considered inappropriate for Western audiences. Sometimes, the artwork is cleaned up for foreign publishing, as was the case with The Electric Tale of Pikachu, but some Japanese publishers prefer not to have the artwork changed.",
+  "plainText": "Pokémon manga (Japanese: manga), much like the term \"Pokémon anime\", does not actually refer to one specific or one particular piece of Pokémon canon, but rather an entire subcategory of comics and graphic novels written with their own storylines and interpretations of the Pokémon world. These frequently have no connection to one another beyond their medium.\n\nMany Pokémon manga are never translated into English, likely due to manga featuring more traditional aspects in Japanese culture. Additionally, some series contain scenarios and artwork considered inappropriate for Western audiences. Sometimes, the artwork is cleaned up for foreign publishing, as was the case with The Electric Tale of Pikachu, but some Japanese publishers prefer not to have the artwork changed.\n\n==List of Pokémon manga==\n===Main game adaptations===\n \n\n===Spin-off game adaptations===\n \n\n===Animation adaptations===\n \n\n====Movie manga adaptations====\nDirect adaptations of the Pokémon movies of and the I Choose You! trilogy, sometimes with small changes in the story or Pokémon featured.\n\n \n\n===Original stories===\n \n\n===Pokémon TCG-related===\n \n\n=== /2Koma===\n \n\n==Related articles==\nManga boxed sets\nPokémon manga merchandise\nPokémon manga samplers\n\n==External links==\nDogasu's Backpack's manga guide\n\n \n\n \n\nde:Manga\nes:Manga\nit:Manga Pokémon\nja:マンガ\nzh:宝可梦漫画",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon manga (Japanese: manga), much like the term \"Pokémon anime\", does not actually refer to one specific or one particular piece of Pokémon canon, but rather an entire subcategory of comics and graphic novels written with their own storylines and interpretations of the Pokémon world. These frequently have no connection to one another beyond their medium.\n\nMany Pokémon manga are never translated into English, likely due to manga featuring more traditional aspects in Japanese culture. Additionally, some series contain scenarios and artwork considered inappropriate for Western audiences. Sometimes, the artwork is cleaned up for foreign publishing, as was the case with The Electric Tale of Pikachu, but some Japanese publishers prefer not to have the artwork changed."
+    },
+    {
+      "heading": "Movie manga adaptations",
+      "level": 4,
+      "text": "Direct adaptations of the Pokémon movies of and the I Choose You! trilogy, sometimes with small changes in the story or Pokémon featured."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Manga boxed sets\nPokémon manga merchandise\nPokémon manga samplers"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Dogasu's Backpack's manga guide\n\n \n\n \n\nde:Manga\nes:Manga\nit:Manga Pokémon\nja:マンガ\nzh:宝可梦漫画"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon manga",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon manga\nCategory:Manga\nPokémon manga (Japanese: manga), much like the term \"Pokémon anime\", does not actually refer to one specific or one particular piece of Pokémon canon, but rather an entire subcategory of comics and graphic novels written with their own storylines and interpretations of the Pokémon world. These frequently have no connection to one another beyond their medium.\n\nMany Pokémon manga are never translated into English, likely due to manga featuring more traditional aspects in Japanese culture. Additionally, some series contain scenarios and artwork considered inappropriate for Western audiences. Sometimes, the artwork is cleaned up for foreign publishing, as was the case with The Electric Tale of Pikachu, but some Japanese publishers prefer not to have the artwork changed.",
+    "sectionHeadings": [
+      "Lead",
+      "Movie manga adaptations",
+      "Related articles",
+      "External links"
+    ],
+    "characterCount": 1343,
+    "sectionCount": 4
+  }
+}

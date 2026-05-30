@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "TA37",
+    "slug": "ta37",
+    "pageId": 187736,
+    "revisionId": 2805071
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Try Adventure chapters",
+    "sourceFileName": "ta37__187736.json",
+    "revisionTimestamp": "2018-06-09T05:45:20Z",
+    "fetchedAt": "2026-05-14T15:50:55.158Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 嵐の海の救出劇 Rescue on the Stormy Seas) is the 37th chapter of the Pokémon Try Adventure manga.",
+  "plainText": "(Japanese: 嵐の海の救出劇 Rescue on the Stormy Seas) is the 37th chapter of the Pokémon Try Adventure manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKatsuya\nSoro\nToki\nCaty\nManami\n\n===Pokémon===\n(Lin; Katsuya's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 嵐の海の救出劇 Rescue on the Stormy Seas) is the 37th chapter of the Pokémon Try Adventure manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Katsuya\nSoro\nToki\nCaty\nManami"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Lin; Katsuya's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "TA37",
+    "pageType": "chapter",
+    "searchableText": "TA37\nCategory:Pokémon Try Adventure chapters\n(Japanese: 嵐の海の救出劇 Rescue on the Stormy Seas) is the 37th chapter of the Pokémon Try Adventure manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 260,
+    "sectionCount": 3
+  }
+}

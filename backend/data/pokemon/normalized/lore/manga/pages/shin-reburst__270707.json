@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Shin (RéBURST)",
+    "slug": "shin-reburst",
+    "pageId": 270707,
+    "revisionId": 4131459
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST characters",
+    "sourceFileName": "shin-reburst__270707.json",
+    "revisionTimestamp": "2024-09-29T04:20:02Z",
+    "fetchedAt": "2026-05-14T15:49:21.867Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Shin is a character in Pokémon RéBURST.",
+  "plainText": "Shin is a character in Pokémon RéBURST.\n==Character==\n \n==History==\n \n==Pokémon==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shin is a character in Pokémon RéBURST."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shin (RéBURST)",
+    "pageType": "character",
+    "searchableText": "Shin (RéBURST)\nCategory:Pokémon RéBURST characters\nShin is a character in Pokémon RéBURST.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 105,
+    "sectionCount": 1
+  }
+}

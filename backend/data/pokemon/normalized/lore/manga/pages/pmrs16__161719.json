@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS16",
+    "slug": "pmrs16",
+    "pageId": 161719,
+    "revisionId": 4264619
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs16__161719.json",
+    "revisionTimestamp": "2025-03-23T18:28:18Z",
+    "fetchedAt": "2026-05-14T15:33:17.831Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Death Match Between Summer And Winter! (Japanese: 夏ＶＳ冬のデスマッチ！！ Death Match Between Summer And Winter!) is the sixteenth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Death Match Between Summer And Winter! (Japanese: 夏ＶＳ冬のデスマッチ！！ Death Match Between Summer And Winter!) is the sixteenth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Death Match Between Summer And Winter! (Japanese: 夏ＶＳ冬のデスマッチ！！ Death Match Between Summer And Winter!) is the sixteenth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS16",
+    "pageType": "chapter",
+    "searchableText": "PMRS16\nCategory:Pokémon Ruby-Sapphire chapters\nDeath Match Between Summer And Winter! (Japanese: 夏ＶＳ冬のデスマッチ！！ Death Match Between Summer And Winter!) is the sixteenth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 287,
+    "sectionCount": 2
+  }
+}

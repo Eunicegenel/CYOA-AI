@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP07",
+    "slug": "sp07",
+    "pageId": 181553,
+    "revisionId": 4114552
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp07__181553.json",
+    "revisionTimestamp": "2024-09-16T20:30:14Z",
+    "fetchedAt": "2026-05-14T15:49:55.156Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Let's Save The Lugia! (Japanese: ルギアを救出せよ!! Save Lugia!!) is the seventh chapter of the Ash & Pikachu manga.",
+  "plainText": "Let's Save The Lugia! (Japanese: ルギアを救出せよ!! Save Lugia!!) is the seventh chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nTeam Rocket Scientist\n\n===Pokémon===\n( )\n( )\n( )\n(Team Rocket Scientist's)\n(Team Rocket Scientist's)\n(Silva)\n( )\n\n \n \n\n \n\nit:SP07",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Let's Save The Lugia! (Japanese: ルギアを救出せよ!! Save Lugia!!) is the seventh chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Team Rocket Scientist"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Team Rocket Scientist's)\n(Team Rocket Scientist's)\n(Silva)\n( )\n\n \n \n\n \n\nit:SP07"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP07",
+    "pageType": "chapter",
+    "searchableText": "SP07\nCategory:Ash & Pikachu chapters\nLet's Save The Lugia! (Japanese: ルギアを救出せよ!! Save Lugia!!) is the seventh chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 335,
+    "sectionCount": 3
+  }
+}

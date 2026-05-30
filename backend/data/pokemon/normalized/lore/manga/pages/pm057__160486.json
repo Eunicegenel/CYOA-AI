@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM057",
+    "slug": "pm057",
+    "pageId": 160486,
+    "revisionId": 4526697
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm057__160486.json",
+    "revisionTimestamp": "2026-04-09T15:02:34Z",
+    "fetchedAt": "2026-05-14T15:31:05.544Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy, a Supernatural Being?! (Japanese: ピッピはエスパー！？ , a Supernatural Being!?) is the fifty-seventh chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Clefairy, a Supernatural Being?! (Japanese: ピッピはエスパー！？ , a Supernatural Being!?) is the fifty-seventh chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 57 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy, a Supernatural Being?! (Japanese: ピッピはエスパー！？ , a Supernatural Being!?) is the fifty-seventh chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 57 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM057",
+    "pageType": "chapter",
+    "searchableText": "PM057\nCategory:Pokémon Pocket Monsters chapters\nClefairy, a Supernatural Being?! (Japanese: ピッピはエスパー！？ , a Supernatural Being!?) is the fifty-seventh chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 326,
+    "sectionCount": 3
+  }
+}

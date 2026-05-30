@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Template:ChapInfobox",
+    "slug": "template-chapinfobox",
+    "pageId": 294097,
+    "revisionId": 4284860
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "template-chapinfobox__294097.json",
+    "revisionTimestamp": "2025-04-21T11:01:06Z",
+    "fetchedAt": "2026-05-14T15:51:23.495Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "{{#ifeq: ||{{{seo|{{#seo:|title_mode=append|title={{#if:{ }|{ }|{ }}}}}}}}}} \n\n {{#if:{ }|{{color|{ }|{ }}}|{ }}}{{#if:{ }|\n {{#if:{ }|{{color|{ }|{ }}}|{ }}} |}} \n {{#if: { }| | Please upload an image of this chapter. }} \n \n { } \n { } \n \n\n \n \n Info \n \n \n }} |\n -\n class=\"r\" style=\"width: 100px; font-weight: bold;\" { }\n { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { } }} }} }} }} }} }} }} }}\n\n \n \n\n \n \n Other \n \n \n \n \n \n {{{category| }}}",
+  "plainText": "{{#ifeq: ||{{{seo|{{#seo:|title_mode=append|title={{#if:{ }|{ }|{ }}}}}}}}}} \n\n {{#if:{ }|{{color|{ }|{ }}}|{ }}}{{#if:{ }|\n {{#if:{ }|{{color|{ }|{ }}}|{ }}} |}} \n {{#if: { }| | Please upload an image of this chapter. }} \n \n { } \n { } \n \n\n \n \n Info \n \n \n }} |\n -\n class=\"r\" style=\"width: 100px; font-weight: bold;\" { }\n { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { } }} }} }} }} }} }} }} }}\n\n \n \n\n \n \n Other \n \n \n \n \n \n {{{category| }}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "{{#ifeq: ||{{{seo|{{#seo:|title_mode=append|title={{#if:{ }|{ }|{ }}}}}}}}}} \n\n {{#if:{ }|{{color|{ }|{ }}}|{ }}}{{#if:{ }|\n {{#if:{ }|{{color|{ }|{ }}}|{ }}} |}} \n {{#if: { }| | Please upload an image of this chapter. }} \n \n { } \n { } \n \n\n \n \n Info \n \n \n }} |\n -\n class=\"r\" style=\"width: 100px; font-weight: bold;\" { }\n { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { } }} }} }} }} }} }} }} }}\n\n \n \n\n \n \n Other \n \n \n \n \n \n {{{category| }}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Template:ChapInfobox",
+    "pageType": "chapter",
+    "searchableText": "Template:ChapInfobox\nCategory:Pokémon Adventures chapters\n{{#ifeq: ||{{{seo|{{#seo:|title_mode=append|title={{#if:{ }|{ }|{ }}}}}}}}}} \n\n {{#if:{ }|{{color|{ }|{ }}}|{ }}}{{#if:{ }|\n {{#if:{ }|{{color|{ }|{ }}}|{ }}} |}} \n {{#if: { }| | Please upload an image of this chapter. }} \n \n { } \n { } \n \n\n \n \n Info \n \n \n }} |\n -\n class=\"r\" style=\"width: 100px; font-weight: bold;\" { }\n { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { }\n{{#if: { } |\n -\n class=\"r\" style=\"border-top: 1px solid #aaa; font-weight: bold;\" { }\n style=\"border-top: 1px solid #aaa;\" { } }} }} }} }} }} }} }} }}\n\n \n \n\n \n \n Other \n \n \n \n \n \n {{{category| }}}",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 1283,
+    "sectionCount": 1
+  }
+}

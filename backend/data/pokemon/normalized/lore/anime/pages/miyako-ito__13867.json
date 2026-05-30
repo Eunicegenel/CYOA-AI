@@ -1,0 +1,93 @@
+{
+  "identity": {
+    "title": "Miyako Itō",
+    "slug": "miyako-ito",
+    "pageId": 13867,
+    "revisionId": 4541525
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "miyako-ito__13867.json",
+    "revisionTimestamp": "2026-04-30T12:45:30Z",
+    "fetchedAt": "2026-05-14T14:37:44.544Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Miyako Itō (Japanese: 伊東みやこ Itō Miyako ) is a Japanese voice actress for . She is also credited as Momoko Momoi.",
+  "plainText": "Miyako Itō (Japanese: 伊東みやこ Itō Miyako ) is a Japanese voice actress for . She is also credited as Momoko Momoi.\n\n==Biography==\nItō was born on February 23, 1969, in , . She joined the during and voiced a number of characters, both human and Pokémon. Itō is currently affiliated with the talent agency Ken Production.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nTommy (DPS02)\n\nMartha\n\n======Minor======\nRomeo (child)\nHead Nurse\n\n=====Pokémon=====\n======Major======\n\nAsh's Larvitar\nAsh's Snorunt\nMay's Bulbasaur\n\nBrock's Happiny and Chansey\nJessie's Gourgeist\n\n======Minor======\n\nFantina's Drifblim\nKhoury's Totodile\n\n(Pikachu Belle)\n(PK15)\n\n==Other non-Pokémon roles==\n===TV anime===\nChiepoo ( )\nHippo ( )\nMarshmallow ( )\nBella DiMarco ( )\nBeckham Kinoshita ( )\nPiko ( )\nChlorine Gracie ( )\nKino ( )\n\n===Film===\nTejina ( )\nBeckham Kinoshita ( )\n\n===Dubbing roles===\nLunch Lady Ghost ( )\n\n==External links==\nKen Production profile\nTwitter\n\n \n\n \n\nit:Miyako Itō\nja:伊東みやこ\nzh:伊東美彌子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Miyako Itō (Japanese: 伊東みやこ Itō Miyako ) is a Japanese voice actress for . She is also credited as Momoko Momoi."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Itō was born on February 23, 1969, in , . She joined the during and voiced a number of characters, both human and Pokémon. Itō is currently affiliated with the talent agency Ken Production."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Tommy (DPS02)\n\nMartha"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Romeo (child)\nHead Nurse"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Ash's Larvitar\nAsh's Snorunt\nMay's Bulbasaur\n\nBrock's Happiny and Chansey\nJessie's Gourgeist"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Fantina's Drifblim\nKhoury's Totodile\n\n(Pikachu Belle)\n(PK15)"
+    },
+    {
+      "heading": "TV anime",
+      "level": 3,
+      "text": "Chiepoo ( )\nHippo ( )\nMarshmallow ( )\nBella DiMarco ( )\nBeckham Kinoshita ( )\nPiko ( )\nChlorine Gracie ( )\nKino ( )"
+    },
+    {
+      "heading": "Film",
+      "level": 3,
+      "text": "Tejina ( )\nBeckham Kinoshita ( )"
+    },
+    {
+      "heading": "Dubbing roles",
+      "level": 3,
+      "text": "Lunch Lady Ghost ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Ken Production profile\nTwitter\n\n \n\n \n\nit:Miyako Itō\nja:伊東みやこ\nzh:伊東美彌子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Miyako Itō",
+    "pageType": "general-anime-lore",
+    "searchableText": "Miyako Itō\nCategory:Japanese voice actors\nMiyako Itō (Japanese: 伊東みやこ Itō Miyako ) is a Japanese voice actress for . She is also credited as Momoko Momoi.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "TV anime",
+      "Film",
+      "Dubbing roles",
+      "External links"
+    ],
+    "characterCount": 1012,
+    "sectionCount": 10
+  }
+}

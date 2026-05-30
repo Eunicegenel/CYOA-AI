@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Masataka Azuma",
+    "slug": "masataka-azuma",
+    "pageId": 55322,
+    "revisionId": 4323540
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "masataka-azuma__55322.json",
+    "revisionTimestamp": "2025-06-24T03:31:59Z",
+    "fetchedAt": "2026-05-14T14:35:29.724Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Masataka Azuma (Japanese: 我妻正崇 Azuma Masataka) is a Japanese voice actor for .",
+  "plainText": "Masataka Azuma (Japanese: 我妻正崇 Azuma Masataka) is a Japanese voice actor for .\n\n==Biography==\nAzuma was born sometime on January 25, in , . He became a voice actor as an adult and mostly got minor roles. He voiced one of his best-known roles as Oreburgh City Gym Leader Roark, during . Azuma is currently affiliated with Max Mix, but apparently hasn't had any roles since 2009.\n\n==Pokémon roles==\n===Animation===\n==== ====\nRoark\n\n==Other non-Pokémon roles==\nHawke ( )\nJunki Saiga ( )\nLichtendahl Tsery ( , )\nCatcher, Tsure ( )\nNaoto ( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Masataka Azuma (Japanese: 我妻正崇 Azuma Masataka) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Azuma was born sometime on January 25, in , . He became a voice actor as an adult and mostly got minor roles. He voiced one of his best-known roles as Oreburgh City Gym Leader Roark, during . Azuma is currently affiliated with Max Mix, but apparently hasn't had any roles since 2009."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Roark"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Hawke ( )\nJunki Saiga ( )\nLichtendahl Tsery ( , )\nCatcher, Tsure ( )\nNaoto ( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Masataka Azuma",
+    "pageType": "general-anime-lore",
+    "searchableText": "Masataka Azuma\nCategory:Japanese voice actors\nMasataka Azuma (Japanese: 我妻正崇 Azuma Masataka) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 536,
+    "sectionCount": 4
+  }
+}

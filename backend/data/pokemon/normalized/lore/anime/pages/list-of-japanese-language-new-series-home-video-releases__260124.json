@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "List of Japanese language new series home video releases",
+    "slug": "list-of-japanese-language-new-series-home-video-releases",
+    "pageId": 260124,
+    "revisionId": 4261514
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Lists of animation home video releases",
+    "sourceFileName": "list-of-japanese-language-new-series-home-video-releases__260124.json",
+    "revisionTimestamp": "2025-03-20T01:11:15Z",
+    "fetchedAt": "2026-05-14T14:32:30.340Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "The following is a list of all of the Japanese language home video releases of Pocket Monsters (2019) of the Pokémon animated series.",
+  "plainText": "The following is a list of all of the Japanese language home video releases of Pocket Monsters (2019) of the Pokémon animated series.\n\n==Volume releases==\nPocket Monsters (2019) was divided into two sets that were released by Shogakukan from 2020 to 2023. It contains almost all the 152 episodes between them, except the Arceus, the One Called God special, which was released separately, and The Distant Blue Sky, which was not released on home video. All the DVDs were released for rental only.\n\n===Pocket Monsters===\nPocket Monsters was released by Shogakukan from 2020 to 2023. It consists of 45 volumes with 136 episodes across them combined.\n\n \n\n===Pocket Monsters: Aim to Be a Pokémon Master===\nPocket Monsters: Aim to Be a Pokémon Master was released by Shogakukan in 2023. It consists of 4 volumes with 11 episodes across them combined.\n\n \n\n==Special releases==\nThe Arceus, the One Called God special was released by Shogakukan as part of a special set.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of all of the Japanese language home video releases of Pocket Monsters (2019) of the Pokémon animated series."
+    },
+    {
+      "heading": "Volume releases",
+      "level": 2,
+      "text": "Pocket Monsters (2019) was divided into two sets that were released by Shogakukan from 2020 to 2023. It contains almost all the 152 episodes between them, except the Arceus, the One Called God special, which was released separately, and The Distant Blue Sky, which was not released on home video. All the DVDs were released for rental only."
+    },
+    {
+      "heading": "Pocket Monsters",
+      "level": 3,
+      "text": "Pocket Monsters was released by Shogakukan from 2020 to 2023. It consists of 45 volumes with 136 episodes across them combined."
+    },
+    {
+      "heading": "Pocket Monsters: Aim to Be a Pokémon Master",
+      "level": 3,
+      "text": "Pocket Monsters: Aim to Be a Pokémon Master was released by Shogakukan in 2023. It consists of 4 volumes with 11 episodes across them combined."
+    },
+    {
+      "heading": "Special releases",
+      "level": 2,
+      "text": "The Arceus, the One Called God special was released by Shogakukan as part of a special set."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Japanese language new series home video releases",
+    "pageType": "general-anime-lore",
+    "searchableText": "List of Japanese language new series home video releases\nCategory:Lists of animation home video releases\nThe following is a list of all of the Japanese language home video releases of Pocket Monsters (2019) of the Pokémon animated series.",
+    "sectionHeadings": [
+      "Lead",
+      "Volume releases",
+      "Pocket Monsters",
+      "Pocket Monsters: Aim to Be a Pokémon Master",
+      "Special releases"
+    ],
+    "characterCount": 961,
+    "sectionCount": 5
+  }
+}

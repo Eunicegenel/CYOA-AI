@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMDP44",
+    "slug": "pmdp44",
+    "pageId": 176424,
+    "revisionId": 4528098
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp44__176424.json",
+    "revisionTimestamp": "2026-04-09T16:06:54Z",
+    "fetchedAt": "2026-05-14T15:32:40.610Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピ流スカイフォルム完成！？ -style Sky Form, Perfected!?) is the forty-fourth chapter of the manga.",
+  "plainText": "(Japanese: ピッピ流スカイフォルム完成！？ -style Sky Form, Perfected!?) is the forty-fourth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n(Sky Forme)\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピ流スカイフォルム完成！？ -style Sky Form, Perfected!?) is the forty-fourth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Sky Forme)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP44",
+    "pageType": "chapter",
+    "searchableText": "PMDP44\nCategory:Pocket Monsters DP chapters\n(Japanese: ピッピ流スカイフォルム完成！？ -style Sky Form, Perfected!?) is the forty-fourth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 238,
+    "sectionCount": 3
+  }
+}

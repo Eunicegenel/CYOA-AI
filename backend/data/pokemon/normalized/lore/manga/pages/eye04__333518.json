@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "EYE04",
+    "slug": "eye04",
+    "pageId": 333518,
+    "revisionId": 4528024
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:I Can't Choose, Eevee chapters",
+    "sourceFileName": "eye04__333518.json",
+    "revisionTimestamp": "2026-04-09T16:04:00Z",
+    "fetchedAt": "2026-05-14T15:18:40.204Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the fourth chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on December 3, 2024 at 8:00 PM JST. It is 16 pages long.",
+  "plainText": "This is the fourth chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on December 3, 2024 at 8:00 PM JST. It is 16 pages long.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n(plush)\n(flashback)\n\n==Characters==\n===Humans===\n\n(fantasy)\nRiku's mother\nRiku's sister\nTeacher\nStudents\n\n===Pokémon===\n(Riku's)\n(Naka's; Don-chan; fantasy)\n(Naka's; Nazo-chan; fantasy)\n(Riku's family's)\n(flashback)\n(fantasy)\n(plush)\n(fantasy)\n(photo)\n(figure)\n\n==Trivia==\nA doll can be seen in a student desk.\n\n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the fourth chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on December 3, 2024 at 8:00 PM JST. It is 16 pages long."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(plush)\n(flashback)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(fantasy)\nRiku's mother\nRiku's sister\nTeacher\nStudents"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Riku's)\n(Naka's; Don-chan; fantasy)\n(Naka's; Nazo-chan; fantasy)\n(Riku's family's)\n(flashback)\n(fantasy)\n(plush)\n(fantasy)\n(photo)\n(figure)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "A doll can be seen in a student desk."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "EYE04",
+    "pageType": "chapter",
+    "searchableText": "EYE04\nCategory:I Can't Choose, Eevee chapters\nThis is the fourth chapter of the I Can't Choose, Eevee manga. It was first published on Poké Times on December 3, 2024 at 8:00 PM JST. It is 16 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 565,
+    "sectionCount": 5
+  }
+}

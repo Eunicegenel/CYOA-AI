@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PM100",
+    "slug": "pm100",
+    "pageId": 160328,
+    "revisionId": 4527329
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm100__160328.json",
+    "revisionTimestamp": "2026-04-09T15:33:00Z",
+    "fetchedAt": "2026-05-14T15:31:32.552Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Ice World (Japanese: なにからなにまで氷づけ！？ Everything is Frozen!?) is the one hundredth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Ice World (Japanese: なにからなにまで氷づけ！？ Everything is Frozen!?) is the one hundredth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nPryce\n\n====Pokémon debuts====\nPryce's Piloswine\n\n==Characters==\n===Humans===\n\nPryce\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n(Pryce's)\n\n==Trivia==\n\n \n \n\nit:PMM100",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ice World (Japanese: なにからなにまで氷づけ！？ Everything is Frozen!?) is the one hundredth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Pryce"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "Pryce's Piloswine"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Pryce"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )\n(Pryce's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "it:PMM100"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM100",
+    "pageType": "chapter",
+    "searchableText": "PM100\nCategory:Pokémon Pocket Monsters chapters\nIce World (Japanese: なにからなにまで氷づけ！？ Everything is Frozen!?) is the one hundredth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 338,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMBW14",
+    "slug": "pmbw14",
+    "pageId": 171700,
+    "revisionId": 4528574
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw14__171700.json",
+    "revisionTimestamp": "2026-04-09T16:28:01Z",
+    "fetchedAt": "2026-05-14T15:31:52.170Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 新メンバーは建築家！！ The New Member is an Architect!!) is the fourteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 新メンバーは建築家！！ The New Member is an Architect!!) is the fourteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\ncatches a .\n===Debuts===\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n\n \n \n\nit:PMBW14",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 新メンバーは建築家！！ The New Member is an Architect!!) is the fourteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "catches a ."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n \n \n\nit:PMBW14"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW14",
+    "pageType": "chapter",
+    "searchableText": "PMBW14\nCategory:Pocket Monsters BW chapters\n(Japanese: 新メンバーは建築家！！ The New Member is an Architect!!) is the fourteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 283,
+    "sectionCount": 4
+  }
+}

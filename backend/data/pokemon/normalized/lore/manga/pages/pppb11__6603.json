@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPPB11",
+    "slug": "pppb11",
+    "pageId": 6603,
+    "revisionId": 4528429
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "pppb11__6603.json",
+    "revisionTimestamp": "2026-04-09T16:20:07Z",
+    "fetchedAt": "2026-05-14T15:39:27.947Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Magikarp Journey (Japanese: コイキングの魔法でキレイになるっ!?, I'll Become Beautiful with Magic!?), is the second bonus chapter of the fifth volume of Magical Pokémon Journey.",
+  "plainText": "Magikarp Journey (Japanese: コイキングの魔法でキレイになるっ!?, I'll Become Beautiful with Magic!?), is the second bonus chapter of the fifth volume of Magical Pokémon Journey.\n\n==Plot==\n \nHazel and Coconut read in a magazine about a failsafe love potion -- take one whisker of and seal it in a pouch, and presto! Lacking the money to order prepackaged whiskers, they journey to the bottom of the sea.\n\n==Important characters and Pokémon==\nHazel\nCoconut\n\nGrandpa\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magikarp Journey (Japanese: コイキングの魔法でキレイになるっ!?, I'll Become Beautiful with Magic!?), is the second bonus chapter of the fifth volume of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Hazel and Coconut read in a magazine about a failsafe love potion -- take one whisker of and seal it in a pouch, and presto! Lacking the money to order prepackaged whiskers, they journey to the bottom of the sea."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Hazel\nCoconut\n\nGrandpa"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPPB11",
+    "pageType": "chapter",
+    "searchableText": "PPPB11\nCategory:Magical Pokémon Journey chapters\nMagikarp Journey (Japanese: コイキングの魔法でキレイになるっ!?, I'll Become Beautiful with Magic!?), is the second bonus chapter of the fifth volume of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon"
+    ],
+    "characterCount": 497,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB29",
+    "slug": "rb29",
+    "pageId": 148632,
+    "revisionId": 4243894
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb29__148632.json",
+    "revisionTimestamp": "2025-02-21T02:03:37Z",
+    "fetchedAt": "2026-05-14T15:47:34.110Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 勝者と敗者… The Winner and The Loser...) is the 29th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 勝者と敗者… The Winner and The Loser...) is the 29th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n== Major events ==\nHariru is defeated by Ryouga.\nRyouga collapses from losing all of his strength and Hariru takes his 1 medal and leaves.\nHariru finds Carola injured after being defeated by Fraud and swears revenge on him.\nand Fraud make it to the next round.\nRabine attempts to take Ryouga's remaining medals but he wakes up before he can take them.\nBelieving that he lost to Hariru, Ryouga accidentally knocks out Rabine in anger and takes his medal.\n\n=== Debuts ===\n\n==== Pokémon debuts ====\n\n== Characters ==\n=== Humans ===\nRyouga\nHariru\nRabine\nDokan (flashback)\nCarola\nFraud\n\nPauline\nYappy\nMiruto\n\n=== Pokémon ===\n(Ryouga's)\n(Hariru's)\n(Dokan's)\n(Rabine's)\n\n \n \n \n\n \n\nzh:RB29",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 勝者と敗者… The Winner and The Loser...) is the 29th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hariru is defeated by Ryouga.\nRyouga collapses from losing all of his strength and Hariru takes his 1 medal and leaves.\nHariru finds Carola injured after being defeated by Fraud and swears revenge on him.\nand Fraud make it to the next round.\nRabine attempts to take Ryouga's remaining medals but he wakes up before he can take them.\nBelieving that he lost to Hariru, Ryouga accidentally knocks out Rabine in anger and takes his medal."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nHariru\nRabine\nDokan (flashback)\nCarola\nFraud\n\nPauline\nYappy\nMiruto"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ryouga's)\n(Hariru's)\n(Dokan's)\n(Rabine's)\n\n \n \n \n\n \n\nzh:RB29"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB29",
+    "pageType": "chapter",
+    "searchableText": "RB29\nCategory:Pokémon RéBURST chapters\n(Japanese: 勝者と敗者… The Winner and The Loser...) is the 29th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 790,
+    "sectionCount": 4
+  }
+}

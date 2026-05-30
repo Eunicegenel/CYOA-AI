@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Minami Fujii",
+    "slug": "minami-fujii",
+    "pageId": 231820,
+    "revisionId": 4323365
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "minami-fujii__231820.json",
+    "revisionTimestamp": "2025-06-24T03:28:53Z",
+    "fetchedAt": "2026-05-14T14:37:11.920Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Minami Fujii (Japanese: 藤井美波 Fujii Minami) is a Japanese voice actress for .",
+  "plainText": "Minami Fujii (Japanese: 藤井美波 Fujii Minami) is a Japanese voice actress for .\n\n==Biography==\nFujii was born sometime on May 24 in , , and became a voice actress as an adult. She landed her best-known role, to date, of , one of 's rivals in the Kalos region, during of the . Fujii is currently affiliated with the talent agency .\n\n==Pokémon roles==\n===Animation===\n==== ====\n\n==Other non-Pokémon roles==\nMao Yasaka ( )\nFemale student ( )\n\n==External links==\nArts Vision profile\nAnime News Network\n\n \n\n \n\nit:Minami Fujii",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Minami Fujii (Japanese: 藤井美波 Fujii Minami) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Fujii was born sometime on May 24 in , , and became a voice actress as an adult. She landed her best-known role, to date, of , one of 's rivals in the Kalos region, during of the . Fujii is currently affiliated with the talent agency ."
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Mao Yasaka ( )\nFemale student ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Arts Vision profile\nAnime News Network\n\n \n\n \n\nit:Minami Fujii"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Minami Fujii",
+    "pageType": "general-anime-lore",
+    "searchableText": "Minami Fujii\nCategory:Japanese voice actors\nMinami Fujii (Japanese: 藤井美波 Fujii Minami) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 517,
+    "sectionCount": 4
+  }
+}

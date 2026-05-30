@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "List of chapters in the Yellow arc of Pokémon Adventures",
+    "slug": "list-of-chapters-in-the-yellow-arc-of-pokemon-adventures",
+    "pageId": 35430,
+    "revisionId": 4144248
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures",
+    "sourceFileName": "list-of-chapters-in-the-yellow-arc-of-pokemon-adventures__35430.json",
+    "revisionTimestamp": "2024-10-12T11:19:24Z",
+    "fetchedAt": "2026-05-14T15:24:26.408Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "",
+  "plainText": "== ==\n \n \n \n\n \n\n \n \n\nes:Capítulos de la saga Amarillo de Pocket Monsters Special\nfr:Liste des chapitres de l'arc Jaune de Pocket Monsters Special\nit:Elenco dei capitoli nel secondo arco di Pokémon: La Grande Avventura\nzh:宝可梦特别篇第二章列表",
+  "sections": [
+    {
+      "heading": "",
+      "level": 2,
+      "text": "es:Capítulos de la saga Amarillo de Pocket Monsters Special\nfr:Liste des chapitres de l'arc Jaune de Pocket Monsters Special\nit:Elenco dei capitoli nel secondo arco di Pokémon: La Grande Avventura\nzh:宝可梦特别篇第二章列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of chapters in the Yellow arc of Pokémon Adventures",
+    "pageType": "chapter",
+    "searchableText": "List of chapters in the Yellow arc of Pokémon Adventures\nCategory:Pokémon Adventures",
+    "sectionHeadings": [
+      ""
+    ],
+    "characterCount": 232,
+    "sectionCount": 1
+  }
+}

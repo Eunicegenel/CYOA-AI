@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "MCM1",
+    "slug": "mcm1",
+    "pageId": 175210,
+    "revisionId": 4527839
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Aim to Be a Card Master!! chapters",
+    "sourceFileName": "mcm1__175210.json",
+    "revisionTimestamp": "2026-04-09T15:55:48Z",
+    "fetchedAt": "2026-05-14T15:26:13.298Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 地区大会　健太、外海へ District Convention \"Kenta, to the Open Sea\") is the first chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.",
+  "plainText": "(Japanese: 地区大会　健太、外海へ District Convention \"Kenta, to the Open Sea\") is the first chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nKenta Minamii\nNatsuki Shibata\nShou Okabe\n\n====Pokémon debuts====\n(Kenta's)\n(Shou's)\n(Kenta's)\n\n(Shou's)\n(Kenta's)\n(Shou's)\n(Shou's)\n(Shou's)\n(Kenta's)\n(Shou's)\n(Kenta's)\n(Kenta's)\n(Shou's)\n(Shou's, ×2)\n(Kenta's)\n\n==Characters==\n===Humans===\nKenta Minamii\nNatsuki Shibata\nShou Okabe\n\n===Pokémon===\n(Kenta's)\n(Shou's)\n(Kenta's)\n\n(Shou's)\n(Kenta's)\n(Shou's)\n(Shou's)\n(Shou's)\n(Kenta's)\n(Shou's)\n(Shou's)\n(Kenta's)\n(Kenta's)\n(Shou's)\n(Shou's, ×2)\n(Kenta's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 地区大会　健太、外海へ District Convention \"Kenta, to the Open Sea\") is the first chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Kenta Minamii\nNatsuki Shibata\nShou Okabe"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Kenta's)\n(Shou's)\n(Kenta's)\n\n(Shou's)\n(Kenta's)\n(Shou's)\n(Shou's)\n(Shou's)\n(Kenta's)\n(Shou's)\n(Kenta's)\n(Kenta's)\n(Shou's)\n(Shou's, ×2)\n(Kenta's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kenta Minamii\nNatsuki Shibata\nShou Okabe"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Kenta's)\n(Shou's)\n(Kenta's)\n\n(Shou's)\n(Kenta's)\n(Shou's)\n(Shou's)\n(Shou's)\n(Kenta's)\n(Shou's)\n(Shou's)\n(Kenta's)\n(Kenta's)\n(Shou's)\n(Shou's, ×2)\n(Kenta's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MCM1",
+    "pageType": "chapter",
+    "searchableText": "MCM1\nCategory:Aim to Be a Card Master!! chapters\n(Japanese: 地区大会　健太、外海へ District Convention \"Kenta, to the Open Sea\") is the first chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 661,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Little Miss",
+    "slug": "little-miss",
+    "pageId": 21135,
+    "revisionId": 4233196
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Marina's Pokémon",
+    "sourceFileName": "little-miss__21135.json",
+    "revisionTimestamp": "2025-02-02T19:51:32Z",
+    "fetchedAt": "2026-05-14T14:32:58.290Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Little Miss (Japanese: ムウちゃん Mu-chan) is a owned by and her second known . She seems to be one of Marina's main Pokémon and she usually stays .",
+  "plainText": "Little Miss (Japanese: ムウちゃん Mu-chan) is a owned by and her second known . She seems to be one of Marina's main Pokémon and she usually stays .\n\n==History==\n \n===The Legend of Thunder!===\nWhen the Miracle Crystal, a device created by Team Rocket's Professor Sebastian that can attract and manipulate all nearby electric energy, started to create large thunder clouds, Little Miss wandered off to discover what was causing the strange weather.\n\nWhen Marina and followed her, they discovered that Attila and Hun were trying to capture . At this point, Little Miss battled Attila's and Hun's . She used her attack, which successfully distracted the Pokémon long enough for 's to damage the Miracle Crystal's machine.\n\nLater on, Little Miss fought off Attila and Hun's Pokémon while and attempted to break through the force field trapping Raikou to free it from Attila and Hun.\n\n=== ===\nIn the intro of Pokémon Ranger and the Temple of the Sea, Little Miss was seen running by the coast with Marina, Wani-Wani, , and .\n\n=== ===\nIn Pride of a Champion!, Little Miss reappeared watching the Masters Eight Tournament match between and Diantha on TV alongside her .\n \n\n==Personality and characteristics==\nLittle Miss is always seen outside of her Poké Ball. Despite this, unlike Wani-Wani and Little Pink, Marina rarely uses Little Miss in battle, leaving that part to her other Pokémon.\n\n==Moves used==\n \n \n \n \n\n==Artwork==\n \n\n==Related articles==\n \n\n \n \n \n \n\nes:Peque Miss\nit:Signorina (Pokémon)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Little Miss (Japanese: ムウちゃん Mu-chan) is a owned by and her second known . She seems to be one of Marina's main Pokémon and she usually stays ."
+    },
+    {
+      "heading": "The Legend of Thunder!",
+      "level": 3,
+      "text": "When the Miracle Crystal, a device created by Team Rocket's Professor Sebastian that can attract and manipulate all nearby electric energy, started to create large thunder clouds, Little Miss wandered off to discover what was causing the strange weather.\n\nWhen Marina and followed her, they discovered that Attila and Hun were trying to capture . At this point, Little Miss battled Attila's and Hun's . She used her attack, which successfully distracted the Pokémon long enough for 's to damage the Miracle Crystal's machine.\n\nLater on, Little Miss fought off Attila and Hun's Pokémon while and attempted to break through the force field trapping Raikou to free it from Attila and Hun."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "In the intro of Pokémon Ranger and the Temple of the Sea, Little Miss was seen running by the coast with Marina, Wani-Wani, , and ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "In Pride of a Champion!, Little Miss reappeared watching the Masters Eight Tournament match between and Diantha on TV alongside her ."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 2,
+      "text": "Little Miss is always seen outside of her Poké Ball. Despite this, unlike Wani-Wani and Little Pink, Marina rarely uses Little Miss in battle, leaving that part to her other Pokémon."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Peque Miss\nit:Signorina (Pokémon)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Little Miss",
+    "pageType": "pokemon-related",
+    "searchableText": "Little Miss\nCategory:Marina's Pokémon\nLittle Miss (Japanese: ムウちゃん Mu-chan) is a owned by and her second known . She seems to be one of Marina's main Pokémon and she usually stays .",
+    "sectionHeadings": [
+      "Lead",
+      "The Legend of Thunder!",
+      "",
+      "",
+      "Personality and characteristics",
+      "Related articles"
+    ],
+    "characterCount": 1489,
+    "sectionCount": 6
+  }
+}

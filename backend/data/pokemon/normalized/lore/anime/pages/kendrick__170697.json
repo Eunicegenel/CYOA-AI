@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Kendrick",
+    "slug": "kendrick",
+    "pageId": 170697,
+    "revisionId": 4200686
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:League Conference participants",
+    "sourceFileName": "kendrick__170697.json",
+    "revisionTimestamp": "2024-12-11T23:49:34Z",
+    "fetchedAt": "2026-05-14T14:29:06.835Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kendrick (Japanese: ケンオー Kenō) is a minor recurring character in .\n\nHe first appeared in Curtain Up, Unova League!, where he participated in the Vertress Conference and was 's first opponent. He was shown to be a determined who focused on the match, as he told Cameron to save his chatter for later. Kendrick continued to use on Cameron's and initially had the upper hand. However, in Mission: Defeat Your Rival!, he was soon defeated and eliminated from the tournament.",
+  "plainText": "Kendrick (Japanese: ケンオー Kenō) is a minor recurring character in .\n\nHe first appeared in Curtain Up, Unova League!, where he participated in the Vertress Conference and was 's first opponent. He was shown to be a determined who focused on the match, as he told Cameron to save his chatter for later. Kendrick continued to use on Cameron's and initially had the upper hand. However, in Mission: Defeat Your Rival!, he was soon defeated and eliminated from the tournament.\n\n==Pokémon==\n \n\n==Achievements==\n===Badges obtained===\nThis listing is of the Badges Kendrick has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)\n\n===Pokémon League===\nKendrick has competed in the following Pokémon League Conferences:\nVertress Conference - Top 128 (Mission: Defeat Your Rival!)\n\n==Voice actors==\n \n\n==Related articles==\n \n \n\n \n \n\nes:Kendrick\nfr:Kendrick\nit:Kendrick\nzh:肯奥",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kendrick (Japanese: ケンオー Kenō) is a minor recurring character in .\n\nHe first appeared in Curtain Up, Unova League!, where he participated in the Vertress Conference and was 's first opponent. He was shown to be a determined who focused on the match, as he told Cameron to save his chatter for later. Kendrick continued to use on Cameron's and initially had the upper hand. However, in Mission: Defeat Your Rival!, he was soon defeated and eliminated from the tournament."
+    },
+    {
+      "heading": "Badges obtained",
+      "level": 3,
+      "text": "This listing is of the Badges Kendrick has obtained in the Unova region:\nAt least eight Badges (prior to Curtain Up, Unova League!)"
+    },
+    {
+      "heading": "Pokémon League",
+      "level": 3,
+      "text": "Kendrick has competed in the following Pokémon League Conferences:\nVertress Conference - Top 128 (Mission: Defeat Your Rival!)"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Kendrick\nfr:Kendrick\nit:Kendrick\nzh:肯奥"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kendrick",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kendrick\nCategory:League Conference participants\nKendrick (Japanese: ケンオー Kenō) is a minor recurring character in .\n\nHe first appeared in Curtain Up, Unova League!, where he participated in the Vertress Conference and was 's first opponent. He was shown to be a determined who focused on the match, as he told Cameron to save his chatter for later. Kendrick continued to use on Cameron's and initially had the upper hand. However, in Mission: Defeat Your Rival!, he was soon defeated and eliminated from the tournament.",
+    "sectionHeadings": [
+      "Lead",
+      "Badges obtained",
+      "Pokémon League",
+      "Related articles"
+    ],
+    "characterCount": 900,
+    "sectionCount": 4
+  }
+}

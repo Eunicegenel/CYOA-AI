@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Frond Island",
+    "slug": "frond-island",
+    "pageId": 181405,
+    "revisionId": 4318479
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Decolore Islands",
+    "sourceFileName": "frond-island__181405.json",
+    "revisionTimestamp": "2025-06-11T18:48:14Z",
+    "fetchedAt": "2026-05-14T14:19:41.246Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Frond Island (Japanese: ヤシ島 Yashi Island) is the eleventh island and visited during their travels on the Decolore Islands.\n\nTheir ship docked at Frond Island, but the group rented a boat and spent most of their time on the , which was said to be filled with treasure.",
+  "plainText": "Frond Island (Japanese: ヤシ島 Yashi Island) is the eleventh island and visited during their travels on the Decolore Islands.\n\nTheir ship docked at Frond Island, but the group rented a boat and spent most of their time on the , which was said to be filled with treasure.\n\n==In other languages==\n \n\n==Related articles==\n \n \n\nes:Isla Fronda\nit:Isola delle Fronde\nja:ヤシ島\nzh:椰子島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Frond Island (Japanese: ヤシ島 Yashi Island) is the eleventh island and visited during their travels on the Decolore Islands.\n\nTheir ship docked at Frond Island, but the group rented a boat and spent most of their time on the , which was said to be filled with treasure."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Isla Fronda\nit:Isola delle Fronde\nja:ヤシ島\nzh:椰子島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Frond Island",
+    "pageType": "general-anime-lore",
+    "searchableText": "Frond Island\nCategory:Decolore Islands\nFrond Island (Japanese: ヤシ島 Yashi Island) is the eleventh island and visited during their travels on the Decolore Islands.\n\nTheir ship docked at Frond Island, but the group rented a boat and spent most of their time on the , which was said to be filled with treasure.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 371,
+    "sectionCount": 2
+  }
+}

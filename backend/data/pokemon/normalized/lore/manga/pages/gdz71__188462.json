@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GDZ71",
+    "slug": "gdz71",
+    "pageId": 188462,
+    "revisionId": 4528353
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz71__188462.json",
+    "revisionTimestamp": "2026-04-09T16:17:10Z",
+    "fetchedAt": "2026-05-14T15:20:06.708Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: セレビィ登場！ Enter Celebi!) is the 71st chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: セレビィ登場！ Enter Celebi!) is the 71st chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nHideki\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nHideki\n\n===Pokémon===\n( )\n(Hideki's; new)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: セレビィ登場！ Enter Celebi!) is the 71st chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Hideki"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nHideki"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Hideki's; new)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ71",
+    "pageType": "chapter",
+    "searchableText": "GDZ71\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: セレビィ登場！ Enter Celebi!) is the 71st chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 262,
+    "sectionCount": 4
+  }
+}

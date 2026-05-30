@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Tamaru Hirōga",
+    "slug": "tamaru-hiroga",
+    "pageId": 188694,
+    "revisionId": 4132514
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! characters",
+    "sourceFileName": "tamaru-hiroga__188694.json",
+    "revisionTimestamp": "2024-09-29T05:23:11Z",
+    "fetchedAt": "2026-05-14T15:51:08.388Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: 火老賀タマル Tamaru Hirōga) is a character from Pokémon Battrio: Aim to be Battrio Master!.",
+  "plainText": "(Japanese: 火老賀タマル Tamaru Hirōga) is a character from Pokémon Battrio: Aim to be Battrio Master!.\n \n==History==\nTamaru first appeared in ABM05 where he challenged Ryū to a Battrio match after defeating Yai Suba. The match wasn't fully shown except for the ending where Tamaru ended up beaten.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 火老賀タマル Tamaru Hirōga) is a character from Pokémon Battrio: Aim to be Battrio Master!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Tamaru first appeared in ABM05 where he challenged Ryū to a Battrio match after defeating Yai Suba. The match wasn't fully shown except for the ending where Tamaru ended up beaten."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tamaru Hirōga",
+    "pageType": "character",
+    "searchableText": "Tamaru Hirōga\nCategory:Pokémon Battrio: Aim to be Battrio Master! characters\n(Japanese: 火老賀タマル Tamaru Hirōga) is a character from Pokémon Battrio: Aim to be Battrio Master!.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 304,
+    "sectionCount": 2
+  }
+}

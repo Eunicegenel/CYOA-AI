@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GDZ66",
+    "slug": "gdz66",
+    "pageId": 188456,
+    "revisionId": 4528321
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz66__188456.json",
+    "revisionTimestamp": "2026-04-09T16:15:48Z",
+    "fetchedAt": "2026-05-14T15:20:03.537Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: シュウとふたごのだましあい勝負！ Shu and the Twins, Battle of Tricksters!) is the 66th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: シュウとふたごのだましあい勝負！ Shu and the Twins, Battle of Tricksters!) is the 66th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n(Ran's)\n(Rin's)\n\n==Characters==\n===Humans===\nShu\nRin and Ran\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's)\n(Shu's; new)\n(Ran's)\n(Rin's)\n(Rin's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: シュウとふたごのだましあい勝負！ Shu and the Twins, Battle of Tricksters!) is the 66th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Ran's)\n(Rin's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nRin and Ran"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's)\n(Shu's; new)\n(Ran's)\n(Rin's)\n(Rin's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ66",
+    "pageType": "chapter",
+    "searchableText": "GDZ66\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: シュウとふたごのだましあい勝負！ Shu and the Twins, Battle of Tricksters!) is the 66th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 334,
+    "sectionCount": 4
+  }
+}

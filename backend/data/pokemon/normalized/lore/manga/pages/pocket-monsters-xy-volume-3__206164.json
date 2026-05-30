@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters XY volume 3",
+    "slug": "pocket-monsters-xy-volume-3",
+    "pageId": 206164,
+    "revisionId": 4527869
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY volumes",
+    "sourceFileName": "pocket-monsters-xy-volume-3__206164.json",
+    "revisionTimestamp": "2026-04-09T15:56:45Z",
+    "fetchedAt": "2026-05-14T15:34:35.869Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume 3 is the third volume of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 3 is the third volume of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n\n==Chapters==\nPMXY25\nPMXY26\nPMXY27\nPMXY28\nPMXY29\nPMXY30\nPMXY31\nPMXY32\nPMXY33\nPMXY34\nPMXY35\nPMXY36",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 3 is the third volume of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "PMXY25\nPMXY26\nPMXY27\nPMXY28\nPMXY29\nPMXY30\nPMXY31\nPMXY32\nPMXY33\nPMXY34\nPMXY35\nPMXY36"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters XY volume 3",
+    "pageType": "general-manga-lore",
+    "searchableText": "Pocket Monsters XY volume 3\nCategory:Pocket Monsters XY volumes\nVolume 3 is the third volume of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 194,
+    "sectionCount": 2
+  }
+}

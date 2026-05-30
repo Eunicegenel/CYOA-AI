@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Nathan Price",
+    "slug": "nathan-price",
+    "pageId": 13059,
+    "revisionId": 4526783
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:4Kids voice actors",
+    "sourceFileName": "nathan-price__13059.json",
+    "revisionTimestamp": "2026-04-09T15:06:44Z",
+    "fetchedAt": "2026-05-14T14:38:59.761Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Nathan Price (born Matthew Sussman) is a voice actor for the English-language dub of .",
+  "plainText": "Nathan Price (born Matthew Sussman) is a voice actor for the English-language dub of .\n\n==Pokémon roles==\nPrice is one of the original voice actors on Pokémon. He was hired by Michael Haigney because Haigney's then-girlfriend worked at the New York Theatre Workshop, where Price was a performer in a play. He played the original voice of Meowth from . However, after about thirty episodes, he left that role and was replaced by Maddie Blaustein. He continued to play other minor characters through season five. After that point, he left the series.\n===Animation===\n==== ====\n=====Humans=====\nTimmy (EP005)\n(EP015)\nSt. Anne Captain\nProfessor Westwood V\nLen\nMikeosu\n\n=====Pokémon=====\n(EP002-EP017, EP019-EP031; A Sneak Peek at Pokémon)\n( )\n\n==Famous non-Pokémon roles==\nMaster Sergeant M. Cryborn, Wang ( )\nGravos ( )\nKanzel ( )\nYattran ( )\n\n==References==\n \n\n \n \n\n \n\nit:Nathan Price",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Nathan Price (born Matthew Sussman) is a voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Price is one of the original voice actors on Pokémon. He was hired by Michael Haigney because Haigney's then-girlfriend worked at the New York Theatre Workshop, where Price was a performer in a play. He played the original voice of Meowth from . However, after about thirty episodes, he left that role and was replaced by Maddie Blaustein. He continued to play other minor characters through season five. After that point, he left the series."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Timmy (EP005)\n(EP015)\nSt. Anne Captain\nProfessor Westwood V\nLen\nMikeosu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(EP002-EP017, EP019-EP031; A Sneak Peek at Pokémon)\n( )"
+    },
+    {
+      "heading": "Famous non-Pokémon roles",
+      "level": 2,
+      "text": "Master Sergeant M. Cryborn, Wang ( )\nGravos ( )\nKanzel ( )\nYattran ( )"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:Nathan Price"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Nathan Price",
+    "pageType": "general-anime-lore",
+    "searchableText": "Nathan Price\nCategory:4Kids voice actors\nNathan Price (born Matthew Sussman) is a voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "Humans",
+      "Pokémon",
+      "Famous non-Pokémon roles",
+      "References"
+    ],
+    "characterCount": 882,
+    "sectionCount": 6
+  }
+}

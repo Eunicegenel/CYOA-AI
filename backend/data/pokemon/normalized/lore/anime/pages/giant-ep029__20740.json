@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Giant (EP029)",
+    "slug": "giant-ep029",
+    "pageId": 20740,
+    "revisionId": 4412549
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kanto characters of the day",
+    "sourceFileName": "giant-ep029__20740.json",
+    "revisionTimestamp": "2025-11-03T20:18:09Z",
+    "fetchedAt": "2026-05-14T14:20:22.602Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Giant (Japanese: Giant Takada) is a character of the day who appeared in The Punchy Pokémon.",
+  "plainText": "Giant (Japanese: Giant Takada) is a character of the day who appeared in The Punchy Pokémon.\n\n==History==\n ]]\nGiant and his were going to be competitors in the P1 Grand Prix. wanted to compete as well, so they could win the grand prize. Realizing they didn't have any Pokémon, they decided to steal one.\n\nUnfortunately for Giant, his Hitmonlee was the first Pokémon the trio saw. Somehow, they snuck up on him, tied him up, stole his clothes, and locked him in a bathroom stall. Using his Hitmonlee, Team Rocket entered the tournament disguised as Giant, and managed to get to the finals. However, caught on to their plan, when trying to beat them in the finals (with James poking his head out helping to spoil the disguise and have Ash and his friends deduce Team Rocket's involvement), and was able to defeat them with his . It is not known what happened to Giant after Team Rocket robbed him.\n \n\n==Pokémon==\n \nThis listing is of Giant's known Pokémon:\n\n===Status unknown===\n \n\n==Voice actors==\n \n\n==Trivia==\nGiant's Japanese and English names are a reference to the professional Japanese wrestler .\n\n \n \n \n \n\nde:Hart aber fair#Giant\nes:Gigante (anime)\nit:Giant\nzh:巨人高田",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Giant (Japanese: Giant Takada) is a character of the day who appeared in The Punchy Pokémon."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "]]\nGiant and his were going to be competitors in the P1 Grand Prix. wanted to compete as well, so they could win the grand prize. Realizing they didn't have any Pokémon, they decided to steal one.\n\nUnfortunately for Giant, his Hitmonlee was the first Pokémon the trio saw. Somehow, they snuck up on him, tied him up, stole his clothes, and locked him in a bathroom stall. Using his Hitmonlee, Team Rocket entered the tournament disguised as Giant, and managed to get to the finals. However, caught on to their plan, when trying to beat them in the finals (with James poking his head out helping to spoil the disguise and have Ash and his friends deduce Team Rocket's involvement), and was able to defeat them with his . It is not known what happened to Giant after Team Rocket robbed him."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Giant's known Pokémon:"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Giant's Japanese and English names are a reference to the professional Japanese wrestler .\n\n \n \n \n \n\nde:Hart aber fair#Giant\nes:Gigante (anime)\nit:Giant\nzh:巨人高田"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Giant (EP029)",
+    "pageType": "character",
+    "searchableText": "Giant (EP029)\nCategory:Kanto characters of the day\nGiant (Japanese: Giant Takada) is a character of the day who appeared in The Punchy Pokémon.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1171,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pokémon: Yeah! I Got Pokémon! chapters",
+    "slug": "list-of-pokemon-yeah-i-got-pokemon-chapters",
+    "pageId": 176573,
+    "revisionId": 4345741
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "list-of-pokemon-yeah-i-got-pokemon-chapters__176573.json",
+    "revisionTimestamp": "2025-07-28T06:59:13Z",
+    "fetchedAt": "2026-05-14T15:25:00.298Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The following is a list of chapters from the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada. There are 79 chapters in total.",
+  "plainText": "The following is a list of chapters from the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada. There are 79 chapters in total.\n\n== ==\n \n \n\n== ==\n \n \n\n== ==\n \n \n\n== ==\n \n \n\n== ==\n \n\n \n\n \n \n\nit:Elenco dei capitoli di Pokémon\nzh:宝可梦大搜捕回数列表",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of chapters from the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada. There are 79 chapters in total."
+    },
+    {
+      "heading": "",
+      "level": 2,
+      "text": "it:Elenco dei capitoli di Pokémon\nzh:宝可梦大搜捕回数列表"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon: Yeah! I Got Pokémon! chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Pokémon: Yeah! I Got Pokémon! chapters\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\nThe following is a list of chapters from the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada. There are 79 chapters in total.",
+    "sectionHeadings": [
+      "Lead",
+      ""
+    ],
+    "characterCount": 245,
+    "sectionCount": 2
+  }
+}

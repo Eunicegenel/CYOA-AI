@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "ANL5",
+    "slug": "anl5",
+    "pageId": 194945,
+    "revisionId": 4548845
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga chapters in need of images",
+    "sourceFileName": "anl5__194945.json",
+    "revisionTimestamp": "2026-05-11T00:45:38Z",
+    "fetchedAt": "2026-05-14T15:12:41.465Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ブラックキユレムを止めろ!! Stop the Black Kyurem!!) is the fifth and final chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga.",
+  "plainText": "(Japanese: ブラックキユレムを止めろ!! Stop the Black Kyurem!!) is the fifth and final chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n(Black Kyurem)\n\n==Characters==\n===Humans===\nArata\ns\n\n===Pokémon===\n(Arata's)\n(Arata's; evolves)\n(Arata's)\n(Arata's)\n\n(Black Kyurem)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ブラックキユレムを止めろ!! Stop the Black Kyurem!!) is the fifth and final chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Black Kyurem)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Arata\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Arata's)\n(Arata's; evolves)\n(Arata's)\n(Arata's)\n\n(Black Kyurem)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ANL5",
+    "pageType": "chapter",
+    "searchableText": "ANL5\nCategory:Manga chapters in need of images\n(Japanese: ブラックキユレムを止めろ!! Stop the Black Kyurem!!) is the fifth and final chapter of the Pocket Monsters B2 W2 ~ A New Legend ~ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 359,
+    "sectionCount": 4
+  }
+}

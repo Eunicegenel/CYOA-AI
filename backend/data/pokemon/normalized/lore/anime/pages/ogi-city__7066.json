@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Ogi City",
+    "slug": "ogi-city",
+    "pageId": 7066,
+    "revisionId": 4463373
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "ogi-city__7066.json",
+    "revisionTimestamp": "2026-01-06T19:09:00Z",
+    "fetchedAt": "2026-05-14T14:39:55.772Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Ogi City (Japanese: オギシティ Ogi City) is an -exclusive location in Johto. It is a large port city located at the northern end of Yellow Rock Isle, one of the Whirl Islands. \n\nA ferry runs once a day between Ogi City and Red Rock Isle. This is also where and ran into , who offered to give them a ride in her boat after they missed the ferry. In the oceans nearby, there is an old sunken ship which once belonged to Luka's great-grandfather.",
+  "plainText": "Ogi City (Japanese: オギシティ Ogi City) is an -exclusive location in Johto. It is a large port city located at the northern end of Yellow Rock Isle, one of the Whirl Islands. \n\nA ferry runs once a day between Ogi City and Red Rock Isle. This is also where and ran into , who offered to give them a ride in her boat after they missed the ferry. In the oceans nearby, there is an old sunken ship which once belonged to Luka's great-grandfather.\n\n==Places of interest==\n \n===I.S.S. Raspberry shipwreck===\nThe I.S.S. Raspberry is a mighty sailing ship that was captained by Luka's great-grandfather, who sailed throughout the Whirl Islands in search of treasures like the Silver Wing.\n\nIt sank off the coast of Ogi City during a powerful storm many years ago, and the rumored Silver Wing also went down with the ship. However, Luka's great-grandfather and his crew survived the incident because of a 's arrival.\n\nIn Mantine Overboard!, Luka led Ash and his friends directly to the wreck in the hopes of proving her great-grandfather's story. They soon located the wreck, though a and a pair of protective proved to be obstacles. drove their submarine directly into the wreck and attempted to make off with the treasure chest. Though this angered the Mantine and Remoraid, who joined forces with Ash and the others to protect their home. Afterwards, Luka recovered the treasure chest and inside was a Silver Wing.\n \n\n==Pokémon seen around Ogi City==\n \n==In other languages==\n \nI.S.S. Raspberry\n \n \n \n\n \n \n\nde:Ogi\nes:Ciudad Ogi\nit:Ogi City\nzh:歐奇市",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ogi City (Japanese: オギシティ Ogi City) is an -exclusive location in Johto. It is a large port city located at the northern end of Yellow Rock Isle, one of the Whirl Islands. \n\nA ferry runs once a day between Ogi City and Red Rock Isle. This is also where and ran into , who offered to give them a ride in her boat after they missed the ferry. In the oceans nearby, there is an old sunken ship which once belonged to Luka's great-grandfather."
+    },
+    {
+      "heading": "I.S.S. Raspberry shipwreck",
+      "level": 3,
+      "text": "The I.S.S. Raspberry is a mighty sailing ship that was captained by Luka's great-grandfather, who sailed throughout the Whirl Islands in search of treasures like the Silver Wing.\n\nIt sank off the coast of Ogi City during a powerful storm many years ago, and the rumored Silver Wing also went down with the ship. However, Luka's great-grandfather and his crew survived the incident because of a 's arrival.\n\nIn Mantine Overboard!, Luka led Ash and his friends directly to the wreck in the hopes of proving her great-grandfather's story. They soon located the wreck, though a and a pair of protective proved to be obstacles. drove their submarine directly into the wreck and attempted to make off with the treasure chest. Though this angered the Mantine and Remoraid, who joined forces with Ash and the others to protect their home. Afterwards, Luka recovered the treasure chest and inside was a Silver Wing."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "I.S.S. Raspberry\n \n \n \n\n \n \n\nde:Ogi\nes:Ciudad Ogi\nit:Ogi City\nzh:歐奇市"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ogi City",
+    "pageType": "location",
+    "searchableText": "Ogi City\nCategory:Animated series-exclusive locations\nOgi City (Japanese: オギシティ Ogi City) is an -exclusive location in Johto. It is a large port city located at the northern end of Yellow Rock Isle, one of the Whirl Islands. \n\nA ferry runs once a day between Ogi City and Red Rock Isle. This is also where and ran into , who offered to give them a ride in her boat after they missed the ferry. In the oceans nearby, there is an old sunken ship which once belonged to Luka's great-grandfather.",
+    "sectionHeadings": [
+      "Lead",
+      "I.S.S. Raspberry shipwreck",
+      "In other languages"
+    ],
+    "characterCount": 1536,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Reiko (EP053)",
+    "slug": "reiko-ep053",
+    "pageId": 71047,
+    "revisionId": 4271357
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kanto characters of the day",
+    "sourceFileName": "reiko-ep053__71047.json",
+    "revisionTimestamp": "2025-03-28T00:01:28Z",
+    "fetchedAt": "2026-05-14T14:46:02.579Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: レイコ Reiko) is a character of the day who appeared in The Purr-fect Hero. \n\nReiko is a sweet lady who is sometimes hard on the children of the school. She had promised the children that she would let them see some Pokémon for Kids Day. However, the three Trainers she wanted to bring were unable to show up. Because of this, and offered to let the children see their Pokémon instead.",
+  "plainText": "(Japanese: レイコ Reiko) is a character of the day who appeared in The Purr-fect Hero. \n\nReiko is a sweet lady who is sometimes hard on the children of the school. She had promised the children that she would let them see some Pokémon for Kids Day. However, the three Trainers she wanted to bring were unable to show up. Because of this, and offered to let the children see their Pokémon instead.\n\n==Voice actors==\n \n\n \n \n \n \n \n \n\nes:Educadora infantil\nit:Reiko\nzh:丽子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: レイコ Reiko) is a character of the day who appeared in The Purr-fect Hero. \n\nReiko is a sweet lady who is sometimes hard on the children of the school. She had promised the children that she would let them see some Pokémon for Kids Day. However, the three Trainers she wanted to bring were unable to show up. Because of this, and offered to let the children see their Pokémon instead."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Educadora infantil\nit:Reiko\nzh:丽子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Reiko (EP053)",
+    "pageType": "character",
+    "searchableText": "Reiko (EP053)\nCategory:Kanto characters of the day\n(Japanese: レイコ Reiko) is a character of the day who appeared in The Purr-fect Hero. \n\nReiko is a sweet lady who is sometimes hard on the children of the school. She had promised the children that she would let them see some Pokémon for Kids Day. However, the three Trainers she wanted to bring were unable to show up. Because of this, and offered to let the children see their Pokémon instead.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 464,
+    "sectionCount": 2
+  }
+}

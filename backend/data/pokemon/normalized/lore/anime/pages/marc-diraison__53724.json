@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Marc Diraison",
+    "slug": "marc-diraison",
+    "pageId": 53724,
+    "revisionId": 4528528
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "marc-diraison__53724.json",
+    "revisionTimestamp": "2026-04-09T16:25:20Z",
+    "fetchedAt": "2026-05-14T14:34:47.117Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Marc Diraison is an American voice actor, ADR director and script writer for the English dub of .",
+  "plainText": "Marc Diraison is an American voice actor, ADR director and script writer for the English dub of .\n\n==Biography==\nDiraison first joined the series in the eighth season. As with most other voice actors who worked with 4Kids Entertainment, he left when and TAJ Productions took over the dubbing and distribution of the series. He later returned in Steeling Peace of Mind!.\n\n==Pokémon roles==\n===Animation===\n==== ====\n\nRiley\nIngo (BW045-BW099)\nClayton\nEver Grande Conference referee (AG126-AG131)\n\n==Other non-Pokémon roles==\nGuts ( )\nRoronoa Zolo ( ) (4Kids Dub)\nToshiyuki Aoshima ( )\nSaizo Kiragakure ( )\nCodemaster Crellan ( )\nYoung Solomon Muto ( episode 199)\nCommander Koda, Kalin Kessler ( )\nHelia ( ) (4Kids Dub)\nMasami Kyomoto ( )\nAkihiko Kayaba ( )\nTokiomi Tohsaka ( )\nYoung Wilhelm van Astrea ( )\nMasashi Kusugi, Michimune Ayatachi ( )\nRyoma Sakamoto ( )\nThe Sweeper ( )\n\n \n \n \n \n\nit:Marc Diraison",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Marc Diraison is an American voice actor, ADR director and script writer for the English dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Diraison first joined the series in the eighth season. As with most other voice actors who worked with 4Kids Entertainment, he left when and TAJ Productions took over the dubbing and distribution of the series. He later returned in Steeling Peace of Mind!."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Riley\nIngo (BW045-BW099)\nClayton\nEver Grande Conference referee (AG126-AG131)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Guts ( )\nRoronoa Zolo ( ) (4Kids Dub)\nToshiyuki Aoshima ( )\nSaizo Kiragakure ( )\nCodemaster Crellan ( )\nYoung Solomon Muto ( episode 199)\nCommander Koda, Kalin Kessler ( )\nHelia ( ) (4Kids Dub)\nMasami Kyomoto ( )\nAkihiko Kayaba ( )\nTokiomi Tohsaka ( )\nYoung Wilhelm van Astrea ( )\nMasashi Kusugi, Michimune Ayatachi ( )\nRyoma Sakamoto ( )\nThe Sweeper ( )\n\n \n \n \n \n\nit:Marc Diraison"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Marc Diraison",
+    "pageType": "general-anime-lore",
+    "searchableText": "Marc Diraison\nCategory:TPCi voice actors\nMarc Diraison is an American voice actor, ADR director and script writer for the English dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 904,
+    "sectionCount": 4
+  }
+}

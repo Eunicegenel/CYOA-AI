@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM097",
+    "slug": "pm097",
+    "pageId": 160656,
+    "revisionId": 4526393
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm097__160656.json",
+    "revisionTimestamp": "2026-04-09T14:41:30Z",
+    "fetchedAt": "2026-05-14T15:31:30.652Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Mysterious Underground Amusement Park (Japanese: なぞの地下遊園地 The Mysterious Underground Amusement Park) is the ninety-seventh chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "The Mysterious Underground Amusement Park (Japanese: なぞの地下遊園地 The Mysterious Underground Amusement Park) is the ninety-seventh chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nKiyo\n\n===Pokémon===\n( ) \n( )\n( )\n(Kiyo's)\n(Kiyo's)\n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Mysterious Underground Amusement Park (Japanese: なぞの地下遊園地 The Mysterious Underground Amusement Park) is the ninety-seventh chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kiyo"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(Kiyo's)\n(Kiyo's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM097",
+    "pageType": "chapter",
+    "searchableText": "PM097\nCategory:Pokémon Pocket Monsters chapters\nThe Mysterious Underground Amusement Park (Japanese: なぞの地下遊園地 The Mysterious Underground Amusement Park) is the ninety-seventh chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 333,
+    "sectionCount": 3
+  }
+}

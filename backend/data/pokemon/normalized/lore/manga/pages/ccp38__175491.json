@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CCP38",
+    "slug": "ccp38",
+    "pageId": 175491,
+    "revisionId": 4526881
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp38__175491.json",
+    "revisionTimestamp": "2026-04-09T15:10:34Z",
+    "fetchedAt": "2026-05-14T15:15:31.336Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 恋の守リ神メタミコ様ちゃも The Guardian God of Love Metamiko (chamo)) is the 38th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: 恋の守リ神メタミコ様ちゃも The Guardian God of Love Metamiko (chamo)) is the 38th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n(Chiru-Chiru)\n( )\n\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 恋の守リ神メタミコ様ちゃも The Guardian God of Love Metamiko (chamo)) is the 38th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Chiru-Chiru)\n( )\n\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP38",
+    "pageType": "chapter",
+    "searchableText": "CCP38\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: 恋の守リ神メタミコ様ちゃも The Guardian God of Love Metamiko (chamo)) is the 38th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 270,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Ruby-Sapphire volume 4",
+    "slug": "pokemon-ruby-sapphire-volume-4",
+    "pageId": 84321,
+    "revisionId": 4354752
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire volumes",
+    "sourceFileName": "pokemon-ruby-sapphire-volume-4__84321.json",
+    "revisionTimestamp": "2025-08-08T19:03:38Z",
+    "fetchedAt": "2026-05-14T15:37:36.743Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 4 is the fourth volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "Volume 4 is the fourth volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Publications==\n \n \n \n \n \n \n \n\n==Chapters==\nThe Mystery Of A Midsummer's Night\nAiming For 100% Viewership!!\nA Visitor From Outer Space?!\nClefairy, A Police Officer?!\nPokémon Task Force In Action!!\nThe Selected Trainer?!\nClefairy, The Baseball Team's Saviour?!\nGet It At All Costs!\nAnnual Big Cleaning Operation!!\nPokémon New Year\nPokémon Short Comics\n\n==Important events==\n\n==Party changes==\n===Additions===\n\n===Evolutions===\nThe following Pokémon evolve:\n\n==Gym Battles==\n\n==Character summary==\n\n===Red's Party===\n\n==Trivia==\n\n \n\n \n\nit:Pokémon Ruby-Sapphire volume 4\nzh:宝可梦欢乐祭 红宝石・蓝宝石篇4",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 4 is the fourth volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The Mystery Of A Midsummer's Night\nAiming For 100% Viewership!!\nA Visitor From Outer Space?!\nClefairy, A Police Officer?!\nPokémon Task Force In Action!!\nThe Selected Trainer?!\nClefairy, The Baseball Team's Saviour?!\nGet It At All Costs!\nAnnual Big Cleaning Operation!!\nPokémon New Year\nPokémon Short Comics"
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "The following Pokémon evolve:"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "it:Pokémon Ruby-Sapphire volume 4\nzh:宝可梦欢乐祭 红宝石・蓝宝石篇4"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Ruby-Sapphire volume 4",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Ruby-Sapphire volume 4\nCategory:Pokémon Ruby-Sapphire volumes\nVolume 4 is the fourth volume of the Pokémon Ruby-Sapphire manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Evolutions",
+      "Trivia"
+    ],
+    "characterCount": 687,
+    "sectionCount": 4
+  }
+}

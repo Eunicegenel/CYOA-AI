@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PICY01",
+    "slug": "picy01",
+    "pageId": 301495,
+    "revisionId": 4528155
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! chapters",
+    "sourceFileName": "picy01__301495.json",
+    "revisionTimestamp": "2026-04-09T16:08:49Z",
+    "fetchedAt": "2026-05-14T15:30:04.878Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Chapter 1 (Japanese: 第１話 Chapter 1) is the first chapter of Pokémon the Movie: I Choose You!",
+  "plainText": "Chapter 1 (Japanese: 第１話 Chapter 1) is the first chapter of Pokémon the Movie: I Choose You!\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Humans====\n\nDelia\nProfessor Oak\nCross\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nDelia\nProfessor Oak\nCross\n===Pokémon===\n( 's; new)\n(Cross's)\n\n( )\n(multiple)\n(fantasy)\n(fantasy)\n\n==Differences between the movie and the manga==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chapter 1 (Japanese: 第１話 Chapter 1) is the first chapter of Pokémon the Movie: I Choose You!"
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Delia\nProfessor Oak\nCross"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Delia\nProfessor Oak\nCross"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's; new)\n(Cross's)\n\n( )\n(multiple)\n(fantasy)\n(fantasy)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PICY01",
+    "pageType": "chapter",
+    "searchableText": "PICY01\nCategory:Pokémon the Movie: I Choose You! chapters\nChapter 1 (Japanese: 第１話 Chapter 1) is the first chapter of Pokémon the Movie: I Choose You!",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 378,
+    "sectionCount": 4
+  }
+}

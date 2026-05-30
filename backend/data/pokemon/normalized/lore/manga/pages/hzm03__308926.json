@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "HZM03",
+    "slug": "hzm03",
+    "pageId": 308926,
+    "revisionId": 4528228
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Anime Pocket Monsters: Liko and Roy's Adventure chapters",
+    "sourceFileName": "hzm03__308926.json",
+    "revisionTimestamp": "2026-04-09T16:10:35Z",
+    "fetchedAt": "2026-05-14T15:21:58.151Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: VS黒いレックウザ VS Black Rayquaza) is the third chapter of the manga. It was first published in the May 2024 issue of CoroCoro Comics, released on April 15, 2024. It is based on the Pokémon Horizons: The Series episode From So Far Away.",
+  "plainText": "(Japanese: VS黒いレックウザ VS Black Rayquaza) is the third chapter of the manga. It was first published in the May 2024 issue of CoroCoro Comics, released on April 15, 2024. It is based on the Pokémon Horizons: The Series episode From So Far Away.\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nSpinel\nCoral\nSidian\nChalce\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nLiko\nRoy\nFriede\nMollie\nOrla\nLudlow\nMurdock\nDot\n(fantasy)\nRika (fantasy)\nHassel (fantasy)\nPoppy (fantasy)\nKaty (fantasy)\nBrassius (fantasy)\n(fantasy)\nLarry (fantasy)\nGrusha (fantasy)\nAmethio\nSpinel\nCoral\nSidian\nChalce\nLucius (illusion; flashback)\n\n===Pokémon===\n( ; evolves)\n( ; newly evolved)\n( ; fantasy)\n( )\n( ; flashback)\n( ; stallized)\n(Friede's; Captain Pikachu)\n(Murdock's; Rotom Phone)\n( )\n(Dot's; Rotom Phone)\n( ; stallized)\n(Amethio's)\n(Coral's)\n(Lucius's; Black Rayquaza)\n( ; ; fantasy)\n( ; Galarian form; ; fantasy)\n( ; ; fantasy)\n( ; silhouette)\n( ; silhouette)\n( ; )\n\n \n\n==References==\n \n\n \n \n \n\nit:HZM03",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: VS黒いレックウザ VS Black Rayquaza) is the third chapter of the manga. It was first published in the May 2024 issue of CoroCoro Comics, released on April 15, 2024. It is based on the Pokémon Horizons: The Series episode From So Far Away."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Spinel\nCoral\nSidian\nChalce"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Liko\nRoy\nFriede\nMollie\nOrla\nLudlow\nMurdock\nDot\n(fantasy)\nRika (fantasy)\nHassel (fantasy)\nPoppy (fantasy)\nKaty (fantasy)\nBrassius (fantasy)\n(fantasy)\nLarry (fantasy)\nGrusha (fantasy)\nAmethio\nSpinel\nCoral\nSidian\nChalce\nLucius (illusion; flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; evolves)\n( ; newly evolved)\n( ; fantasy)\n( )\n( ; flashback)\n( ; stallized)\n(Friede's; Captain Pikachu)\n(Murdock's; Rotom Phone)\n( )\n(Dot's; Rotom Phone)\n( ; stallized)\n(Amethio's)\n(Coral's)\n(Lucius's; Black Rayquaza)\n( ; ; fantasy)\n( ; Galarian form; ; fantasy)\n( ; ; fantasy)\n( ; silhouette)\n( ; silhouette)\n( ; )"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:HZM03"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "HZM03",
+    "pageType": "chapter",
+    "searchableText": "HZM03\nCategory:Anime Pocket Monsters: Liko and Roy's Adventure chapters\n(Japanese: VS黒いレックウザ VS Black Rayquaza) is the third chapter of the manga. It was first published in the May 2024 issue of CoroCoro Comics, released on April 15, 2024. It is based on the Pokémon Horizons: The Series episode From So Far Away.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "References"
+    ],
+    "characterCount": 997,
+    "sectionCount": 5
+  }
+}

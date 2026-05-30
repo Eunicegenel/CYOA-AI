@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMHGSS09",
+    "slug": "pmhgss09",
+    "pageId": 176445,
+    "revisionId": 4528352
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS chapters",
+    "sourceFileName": "pmhgss09__176445.json",
+    "revisionTimestamp": "2026-04-09T16:16:58Z",
+    "fetchedAt": "2026-05-14T15:32:56.480Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: レッドに弟子入り Red's Apprenticeship!?) is the ninth chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: レッドに弟子入り Red's Apprenticeship!?) is the ninth chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: レッドに弟子入り Red's Apprenticeship!?) is the ninth chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMHGSS09",
+    "pageType": "chapter",
+    "searchableText": "PMHGSS09\nCategory:Pocket Monsters HGSS chapters\n(Japanese: レッドに弟子入り Red's Apprenticeship!?) is the ninth chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 245,
+    "sectionCount": 2
+  }
+}

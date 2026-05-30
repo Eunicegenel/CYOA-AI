@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Wakaba",
+    "slug": "wakaba",
+    "pageId": 85436,
+    "revisionId": 4357539
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battle Stories characters",
+    "sourceFileName": "wakaba__85436.json",
+    "revisionTimestamp": "2025-08-13T12:30:22Z",
+    "fetchedAt": "2026-05-14T15:52:29.922Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "For the town in Johto whose Japanese name is Wakaba Town, see New Bark Town.\n \n----\n \n(Japanese: ワカバ Wakaba) is the main character of Pokémon Battle Stories.",
+  "plainText": "For the town in Johto whose Japanese name is Wakaba Town, see New Bark Town.\n \n----\n \n(Japanese: ワカバ Wakaba) is the main character of Pokémon Battle Stories.\n\n==History==\nWakaba is a news reporter who was tasked with interviewing Trainers for a planned Pokémon book. She is given one year to interview various trainers. She isn't very good with Pokémon, as she has bad memories of being chased by as a child. She instead wanted to create a book about sweets.\n\nAfter setting out to complete her assignment, she meets Takeo, a young boy who released his for being too weak and losing every battle. She gives him advice and he is able to reconcile with his Oshawott.\n\nWhile trying to interview an old woman, she meets Shinonome, a rival reporter who tried to get the same scoop as her. She quickly becomes competitive with him, and they have a battle to decide who will interview her.\n\nOver her journey, she grows to be more comfortable around Pokémon.\n\n==Character==\nThough she is not good with Pokémon, she will often help trainers with their Pokémon-related struggles. This usually leads to her getting into trouble.\n\nShe is assisted by Chitose, her cameraman.\n\n==Pokémon==\n \n\n \n\n \n \n \n\nit:Wakaba (PBS)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "For the town in Johto whose Japanese name is Wakaba Town, see New Bark Town.\n \n----\n \n(Japanese: ワカバ Wakaba) is the main character of Pokémon Battle Stories."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Wakaba is a news reporter who was tasked with interviewing Trainers for a planned Pokémon book. She is given one year to interview various trainers. She isn't very good with Pokémon, as she has bad memories of being chased by as a child. She instead wanted to create a book about sweets.\n\nAfter setting out to complete her assignment, she meets Takeo, a young boy who released his for being too weak and losing every battle. She gives him advice and he is able to reconcile with his Oshawott.\n\nWhile trying to interview an old woman, she meets Shinonome, a rival reporter who tried to get the same scoop as her. She quickly becomes competitive with him, and they have a battle to decide who will interview her.\n\nOver her journey, she grows to be more comfortable around Pokémon."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Though she is not good with Pokémon, she will often help trainers with their Pokémon-related struggles. This usually leads to her getting into trouble.\n\nShe is assisted by Chitose, her cameraman."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Wakaba (PBS)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Wakaba",
+    "pageType": "character",
+    "searchableText": "Wakaba\nCategory:Pokémon Battle Stories characters\nFor the town in Johto whose Japanese name is Wakaba Town, see New Bark Town.\n \n----\n \n(Japanese: ワカバ Wakaba) is the main character of Pokémon Battle Stories.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Pokémon"
+    ],
+    "characterCount": 1202,
+    "sectionCount": 4
+  }
+}

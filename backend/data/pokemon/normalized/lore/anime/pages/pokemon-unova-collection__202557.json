@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Unova Collection",
+    "slug": "pokemon-unova-collection",
+    "pageId": 202557,
+    "revisionId": 4261484
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation home video",
+    "sourceFileName": "pokemon-unova-collection__202557.json",
+    "revisionTimestamp": "2025-03-20T01:11:06Z",
+    "fetchedAt": "2026-05-14T14:43:55.756Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The Pokémon Unova Collection is a Region 4 Collector's Pokédex Book DVD set released by in Australia on June 4, 2014 and in New Zealand on June 25, 2014. It contains 18 discs with 142 episodes across them combined. Its catalogue number is BHE5279. The DVDs don't include English closed captioning.\n\nIt contains all of the regular dubbed episodes of that take place in Unova. It contains episodes from Black & White, Rival Destinies, and Adventures in Unova and Beyond.",
+  "plainText": "The Pokémon Unova Collection is a Region 4 Collector's Pokédex Book DVD set released by in Australia on June 4, 2014 and in New Zealand on June 25, 2014. It contains 18 discs with 142 episodes across them combined. Its catalogue number is BHE5279. The DVDs don't include English closed captioning.\n\nIt contains all of the regular dubbed episodes of that take place in Unova. It contains episodes from Black & White, Rival Destinies, and Adventures in Unova and Beyond.\n\n==Book==\nThe discs come in a large book, designed to resemble the Unova Pokédex.\n\nThe front cover and back cover together include portraits of all 156 Generation V Pokémon. Inside the front cover is a large image of Vertress City, with a map of the Unova region in the animated series in the top right corner.\n\nAt the start of the book, there is a brief description of the main characters, having profiles for , Ash's Pikachu, , , and Trip.\n\nThe book has slots for 2 discs on each side of each page. Next to each disc in the book is an episode listing for that disc as well as a profile of a Pokémon that is featured in at least one of the episodes. This profile includes an original description, its height and weight (in metric units), its types, its , its (but not its Hidden Ability), and its evolutionary line. The episodes are numbered from 1 to 142.\n \n\n==Contents==\n \n\n==See also==\nPokémon Kanto and Orange Islands Collection\nPokémon Johto Collection\nPokémon Hoenn Collection\nPokémon Sinnoh Collection\n\n==External links==\nPokémon Unova Collection on Beyond Home Entertainment's website\nPokémon Unova Collection on JB Hi-Fi New Zealand's website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Pokémon Unova Collection is a Region 4 Collector's Pokédex Book DVD set released by in Australia on June 4, 2014 and in New Zealand on June 25, 2014. It contains 18 discs with 142 episodes across them combined. Its catalogue number is BHE5279. The DVDs don't include English closed captioning.\n\nIt contains all of the regular dubbed episodes of that take place in Unova. It contains episodes from Black & White, Rival Destinies, and Adventures in Unova and Beyond."
+    },
+    {
+      "heading": "Book",
+      "level": 2,
+      "text": "The discs come in a large book, designed to resemble the Unova Pokédex.\n\nThe front cover and back cover together include portraits of all 156 Generation V Pokémon. Inside the front cover is a large image of Vertress City, with a map of the Unova region in the animated series in the top right corner.\n\nAt the start of the book, there is a brief description of the main characters, having profiles for , Ash's Pikachu, , , and Trip.\n\nThe book has slots for 2 discs on each side of each page. Next to each disc in the book is an episode listing for that disc as well as a profile of a Pokémon that is featured in at least one of the episodes. This profile includes an original description, its height and weight (in metric units), its types, its , its (but not its Hidden Ability), and its evolutionary line. The episodes are numbered from 1 to 142."
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "Pokémon Kanto and Orange Islands Collection\nPokémon Johto Collection\nPokémon Hoenn Collection\nPokémon Sinnoh Collection"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Pokémon Unova Collection on Beyond Home Entertainment's website\nPokémon Unova Collection on JB Hi-Fi New Zealand's website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Unova Collection",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Unova Collection\nCategory:Animation home video\nThe Pokémon Unova Collection is a Region 4 Collector's Pokédex Book DVD set released by in Australia on June 4, 2014 and in New Zealand on June 25, 2014. It contains 18 discs with 142 episodes across them combined. Its catalogue number is BHE5279. The DVDs don't include English closed captioning.\n\nIt contains all of the regular dubbed episodes of that take place in Unova. It contains episodes from Black & White, Rival Destinies, and Adventures in Unova and Beyond.",
+    "sectionHeadings": [
+      "Lead",
+      "Book",
+      "See also",
+      "External links"
+    ],
+    "characterCount": 1621,
+    "sectionCount": 4
+  }
+}

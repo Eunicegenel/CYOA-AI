@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Hide and Seek",
+    "slug": "hide-and-seek",
+    "pageId": 67070,
+    "revisionId": 4275420
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese opening themes",
+    "sourceFileName": "hide-and-seek__67070.json",
+    "revisionTimestamp": "2025-04-03T12:48:15Z",
+    "fetchedAt": "2026-05-14T14:22:17.380Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Hide and Seek (Japanese: かくれんぼ Kakurenbo) is the Japanese opening theme of Pikachu's PikaBoo.",
+  "plainText": "Hide and Seek (Japanese: かくれんぼ Kakurenbo) is the Japanese opening theme of Pikachu's PikaBoo.\n\n==Synopsis==\n\n==Characters==\n( )\n\n===Lyrics===\n \n\n \n \n \n\nja:かくれんぼ\nzh:捉迷藏",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Hide and Seek (Japanese: かくれんぼ Kakurenbo) is the Japanese opening theme of Pikachu's PikaBoo."
+    },
+    {
+      "heading": "Characters",
+      "level": 2,
+      "text": "( )"
+    },
+    {
+      "heading": "Lyrics",
+      "level": 3,
+      "text": "ja:かくれんぼ\nzh:捉迷藏"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hide and Seek",
+    "pageType": "general-anime-lore",
+    "searchableText": "Hide and Seek\nCategory:Japanese opening themes\nHide and Seek (Japanese: かくれんぼ Kakurenbo) is the Japanese opening theme of Pikachu's PikaBoo.",
+    "sectionHeadings": [
+      "Lead",
+      "Characters",
+      "Lyrics"
+    ],
+    "characterCount": 167,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Mike Baker",
+    "slug": "mike-baker",
+    "pageId": 296557,
+    "revisionId": 4521079
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu characters",
+    "sourceFileName": "mike-baker__296557.json",
+    "revisionTimestamp": "2026-04-01T15:35:27Z",
+    "fetchedAt": "2026-05-14T14:36:58.887Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mike Baker is a supporting character in the game .",
+  "plainText": "Mike Baker is a supporting character in the game . \n\n==In the games==\n \n=== ===\nBaker is the head of the Baker Detective Agency and a friend of Harry Goodman and Frank Holiday. A year prior to the events of the game, Ryme City started seeing an increase in Pokémon-caused incidents. Six months prior, Baker and Harry received a request from Frank to to investigate them.\n\nBaker appears for the first time at the end of Chapter 1, when Tim Goodman visits the Baker Detective Agency for the first time. He warns Tim against investigating Harry's accident, as there were suspicious things about it and he doesn't want Tim to put himself in danger. \n\nHe appears again at the beginning of Chapter 3, where he lends his car to Tim so that Tim can drive to his new part-time job at PCL. He then receives a visit from Frank Holiday, so he tells Frank about Tim's arrival in Ryme City. Frank is concerned that Tim won't listen to Baker's warning, but Baker thinks Tim is an agreeable young man. Frank is later proven correct when Tim catches Carlos Hernando, the man who caused Harry's accident. He is disappointed that Tim didn't listen to him, but he understands how Tim feels. So, rather than telling him to stop, he asks Tim to tell him the next time he goes to investigate something so he can help Tim out. He also acknowledges that Tim has talent as a detective.\n\nBaker's Pokémon partner is . It is extremely shy and often hides in Baker's office, watching the people who come to visit. It loves doughnuts. It is sometimes referred to by the nickname Accie.\n\nBaker has several entries in Tim's case list:\n \n\n===Personality and characteristics===\nAccording to Amanda Blackstone, Mike is considerate and popular, though he can be a bit unreliable. He is a calm person and has a lot of associates, so he makes a good combination with Harry Goodman. He met Frank Holiday at the police academy.\n\n===Pokémon===\nThis listing is of Mike's known in the games:\n\n \n\n==Trivia==\nMike's last name, Baker, is a nod to , where fictional detective lived.\n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mike Baker is a supporting character in the game ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Baker is the head of the Baker Detective Agency and a friend of Harry Goodman and Frank Holiday. A year prior to the events of the game, Ryme City started seeing an increase in Pokémon-caused incidents. Six months prior, Baker and Harry received a request from Frank to to investigate them.\n\nBaker appears for the first time at the end of Chapter 1, when Tim Goodman visits the Baker Detective Agency for the first time. He warns Tim against investigating Harry's accident, as there were suspicious things about it and he doesn't want Tim to put himself in danger. \n\nHe appears again at the beginning of Chapter 3, where he lends his car to Tim so that Tim can drive to his new part-time job at PCL. He then receives a visit from Frank Holiday, so he tells Frank about Tim's arrival in Ryme City. Frank is concerned that Tim won't listen to Baker's warning, but Baker thinks Tim is an agreeable young man. Frank is later proven correct when Tim catches Carlos Hernando, the man who caused Harry's accident. He is disappointed that Tim didn't listen to him, but he understands how Tim feels. So, rather than telling him to stop, he asks Tim to tell him the next time he goes to investigate something so he can help Tim out. He also acknowledges that Tim has talent as a detective.\n\nBaker's Pokémon partner is . It is extremely shy and often hides in Baker's office, watching the people who come to visit. It loves doughnuts. It is sometimes referred to by the nickname Accie.\n\nBaker has several entries in Tim's case list:"
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "According to Amanda Blackstone, Mike is considerate and popular, though he can be a bit unreliable. He is a calm person and has a lot of associates, so he makes a good combination with Harry Goodman. He met Frank Holiday at the police academy."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Mike's known in the games:"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Mike's last name, Baker, is a nod to , where fictional detective lived."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mike Baker",
+    "pageType": "character",
+    "searchableText": "Mike Baker\nCategory:Detective Pikachu characters\nMike Baker is a supporting character in the game .",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Personality and characteristics",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 2082,
+    "sectionCount": 5
+  }
+}

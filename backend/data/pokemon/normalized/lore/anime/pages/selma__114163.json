@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Selma",
+    "slug": "selma",
+    "pageId": 114163,
+    "revisionId": 4094993
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "selma__114163.json",
+    "revisionTimestamp": "2024-09-01T00:10:52Z",
+    "fetchedAt": "2026-05-14T14:48:56.557Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Selma (Japanese: シマコ Shimako) is a character of the day who appeared in League Unleashed!. \n\nSelma is the manager for the vendors at the Lily of the Valley Conference. In order to be fair, she ran a drawing lottery to determine where the vendors would sell their products around the stadium. As the manager, she also tours all of the booths to make sure they are running properly.\n\nJessie ended up picking area number 139 in the lottery, which was located on the outskirts of the stadium grounds. When started to offer free products in order to lure people to their stand, Selma was quite impressed with their selling skills and allowed them to move their stand to a place closer to the stadium.",
+  "plainText": "Selma (Japanese: シマコ Shimako) is a character of the day who appeared in League Unleashed!. \n\nSelma is the manager for the vendors at the Lily of the Valley Conference. In order to be fair, she ran a drawing lottery to determine where the vendors would sell their products around the stadium. As the manager, she also tours all of the booths to make sure they are running properly.\n\nJessie ended up picking area number 139 in the lottery, which was located on the outskirts of the stadium grounds. When started to offer free products in order to lure people to their stand, Selma was quite impressed with their selling skills and allowed them to move their stand to a place closer to the stadium.\n\n==Voice actors==\n \n \n \n\n \n \n \n\nit:Shimako",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Selma (Japanese: シマコ Shimako) is a character of the day who appeared in League Unleashed!. \n\nSelma is the manager for the vendors at the Lily of the Valley Conference. In order to be fair, she ran a drawing lottery to determine where the vendors would sell their products around the stadium. As the manager, she also tours all of the booths to make sure they are running properly.\n\nJessie ended up picking area number 139 in the lottery, which was located on the outskirts of the stadium grounds. When started to offer free products in order to lure people to their stand, Selma was quite impressed with their selling skills and allowed them to move their stand to a place closer to the stadium."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Shimako"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Selma",
+    "pageType": "character",
+    "searchableText": "Selma\nCategory:Sinnoh characters of the day\nSelma (Japanese: シマコ Shimako) is a character of the day who appeared in League Unleashed!. \n\nSelma is the manager for the vendors at the Lily of the Valley Conference. In order to be fair, she ran a drawing lottery to determine where the vendors would sell their products around the stadium. As the manager, she also tours all of the booths to make sure they are running properly.\n\nJessie ended up picking area number 139 in the lottery, which was located on the outskirts of the stadium grounds. When started to offer free products in order to lure people to their stand, Selma was quite impressed with their selling skills and allowed them to move their stand to a place closer to the stadium.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 738,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Taichi",
+    "slug": "taichi",
+    "pageId": 191907,
+    "revisionId": 4532254
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY: The Legend of the Pokémon Dragon King characters",
+    "sourceFileName": "taichi__191907.json",
+    "revisionTimestamp": "2026-04-14T20:51:55Z",
+    "fetchedAt": "2026-05-14T15:51:04.012Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: タイチ Taichi) is a character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He is a competitor in the Dragon King Cup, where he meets and becomes friends with . He possesses a Mega Ring and an Ampharosite, which gives his the capability to Mega Evolve into Mega Ampharos.",
+  "plainText": "(Japanese: タイチ Taichi) is a character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He is a competitor in the Dragon King Cup, where he meets and becomes friends with . He possesses a Mega Ring and an Ampharosite, which gives his the capability to Mega Evolve into Mega Ampharos.\n\n==History==\nTaichi and first meet in Dragon King Cup Finally Begins!! at the Dragon King Cup. They later face each other in battle in Fierce Fighting! Akira VS Taichi!!, which ended with Akira's Mega Charizard defeating Taichi's Mega Ampharos.\n\n==Pokémon==\n \n\n \n \n \n \n \n\n \n \n\nit:Taichi",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: タイチ Taichi) is a character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He is a competitor in the Dragon King Cup, where he meets and becomes friends with . He possesses a Mega Ring and an Ampharosite, which gives his the capability to Mega Evolve into Mega Ampharos."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Taichi and first meet in Dragon King Cup Finally Begins!! at the Dragon King Cup. They later face each other in battle in Fierce Fighting! Akira VS Taichi!!, which ended with Akira's Mega Charizard defeating Taichi's Mega Ampharos."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Taichi"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Taichi",
+    "pageType": "character",
+    "searchableText": "Taichi\nCategory:Pocket Monsters XY: The Legend of the Pokémon Dragon King characters\n(Japanese: タイチ Taichi) is a character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He is a competitor in the Dragon King Cup, where he meets and becomes friends with . He possesses a Mega Ring and an Ampharosite, which gives his the capability to Mega Evolve into Mega Ampharos.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon"
+    ],
+    "characterCount": 582,
+    "sectionCount": 3
+  }
+}

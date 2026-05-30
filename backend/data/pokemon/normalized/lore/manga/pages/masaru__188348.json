@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Masaru",
+    "slug": "masaru",
+    "pageId": 188348,
+    "revisionId": 4131452
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card characters",
+    "sourceFileName": "masaru__188348.json",
+    "revisionTimestamp": "2024-09-29T04:19:51Z",
+    "fetchedAt": "2026-05-14T15:25:59.017Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: マサル Masaru) is a minor character from How I Became a Pokémon Card who appeared in Team Rocket and Dark Charmeleon.",
+  "plainText": "(Japanese: マサル Masaru) is a minor character from How I Became a Pokémon Card who appeared in Team Rocket and Dark Charmeleon.\n\n==History==\nMasaru first appeared in the chapter where he asked Hitoshi regarding his attempts in trying to join Team Rocket. He read a notice of thanks that was given to the chief of police earlier. Masaru accidentally gave Hitoshi advice after saying that he can't change what he really is. When Hitoshi wanted to find out what Team Rocket does, Masaru became surprised and told Hitoshi that he can't do that.\n\nLater, Masaru went to a swarm of and provoked them into attacking as an attempt to do something eviler since Masaru also wanted to join Team Rocket. However, this failed as the swarm was out of control and was too much for Masaru to handle. After Hitoshi took care of the Beedrill swarm, Masaru went up to Hitoshi and apologized for what he did as he was jealous of Hitoshi's Team Rocket make-believe.\n\n==Pokémon==\n \n \n \n \n\n \n \n\nit:Masaru",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: マサル Masaru) is a minor character from How I Became a Pokémon Card who appeared in Team Rocket and Dark Charmeleon."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Masaru first appeared in the chapter where he asked Hitoshi regarding his attempts in trying to join Team Rocket. He read a notice of thanks that was given to the chief of police earlier. Masaru accidentally gave Hitoshi advice after saying that he can't change what he really is. When Hitoshi wanted to find out what Team Rocket does, Masaru became surprised and told Hitoshi that he can't do that.\n\nLater, Masaru went to a swarm of and provoked them into attacking as an attempt to do something eviler since Masaru also wanted to join Team Rocket. However, this failed as the swarm was out of control and was too much for Masaru to handle. After Hitoshi took care of the Beedrill swarm, Masaru went up to Hitoshi and apologized for what he did as he was jealous of Hitoshi's Team Rocket make-believe."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Masaru"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Masaru",
+    "pageType": "character",
+    "searchableText": "Masaru\nCategory:How I Became a Pokémon Card characters\n(Japanese: マサル Masaru) is a minor character from How I Became a Pokémon Card who appeared in Team Rocket and Dark Charmeleon.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon"
+    ],
+    "characterCount": 978,
+    "sectionCount": 3
+  }
+}

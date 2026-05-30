@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PS537",
+    "slug": "ps537",
+    "pageId": 221483,
+    "revisionId": 4210503
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps537__221483.json",
+    "revisionTimestamp": "2024-12-26T03:03:37Z",
+    "fetchedAt": "2026-05-14T15:45:36.586Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Colress Machine (Japanese: VSキュレムII VS Kyurem II), titled VS Kyurem II in the Shogakukan Asia translation, is the 537th chapter of the Pokémon Adventures manga, and the 13th chapter of the .\n\nIt is subtitled Kyurem II (Japanese: アクロマ・マシーン Machine) in the VIZ Media translation and Colress Machine in the Shogakukan Asia translation.",
+  "plainText": "Colress Machine (Japanese: VSキュレムII VS Kyurem II), titled VS Kyurem II in the Shogakukan Asia translation, is the 537th chapter of the Pokémon Adventures manga, and the 13th chapter of the .\n\nIt is subtitled Kyurem II (Japanese: アクロマ・マシーン Machine) in the VIZ Media translation and Colress Machine in the Shogakukan Asia translation.\n\n==Plot==\n \n\n==Major events==\nZinzolin continues his battle against Colress.\nexits the Relic Passage and arrives next to the Pokémon World Tournament construction site.\nBlake is revealed to have captured a named Kabutott and a named Glisott.\nBlake finds Zinzolin defeated by and , who proceed to transform into their Therian Formes.\nColress reveals he is in possession of the Reveal Glass.\ntells everything about the black-suited s, the Colress Machine, and the microchip in her pendant.\nWhitley decides to find her missing pendant so that she may give it to Rood or Gorm.\n \n \n\n===Debuts===\n\n====Pokémon debuts====\n(Therian Forme)\n(Therian Forme)\n\n==Characters==\n===Humans===\n\n(fantasy)\nRoxie\nColress\nZinzolin\n\ns (flashback)\n\n===Pokémon===\n( ; fantasy)\n( )\n( )\n(Kelden; 's)\n(Kabutott; 's; new)\n(Glisott; 's; new)\n(Foongy; 's)\n( )\n( ; fantasy)\n(Roxie's)\n(Colress's)\n(Colress's)\n(Zinzolin's)\n( )\n( ; both Formes)\n( ; both Formes)\n\n==Trivia==\n==In other languages==\n \n \n \n \n\nde:VS. Kyurem II\nes:PMS537\nfr:Chapitre 537 (Pocket Monsters Special)\nit:LGA537\nja:ポケットモンスターSPECIAL 第537話\nzh:宝可梦特别篇 第537话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Colress Machine (Japanese: VSキュレムII VS Kyurem II), titled VS Kyurem II in the Shogakukan Asia translation, is the 537th chapter of the Pokémon Adventures manga, and the 13th chapter of the .\n\nIt is subtitled Kyurem II (Japanese: アクロマ・マシーン Machine) in the VIZ Media translation and Colress Machine in the Shogakukan Asia translation."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Zinzolin continues his battle against Colress.\nexits the Relic Passage and arrives next to the Pokémon World Tournament construction site.\nBlake is revealed to have captured a named Kabutott and a named Glisott.\nBlake finds Zinzolin defeated by and , who proceed to transform into their Therian Formes.\nColress reveals he is in possession of the Reveal Glass.\ntells everything about the black-suited s, the Colress Machine, and the microchip in her pendant.\nWhitley decides to find her missing pendant so that she may give it to Rood or Gorm."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Therian Forme)\n(Therian Forme)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(fantasy)\nRoxie\nColress\nZinzolin\n\ns (flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; fantasy)\n( )\n( )\n(Kelden; 's)\n(Kabutott; 's; new)\n(Glisott; 's; new)\n(Foongy; 's)\n( )\n( ; fantasy)\n(Roxie's)\n(Colress's)\n(Colress's)\n(Zinzolin's)\n( )\n( ; both Formes)\n( ; both Formes)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Kyurem II\nes:PMS537\nfr:Chapitre 537 (Pocket Monsters Special)\nit:LGA537\nja:ポケットモンスターSPECIAL 第537話\nzh:宝可梦特别篇 第537话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS537",
+    "pageType": "chapter",
+    "searchableText": "PS537\nCategory:Pokémon Adventures chapters\nColress Machine (Japanese: VSキュレムII VS Kyurem II), titled VS Kyurem II in the Shogakukan Asia translation, is the 537th chapter of the Pokémon Adventures manga, and the 13th chapter of the .\n\nIt is subtitled Kyurem II (Japanese: アクロマ・マシーン Machine) in the VIZ Media translation and Colress Machine in the Shogakukan Asia translation.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1425,
+    "sectionCount": 6
+  }
+}

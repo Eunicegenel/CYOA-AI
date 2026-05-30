@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMBW11",
+    "slug": "pmbw11",
+    "pageId": 171697,
+    "revisionId": 4528184
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw11__171697.json",
+    "revisionTimestamp": "2026-04-09T16:09:37Z",
+    "fetchedAt": "2026-05-14T15:31:50.307Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピのジェットコースターバトル 's Jet Coaster Battle) is the eleventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ピッピのジェットコースターバトル 's Jet Coaster Battle) is the eleventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nElesa\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nElesa\n\n===Pokémon===\n( )\n( )\n(Elesa's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピのジェットコースターバトル 's Jet Coaster Battle) is the eleventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Elesa"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Elesa"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Elesa's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW11",
+    "pageType": "chapter",
+    "searchableText": "PMBW11\nCategory:Pocket Monsters BW chapters\n(Japanese: ピッピのジェットコースターバトル 's Jet Coaster Battle) is the eleventh chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 278,
+    "sectionCount": 4
+  }
+}

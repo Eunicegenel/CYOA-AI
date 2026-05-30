@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASS42",
+    "slug": "pass42",
+    "pageId": 293764,
+    "revisionId": 4526454
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass42__293764.json",
+    "revisionTimestamp": "2026-04-09T14:47:09Z",
+    "fetchedAt": "2026-05-14T15:29:06.181Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Craaash!! Triple March (Japanese: ダダダダ！！トリプル大進撃 Rapid Fire!! Triple All-Out Assault) is the 42nd chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Craaash!! Triple March (Japanese: ダダダダ！！トリプル大進撃 Rapid Fire!! Triple All-Out Assault) is the 42nd chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nnames his Arman.\nand attack .\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n\n==Characters==\n===Humans===\nHenry\nCasey\nHop\nBede\nMarnie \nPiers\nRaihan\nKlara (flashback)\nAvery (flashback)\nLeon\nMustard (flashback)\n(flashback)\nHyde (flashback)\nOleana\nMarvin\n\n===Pokémon===\n(Twiggy; Gigantamax; Henry's)\n(Arman; ; Henry's)\n(Bit; Gigantamax; 's)\n(Hop's)\n(Gigantamax; Bede's)\n(Sniffler; Gigantamax; Marvin's)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n\n( )\n( )\n( )\n\n==Trivia==\n\n \n \n \n\nde:Drei Siege\nes:PMSSwSh42\nfr:Chapitre 42 (Pocket Monsters Special Épée et Bouclier)\nit:PASS42\nzh:宝可梦特别篇 剑·盾篇 第42话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Craaash!! Triple March (Japanese: ダダダダ！！トリプル大進撃 Rapid Fire!! Triple All-Out Assault) is the 42nd chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "names his Arman.\nand attack ."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nHop\nBede\nMarnie \nPiers\nRaihan\nKlara (flashback)\nAvery (flashback)\nLeon\nMustard (flashback)\n(flashback)\nHyde (flashback)\nOleana\nMarvin"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Twiggy; Gigantamax; Henry's)\n(Arman; ; Henry's)\n(Bit; Gigantamax; 's)\n(Hop's)\n(Gigantamax; Bede's)\n(Sniffler; Gigantamax; Marvin's)\n(Gigantamax)\n(Gigantamax)\n(Gigantamax)\n\n( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Drei Siege\nes:PMSSwSh42\nfr:Chapitre 42 (Pocket Monsters Special Épée et Bouclier)\nit:PASS42\nzh:宝可梦特别篇 剑·盾篇 第42话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS42",
+    "pageType": "chapter",
+    "searchableText": "PASS42\nCategory:Pokémon Adventures chapters\nCraaash!! Triple March (Japanese: ダダダダ！！トリプル大進撃 Rapid Fire!! Triple All-Out Assault) is the 42nd chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 826,
+    "sectionCount": 6
+  }
+}

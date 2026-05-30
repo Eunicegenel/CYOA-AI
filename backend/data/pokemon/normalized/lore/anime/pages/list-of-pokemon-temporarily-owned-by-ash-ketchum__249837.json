@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "List of Pokémon temporarily owned by Ash Ketchum",
+    "slug": "list-of-pokemon-temporarily-owned-by-ash-ketchum",
+    "pageId": 249837,
+    "revisionId": 4514286
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash's Pokémon",
+    "sourceFileName": "list-of-pokemon-temporarily-owned-by-ash-ketchum__249837.json",
+    "revisionTimestamp": "2026-03-21T08:02:31Z",
+    "fetchedAt": "2026-05-14T14:32:41.160Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Several Pokémon have been temporarily owned by Ash Ketchum, the main protagonist in .",
+  "plainText": "Several Pokémon have been temporarily owned by Ash Ketchum, the main protagonist in .\n \n\n==Released==\nThis section is for the Pokémon that Ash caught and released within the same episode.\n\n \n\n \n\n \n\n \n\n \n\n==Temporary==\nThis section is for the Pokémon that Ash temporarily partnered with, many of which were rented and belong to another Trainer, or were wild Pokémon that Ash temporarily teamed up with.\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n==Notes==\n \n\n==Related articles==\nAsh's Raticate, a Pokémon that Ash obtained in a trade, but traded back to its within the same episode.\nAsh's Beedrill, a Pokémon that Ash to in the same episode he caught it.\n\n \n \n\n \n\nit:Elenco dei Pokémon posseduti temporaneamente da Ash Ketchum",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Several Pokémon have been temporarily owned by Ash Ketchum, the main protagonist in ."
+    },
+    {
+      "heading": "Released",
+      "level": 2,
+      "text": "This section is for the Pokémon that Ash caught and released within the same episode."
+    },
+    {
+      "heading": "Temporary",
+      "level": 2,
+      "text": "This section is for the Pokémon that Ash temporarily partnered with, many of which were rented and belong to another Trainer, or were wild Pokémon that Ash temporarily teamed up with."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Ash's Raticate, a Pokémon that Ash obtained in a trade, but traded back to its within the same episode.\nAsh's Beedrill, a Pokémon that Ash to in the same episode he caught it.\n\n \n \n\n \n\nit:Elenco dei Pokémon posseduti temporaneamente da Ash Ketchum"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon temporarily owned by Ash Ketchum",
+    "pageType": "pokemon-related",
+    "searchableText": "List of Pokémon temporarily owned by Ash Ketchum\nCategory:Ash's Pokémon\nSeveral Pokémon have been temporarily owned by Ash Ketchum, the main protagonist in .",
+    "sectionHeadings": [
+      "Lead",
+      "Released",
+      "Temporary",
+      "Related articles"
+    ],
+    "characterCount": 819,
+    "sectionCount": 4
+  }
+}

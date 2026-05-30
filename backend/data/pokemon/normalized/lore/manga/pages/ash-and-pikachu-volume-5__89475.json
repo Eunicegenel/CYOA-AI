@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Ash & Pikachu volume 5",
+    "slug": "ash-and-pikachu-volume-5",
+    "pageId": 89475,
+    "revisionId": 4527469
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu volumes",
+    "sourceFileName": "ash-and-pikachu-volume-5__89475.json",
+    "revisionTimestamp": "2026-04-09T15:39:24Z",
+    "fetchedAt": "2026-05-14T15:13:00.063Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume Five is the fifth of six volumes of the Ash & Pikachu manga authored and illustrated by Takashi Teshirogi.",
+  "plainText": "Volume Five is the fifth of six volumes of the Ash & Pikachu manga authored and illustrated by Takashi Teshirogi. \n\n==Publications==\n \n \n \n \n\n==Chapters==\nChapter 25: I'll Win With My Own Battle Style!!\nChapter 26: Hunt For The Treasure Of The Universe!\nChapter 27: Tale Of The Friendship Between Pikachu And Meowth\nChapter 28: Saving Kyogre, The Lord Of The Ocean Depths!\nChapter 29: Battle Till The End! Drake, One Of The Elite Four!\nChapter 30: The Birth Of The Invincible Team, Max And Ralts!!",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume Five is the fifth of six volumes of the Ash & Pikachu manga authored and illustrated by Takashi Teshirogi."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 25: I'll Win With My Own Battle Style!!\nChapter 26: Hunt For The Treasure Of The Universe!\nChapter 27: Tale Of The Friendship Between Pikachu And Meowth\nChapter 28: Saving Kyogre, The Lord Of The Ocean Depths!\nChapter 29: Battle Till The End! Drake, One Of The Elite Four!\nChapter 30: The Birth Of The Invincible Team, Max And Ralts!!"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ash & Pikachu volume 5",
+    "pageType": "general-manga-lore",
+    "searchableText": "Ash & Pikachu volume 5\nCategory:Ash & Pikachu volumes\nVolume Five is the fifth of six volumes of the Ash & Pikachu manga authored and illustrated by Takashi Teshirogi.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 497,
+    "sectionCount": 2
+  }
+}

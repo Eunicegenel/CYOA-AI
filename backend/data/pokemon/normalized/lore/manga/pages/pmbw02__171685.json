@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PMBW02",
+    "slug": "pmbw02",
+    "pageId": 171685,
+    "revisionId": 4528582
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw02__171685.json",
+    "revisionTimestamp": "2026-04-09T16:28:42Z",
+    "fetchedAt": "2026-05-14T15:31:44.456Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: イケメンレストラン でバトル！？ Battle at the Restaurant of Handsome Men!?) is the second chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: イケメンレストラン でバトル！？ Battle at the Restaurant of Handsome Men!?) is the second chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nCilan\nChili\nCress\n\n====Pokémon debuts====\n( )\n( )\n( )\n\n==Characters==\n===Humans===\n\nCilan\nChili\nCress\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n\n \n \n\nit:PMBW02",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: イケメンレストラン でバトル！？ Battle at the Restaurant of Handsome Men!?) is the second chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Cilan\nChili\nCress"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Cilan\nChili\nCress"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n\n \n \n\nit:PMBW02"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW02",
+    "pageType": "chapter",
+    "searchableText": "PMBW02\nCategory:Pocket Monsters BW chapters\n(Japanese: イケメンレストラン でバトル！？ Battle at the Restaurant of Handsome Men!?) is the second chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 351,
+    "sectionCount": 5
+  }
+}

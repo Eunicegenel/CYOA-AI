@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Professor Oak's Big Pokémon Examination",
+    "slug": "professor-oaks-big-pokemon-examination",
+    "pageId": 209097,
+    "revisionId": 4260054
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Professor Oak's lectures",
+    "sourceFileName": "professor-oaks-big-pokemon-examination__209097.json",
+    "revisionTimestamp": "2025-03-18T08:06:56Z",
+    "fetchedAt": "2026-05-14T14:44:50.862Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Professor Oak's Big Pokémon Examination (Japanese: オーキド博士のポケモン大検定 Doctor Okido's Big Pokémon Examination) is a segment featured at the end of episodes in Japan. It was featured from DP098 to DP191, and was preceded by Professor Oak's Big Pokémon Encyclopedia and was succeeded by Professor Oak's Pokémon Live Caster. The segment was also featured at the end of DPS01 and DPS02.",
+  "plainText": "Professor Oak's Big Pokémon Examination (Japanese: オーキド博士のポケモン大検定 Doctor Okido's Big Pokémon Examination) is a segment featured at the end of episodes in Japan. It was featured from DP098 to DP191, and was preceded by Professor Oak's Big Pokémon Encyclopedia and was succeeded by Professor Oak's Pokémon Live Caster. The segment was also featured at the end of DPS01 and DPS02.\n \n==List of Professor Oak's Big Pokémon Examination segments==\n \n\n==Related articles==\n \n \n\n \n\nja:オーキド博士のポケモン大検定\nzh:大木博士的宝可梦大检定",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Professor Oak's Big Pokémon Examination (Japanese: オーキド博士のポケモン大検定 Doctor Okido's Big Pokémon Examination) is a segment featured at the end of episodes in Japan. It was featured from DP098 to DP191, and was preceded by Professor Oak's Big Pokémon Encyclopedia and was succeeded by Professor Oak's Pokémon Live Caster. The segment was also featured at the end of DPS01 and DPS02."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "ja:オーキド博士のポケモン大検定\nzh:大木博士的宝可梦大检定"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Professor Oak's Big Pokémon Examination",
+    "pageType": "pokemon-related",
+    "searchableText": "Professor Oak's Big Pokémon Examination\nCategory:Professor Oak's lectures\nProfessor Oak's Big Pokémon Examination (Japanese: オーキド博士のポケモン大検定 Doctor Okido's Big Pokémon Examination) is a segment featured at the end of episodes in Japan. It was featured from DP098 to DP191, and was preceded by Professor Oak's Big Pokémon Encyclopedia and was succeeded by Professor Oak's Pokémon Live Caster. The segment was also featured at the end of DPS01 and DPS02.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 505,
+    "sectionCount": 2
+  }
+}

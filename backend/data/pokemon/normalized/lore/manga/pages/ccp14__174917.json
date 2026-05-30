@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CCP14",
+    "slug": "ccp14",
+    "pageId": 174917,
+    "revisionId": 4175916
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp14__174917.json",
+    "revisionTimestamp": "2024-11-06T03:37:41Z",
+    "fetchedAt": "2026-05-14T15:15:16.360Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 恋するアチャモの修行ちゃも! Falling in Love With Training (chamo!)) is the 14th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: 恋するアチャモの修行ちゃも! Falling in Love With Training (chamo!)) is the 14th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 恋するアチャモの修行ちゃも! Falling in Love With Training (chamo!)) is the 14th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP14",
+    "pageType": "chapter",
+    "searchableText": "CCP14\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: 恋するアチャモの修行ちゃも! Falling in Love With Training (chamo!)) is the 14th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 257,
+    "sectionCount": 2
+  }
+}

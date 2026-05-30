@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "CCPB2",
+    "slug": "ccpb2",
+    "pageId": 175496,
+    "revisionId": 4526211
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccpb2__175496.json",
+    "revisionTimestamp": "2026-04-09T14:24:43Z",
+    "fetchedAt": "2026-05-14T15:15:35.064Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: アチャモの恋の完結編チャモ(後編) Love's Final Chapter (sequel)) is the second bonus chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga. It is the final chapter in the manga series.",
+  "plainText": "(Japanese: アチャモの恋の完結編チャモ(後編) Love's Final Chapter (sequel)) is the second bonus chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga. It is the final chapter in the manga series.\n\n==Plot==\n \n\n==Major events==\nand confess their feelings for each other.\nIt is revealed that 's boarding school is near and Torchic's new residence.\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: アチャモの恋の完結編チャモ(後編) Love's Final Chapter (sequel)) is the second bonus chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga. It is the final chapter in the manga series."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and confess their feelings for each other.\nIt is revealed that 's boarding school is near and Torchic's new residence."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Pokémon Chamo-Chamo ☆ Pretty ♪)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCPB2",
+    "pageType": "chapter",
+    "searchableText": "CCPB2\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: アチャモの恋の完結編チャモ(後編) Love's Final Chapter (sequel)) is the second bonus chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga. It is the final chapter in the manga series.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon"
+    ],
+    "characterCount": 448,
+    "sectionCount": 3
+  }
+}

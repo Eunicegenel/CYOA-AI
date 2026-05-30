@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Madoka's mother",
+    "slug": "madokas-mother",
+    "pageId": 317879,
+    "revisionId": 4523878
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures characters",
+    "sourceFileName": "madokas-mother__317879.json",
+    "revisionTimestamp": "2026-04-06T14:07:55Z",
+    "fetchedAt": "2026-05-14T14:34:13.718Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Madoka's mother is a supporting character of A Pocketful of Adventures.",
+  "plainText": "Madoka's mother is a supporting character of A Pocketful of Adventures. \n==History==\n===Pre-series===\n===Season One===\n==Character==\n==Names==\n \n\n==See also==\nMom",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Madoka's mother is a supporting character of A Pocketful of Adventures."
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "Mom"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Madoka's mother",
+    "pageType": "character",
+    "searchableText": "Madoka's mother\nCategory:A Pocketful of Adventures characters\nMadoka's mother is a supporting character of A Pocketful of Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "See also"
+    ],
+    "characterCount": 162,
+    "sectionCount": 2
+  }
+}

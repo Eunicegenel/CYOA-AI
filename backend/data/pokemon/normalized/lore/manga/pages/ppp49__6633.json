@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP49",
+    "slug": "ppp49",
+    "pageId": 6633,
+    "revisionId": 4526330
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp49__6633.json",
+    "revisionTimestamp": "2026-04-09T14:36:58Z",
+    "fetchedAt": "2026-05-14T15:39:07.373Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Boys Are Cool! (Japanese: 男のコはカッコイイ! Boys Are Cool!) is the forty-ninth chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Boys Are Cool! (Japanese: 男のコはカッコイイ! Boys Are Cool!) is the forty-ninth chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \n would rather go on a date with Lu than hang out with his male friends, and isn't going to take that sitting down.\n\n==Important characters and Pokémon==\n\nLu\n\nChiko\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Boys Are Cool! (Japanese: 男のコはカッコイイ! Boys Are Cool!) is the forty-ninth chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "would rather go on a date with Lu than hang out with his male friends, and isn't going to take that sitting down."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Lu\n\nChiko"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP49",
+    "pageType": "chapter",
+    "searchableText": "PPP49\nCategory:Magical Pokémon Journey chapters\nBoys Are Cool! (Japanese: 男のコはカッコイイ! Boys Are Cool!) is the forty-ninth chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon"
+    ],
+    "characterCount": 344,
+    "sectionCount": 3
+  }
+}

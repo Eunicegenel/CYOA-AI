@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASS12",
+    "slug": "pass12",
+    "pageId": 259437,
+    "revisionId": 4528336
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass12__259437.json",
+    "revisionTimestamp": "2026-04-09T16:16:06Z",
+    "fetchedAt": "2026-05-14T15:28:47.037Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Thump!! The Gazing Sage (Japanese: ノシノシ！！見おろす賢者 Lumber!! The Overlooking Sage) is the 12th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Thump!! The Gazing Sage (Japanese: ノシノシ！！見おろす賢者 Lumber!! The Overlooking Sage) is the 12th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nHop earns the .\nbattles against Raihan.\nHenry catches an and names it Fanguru.\nHenry and Sonia enter the Hammerlocke Vault.\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHenry\nCasey\nHop\nMilo\nNessa\nKabu \nRaihan\nLeon (photo)\nMarvin\nBall Guy\n\nAnnouncer \n\n===Pokémon===\n(Lancelot; Henry's)\n(Twiggy; Henry's)\n(Steeler; Henry's)\n(Fanguru; Henry's; new)\n(Rotom Phone; Henry's)\n(Raihan's)\n(Raihan's; debut)\n(Sonia's)\n\n==Gallery==\n \n\n \n\n \n \n \n\nde:Ein überlegener Gegner\nes:PMSSwSh12\nfr:Chapitre 12 (Pocket Monsters Special Épée et Bouclier)\nit:PASS12\nzh:宝可梦特别篇 剑·盾篇 第12话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Thump!! The Gazing Sage (Japanese: ノシノシ！！見おろす賢者 Lumber!! The Overlooking Sage) is the 12th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hop earns the .\nbattles against Raihan.\nHenry catches an and names it Fanguru.\nHenry and Sonia enter the Hammerlocke Vault."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nHop\nMilo\nNessa\nKabu \nRaihan\nLeon (photo)\nMarvin\nBall Guy\n\nAnnouncer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Lancelot; Henry's)\n(Twiggy; Henry's)\n(Steeler; Henry's)\n(Fanguru; Henry's; new)\n(Rotom Phone; Henry's)\n(Raihan's)\n(Raihan's; debut)\n(Sonia's)"
+    },
+    {
+      "heading": "Gallery",
+      "level": 2,
+      "text": "de:Ein überlegener Gegner\nes:PMSSwSh12\nfr:Chapitre 12 (Pocket Monsters Special Épée et Bouclier)\nit:PASS12\nzh:宝可梦特别篇 剑·盾篇 第12话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS12",
+    "pageType": "chapter",
+    "searchableText": "PASS12\nCategory:Pokémon Adventures chapters\nThump!! The Gazing Sage (Japanese: ノシノシ！！見おろす賢者 Lumber!! The Overlooking Sage) is the 12th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Gallery"
+    ],
+    "characterCount": 773,
+    "sectionCount": 5
+  }
+}

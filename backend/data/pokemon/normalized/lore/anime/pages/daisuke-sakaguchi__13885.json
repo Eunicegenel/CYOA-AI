@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Daisuke Sakaguchi",
+    "slug": "daisuke-sakaguchi",
+    "pageId": 13885,
+    "revisionId": 4434499
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "daisuke-sakaguchi__13885.json",
+    "revisionTimestamp": "2025-12-02T13:01:05Z",
+    "fetchedAt": "2026-05-14T14:10:56.800Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Daisuke Sakaguchi (Japanese: 阪口大助 Sakaguchi Daisuke) is a Japanese voice actor for . He was born in Kashiwazaki, Niigata, on October 11, 1973.",
+  "plainText": "Daisuke Sakaguchi (Japanese: 阪口大助 Sakaguchi Daisuke) is a Japanese voice actor for . He was born in Kashiwazaki, Niigata, on October 11, 1973.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nVincent/Jackson\nKellyn\n(child)\nVolkner (child)\n\n======Minor======\n\nGeorgio\nKeenan\nHowie\n\nJeremiah\nOlivier\n(DP080)\nVarious guest characters\n\n=====Pokémon=====\n======Major======\nAsh's Gible\nBrock's Bonsly and Sudowoodo\nJames's Carnivine\nPaul's Honchkrow\nCaserin\nMaylene's Lucario\nRiley's Lucario\n\n======Minor======\n\n(PK15)\n\n====Pokémon Mystery Dungeon episodes====\nCharmander (Team Go-Getters Out of the Gate!)\nChatot (Explorers of Sky - Beyond Time & Darkness)\n\n===Video games=== \n====Super Smash Bros. Brawl====\n\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nAndrew Oikonny ( )\nKaoru Yamazaki ( )\nKish ( )\nShinpachi Shimura ( )\nShōnen Bat ( )\nÜso Evin ( ) (debut role)\nXandir P. Wifflebottom ( ) (Japanese dub)\nYouhei Sunohara ( )\nSouta Tamadate ( )\nPortgas D. Ace (child) ( )\n\n==External links==\nAoni Production\n \n \n\nit:Daisuke Sakaguchi\nja:阪口大助\nzh:阪口大助",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Daisuke Sakaguchi (Japanese: 阪口大助 Sakaguchi Daisuke) is a Japanese voice actor for . He was born in Kashiwazaki, Niigata, on October 11, 1973."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Vincent/Jackson\nKellyn\n(child)\nVolkner (child)"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Georgio\nKeenan\nHowie\n\nJeremiah\nOlivier\n(DP080)\nVarious guest characters"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Ash's Gible\nBrock's Bonsly and Sudowoodo\nJames's Carnivine\nPaul's Honchkrow\nCaserin\nMaylene's Lucario\nRiley's Lucario"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "(PK15)"
+    },
+    {
+      "heading": "Pokémon Mystery Dungeon episodes",
+      "level": 4,
+      "text": "Charmander (Team Go-Getters Out of the Gate!)\nChatot (Explorers of Sky - Beyond Time & Darkness)\n\n===Video games==="
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Andrew Oikonny ( )\nKaoru Yamazaki ( )\nKish ( )\nShinpachi Shimura ( )\nShōnen Bat ( )\nÜso Evin ( ) (debut role)\nXandir P. Wifflebottom ( ) (Japanese dub)\nYouhei Sunohara ( )\nSouta Tamadate ( )\nPortgas D. Ace (child) ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Aoni Production\n \n \n\nit:Daisuke Sakaguchi\nja:阪口大助\nzh:阪口大助"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Daisuke Sakaguchi",
+    "pageType": "general-anime-lore",
+    "searchableText": "Daisuke Sakaguchi\nCategory:Japanese voice actors\nDaisuke Sakaguchi (Japanese: 阪口大助 Sakaguchi Daisuke) is a Japanese voice actor for . He was born in Kashiwazaki, Niigata, on October 11, 1973.",
+    "sectionHeadings": [
+      "Lead",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Pokémon Mystery Dungeon episodes",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1087,
+    "sectionCount": 8
+  }
+}

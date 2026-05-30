@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Makoto (Adventures)",
+    "slug": "makoto-adventures",
+    "pageId": 270194,
+    "revisionId": 3527541
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "makoto-adventures__270194.json",
+    "revisionTimestamp": "2022-05-30T07:55:26Z",
+    "fetchedAt": "2026-05-14T15:25:39.191Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: マコト Makoto) is a character in the Pokémon Adventures manga. He is a director that often works with .",
+  "plainText": "(Japanese: マコト Makoto) is a character in the Pokémon Adventures manga. He is a director that often works with .\n\n==History==\nMakoto first appeared in Lights, Camera...Action!. He called cut on the recording of a commercial for the Xtransceiver, thanking White for the used in the commercial. However, they soon were interrupted by , so he yelled at his assistant Demura to remove him.\n\nAs the young man continues yelling, the director thanks White for her ability to bring certain Pokémon whenever they are needed for filming. However, the director also thanked her for bring a male and female , which put White in a tight spot due to her only having a female Tepig. She then asked Black for help, only to find that the filming crew were attacked. Makoto and his assistant then blamed Black as he is the only outsider. However, Black would go on to save the day, revealing the culprit to be a wild Galvantula.\n\nNevertheless, the equipment used for the filming were burned in the process, where White told the director to put all the charges on the BW Agency.\n\nIn Letting Go, the director asked White over the Xtransceiver for a , , and a . However, due to White suddenly cutting him off, he revealed to her later that he settled on an another studio, much to her disappointment.\n\nIn Wheeling and Dealing, Makoto was seen again in Nacrene City, where him and an accordionist agreed to use the Pokémon from the BW Agency in his show for the day. However, his accordion was stolen while Demura was distracted, where Black stepped in once again to figure out the culprit as Makoto was suspecting him once more. Once Black retrieved the accordion, Makoto then proposed an opportunity for White; to come up with a plan for campaigning with Pokémon for Nimbasa City.\n\nIn Battle at the Museum, Makoto and White talked to the mayor of Nimbasa City and Elesa over the Xtransceiver, where White proposed for a Pokémon Musical to be created at the city.\n\n==Trivia==\nMakoto's Japanese name was revealed by PokéSPedia.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: マコト Makoto) is a character in the Pokémon Adventures manga. He is a director that often works with ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Makoto first appeared in Lights, Camera...Action!. He called cut on the recording of a commercial for the Xtransceiver, thanking White for the used in the commercial. However, they soon were interrupted by , so he yelled at his assistant Demura to remove him.\n\nAs the young man continues yelling, the director thanks White for her ability to bring certain Pokémon whenever they are needed for filming. However, the director also thanked her for bring a male and female , which put White in a tight spot due to her only having a female Tepig. She then asked Black for help, only to find that the filming crew were attacked. Makoto and his assistant then blamed Black as he is the only outsider. However, Black would go on to save the day, revealing the culprit to be a wild Galvantula.\n\nNevertheless, the equipment used for the filming were burned in the process, where White told the director to put all the charges on the BW Agency.\n\nIn Letting Go, the director asked White over the Xtransceiver for a , , and a . However, due to White suddenly cutting him off, he revealed to her later that he settled on an another studio, much to her disappointment.\n\nIn Wheeling and Dealing, Makoto was seen again in Nacrene City, where him and an accordionist agreed to use the Pokémon from the BW Agency in his show for the day. However, his accordion was stolen while Demura was distracted, where Black stepped in once again to figure out the culprit as Makoto was suspecting him once more. Once Black retrieved the accordion, Makoto then proposed an opportunity for White; to come up with a plan for campaigning with Pokémon for Nimbasa City.\n\nIn Battle at the Museum, Makoto and White talked to the mayor of Nimbasa City and Elesa over the Xtransceiver, where White proposed for a Pokémon Musical to be created at the city."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Makoto's Japanese name was revealed by PokéSPedia."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Makoto (Adventures)",
+    "pageType": "character",
+    "searchableText": "Makoto (Adventures)\nCategory:Pokémon Adventures characters\n(Japanese: マコト Makoto) is a character in the Pokémon Adventures manga. He is a director that often works with .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Trivia"
+    ],
+    "characterCount": 2004,
+    "sectionCount": 3
+  }
+}

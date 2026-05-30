@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "MCM6",
+    "slug": "mcm6",
+    "pageId": 175227,
+    "revisionId": 4527297
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Aim to Be a Card Master!! chapters",
+    "sourceFileName": "mcm6__175227.json",
+    "revisionTimestamp": "2026-04-09T15:32:00Z",
+    "fetchedAt": "2026-05-14T15:26:16.473Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ワールドチャレンジ春（後編）　秘策 The Spring World Challenge (Part Three) \"The Secret Plan\") is the sixth chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.",
+  "plainText": "(Japanese: ワールドチャレンジ春（後編）　秘策 The Spring World Challenge (Part Three) \"The Secret Plan\") is the sixth chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKenta Minamii\nYuu Okabe\n\n===Pokémon===\n(Kenta's)\n(Yuu's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ワールドチャレンジ春（後編）　秘策 The Spring World Challenge (Part Three) \"The Secret Plan\") is the sixth chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kenta Minamii\nYuu Okabe"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Kenta's)\n(Yuu's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MCM6",
+    "pageType": "chapter",
+    "searchableText": "MCM6\nCategory:Aim to Be a Card Master!! chapters\n(Japanese: ワールドチャレンジ春（後編）　秘策 The Spring World Challenge (Part Three) \"The Secret Plan\") is the sixth chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 322,
+    "sectionCount": 3
+  }
+}

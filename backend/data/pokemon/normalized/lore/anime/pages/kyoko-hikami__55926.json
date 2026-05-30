@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Kyoko Hikami",
+    "slug": "kyoko-hikami",
+    "pageId": 55926,
+    "revisionId": 4323455
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "kyoko-hikami__55926.json",
+    "revisionTimestamp": "2025-06-24T03:30:27Z",
+    "fetchedAt": "2026-05-14T14:30:09.370Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kyoko Hikami (Japanese: 氷上恭子 Hikami Kyōko) is a Japanese voice actress for .",
+  "plainText": "Kyoko Hikami (Japanese: 氷上恭子 Hikami Kyōko) is a Japanese voice actress for .\n\n== Biography ==\nHikami was born on January 11, 1969 in , , and became a voice actress as an adult. Hikami has provided a few voices for since the . Her most prominent role is that of Erika, the Celadon City Gym Leader, which she later reprised in Suffering the Flings and Arrows!. She is currently affiliated with the talent management agency .\n\n== Pokémon roles ==\n===Animation===\n==== ====\n===== Humans =====\nErika\n\nSandra\n\n===== Pokémon =====\nLuverin\n\n== Other non-Pokémon roles ==\nMomoko Hanasaki ( )\nMarin Aoki ( )\nUrara Kosuga ( )\nYoshiko Sahara ( )\nChiharu Kise ( )\nYuki Sakurakōji ( )\nBlack Frost ( )\nKaori Kishida ( )\nKoharu Oozora ( )\nKami Ochi ( )\n\n== External links ==\nMausu Promotion profile\n \n \n\nit:Kyoko Hikami\nja:氷上恭子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kyoko Hikami (Japanese: 氷上恭子 Hikami Kyōko) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hikami was born on January 11, 1969 in , , and became a voice actress as an adult. Hikami has provided a few voices for since the . Her most prominent role is that of Erika, the Celadon City Gym Leader, which she later reprised in Suffering the Flings and Arrows!. She is currently affiliated with the talent management agency ."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Erika\n\nSandra"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "Luverin"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Momoko Hanasaki ( )\nMarin Aoki ( )\nUrara Kosuga ( )\nYoshiko Sahara ( )\nChiharu Kise ( )\nYuki Sakurakōji ( )\nBlack Frost ( )\nKaori Kishida ( )\nKoharu Oozora ( )\nKami Ochi ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Mausu Promotion profile\n \n \n\nit:Kyoko Hikami\nja:氷上恭子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kyoko Hikami",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kyoko Hikami\nCategory:Japanese voice actors\nKyoko Hikami (Japanese: 氷上恭子 Hikami Kyōko) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 811,
+    "sectionCount": 6
+  }
+}

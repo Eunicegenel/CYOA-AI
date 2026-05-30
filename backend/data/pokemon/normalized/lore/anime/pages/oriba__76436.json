@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Oriba",
+    "slug": "oriba",
+    "pageId": 76436,
+    "revisionId": 4095745
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Battle Frontier characters of the day",
+    "sourceFileName": "oriba__76436.json",
+    "revisionTimestamp": "2024-09-01T00:40:15Z",
+    "fetchedAt": "2026-05-14T14:40:27.630Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: オリバ Oriba) is a character of the day who appeared in The Ole' Berate and Switch!.\n\nOriba and his competed against and in a Pokémon tournament in Sable City. After blocking several attacks, Marowak was eventually defeated by the Pokémon.",
+  "plainText": "(Japanese: オリバ Oriba) is a character of the day who appeared in The Ole' Berate and Switch!.\n\nOriba and his competed against and in a Pokémon tournament in Sable City. After blocking several attacks, Marowak was eventually defeated by the Pokémon.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n \n \n \n \n \n\nes:Oriba\nfr:Oriba\nit:Oriba\nzh:奥利弗",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: オリバ Oriba) is a character of the day who appeared in The Ole' Berate and Switch!.\n\nOriba and his competed against and in a Pokémon tournament in Sable City. After blocking several attacks, Marowak was eventually defeated by the Pokémon."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Oriba\nfr:Oriba\nit:Oriba\nzh:奥利弗"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Oriba",
+    "pageType": "character",
+    "searchableText": "Oriba\nCategory:Battle Frontier characters of the day\n(Japanese: オリバ Oriba) is a character of the day who appeared in The Ole' Berate and Switch!.\n\nOriba and his competed against and in a Pokémon tournament in Sable City. After blocking several attacks, Marowak was eventually defeated by the Pokémon.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 328,
+    "sectionCount": 2
+  }
+}

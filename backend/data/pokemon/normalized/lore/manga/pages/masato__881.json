@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Masato",
+    "slug": "masato",
+    "pageId": 881,
+    "revisionId": 4527621
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! characters",
+    "sourceFileName": "masato__881.json",
+    "revisionTimestamp": "2026-04-09T15:44:16Z",
+    "fetchedAt": "2026-05-14T15:25:59.641Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "If you're looking for the characters with the Japanese name of Masato, see Max or Max (AG049)\n\n \n \n \n(Japanese: マサト Masato) is a character from Pokémon Battrio: Aim to be Battrio Master!. He is a friend of Ryū Tendō.",
+  "plainText": "If you're looking for the characters with the Japanese name of Masato, see Max or Max (AG049)\n\n \n \n \n(Japanese: マサト Masato) is a character from Pokémon Battrio: Aim to be Battrio Master!. He is a friend of Ryū Tendō.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "If you're looking for the characters with the Japanese name of Masato, see Max or Max (AG049)\n\n \n \n \n(Japanese: マサト Masato) is a character from Pokémon Battrio: Aim to be Battrio Master!. He is a friend of Ryū Tendō."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Masato",
+    "pageType": "character",
+    "searchableText": "Masato\nCategory:Pokémon Battrio: Aim to be Battrio Master! characters\nIf you're looking for the characters with the Japanese name of Masato, see Max or Max (AG049)\n\n \n \n \n(Japanese: マサト Masato) is a character from Pokémon Battrio: Aim to be Battrio Master!. He is a friend of Ryū Tendō.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 216,
+    "sectionCount": 1
+  }
+}

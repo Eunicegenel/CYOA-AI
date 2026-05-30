@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMBW01",
+    "slug": "pmbw01",
+    "pageId": 171678,
+    "revisionId": 4528372
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw01__171678.json",
+    "revisionTimestamp": "2026-04-09T16:18:24Z",
+    "fetchedAt": "2026-05-14T15:31:43.829Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: イッシュ地方で 新たな旅！！ A New Journey in the Region!!) is the first chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: イッシュ地方で 新たな旅！！ A New Journey in the Region!!) is the first chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nProfessor Juniper\n\nCheren\nBianca\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Juniper\n\nCheren\nBianca\n\n===Pokémon===\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: イッシュ地方で 新たな旅！！ A New Journey in the Region!!) is the first chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Professor Juniper\n\nCheren\nBianca"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Juniper\n\nCheren\nBianca"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW01",
+    "pageType": "chapter",
+    "searchableText": "PMBW01\nCategory:Pocket Monsters BW chapters\n(Japanese: イッシュ地方で 新たな旅！！ A New Journey in the Region!!) is the first chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 325,
+    "sectionCount": 4
+  }
+}

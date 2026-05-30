@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Incredible Shrinking Hazel",
+    "slug": "incredible-shrinking-hazel",
+    "pageId": 202806,
+    "revisionId": 4168529
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "incredible-shrinking-hazel__202806.json",
+    "revisionTimestamp": "2024-10-26T18:14:02Z",
+    "fetchedAt": "2026-05-14T15:22:06.484Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Incredible Shrinking Hazel is the fifteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 23rd and 24th chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Incredible Shrinking Hazel is the fifteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 23rd and 24th chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n==Blurb==\nHazel In Wonderland?\n\nMischevious Gramps is at it again! This time Hazel is his guinea pig for a new shrinking potion he invented. Soon enough, Hazel is knee-high yo a Pikachu and no one knows the antidote! Will the Pokemon take this opportunity to torment their now tiny master? \n\nAlso, Peanut is sick in bed and the Pokemon want to help him pass the time with a friendly game of cards.\n\n==Publications==\n \n \n\n==Chapters==\nHazel's Big Adventure!\nCharmander's Boring, Boring Day\n\n==Important events==\nHazel is tricked into drinking a shrinking potion made by Grandpa.\nand have their first battle.\n\n==Trivia==\nYumi Tsukirino includes a page where the cast responds to the question, \"What's your favorite thing to do at the beach?\"",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Incredible Shrinking Hazel is the fifteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 23rd and 24th chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "Hazel In Wonderland?\n\nMischevious Gramps is at it again! This time Hazel is his guinea pig for a new shrinking potion he invented. Soon enough, Hazel is knee-high yo a Pikachu and no one knows the antidote! Will the Pokemon take this opportunity to torment their now tiny master? \n\nAlso, Peanut is sick in bed and the Pokemon want to help him pass the time with a friendly game of cards."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Hazel's Big Adventure!\nCharmander's Boring, Boring Day"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Hazel is tricked into drinking a shrinking potion made by Grandpa.\nand have their first battle."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Yumi Tsukirino includes a page where the cast responds to the question, \"What's your favorite thing to do at the beach?\""
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Incredible Shrinking Hazel",
+    "pageType": "pokemon-related",
+    "searchableText": "Incredible Shrinking Hazel\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Incredible Shrinking Hazel is the fifteenth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 23rd and 24th chapters of the manga. The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events",
+      "Trivia"
+    ],
+    "characterCount": 1133,
+    "sectionCount": 5
+  }
+}

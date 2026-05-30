@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "Julián Rebolledo",
+    "slug": "julian-rebolledo",
+    "pageId": 21654,
+    "revisionId": 4323393
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "julian-rebolledo__21654.json",
+    "revisionTimestamp": "2025-06-24T03:29:22Z",
+    "fetchedAt": "2026-05-14T14:28:09.813Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Julián Rebolledo (born 1972) is an American actor and voice actor for the English dub of . He is sometimes credited as \"Julian Dean\".",
+  "plainText": "Julián Rebolledo (born 1972) is an American actor and voice actor for the English dub of . He is sometimes credited as \"Julian Dean\".\n\n==Biography==\nRebolledo became an actor and voice actor as an adult. He voiced characters during of the , with the most notable role being that of Paul. In his personal life, he co-owns the New York City dubbing studio Hyperbolic Audio with Sean Reyes. In addition, Rebolledo has provided voice-overs for many television shows and commercials, and has also done some on-camera roles.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Major=====\nPaul\n\n=====Minor=====\nOne of Professor Rowan's assistants (DP001)\nMuseum researcher (DP017)\nReferee (DP050-DP052)\n\n==Other non-Pokémon roles==\n===Voiceover===\nJake Morgendorffer ( )\nVarious characters ( , , )\nDon ( )\n\n===On camera===\nLt. Orra ( )\nReverend Jeffries ( )\n\n===Video game roles===\nJake Morgendorffer ( )\nRaul Passos ( )\n\n==External links==\nAnime News Network\nIMDb\n\n \n \n \n\nit:Julián Rebolledo",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Julián Rebolledo (born 1972) is an American actor and voice actor for the English dub of . He is sometimes credited as \"Julian Dean\"."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Rebolledo became an actor and voice actor as an adult. He voiced characters during of the , with the most notable role being that of Paul. In his personal life, he co-owns the New York City dubbing studio Hyperbolic Audio with Sean Reyes. In addition, Rebolledo has provided voice-overs for many television shows and commercials, and has also done some on-camera roles."
+    },
+    {
+      "heading": "Major",
+      "level": 5,
+      "text": "Paul"
+    },
+    {
+      "heading": "Minor",
+      "level": 5,
+      "text": "One of Professor Rowan's assistants (DP001)\nMuseum researcher (DP017)\nReferee (DP050-DP052)"
+    },
+    {
+      "heading": "Voiceover",
+      "level": 3,
+      "text": "Jake Morgendorffer ( )\nVarious characters ( , , )\nDon ( )"
+    },
+    {
+      "heading": "On camera",
+      "level": 3,
+      "text": "Lt. Orra ( )\nReverend Jeffries ( )"
+    },
+    {
+      "heading": "Video game roles",
+      "level": 3,
+      "text": "Jake Morgendorffer ( )\nRaul Passos ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Anime News Network\nIMDb\n\n \n \n \n\nit:Julián Rebolledo"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Julián Rebolledo",
+    "pageType": "general-anime-lore",
+    "searchableText": "Julián Rebolledo\nCategory:TPCi voice actors\nJulián Rebolledo (born 1972) is an American actor and voice actor for the English dub of . He is sometimes credited as \"Julian Dean\".",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Voiceover",
+      "On camera",
+      "Video game roles",
+      "External links"
+    ],
+    "characterCount": 983,
+    "sectionCount": 8
+  }
+}

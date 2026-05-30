@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Dr. Gordon",
+    "slug": "dr-gordon",
+    "pageId": 21457,
+    "revisionId": 4099480
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Battle Frontier characters of the day",
+    "sourceFileName": "dr-gordon__21457.json",
+    "revisionTimestamp": "2024-09-02T19:33:19Z",
+    "fetchedAt": "2026-05-14T14:14:27.089Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Dr. Gordon (Japanese: ドクター・ゴードン Dr. Gordon) is a character of the day who appeared in Caterpie's Big Dilemma. \n\nA scientist, Dr. Gordon operates a laboratory near Saffron City with his student, Zander. His specialty is making inventions based on Pokémon moves, and his lab is filled with a lot of them. Among them, there is a machine that enables him to use 's in order to predict the future, and a costume that gives the user ten times the strength.\n\nOne of his accidental and untested inventions, the Mystery Candy Complete, was consumed by Zander's after they fell onto the floor during 's lab heist. The little Pokémon immediately grew in size and broke out of the lab.\n\nSeeing this, Team Rocket decided to kidnap Dr. Gordon so he could design technology for Team Rocket. Zander's Caterpie, meanwhile, had fully evolved into a , which he and used to save the doctor. After Butterfree shrunk back to its normal size, the doctor promised the city's Officer Jenny that he would keep his experiments inside the lab.",
+  "plainText": "Dr. Gordon (Japanese: ドクター・ゴードン Dr. Gordon) is a character of the day who appeared in Caterpie's Big Dilemma. \n\nA scientist, Dr. Gordon operates a laboratory near Saffron City with his student, Zander. His specialty is making inventions based on Pokémon moves, and his lab is filled with a lot of them. Among them, there is a machine that enables him to use 's in order to predict the future, and a costume that gives the user ten times the strength.\n\nOne of his accidental and untested inventions, the Mystery Candy Complete, was consumed by Zander's after they fell onto the floor during 's lab heist. The little Pokémon immediately grew in size and broke out of the lab.\n\nSeeing this, Team Rocket decided to kidnap Dr. Gordon so he could design technology for Team Rocket. Zander's Caterpie, meanwhile, had fully evolved into a , which he and used to save the doctor. After Butterfree shrunk back to its normal size, the doctor promised the city's Officer Jenny that he would keep his experiments inside the lab.\n\n==Voice actors==\n \n\n \n\n \n \n \n \n\nes:Doctor Gordon\nit:Dr. Gordon",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Dr. Gordon (Japanese: ドクター・ゴードン Dr. Gordon) is a character of the day who appeared in Caterpie's Big Dilemma. \n\nA scientist, Dr. Gordon operates a laboratory near Saffron City with his student, Zander. His specialty is making inventions based on Pokémon moves, and his lab is filled with a lot of them. Among them, there is a machine that enables him to use 's in order to predict the future, and a costume that gives the user ten times the strength.\n\nOne of his accidental and untested inventions, the Mystery Candy Complete, was consumed by Zander's after they fell onto the floor during 's lab heist. The little Pokémon immediately grew in size and broke out of the lab.\n\nSeeing this, Team Rocket decided to kidnap Dr. Gordon so he could design technology for Team Rocket. Zander's Caterpie, meanwhile, had fully evolved into a , which he and used to save the doctor. After Butterfree shrunk back to its normal size, the doctor promised the city's Officer Jenny that he would keep his experiments inside the lab."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Doctor Gordon\nit:Dr. Gordon"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dr. Gordon",
+    "pageType": "character",
+    "searchableText": "Dr. Gordon\nCategory:Battle Frontier characters of the day\nDr. Gordon (Japanese: ドクター・ゴードン Dr. Gordon) is a character of the day who appeared in Caterpie's Big Dilemma. \n\nA scientist, Dr. Gordon operates a laboratory near Saffron City with his student, Zander. His specialty is making inventions based on Pokémon moves, and his lab is filled with a lot of them. Among them, there is a machine that enables him to use 's in order to predict the future, and a costume that gives the user ten times the strength.\n\nOne of his accidental and untested inventions, the Mystery Candy Complete, was consumed by Zander's after they fell onto the floor during 's lab heist. The little Pokémon immediately grew in size and broke out of the lab.\n\nSeeing this, Team Rocket decided to kidnap Dr. Gordon so he could design technology for Team Rocket. Zander's Caterpie, meanwhile, had fully evolved into a , which he and used to save the doctor. After Butterfree shrunk back to its normal size, the doctor promised the city's Officer Jenny that he would keep his experiments inside the lab.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 1079,
+    "sectionCount": 2
+  }
+}

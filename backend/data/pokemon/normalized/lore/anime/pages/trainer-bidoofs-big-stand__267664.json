@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Trainer (Bidoof's Big Stand)",
+    "slug": "trainer-bidoofs-big-stand",
+    "pageId": 267664,
+    "revisionId": 4497210
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "trainer-bidoofs-big-stand__267664.json",
+    "revisionTimestamp": "2026-03-01T20:24:52Z",
+    "fetchedAt": "2026-05-14T14:55:20.650Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "This Trainer is a central character in Bidoof's Big Stand.",
+  "plainText": "This Trainer is a central character in Bidoof's Big Stand. \n\n==History==\n \nThe Trainer appeared for the first time saving from the attack of a and, after much insistence from Bidoof, he ended up giving in and capturing her for his team. During his , the Trainer had a habit of using Bidoof to cross obstacles and rewarded her each time with an Oran Berry. On one of these occasions, Bidoof was used to open a cave exit where a wild appeared, so the Trainer quickly replaced her with . This made Bidoof start to feel bored of doing these actions.\n\nEventually, the Trainer reached the Pokémon League finals, where his team was completely defeated in a Full Battle, forcing him to use Bidoof in battle. Encouraging Bidoof to use her special moves, Bidoof managed to defeat a and a Staraptor, thus making the Trainer the winner of the competition. The victory make Bidoof finally receive recognition from its Trainer.\n\nIn the short's epilogue, Trainer was seen taking Bidoof to see its old group of his kind, bringing some foods to her on a beach and taking some pictures with her.\n\n==Pokémon==\n \n \n \n \n \n \n\n==Achievements==\n \n====Pokémon competitions====\nPokémon League - Winner (Bidoof's Big Stand)\n \n\n==Notes==\n \n\n \n\n \n \n\nit:Allenatore (Forza, Bidoof!)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This Trainer is a central character in Bidoof's Big Stand."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "The Trainer appeared for the first time saving from the attack of a and, after much insistence from Bidoof, he ended up giving in and capturing her for his team. During his , the Trainer had a habit of using Bidoof to cross obstacles and rewarded her each time with an Oran Berry. On one of these occasions, Bidoof was used to open a cave exit where a wild appeared, so the Trainer quickly replaced her with . This made Bidoof start to feel bored of doing these actions.\n\nEventually, the Trainer reached the Pokémon League finals, where his team was completely defeated in a Full Battle, forcing him to use Bidoof in battle. Encouraging Bidoof to use her special moves, Bidoof managed to defeat a and a Staraptor, thus making the Trainer the winner of the competition. The victory make Bidoof finally receive recognition from its Trainer.\n\nIn the short's epilogue, Trainer was seen taking Bidoof to see its old group of his kind, bringing some foods to her on a beach and taking some pictures with her."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 4,
+      "text": "Pokémon League - Winner (Bidoof's Big Stand)"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "it:Allenatore (Forza, Bidoof!)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Trainer (Bidoof's Big Stand)",
+    "pageType": "character",
+    "searchableText": "Trainer (Bidoof's Big Stand)\nCategory:Animation characters\nThis Trainer is a central character in Bidoof's Big Stand.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon competitions",
+      "Notes"
+    ],
+    "characterCount": 1251,
+    "sectionCount": 4
+  }
+}

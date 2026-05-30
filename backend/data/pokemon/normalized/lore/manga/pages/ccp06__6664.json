@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "CCP06",
+    "slug": "ccp06",
+    "pageId": 6664,
+    "revisionId": 4175831
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp06__6664.json",
+    "revisionTimestamp": "2024-11-05T02:36:07Z",
+    "fetchedAt": "2026-05-14T15:15:11.220Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ラブカスの伝説ちゃも♥ The Legend of Luvdisc (chamo&hearts;)) is the sixth chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: ラブカスの伝説ちゃも♥ The Legend of Luvdisc (chamo&hearts;)) is the sixth chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n(Magical Pokémon Journey)\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n\n( )\n( )\n(Magical Pokémon Journey)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ラブカスの伝説ちゃも♥ The Legend of Luvdisc (chamo&hearts;)) is the sixth chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Magical Pokémon Journey)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n( )\n( )\n(Magical Pokémon Journey)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP06",
+    "pageType": "chapter",
+    "searchableText": "CCP06\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: ラブカスの伝説ちゃも♥ The Legend of Luvdisc (chamo&hearts;)) is the sixth chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 311,
+    "sectionCount": 3
+  }
+}

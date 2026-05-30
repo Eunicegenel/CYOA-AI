@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "User:Pokéfan95/Marina Inoue",
+    "slug": "user-pokefan95-marina-inoue",
+    "pageId": 204540,
+    "revisionId": 3596742
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Anime stubs",
+    "sourceFileName": "user-pokefan95-marina-inoue__204540.json",
+    "revisionTimestamp": "2022-11-11T20:29:16Z",
+    "fetchedAt": "2026-05-14T14:56:34.684Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Marina Inoue is a Japanese voice actress for the Pokémon anime.",
+  "plainText": "Marina Inoue is a Japanese voice actress for the Pokémon anime. \n\n==Pokémon roles==\nInoue began her work during the XY series. Her major role is .\n===Humans===\n\n===Pokémon===\n==Non-Pokémon roles==\n==See also==\nList of Japanese voice actors",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Marina Inoue is a Japanese voice actress for the Pokémon anime."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Inoue began her work during the XY series. Her major role is ."
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "List of Japanese voice actors"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "User:Pokéfan95/Marina Inoue",
+    "pageType": "general-anime-lore",
+    "searchableText": "User:Pokéfan95/Marina Inoue\nCategory:Anime stubs\nMarina Inoue is a Japanese voice actress for the Pokémon anime.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "See also"
+    ],
+    "characterCount": 239,
+    "sectionCount": 3
+  }
+}

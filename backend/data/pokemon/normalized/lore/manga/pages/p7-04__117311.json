@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "P7-04",
+    "slug": "p7-04",
+    "pageId": 117311,
+    "revisionId": 4527871
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Phantom Thief Pokémon 7 chapters",
+    "sourceFileName": "p7-04__117311.json",
+    "revisionTimestamp": "2026-04-09T15:56:53Z",
+    "fetchedAt": "2026-05-14T15:28:03.766Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "A Fated Reunion (Japanese: 運命の再会 A Fated Reunion) is the fourth chapter of the Phantom Thief Pokémon 7 manga.",
+  "plainText": "A Fated Reunion (Japanese: 運命の再会 A Fated Reunion) is the fourth chapter of the Phantom Thief Pokémon 7 manga.\n\n==Plot==\n \n\n==Major events==\nHiori and Rocco battle a mysterious person.\n\n===Debuts===\n====Pokémon debuts====\n\n(Hiori's)\n\n==Characters==\n===Humans===\nHiori\nNazuna\nRocco\nMako\n\n===Pokémon===\n( )\n(Hiori's)\n(Hiori's)\n\n \n\n \n \n \n\nes:PT7-04\nzh:快盗！宝可梦７ 第4话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Fated Reunion (Japanese: 運命の再会 A Fated Reunion) is the fourth chapter of the Phantom Thief Pokémon 7 manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hiori and Rocco battle a mysterious person."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Hiori's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hiori\nNazuna\nRocco\nMako"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Hiori's)\n(Hiori's)\n\n \n\n \n \n \n\nes:PT7-04\nzh:快盗！宝可梦７ 第4话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "P7-04",
+    "pageType": "chapter",
+    "searchableText": "P7-04\nCategory:Phantom Thief Pokémon 7 chapters\nA Fated Reunion (Japanese: 運命の再会 A Fated Reunion) is the fourth chapter of the Phantom Thief Pokémon 7 manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 359,
+    "sectionCount": 5
+  }
+}

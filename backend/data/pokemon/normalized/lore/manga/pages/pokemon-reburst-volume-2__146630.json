@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon RéBURST volume 2",
+    "slug": "pokemon-reburst-volume-2",
+    "pageId": 146630,
+    "revisionId": 4132688
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST volumes",
+    "sourceFileName": "pokemon-reburst-volume-2__146630.json",
+    "revisionTimestamp": "2024-09-29T05:25:48Z",
+    "fetchedAt": "2026-05-14T15:37:28.058Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 2 is the second volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+  "plainText": "Volume 2 is the second volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.\n\n==Publications==\n \n \n\n \n==Chapters==\nChapter 01 (08): The World's Best...!!? \nChapter 02 (09): The Compass of Light\nChapter 03 (10): Enigmatic Burst Warrior\nChapter 04 (11): Incomplete Burst?\nChapter 05 (12): True Strength\nChapter 06 (13): The Compass's Whereabouts\nChapter 07 (14): The Man Called Rend\nChapter 08 (15): This is Training!?\nChapter 09 (16): The Road to Zekrom\nChapter 10 (17): The Gatekeeper Boy\n\n==Important events==\n \nYappy joins Ryouga and Miruto.\n\n \n \n\nit:Pokémon RéBURST volume 2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 01 (08): The World's Best...!!? \nChapter 02 (09): The Compass of Light\nChapter 03 (10): Enigmatic Burst Warrior\nChapter 04 (11): Incomplete Burst?\nChapter 05 (12): True Strength\nChapter 06 (13): The Compass's Whereabouts\nChapter 07 (14): The Man Called Rend\nChapter 08 (15): This is Training!?\nChapter 09 (16): The Road to Zekrom\nChapter 10 (17): The Gatekeeper Boy"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Yappy joins Ryouga and Miruto.\n\n \n \n\nit:Pokémon RéBURST volume 2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon RéBURST volume 2",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon RéBURST volume 2\nCategory:Pokémon RéBURST volumes\nVolume 2 is the second volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 618,
+    "sectionCount": 3
+  }
+}

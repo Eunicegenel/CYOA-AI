@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "ESEZ3",
+    "slug": "esez3",
+    "pageId": 251980,
+    "revisionId": 4549401
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga chapters in need of images",
+    "sourceFileName": "esez3__251980.json",
+    "revisionTimestamp": "2026-05-11T01:52:28Z",
+    "fetchedAt": "2026-05-14T15:18:19.397Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Zeraora vs. Lugia (Japanese: 激突！？ゼラオラVSルギア Clash!? Zeraora vs. Lugia) is the third chapter of Pokémon the Movie: The Power of Us: Zeraora's Story.",
+  "plainText": "Zeraora vs. Lugia (Japanese: 激突！？ゼラオラVSルギア Clash!? Zeraora vs. Lugia) is the third chapter of Pokémon the Movie: The Power of Us: Zeraora's Story.\n\n==Plot==\n \n\n==Major events==\n===Debuts===\n====Humans====\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMargo\nDr. Hawthorn\n\n===Pokémon===\n( )\n(Dr. Hawthorn's)\n(Agee's; simulation)\n( ; simulation)\n( ; simulation)\n\n==In other languages==\n \n \n \nes:MP21-03\nit:ESEZ3\nzh:M21M03",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Zeraora vs. Lugia (Japanese: 激突！？ゼラオラVSルギア Clash!? Zeraora vs. Lugia) is the third chapter of Pokémon the Movie: The Power of Us: Zeraora's Story."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Margo\nDr. Hawthorn"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Dr. Hawthorn's)\n(Agee's; simulation)\n( ; simulation)\n( ; simulation)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:MP21-03\nit:ESEZ3\nzh:M21M03"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ESEZ3",
+    "pageType": "chapter",
+    "searchableText": "ESEZ3\nCategory:Manga chapters in need of images\nZeraora vs. Lugia (Japanese: 激突！？ゼラオラVSルギア Clash!? Zeraora vs. Lugia) is the third chapter of Pokémon the Movie: The Power of Us: Zeraora's Story.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 425,
+    "sectionCount": 4
+  }
+}

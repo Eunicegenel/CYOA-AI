@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Ray Chase",
+    "slug": "ray-chase",
+    "pageId": 251329,
+    "revisionId": 4323507
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "ray-chase__251329.json",
+    "revisionTimestamp": "2025-06-24T03:31:24Z",
+    "fetchedAt": "2026-05-14T14:45:44.066Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Ray Chase is an American actor for the English-language dub of . He is currently affiliated with SBV Talent Agency.",
+  "plainText": "Ray Chase is an American actor for the English-language dub of . He is currently affiliated with SBV Talent Agency.\n\n==Biography==\nChase was born on May 20, 1987. As an adult, he became a voice actor and was involved with a number of Western cartoons. Chase joined during , where he voiced recurring character Professor Cerise.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nProfessor Cerise\n\n=====Pokémon=====\n( )\n\n===Video games===\n====Pokémon Masters EX====\n\n==Other non-Pokémon roles==\nGuile ( )\nHowzer ( )\nDonovan/Loggins, Rubber Soul, Bruno Bucciarati ( )\nHanzo, Squala, Geretta ( )\nPuri-Puri Prisoner, Doctor Genus ( )\nYu Otosaka ( )\nTenga Onigawara ( )\nMasamune Goto ( )\nPiccolo, Tien Shinhan, Oolong, Snackian Ambassador ( )\nCyborg 004/Albert Heinrich ( )\nMozgus ( )\nMaster Bel, Proto Mercenare ( )\nAtsumu \"Yukiatsu\" Matsuyuki ( )\nM ( )\nDr. Keith Kazama Flick ( )\nDrang ( )\nFyodor Dostoyevsky ( )\nKanda ( )\nRoswaal L Mathers, Shopkeeper ( )\nWillard ( )\nGendo Ikari ( )\nEren Kruger ( )\nHelper T Cell ( )\nHank Henriette ( )\n( )\nTengen Uzui ( )\nKaramatsu Matsuno ( )\nLieutenant Lahn ( )\n( )\nNoctis Lucis Caelum ( , )\nGraham ( )\n( )\nShinta Takagi ( )\nZash Caine ( )\nEliott Leland ( )\nDavid Shield ( )\nGendo Ikari ( )\nGendo Ikari ( )\nHead Bandit ( )\nBauer Linden ( )\nTakeshi Kovacs ( )\nRoy ( , )\nMaster of Masters ( )\nYoung Weisz Steiner ( )\nAdult Nier ( )\nAlphen ( )\n\n==External links==\nOfficial website\nAnime News Network\nBehind The Voice Actors\nIMDb\nInstagram\n\n \n \n\nit:Ray Chase",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ray Chase is an American actor for the English-language dub of . He is currently affiliated with SBV Talent Agency."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Chase was born on May 20, 1987. As an adult, he became a voice actor and was involved with a number of Western cartoons. Chase joined during , where he voiced recurring character Professor Cerise."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Professor Cerise"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "( )"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Guile ( )\nHowzer ( )\nDonovan/Loggins, Rubber Soul, Bruno Bucciarati ( )\nHanzo, Squala, Geretta ( )\nPuri-Puri Prisoner, Doctor Genus ( )\nYu Otosaka ( )\nTenga Onigawara ( )\nMasamune Goto ( )\nPiccolo, Tien Shinhan, Oolong, Snackian Ambassador ( )\nCyborg 004/Albert Heinrich ( )\nMozgus ( )\nMaster Bel, Proto Mercenare ( )\nAtsumu \"Yukiatsu\" Matsuyuki ( )\nM ( )\nDr. Keith Kazama Flick ( )\nDrang ( )\nFyodor Dostoyevsky ( )\nKanda ( )\nRoswaal L Mathers, Shopkeeper ( )\nWillard ( )\nGendo Ikari ( )\nEren Kruger ( )\nHelper T Cell ( )\nHank Henriette ( )\n( )\nTengen Uzui ( )\nKaramatsu Matsuno ( )\nLieutenant Lahn ( )\n( )\nNoctis Lucis Caelum ( , )\nGraham ( )\n( )\nShinta Takagi ( )\nZash Caine ( )\nEliott Leland ( )\nDavid Shield ( )\nGendo Ikari ( )\nGendo Ikari ( )\nHead Bandit ( )\nBauer Linden ( )\nTakeshi Kovacs ( )\nRoy ( , )\nMaster of Masters ( )\nYoung Weisz Steiner ( )\nAdult Nier ( )\nAlphen ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nAnime News Network\nBehind The Voice Actors\nIMDb\nInstagram\n\n \n \n\nit:Ray Chase"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ray Chase",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ray Chase\nCategory:TPCi voice actors\nRay Chase is an American actor for the English-language dub of . He is currently affiliated with SBV Talent Agency.",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 1500,
+    "sectionCount": 6
+  }
+}

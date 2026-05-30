@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PS498",
+    "slug": "ps498",
+    "pageId": 173471,
+    "revisionId": 4548697
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps498__173471.json",
+    "revisionTimestamp": "2026-05-11T00:38:17Z",
+    "fetchedAt": "2026-05-14T15:45:11.814Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Decisions, Decisions (Japanese: VS フリージオ VS Cryogonal), titled VS Cryogonal in the Shogakukan Asia translation, is the 498th chapter of the Pokémon Adventures manga, and the 38th chapter of the .\n\nIt is subtitled Cryogonal (Japanese: 修業 Training) in the VIZ Media translation and Decisions, Decisions... in the Shogakukan Asia translation.",
+  "plainText": "Decisions, Decisions (Japanese: VS フリージオ VS Cryogonal), titled VS Cryogonal in the Shogakukan Asia translation, is the 498th chapter of the Pokémon Adventures manga, and the 38th chapter of the .\n\nIt is subtitled Cryogonal (Japanese: 修業 Training) in the VIZ Media translation and Decisions, Decisions... in the Shogakukan Asia translation.\n\n==Plot==\n \n\n==Major events==\nwakes up on the Tubeline Bridge and finds out what happened to him.\nBlack begins his training with Brycen.\nWhile Musha, Tula, and Costa train with Brycen's , Black and Nite train with Brycen's .\nBlack renames Nite Bo.\nAfter some difficulty, Bo manages to defeat Brycen's Cryogonal with a move instead of a move.\n\n \n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nLenora (flashback)\nClay (flashback)\nBrycen\nDrayden\nIris\nGhetsis (flashback)\nHawes (flashback)\nLogan\n(flashback)\n(flashback)\n\n===Pokémon===\n(Musha; 's)\n(Tep; 's; fantasy)\n(Nite; 's; fantasy)\n(Bo; 's)\n(Tula; 's)\n(Costa; 's)\n(Brycen's)\n(×3; Brycen's)\n( )\n(Ghetsis's; flashback)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)\n\n \n\n==In other languages==\n \n \n \n \n\nde:VS. Frigometri\nes:PMS498\nfr:Chapitre 498 (Pocket Monsters Special)\nit:LGA498\nzh:宝可梦特别篇 第498话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Decisions, Decisions (Japanese: VS フリージオ VS Cryogonal), titled VS Cryogonal in the Shogakukan Asia translation, is the 498th chapter of the Pokémon Adventures manga, and the 38th chapter of the .\n\nIt is subtitled Cryogonal (Japanese: 修業 Training) in the VIZ Media translation and Decisions, Decisions... in the Shogakukan Asia translation."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "wakes up on the Tubeline Bridge and finds out what happened to him.\nBlack begins his training with Brycen.\nWhile Musha, Tula, and Costa train with Brycen's , Black and Nite train with Brycen's .\nBlack renames Nite Bo.\nAfter some difficulty, Bo manages to defeat Brycen's Cryogonal with a move instead of a move."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Lenora (flashback)\nClay (flashback)\nBrycen\nDrayden\nIris\nGhetsis (flashback)\nHawes (flashback)\nLogan\n(flashback)\n(flashback)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Musha; 's)\n(Tep; 's; fantasy)\n(Nite; 's; fantasy)\n(Bo; 's)\n(Tula; 's)\n(Costa; 's)\n(Brycen's)\n(×3; Brycen's)\n( )\n(Ghetsis's; flashback)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)\n( ; fantasy)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Frigometri\nes:PMS498\nfr:Chapitre 498 (Pocket Monsters Special)\nit:LGA498\nzh:宝可梦特别篇 第498话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS498",
+    "pageType": "chapter",
+    "searchableText": "PS498\nCategory:Pokémon Adventures chapters\nDecisions, Decisions (Japanese: VS フリージオ VS Cryogonal), titled VS Cryogonal in the Shogakukan Asia translation, is the 498th chapter of the Pokémon Adventures manga, and the 38th chapter of the .\n\nIt is subtitled Cryogonal (Japanese: 修業 Training) in the VIZ Media translation and Decisions, Decisions... in the Shogakukan Asia translation.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1212,
+    "sectionCount": 5
+  }
+}

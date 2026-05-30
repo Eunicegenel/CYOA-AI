@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "User talk:Tiddlywinks/ChapInfo",
+    "slug": "user-talk-tiddlywinks-chapinfo",
+    "pageId": 294098,
+    "revisionId": 4108508
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "user-talk-tiddlywinks-chapinfo__294098.json",
+    "revisionTimestamp": "2024-09-09T20:54:02Z",
+    "fetchedAt": "2026-05-14T15:52:14.286Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Adventures examples here lack the arc field, but that's easy to add for an Adventures-only box (I just didn't want to have to model CSL with some fields fixed to Adventures).",
+  "plainText": "The Adventures examples here lack the arc field, but that's easy to add for an Adventures-only box (I just didn't want to have to model CSL with some fields fixed to Adventures).\n==PS461==\nAll basic info\n \n\n \n\n \n \n \n \n \n \n \n\n==PASS10==\nMini-volumes only. I've just done a quick and dirty link-the-pages for a basic how-to, but a slightly better format is certainly possible.\n \n\n \n \n\n==CSL1==\nNo titles, no volume. The new example ends up with an empty, tiny white dot, but it's much better than the way the current example fails (and I kinda like it, it's not worth any special handling to suppress).",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Adventures examples here lack the arc field, but that's easy to add for an Adventures-only box (I just didn't want to have to model CSL with some fields fixed to Adventures)."
+    },
+    {
+      "heading": "PS461",
+      "level": 2,
+      "text": "All basic info"
+    },
+    {
+      "heading": "PASS10",
+      "level": 2,
+      "text": "Mini-volumes only. I've just done a quick and dirty link-the-pages for a basic how-to, but a slightly better format is certainly possible."
+    },
+    {
+      "heading": "CSL1",
+      "level": 2,
+      "text": "No titles, no volume. The new example ends up with an empty, tiny white dot, but it's much better than the way the current example fails (and I kinda like it, it's not worth any special handling to suppress)."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "User talk:Tiddlywinks/ChapInfo",
+    "pageType": "chapter",
+    "searchableText": "User talk:Tiddlywinks/ChapInfo\nCategory:Pokémon Adventures chapters\nThe Adventures examples here lack the arc field, but that's easy to add for an Adventures-only box (I just didn't want to have to model CSL with some fields fixed to Adventures).",
+    "sectionHeadings": [
+      "Lead",
+      "PS461",
+      "PASS10",
+      "CSL1"
+    ],
+    "characterCount": 600,
+    "sectionCount": 4
+  }
+}

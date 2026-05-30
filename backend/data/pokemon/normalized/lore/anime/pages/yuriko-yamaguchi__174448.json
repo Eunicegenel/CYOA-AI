@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Yuriko Yamaguchi",
+    "slug": "yuriko-yamaguchi",
+    "pageId": 174448,
+    "revisionId": 4191245
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "yuriko-yamaguchi__174448.json",
+    "revisionTimestamp": "2024-11-24T01:55:07Z",
+    "fetchedAt": "2026-05-14T15:00:22.960Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yuriko Yamaguchi (Japanese: 山口由里子 Yamaguchi Yuriko) is a Japanese voice actress for .",
+  "plainText": "Yuriko Yamaguchi (Japanese: 山口由里子 Yamaguchi Yuriko) is a Japanese voice actress for .\n\n== Biography ==\nYamaguchi was born on November 21, 1965 in , . She began to provide voices for , starting with EP239, where she voiced . She then gained the role of Nurse Joy in EP245, taking over the role from Ayako Shiraishi. She later went on maternity leave from DP025 to DP050, during which Kikuko Inoue filled in. While Chika Fujimura took over the role of Nurse Joy in Unova, Yamaguchi reprised the role in special DPS02.\n\n== Pokémon roles ==\n===Animation===\n==== ====\n===== Humans =====\nNurse Joy (Kanto-Sinnoh: EP245-DP022; DP051-DP190; HS02-HS13; DPS02; M11; The Legend of Thunder!; The Mastermind of Mirage Pokémon)\n\n===== Pokémon =====\n(EP239)\n\n== Other non-Pokémon roles ==\n, Nico Olvia ( )\n, grass ninja ( )\n( )\n( )\n\n \n \n \n\n \n\nit:Yuriko Yamaguchi\nja:山口由里子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yuriko Yamaguchi (Japanese: 山口由里子 Yamaguchi Yuriko) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Yamaguchi was born on November 21, 1965 in , . She began to provide voices for , starting with EP239, where she voiced . She then gained the role of Nurse Joy in EP245, taking over the role from Ayako Shiraishi. She later went on maternity leave from DP025 to DP050, during which Kikuko Inoue filled in. While Chika Fujimura took over the role of Nurse Joy in Unova, Yamaguchi reprised the role in special DPS02."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Nurse Joy (Kanto-Sinnoh: EP245-DP022; DP051-DP190; HS02-HS13; DPS02; M11; The Legend of Thunder!; The Mastermind of Mirage Pokémon)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(EP239)"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": ", Nico Olvia ( )\n, grass ninja ( )\n( )\n( )\n\n \n \n \n\n \n\nit:Yuriko Yamaguchi\nja:山口由里子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yuriko Yamaguchi",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yuriko Yamaguchi\nCategory:Japanese voice actors\nYuriko Yamaguchi (Japanese: 山口由里子 Yamaguchi Yuriko) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "Other non-Pokémon roles"
+    ],
+    "characterCount": 856,
+    "sectionCount": 5
+  }
+}

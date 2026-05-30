@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP28",
+    "slug": "pmdp28",
+    "pageId": 176407,
+    "revisionId": 4528349
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp28__176407.json",
+    "revisionTimestamp": "2026-04-09T16:16:48Z",
+    "fetchedAt": "2026-05-14T15:32:30.634Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "{Japanese: ピッピの ！！ 's Story of Friendship!!) is the twenty-eighth chapter of the manga.",
+  "plainText": "{Japanese: ピッピの ！！ 's Story of Friendship!!) is the twenty-eighth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "{Japanese: ピッピの ！！ 's Story of Friendship!!) is the twenty-eighth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP28",
+    "pageType": "chapter",
+    "searchableText": "PMDP28\nCategory:Pocket Monsters DP chapters\n{Japanese: ピッピの ！！ 's Story of Friendship!!) is the twenty-eighth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 211,
+    "sectionCount": 2
+  }
+}

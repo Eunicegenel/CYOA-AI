@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Akari (HIBAPC)",
+    "slug": "akari-hibapc",
+    "pageId": 35851,
+    "revisionId": 4372473
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card characters",
+    "sourceFileName": "akari-hibapc__35851.json",
+    "revisionTimestamp": "2025-09-04T13:26:22Z",
+    "fetchedAt": "2026-05-14T15:12:25.472Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "{{CharInfobox|\ncolor= |\ncorecolor= |\nbordercolor= |\nname=Akari|\njname=アカリ |\ntmname=Akari |\nimage=Akari HIBAPC.png |\nsize=160px |\ncaption=Akari |\nage=yes|\nyears=13 \n \n\n \n \n \n\n \n \n \n\nit:Akari",
+  "plainText": "{{CharInfobox|\ncolor= |\ncorecolor= |\nbordercolor= |\nname=Akari|\njname=アカリ |\ntmname=Akari |\nimage=Akari HIBAPC.png |\nsize=160px |\ncaption=Akari |\nage=yes|\nyears=13 \n \n\n \n \n \n\n \n \n \n\nit:Akari",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "{{CharInfobox|\ncolor= |\ncorecolor= |\nbordercolor= |\nname=Akari|\njname=アカリ |\ntmname=Akari |\nimage=Akari HIBAPC.png |\nsize=160px |\ncaption=Akari |\nage=yes|\nyears=13 \n \n\n \n \n \n\n \n \n \n\nit:Akari"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Akari (HIBAPC)",
+    "pageType": "character",
+    "searchableText": "Akari (HIBAPC)\nCategory:How I Became a Pokémon Card characters\n{{CharInfobox|\ncolor= |\ncorecolor= |\nbordercolor= |\nname=Akari|\njname=アカリ |\ntmname=Akari |\nimage=Akari HIBAPC.png |\nsize=160px |\ncaption=Akari |\nage=yes|\nyears=13 \n \n\n \n \n \n\n \n \n \n\nit:Akari",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 189,
+    "sectionCount": 1
+  }
+}

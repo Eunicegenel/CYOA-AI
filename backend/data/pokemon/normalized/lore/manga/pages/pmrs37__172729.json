@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS37",
+    "slug": "pmrs37",
+    "pageId": 172729,
+    "revisionId": 4264641
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs37__172729.json",
+    "revisionTimestamp": "2025-03-23T18:31:28Z",
+    "fetchedAt": "2026-05-14T15:33:34.964Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Get It At All Costs! (Japanese: なにがなんでもゲットだぜ！ Get it at all Costs!) is the thirty-seventh chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Get It At All Costs! (Japanese: なにがなんでもゲットだぜ！ Get it at all Costs!) is the thirty-seventh chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Get It At All Costs! (Japanese: なにがなんでもゲットだぜ！ Get it at all Costs!) is the thirty-seventh chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS37",
+    "pageType": "chapter",
+    "searchableText": "PMRS37\nCategory:Pokémon Ruby-Sapphire chapters\nGet It At All Costs! (Japanese: なにがなんでもゲットだぜ！ Get it at all Costs!) is the thirty-seventh chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 257,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GDZ14",
+    "slug": "gdz14",
+    "pageId": 88973,
+    "revisionId": 4526759
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz14__88973.json",
+    "revisionTimestamp": "2026-04-09T15:06:19Z",
+    "fetchedAt": "2026-05-14T15:19:30.288Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pokémon Cooking Contest! (Japanese: ポケモン料理、いただきます！ Pokémon Cuisine, Time to Eat!) is the fourteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "Pokémon Cooking Contest! (Japanese: ポケモン料理、いただきます！ Pokémon Cuisine, Time to Eat!) is the fourteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\nShu enters a Pokémon Cooking Competition to try to win a Chansey.\n \n==Major events==\n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n( 's)\n( 's)\n\n==Characters==\n===Humans===\nShu\n\nContest MC\nJudges\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's)\n( 's)\n( 's)\n( 's)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Cooking Contest! (Japanese: ポケモン料理、いただきます！ Pokémon Cuisine, Time to Eat!) is the fourteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Shu enters a Pokémon Cooking Competition to try to win a Chansey."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( 's)\n( 's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\n\nContest MC\nJudges"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's)\n( 's)\n( 's)\n( 's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ14",
+    "pageType": "chapter",
+    "searchableText": "GDZ14\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\nPokémon Cooking Contest! (Japanese: ポケモン料理、いただきます！ Pokémon Cuisine, Time to Eat!) is the fourteenth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 440,
+    "sectionCount": 5
+  }
+}

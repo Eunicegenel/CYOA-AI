@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB77",
+    "slug": "rb77",
+    "pageId": 169035,
+    "revisionId": 4256300
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb77__169035.json",
+    "revisionTimestamp": "2025-03-10T01:01:19Z",
+    "fetchedAt": "2026-05-14T15:48:04.304Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 果てしなき冒険 Endless Adventure) is the 77th and final chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 果てしなき冒険 Endless Adventure) is the 77th and final chapter of the Pokémon RéBURST manga.\n==Plot==\n \n==Major events==\nRyouga defeats Fraud.\nFraud exhausts the power of Arcades, turning into a statue.\nArcades' caretaker takes the statue of Fraud back.\nRyouga and his friends go on an another adventure to find a certain place where Pokémon can be freed from Burst Hearts.\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyouga\nFraud\nPauline\nSabin\nMiruto\nArcades' caretaker\nRyouga's grandparents\nHaruna\nKaruta\nYappy\nRug\nCarola\nHariru\n\n===Pokémon===\n(Ryouga's)\n(Fraud's)\n\n(×2)\n(×3)\n\n \n \n \n\n \n\nzh:RB77",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 果てしなき冒険 Endless Adventure) is the 77th and final chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga defeats Fraud.\nFraud exhausts the power of Arcades, turning into a statue.\nArcades' caretaker takes the statue of Fraud back.\nRyouga and his friends go on an another adventure to find a certain place where Pokémon can be freed from Burst Hearts."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nFraud\nPauline\nSabin\nMiruto\nArcades' caretaker\nRyouga's grandparents\nHaruna\nKaruta\nYappy\nRug\nCarola\nHariru"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Ryouga's)\n(Fraud's)\n\n(×2)\n(×3)\n\n \n \n \n\n \n\nzh:RB77"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB77",
+    "pageType": "chapter",
+    "searchableText": "RB77\nCategory:Pokémon RéBURST chapters\n(Japanese: 果てしなき冒険 Endless Adventure) is the 77th and final chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 623,
+    "sectionCount": 4
+  }
+}

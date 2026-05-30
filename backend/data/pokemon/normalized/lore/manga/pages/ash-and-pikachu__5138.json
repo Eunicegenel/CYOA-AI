@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Ash & Pikachu",
+    "slug": "ash-and-pikachu",
+    "pageId": 5138,
+    "revisionId": 4527885
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu",
+    "sourceFileName": "ash-and-pikachu__5138.json",
+    "revisionTimestamp": "2026-04-09T15:57:40Z",
+    "fetchedAt": "2026-05-14T15:12:56.926Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Ash & Pikachu (Japanese: サトシとピカチュウ Satoshi and Pikachu) is a Pokémon manga based directly on the Johto and some of the Hoenn seasons of . It is created by Takashi Teshirogi.\n\nAll six volumes of the manga were translated into English by Chuang Yi in Singapore.",
+  "plainText": "Ash & Pikachu (Japanese: サトシとピカチュウ Satoshi and Pikachu) is a Pokémon manga based directly on the Johto and some of the Hoenn seasons of . It is created by Takashi Teshirogi.\n\nAll six volumes of the manga were translated into English by Chuang Yi in Singapore.\n\n==Differences between the animated series and the manga==\nThis manga, while not having striking differences like The Electric Tale of Pikachu, does put a few twists on certain episodes of by retelling it in a fun way. For example, the second chapter of the first volume combines the Pokémon fortune-telling episode and Ash's match against Whitney, but with a couple of changes.\n\nWhitney is shown to have a grandmother living close to her in Goldenrod City.\nDuring the Silver Conference, Gary Oak uses a instead of a .\n\n==Trivia==\nIn the English translation by Chuang Yi, many characters of the day from the animated series are referred to by their Japanese names and not the names that were used in the English dub.\n\n==Related articles==\nList of Ash & Pikachu chapters\nList of Ash & Pikachu volumes\nAsh Ketchum\nAsh's Pikachu\n\n \n \n \n \n\nde:Satoshi to Pikachu\nes:Ash & Pikachu\nit:Ash & Pikachu\nzh:小智与皮卡丘",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ash & Pikachu (Japanese: サトシとピカチュウ Satoshi and Pikachu) is a Pokémon manga based directly on the Johto and some of the Hoenn seasons of . It is created by Takashi Teshirogi.\n\nAll six volumes of the manga were translated into English by Chuang Yi in Singapore."
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "This manga, while not having striking differences like The Electric Tale of Pikachu, does put a few twists on certain episodes of by retelling it in a fun way. For example, the second chapter of the first volume combines the Pokémon fortune-telling episode and Ash's match against Whitney, but with a couple of changes.\n\nWhitney is shown to have a grandmother living close to her in Goldenrod City.\nDuring the Silver Conference, Gary Oak uses a instead of a ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the English translation by Chuang Yi, many characters of the day from the animated series are referred to by their Japanese names and not the names that were used in the English dub."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "List of Ash & Pikachu chapters\nList of Ash & Pikachu volumes\nAsh Ketchum\nAsh's Pikachu\n\n \n \n \n \n\nde:Satoshi to Pikachu\nes:Ash & Pikachu\nit:Ash & Pikachu\nzh:小智与皮卡丘"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ash & Pikachu",
+    "pageType": "general-manga-lore",
+    "searchableText": "Ash & Pikachu\nCategory:Ash & Pikachu\nAsh & Pikachu (Japanese: サトシとピカチュウ Satoshi and Pikachu) is a Pokémon manga based directly on the Johto and some of the Hoenn seasons of . It is created by Takashi Teshirogi.\n\nAll six volumes of the manga were translated into English by Chuang Yi in Singapore.",
+    "sectionHeadings": [
+      "Lead",
+      "Differences between the animated series and the manga",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1161,
+    "sectionCount": 4
+  }
+}

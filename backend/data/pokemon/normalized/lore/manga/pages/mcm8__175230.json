@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "MCM8",
+    "slug": "mcm8",
+    "pageId": 175230,
+    "revisionId": 4526722
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Aim to Be a Card Master!! chapters",
+    "sourceFileName": "mcm8__175230.json",
+    "revisionTimestamp": "2026-04-09T15:03:40Z",
+    "fetchedAt": "2026-05-14T15:26:17.711Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ワールドチャレンジ夏（中編）　再会·闘技場にて The Summer World Challenge (Part Two) \"Reunion at the Coliseum\") is the eighth chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.",
+  "plainText": "(Japanese: ワールドチャレンジ夏（中編）　再会·闘技場にて The Summer World Challenge (Part Two) \"Reunion at the Coliseum\") is the eighth chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKenta Minamii\nShou Okabe\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ワールドチャレンジ夏（中編）　再会·闘技場にて The Summer World Challenge (Part Two) \"Reunion at the Coliseum\") is the eighth chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kenta Minamii\nShou Okabe"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "MCM8",
+    "pageType": "chapter",
+    "searchableText": "MCM8\nCategory:Aim to Be a Card Master!! chapters\n(Japanese: ワールドチャレンジ夏（中編）　再会·闘技場にて The Summer World Challenge (Part Two) \"Reunion at the Coliseum\") is the eighth chapter of the Aim to Be a Card Master!! manga created by 印照 Inshō.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans"
+    ],
+    "characterCount": 318,
+    "sectionCount": 2
+  }
+}

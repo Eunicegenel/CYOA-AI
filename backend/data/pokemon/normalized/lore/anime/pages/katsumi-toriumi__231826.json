@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Katsumi Toriumi",
+    "slug": "katsumi-toriumi",
+    "pageId": 231826,
+    "revisionId": 4323396
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "katsumi-toriumi__231826.json",
+    "revisionTimestamp": "2025-06-24T03:29:25Z",
+    "fetchedAt": "2026-05-14T14:28:46.147Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Katsumi Toriumi (Japanese: 鳥海勝美 Toriumi Katsumi) is a Japanese voice actor for .",
+  "plainText": "Katsumi Toriumi (Japanese: 鳥海勝美 Toriumi Katsumi) is a Japanese voice actor for .\n\n==Biography==\nToriumi was born on November 16, 1963, in , , and became a voice actor and singer as an adult. He provided the voice of , 's rival in the Silver Conference, during . Toriumi is currently affiliated with the talent agency .\n\n==Pokémon roles==\n===Animation===\n==== ====\n\n==Other non-Pokémon roles==\nMasato Wakamatsu ( )\nTaman ( )\nScott Heyward ( )\nRai ( )\nDalida Lolaha Chandra II, Elijah Kiel ( )\nKusuko ( )\nYodogawa/Yocchan ( )\nSugao Yamabe ( )\nByakuya Matou ( )\n\n===Dubbing roles===\nMichael ( )\nRoy ( )\n\n==External links==\nProduction Baobab profile\n\n \n\n \n\nit:Katsumi Toriumi\nja:鳥海勝美",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Katsumi Toriumi (Japanese: 鳥海勝美 Toriumi Katsumi) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Toriumi was born on November 16, 1963, in , , and became a voice actor and singer as an adult. He provided the voice of , 's rival in the Silver Conference, during . Toriumi is currently affiliated with the talent agency ."
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Masato Wakamatsu ( )\nTaman ( )\nScott Heyward ( )\nRai ( )\nDalida Lolaha Chandra II, Elijah Kiel ( )\nKusuko ( )\nYodogawa/Yocchan ( )\nSugao Yamabe ( )\nByakuya Matou ( )"
+    },
+    {
+      "heading": "Dubbing roles",
+      "level": 3,
+      "text": "Michael ( )\nRoy ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Production Baobab profile\n\n \n\n \n\nit:Katsumi Toriumi\nja:鳥海勝美"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Katsumi Toriumi",
+    "pageType": "general-anime-lore",
+    "searchableText": "Katsumi Toriumi\nCategory:Japanese voice actors\nKatsumi Toriumi (Japanese: 鳥海勝美 Toriumi Katsumi) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Other non-Pokémon roles",
+      "Dubbing roles",
+      "External links"
+    ],
+    "characterCount": 679,
+    "sectionCount": 5
+  }
+}

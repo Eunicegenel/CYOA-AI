@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GB16",
+    "slug": "gb16",
+    "pageId": 133686,
+    "revisionId": 4527655
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys chapters",
+    "sourceFileName": "gb16__133686.json",
+    "revisionTimestamp": "2026-04-09T15:45:34Z",
+    "fetchedAt": "2026-05-14T15:19:16.610Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The New Pokémon Is Hatched!! (Japanese: 生まれてこい! 新ポケモン!! Come to Life! New Pokémon!!) is the sixteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+  "plainText": "The New Pokémon Is Hatched!! (Japanese: 生まれてこい! 新ポケモン!! Come to Life! New Pokémon!!) is the sixteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga.\n\n==Plot==\n \n\n==Major events==\n's Egg hatches into a .\n\n===Debuts===\n\n====Pokémon debuts====\n(Gold's)\n\n==Characters==\n===Humans===\n\n(fantasy)\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( 's)\n( 's)\n( 's; newly hatched)\n( 's)\n( 's)\n( 's)\n( 's; fantasy)\n\n(×2)\n\n \n \n \n\nes:GB16\nit:GB16",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The New Pokémon Is Hatched!! (Japanese: 生まれてこい! 新ポケモン!! Come to Life! New Pokémon!!) is the sixteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "'s Egg hatches into a ."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Gold's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(fantasy)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( 's)\n( 's)\n( 's; newly hatched)\n( 's)\n( 's)\n( 's)\n( 's; fantasy)\n\n(×2)\n\n \n \n \n\nes:GB16\nit:GB16"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GB16",
+    "pageType": "chapter",
+    "searchableText": "GB16\nCategory:Pokémon Gold & Silver: The Golden Boys chapters\nThe New Pokémon Is Hatched!! (Japanese: 生まれてこい! 新ポケモン!! Come to Life! New Pokémon!!) is the sixteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 430,
+    "sectionCount": 5
+  }
+}

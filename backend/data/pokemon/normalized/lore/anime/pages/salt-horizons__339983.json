@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Salt (Horizons)",
+    "slug": "salt-horizons",
+    "pageId": 339983,
+    "revisionId": 4515279
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Horizons: The Series characters",
+    "sourceFileName": "salt-horizons__339983.json",
+    "revisionTimestamp": "2026-03-23T16:50:01Z",
+    "fetchedAt": "2026-05-14T14:48:04.679Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ソルト Salt) is a recurring character who appears in Pokémon Horizons: The Series. He is the father of Ult and was the one to give him the Dusk Ball containing . According to Team Dragon Rampage, he is also a famous .",
+  "plainText": "(Japanese: ソルト Salt) is a recurring character who appears in Pokémon Horizons: The Series. He is the father of Ult and was the one to give him the Dusk Ball containing . According to Team Dragon Rampage, he is also a famous .\n\n==History==\n \n===Pre-series===\n=== ===\nIn a flashback in Friends as Two, Me and You, he was shown giving Ult his , telling it that when the day comes that Ult fights to protect someone else, that is when it fights on his behalf.\n\nIn Mega Evolution - Ult, it was revealed that Ult lived part of his life homeless in the alleys of Lumiose City. Salt's current whereabouts and status are unknown.\n \n\n==Pokémon==\n===Given away===\n \n\n===Befriended===\n \n \n\n==Names==\n \n \n\n==Related articles==\n \n \n\n \n \n \n \n\nes:Salt\nit:Padre di Ult\nzh:索鲁特",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ソルト Salt) is a recurring character who appears in Pokémon Horizons: The Series. He is the father of Ult and was the one to give him the Dusk Ball containing . According to Team Dragon Rampage, he is also a famous ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "In a flashback in Friends as Two, Me and You, he was shown giving Ult his , telling it that when the day comes that Ult fights to protect someone else, that is when it fights on his behalf.\n\nIn Mega Evolution - Ult, it was revealed that Ult lived part of his life homeless in the alleys of Lumiose City. Salt's current whereabouts and status are unknown."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Salt\nit:Padre di Ult\nzh:索鲁特"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Salt (Horizons)",
+    "pageType": "character",
+    "searchableText": "Salt (Horizons)\nCategory:Pokémon Horizons: The Series characters\n(Japanese: ソルト Salt) is a recurring character who appears in Pokémon Horizons: The Series. He is the father of Ult and was the one to give him the Dusk Ball containing . According to Team Dragon Rampage, he is also a famous .",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Related articles"
+    ],
+    "characterCount": 758,
+    "sectionCount": 3
+  }
+}

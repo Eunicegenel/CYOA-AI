@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Zeus",
+    "slug": "zeus",
+    "pageId": 66159,
+    "revisionId": 4095714
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Battle Frontier characters of the day",
+    "sourceFileName": "zeus__66159.json",
+    "revisionTimestamp": "2024-09-01T00:38:50Z",
+    "fetchedAt": "2026-05-14T15:00:32.905Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Zeus (Japanese: ゼウス Zeus) is a character of the day who appeared in Aipom and Circumstance!.\n\nZeus was the king of a village in Kanto. Per the traditions of the village, a competition was held to find a new king. The person who possessed the crown by sundown will be crowned the new king. At the end of the day, Hank was holding the crown and thus named as the king.\n\nZeus was not seen much throughout the course of the episode and so little was known about him. However, he seemed quite eccentric for thinking it would be acceptable to have an for a king.",
+  "plainText": "Zeus (Japanese: ゼウス Zeus) is a character of the day who appeared in Aipom and Circumstance!.\n\nZeus was the king of a village in Kanto. Per the traditions of the village, a competition was held to find a new king. The person who possessed the crown by sundown will be crowned the new king. At the end of the day, Hank was holding the crown and thus named as the king.\n\nZeus was not seen much throughout the course of the episode and so little was known about him. However, he seemed quite eccentric for thinking it would be acceptable to have an for a king.\n\n==Voice actors==\n \n\n==Trivia==\nZeus's name refers to the in .\n\n \n\n \n \n \n \n\nde:Es lebe der König#Zeus\nes:Zeus\nit:Zeus\nzh:宙斯",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Zeus (Japanese: ゼウス Zeus) is a character of the day who appeared in Aipom and Circumstance!.\n\nZeus was the king of a village in Kanto. Per the traditions of the village, a competition was held to find a new king. The person who possessed the crown by sundown will be crowned the new king. At the end of the day, Hank was holding the crown and thus named as the king.\n\nZeus was not seen much throughout the course of the episode and so little was known about him. However, he seemed quite eccentric for thinking it would be acceptable to have an for a king."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Zeus's name refers to the in .\n\n \n\n \n \n \n \n\nde:Es lebe der König#Zeus\nes:Zeus\nit:Zeus\nzh:宙斯"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Zeus",
+    "pageType": "character",
+    "searchableText": "Zeus\nCategory:Battle Frontier characters of the day\nZeus (Japanese: ゼウス Zeus) is a character of the day who appeared in Aipom and Circumstance!.\n\nZeus was the king of a village in Kanto. Per the traditions of the village, a competition was held to find a new king. The person who possessed the crown by sundown will be crowned the new king. At the end of the day, Hank was holding the crown and thus named as the king.\n\nZeus was not seen much throughout the course of the episode and so little was known about him. However, he seemed quite eccentric for thinking it would be acceptable to have an for a king.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 680,
+    "sectionCount": 2
+  }
+}

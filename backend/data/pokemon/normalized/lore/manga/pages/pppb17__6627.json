@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPPB17",
+    "slug": "pppb17",
+    "pageId": 6627,
+    "revisionId": 4528230
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "pppb17__6627.json",
+    "revisionTimestamp": "2026-04-09T16:10:37Z",
+    "fetchedAt": "2026-05-14T15:39:31.625Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "or (Japanese: プリンちゃんのでドッキドキ, -chan's Excitement) is the second bonus chapter of the seventh volume of Magical Pokémon Journey.",
+  "plainText": "or (Japanese: プリンちゃんのでドッキドキ, -chan's Excitement) is the second bonus chapter of the seventh volume of Magical Pokémon Journey.\n\n==Plot==\n \n finally meets someone who can stomach her cooking.\n\n==Important characters and Pokémon==\n\nHazel\n\n==Character introductions==\n\n==Important events==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "or (Japanese: プリンちゃんのでドッキドキ, -chan's Excitement) is the second bonus chapter of the seventh volume of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "finally meets someone who can stomach her cooking."
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Hazel"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPPB17",
+    "pageType": "chapter",
+    "searchableText": "PPPB17\nCategory:Magical Pokémon Journey chapters\nor (Japanese: プリンちゃんのでドッキドキ, -chan's Excitement) is the second bonus chapter of the seventh volume of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon"
+    ],
+    "characterCount": 286,
+    "sectionCount": 3
+  }
+}

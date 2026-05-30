@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "First unnamed island (BW129)",
+    "slug": "first-unnamed-island-bw129",
+    "pageId": 179089,
+    "revisionId": 4261213
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Decolore Islands",
+    "sourceFileName": "first-unnamed-island-bw129__179089.json",
+    "revisionTimestamp": "2025-03-19T21:51:28Z",
+    "fetchedAt": "2026-05-14T14:19:03.952Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "This unnamed island is the sixth island that , , and visited during their travels through the Decolore Islands. It was featured in The Pirates of Decolore!.\n\nWhen a pirate gang containing a , , , and stole food on the ferry Ash and his friends were on, Porter took the group to this island, where they told an Officer Jenny about the pirate gang. She tagged along to find them. Meanwhile, the pirate gang stole more supplies on the island and got away on a stolen boat to a neighboring island where they had their hideout. Ash sent out his earlier to search for the thieves and found them on the other island.\n\nWhen the thieves lost to Ash's Pignite and , they returned everything stolen to the island.",
+  "plainText": "This unnamed island is the sixth island that , , and visited during their travels through the Decolore Islands. It was featured in The Pirates of Decolore!.\n\nWhen a pirate gang containing a , , , and stole food on the ferry Ash and his friends were on, Porter took the group to this island, where they told an Officer Jenny about the pirate gang. She tagged along to find them. Meanwhile, the pirate gang stole more supplies on the island and got away on a stolen boat to a neighboring island where they had their hideout. Ash sent out his earlier to search for the thieves and found them on the other island.\n\nWhen the thieves lost to Ash's Pignite and , they returned everything stolen to the island.\n\n==Pokémon seen on the island==\n \n \n==Related articles==\n \n \n\n \n\nes:Isla sin nombre 1 (Islas Decolora/Decoloras)\nit:Prima isola senza nome (NB129)\nzh:无名岛（BW129-1）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This unnamed island is the sixth island that , , and visited during their travels through the Decolore Islands. It was featured in The Pirates of Decolore!.\n\nWhen a pirate gang containing a , , , and stole food on the ferry Ash and his friends were on, Porter took the group to this island, where they told an Officer Jenny about the pirate gang. She tagged along to find them. Meanwhile, the pirate gang stole more supplies on the island and got away on a stolen boat to a neighboring island where they had their hideout. Ash sent out his earlier to search for the thieves and found them on the other island.\n\nWhen the thieves lost to Ash's Pignite and , they returned everything stolen to the island."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Isla sin nombre 1 (Islas Decolora/Decoloras)\nit:Prima isola senza nome (NB129)\nzh:无名岛（BW129-1）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "First unnamed island (BW129)",
+    "pageType": "general-anime-lore",
+    "searchableText": "First unnamed island (BW129)\nCategory:Decolore Islands\nThis unnamed island is the sixth island that , , and visited during their travels through the Decolore Islands. It was featured in The Pirates of Decolore!.\n\nWhen a pirate gang containing a , , , and stole food on the ferry Ash and his friends were on, Porter took the group to this island, where they told an Officer Jenny about the pirate gang. She tagged along to find them. Meanwhile, the pirate gang stole more supplies on the island and got away on a stolen boat to a neighboring island where they had their hideout. Ash sent out his earlier to search for the thieves and found them on the other island.\n\nWhen the thieves lost to Ash's Pignite and , they returned everything stolen to the island.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 865,
+    "sectionCount": 2
+  }
+}

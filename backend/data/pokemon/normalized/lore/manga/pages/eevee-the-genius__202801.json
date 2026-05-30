@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Eevee the Genius",
+    "slug": "eevee-the-genius",
+    "pageId": 202801,
+    "revisionId": 4168463
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "eevee-the-genius__202801.json",
+    "revisionTimestamp": "2024-10-26T16:34:52Z",
+    "fetchedAt": "2026-05-14T15:17:51.232Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Eevee the Genius is the sixth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the ninth and 10th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Eevee the Genius is the sixth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the ninth and 10th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n \n==Blurb==\nTHOSE NUTTY POKéMON\n\nLooks like Almond's a pretty popular Pokémon trainer, because now Hazel's got a rival for Almond's affections...Coconut, Grandpa's other granddaughter, and a self-proclaimed scientific genius! In fact, not only is she smart, but so is her pet Eevee! Can anything that cute really be intelligent? \n\nThen, on a trip to the fair, Doduo and Dodrio cause trouble.\n\n==Publications==\n \n \n\n==Chapters==\nEevee... Pokémon Genius!\nPanic at the Cherry Blossom Festival\n\n==Important events==\nCoconut and Eevee are introduced.\nHazel and Coconut become rivals.\nHazel and her friends attend a cherry blossom festival.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Eevee the Genius is the sixth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the ninth and 10th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "THOSE NUTTY POKéMON\n\nLooks like Almond's a pretty popular Pokémon trainer, because now Hazel's got a rival for Almond's affections...Coconut, Grandpa's other granddaughter, and a self-proclaimed scientific genius! In fact, not only is she smart, but so is her pet Eevee! Can anything that cute really be intelligent? \n\nThen, on a trip to the fair, Doduo and Dodrio cause trouble."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Eevee... Pokémon Genius!\nPanic at the Cherry Blossom Festival"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Coconut and Eevee are introduced.\nHazel and Coconut become rivals.\nHazel and her friends attend a cherry blossom festival."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Eevee the Genius",
+    "pageType": "pokemon-related",
+    "searchableText": "Eevee the Genius\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Eevee the Genius is the sixth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the ninth and 10th chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 1016,
+    "sectionCount": 4
+  }
+}

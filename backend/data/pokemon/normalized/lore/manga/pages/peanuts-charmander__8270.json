@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Peanut's Charmander",
+    "slug": "peanuts-charmander",
+    "pageId": 8270,
+    "revisionId": 4528345
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga characters (Pokémon)",
+    "sourceFileName": "peanuts-charmander__8270.json",
+    "revisionTimestamp": "2026-04-09T16:16:35Z",
+    "fetchedAt": "2026-05-14T15:29:54.867Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Peanut's Charmander (Japanese: ピースのヒトカゲ Peas's Hitokage) is a Pokémon belonging to Peanut in the Magical Pokémon Journey .",
+  "plainText": "Peanut's Charmander (Japanese: ピースのヒトカゲ Peas's Hitokage) is a Pokémon belonging to Peanut in the Magical Pokémon Journey .\n\n==History==\nIn his first appearance in Charmander's Peanut, he, along with Peanut, are looking for Tree Mountain which, at its peak, houses a magical tree that gives strength to any being that takes a bite of it. Charmander wants to become stronger, while Peanut wants to cure his sickliness.\n\n==Personality and characteristics==\nCharmander is tough and aggressive, in contrast to Peanut's shyness and sickly nature. His attacks are shown to be quite strong, and he is one of the few Pokémon in Magical Pokémon Journey that show an active interest in fighting and getting stronger.\n\n \n\n==Related articles==\n \n \n \n \n \n\n \n \n \n \n\nit:Charmander di Peanut\nja:ヒトカゲ (ポケットモンスター PiPiPi★アドベンチャー)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Peanut's Charmander (Japanese: ピースのヒトカゲ Peas's Hitokage) is a Pokémon belonging to Peanut in the Magical Pokémon Journey ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "In his first appearance in Charmander's Peanut, he, along with Peanut, are looking for Tree Mountain which, at its peak, houses a magical tree that gives strength to any being that takes a bite of it. Charmander wants to become stronger, while Peanut wants to cure his sickliness."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 2,
+      "text": "Charmander is tough and aggressive, in contrast to Peanut's shyness and sickly nature. His attacks are shown to be quite strong, and he is one of the few Pokémon in Magical Pokémon Journey that show an active interest in fighting and getting stronger."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Charmander di Peanut\nja:ヒトカゲ (ポケットモンスター PiPiPi★アドベンチャー)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Peanut's Charmander",
+    "pageType": "character",
+    "searchableText": "Peanut's Charmander\nCategory:Manga characters (Pokémon)\nPeanut's Charmander (Japanese: ピースのヒトカゲ Peas's Hitokage) is a Pokémon belonging to Peanut in the Magical Pokémon Journey .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Personality and characteristics",
+      "Related articles"
+    ],
+    "characterCount": 809,
+    "sectionCount": 4
+  }
+}

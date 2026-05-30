@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW33",
+    "slug": "pmbw33",
+    "pageId": 175243,
+    "revisionId": 4528572
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw33__175243.json",
+    "revisionTimestamp": "2026-04-09T16:27:47Z",
+    "fetchedAt": "2026-05-14T15:32:04.195Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピの水族館大作戦！ 's Big Aquarium Operation!) is the thirty-third chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ピッピの水族館大作戦！ 's Big Aquarium Operation!) is the thirty-third chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピの水族館大作戦！ 's Big Aquarium Operation!) is the thirty-third chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW33",
+    "pageType": "chapter",
+    "searchableText": "PMBW33\nCategory:Pocket Monsters BW chapters\n(Japanese: ピッピの水族館大作戦！ 's Big Aquarium Operation!) is the thirty-third chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 248,
+    "sectionCount": 2
+  }
+}

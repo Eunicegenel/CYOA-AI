@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP29",
+    "slug": "pmdp29",
+    "pageId": 176387,
+    "revisionId": 4527597
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp29__176387.json",
+    "revisionTimestamp": "2026-04-09T15:43:33Z",
+    "fetchedAt": "2026-05-14T15:32:31.249Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ポケモンギャグ ！？New Pokémon Gag Movie!?) is the twenty-ninth chapter of the manga.",
+  "plainText": "(Japanese: ポケモンギャグ ！？New Pokémon Gag Movie!?) is the twenty-ninth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンギャグ ！？New Pokémon Gag Movie!?) is the twenty-ninth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP29",
+    "pageType": "chapter",
+    "searchableText": "PMDP29\nCategory:Pocket Monsters DP chapters\n(Japanese: ポケモンギャグ ！？New Pokémon Gag Movie!?) is the twenty-ninth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 211,
+    "sectionCount": 2
+  }
+}

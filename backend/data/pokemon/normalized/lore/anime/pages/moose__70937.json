@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Moose",
+    "slug": "moose",
+    "pageId": 70937,
+    "revisionId": 4190782
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "moose__70937.json",
+    "revisionTimestamp": "2024-11-24T01:33:34Z",
+    "fetchedAt": "2026-05-14T14:37:59.162Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Moose (Japanese: ムース Moose) is one of the characters from Giratina and the Sky Warrior. He is the husband of .",
+  "plainText": "Moose (Japanese: ムース Moose) is one of the characters from Giratina and the Sky Warrior. He is the husband of .\n\n==In the movies==\nMoose was accompanying his wife to deliver a bouquet of Gracideas to his wife's great-grandmother for her hundredth birthday. On a train they met up with , , , , Sylvan, Shun, Taka, and . He told them that he used to hike a lot and witnessed 's flower bearing once before. Shortly after, he watched Shaymin transform into its Sky Forme. Following this, the train was attacked by Zero's , and , but Ash, Dawn, and Shaymin were able to drive them off.\n\nHe later said his goodbyes to Ash, his friends, and Shaymin as they set off on a ferry to the flower garden of , but met up with them again some time later, when Ash and his friends visited Layla's great-grandmother's birthday party.\n\n===Voice actors===\n \n\n==In the manga==\n===Movie adaptations===\nMoose appeared in of the movie, where he played the same role.\n\n==Related articles==\n \n \n\n \n\nes:Moose\nit:Moose\nzh:穆斯",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Moose (Japanese: ムース Moose) is one of the characters from Giratina and the Sky Warrior. He is the husband of ."
+    },
+    {
+      "heading": "In the movies",
+      "level": 2,
+      "text": "Moose was accompanying his wife to deliver a bouquet of Gracideas to his wife's great-grandmother for her hundredth birthday. On a train they met up with , , , , Sylvan, Shun, Taka, and . He told them that he used to hike a lot and witnessed 's flower bearing once before. Shortly after, he watched Shaymin transform into its Sky Forme. Following this, the train was attacked by Zero's , and , but Ash, Dawn, and Shaymin were able to drive them off.\n\nHe later said his goodbyes to Ash, his friends, and Shaymin as they set off on a ferry to the flower garden of , but met up with them again some time later, when Ash and his friends visited Layla's great-grandmother's birthday party."
+    },
+    {
+      "heading": "Movie adaptations",
+      "level": 3,
+      "text": "Moose appeared in of the movie, where he played the same role."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Moose\nit:Moose\nzh:穆斯"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Moose",
+    "pageType": "movie",
+    "searchableText": "Moose\nCategory:Movie characters\nMoose (Japanese: ムース Moose) is one of the characters from Giratina and the Sky Warrior. He is the husband of .",
+    "sectionHeadings": [
+      "Lead",
+      "In the movies",
+      "Movie adaptations",
+      "Related articles"
+    ],
+    "characterCount": 995,
+    "sectionCount": 4
+  }
+}

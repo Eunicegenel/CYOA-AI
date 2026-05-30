@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PMBW13",
+    "slug": "pmbw13",
+    "pageId": 171699,
+    "revisionId": 4528611
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw13__171699.json",
+    "revisionTimestamp": "2026-04-09T16:30:00Z",
+    "fetchedAt": "2026-05-14T15:31:51.553Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: しょうりポケモンと大勝負！ The Victory Pokémon and the Big Match!) is the thirteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: しょうりポケモンと大勝負！ The Victory Pokémon and the Big Match!) is the thirteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Juniper\n\n===Pokémon===\n( )\n( )\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: しょうりポケモンと大勝負！ The Victory Pokémon and the Big Match!) is the thirteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Juniper"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n\n}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW13",
+    "pageType": "chapter",
+    "searchableText": "PMBW13\nCategory:Pocket Monsters BW chapters\n(Japanese: しょうりポケモンと大勝負！ The Victory Pokémon and the Big Match!) is the thirteenth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 279,
+    "sectionCount": 3
+  }
+}

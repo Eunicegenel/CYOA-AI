@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Aurora Drop",
+    "slug": "aurora-drop",
+    "pageId": 321392,
+    "revisionId": 4471450
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns",
+    "sourceFileName": "aurora-drop__321392.json",
+    "revisionTimestamp": "2026-01-20T14:51:05Z",
+    "fetchedAt": "2026-05-14T14:04:16.067Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "The Aurora Drop (Japanese: オーロラの雫 Aurora Drop) is a jewel present in Detective Pikachu Returns. The theft of the jewel at the Denis Residence is the subject of Tim's first major investigation in the game. Despite Tim's efforts in retrieving the stolen jewel, the Aurora Drop is stolen under mysterious circumstances, later revealed to have been coordinated by Unitas under the direction of Charles Merloch. The Aurora Drop's true form is later revealed to be the Pokémon , after it is activated by Charles's fusion machine.",
+  "plainText": "The Aurora Drop (Japanese: オーロラの雫 Aurora Drop) is a jewel present in Detective Pikachu Returns. The theft of the jewel at the Denis Residence is the subject of Tim's first major investigation in the game. Despite Tim's efforts in retrieving the stolen jewel, the Aurora Drop is stolen under mysterious circumstances, later revealed to have been coordinated by Unitas under the direction of Charles Merloch. The Aurora Drop's true form is later revealed to be the Pokémon , after it is activated by Charles's fusion machine.\n\n==Overview==\nThe Aurora Drop is a rare purple jewel which is said to have naturally formed into its shape without cutting or polishing like other gemstones. It received its name based on the way it shines like an aurora, and has also been called the Jewel of Legend amongst jewelers due to its rarity. \n\nThe Aurora Drop was owned by Sanjeev Denis at his mansion before it was stolen, with the jewel locked up in a reinforced case inside his locked storage room. Sanjeev had previously kept it at his jewel shop, where it also became known as The Jewel That Survived the R Incident after the Aurora Drop was left unscathed when a rampaging Pokémon under the effects of R damaged his shop. Sanjeev's shop became popular as a result with people visiting to see the famous jewel. Sanjeev eventually moved the jewel to his house in preparation for donating the jewel to the city as a symbol of Ryme City's revival. \n\nThe theft of the Aurora Drop is Tim and 's first major investigation in the game. Upon investigation, Tim reveals that Larry Turner had coordinated the theft alongside an unknown group, having had his partner swallow the precious jewel. Although Cramorant initially spits up the jewel and Turner is taken into custody, a mysterious cube on Cramorant's back suddenly activates and the Gulp Pokémon swallows the Aurora Drop and escapes, though Turner insists he had no role in Cramorant's escape.\n\nThe Aurora Drop is later revealed to have been stolen by Unitas, under the instruction of Charles Merloch. At the Pokémon Unity Lab, the Aurora Drop's true form as is revealed when it is activated by his fusion machine. Merloch then uses the energy from Pikachu and Harry Goodman's body to fuse his consciousness with that of Deoxys. Deoxys is returned to its Aurora Drop form when Pikachu smashes two energy capsules containing energy extracted from his and Harry's bodies into Merloch.\n\n==Trivia==\nThe Aurora Drop is a reference to the Blue Carbuncle from Sherlock Holmes short story The Adventure of the Blue Carbuncle.\nThe way it was swallowed by Cramorant is a reference to how the Blue Carbuncle was found inside a goose.\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Aurora Drop (Japanese: オーロラの雫 Aurora Drop) is a jewel present in Detective Pikachu Returns. The theft of the jewel at the Denis Residence is the subject of Tim's first major investigation in the game. Despite Tim's efforts in retrieving the stolen jewel, the Aurora Drop is stolen under mysterious circumstances, later revealed to have been coordinated by Unitas under the direction of Charles Merloch. The Aurora Drop's true form is later revealed to be the Pokémon , after it is activated by Charles's fusion machine."
+    },
+    {
+      "heading": "Overview",
+      "level": 2,
+      "text": "The Aurora Drop is a rare purple jewel which is said to have naturally formed into its shape without cutting or polishing like other gemstones. It received its name based on the way it shines like an aurora, and has also been called the Jewel of Legend amongst jewelers due to its rarity. \n\nThe Aurora Drop was owned by Sanjeev Denis at his mansion before it was stolen, with the jewel locked up in a reinforced case inside his locked storage room. Sanjeev had previously kept it at his jewel shop, where it also became known as The Jewel That Survived the R Incident after the Aurora Drop was left unscathed when a rampaging Pokémon under the effects of R damaged his shop. Sanjeev's shop became popular as a result with people visiting to see the famous jewel. Sanjeev eventually moved the jewel to his house in preparation for donating the jewel to the city as a symbol of Ryme City's revival. \n\nThe theft of the Aurora Drop is Tim and 's first major investigation in the game. Upon investigation, Tim reveals that Larry Turner had coordinated the theft alongside an unknown group, having had his partner swallow the precious jewel. Although Cramorant initially spits up the jewel and Turner is taken into custody, a mysterious cube on Cramorant's back suddenly activates and the Gulp Pokémon swallows the Aurora Drop and escapes, though Turner insists he had no role in Cramorant's escape.\n\nThe Aurora Drop is later revealed to have been stolen by Unitas, under the instruction of Charles Merloch. At the Pokémon Unity Lab, the Aurora Drop's true form as is revealed when it is activated by his fusion machine. Merloch then uses the energy from Pikachu and Harry Goodman's body to fuse his consciousness with that of Deoxys. Deoxys is returned to its Aurora Drop form when Pikachu smashes two energy capsules containing energy extracted from his and Harry's bodies into Merloch."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The Aurora Drop is a reference to the Blue Carbuncle from Sherlock Holmes short story The Adventure of the Blue Carbuncle.\nThe way it was swallowed by Cramorant is a reference to how the Blue Carbuncle was found inside a goose."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Aurora Drop",
+    "pageType": "general-anime-lore",
+    "searchableText": "Aurora Drop\nCategory:Detective Pikachu Returns\nThe Aurora Drop (Japanese: オーロラの雫 Aurora Drop) is a jewel present in Detective Pikachu Returns. The theft of the jewel at the Denis Residence is the subject of Tim's first major investigation in the game. Despite Tim's efforts in retrieving the stolen jewel, the Aurora Drop is stolen under mysterious circumstances, later revealed to have been coordinated by Unitas under the direction of Charles Merloch. The Aurora Drop's true form is later revealed to be the Pokémon , after it is activated by Charles's fusion machine.",
+    "sectionHeadings": [
+      "Lead",
+      "Overview",
+      "Trivia"
+    ],
+    "characterCount": 2684,
+    "sectionCount": 3
+  }
+}

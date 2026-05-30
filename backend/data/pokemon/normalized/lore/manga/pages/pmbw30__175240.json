@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW30",
+    "slug": "pmbw30",
+    "pageId": 175240,
+    "revisionId": 4528430
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw30__175240.json",
+    "revisionTimestamp": "2026-04-09T16:20:09Z",
+    "fetchedAt": "2026-05-14T15:32:02.293Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ケルデイオを引き止める！！ Stop Keldeo!!) is the thirtieth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ケルデイオを引き止める！！ Stop Keldeo!!) is the thirtieth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ケルデイオを引き止める！！ Stop Keldeo!!) is the thirtieth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW30",
+    "pageType": "chapter",
+    "searchableText": "PMBW30\nCategory:Pocket Monsters BW chapters\n(Japanese: ケルデイオを引き止める！！ Stop Keldeo!!) is the thirtieth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 233,
+    "sectionCount": 2
+  }
+}

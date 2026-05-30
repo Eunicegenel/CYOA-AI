@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ75",
+    "slug": "gdz75",
+    "pageId": 188466,
+    "revisionId": 4527815
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz75__188466.json",
+    "revisionTimestamp": "2026-04-09T15:55:02Z",
+    "fetchedAt": "2026-05-14T15:20:09.219Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: セレビィ、ゲットだぜ！（前編） Catch Celebi! (Part One)) is the 75th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: セレビィ、ゲットだぜ！（前編） Catch Celebi! (Part One)) is the 75th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\nHideki\n\n===Pokémon===\n( )\n(Shu's)\n(Hideki's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: セレビィ、ゲットだぜ！（前編） Catch Celebi! (Part One)) is the 75th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nHideki"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Hideki's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ75",
+    "pageType": "chapter",
+    "searchableText": "GDZ75\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: セレビィ、ゲットだぜ！（前編） Catch Celebi! (Part One)) is the 75th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 262,
+    "sectionCount": 3
+  }
+}

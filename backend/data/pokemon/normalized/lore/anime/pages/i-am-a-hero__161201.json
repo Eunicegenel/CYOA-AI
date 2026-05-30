@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "I am a Hero",
+    "slug": "i-am-a-hero",
+    "pageId": 161201,
+    "revisionId": 3325077
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese ending themes",
+    "sourceFileName": "i-am-a-hero__161201.json",
+    "revisionTimestamp": "2021-02-15T01:45:39Z",
+    "fetchedAt": "2026-05-14T14:24:37.183Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "I am a Hero (Japanese: アイ アム ア ヒーロー) is the third ending theme of Pokémon Smash!, replacing Can You Name All the Pokémon? BW. It is sung by .",
+  "plainText": "I am a Hero (Japanese: アイ アム ア ヒーロー) is the third ending theme of Pokémon Smash!, replacing Can You Name All the Pokémon? BW. It is sung by .\n\n==Lyrics==\n \n!Japanese\n!English\n\n \n \n\n \n \n \n\n \n \n \n\n \n \n\n \n \n\n \n \n \n\n \n \n \n\n \n \n\n（ ）\n\n \n \n\n \n \n\n \n \n \n \n\n \n \n\n \n \n\n \n \n\n \n \n\n \n \n \n\n \n \n\nLet the two of us embark on a journey\nThat we can only go for now\n\nBy the unknown corners of the street\nTogether, let us illuminate\nThe true answer\n\nFantasy and reality\nBoth exist within the mirror\nDon't look away\n\nCrying, smiling, fuming, shouting\nAll of these will become our bond\n\nEven though we're not strong, don't give up\nBecause we have an honest heart\n\nWith our chests filled with dreams\nHope and slight unease\nI firmly held your hand as we marched forward\n\nIn the city of unknown dreams\nTogether, let's smile as we seek out\nThe true answer\n\nDaydreams and reality\nBoth interchange with time\n\n(Don't look away)\n\nCrying, shouting, try gritting your teeth to bear with it\nAll of these will become our courage\n\nEven as I try to look strong and fearless\nIt's only because I believe in your heart\n\nToday will be better than yesterday\nTomorrow will be better than today\nTry to smile even when we can't\nIn order for us to grow stronger\n\nLet those tears flow, vent out those frustrations, and cheer yourself up\nAll of these will bring us our tomorrow\n\nDon’t be afraid and try to move forward\nWith an honest heart... ah\n\nCrying, smiling, fuming, shouting\nAll of these will become our bond\n\nEven though we're not strong, don't give up\nBecause we have an honest heart\n\nWe won't lose, we won't cry\nLet's shine farther than the distant sky\nTwinkling and twinkling\n\nWe won't give up, we won't be crushed\nLet's shine faster than that distant star \n\n \n\n \n\nzh:我是英雄",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "I am a Hero (Japanese: アイ アム ア ヒーロー) is the third ending theme of Pokémon Smash!, replacing Can You Name All the Pokémon? BW. It is sung by ."
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "!Japanese\n!English\n\n \n \n\n \n \n \n\n \n \n \n\n \n \n\n \n \n\n \n \n \n\n \n \n \n\n \n \n\n（ ）\n\n \n \n\n \n \n\n \n \n \n \n\n \n \n\n \n \n\n \n \n\n \n \n\n \n \n \n\n \n \n\nLet the two of us embark on a journey\nThat we can only go for now\n\nBy the unknown corners of the street\nTogether, let us illuminate\nThe true answer\n\nFantasy and reality\nBoth exist within the mirror\nDon't look away\n\nCrying, smiling, fuming, shouting\nAll of these will become our bond\n\nEven though we're not strong, don't give up\nBecause we have an honest heart\n\nWith our chests filled with dreams\nHope and slight unease\nI firmly held your hand as we marched forward\n\nIn the city of unknown dreams\nTogether, let's smile as we seek out\nThe true answer\n\nDaydreams and reality\nBoth interchange with time\n\n(Don't look away)\n\nCrying, shouting, try gritting your teeth to bear with it\nAll of these will become our courage\n\nEven as I try to look strong and fearless\nIt's only because I believe in your heart\n\nToday will be better than yesterday\nTomorrow will be better than today\nTry to smile even when we can't\nIn order for us to grow stronger\n\nLet those tears flow, vent out those frustrations, and cheer yourself up\nAll of these will bring us our tomorrow\n\nDon’t be afraid and try to move forward\nWith an honest heart... ah\n\nCrying, smiling, fuming, shouting\nAll of these will become our bond\n\nEven though we're not strong, don't give up\nBecause we have an honest heart\n\nWe won't lose, we won't cry\nLet's shine farther than the distant sky\nTwinkling and twinkling\n\nWe won't give up, we won't be crushed\nLet's shine faster than that distant star \n\n \n\n \n\nzh:我是英雄"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "I am a Hero",
+    "pageType": "general-anime-lore",
+    "searchableText": "I am a Hero\nCategory:Japanese ending themes\nI am a Hero (Japanese: アイ アム ア ヒーロー) is the third ending theme of Pokémon Smash!, replacing Can You Name All the Pokémon? BW. It is sung by .",
+    "sectionHeadings": [
+      "Lead",
+      "Lyrics"
+    ],
+    "characterCount": 1734,
+    "sectionCount": 2
+  }
+}

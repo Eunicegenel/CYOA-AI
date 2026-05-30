@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW44",
+    "slug": "pmbw44",
+    "pageId": 182841,
+    "revisionId": 4528662
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw44__182841.json",
+    "revisionTimestamp": "2026-04-09T16:33:17Z",
+    "fetchedAt": "2026-05-14T15:32:11.119Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 遊園地を立て直せ！！ Let's Revamp the Amusement Park!!) is the forty-fourth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 遊園地を立て直せ！！ Let's Revamp the Amusement Park!!) is the forty-fourth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n\n}}",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 遊園地を立て直せ！！ Let's Revamp the Amusement Park!!) is the forty-fourth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n}}"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW44",
+    "pageType": "chapter",
+    "searchableText": "PMBW44\nCategory:Pocket Monsters BW chapters\n(Japanese: 遊園地を立て直せ！！ Let's Revamp the Amusement Park!!) is the forty-fourth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 258,
+    "sectionCount": 2
+  }
+}

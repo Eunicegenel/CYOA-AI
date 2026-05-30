@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "GDZ30",
+    "slug": "gdz30",
+    "pageId": 168635,
+    "revisionId": 4527163
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz30__168635.json",
+    "revisionTimestamp": "2026-04-09T15:22:16Z",
+    "fetchedAt": "2026-05-14T15:19:40.419Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 特別へん・とってもミュウな父子物語 Special Chapter: A Very Father-Son Story) is the thirtieth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: 特別へん・とってもミュウな父子物語 Special Chapter: A Very Father-Son Story) is the thirtieth chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nShu's father\n\n====Pokémon debuts====\n(Shu's father's)\n\n==Characters==\n===Humans===\nShu\nShu's father\n\n===Pokémon===\n( )\n(Shu's)\n(Shu's father's)\n(flashback)\n\n==In other languages==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 特別へん・とってもミュウな父子物語 Special Chapter: A Very Father-Son Story) is the thirtieth chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Shu's father"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Shu's father's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu\nShu's father"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)\n(Shu's father's)\n(flashback)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ30",
+    "pageType": "chapter",
+    "searchableText": "GDZ30\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: 特別へん・とってもミュウな父子物語 Special Chapter: A Very Father-Son Story) is the thirtieth chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 378,
+    "sectionCount": 5
+  }
+}

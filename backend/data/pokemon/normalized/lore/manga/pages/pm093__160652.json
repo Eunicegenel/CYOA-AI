@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM093",
+    "slug": "pm093",
+    "pageId": 160652,
+    "revisionId": 4528364
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm093__160652.json",
+    "revisionTimestamp": "2026-04-09T16:18:00Z",
+    "fetchedAt": "2026-05-14T15:31:28.159Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Tyrogue's In Love?! (Japanese: バルキーの恋！？ 's In Love!?) is the ninety-third chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Tyrogue's In Love?! (Japanese: バルキーの恋！？ 's In Love!?) is the ninety-third chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\nJasmine's Steelix\n\n==Characters==\n===Humans===\n\nJasmine\n\n===Pokémon===\n( ) \n( )\n( )\n(Amphy; fantasy)\n( )\n\n==Trivia==\n\n \n \n\nit:PMM093",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tyrogue's In Love?! (Japanese: バルキーの恋！？ 's In Love!?) is the ninety-third chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "Jasmine's Steelix"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jasmine"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(Amphy; fantasy)\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "it:PMM093"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM093",
+    "pageType": "chapter",
+    "searchableText": "PM093\nCategory:Pokémon Pocket Monsters chapters\nTyrogue's In Love?! (Japanese: バルキーの恋！？ 's In Love!?) is the ninety-third chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 320,
+    "sectionCount": 5
+  }
+}

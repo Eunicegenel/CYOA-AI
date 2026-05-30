@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "PMLT00",
+    "slug": "pmlt00",
+    "pageId": 294923,
+    "revisionId": 4528402
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monster: Liko's treasure chapters",
+    "sourceFileName": "pmlt00__294923.json",
+    "revisionTimestamp": "2026-04-09T16:19:16Z",
+    "fetchedAt": "2026-05-14T15:33:05.825Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: プロローグ Prologue) is the prologue chapter of the Pocket Monster: Liko's treasure manga. It was first published in the May 2023 issue of Ciao, released on April 3, 2023. It is four pages long.",
+  "plainText": "(Japanese: プロローグ Prologue) is the prologue chapter of the Pocket Monster: Liko's treasure manga. It was first published in the May 2023 issue of Ciao, released on April 3, 2023. It is four pages long.\n\n==Plot==\n \n\n==Major events==\nLiko, a beginner from Paldea, departs from her house.\n\n===Debuts===\n====Humans====\nLiko\nFriede\nAmethio\n\n====Pokémon debuts====\n\n(Captain Pikachu)\n(anime)\n(anime)\n(anime)\n\n==Characters==\n===Humans===\nLiko\nFriede\nAmethio\n\n===Pokémon===\n(Friede's; Captain Pikachu)\n(Alex's)\n(anime)\n(anime)\n(anime)\n\n==Trivia==\nThis chapter featured Alex's before its existence was revealed in the next episode preview of HZ008.\n\n==References==\n \n\n}}\n \n \n \n \n\nes:LNT00\nit:PMLT00",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: プロローグ Prologue) is the prologue chapter of the Pocket Monster: Liko's treasure manga. It was first published in the May 2023 issue of Ciao, released on April 3, 2023. It is four pages long."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Liko, a beginner from Paldea, departs from her house."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Liko\nFriede\nAmethio"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Captain Pikachu)\n(anime)\n(anime)\n(anime)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Liko\nFriede\nAmethio"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Friede's; Captain Pikachu)\n(Alex's)\n(anime)\n(anime)\n(anime)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This chapter featured Alex's before its existence was revealed in the next episode preview of HZ008."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "}}\n \n \n \n \n\nes:LNT00\nit:PMLT00"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMLT00",
+    "pageType": "chapter",
+    "searchableText": "PMLT00\nCategory:Pocket Monster: Liko's treasure chapters\n(Japanese: プロローグ Prologue) is the prologue chapter of the Pocket Monster: Liko's treasure manga. It was first published in the May 2023 issue of Ciao, released on April 3, 2023. It is four pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia",
+      "References"
+    ],
+    "characterCount": 688,
+    "sectionCount": 8
+  }
+}

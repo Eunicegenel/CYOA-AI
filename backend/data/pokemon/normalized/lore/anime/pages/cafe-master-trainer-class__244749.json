@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Café Master (Trainer class)",
+    "slug": "cafe-master-trainer-class",
+    "pageId": 244749,
+    "revisionId": 4547450
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Twilight Wings characters",
+    "sourceFileName": "cafe-master-trainer-class__244749.json",
+    "revisionTimestamp": "2026-05-09T13:23:48Z",
+    "fetchedAt": "2026-05-14T14:08:11.438Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "A Café Master (Japanese: マスター Master) is a type of Pokémon Trainer introduced in Generation VIII. They are owners of Battle Cafés located throughout Galar. They use Pokémon related to sweets, most of which are Pokémon. In Battle Cafés, Café Masters will face the in a Double Battle whenever they use more than one Pokémon, and they can be rematched once a day. In the , Café Masters specialize in - and Pokémon.",
+  "plainText": "A Café Master (Japanese: マスター Master) is a type of Pokémon Trainer introduced in Generation VIII. They are owners of Battle Cafés located throughout Galar. They use Pokémon related to sweets, most of which are Pokémon. In Battle Cafés, Café Masters will face the in a Double Battle whenever they use more than one Pokémon, and they can be rematched once a day. In the , Café Masters specialize in - and Pokémon.\n\n==Gallery==\n===Sprites and models===\n \n\n==Trainer list==\n===Pokémon Sword and Shield===\n \n \n \n \n \n \n \n \n \n\n==In animation==\n ]]\n===Pokémon: Twilight Wings===\nA Café Master appeared in Early-Evening Waves, where he was running the Battle Café that Nessa and Sonia were eating in.\n\n====Pokémon====\n \n\n \n\n==In the TCG==\nThis listing is of cards mentioning or featuring Café Master in the Pokémon Trading Card Game.\n\n \n \n \n \n \n\n==Trivia==\nThis Trainer class shares its name with in Chinese.\nAfter being defeated, Café Masters compare their battle with the player to a type of drink, all of which match the drinks served at Pokémon Center Cafés in Alola.\n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n \n\nde:Barista\nes:Barista\nfr:Barista\nit:Barista\nja:マスター (トレーナー)\nzh:老闆",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Café Master (Japanese: マスター Master) is a type of Pokémon Trainer introduced in Generation VIII. They are owners of Battle Cafés located throughout Galar. They use Pokémon related to sweets, most of which are Pokémon. In Battle Cafés, Café Masters will face the in a Double Battle whenever they use more than one Pokémon, and they can be rematched once a day. In the , Café Masters specialize in - and Pokémon."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "]]"
+    },
+    {
+      "heading": "Pokémon: Twilight Wings",
+      "level": 3,
+      "text": "A Café Master appeared in Early-Evening Waves, where he was running the Battle Café that Nessa and Sonia were eating in."
+    },
+    {
+      "heading": "In the TCG",
+      "level": 2,
+      "text": "This listing is of cards mentioning or featuring Café Master in the Pokémon Trading Card Game."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This Trainer class shares its name with in Chinese.\nAfter being defeated, Café Masters compare their battle with the player to a type of drink, all of which match the drinks served at Pokémon Center Cafés in Alola."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Barista\nes:Barista\nfr:Barista\nit:Barista\nja:マスター (トレーナー)\nzh:老闆"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Café Master (Trainer class)",
+    "pageType": "character",
+    "searchableText": "Café Master (Trainer class)\nCategory:Pokémon: Twilight Wings characters\nA Café Master (Japanese: マスター Master) is a type of Pokémon Trainer introduced in Generation VIII. They are owners of Battle Cafés located throughout Galar. They use Pokémon related to sweets, most of which are Pokémon. In Battle Cafés, Café Masters will face the in a Double Battle whenever they use more than one Pokémon, and they can be rematched once a day. In the , Café Masters specialize in - and Pokémon.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "Pokémon: Twilight Wings",
+      "In the TCG",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1186,
+    "sectionCount": 6
+  }
+}

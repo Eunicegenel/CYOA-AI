@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "LDK5",
+    "slug": "ldk5",
+    "pageId": 192364,
+    "revisionId": 3997553
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY: The Legend of the Pokémon Dragon King chapters",
+    "sourceFileName": "ldk5__192364.json",
+    "revisionTimestamp": "2024-04-30T13:10:58Z",
+    "fetchedAt": "2026-05-14T15:24:02.850Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 絆の勝利！初代竜王誕生！！ A Victory of Bonds! The Birth of the Original Dragon King!!) is the fifth and final chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.",
+  "plainText": "(Japanese: 絆の勝利！初代竜王誕生！！ A Victory of Bonds! The Birth of the Original Dragon King!!) is the fifth and final chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nKanna\nTaichi\nMori\nGoro\n\n===Pokémon===\n( 's)\n( 's)\n(Taichi's)\n(Goro's)\n\n \n \n \n\nit:LDK5",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 絆の勝利！初代竜王誕生！！ A Victory of Bonds! The Birth of the Original Dragon King!!) is the fifth and final chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kanna\nTaichi\nMori\nGoro"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( 's)\n(Taichi's)\n(Goro's)\n\n \n \n \n\nit:LDK5"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "LDK5",
+    "pageType": "chapter",
+    "searchableText": "LDK5\nCategory:Pocket Monsters XY: The Legend of the Pokémon Dragon King chapters\n(Japanese: 絆の勝利！初代竜王誕生！！ A Victory of Bonds! The Birth of the Original Dragon King!!) is the fifth and final chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 372,
+    "sectionCount": 3
+  }
+}

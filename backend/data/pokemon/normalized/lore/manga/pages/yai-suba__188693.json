@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Yai Suba",
+    "slug": "yai-suba",
+    "pageId": 188693,
+    "revisionId": 4132202
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! characters",
+    "sourceFileName": "yai-suba__188693.json",
+    "revisionTimestamp": "2024-09-29T05:18:02Z",
+    "fetchedAt": "2026-05-14T15:52:54.266Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: 巣羽矢衣 Yai Suba) is a character from Pokémon Battrio: Aim to be Battrio Master!.",
+  "plainText": "(Japanese: 巣羽矢衣 Yai Suba) is a character from Pokémon Battrio: Aim to be Battrio Master!.\n\n==History==\nAfter Ryū's loss to Funji, Yai went up to Ryū and challenged him. She was very skilled with arranging the pucks as she had quick movements but it wasn't enough as her team got beaten by Ryū's .\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 巣羽矢衣 Yai Suba) is a character from Pokémon Battrio: Aim to be Battrio Master!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "After Ryū's loss to Funji, Yai went up to Ryū and challenged him. She was very skilled with arranging the pucks as she had quick movements but it wasn't enough as her team got beaten by Ryū's ."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yai Suba",
+    "pageType": "character",
+    "searchableText": "Yai Suba\nCategory:Pokémon Battrio: Aim to be Battrio Master! characters\n(Japanese: 巣羽矢衣 Yai Suba) is a character from Pokémon Battrio: Aim to be Battrio Master!.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 309,
+    "sectionCount": 2
+  }
+}

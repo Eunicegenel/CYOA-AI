@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Makoto Higo",
+    "slug": "makoto-higo",
+    "pageId": 99490,
+    "revisionId": 4323496
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "makoto-higo__99490.json",
+    "revisionTimestamp": "2025-06-24T03:31:14Z",
+    "fetchedAt": "2026-05-14T14:34:28.226Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Makoto Higo (Japanese: 肥後誠 Higo Makoto) is a Japanese voice actor for .",
+  "plainText": "Makoto Higo (Japanese: 肥後誠 Higo Makoto) is a Japanese voice actor for .\n\n==Biography==\nHigo was born on June 1, 1971, in , , and became a voice actor as an adult. He first provided the voice of Kai, one of the Invincible Pokémon Brothers, during , as well as Pokémon Chronicles. He then provided a couple more voices during , most notably that of Sid in the seventh movie. Higo was affiliated with the talent agency Ken Production, but is now with KeKKe Corporation.\n\n==Pokémon roles==\n===Animation===\n==== ====\nKai\nRomeo\nSid\n\n==Other non-Pokémon roles==\nTomoru Taguchi ( )\nNozomi Shimoyama, Seijin \"Mr. So\" Sopal, Tomomichi Yazawa ( )\nNishida, Nishimoto, Satou ( )\nRikaku ( )\nHashim ( )\nAkira Saiga ( )\n\n==External links==\nKeKKe Corporation profile\n\n \n\n \n\nit:Makoto Higo",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Makoto Higo (Japanese: 肥後誠 Higo Makoto) is a Japanese voice actor for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Higo was born on June 1, 1971, in , , and became a voice actor as an adult. He first provided the voice of Kai, one of the Invincible Pokémon Brothers, during , as well as Pokémon Chronicles. He then provided a couple more voices during , most notably that of Sid in the seventh movie. Higo was affiliated with the talent agency Ken Production, but is now with KeKKe Corporation."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Kai\nRomeo\nSid"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Tomoru Taguchi ( )\nNozomi Shimoyama, Seijin \"Mr. So\" Sopal, Tomomichi Yazawa ( )\nNishida, Nishimoto, Satou ( )\nRikaku ( )\nHashim ( )\nAkira Saiga ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "KeKKe Corporation profile\n\n \n\n \n\nit:Makoto Higo"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Makoto Higo",
+    "pageType": "general-anime-lore",
+    "searchableText": "Makoto Higo\nCategory:Japanese voice actors\nMakoto Higo (Japanese: 肥後誠 Higo Makoto) is a Japanese voice actor for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 771,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pikachu's Short Stories",
+    "slug": "pikachus-short-stories",
+    "pageId": 55851,
+    "revisionId": 4208757
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ani-Manga",
+    "sourceFileName": "pikachus-short-stories__55851.json",
+    "revisionTimestamp": "2024-12-22T19:19:42Z",
+    "fetchedAt": "2026-05-14T15:30:22.226Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "Pikachu's Short Stories (Japanese: ピカチュウ短編集 Pikachu's Short Stories) is a graphic novel retelling the plotlines of various Pikachu shorts.\n\nVolume 1 by Chuang Yi tells the story of PK01, PK04 and PK07. Volume 2 by Chuang Yi tells the story of PK10, PK11 and PK12.",
+  "plainText": "Pikachu's Short Stories (Japanese: ピカチュウ短編集 Pikachu's Short Stories) is a graphic novel retelling the plotlines of various Pikachu shorts.\n\nVolume 1 by Chuang Yi tells the story of PK01, PK04 and PK07. Volume 2 by Chuang Yi tells the story of PK10, PK11 and PK12.\n\n==Publications==\n \n \n \n \n\n \n\n \n\nit:Pikachu's Short Stories",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pikachu's Short Stories (Japanese: ピカチュウ短編集 Pikachu's Short Stories) is a graphic novel retelling the plotlines of various Pikachu shorts.\n\nVolume 1 by Chuang Yi tells the story of PK01, PK04 and PK07. Volume 2 by Chuang Yi tells the story of PK10, PK11 and PK12."
+    },
+    {
+      "heading": "Publications",
+      "level": 2,
+      "text": "it:Pikachu's Short Stories"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pikachu's Short Stories",
+    "pageType": "manga-series",
+    "searchableText": "Pikachu's Short Stories\nCategory:Ani-Manga\nPikachu's Short Stories (Japanese: ピカチュウ短編集 Pikachu's Short Stories) is a graphic novel retelling the plotlines of various Pikachu shorts.\n\nVolume 1 by Chuang Yi tells the story of PK01, PK04 and PK07. Volume 2 by Chuang Yi tells the story of PK10, PK11 and PK12.",
+    "sectionHeadings": [
+      "Lead",
+      "Publications"
+    ],
+    "characterCount": 323,
+    "sectionCount": 2
+  }
+}

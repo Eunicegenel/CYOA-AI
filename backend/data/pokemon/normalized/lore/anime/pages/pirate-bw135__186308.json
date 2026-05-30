@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pirate (BW135)",
+    "slug": "pirate-bw135",
+    "pageId": 186308,
+    "revisionId": 4470195
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Decolore Islands characters of the day",
+    "sourceFileName": "pirate-bw135__186308.json",
+    "revisionTimestamp": "2026-01-18T03:04:51Z",
+    "fetchedAt": "2026-05-14T14:41:57.065Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The pirate is a character of the day who appeared in Mystery on a Deserted Island!. As the name suggests, he was a pirate and the leader of a gang of Pokémon who inhabit a deserted island near Frond Island.\n\nThe pirate is depicted in a museum painting. He first appeared in a flashback when Alexa told and the story about how she found information about a hidden treasure while she went to a pirate museum; this treasure belonged to the pirate. Alexa told the group that he hid his treasure somewhere in the Decolore Islands and the deserted island they were heading to happened to be one of them. Afterwards, the pirate left behind a map, which Alexa retrieved while conducting some research.\n\nWhile on the deserted island, the group realized many of the Pokémon living there were actually the pirate's Pokémon, including a that had been his , which was now guarding the treasure. After solving several puzzles, the group located the pirate's treasure, a chest full of Evolution stones, in a hidden chamber within a mountain.",
+  "plainText": "The pirate is a character of the day who appeared in Mystery on a Deserted Island!. As the name suggests, he was a pirate and the leader of a gang of Pokémon who inhabit a deserted island near Frond Island.\n\nThe pirate is depicted in a museum painting. He first appeared in a flashback when Alexa told and the story about how she found information about a hidden treasure while she went to a pirate museum; this treasure belonged to the pirate. Alexa told the group that he hid his treasure somewhere in the Decolore Islands and the deserted island they were heading to happened to be one of them. Afterwards, the pirate left behind a map, which Alexa retrieved while conducting some research.\n\nWhile on the deserted island, the group realized many of the Pokémon living there were actually the pirate's Pokémon, including a that had been his , which was now guarding the treasure. After solving several puzzles, the group located the pirate's treasure, a chest full of Evolution stones, in a hidden chamber within a mountain.\n\n==Pokémon==\n \n \n\n \n\n \n\n \n\n \n \n\n \n \n \n \n\nit:Pirata\nzh:海盗（杰可罗拉群岛）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The pirate is a character of the day who appeared in Mystery on a Deserted Island!. As the name suggests, he was a pirate and the leader of a gang of Pokémon who inhabit a deserted island near Frond Island.\n\nThe pirate is depicted in a museum painting. He first appeared in a flashback when Alexa told and the story about how she found information about a hidden treasure while she went to a pirate museum; this treasure belonged to the pirate. Alexa told the group that he hid his treasure somewhere in the Decolore Islands and the deserted island they were heading to happened to be one of them. Afterwards, the pirate left behind a map, which Alexa retrieved while conducting some research.\n\nWhile on the deserted island, the group realized many of the Pokémon living there were actually the pirate's Pokémon, including a that had been his , which was now guarding the treasure. After solving several puzzles, the group located the pirate's treasure, a chest full of Evolution stones, in a hidden chamber within a mountain."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Pirata\nzh:海盗（杰可罗拉群岛）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pirate (BW135)",
+    "pageType": "character",
+    "searchableText": "Pirate (BW135)\nCategory:Decolore Islands characters of the day\nThe pirate is a character of the day who appeared in Mystery on a Deserted Island!. As the name suggests, he was a pirate and the leader of a gang of Pokémon who inhabit a deserted island near Frond Island.\n\nThe pirate is depicted in a museum painting. He first appeared in a flashback when Alexa told and the story about how she found information about a hidden treasure while she went to a pirate museum; this treasure belonged to the pirate. Alexa told the group that he hid his treasure somewhere in the Decolore Islands and the deserted island they were heading to happened to be one of them. Afterwards, the pirate left behind a map, which Alexa retrieved while conducting some research.\n\nWhile on the deserted island, the group realized many of the Pokémon living there were actually the pirate's Pokémon, including a that had been his , which was now guarding the treasure. After solving several puzzles, the group located the pirate's treasure, a chest full of Evolution stones, in a hidden chamber within a mountain.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 1091,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Luisa",
+    "slug": "luisa",
+    "pageId": 142698,
+    "revisionId": 4487321
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "luisa__142698.json",
+    "revisionTimestamp": "2026-02-16T01:49:57Z",
+    "fetchedAt": "2026-05-14T14:33:33.859Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Luisa (Japanese: セード Sed) is a minor supporting character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram. She is a little girl currently living in a desert.",
+  "plainText": "Luisa (Japanese: セード Sed) is a minor supporting character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram. She is a little girl currently living in a desert.\n\n==In the movies==\nIn the beginning of White—Victini and Zekrom, Damon returned Luisa's lost to her after he found it injured out in the desert. She also witnessed Damon, along with her father Ravine and the people of her village, summon in order to save them from a tornado. In Black—Victini and Reshiram, she is seen in a flashback of Damon's, where she gives him a small Blitzle charm.\n\nLuisa is later seen in both movies along with Ravine, Manuke, and the people of the frozen tundra, who all came to Eindoak Town to show their support for Damon's idea. She was also seen in the ending credits with Luis.\n\n===Pokémon===\n \n \n\n===Voice actors===\n \n\n==In the manga==\n===Movie adaptations===\nLuisa appears in the manga adaptation of , where she serves much the same role as she does in the movie.\n\n==In other languages==\n \n \n==Related articles==\nLuis\n\n \n \n\n \n\nes:Luisa\nit:Luisa",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Luisa (Japanese: セード Sed) is a minor supporting character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram. She is a little girl currently living in a desert."
+    },
+    {
+      "heading": "In the movies",
+      "level": 2,
+      "text": "In the beginning of White—Victini and Zekrom, Damon returned Luisa's lost to her after he found it injured out in the desert. She also witnessed Damon, along with her father Ravine and the people of her village, summon in order to save them from a tornado. In Black—Victini and Reshiram, she is seen in a flashback of Damon's, where she gives him a small Blitzle charm.\n\nLuisa is later seen in both movies along with Ravine, Manuke, and the people of the frozen tundra, who all came to Eindoak Town to show their support for Damon's idea. She was also seen in the ending credits with Luis."
+    },
+    {
+      "heading": "Movie adaptations",
+      "level": 3,
+      "text": "Luisa appears in the manga adaptation of , where she serves much the same role as she does in the movie."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Luis\n\n \n \n\n \n\nes:Luisa\nit:Luisa"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Luisa",
+    "pageType": "movie",
+    "searchableText": "Luisa\nCategory:Movie characters\nLuisa (Japanese: セード Sed) is a minor supporting character who appeared in White—Victini and Zekrom and Black—Victini and Reshiram. She is a little girl currently living in a desert.",
+    "sectionHeadings": [
+      "Lead",
+      "In the movies",
+      "Movie adaptations",
+      "Related articles"
+    ],
+    "characterCount": 1059,
+    "sectionCount": 4
+  }
+}

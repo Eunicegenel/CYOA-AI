@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMHGSS02",
+    "slug": "pmhgss02",
+    "pageId": 173125,
+    "revisionId": 4528409
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters HGSS chapters",
+    "sourceFileName": "pmhgss02__173125.json",
+    "revisionTimestamp": "2026-04-09T16:19:38Z",
+    "fetchedAt": "2026-05-14T15:32:52.100Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 激突！伝説の２大ポケモン Clash! The Two Great Legendary Pokémon) is the second chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 激突！伝説の２大ポケモン Clash! The Two Great Legendary Pokémon) is the second chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 激突！伝説の２大ポケモン Clash! The Two Great Legendary Pokémon) is the second chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMHGSS02",
+    "pageType": "chapter",
+    "searchableText": "PMHGSS02\nCategory:Pocket Monsters HGSS chapters\n(Japanese: 激突！伝説の２大ポケモン Clash! The Two Great Legendary Pokémon) is the second chapter of the manga created by created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 266,
+    "sectionCount": 2
+  }
+}

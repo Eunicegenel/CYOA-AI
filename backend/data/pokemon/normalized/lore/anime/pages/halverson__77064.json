@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Halverson",
+    "slug": "halverson",
+    "pageId": 77064,
+    "revisionId": 4373800
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "halverson__77064.json",
+    "revisionTimestamp": "2025-09-06T19:03:10Z",
+    "fetchedAt": "2026-05-14T14:21:45.432Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Halverson (Japanese: ハクア Hakua) is a character of the day who appeared in To Thine Own Pokémon Be True!.\n\nHalverson was one of the participants in the Pokémon Ping Pong Tournament with his . Their first opponent was Jessie, who was partnered with . Halverson and Marowak won by default after Jessie's disqualification and moved on to the second round. They would go on to be defeated by and in the third round.",
+  "plainText": "Halverson (Japanese: ハクア Hakua) is a character of the day who appeared in To Thine Own Pokémon Be True!.\n\nHalverson was one of the participants in the Pokémon Ping Pong Tournament with his . Their first opponent was Jessie, who was partnered with . Halverson and Marowak won by default after Jessie's disqualification and moved on to the second round. They would go on to be defeated by and in the third round.\n \n==Pokémon==\n \nThis listing is of Halverson's known Pokémon:\n \n\n==Pokémon competitions==\nHalverson has competed in the following :\nPokémon Ping Pong Tournament - Top 8 (To Thine Own Pokémon Be True!)\n\n==Voice actors==\n \n \n \n \n \n \n\nes:Halverson\nfr:Halverson\nit:Halverson\nzh:白亚",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Halverson (Japanese: ハクア Hakua) is a character of the day who appeared in To Thine Own Pokémon Be True!.\n\nHalverson was one of the participants in the Pokémon Ping Pong Tournament with his . Their first opponent was Jessie, who was partnered with . Halverson and Marowak won by default after Jessie's disqualification and moved on to the second round. They would go on to be defeated by and in the third round."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Halverson's known Pokémon:"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Halverson has competed in the following :\nPokémon Ping Pong Tournament - Top 8 (To Thine Own Pokémon Be True!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Halverson\nfr:Halverson\nit:Halverson\nzh:白亚"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Halverson",
+    "pageType": "character",
+    "searchableText": "Halverson\nCategory:Sinnoh characters of the day\nHalverson (Japanese: ハクア Hakua) is a character of the day who appeared in To Thine Own Pokémon Be True!.\n\nHalverson was one of the participants in the Pokémon Ping Pong Tournament with his . Their first opponent was Jessie, who was partnered with . Halverson and Marowak won by default after Jessie's disqualification and moved on to the second round. They would go on to be defeated by and in the third round.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 687,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Bonitaville",
+    "slug": "bonitaville",
+    "pageId": 32057,
+    "revisionId": 4487176
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "bonitaville__32057.json",
+    "revisionTimestamp": "2026-02-16T01:40:56Z",
+    "fetchedAt": "2026-05-14T14:05:48.287Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Bonitaville (Japanese: ブロウタウン Blow Town) is an -exclusive town in Johto. It is located between Goldenrod City and Ecruteak City. The town hosts the annual Pokémon Beauty Contest.\n\nFollowing on 's insistence, arrived in Bonitaville and met up with Suzie, from which Brock got his . Brock and Suzie decided to compete in the Pokémon Beauty Contest as a couple with Vulpix. Another and a friend of Suzie's, Zane, also entered the contest with his . After the contest, Brock returned Vulpix to Suzie.",
+  "plainText": "Bonitaville (Japanese: ブロウタウン Blow Town) is an -exclusive town in Johto. It is located between Goldenrod City and Ecruteak City. The town hosts the annual Pokémon Beauty Contest.\n\nFollowing on 's insistence, arrived in Bonitaville and met up with Suzie, from which Brock got his . Brock and Suzie decided to compete in the Pokémon Beauty Contest as a couple with Vulpix. Another and a friend of Suzie's, Zane, also entered the contest with his . After the contest, Brock returned Vulpix to Suzie.\n\n==Names==\n \n\n \n \n \n\nde:Bona City\nes:Villa Bonita\nit:Bonitaville\nzh:布羅鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Bonitaville (Japanese: ブロウタウン Blow Town) is an -exclusive town in Johto. It is located between Goldenrod City and Ecruteak City. The town hosts the annual Pokémon Beauty Contest.\n\nFollowing on 's insistence, arrived in Bonitaville and met up with Suzie, from which Brock got his . Brock and Suzie decided to compete in the Pokémon Beauty Contest as a couple with Vulpix. Another and a friend of Suzie's, Zane, also entered the contest with his . After the contest, Brock returned Vulpix to Suzie."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "de:Bona City\nes:Villa Bonita\nit:Bonitaville\nzh:布羅鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bonitaville",
+    "pageType": "location",
+    "searchableText": "Bonitaville\nCategory:Animated series-exclusive locations\nBonitaville (Japanese: ブロウタウン Blow Town) is an -exclusive town in Johto. It is located between Goldenrod City and Ecruteak City. The town hosts the annual Pokémon Beauty Contest.\n\nFollowing on 's insistence, arrived in Bonitaville and met up with Suzie, from which Brock got his . Brock and Suzie decided to compete in the Pokémon Beauty Contest as a couple with Vulpix. Another and a friend of Suzie's, Zane, also entered the contest with his . After the contest, Brock returned Vulpix to Suzie.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 568,
+    "sectionCount": 2
+  }
+}

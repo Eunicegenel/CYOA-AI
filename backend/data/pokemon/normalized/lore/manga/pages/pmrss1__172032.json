@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PMRSs1",
+    "slug": "pmrss1",
+    "pageId": 172032,
+    "revisionId": 4264668
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrss1__172032.json",
+    "revisionTimestamp": "2025-03-23T18:35:31Z",
+    "fetchedAt": "2026-05-14T15:33:52.677Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy, Form Teacher Of Class 1P!! (Japanese: 1年P組ピッピ先生 Class 1P, Teacher Clefairy) is the first special chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Clefairy, Form Teacher Of Class 1P!! (Japanese: 1年P組ピッピ先生 Class 1P, Teacher Clefairy) is the first special chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nBrock\nMisty\nStudents\n\n===Pokémon===\n( )\n(Red's Clefairy's father)\n\n==Trivia==\nis absent from this chapter.\nand are absent as well for the first time since their debuts.\n\n \n\n \n \n\nit:PMRSs1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy, Form Teacher Of Class 1P!! (Japanese: 1年P組ピッピ先生 Class 1P, Teacher Clefairy) is the first special chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Brock\nMisty\nStudents"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's Clefairy's father)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "is absent from this chapter.\nand are absent as well for the first time since their debuts.\n\n \n\n \n \n\nit:PMRSs1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRSs1",
+    "pageType": "chapter",
+    "searchableText": "PMRSs1\nCategory:Pokémon Ruby-Sapphire chapters\nClefairy, Form Teacher Of Class 1P!! (Japanese: 1年P組ピッピ先生 Class 1P, Teacher Clefairy) is the first special chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 436,
+    "sectionCount": 4
+  }
+}

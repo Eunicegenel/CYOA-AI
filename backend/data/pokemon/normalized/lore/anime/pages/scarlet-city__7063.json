@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Scarlet City",
+    "slug": "scarlet-city",
+    "pageId": 7063,
+    "revisionId": 4463377
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "scarlet-city__7063.json",
+    "revisionTimestamp": "2026-01-06T19:14:51Z",
+    "fetchedAt": "2026-05-14T14:48:39.002Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Scarlet City (Japanese: カクイシティ Kakui City) is an -exclusive city in Johto located at the southern end of Red Rock Isle. The Whirl Cup is held here once every three years in a massive colosseum, to commemorate Scarlet City's historic connection to the sea. It first appeared at the end of Mantine Overboard!, as and arrived at Red Rock Isle.\n\nLarge, white, stone buildings with orange roofs are the predominant architectural style in Scarlet City. Its streets are paved with white flagstone pavers. Ash and his friends stayed at the local Pokémon Center, which is perched on a cliff that overlooks the main city.\n\nIn Octillery The Outcast, the group met Marcellus, a local and an enthusiastic collector. A practice against and her led Marcellus's Remoraid to evolve into an . Marcellus later escorted them to his local mansion.",
+  "plainText": "Scarlet City (Japanese: カクイシティ Kakui City) is an -exclusive city in Johto located at the southern end of Red Rock Isle. The Whirl Cup is held here once every three years in a massive colosseum, to commemorate Scarlet City's historic connection to the sea. It first appeared at the end of Mantine Overboard!, as and arrived at Red Rock Isle.\n\nLarge, white, stone buildings with orange roofs are the predominant architectural style in Scarlet City. Its streets are paved with white flagstone pavers. Ash and his friends stayed at the local Pokémon Center, which is perched on a cliff that overlooks the main city.\n\nIn Octillery The Outcast, the group met Marcellus, a local and an enthusiastic collector. A practice against and her led Marcellus's Remoraid to evolve into an . Marcellus later escorted them to his local mansion.\n\n==Places of interest==\n===Whirl Cup Colosseum===\n \nScarlet City's massive Colosseum is an ancient battlefield and is fully visible during times of low tide. It was the focus in Dueling Heroes and The Perfect Match! as the Whirl Cup took place. and the other Sea Priestesses watched over the event. Ash and Misty advanced far into the competition, though Marcellus failed to pass the preliminaries.\n\n==Gallery==\n \n\n==In other languages==\n \n \n \n\n \n \n\nde:Scarlet City\nes:Ciudad Escarlata\nit:Città Scarlatta\nzh:卡可市",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Scarlet City (Japanese: カクイシティ Kakui City) is an -exclusive city in Johto located at the southern end of Red Rock Isle. The Whirl Cup is held here once every three years in a massive colosseum, to commemorate Scarlet City's historic connection to the sea. It first appeared at the end of Mantine Overboard!, as and arrived at Red Rock Isle.\n\nLarge, white, stone buildings with orange roofs are the predominant architectural style in Scarlet City. Its streets are paved with white flagstone pavers. Ash and his friends stayed at the local Pokémon Center, which is perched on a cliff that overlooks the main city.\n\nIn Octillery The Outcast, the group met Marcellus, a local and an enthusiastic collector. A practice against and her led Marcellus's Remoraid to evolve into an . Marcellus later escorted them to his local mansion."
+    },
+    {
+      "heading": "Whirl Cup Colosseum",
+      "level": 3,
+      "text": "Scarlet City's massive Colosseum is an ancient battlefield and is fully visible during times of low tide. It was the focus in Dueling Heroes and The Perfect Match! as the Whirl Cup took place. and the other Sea Priestesses watched over the event. Ash and Misty advanced far into the competition, though Marcellus failed to pass the preliminaries."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Scarlet City\nes:Ciudad Escarlata\nit:Città Scarlatta\nzh:卡可市"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Scarlet City",
+    "pageType": "location",
+    "searchableText": "Scarlet City\nCategory:Animated series-exclusive locations\nScarlet City (Japanese: カクイシティ Kakui City) is an -exclusive city in Johto located at the southern end of Red Rock Isle. The Whirl Cup is held here once every three years in a massive colosseum, to commemorate Scarlet City's historic connection to the sea. It first appeared at the end of Mantine Overboard!, as and arrived at Red Rock Isle.\n\nLarge, white, stone buildings with orange roofs are the predominant architectural style in Scarlet City. Its streets are paved with white flagstone pavers. Ash and his friends stayed at the local Pokémon Center, which is perched on a cliff that overlooks the main city.\n\nIn Octillery The Outcast, the group met Marcellus, a local and an enthusiastic collector. A practice against and her led Marcellus's Remoraid to evolve into an . Marcellus later escorted them to his local mansion.",
+    "sectionHeadings": [
+      "Lead",
+      "Whirl Cup Colosseum",
+      "In other languages"
+    ],
+    "characterCount": 1338,
+    "sectionCount": 3
+  }
+}

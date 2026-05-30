@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PBK2",
+    "slug": "pbk2",
+    "pageId": 176463,
+    "revisionId": 4527999
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Platinum: Aim to be Battle King!! chapters",
+    "sourceFileName": "pbk2__176463.json",
+    "revisionTimestamp": "2026-04-09T16:02:02Z",
+    "fetchedAt": "2026-05-14T15:29:24.579Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 攻略！バトルタワー！！ Walkthrough! Battle Tower!!) is the second chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga.",
+  "plainText": "(Japanese: 攻略！バトルタワー！！ Walkthrough! Battle Tower!!) is the second chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nYū Shirogane\n\n===Pokémon===\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 攻略！バトルタワー！！ Walkthrough! Battle Tower!!) is the second chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Yū Shirogane"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PBK2",
+    "pageType": "chapter",
+    "searchableText": "PBK2\nCategory:Pocket Monsters Platinum: Aim to be Battle King!! chapters\n(Japanese: 攻略！バトルタワー！！ Walkthrough! Battle Tower!!) is the second chapter of the Pocket Monsters Platinum: Aim to Be Battle King!! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 266,
+    "sectionCount": 3
+  }
+}

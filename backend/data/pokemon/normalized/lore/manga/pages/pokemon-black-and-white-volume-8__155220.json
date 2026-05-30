@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Black and White volume 8",
+    "slug": "pokemon-black-and-white-volume-8",
+    "pageId": 155220,
+    "revisionId": 4132474
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-black-and-white-volume-8__155220.json",
+    "revisionTimestamp": "2024-09-29T05:22:30Z",
+    "fetchedAt": "2026-05-14T15:36:06.505Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 8 is the eighth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 8 is the eighth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n \n\n==Chapters==\nAdventure 25 - Gigi's Choice\nAdventure 26 - Unraveling Mysteries\nAdventure 27 - A New Perspective\nAdventure 28 - Growing Pains\n\n==Party changes==\n===Additions===\n's Servine \" \" in PS485.\ncatches a \"Costa\", formerly Marshal's in PS488. \nWhite catches a \"Darlene\" in PS488.\n\n \n \n\nde:Band 8 (Pokémon Black and White)\nes:Tomo 8 (Pokémon Black and White)\nfr:Volume 8 (Pokémon Black and White)\nit:Pokémon Nero e Bianco volume 8",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 8 is the eighth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 25 - Gigi's Choice\nAdventure 26 - Unraveling Mysteries\nAdventure 27 - A New Perspective\nAdventure 28 - Growing Pains"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "'s Servine \" \" in PS485.\ncatches a \"Costa\", formerly Marshal's in PS488. \nWhite catches a \"Darlene\" in PS488.\n\n \n \n\nde:Band 8 (Pokémon Black and White)\nes:Tomo 8 (Pokémon Black and White)\nfr:Volume 8 (Pokémon Black and White)\nit:Pokémon Nero e Bianco volume 8"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Black and White volume 8",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Black and White volume 8\nCategory:Pokémon Adventures volumes\nVolume 8 is the eighth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions"
+    ],
+    "characterCount": 857,
+    "sectionCount": 3
+  }
+}

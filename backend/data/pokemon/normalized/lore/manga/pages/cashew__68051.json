@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Cashew",
+    "slug": "cashew",
+    "pageId": 68051,
+    "revisionId": 4528109
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey characters",
+    "sourceFileName": "cashew__68051.json",
+    "revisionTimestamp": "2026-04-09T16:07:17Z",
+    "fetchedAt": "2026-05-14T15:15:00.871Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Cashew (Japanese: クコ Kuko) is a character in the manga Magical Pokémon Journey. She is the owner of twenty-six .",
+  "plainText": "Cashew (Japanese: クコ Kuko) is a character in the manga Magical Pokémon Journey. She is the owner of twenty-six . \n\n==History==\nCashew first appears in PokéMom, in which Hazel and Almond babysit her Hoppip.\n \n==Character==\nHer biggest dream is to get married. One day when she had made plans to go on a picnic with her Hoppip, her matchmaker called with a sudden appointment. Hazel volunteered to take Cashew's place and babysit her Hoppip while she attended the appointment. Cashew returned heartbroken, for she had been turned down again. However, while she was gone Hazel had taken the Hoppip to Pompom Hill, where they picked a bouquet of carnations for Cashew for Mother's Day. They presented the bouquet to her, which was able to cheer her up. She constantly dreams of marriage.\n\n==Pokémon==\n \n\n==Related articles==\n \n \n \n \n\nit:Cashew",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Cashew (Japanese: クコ Kuko) is a character in the manga Magical Pokémon Journey. She is the owner of twenty-six ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Cashew first appears in PokéMom, in which Hazel and Almond babysit her Hoppip."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Her biggest dream is to get married. One day when she had made plans to go on a picnic with her Hoppip, her matchmaker called with a sudden appointment. Hazel volunteered to take Cashew's place and babysit her Hoppip while she attended the appointment. Cashew returned heartbroken, for she had been turned down again. However, while she was gone Hazel had taken the Hoppip to Pompom Hill, where they picked a bouquet of carnations for Cashew for Mother's Day. They presented the bouquet to her, which was able to cheer her up. She constantly dreams of marriage."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Cashew"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Cashew",
+    "pageType": "character",
+    "searchableText": "Cashew\nCategory:Magical Pokémon Journey characters\nCashew (Japanese: クコ Kuko) is a character in the manga Magical Pokémon Journey. She is the owner of twenty-six .",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Related articles"
+    ],
+    "characterCount": 839,
+    "sectionCount": 4
+  }
+}

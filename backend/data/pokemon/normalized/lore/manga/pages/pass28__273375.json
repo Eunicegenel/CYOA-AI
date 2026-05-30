@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PASS28",
+    "slug": "pass28",
+    "pageId": 273375,
+    "revisionId": 4528629
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pass28__273375.json",
+    "revisionTimestamp": "2026-04-09T16:31:43Z",
+    "fetchedAt": "2026-05-14T15:28:57.056Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Splash!! The Return of the Two Pokémon (Japanese: ザブザブ！！帰ってきた2匹 Splash!! Those Two Have Returned) is the 28th chapter of the of the Pokémon Adventures manga.",
+  "plainText": "Splash!! The Return of the Two Pokémon (Japanese: ザブザブ！！帰ってきた2匹 Splash!! Those Two Have Returned) is the 28th chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n \n\n==Major events==\nLeon, the Gym Leaders, and the s battle .\nfinds her , Giga, and , Mega.\nGiga and Mega give the Rusted Sword and Shield.\n\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHenry\nCasey\nHop\nBede\nMarnie\nSonia \nNessa\nMelony\nPiers\nRaihan \nLeon \nOleana\nRose \nSordward\nShielbert\n\n===Pokémon===\n( )\n(Giga; 's)\n(Mega; Galarian Form; 's)\n(Bede's)\n( ; Marnie's)\n(Hop's)\n(Bede's; evolves)\n(Bede's; newly evolved)\n( ; Marnie's)\n(Marnie's)\n(Nessa's)\n(Nessa's)\n(Melony's)\n(Piers's)\n(Raihan's)\n(Leon's)\n(Rose's)\n(Rose's; Gigantamax)\n( ; flashback)\n( ; flashback)\n\n==Trivia==\n \n \n \n\nde:Episode 28 (Pokémon Schwert und Schild – Der Manga)\nes:PMSSwSh28\nit:PASS28\nzh:宝可梦特别篇 剑·盾篇 第28话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Splash!! The Return of the Two Pokémon (Japanese: ザブザブ！！帰ってきた2匹 Splash!! Those Two Have Returned) is the 28th chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Leon, the Gym Leaders, and the s battle .\nfinds her , Giga, and , Mega.\nGiga and Mega give the Rusted Sword and Shield."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Henry\nCasey\nHop\nBede\nMarnie\nSonia \nNessa\nMelony\nPiers\nRaihan \nLeon \nOleana\nRose \nSordward\nShielbert"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Giga; 's)\n(Mega; Galarian Form; 's)\n(Bede's)\n( ; Marnie's)\n(Hop's)\n(Bede's; evolves)\n(Bede's; newly evolved)\n( ; Marnie's)\n(Marnie's)\n(Nessa's)\n(Nessa's)\n(Melony's)\n(Piers's)\n(Raihan's)\n(Leon's)\n(Rose's)\n(Rose's; Gigantamax)\n( ; flashback)\n( ; flashback)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Episode 28 (Pokémon Schwert und Schild – Der Manga)\nes:PMSSwSh28\nit:PASS28\nzh:宝可梦特别篇 剑·盾篇 第28话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASS28",
+    "pageType": "chapter",
+    "searchableText": "PASS28\nCategory:Pokémon Adventures chapters\nSplash!! The Return of the Two Pokémon (Japanese: ザブザブ！！帰ってきた2匹 Splash!! Those Two Have Returned) is the 28th chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 888,
+    "sectionCount": 5
+  }
+}

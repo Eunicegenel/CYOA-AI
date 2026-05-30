@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon RéBURST volume 6",
+    "slug": "pokemon-reburst-volume-6",
+    "pageId": 163546,
+    "revisionId": 3406532
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST volumes",
+    "sourceFileName": "pokemon-reburst-volume-6__163546.json",
+    "revisionTimestamp": "2021-10-01T19:03:28Z",
+    "fetchedAt": "2026-05-14T15:37:30.530Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 6 is the sixth volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+  "plainText": "Volume 6 is the sixth volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 01 (48): Mother\nChapter 02 (49): Mysterious Beauty, Rug\nChapter 03 (50): 2 Against 1\nChapter 04 (51): The Stolen Heart\nChapter 05 (52): The Path We Should Choose\nChapter 06 (53): The Strongman Tournament\nChapter 07 (54): To Lose is to Win?\nChapter 08 (55): The Closed Path\nChapter 09 (56): The Assassin Hired by Garyū\nChapter 10 (57): Legendary Pokémon\n \n\n \n \n \n\nit:Pokémon RéBURST volume 6",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 6 is the sixth volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 01 (48): Mother\nChapter 02 (49): Mysterious Beauty, Rug\nChapter 03 (50): 2 Against 1\nChapter 04 (51): The Stolen Heart\nChapter 05 (52): The Path We Should Choose\nChapter 06 (53): The Strongman Tournament\nChapter 07 (54): To Lose is to Win?\nChapter 08 (55): The Closed Path\nChapter 09 (56): The Assassin Hired by Garyū\nChapter 10 (57): Legendary Pokémon\n \n\n \n \n \n\nit:Pokémon RéBURST volume 6"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon RéBURST volume 6",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon RéBURST volume 6\nCategory:Pokémon RéBURST volumes\nVolume 6 is the sixth volume of the Pokémon RéBURST manga written by Jin Kusude and illustrated by Mitsuhisa Tamura.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 551,
+    "sectionCount": 2
+  }
+}

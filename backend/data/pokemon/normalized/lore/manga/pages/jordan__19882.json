@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Jordan",
+    "slug": "jordan",
+    "pageId": 19882,
+    "revisionId": 4509586
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "jordan__19882.json",
+    "revisionTimestamp": "2026-03-16T07:51:25Z",
+    "fetchedAt": "2026-05-14T15:23:00.406Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Jordan (Japanese: サスケ Sasuke) is a character in . He is one of the judges of the Pokémon Super Contests. His design is based on that of the .",
+  "plainText": "Jordan (Japanese: サスケ Sasuke) is a character in . He is one of the judges of the Pokémon Super Contests. His design is based on that of the .\n\n==In the games==\nJordan appears in . After the has received a Poffin Case from the of the Hearthome City Pokémon Fan Club, Jordan will give them a level 60 Mild Poffin with 40 smoothness when talked to. It is a unique Poffin that raises all of the five condition stats at once, which is impossible for Poffins that were made by the player.\n\n===Items given===\n \n \n \n\n===Quotes===\nIf the player has not received a Poffin Case\n\"You're going to enter Contests? But I don't see a Poffin Case. It could be tough for you to win Contests without it. But if you're determined to enter, don't let me stop you. It wouldn't hurt to get in some practice at the counter on the right.\"\n\nIf the player has received a Poffin Case\n\"You're going to enter Contests? And, yup, you have a Poffin Case. Let me gift you with this fabulously wonderful Poffin!\"\n\"Feed that Poffin to a Pokémon you're going to enter in Contests. Oh, and a word of advice for you. Go take a run at the Contests! However, the best way to get ready is to get some practice first. You can take practice sessions at the counter on the right.\"\n\"Like everything else, the basics are important. It takes practice to win Contests!\"\n\nIf the player's Poffin Case is full\n\"Oh, no. Your Poffin Case is full. I'll give it to you another time. Oh, and a word of advice. Go take a run at the Contests! ...That isn't much of a strategy. You might want some practice first. You can take practice sessions at the counter on the right.\"\n\n===Sprites===\n \n\n==In the manga==\n===Pokémon Adventures===\n==== ====\nJordan is a judge for the Pokémon Super Contests, similar to his in-game role. He debuted in Perturbed by Pachirisu, in which he is seen judging a Normal Rank Coolness Contest. In Double Trouble with Dialga and Palkia V, he is seen with his fellow Contest Judges at the Lost Tower after having been sent there because of the fight between and that caused time and space to distort.\n\n===Pokémon Diamond and Pearl Adventure!===\nJordan appears in Beauty Contest: The Pokémon Super Contest!! along with Dexter and Keira judging a Pokémon Super Contest in which Hareta and were participating.\n\n==Names==\n \n \n\n==Related articles==\n \n \n \n\n \n \n \n \n\nde:Eric\nes:Claus\nit:Jordan\nja:サスケ\nzh:佐助",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jordan (Japanese: サスケ Sasuke) is a character in . He is one of the judges of the Pokémon Super Contests. His design is based on that of the ."
+    },
+    {
+      "heading": "In the games",
+      "level": 2,
+      "text": "Jordan appears in . After the has received a Poffin Case from the of the Hearthome City Pokémon Fan Club, Jordan will give them a level 60 Mild Poffin with 40 smoothness when talked to. It is a unique Poffin that raises all of the five condition stats at once, which is impossible for Poffins that were made by the player."
+    },
+    {
+      "heading": "Quotes",
+      "level": 3,
+      "text": "If the player has not received a Poffin Case\n\"You're going to enter Contests? But I don't see a Poffin Case. It could be tough for you to win Contests without it. But if you're determined to enter, don't let me stop you. It wouldn't hurt to get in some practice at the counter on the right.\"\n\nIf the player has received a Poffin Case\n\"You're going to enter Contests? And, yup, you have a Poffin Case. Let me gift you with this fabulously wonderful Poffin!\"\n\"Feed that Poffin to a Pokémon you're going to enter in Contests. Oh, and a word of advice for you. Go take a run at the Contests! However, the best way to get ready is to get some practice first. You can take practice sessions at the counter on the right.\"\n\"Like everything else, the basics are important. It takes practice to win Contests!\"\n\nIf the player's Poffin Case is full\n\"Oh, no. Your Poffin Case is full. I'll give it to you another time. Oh, and a word of advice. Go take a run at the Contests! ...That isn't much of a strategy. You might want some practice first. You can take practice sessions at the counter on the right.\""
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Jordan is a judge for the Pokémon Super Contests, similar to his in-game role. He debuted in Perturbed by Pachirisu, in which he is seen judging a Normal Rank Coolness Contest. In Double Trouble with Dialga and Palkia V, he is seen with his fellow Contest Judges at the Lost Tower after having been sent there because of the fight between and that caused time and space to distort."
+    },
+    {
+      "heading": "Pokémon Diamond and Pearl Adventure!",
+      "level": 3,
+      "text": "Jordan appears in Beauty Contest: The Pokémon Super Contest!! along with Dexter and Keira judging a Pokémon Super Contest in which Hareta and were participating."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Eric\nes:Claus\nit:Jordan\nja:サスケ\nzh:佐助"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jordan",
+    "pageType": "character",
+    "searchableText": "Jordan\nCategory:Pokémon Adventures characters\nJordan (Japanese: サスケ Sasuke) is a character in . He is one of the judges of the Pokémon Super Contests. His design is based on that of the .",
+    "sectionHeadings": [
+      "Lead",
+      "In the games",
+      "Quotes",
+      "",
+      "Pokémon Diamond and Pearl Adventure!",
+      "Related articles"
+    ],
+    "characterCount": 2366,
+    "sectionCount": 6
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW20",
+    "slug": "pmbw20",
+    "pageId": 171706,
+    "revisionId": 4527998
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw20__171706.json",
+    "revisionTimestamp": "2026-04-09T16:02:02Z",
+    "fetchedAt": "2026-05-14T15:31:55.942Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: クリスマスケーキが食べたい！！ I Want to Eat the Christmas Cake!!) is the twentieth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: クリスマスケーキが食べたい！！ I Want to Eat the Christmas Cake!!) is the twentieth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: クリスマスケーキが食べたい！！ I Want to Eat the Christmas Cake!!) is the twentieth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW20",
+    "pageType": "chapter",
+    "searchableText": "PMBW20\nCategory:Pocket Monsters BW chapters\n(Japanese: クリスマスケーキが食べたい！！ I Want to Eat the Christmas Cake!!) is the twentieth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 257,
+    "sectionCount": 2
+  }
+}

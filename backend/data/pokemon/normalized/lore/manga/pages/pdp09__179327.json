@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PDP09",
+    "slug": "pdp09",
+    "pageId": 179327,
+    "revisionId": 4131429
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters Diamond & Pearl chapters",
+    "sourceFileName": "pdp09__179327.json",
+    "revisionTimestamp": "2024-09-29T04:19:20Z",
+    "fetchedAt": "2026-05-14T15:29:41.014Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 水をほりおこせ Dig up the Water) is the ninth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+  "plainText": "(Japanese: 水をほりおこせ Dig up the Water) is the ninth chapter of the manga created by 坂井 孝行 Sakai Takayuki.\n\n==Plot==\nAsh and Dawn stagger through a desert, desperate for water. Suddenly, they find a group of Budew, Roselia, and a Roserade all lying unconscious from the heat. Roserade is in especially poor condition, and Ash tells Dawn to bring out Piplup. She calls for a , but it is not enough to re-hydrate the Pokémon. The trainers ponder what to do and notice holes nearby. They think that perhaps Roserade and the others were digging for water in the area, and that there may be water nearby. Ash calls for Pikachu to use a diving into the ground, which makes the hole larger. The trainers continue to dig until they grow faint. Ash and Pikachu collapse, but Dawn desperately continues digging. She too collapses, next to Roserade. A tear escapes her eyes as she cries for water, and Roserade hears this. It leaps up and uses into the ground, causing a geyser to spring up and save everyone.\n\n==Major events==\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n\n(multiple)\n(multiple)\n\n \n\n \n\nit:PDP09",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 水をほりおこせ Dig up the Water) is the ninth chapter of the manga created by 坂井 孝行 Sakai Takayuki."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Ash and Dawn stagger through a desert, desperate for water. Suddenly, they find a group of Budew, Roselia, and a Roserade all lying unconscious from the heat. Roserade is in especially poor condition, and Ash tells Dawn to bring out Piplup. She calls for a , but it is not enough to re-hydrate the Pokémon. The trainers ponder what to do and notice holes nearby. They think that perhaps Roserade and the others were digging for water in the area, and that there may be water nearby. Ash calls for Pikachu to use a diving into the ground, which makes the hole larger. The trainers continue to dig until they grow faint. Ash and Pikachu collapse, but Dawn desperately continues digging. She too collapses, next to Roserade. A tear escapes her eyes as she cries for water, and Roserade hears this. It leaps up and uses into the ground, causing a geyser to spring up and save everyone."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n\n(multiple)\n(multiple)\n\n \n\n \n\nit:PDP09"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PDP09",
+    "pageType": "chapter",
+    "searchableText": "PDP09\nCategory:Pocket Monsters Diamond & Pearl chapters\n(Japanese: 水をほりおこせ Dig up the Water) is the ninth chapter of the manga created by 坂井 孝行 Sakai Takayuki.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Pokémon"
+    ],
+    "characterCount": 1140,
+    "sectionCount": 3
+  }
+}

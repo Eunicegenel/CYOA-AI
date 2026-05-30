@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PSs1",
+    "slug": "pss1",
+    "pageId": 179279,
+    "revisionId": 4265890
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pss1__179279.json",
+    "revisionTimestamp": "2025-03-25T00:09:43Z",
+    "fetchedAt": "2026-05-14T15:46:26.635Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: シロガネ山修業編 《前篇》 The Training Chapter (Part 1)) is the first special chapter of the Pokémon Adventures manga taking place during and 's training on Mt. Silver. This chapter was first published in Pokémon the Comic on June 7, 2013, and was the result of Red and Pika respectively winning the human and Pokémon sections on the 2011 Netkun popularity poll.",
+  "plainText": "(Japanese: シロガネ山修業編 《前篇》 The Training Chapter (Part 1)) is the first special chapter of the Pokémon Adventures manga taking place during and 's training on Mt. Silver. This chapter was first published in Pokémon the Comic on June 7, 2013, and was the result of Red and Pika respectively winning the human and Pokémon sections on the 2011 Netkun popularity poll.\n\n==Plot==\n \n\n==Major events==\nand continue their Mt. Silver training.\nHirō attempts to interview , much to 's annoyance.\nPibu is kidnapped by someone, who proceeds to knock the wind out of .\nand Pika attempt to rescue Pibu.\nThe attackers are revealed to be a wild and .\n\n \n \n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n(flashback)\n(flashback)\n(flashback)\n\n(flashback)\n(flashback)\nHirō\n\n===Pokémon===\n(Poli; 's)\n(Saur; 's)\n(Pika; 's)\n(Snor/ ; 's)\n(Gyara; 's)\n(Aero; 's)\n(Chuchu; 's; flashback)\n(Pibu; 's)\n\n(fantasy)\n(fantasy)\n(fantasy)\n\n==Trivia==\nThis chapter takes place chronologically somewhere between chapters PS180 and PS181 of the Pokémon Adventures manga.\n\n \n \n\n \n\nes:EPMS01\nzh:白银山修行篇（上篇）",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: シロガネ山修業編 《前篇》 The Training Chapter (Part 1)) is the first special chapter of the Pokémon Adventures manga taking place during and 's training on Mt. Silver. This chapter was first published in Pokémon the Comic on June 7, 2013, and was the result of Red and Pika respectively winning the human and Pokémon sections on the 2011 Netkun popularity poll."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and continue their Mt. Silver training.\nHirō attempts to interview , much to 's annoyance.\nPibu is kidnapped by someone, who proceeds to knock the wind out of .\nand Pika attempt to rescue Pibu.\nThe attackers are revealed to be a wild and ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(flashback)\n(flashback)\n(flashback)\n\n(flashback)\n(flashback)\nHirō"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Poli; 's)\n(Saur; 's)\n(Pika; 's)\n(Snor/ ; 's)\n(Gyara; 's)\n(Aero; 's)\n(Chuchu; 's; flashback)\n(Pibu; 's)\n\n(fantasy)\n(fantasy)\n(fantasy)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This chapter takes place chronologically somewhere between chapters PS180 and PS181 of the Pokémon Adventures manga.\n\n \n \n\n \n\nes:EPMS01\nzh:白银山修行篇（上篇）"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PSs1",
+    "pageType": "chapter",
+    "searchableText": "PSs1\nCategory:Pokémon Adventures chapters\n(Japanese: シロガネ山修業編 《前篇》 The Training Chapter (Part 1)) is the first special chapter of the Pokémon Adventures manga taking place during and 's training on Mt. Silver. This chapter was first published in Pokémon the Comic on June 7, 2013, and was the result of Red and Pika respectively winning the human and Pokémon sections on the 2011 Netkun popularity poll.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 1082,
+    "sectionCount": 5
+  }
+}

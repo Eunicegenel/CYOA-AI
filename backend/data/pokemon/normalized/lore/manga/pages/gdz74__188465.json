@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "GDZ74",
+    "slug": "gdz74",
+    "pageId": 188465,
+    "revisionId": 4527823
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! chapters",
+    "sourceFileName": "gdz74__188465.json",
+    "revisionTimestamp": "2026-04-09T15:55:12Z",
+    "fetchedAt": "2026-05-14T15:20:08.592Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ニューラのくせはこまりもの！ 's Troublesome Habit!) is the 74th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+  "plainText": "(Japanese: ニューラのくせはこまりもの！ 's Troublesome Habit!) is the 74th chapter of the Pokémon: Yeah! I Got Pokémon! manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nShu\n\n===Pokémon===\n( )\n(Shu's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ニューラのくせはこまりもの！ 's Troublesome Habit!) is the 74th chapter of the Pokémon: Yeah! I Got Pokémon! manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Shu"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Shu's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GDZ74",
+    "pageType": "chapter",
+    "searchableText": "GDZ74\nCategory:Pokémon: Yeah! I Got Pokémon! chapters\n(Japanese: ニューラのくせはこまりもの！ 's Troublesome Habit!) is the 74th chapter of the Pokémon: Yeah! I Got Pokémon! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 240,
+    "sectionCount": 3
+  }
+}

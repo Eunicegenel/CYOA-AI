@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Simeon",
+    "slug": "simeon",
+    "pageId": 166051,
+    "revisionId": 4200663
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "simeon__166051.json",
+    "revisionTimestamp": "2024-12-11T21:59:22Z",
+    "fetchedAt": "2026-05-14T14:49:55.535Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Simeon (Japanese: シオザキ Shiozaki) is a minor recurring character in .\n\nHe first appeared in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup and was Horatio's first opponent. However, he was defeated by him and eliminated from the tournament. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.",
+  "plainText": "Simeon (Japanese: シオザキ Shiozaki) is a minor recurring character in .\n\nHe first appeared in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup and was Horatio's first opponent. However, he was defeated by him and eliminated from the tournament. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.\n\n==Pokémon==\n \n\n==Pokémon competitions==\nSimeon has competed in the following :\nPokémon World Tournament Junior Cup - Top 16 (Jostling for the Junior Cup!)\n\n \n\n \n \n \n\nes:Simeon/Simeón\nfr:Alexandre\nit:Simeon",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Simeon (Japanese: シオザキ Shiozaki) is a minor recurring character in .\n\nHe first appeared in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup and was Horatio's first opponent. However, he was defeated by him and eliminated from the tournament. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Simeon has competed in the following :\nPokémon World Tournament Junior Cup - Top 16 (Jostling for the Junior Cup!)\n\n \n\n \n \n \n\nes:Simeon/Simeón\nfr:Alexandre\nit:Simeon"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Simeon",
+    "pageType": "character",
+    "searchableText": "Simeon\nCategory:Animation characters\nSimeon (Japanese: シオザキ Shiozaki) is a minor recurring character in .\n\nHe first appeared in Jostling for the Junior Cup!, where he participated in the Pokémon World Tournament Junior Cup and was Horatio's first opponent. However, he was defeated by him and eliminated from the tournament. He made a cameo appearance in Goodbye, Junior Cup - Hello Adventure!, where he lined up with all the other competitors in front of Alder, Cynthia, Caitlin and Freddy O'Martian.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon competitions"
+    ],
+    "characterCount": 671,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMRS08",
+    "slug": "pmrs08",
+    "pageId": 155684,
+    "revisionId": 4264611
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Ruby-Sapphire chapters",
+    "sourceFileName": "pmrs08__155684.json",
+    "revisionTimestamp": "2025-03-23T18:27:04Z",
+    "fetchedAt": "2026-05-14T15:33:12.789Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Esper Clefairy! (Japanese: エスパーピッピ誕生！？ The Creation of Esper ?!) is the eighth chapter of the Pokémon Ruby-Sapphire manga.",
+  "plainText": "Esper Clefairy! (Japanese: エスパーピッピ誕生！？ The Creation of Esper ?!) is the eighth chapter of the Pokémon Ruby-Sapphire manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Esper Clefairy! (Japanese: エスパーピッピ誕生！？ The Creation of Esper ?!) is the eighth chapter of the Pokémon Ruby-Sapphire manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMRS08",
+    "pageType": "chapter",
+    "searchableText": "PMRS08\nCategory:Pokémon Ruby-Sapphire chapters\nEsper Clefairy! (Japanese: エスパーピッピ誕生！？ The Creation of Esper ?!) is the eighth chapter of the Pokémon Ruby-Sapphire manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 245,
+    "sectionCount": 2
+  }
+}

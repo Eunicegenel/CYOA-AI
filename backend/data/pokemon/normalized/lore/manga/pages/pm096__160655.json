@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM096",
+    "slug": "pm096",
+    "pageId": 160655,
+    "revisionId": 4526904
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm096__160655.json",
+    "revisionTimestamp": "2026-04-09T15:11:27Z",
+    "fetchedAt": "2026-05-14T15:31:30.024Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Defeat Chuck Style Martial Arts!! (Japanese: 打倒シジマ流拳法！！ Defeat Style Martial Arts!!) is the ninety-sixth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Defeat Chuck Style Martial Arts!! (Japanese: 打倒シジマ流拳法！！ Defeat Style Martial Arts!!) is the ninety-sixth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nChuck\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nChuck\nChuck's wife\n\n===Pokémon===\n( ) \n( )\n( )\n(Chuck's)\n\n==Trivia==\n\n \n \n\nit:PMM096",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Defeat Chuck Style Martial Arts!! (Japanese: 打倒シジマ流拳法！！ Defeat Style Martial Arts!!) is the ninety-sixth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Chuck"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Chuck\nChuck's wife"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n(Chuck's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "it:PMM096"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM096",
+    "pageType": "chapter",
+    "searchableText": "PM096\nCategory:Pokémon Pocket Monsters chapters\nDefeat Chuck Style Martial Arts!! (Japanese: 打倒シジマ流拳法！！ Defeat Style Martial Arts!!) is the ninety-sixth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 354,
+    "sectionCount": 5
+  }
+}

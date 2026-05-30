@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Ryuko",
+    "slug": "ryuko",
+    "pageId": 177711,
+    "revisionId": 4398483
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! characters",
+    "sourceFileName": "ryuko__177711.json",
+    "revisionTimestamp": "2025-10-12T11:59:33Z",
+    "fetchedAt": "2026-05-14T15:48:47.237Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Ryuko (Japanese: リュウコ Ryūko) is a character in Pokémon: Yeah! I Got Pokémon!. She is a young girl with the ability to make it rain. She eventually reveals her true identity to be a .",
+  "plainText": "Ryuko (Japanese: リュウコ Ryūko) is a character in Pokémon: Yeah! I Got Pokémon!. She is a young girl with the ability to make it rain. She eventually reveals her true identity to be a .\n\n==History==\n \nRyuko makes her first appearance in The Raining Crystal Ball. She encounters Shu and his during the middle of a drought. She asks that they find her missing crystal ball so she can make it rain and save the dying Pokémon from the heat. After several failed hours of searching for the ball, Ryuko collapses from heatstroke, forcing Shu to continue doing it alone.\n\nDesperate to find the crystal ball, Shu begins crying from frustration. His tear hits the ground, causing Ryuko's crystal ball to appear from underground. After getting the ball back from Shu, Ryuko reveals that her true form is actually a . She explains that without the crystal ball, she is unable to make rain. Ryuko thanks Shu and Pikachu for their help and causes it to rain, saving the Pokémon.\n \n \n\n \n \n\nzh:律子",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ryuko (Japanese: リュウコ Ryūko) is a character in Pokémon: Yeah! I Got Pokémon!. She is a young girl with the ability to make it rain. She eventually reveals her true identity to be a ."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Ryuko makes her first appearance in The Raining Crystal Ball. She encounters Shu and his during the middle of a drought. She asks that they find her missing crystal ball so she can make it rain and save the dying Pokémon from the heat. After several failed hours of searching for the ball, Ryuko collapses from heatstroke, forcing Shu to continue doing it alone.\n\nDesperate to find the crystal ball, Shu begins crying from frustration. His tear hits the ground, causing Ryuko's crystal ball to appear from underground. After getting the ball back from Shu, Ryuko reveals that her true form is actually a . She explains that without the crystal ball, she is unable to make rain. Ryuko thanks Shu and Pikachu for their help and causes it to rain, saving the Pokémon.\n \n \n\n \n \n\nzh:律子"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ryuko",
+    "pageType": "character",
+    "searchableText": "Ryuko\nCategory:Pokémon: Yeah! I Got Pokémon! characters\nRyuko (Japanese: リュウコ Ryūko) is a character in Pokémon: Yeah! I Got Pokémon!. She is a young girl with the ability to make it rain. She eventually reveals her true identity to be a .",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 978,
+    "sectionCount": 2
+  }
+}

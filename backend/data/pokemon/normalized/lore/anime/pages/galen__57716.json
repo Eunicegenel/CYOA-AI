@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Galen",
+    "slug": "galen",
+    "pageId": 57716,
+    "revisionId": 4515016
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie antagonists",
+    "sourceFileName": "galen__57716.json",
+    "revisionTimestamp": "2026-03-23T03:03:43Z",
+    "fetchedAt": "2026-05-14T14:19:53.180Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Galen (Japanese: ギジュ Guijeau) is Captain Phantom's second-in-command, and the secondary antagonist of Pokémon Ranger and the Temple of the Sea.",
+  "plainText": "Galen (Japanese: ギジュ Guijeau) is Captain Phantom's second-in-command, and the secondary antagonist of Pokémon Ranger and the Temple of the Sea.\n\n==In animation==\nGalen was ordered by The Phantom to attack the group when returning from the stream, in which his Beedrill used multiple and attacks, but countered with a , allowing them to escape.\n\nHe was later commanded again to attack, this time with the ship's , which put all of the surrounding Pokémon in a confused state. Later, after destroyed the ship, Galen goes unseen until the closing credits.\n\nDuring the ending credits, it was revealed that he was sharing the same jail cell as his Captain.\n\nGalen briefly reappeared in a montage in The Rise of Darkrai, which chronicled the preceding nine s.\n\n===Character===\nGalen is more levelheaded compared to The Phantom's maniacal and ambitious personality, though he doesn't question his superior's ideas and follows through on his orders.\n\n===Pokémon===\n \n \n\n===Artwork===\n \n\n===Voice actors===\n \n\n==In the manga==\n===In the Pokémon Ranger and the Temple of the Sea manga===\nGalen appears in the of the ninth movie, where he plays the same role.\n\n==Names==\n \n\n==Related articles==\n \n \n \n \n\nes:Galen\nfr:Galen\nit:Galen",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Galen (Japanese: ギジュ Guijeau) is Captain Phantom's second-in-command, and the secondary antagonist of Pokémon Ranger and the Temple of the Sea."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "Galen was ordered by The Phantom to attack the group when returning from the stream, in which his Beedrill used multiple and attacks, but countered with a , allowing them to escape.\n\nHe was later commanded again to attack, this time with the ship's , which put all of the surrounding Pokémon in a confused state. Later, after destroyed the ship, Galen goes unseen until the closing credits.\n\nDuring the ending credits, it was revealed that he was sharing the same jail cell as his Captain.\n\nGalen briefly reappeared in a montage in The Rise of Darkrai, which chronicled the preceding nine s."
+    },
+    {
+      "heading": "Character",
+      "level": 3,
+      "text": "Galen is more levelheaded compared to The Phantom's maniacal and ambitious personality, though he doesn't question his superior's ideas and follows through on his orders."
+    },
+    {
+      "heading": "In the Pokémon Ranger and the Temple of the Sea manga",
+      "level": 3,
+      "text": "Galen appears in the of the ninth movie, where he plays the same role."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Galen\nfr:Galen\nit:Galen"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Galen",
+    "pageType": "movie",
+    "searchableText": "Galen\nCategory:Movie antagonists\nGalen (Japanese: ギジュ Guijeau) is Captain Phantom's second-in-command, and the secondary antagonist of Pokémon Ranger and the Temple of the Sea.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "Character",
+      "In the Pokémon Ranger and the Temple of the Sea manga",
+      "Related articles"
+    ],
+    "characterCount": 1219,
+    "sectionCount": 5
+  }
+}

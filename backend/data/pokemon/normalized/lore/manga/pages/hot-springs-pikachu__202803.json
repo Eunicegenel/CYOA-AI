@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Hot Springs Pikachu",
+    "slug": "hot-springs-pikachu",
+    "pageId": 202803,
+    "revisionId": 4168494
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "hot-springs-pikachu__202803.json",
+    "revisionTimestamp": "2024-10-26T16:42:32Z",
+    "fetchedAt": "2026-05-14T15:21:47.451Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Hot Springs Pikachu is the eighth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 4th and 5th bonus chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Hot Springs Pikachu is the eighth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 4th and 5th bonus chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n \n==Blurb==\nWASH YOUR POKéMON BEFORE USE\n\nHazel, Grandpa, and Pikachu have a refreshing trip to the spa, where they meet a whole mess of Pikachu! There goes any chance of getting clean towels...and did you know that a wet Pikachu smells like a battery? \n\nThen, it's Valentine's day, and who do you think is going to get chocolate? Includes bonus pages by the artist!\n\n==Publications==\n \n \n\n==Chapters==\nExcitement at the Hot Springs!?\nValentine Heartbeats\n\n==Important events==\nHazel and her friends celebrate Valentine's Day.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Hot Springs Pikachu is the eighth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 4th and 5th bonus chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "WASH YOUR POKéMON BEFORE USE\n\nHazel, Grandpa, and Pikachu have a refreshing trip to the spa, where they meet a whole mess of Pikachu! There goes any chance of getting clean towels...and did you know that a wet Pikachu smells like a battery? \n\nThen, it's Valentine's day, and who do you think is going to get chocolate? Includes bonus pages by the artist!"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Excitement at the Hot Springs!?\nValentine Heartbeats"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Hazel and her friends celebrate Valentine's Day."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Hot Springs Pikachu",
+    "pageType": "pokemon-related",
+    "searchableText": "Hot Springs Pikachu\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Hot Springs Pikachu is the eighth monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the 4th and 5th bonus chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 915,
+    "sectionCount": 4
+  }
+}

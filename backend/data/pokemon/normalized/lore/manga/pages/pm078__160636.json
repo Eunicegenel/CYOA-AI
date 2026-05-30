@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM078",
+    "slug": "pm078",
+    "pageId": 160636,
+    "revisionId": 4526704
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm078__160636.json",
+    "revisionTimestamp": "2026-04-09T15:02:45Z",
+    "fetchedAt": "2026-05-14T15:31:18.736Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Find Slowpoke!! (Japanese: ヤドンを捜せ！！ Find !!) is the seventy-eighth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Find Slowpoke!! (Japanese: ヤドンを捜せ！！ Find !!) is the seventy-eighth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nKurt\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\ns\nKurt\n\n===Pokémon===\n( ) \n( )\n( )\n\n==Trivia==\n\n \n \n\nde:Kapitel 78 (Pokémon Pocket Monsters)\nit:PMM078",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Find Slowpoke!! (Japanese: ヤドンを捜せ！！ Find !!) is the seventy-eighth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Kurt"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "s\nKurt"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 78 (Pokémon Pocket Monsters)\nit:PMM078"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM078",
+    "pageType": "chapter",
+    "searchableText": "PM078\nCategory:Pokémon Pocket Monsters chapters\nFind Slowpoke!! (Japanese: ヤドンを捜せ！！ Find !!) is the seventy-eighth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 333,
+    "sectionCount": 5
+  }
+}

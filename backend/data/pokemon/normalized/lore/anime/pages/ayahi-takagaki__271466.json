@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Ayahi Takagaki",
+    "slug": "ayahi-takagaki",
+    "pageId": 271466,
+    "revisionId": 4323516
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "ayahi-takagaki__271466.json",
+    "revisionTimestamp": "2025-06-24T03:31:35Z",
+    "fetchedAt": "2026-05-14T14:04:23.677Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Ayahi Takagaki (Japanese: 高垣彩陽 Takagaki Ayahi) is a Japanese voice actress for .",
+  "plainText": "Ayahi Takagaki (Japanese: 高垣彩陽 Takagaki Ayahi) is a Japanese voice actress for .\n\n==Biography==\nTakagaki was born on October 25, 1985 in , and became an actress as an adult. She joined during where she voiced Kylie. She gained her most prominent role in , voicing Goh's friend and rival Horace.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nKylie\nHorace\n\n=====Pokémon=====\n(M14)\n\n===Video games===\n==== ====\nTina\n\n==Other non-Pokémon roles==\nSylvie Lumiere ( )\nAsakura Otome ( )\nAmi Kuroki ( )\nKuro ( )\nDaina Kurogami ( )\nChris Yukine ( )\n\n==External links==\nWebsite\nAgency Profile\nAnime News Network\n\n \n\n \n\nit:Ayahi Takagaki\nja:高垣彩陽",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Ayahi Takagaki (Japanese: 高垣彩陽 Takagaki Ayahi) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Takagaki was born on October 25, 1985 in , and became an actress as an adult. She joined during where she voiced Kylie. She gained her most prominent role in , voicing Goh's friend and rival Horace."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Kylie\nHorace"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 5,
+      "text": "(M14)"
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Tina"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Sylvie Lumiere ( )\nAsakura Otome ( )\nAmi Kuroki ( )\nKuro ( )\nDaina Kurogami ( )\nChris Yukine ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Website\nAgency Profile\nAnime News Network\n\n \n\n \n\nit:Ayahi Takagaki\nja:高垣彩陽"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ayahi Takagaki",
+    "pageType": "general-anime-lore",
+    "searchableText": "Ayahi Takagaki\nCategory:Japanese voice actors\nAyahi Takagaki (Japanese: 高垣彩陽 Takagaki Ayahi) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Pokémon",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 649,
+    "sectionCount": 7
+  }
+}

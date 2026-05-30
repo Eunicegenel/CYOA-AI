@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "SP15",
+    "slug": "sp15",
+    "pageId": 182500,
+    "revisionId": 4114569
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp15__182500.json",
+    "revisionTimestamp": "2024-09-16T20:30:37Z",
+    "fetchedAt": "2026-05-14T15:50:00.121Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "A Mysterious Egg!! (Japanese: なぞのタマゴに大あわて！？ Great Excitement about a Mysterious Egg!?) is the fifteenth chapter of the Ash & Pikachu manga.",
+  "plainText": "A Mysterious Egg!! (Japanese: なぞのタマゴに大あわて！？ Great Excitement about a Mysterious Egg!?) is the fifteenth chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n \n\nLarvitar hatches from the egg.\n\n===Debuts===\n\n====Pokémon debuts====\n( )\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )\n\n \n \n\n \n\nit:SP15",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "A Mysterious Egg!! (Japanese: なぞのタマゴに大あわて！？ Great Excitement about a Mysterious Egg!?) is the fifteenth chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Larvitar hatches from the egg."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n\n \n \n\n \n\nit:SP15"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP15",
+    "pageType": "chapter",
+    "searchableText": "SP15\nCategory:Ash & Pikachu chapters\nA Mysterious Egg!! (Japanese: なぞのタマゴに大あわて！？ Great Excitement about a Mysterious Egg!?) is the fifteenth chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Pokémon"
+    ],
+    "characterCount": 318,
+    "sectionCount": 4
+  }
+}

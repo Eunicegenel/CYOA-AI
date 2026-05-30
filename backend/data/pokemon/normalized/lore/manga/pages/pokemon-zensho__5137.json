@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Zensho",
+    "slug": "pokemon-zensho",
+    "pageId": 5137,
+    "revisionId": 4299172
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Zensho",
+    "sourceFileName": "pokemon-zensho__5137.json",
+    "revisionTimestamp": "2025-05-12T02:59:29Z",
+    "fetchedAt": "2026-05-14T15:38:24.406Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pocket Monsters Zensho (Japanese: まんが版 ポケットモンスター全書 Pocket Monsters Complete Book Comics Edition) is a shōnen Pokémon manga directly based on the Pokémon games. It follows the plot of closer than any other Pokémon manga.\n\nThis manga covers several details that are not found in other manga or , such as the hunt for the Safari Zone Warden's dentures. It ends with the defeat of the Elite Four.\n\nThe entire manga was released by Shogakukan in a single volume containing 10 chapters. It is written and illustrated by Satomi Nakamura.",
+  "plainText": "Pocket Monsters Zensho (Japanese: まんが版 ポケットモンスター全書 Pocket Monsters Complete Book Comics Edition) is a shōnen Pokémon manga directly based on the Pokémon games. It follows the plot of closer than any other Pokémon manga.\n\nThis manga covers several details that are not found in other manga or , such as the hunt for the Safari Zone Warden's dentures. It ends with the defeat of the Elite Four.\n\nThe entire manga was released by Shogakukan in a single volume containing 10 chapters. It is written and illustrated by Satomi Nakamura.\n\n==Publications==\n \n \n\n==International versions==\nIn , the manga was translated by Ching Win Publishing Co., Ltd. to Traditional Chinese under the title . In , it was translated by Hong Kong Ching Win Publishing Co., Ltd. to Traditional Chinese under the title .\n\n \n \n \n\n==Chapters==\n \n\n==Trivia==\nAccording to the start of the book, all 151 Pokémon appear in the Zensho manga whether it is a real Pokémon or one appearing in a picture, diagram or sign.\n\n== External links ==\n\nPokémon Zensho info and chapter summaries at Dogasu's Backpack\nPokémon Zensho fair use images at Bulbagarden Archives\n\n \n \n \n\nde:Pocket Monsters Zensho\nes:Pocket Monsters Zensho\nit:Pokémon Zensho\nzh:漫画版 宝可梦全书",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pocket Monsters Zensho (Japanese: まんが版 ポケットモンスター全書 Pocket Monsters Complete Book Comics Edition) is a shōnen Pokémon manga directly based on the Pokémon games. It follows the plot of closer than any other Pokémon manga.\n\nThis manga covers several details that are not found in other manga or , such as the hunt for the Safari Zone Warden's dentures. It ends with the defeat of the Elite Four.\n\nThe entire manga was released by Shogakukan in a single volume containing 10 chapters. It is written and illustrated by Satomi Nakamura."
+    },
+    {
+      "heading": "International versions",
+      "level": 2,
+      "text": "In , the manga was translated by Ching Win Publishing Co., Ltd. to Traditional Chinese under the title . In , it was translated by Hong Kong Ching Win Publishing Co., Ltd. to Traditional Chinese under the title ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "According to the start of the book, all 151 Pokémon appear in the Zensho manga whether it is a real Pokémon or one appearing in a picture, diagram or sign."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Pokémon Zensho info and chapter summaries at Dogasu's Backpack\nPokémon Zensho fair use images at Bulbagarden Archives\n\n \n \n \n\nde:Pocket Monsters Zensho\nes:Pocket Monsters Zensho\nit:Pokémon Zensho\nzh:漫画版 宝可梦全书"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Zensho",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Zensho\nCategory:Pokémon Zensho\nPocket Monsters Zensho (Japanese: まんが版 ポケットモンスター全書 Pocket Monsters Complete Book Comics Edition) is a shōnen Pokémon manga directly based on the Pokémon games. It follows the plot of closer than any other Pokémon manga.\n\nThis manga covers several details that are not found in other manga or , such as the hunt for the Safari Zone Warden's dentures. It ends with the defeat of the Elite Four.\n\nThe entire manga was released by Shogakukan in a single volume containing 10 chapters. It is written and illustrated by Satomi Nakamura.",
+    "sectionHeadings": [
+      "Lead",
+      "International versions",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 1216,
+    "sectionCount": 4
+  }
+}

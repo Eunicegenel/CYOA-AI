@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Jimmy Ray",
+    "slug": "jimmy-ray",
+    "pageId": 142750,
+    "revisionId": 4289344
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "jimmy-ray__142750.json",
+    "revisionTimestamp": "2025-04-28T19:58:46Z",
+    "fetchedAt": "2026-05-14T14:26:12.356Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Jimmy Ray (Japanese: ヨシヒコ Yoshihiko) is a minor recurring character in .\n\nHe debuted in Reunion Battles In Nimbasa!, where he participated in the Club Battle tournament and was 's first opponent. His most notable feature is the costume he wears. Not much is known about him as he is defeated by Iris in the first round during Cilan Versus Trip, Ash Versus Georgia!, and thus knocked out of the tournament.",
+  "plainText": "Jimmy Ray (Japanese: ヨシヒコ Yoshihiko) is a minor recurring character in .\n\nHe debuted in Reunion Battles In Nimbasa!, where he participated in the Club Battle tournament and was 's first opponent. His most notable feature is the costume he wears. Not much is known about him as he is defeated by Iris in the first round during Cilan Versus Trip, Ash Versus Georgia!, and thus knocked out of the tournament.\n \n==Pokémon==\n \n \n\nJimmy Ray has at least two other Pokémon as those who entered the Club Battle were required to enter with three Pokémon.\n\n==Pokémon competitions==\nJimmy Ray has competed in the following :\nClub Battle - Top 16 (Cilan Versus Trip, Ash Versus Georgia!)\n\n==Voice actors==\n \n\n \n\n \n \n\nes:Jimmy Ray\nfr:Jimmy (Unys)\nit:Jimmy Ray\nzh:佳彥",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jimmy Ray (Japanese: ヨシヒコ Yoshihiko) is a minor recurring character in .\n\nHe debuted in Reunion Battles In Nimbasa!, where he participated in the Club Battle tournament and was 's first opponent. His most notable feature is the costume he wears. Not much is known about him as he is defeated by Iris in the first round during Cilan Versus Trip, Ash Versus Georgia!, and thus knocked out of the tournament."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "Jimmy Ray has at least two other Pokémon as those who entered the Club Battle were required to enter with three Pokémon."
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Jimmy Ray has competed in the following :\nClub Battle - Top 16 (Cilan Versus Trip, Ash Versus Georgia!)"
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Jimmy Ray\nfr:Jimmy (Unys)\nit:Jimmy Ray\nzh:佳彥"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jimmy Ray",
+    "pageType": "character",
+    "searchableText": "Jimmy Ray\nCategory:Animation characters\nJimmy Ray (Japanese: ヨシヒコ Yoshihiko) is a minor recurring character in .\n\nHe debuted in Reunion Battles In Nimbasa!, where he participated in the Club Battle tournament and was 's first opponent. His most notable feature is the costume he wears. Not much is known about him as he is defeated by Iris in the first round during Cilan Versus Trip, Ash Versus Georgia!, and thus knocked out of the tournament.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions",
+      "Voice actors"
+    ],
+    "characterCount": 752,
+    "sectionCount": 4
+  }
+}

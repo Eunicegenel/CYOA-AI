@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Midori Kudo",
+    "slug": "midori-kudo",
+    "pageId": 297511,
+    "revisionId": 4331595
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures characters",
+    "sourceFileName": "midori-kudo__297511.json",
+    "revisionTimestamp": "2025-07-06T19:34:07Z",
+    "fetchedAt": "2026-05-14T14:36:51.454Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Midori Kudo (Japanese: 工藤美登里 Kudō Midori) is a main character in A Pocketful of Adventures. She is a rival of Madoka Akagi and a designer at ADventure's competing company, Wonder Create.",
+  "plainText": "Midori Kudo (Japanese: 工藤美登里 Kudō Midori) is a main character in A Pocketful of Adventures. She is a rival of Madoka Akagi and a designer at ADventure's competing company, Wonder Create.\n\n==History==\n===Pre-series===\n===Season One===\n==Character==\nMidori has a personality very similar to in the games, provoking Madoka and trying to show a trace of superiority in her actions.\n==Names==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Midori Kudo (Japanese: 工藤美登里 Kudō Midori) is a main character in A Pocketful of Adventures. She is a rival of Madoka Akagi and a designer at ADventure's competing company, Wonder Create."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Midori has a personality very similar to in the games, provoking Madoka and trying to show a trace of superiority in her actions."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Midori Kudo",
+    "pageType": "character",
+    "searchableText": "Midori Kudo\nCategory:A Pocketful of Adventures characters\nMidori Kudo (Japanese: 工藤美登里 Kudō Midori) is a main character in A Pocketful of Adventures. She is a rival of Madoka Akagi and a designer at ADventure's competing company, Wonder Create.",
+    "sectionHeadings": [
+      "Lead",
+      "Character"
+    ],
+    "characterCount": 387,
+    "sectionCount": 2
+  }
+}

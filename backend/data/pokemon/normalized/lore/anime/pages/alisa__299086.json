@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Alisa",
+    "slug": "alisa",
+    "pageId": 299086,
+    "revisionId": 4386461
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Concierge characters",
+    "sourceFileName": "alisa__299086.json",
+    "revisionTimestamp": "2025-09-22T06:57:55Z",
+    "fetchedAt": "2026-05-14T14:00:39.936Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "----\n \n \n\nAlisa (Japanese: アリサ Alisa) is a character in Pokémon Concierge. She works part-time every summer at the Pokémon Resort.",
+  "plainText": "----\n \n \n\nAlisa (Japanese: アリサ Alisa) is a character in Pokémon Concierge. She works part-time every summer at the Pokémon Resort.\n\n==History==\nAlisa is one of the staff at the Pokémon Resort, working part-time at the place every summer. She greeted Haru on her first day at work and helped her acclimate to the resort by giving her a more casual makeover and showing her around the island.\n\n==Character==\nAlisa has a laid-back temperament, and doesn't enjoy formalities, telling Haru to not call her \"Miss\" even though Alisa has been at the Resort longer than her. Alisa is a hard worker and a girl of many talents — she learned rock-climbing when she was in junior high school, and she is also a skilled painter.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n==Trivia==\nThe Czech, Danish, Latin American Spanish, European Spanish, French, Croatian, Indonesian, and Turkish credits list Alisa's name as \"Arisa\", despite the dubs, captions, and subtitles using \"Alisa\" in these languages.\nThe Brazilian Portuguese subtitles and credits list Alisa's name as \"Arisa\", despite the dub and captions using \"Alisa\".\n\n==Names==\n \n \n\n \n\nes:Alisa",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \n \n\nAlisa (Japanese: アリサ Alisa) is a character in Pokémon Concierge. She works part-time every summer at the Pokémon Resort."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Alisa is one of the staff at the Pokémon Resort, working part-time at the place every summer. She greeted Haru on her first day at work and helped her acclimate to the resort by giving her a more casual makeover and showing her around the island."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Alisa has a laid-back temperament, and doesn't enjoy formalities, telling Haru to not call her \"Miss\" even though Alisa has been at the Resort longer than her. Alisa is a hard worker and a girl of many talents — she learned rock-climbing when she was in junior high school, and she is also a skilled painter."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The Czech, Danish, Latin American Spanish, European Spanish, French, Croatian, Indonesian, and Turkish credits list Alisa's name as \"Arisa\", despite the dubs, captions, and subtitles using \"Alisa\" in these languages.\nThe Brazilian Portuguese subtitles and credits list Alisa's name as \"Arisa\", despite the dub and captions using \"Alisa\"."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Alisa"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Alisa",
+    "pageType": "character",
+    "searchableText": "Alisa\nCategory:Pokémon Concierge characters\n----\n \n \n\nAlisa (Japanese: アリサ Alisa) is a character in Pokémon Concierge. She works part-time every summer at the Pokémon Resort.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 1127,
+    "sectionCount": 5
+  }
+}

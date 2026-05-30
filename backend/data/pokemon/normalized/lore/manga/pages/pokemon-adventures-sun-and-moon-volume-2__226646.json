@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Adventures Sun & Moon volume 2",
+    "slug": "pokemon-adventures-sun-and-moon-volume-2",
+    "pageId": 226646,
+    "revisionId": 4298496
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-adventures-sun-and-moon-volume-2__226646.json",
+    "revisionTimestamp": "2025-05-11T10:05:20Z",
+    "fetchedAt": "2026-05-14T15:34:57.929Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 2 is the second volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 2 is the second volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n \n \n \n \n \n \n \n\n==Chapters==\nPASM08\nPASM09\nPASM10\nPASM11\nPASM12\nPASM13\n\n==Major events==\n\n==Party changes==\n\n===Additions===\nMoon's (PASM08)\nMoon's (PASM08)\nSun's \"Quarter\" (PASM10)\n\n===Evolutions===\nSun's \" \" evolves into (PASM13)\n \n\n \n\nde:Band 2 (Pokémon Sonne und Mond – Der Manga)\nes:Tomo 2 (Pocket Monsters Special Sol y Luna)\nfr:Tome 2 (Pocket Monsters Special Soleil et Lune)\nit:Pokémon Adventures Sun & Moon volume 2\nzh:宝可梦特别篇太阳·月亮2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 2 is the second volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "PASM08\nPASM09\nPASM10\nPASM11\nPASM12\nPASM13"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "Moon's (PASM08)\nMoon's (PASM08)\nSun's \"Quarter\" (PASM10)"
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "Sun's \" \" evolves into (PASM13)\n \n\n \n\nde:Band 2 (Pokémon Sonne und Mond – Der Manga)\nes:Tomo 2 (Pocket Monsters Special Sol y Luna)\nfr:Tome 2 (Pocket Monsters Special Soleil et Lune)\nit:Pokémon Adventures Sun & Moon volume 2\nzh:宝可梦特别篇太阳·月亮2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Adventures Sun & Moon volume 2",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Adventures Sun & Moon volume 2\nCategory:Pokémon Adventures volumes\nVolume 2 is the second volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions",
+      "Evolutions"
+    ],
+    "characterCount": 728,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Gizmo Bilt",
+    "slug": "gizmo-bilt",
+    "pageId": 264050,
+    "revisionId": 4541066
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Journeys characters of the day",
+    "sourceFileName": "gizmo-bilt__264050.json",
+    "revisionTimestamp": "2026-04-29T21:08:29Z",
+    "fetchedAt": "2026-05-14T14:20:33.876Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Gizmo (Japanese: ヤバシ Yabashi) is a character of the day who appeared in Detective Drizzile!. His full name is Gizmo Bilt (Japanese: ヤバ・ヤバシ Yabashi Yaba).",
+  "plainText": "Gizmo (Japanese: ヤバシ Yabashi) is a character of the day who appeared in Detective Drizzile!. His full name is Gizmo Bilt (Japanese: ヤバ・ヤバシ Yabashi Yaba).\n\n==In animation==\n===History===\nGizmo had his infiltrate Cerise Laboratory so that he could delete all the data that and Goh had collected during their adventures. Despite Professor Cerise taking precautions to stop it from happening again, Gizmo was able to find out the codes to unlock the data with the help of Kecleon.\n\nOne night, Goh spotted what was going on with the help of his and was able to corner Kecleon before Gizmo revealed himself. Kecleon was defeated when Drizzile evolved into . Gizmo attempted to flee to Kecleon, only to be stopped by Inteleon's . When Professor Cerise arrived, Gizmo was excited to see him. Ash and Goh were shocked to see that Gizmo was just a fanboy who had just wanted to get the professor's attention. Upon learning that the data wasn't permanently lost, Professor Cerise gave Gizmo the autograph he had desired.\n\n===Pokémon===\nThis listing is of Gizmo's known in :\n \n\n===Voice actors===\n \n\n==In the manga==\n \n===Pokémon Journeys===\nGizmo appeared in Detective Drizzile!, serving an identical role as in the eponymous episode.\n\n====Pokémon====\n \n\n==Trivia==\nIn the Japanese version, Gizmo usually ends his sentences and laughs with \" \", playing on his name.\nIn the dub, he shares his voice actor with another mechanic inventor, .\n\n==Names==\n \n \n \n\n \n \n \n\nes:Gizmo Bilt\nfr:Hack Erman\nit:Hackermann\nja:ヤバシ\nzh:矢橋",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Gizmo (Japanese: ヤバシ Yabashi) is a character of the day who appeared in Detective Drizzile!. His full name is Gizmo Bilt (Japanese: ヤバ・ヤバシ Yabashi Yaba)."
+    },
+    {
+      "heading": "History",
+      "level": 3,
+      "text": "Gizmo had his infiltrate Cerise Laboratory so that he could delete all the data that and Goh had collected during their adventures. Despite Professor Cerise taking precautions to stop it from happening again, Gizmo was able to find out the codes to unlock the data with the help of Kecleon.\n\nOne night, Goh spotted what was going on with the help of his and was able to corner Kecleon before Gizmo revealed himself. Kecleon was defeated when Drizzile evolved into . Gizmo attempted to flee to Kecleon, only to be stopped by Inteleon's . When Professor Cerise arrived, Gizmo was excited to see him. Ash and Goh were shocked to see that Gizmo was just a fanboy who had just wanted to get the professor's attention. Upon learning that the data wasn't permanently lost, Professor Cerise gave Gizmo the autograph he had desired."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Gizmo's known in :"
+    },
+    {
+      "heading": "Pokémon Journeys",
+      "level": 3,
+      "text": "Gizmo appeared in Detective Drizzile!, serving an identical role as in the eponymous episode."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the Japanese version, Gizmo usually ends his sentences and laughs with \" \", playing on his name.\nIn the dub, he shares his voice actor with another mechanic inventor, ."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "es:Gizmo Bilt\nfr:Hack Erman\nit:Hackermann\nja:ヤバシ\nzh:矢橋"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Gizmo Bilt",
+    "pageType": "character",
+    "searchableText": "Gizmo Bilt\nCategory:Journeys characters of the day\nGizmo (Japanese: ヤバシ Yabashi) is a character of the day who appeared in Detective Drizzile!. His full name is Gizmo Bilt (Japanese: ヤバ・ヤバシ Yabashi Yaba).",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Pokémon Journeys",
+      "Trivia",
+      "Names"
+    ],
+    "characterCount": 1506,
+    "sectionCount": 6
+  }
+}

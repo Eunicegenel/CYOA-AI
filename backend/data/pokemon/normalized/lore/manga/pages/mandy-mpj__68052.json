@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mandy (MPJ)",
+    "slug": "mandy-mpj",
+    "pageId": 68052,
+    "revisionId": 4528397
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey characters",
+    "sourceFileName": "mandy-mpj__68052.json",
+    "revisionTimestamp": "2026-04-09T16:19:05Z",
+    "fetchedAt": "2026-05-14T15:25:46.706Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mandy (Japanese: カゲちゃん Kage-chan) is a character from the Magical Pokémon Journey . She is a deceased female and first appeared in The Hill of the Lone Star Tree. Her is Tamarind.",
+  "plainText": "Mandy (Japanese: カゲちゃん Kage-chan) is a character from the Magical Pokémon Journey . She is a deceased female and first appeared in The Hill of the Lone Star Tree. Her is Tamarind.\n\n==Related articles==\n \n \n \n\n \n \n\n \n \n \n\nit:Mandy (MVP)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mandy (Japanese: カゲちゃん Kage-chan) is a character from the Magical Pokémon Journey . She is a deceased female and first appeared in The Hill of the Lone Star Tree. Her is Tamarind."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "it:Mandy (MVP)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mandy (MPJ)",
+    "pageType": "character",
+    "searchableText": "Mandy (MPJ)\nCategory:Magical Pokémon Journey characters\nMandy (Japanese: カゲちゃん Kage-chan) is a character from the Magical Pokémon Journey . She is a deceased female and first appeared in The Hill of the Lone Star Tree. Her is Tamarind.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 235,
+    "sectionCount": 2
+  }
+}

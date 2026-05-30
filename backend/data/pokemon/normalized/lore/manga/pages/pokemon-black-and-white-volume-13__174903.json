@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Black and White volume 13",
+    "slug": "pokemon-black-and-white-volume-13",
+    "pageId": 174903,
+    "revisionId": 4131696
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-black-and-white-volume-13__174903.json",
+    "revisionTimestamp": "2024-09-29T04:23:57Z",
+    "fetchedAt": "2026-05-14T15:35:54.062Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 13 is the thirteenth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+  "plainText": "Volume 13 is the thirteenth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.\n\n==Publications==\n \n \n \n\n==Chapters==\nAdventure 41 - A Lost Melody\nAdventure 42 - The Beginning\nAdventure 43 - Tooth and Claw\nAdventure 44 - Welcome Home\n\n==Party changes==\ncaptures a and names her Barbara in PS501\n\n \n \n\nde:Band 13 (Pokémon Black and White)\nes:Tomo 13 (Pokémon Black and White)\nfr:Volume 13 (Pokémon Black and White)\nit:Pokémon Nero e Bianco volume 13",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 13 is the thirteenth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Adventure 41 - A Lost Melody\nAdventure 42 - The Beginning\nAdventure 43 - Tooth and Claw\nAdventure 44 - Welcome Home"
+    },
+    {
+      "heading": "Party changes",
+      "level": 2,
+      "text": "captures a and names her Barbara in PS501\n\n \n \n\nde:Band 13 (Pokémon Black and White)\nes:Tomo 13 (Pokémon Black and White)\nfr:Volume 13 (Pokémon Black and White)\nit:Pokémon Nero e Bianco volume 13"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Black and White volume 13",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Black and White volume 13\nCategory:Pokémon Adventures volumes\nVolume 13 is the thirteenth volume published by VIZ Media compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. As the chapters of the Black & White arc included in this volume had not yet been published in graphic novel format in Japan, the chapters in this volume have been collected directly from the magazine publication of Pokémon Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Party changes"
+    ],
+    "characterCount": 771,
+    "sectionCount": 3
+  }
+}

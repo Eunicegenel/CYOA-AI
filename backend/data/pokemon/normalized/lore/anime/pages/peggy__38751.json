@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Peggy",
+    "slug": "peggy",
+    "pageId": 38751,
+    "revisionId": 4331037
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "peggy__38751.json",
+    "revisionTimestamp": "2025-07-05T16:07:33Z",
+    "fetchedAt": "2026-05-14T14:41:03.170Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Peggy (Japanese: コユキ Koyuki) is a character of the day who appeared in Spring Fever. She has traveled the world with her father Rory, and helps him to dig s.\n\nPeggy spotted , disguised as excavation assistants, stealing Rory's three , Su, Ein, and Ub, and screamed to alert her father, , and . After Team Rocket was defeated, the Swinub located a new hot spring.\n\nPeggy is well aware of the importance of her father's work, knowing it puts food on the table. She adores her father, and enjoys playing with his three Swinub.",
+  "plainText": "Peggy (Japanese: コユキ Koyuki) is a character of the day who appeared in Spring Fever. She has traveled the world with her father Rory, and helps him to dig s.\n\nPeggy spotted , disguised as excavation assistants, stealing Rory's three , Su, Ein, and Ub, and screamed to alert her father, , and . After Team Rocket was defeated, the Swinub located a new hot spring.\n\nPeggy is well aware of the importance of her father's work, knowing it puts food on the table. She adores her father, and enjoys playing with his three Swinub.\n\n==Pokemon==\n===Temporary===\n \n \n\n==Voice actors==\n \n \n\n \n\n \n \n \n\nde:Heiße Quellen#Peggy\nes:Peggy\nit:Peggy",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Peggy (Japanese: コユキ Koyuki) is a character of the day who appeared in Spring Fever. She has traveled the world with her father Rory, and helps him to dig s.\n\nPeggy spotted , disguised as excavation assistants, stealing Rory's three , Su, Ein, and Ub, and screamed to alert her father, , and . After Team Rocket was defeated, the Swinub located a new hot spring.\n\nPeggy is well aware of the importance of her father's work, knowing it puts food on the table. She adores her father, and enjoys playing with his three Swinub."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Heiße Quellen#Peggy\nes:Peggy\nit:Peggy"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Peggy",
+    "pageType": "character",
+    "searchableText": "Peggy\nCategory:Johto characters of the day\nPeggy (Japanese: コユキ Koyuki) is a character of the day who appeared in Spring Fever. She has traveled the world with her father Rory, and helps him to dig s.\n\nPeggy spotted , disguised as excavation assistants, stealing Rory's three , Su, Ein, and Ub, and screamed to alert her father, , and . After Team Rocket was defeated, the Swinub located a new hot spring.\n\nPeggy is well aware of the importance of her father's work, knowing it puts food on the table. She adores her father, and enjoys playing with his three Swinub.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 630,
+    "sectionCount": 2
+  }
+}

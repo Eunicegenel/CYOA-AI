@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PW14",
+    "slug": "pw14",
+    "pageId": 178232,
+    "revisionId": 4528114
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw14__178232.json",
+    "revisionTimestamp": "2026-04-09T16:07:32Z",
+    "fetchedAt": "2026-05-14T15:46:36.604Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: サイドンの誇り 's Pride) is the fourteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+  "plainText": "(Japanese: サイドンの誇り 's Pride) is the fourteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .\n\n==Plot==\n \n==Major events==\n \n\n==Characters==\n===Humans===\nJunk\n\n===Pokémon===\n(Junk's)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: サイドンの誇り 's Pride) is the fourteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Junk"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Junk's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW14",
+    "pageType": "chapter",
+    "searchableText": "PW14\nCategory:How I Became a Pokémon Card chapters\n(Japanese: サイドンの誇り 's Pride) is the fourteenth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno. The card featured in this chapter is .",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 258,
+    "sectionCount": 3
+  }
+}

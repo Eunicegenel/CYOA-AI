@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PCS3",
+    "slug": "pcs3",
+    "pageId": 189250,
+    "revisionId": 4526585
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Colosseum Snatchers chapters",
+    "sourceFileName": "pcs3__189250.json",
+    "revisionTimestamp": "2026-04-09T14:57:11Z",
+    "fetchedAt": "2026-05-14T15:29:35.375Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the third and final chapter of the Pokémon Colosseum Snatchers manga created by 大内 水軍 Oouchi Suigun.",
+  "plainText": "This is the third and final chapter of the Pokémon Colosseum Snatchers manga created by 大内 水軍 Oouchi Suigun.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nWes\nRui\nNascour\n\n===Pokémon===\n(Nascour's)\n(Wes's)\n(Wes's)\n(×2)\n\n==Trivia==\n===Errors===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the third and final chapter of the Pokémon Colosseum Snatchers manga created by 大内 水軍 Oouchi Suigun."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Wes\nRui\nNascour"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Nascour's)\n(Wes's)\n(Wes's)\n(×2)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PCS3",
+    "pageType": "chapter",
+    "searchableText": "PCS3\nCategory:Pokémon Colosseum Snatchers chapters\nThis is the third and final chapter of the Pokémon Colosseum Snatchers manga created by 大内 水軍 Oouchi Suigun.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 294,
+    "sectionCount": 3
+  }
+}

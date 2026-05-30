@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Jason",
+    "slug": "jason",
+    "pageId": 234215,
+    "revisionId": 4191373
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "jason__234215.json",
+    "revisionTimestamp": "2024-11-24T03:45:24Z",
+    "fetchedAt": "2026-05-14T14:25:47.081Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Jason is a supporting character who appeared in The Power of Us. Jason is a working in Fula City's Pokémon Reasearch Pavilion alongside Toren and others.",
+  "plainText": "Jason is a supporting character who appeared in The Power of Us. Jason is a working in Fula City's Pokémon Reasearch Pavilion alongside Toren and others.\n\n==History==\nJason was first seen talking to Toren about the upcoming research presentation. He was well aware of Toren's debilitating shyness, but nevertheless encouraged him to do his best. On the day of the actual presentation, Jason watched as Toren's anxiety got the better of him and later intervened when the wrong footage was played. The other researchers quickly turned on Toren and began questioning his capacity as a scientist, but Jason demanded they respect Toren for his passion.\n\nDuring the and fire crises, Jason and the other researchers were preparing to evacuate and move their research to safety. Toren arrived at the Research Pavilion, and with 's words in mind, he requested that everyone assist him in making an elixir to combat the Effect Spore gas. Jason was the first to offer his support, and the other scientists followed suit; together, they manufactured a serum out of . However, the lab lost power before they could complete the serum. Led by Toren, Jason and the others were forced to make a Lum Berry solution, which later helped combat the Effect Spore.\n\n==Character==\nJason encourages others to do their best, especially the shy and timid Toren in the lead-up to his research presentation. He demands that everyone focus on completing the tasks at hand.\n\n==Voice actors==\n \n\n==Names==\n \n\n==Related articles==\n \n \n\n \n\nes:Jason\nit:Jason",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Jason is a supporting character who appeared in The Power of Us. Jason is a working in Fula City's Pokémon Reasearch Pavilion alongside Toren and others."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Jason was first seen talking to Toren about the upcoming research presentation. He was well aware of Toren's debilitating shyness, but nevertheless encouraged him to do his best. On the day of the actual presentation, Jason watched as Toren's anxiety got the better of him and later intervened when the wrong footage was played. The other researchers quickly turned on Toren and began questioning his capacity as a scientist, but Jason demanded they respect Toren for his passion.\n\nDuring the and fire crises, Jason and the other researchers were preparing to evacuate and move their research to safety. Toren arrived at the Research Pavilion, and with 's words in mind, he requested that everyone assist him in making an elixir to combat the Effect Spore gas. Jason was the first to offer his support, and the other scientists followed suit; together, they manufactured a serum out of . However, the lab lost power before they could complete the serum. Led by Toren, Jason and the others were forced to make a Lum Berry solution, which later helped combat the Effect Spore."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Jason encourages others to do their best, especially the shy and timid Toren in the lead-up to his research presentation. He demands that everyone focus on completing the tasks at hand."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Jason\nit:Jason"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Jason",
+    "pageType": "movie",
+    "searchableText": "Jason\nCategory:Movie characters\nJason is a supporting character who appeared in The Power of Us. Jason is a working in Fula City's Pokémon Reasearch Pavilion alongside Toren and others.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Related articles"
+    ],
+    "characterCount": 1523,
+    "sectionCount": 4
+  }
+}

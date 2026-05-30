@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Frodomar City",
+    "slug": "frodomar-city",
+    "pageId": 27819,
+    "revisionId": 4261141
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "frodomar-city__27819.json",
+    "revisionTimestamp": "2025-03-19T21:50:38Z",
+    "fetchedAt": "2026-05-14T14:19:40.616Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Frodomar City is allegedly the hometown of Ritchie. It is an -exclusive location in Kanto, and is only mentioned in the dub. It is also possible that this city does not exist, and that Ritchie was lying so as not to alter time, considering that the only time the place was mentioned was in Celebi and Joy!, where Ritchie was transported several years into the past by .\n\n \n \n\n \n\nit:Frodomar City",
+  "plainText": "Frodomar City is allegedly the hometown of Ritchie. It is an -exclusive location in Kanto, and is only mentioned in the dub. It is also possible that this city does not exist, and that Ritchie was lying so as not to alter time, considering that the only time the place was mentioned was in Celebi and Joy!, where Ritchie was transported several years into the past by .\n\n \n \n\n \n\nit:Frodomar City",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Frodomar City is allegedly the hometown of Ritchie. It is an -exclusive location in Kanto, and is only mentioned in the dub. It is also possible that this city does not exist, and that Ritchie was lying so as not to alter time, considering that the only time the place was mentioned was in Celebi and Joy!, where Ritchie was transported several years into the past by .\n\n \n \n\n \n\nit:Frodomar City"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Frodomar City",
+    "pageType": "location",
+    "searchableText": "Frodomar City\nCategory:Animated series-exclusive locations\nFrodomar City is allegedly the hometown of Ritchie. It is an -exclusive location in Kanto, and is only mentioned in the dub. It is also possible that this city does not exist, and that Ritchie was lying so as not to alter time, considering that the only time the place was mentioned was in Celebi and Joy!, where Ritchie was transported several years into the past by .\n\n \n \n\n \n\nit:Frodomar City",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 395,
+    "sectionCount": 1
+  }
+}

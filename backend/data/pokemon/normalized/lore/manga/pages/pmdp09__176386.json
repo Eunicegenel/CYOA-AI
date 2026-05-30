@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP09",
+    "slug": "pmdp09",
+    "pageId": 176386,
+    "revisionId": 4528195
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp09__176386.json",
+    "revisionTimestamp": "2026-04-09T16:09:56Z",
+    "fetchedAt": "2026-05-14T15:32:18.723Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ！ ポケモン！！ Aim to be the Strongest Pokémon!!) is the ninth chapter of the manga.",
+  "plainText": "(Japanese: ！ ポケモン！！ Aim to be the Strongest Pokémon!!) is the ninth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Red's)\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ！ ポケモン！！ Aim to be the Strongest Pokémon!!) is the ninth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Red's)\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP09",
+    "pageType": "chapter",
+    "searchableText": "PMDP09\nCategory:Pocket Monsters DP chapters\n(Japanese: ！ ポケモン！！ Aim to be the Strongest Pokémon!!) is the ninth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 217,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Mimi (BW035)",
+    "slug": "mimi-bw035",
+    "pageId": 141781,
+    "revisionId": 4201203
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "mimi-bw035__141781.json",
+    "revisionTimestamp": "2024-12-12T03:56:27Z",
+    "fetchedAt": "2026-05-14T14:37:08.811Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Mimi (Japanese: マオ Mao) is a character of the day who appeared in Where Did You Go, Audino?.\n\nOfficer Jenny asked and Christie to watch after Mimi's after many other Audino began to disappear in the town. Mimi was concerned that her Audino would be the next to disappear. However, Christie and Iris assured her that they had everything under control and put a tracking device on her Audino. Her worst fears came true when Audino began to act strangely and left her side.\n\nAfter the case was solved, it is assumed that Mimi got her Audino back safe and sound.",
+  "plainText": "Mimi (Japanese: マオ Mao) is a character of the day who appeared in Where Did You Go, Audino?.\n\nOfficer Jenny asked and Christie to watch after Mimi's after many other Audino began to disappear in the town. Mimi was concerned that her Audino would be the next to disappear. However, Christie and Iris assured her that they had everything under control and put a tracking device on her Audino. Her worst fears came true when Audino began to act strangely and left her side.\n\nAfter the case was solved, it is assumed that Mimi got her Audino back safe and sound.\n\n==Pokémon==\n \n\n==Voice actors==\n \n\n \n \n \n \n\nes:Mimi (Unova/Teselia)\nit:Mimi (NB035)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Mimi (Japanese: マオ Mao) is a character of the day who appeared in Where Did You Go, Audino?.\n\nOfficer Jenny asked and Christie to watch after Mimi's after many other Audino began to disappear in the town. Mimi was concerned that her Audino would be the next to disappear. However, Christie and Iris assured her that they had everything under control and put a tracking device on her Audino. Her worst fears came true when Audino began to act strangely and left her side.\n\nAfter the case was solved, it is assumed that Mimi got her Audino back safe and sound."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Mimi (Unova/Teselia)\nit:Mimi (NB035)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Mimi (BW035)",
+    "pageType": "character",
+    "searchableText": "Mimi (BW035)\nCategory:Unova characters of the day\nMimi (Japanese: マオ Mao) is a character of the day who appeared in Where Did You Go, Audino?.\n\nOfficer Jenny asked and Christie to watch after Mimi's after many other Audino began to disappear in the town. Mimi was concerned that her Audino would be the next to disappear. However, Christie and Iris assured her that they had everything under control and put a tracking device on her Audino. Her worst fears came true when Audino began to act strangely and left her side.\n\nAfter the case was solved, it is assumed that Mimi got her Audino back safe and sound.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 643,
+    "sectionCount": 2
+  }
+}

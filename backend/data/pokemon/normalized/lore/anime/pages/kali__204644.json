@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Kali",
+    "slug": "kali",
+    "pageId": 204644,
+    "revisionId": 4382897
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Gym assistants",
+    "sourceFileName": "kali__204644.json",
+    "revisionTimestamp": "2025-09-18T08:20:14Z",
+    "fetchedAt": "2026-05-14T14:28:24.199Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Kali (Japanese: キリカ Kirika) is a from the Laverre Gym. In , she is a recurring character who first appeared in A Fashionable Battle!.",
+  "plainText": "Kali (Japanese: キリカ Kirika) is a from the Laverre Gym. In , she is a recurring character who first appeared in A Fashionable Battle!.\n\n==In animation==\n===Pokémon the Series===\n==== ====\nKali is a loyal to Laverre City Gym Leader Valerie. She was first shown ordering other Furisode Girls around in preparation for a fashion show showcasing Valerie's fashion collection. She later appeared as one of the announcers of the fashion show and refereed a Gym between Valerie and Sawyer that was part of the fashion show.\n\nKali reappeared in Fairy-Type Trickery!, acting as the referee of and Valerie's Gym battle.\n\nShe reappeared in a flashback in Till We Compete Again!.\n\n====Voice actors====\n \n\n==In the core series games==\nKali appears in Pokémon X and Y as one of the s in the Laverre Gym.\n\n===Pokémon===\n \n \n \n \n==In the spin-off games==\n===Pokémon Masters EX===\n \nKali forms a sync pair with in Pokémon Masters EX. Kali became a playable sync pair on January 1, 2023.\n\n \n \n\n==Gallery==\n===Artwork===\n \n\n===Sprites and models===\n \n\n==Quotes==\n \n\n==In other languages==\n \n \n\n \n \n \n \n \n\nde:Irma\nes:Lia\nfr:Kirika\nit:Aisha\nzh:桐華",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kali (Japanese: キリカ Kirika) is a from the Laverre Gym. In , she is a recurring character who first appeared in A Fashionable Battle!."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Kali is a loyal to Laverre City Gym Leader Valerie. She was first shown ordering other Furisode Girls around in preparation for a fashion show showcasing Valerie's fashion collection. She later appeared as one of the announcers of the fashion show and refereed a Gym between Valerie and Sawyer that was part of the fashion show.\n\nKali reappeared in Fairy-Type Trickery!, acting as the referee of and Valerie's Gym battle.\n\nShe reappeared in a flashback in Till We Compete Again!."
+    },
+    {
+      "heading": "In the core series games",
+      "level": 2,
+      "text": "Kali appears in Pokémon X and Y as one of the s in the Laverre Gym."
+    },
+    {
+      "heading": "Pokémon Masters EX",
+      "level": 3,
+      "text": "Kali forms a sync pair with in Pokémon Masters EX. Kali became a playable sync pair on January 1, 2023."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Irma\nes:Lia\nfr:Kirika\nit:Aisha\nzh:桐華"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Kali",
+    "pageType": "general-anime-lore",
+    "searchableText": "Kali\nCategory:Gym assistants\nKali (Japanese: キリカ Kirika) is a from the Laverre Gym. In , she is a recurring character who first appeared in A Fashionable Battle!.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "In the core series games",
+      "Pokémon Masters EX",
+      "In other languages"
+    ],
+    "characterCount": 1124,
+    "sectionCount": 5
+  }
+}

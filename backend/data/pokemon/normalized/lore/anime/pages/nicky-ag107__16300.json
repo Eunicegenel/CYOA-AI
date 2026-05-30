@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Nicky (AG107)",
+    "slug": "nicky-ag107",
+    "pageId": 16300,
+    "revisionId": 4096188
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "nicky-ag107__16300.json",
+    "revisionTimestamp": "2024-09-01T01:28:40Z",
+    "fetchedAt": "2026-05-14T14:39:19.164Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Nicky (Japanese: ノボル Noboru) is a character of the day who appeared in Absol-ute Disaster.\n\nNicky lives in Riyado Town, a mountain village that felt under siege after a spate of accidents which they attributed to . After his older brother, , failed to return from his Absol expedition, the town assumed the Absol had gotten to him. But Nicky refused to believe that Absol was truly responsible for the accidents happening, and wanted to find out the truth for himself.\n\nWith the help of and , Nicky was able to track down both Gordon and Absol to nearby Square Top. They learned that the Absol was actually trying to warn the town about an imminent flood that was going to destroy it. Using their Pokémon, the kids were able to stop the flood from reaching the town. Due to this, the people of Riyado Town apologized to Absol.",
+  "plainText": "Nicky (Japanese: ノボル Noboru) is a character of the day who appeared in Absol-ute Disaster.\n\nNicky lives in Riyado Town, a mountain village that felt under siege after a spate of accidents which they attributed to . After his older brother, , failed to return from his Absol expedition, the town assumed the Absol had gotten to him. But Nicky refused to believe that Absol was truly responsible for the accidents happening, and wanted to find out the truth for himself.\n\nWith the help of and , Nicky was able to track down both Gordon and Absol to nearby Square Top. They learned that the Absol was actually trying to warn the town about an imminent flood that was going to destroy it. Using their Pokémon, the kids were able to stop the flood from reaching the town. Due to this, the people of Riyado Town apologized to Absol.\n\n==Voice actors==\n \n\n \n \n \n \n \n\nes:Nicky (Hoenn)\nit:Nicky",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Nicky (Japanese: ノボル Noboru) is a character of the day who appeared in Absol-ute Disaster.\n\nNicky lives in Riyado Town, a mountain village that felt under siege after a spate of accidents which they attributed to . After his older brother, , failed to return from his Absol expedition, the town assumed the Absol had gotten to him. But Nicky refused to believe that Absol was truly responsible for the accidents happening, and wanted to find out the truth for himself.\n\nWith the help of and , Nicky was able to track down both Gordon and Absol to nearby Square Top. They learned that the Absol was actually trying to warn the town about an imminent flood that was going to destroy it. Using their Pokémon, the kids were able to stop the flood from reaching the town. Due to this, the people of Riyado Town apologized to Absol."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Nicky (Hoenn)\nit:Nicky"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Nicky (AG107)",
+    "pageType": "character",
+    "searchableText": "Nicky (AG107)\nCategory:Hoenn characters of the day\nNicky (Japanese: ノボル Noboru) is a character of the day who appeared in Absol-ute Disaster.\n\nNicky lives in Riyado Town, a mountain village that felt under siege after a spate of accidents which they attributed to . After his older brother, , failed to return from his Absol expedition, the town assumed the Absol had gotten to him. But Nicky refused to believe that Absol was truly responsible for the accidents happening, and wanted to find out the truth for himself.\n\nWith the help of and , Nicky was able to track down both Gordon and Absol to nearby Square Top. They learned that the Absol was actually trying to warn the town about an imminent flood that was going to destroy it. Using their Pokémon, the kids were able to stop the flood from reaching the town. Due to this, the people of Riyado Town apologized to Absol.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 884,
+    "sectionCount": 2
+  }
+}

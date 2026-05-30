@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Sandra",
+    "slug": "sandra",
+    "pageId": 51319,
+    "revisionId": 4447946
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "sandra__51319.json",
+    "revisionTimestamp": "2025-12-17T02:01:19Z",
+    "fetchedAt": "2026-05-14T14:48:15.958Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Sandra (Japanese: ホシカ Hoshika) is a recurring character from . She lives with her mother, Savannah, in Rubello Town.",
+  "plainText": "Sandra (Japanese: ホシカ Hoshika) is a recurring character from . She lives with her mother, Savannah, in Rubello Town.\n\n==History==\nAs she was out with and in A Fan with a Plan, Savannah was surprised to see her young daughter doing the shopping, though appreciated the gesture. The following day, while and Savannah were practicing for the Rubello Town Contest, the boys met Sandra while she was out grocery shopping again. They later returned to the Pokémon Center, where May alerted Sandra and the boys to who had just stolen her and Savannah's Ribbons. Sandra sprung into action, narrowly escaping a hit from 's . Together, she and her mom ordered to send Team Rocket blasting off with a .\n\nIn Cruisin' for a Losin' , Sandra watched from the crowd as her mom competed in the Rubello Contest. She was particularly proud to see her mom use their practiced combinations to advance to the finals. Although Savannah failed to win the Rubello Contest, Sandra remained proud of her mother. \n\nSandra and her mom made a cameo appearance as they watched the Hoenn Grand Festival in Deceit and Assist.\n\n==Character==\nBecause her mom is so busy with being a mother, her duties with the Mothers for Pokémon club and participating in Contests, Sandra often helps her out by buying groceries and doing chores. She also assists her mom with her Contest strategies. During Savannah's battle with , it was Sandra's idea to have her mother's use an move while May's Bulbasaur used , thereby it. Sandra is very proud of her mother for winning a Ribbon, though she doesn't share her mother's same enthusiasm for battling.\n\n==Voice actors==\n \n\n==Trivia==\nSandra's Japanese name contains ホシ (hoshi), corresponding for 星 (star) while her mother's name contains ツキ (tsuki), corresponding for 月 (moon). In addition to this, she wears a star hair barrette while her mother wears crescent moon earrings.\n \n\n \n\nes:Sandra (anime)\nfr:Sandra (épisode 351)\nit:Sandra (Hoenn)\nzh:星加",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sandra (Japanese: ホシカ Hoshika) is a recurring character from . She lives with her mother, Savannah, in Rubello Town."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "As she was out with and in A Fan with a Plan, Savannah was surprised to see her young daughter doing the shopping, though appreciated the gesture. The following day, while and Savannah were practicing for the Rubello Town Contest, the boys met Sandra while she was out grocery shopping again. They later returned to the Pokémon Center, where May alerted Sandra and the boys to who had just stolen her and Savannah's Ribbons. Sandra sprung into action, narrowly escaping a hit from 's . Together, she and her mom ordered to send Team Rocket blasting off with a .\n\nIn Cruisin' for a Losin' , Sandra watched from the crowd as her mom competed in the Rubello Contest. She was particularly proud to see her mom use their practiced combinations to advance to the finals. Although Savannah failed to win the Rubello Contest, Sandra remained proud of her mother. \n\nSandra and her mom made a cameo appearance as they watched the Hoenn Grand Festival in Deceit and Assist."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Because her mom is so busy with being a mother, her duties with the Mothers for Pokémon club and participating in Contests, Sandra often helps her out by buying groceries and doing chores. She also assists her mom with her Contest strategies. During Savannah's battle with , it was Sandra's idea to have her mother's use an move while May's Bulbasaur used , thereby it. Sandra is very proud of her mother for winning a Ribbon, though she doesn't share her mother's same enthusiasm for battling."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Sandra's Japanese name contains ホシ (hoshi), corresponding for 星 (star) while her mother's name contains ツキ (tsuki), corresponding for 月 (moon). In addition to this, she wears a star hair barrette while her mother wears crescent moon earrings.\n \n\n \n\nes:Sandra (anime)\nfr:Sandra (épisode 351)\nit:Sandra (Hoenn)\nzh:星加"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sandra",
+    "pageType": "character",
+    "searchableText": "Sandra\nCategory:Animation characters\nSandra (Japanese: ホシカ Hoshika) is a recurring character from . She lives with her mother, Savannah, in Rubello Town.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Trivia"
+    ],
+    "characterCount": 1949,
+    "sectionCount": 4
+  }
+}

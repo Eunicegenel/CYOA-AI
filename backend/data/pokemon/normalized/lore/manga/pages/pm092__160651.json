@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM092",
+    "slug": "pm092",
+    "pageId": 160651,
+    "revisionId": 4527772
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm092__160651.json",
+    "revisionTimestamp": "2026-04-09T15:52:49Z",
+    "fetchedAt": "2026-05-14T15:31:27.525Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Celebi, the Green Guardian (Japanese: 緑の守り神·セレビィ The Green Guardian - Celebi) is the ninety-second chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Celebi, the Green Guardian (Japanese: 緑の守り神·セレビィ The Green Guardian - Celebi) is the ninety-second chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nVillagers\n\n===Pokémon===\n( ) \n( )\n( )\n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Celebi, the Green Guardian (Japanese: 緑の守り神·セレビィ The Green Guardian - Celebi) is the ninety-second chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Villagers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM092",
+    "pageType": "chapter",
+    "searchableText": "PM092\nCategory:Pokémon Pocket Monsters chapters\nCelebi, the Green Guardian (Japanese: 緑の守り神·セレビィ The Green Guardian - Celebi) is the ninety-second chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 292,
+    "sectionCount": 3
+  }
+}

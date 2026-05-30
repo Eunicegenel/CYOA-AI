@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "List of Japanese voice actors",
+    "slug": "list-of-japanese-voice-actors",
+    "pageId": 51773,
+    "revisionId": 4545105
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "list-of-japanese-voice-actors__51773.json",
+    "revisionTimestamp": "2026-05-05T13:26:35Z",
+    "fetchedAt": "2026-05-14T14:32:34.116Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "This is a list of the voice actors who have appeared in the Japanese version of Pokémon animation.",
+  "plainText": "This is a list of the voice actors who have appeared in the Japanese version of Pokémon animation.\n\n \n\n==Related articles==\nList of English voice actors\nList of international voice actors\n\n==External links==\nPokeani's seiyuu database\n\n \n\n \n \n\nit:Elenco dei doppiatori giapponesi\nja:ポケットモンスター声優一覧表\nzh:寶可夢動畫配音員",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of the voice actors who have appeared in the Japanese version of Pokémon animation."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "List of English voice actors\nList of international voice actors"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Pokeani's seiyuu database\n\n \n\n \n \n\nit:Elenco dei doppiatori giapponesi\nja:ポケットモンスター声優一覧表\nzh:寶可夢動畫配音員"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Japanese voice actors",
+    "pageType": "general-anime-lore",
+    "searchableText": "List of Japanese voice actors\nCategory:Japanese voice actors\nThis is a list of the voice actors who have appeared in the Japanese version of Pokémon animation.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles",
+      "External links"
+    ],
+    "characterCount": 308,
+    "sectionCount": 3
+  }
+}

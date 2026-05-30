@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Walkthrough:Detective Pikachu",
+    "slug": "walkthrough-detective-pikachu",
+    "pageId": 329682,
+    "revisionId": 4278039
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu walkthrough",
+    "sourceFileName": "walkthrough-detective-pikachu__329682.json",
+    "revisionTimestamp": "2025-04-07T20:29:14Z",
+    "fetchedAt": "2026-05-14T14:57:15.430Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "__NOEDITSECTION__\n \n\nThis is an in-depth walkthrough for Detective Pikachu for the Nintendo 3DS.",
+  "plainText": "__NOEDITSECTION__\n \n\nThis is an in-depth walkthrough for Detective Pikachu for the Nintendo 3DS.\n\n==Contents==\nChapter 1: Tahnti Park\nChapter 2: Litwick Cave\nChapter 3: PCL\nChapter 4: Cappucci Island\nChapter 5: Fine Park\nChapter 6: GNN\nChapter 7: Ryme Wharf\nChapter 8: Where R Goes\nChapter 9: Pokémon Carnival",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "__NOEDITSECTION__\n \n\nThis is an in-depth walkthrough for Detective Pikachu for the Nintendo 3DS."
+    },
+    {
+      "heading": "Contents",
+      "level": 2,
+      "text": "Chapter 1: Tahnti Park\nChapter 2: Litwick Cave\nChapter 3: PCL\nChapter 4: Cappucci Island\nChapter 5: Fine Park\nChapter 6: GNN\nChapter 7: Ryme Wharf\nChapter 8: Where R Goes\nChapter 9: Pokémon Carnival"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Walkthrough:Detective Pikachu",
+    "pageType": "general-anime-lore",
+    "searchableText": "Walkthrough:Detective Pikachu\nCategory:Detective Pikachu walkthrough\n__NOEDITSECTION__\n \n\nThis is an in-depth walkthrough for Detective Pikachu for the Nintendo 3DS.",
+    "sectionHeadings": [
+      "Lead",
+      "Contents"
+    ],
+    "characterCount": 309,
+    "sectionCount": 2
+  }
+}

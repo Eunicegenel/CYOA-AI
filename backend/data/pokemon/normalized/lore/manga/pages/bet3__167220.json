@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "BET3",
+    "slug": "bet3",
+    "pageId": 167220,
+    "revisionId": 3778254
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mystery Dungeon: Blazing Exploration Team chapters",
+    "sourceFileName": "bet3__167220.json",
+    "revisionTimestamp": "2023-08-22T07:46:51Z",
+    "fetchedAt": "2026-05-14T15:13:56.776Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 衝撃！暗黒の未来 The Shocking Dark Future!) is the third chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.",
+  "plainText": "(Japanese: 衝撃！暗黒の未来 The Shocking Dark Future!) is the third chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.\n\n==Plot==\n \n\n==Major events==\nTotodile, Honō, and Grovyle find themselves in the Dark Future.\nGrovyle reveals to Totodile that Dusknoir is evil as he tries to execute the three.\nWith quick thinking, Honō frees everyone, allowing Grovyle to allow them to escape.\nThe three quickly separate after an argument but quickly regroup to find a way back in time.\nAfter meeting with Celebi, the group goes to Passage of Time.\nUpon arriving, they are ambushed by Dusknoir and Primal Dialga.\n\n===Debuts===\n(Primal)\n\n==Characters==\n===Pokémon===\nHonō\n\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n\nPrimal Dialga\n(×6)\n\n==Trivia==\n \n \n \n\nde:Chapter 3 (Pokémon Mystery Dungeon 2)\nzh:BET3",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 衝撃！暗黒の未来 The Shocking Dark Future!) is the third chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Totodile, Honō, and Grovyle find themselves in the Dark Future.\nGrovyle reveals to Totodile that Dusknoir is evil as he tries to execute the three.\nWith quick thinking, Honō frees everyone, allowing Grovyle to allow them to escape.\nThe three quickly separate after an argument but quickly regroup to find a way back in time.\nAfter meeting with Celebi, the group goes to Passage of Time.\nUpon arriving, they are ambushed by Dusknoir and Primal Dialga."
+    },
+    {
+      "heading": "Debuts",
+      "level": 3,
+      "text": "(Primal)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "Honō\n\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n\nPrimal Dialga\n(×6)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Chapter 3 (Pokémon Mystery Dungeon 2)\nzh:BET3"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "BET3",
+    "pageType": "chapter",
+    "searchableText": "BET3\nCategory:Pokémon Mystery Dungeon: Blazing Exploration Team chapters\n(Japanese: 衝撃！暗黒の未来 The Shocking Dark Future!) is the third chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Debuts",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 807,
+    "sectionCount": 5
+  }
+}

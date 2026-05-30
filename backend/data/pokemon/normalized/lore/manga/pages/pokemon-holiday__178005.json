@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Holiday",
+    "slug": "pokemon-holiday",
+    "pageId": 178005,
+    "revisionId": 4168434
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey monthly issues",
+    "sourceFileName": "pokemon-holiday__178005.json",
+    "revisionTimestamp": "2024-10-26T16:25:47Z",
+    "fetchedAt": "2026-05-14T15:36:30.277Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Magical Pokémon Journey: Pokémon Holiday is the third monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the fifth and sixth chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+  "plainText": "Magical Pokémon Journey: Pokémon Holiday is the third monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the fifth and sixth chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.\n==Blurb==\nJIGGLYPUFF ROASTING ON AN OPEN FIRE\n\nIt's a Pokémon Christmas! Pikachu agrees to deliver a mirror as a present to Hazel from Hazel's granddad, but accidentally breaks it! Quick, are there any Pokémon with reflective surfaces? \n\nThen, Hazel and all her friends are invited to a castle...but who or what is the lord of the manor?\n\n==Publications==\n \n \n\n==Chapters==\nThe First Labor of Pikachu\nChristmas Wishes\n\n==Important events==\nGrandpa asks to deliver an important parcel to Hazel, but he breaks it by accident.\nThe cast celebrates it's first Christmas together.\nis introduced.\n's family is introduced.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magical Pokémon Journey: Pokémon Holiday is the third monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the fifth and sixth chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume."
+    },
+    {
+      "heading": "Blurb",
+      "level": 2,
+      "text": "JIGGLYPUFF ROASTING ON AN OPEN FIRE\n\nIt's a Pokémon Christmas! Pikachu agrees to deliver a mirror as a present to Hazel from Hazel's granddad, but accidentally breaks it! Quick, are there any Pokémon with reflective surfaces? \n\nThen, Hazel and all her friends are invited to a castle...but who or what is the lord of the manor?"
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "The First Labor of Pikachu\nChristmas Wishes"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Grandpa asks to deliver an important parcel to Hazel, but he breaks it by accident.\nThe cast celebrates it's first Christmas together.\nis introduced.\n's family is introduced."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Holiday",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Holiday\nCategory:Magical Pokémon Journey monthly issues\nMagical Pokémon Journey: Pokémon Holiday is the third monthly issue released by VIZ Media of the Magical Pokémon Journey manga created by Yumi Tsukirino. It contains the fifth and sixth chapters of the manga. The chapters originally released in this book were later re-released as part of . As a bonus, it contained a fold-out color poster which was not part of the regular volume.",
+    "sectionHeadings": [
+      "Lead",
+      "Blurb",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 996,
+    "sectionCount": 4
+  }
+}

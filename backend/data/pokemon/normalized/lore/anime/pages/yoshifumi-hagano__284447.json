@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Yoshifumi Hagano",
+    "slug": "yoshifumi-hagano",
+    "pageId": 284447,
+    "revisionId": 4216815
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation cast and crew",
+    "sourceFileName": "yoshifumi-hagano__284447.json",
+    "revisionTimestamp": "2025-01-07T18:09:41Z",
+    "fetchedAt": "2026-05-14T14:59:55.781Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Yoshifumi Hagano (Japanese: Hagano Yoshifumi) is an animator. His career on Pokémon began as a Key Animator on Pokémon the Series: Sun & Moon and the It'll be fine! music video, before being picked up as an Additional Character Designer on Pokémon: Hisuian Snow, where he was joined in this role by Namiko Torii under KURO.",
+  "plainText": "Yoshifumi Hagano (Japanese: Hagano Yoshifumi) is an animator. His career on Pokémon began as a Key Animator on Pokémon the Series: Sun & Moon and the It'll be fine! music video, before being picked up as an Additional Character Designer on Pokémon: Hisuian Snow, where he was joined in this role by Namiko Torii under KURO.\n\n==Credits==\n===Additional Character Design===\nPokémon: Hisuian Snow\n\n===Key Animation===\nPokémon the Series: Sun & Moon\nSM136\nSM141\nIt'll be fine!\n\n==External links==\nYoshifumi Hagano's Twitter account @yoshi_moco1 \nYoshifumi Hagano's ANN Page",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yoshifumi Hagano (Japanese: Hagano Yoshifumi) is an animator. His career on Pokémon began as a Key Animator on Pokémon the Series: Sun & Moon and the It'll be fine! music video, before being picked up as an Additional Character Designer on Pokémon: Hisuian Snow, where he was joined in this role by Namiko Torii under KURO."
+    },
+    {
+      "heading": "Additional Character Design",
+      "level": 3,
+      "text": "Pokémon: Hisuian Snow"
+    },
+    {
+      "heading": "Key Animation",
+      "level": 3,
+      "text": "Pokémon the Series: Sun & Moon\nSM136\nSM141\nIt'll be fine!"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Yoshifumi Hagano's Twitter account @yoshi_moco1 \nYoshifumi Hagano's ANN Page"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yoshifumi Hagano",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yoshifumi Hagano\nCategory:Animation cast and crew\nYoshifumi Hagano (Japanese: Hagano Yoshifumi) is an animator. His career on Pokémon began as a Key Animator on Pokémon the Series: Sun & Moon and the It'll be fine! music video, before being picked up as an Additional Character Designer on Pokémon: Hisuian Snow, where he was joined in this role by Namiko Torii under KURO.",
+    "sectionHeadings": [
+      "Lead",
+      "Additional Character Design",
+      "Key Animation",
+      "External links"
+    ],
+    "characterCount": 568,
+    "sectionCount": 4
+  }
+}

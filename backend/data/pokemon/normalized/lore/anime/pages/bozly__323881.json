@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Bozly",
+    "slug": "bozly",
+    "pageId": 323881,
+    "revisionId": 4487007
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:POKÉTOON characters",
+    "sourceFileName": "bozly__323881.json",
+    "revisionTimestamp": "2026-02-15T19:59:02Z",
+    "fetchedAt": "2026-05-14T14:05:54.561Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ボズリー Bozly) is a character who appeared in PT14. He is Meg's uncle and current warden of the Safari Zone.",
+  "plainText": "(Japanese: ボズリー Bozly) is a character who appeared in PT14. He is Meg's uncle and current warden of the Safari Zone.\n\n==History==\n \nBozly took over as the new Safari Zone warden after his father. In his early days, he had his hat stolen by his father's , which started a unilateral feud between them. The Chansey wearing a hat became popular at the Safari Zone, attracting s from all places. In order to protect these Trainers from potential dangers, Bozly started to close off some areas of the Safari Zone, a practice of his that became much more overbearing as the time passed.\n\nMeg decided to travel to the Safari Zone for her summer vacation and stayed at Bozly's house. Initially, he refused to talk much about Chansey to her, only saying she was a local troublemaker, but he eventually conceded and told her the details. One night, returning back from a night patrol, Bozly found Chansey at his house's steps and confronted her about their whole situation, but she remained unreadable to him.\n\nThe next day, he inadvertently learned about Meg's allergy after simply mentioning the move , which gave him an idea. They visited an area densily populated by , , and that were trapped there by the wind currents as a result of the sections being blocked off. He theorized that their were the cause of the weird things happening lately, namely the many Pokémon suffering from status conditions. As he explained, a Hoppip used to paralyze his , but Chansey quickly stepped in and cured it. Seeing how misguided he was, Bozly apologized to Chansey and recognized she was only trying to aid him in his role as the warden, and she finally returned his hat.\n \n\n==Pokémon==\n===On hand===\n \n\n==Voice actors==\n \n\n==Artwork==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ボズリー Bozly) is a character who appeared in PT14. He is Meg's uncle and current warden of the Safari Zone."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Bozly took over as the new Safari Zone warden after his father. In his early days, he had his hat stolen by his father's , which started a unilateral feud between them. The Chansey wearing a hat became popular at the Safari Zone, attracting s from all places. In order to protect these Trainers from potential dangers, Bozly started to close off some areas of the Safari Zone, a practice of his that became much more overbearing as the time passed.\n\nMeg decided to travel to the Safari Zone for her summer vacation and stayed at Bozly's house. Initially, he refused to talk much about Chansey to her, only saying she was a local troublemaker, but he eventually conceded and told her the details. One night, returning back from a night patrol, Bozly found Chansey at his house's steps and confronted her about their whole situation, but she remained unreadable to him.\n\nThe next day, he inadvertently learned about Meg's allergy after simply mentioning the move , which gave him an idea. They visited an area densily populated by , , and that were trapped there by the wind currents as a result of the sections being blocked off. He theorized that their were the cause of the weird things happening lately, namely the many Pokémon suffering from status conditions. As he explained, a Hoppip used to paralyze his , but Chansey quickly stepped in and cured it. Seeing how misguided he was, Bozly apologized to Chansey and recognized she was only trying to aid him in his role as the warden, and she finally returned his hat."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bozly",
+    "pageType": "character",
+    "searchableText": "Bozly\nCategory:POKÉTOON characters\n(Japanese: ボズリー Bozly) is a character who appeared in PT14. He is Meg's uncle and current warden of the Safari Zone.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 1717,
+    "sectionCount": 2
+  }
+}

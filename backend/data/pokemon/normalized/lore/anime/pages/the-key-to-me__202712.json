@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "The Key to Me",
+    "slug": "the-key-to-me",
+    "pageId": 202712,
+    "revisionId": 4220557
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:English ending themes",
+    "sourceFileName": "the-key-to-me__202712.json",
+    "revisionTimestamp": "2025-01-13T23:26:02Z",
+    "fetchedAt": "2026-05-14T14:54:05.318Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "The Key to Me is the English ending theme for Pikachu, What's This Key?. It is included on the Pokémon Movie Music Collection album.",
+  "plainText": "The Key to Me is the English ending theme for Pikachu, What's This Key?. It is included on the Pokémon Movie Music Collection album.\n\n==Lyrics==\n Show me the key to you\nI'll show you the key to me\nWe're gonna be best friends\nJoin me\nOn a journey that never ends\nWhat do you like to do?\nWho do you want to be?\nShow me the key to you\nI'll show you...I'll show you the key to me\n\nWe jump around 'n' round 'n' round 'n' round\nWe're flyin' round 'n' round and up and down\nWe jump around 'n' round 'n' round 'n' round\nWe're flyin' round 'n' round and up and down\n\nShow me the key to you\nI'll show you the key to me\nBehind every door\nAre new worlds\nNew places to explore\nWhere do you want to go?\nWhat do you want to see?\nShow me the key to you\nI'll show you...I'll show you the key to me\n\nWe're in the clouds clouds clouds clouds\nWe're singin' loud 'n' loud 'n' loud 'n' loud\nWe jump around 'n' round 'n' round 'n' round\nWe jump around 'n' round and up and down\nWe jump around 'n' round 'n' round 'n' round\nWe're bouncin' round 'n' round and up and down\nWe jump around 'n' round 'n' round 'n' round\nWe're bouncin' round 'n' round and up and down \n\n==Credits==\nComposed by Ed Goldfarb\nMusic editing and assistance: Akhil Gopal\nWords and Music by Ed Goldfarb\nPerformed by Dani Marcus\nArranged and produced by Ed Goldfarb\nMixed by Jeff Saltzman\n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n\nde:The Key to Me\nes:La llave de la amistad",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Key to Me is the English ending theme for Pikachu, What's This Key?. It is included on the Pokémon Movie Music Collection album."
+    },
+    {
+      "heading": "Lyrics",
+      "level": 2,
+      "text": "Show me the key to you\nI'll show you the key to me\nWe're gonna be best friends\nJoin me\nOn a journey that never ends\nWhat do you like to do?\nWho do you want to be?\nShow me the key to you\nI'll show you...I'll show you the key to me\n\nWe jump around 'n' round 'n' round 'n' round\nWe're flyin' round 'n' round and up and down\nWe jump around 'n' round 'n' round 'n' round\nWe're flyin' round 'n' round and up and down\n\nShow me the key to you\nI'll show you the key to me\nBehind every door\nAre new worlds\nNew places to explore\nWhere do you want to go?\nWhat do you want to see?\nShow me the key to you\nI'll show you...I'll show you the key to me\n\nWe're in the clouds clouds clouds clouds\nWe're singin' loud 'n' loud 'n' loud 'n' loud\nWe jump around 'n' round 'n' round 'n' round\nWe jump around 'n' round and up and down\nWe jump around 'n' round 'n' round 'n' round\nWe're bouncin' round 'n' round and up and down\nWe jump around 'n' round 'n' round 'n' round\nWe're bouncin' round 'n' round and up and down"
+    },
+    {
+      "heading": "Credits",
+      "level": 2,
+      "text": "Composed by Ed Goldfarb\nMusic editing and assistance: Akhil Gopal\nWords and Music by Ed Goldfarb\nPerformed by Dani Marcus\nArranged and produced by Ed Goldfarb\nMixed by Jeff Saltzman"
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:The Key to Me\nes:La llave de la amistad"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "The Key to Me",
+    "pageType": "general-anime-lore",
+    "searchableText": "The Key to Me\nCategory:English ending themes\nThe Key to Me is the English ending theme for Pikachu, What's This Key?. It is included on the Pokémon Movie Music Collection album.",
+    "sectionHeadings": [
+      "Lead",
+      "Lyrics",
+      "Credits",
+      "Related articles"
+    ],
+    "characterCount": 1433,
+    "sectionCount": 4
+  }
+}

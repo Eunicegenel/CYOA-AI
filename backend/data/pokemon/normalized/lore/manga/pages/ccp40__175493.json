@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "CCP40",
+    "slug": "ccp40",
+    "pageId": 175493,
+    "revisionId": 4527763
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters",
+    "sourceFileName": "ccp40__175493.json",
+    "revisionTimestamp": "2026-04-09T15:52:19Z",
+    "fetchedAt": "2026-05-14T15:15:32.584Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ちるのプロポーズ成就!?ちゃも Chiru's Proposal Completion!? (chamo)) is the 40th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+  "plainText": "(Japanese: ちるのプロポーズ成就!?ちゃも Chiru's Proposal Completion!? (chamo)) is the 40th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n(Chiru-Chiru; multiple)\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n(debut)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ちるのプロポーズ成就!?ちゃも Chiru's Proposal Completion!? (chamo)) is the 40th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Chiru-Chiru; multiple)\n(Pokémon Chamo-Chamo ☆ Pretty ♪)\n(debut)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CCP40",
+    "pageType": "chapter",
+    "searchableText": "CCP40\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ chapters\n(Japanese: ちるのプロポーズ成就!?ちゃも Chiru's Proposal Completion!? (chamo)) is the 40th chapter of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 310,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "JNM01",
+    "slug": "jnm01",
+    "pageId": 244544,
+    "revisionId": 4527865
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm01__244544.json",
+    "revisionTimestamp": "2026-04-09T15:56:23Z",
+    "fetchedAt": "2026-05-14T15:22:40.835Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Legend? Check! Friends? Check! (Japanese: サトシとゴウ、ルギアでゴー！ and , Let's Go by Lugia!) is the first chapter of the manga. It is based on the Pokémon Journeys: The Series episode Legend? Go! Friends? Go!.",
+  "plainText": "Legend? Check! Friends? Check! (Japanese: サトシとゴウ、ルギアでゴー！ and , Let's Go by Lugia!) is the first chapter of the manga. It is based on the Pokémon Journeys: The Series episode Legend? Go! Friends? Go!.\n\n==Plot==\n \n\n==Major events==\nmeets Chloe, Professor Cerise, and Goh for the first time.\nThe Cerise Laboratory is officially opened in Vermilion City.\nProfessor Cerise appoints Ash and Goh as his research fellows.\n\n===Debuts===\n====Humans====\n\nGoh\nChloe\n\nProfessor Cerise\n\n====Pokémon debuts====\n( )\n( )\n( ; Ash-Greninja)\n( )\n( ; )\n( )\n\n==Characters==\n===Humans===\n\nGoh\n\nChloe\nProfessor Cerise\nTownspeople\nTrainers\n\n===Pokémon===\n( )\n( ; fantasy)\n( ; Ash-Greninja; fantasy)\n( ; fantasy)\n( ; ; fantasy)\n( )\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(multiple)\n(multiple)\n\n(×3)\n(×5)\n(×2)\n\n(×2)\n(×2)\n(×4)\n(×2)\n\n(×2)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n\n \n\n \n \n \n\nde:Legende? Los! Freunde? Los! (Pokémon Reisen)\nes:PV001\nit:JNM01\nzh:宝可梦 旅途 ～小智与小豪的故事！～ 第1话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Legend? Check! Friends? Check! (Japanese: サトシとゴウ、ルギアでゴー！ and , Let's Go by Lugia!) is the first chapter of the manga. It is based on the Pokémon Journeys: The Series episode Legend? Go! Friends? Go!."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "meets Chloe, Professor Cerise, and Goh for the first time.\nThe Cerise Laboratory is officially opened in Vermilion City.\nProfessor Cerise appoints Ash and Goh as his research fellows."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Goh\nChloe\n\nProfessor Cerise"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )\n( ; Ash-Greninja)\n( )\n( ; )\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\n\nChloe\nProfessor Cerise\nTownspeople\nTrainers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( ; fantasy)\n( ; Ash-Greninja; fantasy)\n( ; fantasy)\n( ; ; fantasy)\n( )\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(Trainer's)\n(multiple)\n(multiple)\n\n(×3)\n(×5)\n(×2)\n\n(×2)\n(×2)\n(×4)\n(×2)\n\n(×2)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n(fantasy)\n\n \n\n \n \n \n\nde:Legende? Los! Freunde? Los! (Pokémon Reisen)\nes:PV001\nit:JNM01\nzh:宝可梦 旅途 ～小智与小豪的故事！～ 第1话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM01",
+    "pageType": "chapter",
+    "searchableText": "JNM01\nCategory:Pokémon Journeys chapters\nLegend? Check! Friends? Check! (Japanese: サトシとゴウ、ルギアでゴー！ and , Let's Go by Lugia!) is the first chapter of the manga. It is based on the Pokémon Journeys: The Series episode Legend? Go! Friends? Go!.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1011,
+    "sectionCount": 6
+  }
+}

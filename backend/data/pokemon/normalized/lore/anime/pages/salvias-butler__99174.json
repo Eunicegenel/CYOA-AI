@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Salvia's butler",
+    "slug": "salvias-butler",
+    "pageId": 99174,
+    "revisionId": 4167772
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "salvias-butler__99174.json",
+    "revisionTimestamp": "2024-10-25T21:58:57Z",
+    "fetchedAt": "2026-05-14T14:48:06.579Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Princess Salvia's butler (Japanese: 執事 butler) is a character of the day who appeared in Dawn of a Royal Day!. He is one of the staff members working for Princess Salvia.\n\nSalvia's butler is very strict, always making sure that she acts properly. He was unaware that and Salvia had switched places for the day so that Salvia could participate in the Arrowroot Town Pokémon Contest. As such, he was puzzled and embarrassed as to why \"Salvia\" was acting so strange and improper all of a sudden.\n\nHe came close to discovering Dawn and Salvia's switch, but Ash and managed to leave before he found out.",
+  "plainText": "Princess Salvia's butler (Japanese: 執事 butler) is a character of the day who appeared in Dawn of a Royal Day!. He is one of the staff members working for Princess Salvia.\n\nSalvia's butler is very strict, always making sure that she acts properly. He was unaware that and Salvia had switched places for the day so that Salvia could participate in the Arrowroot Town Pokémon Contest. As such, he was puzzled and embarrassed as to why \"Salvia\" was acting so strange and improper all of a sudden.\n\nHe came close to discovering Dawn and Salvia's switch, but Ash and managed to leave before he found out.\n\n==Voice actors==\n \n \n \n \n \n \n \n\nit:Maggiordomo di Salvia\nja:執事 (DP編第171話)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Princess Salvia's butler (Japanese: 執事 butler) is a character of the day who appeared in Dawn of a Royal Day!. He is one of the staff members working for Princess Salvia.\n\nSalvia's butler is very strict, always making sure that she acts properly. He was unaware that and Salvia had switched places for the day so that Salvia could participate in the Arrowroot Town Pokémon Contest. As such, he was puzzled and embarrassed as to why \"Salvia\" was acting so strange and improper all of a sudden.\n\nHe came close to discovering Dawn and Salvia's switch, but Ash and managed to leave before he found out."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "it:Maggiordomo di Salvia\nja:執事 (DP編第171話)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Salvia's butler",
+    "pageType": "character",
+    "searchableText": "Salvia's butler\nCategory:Sinnoh characters of the day\nPrincess Salvia's butler (Japanese: 執事 butler) is a character of the day who appeared in Dawn of a Royal Day!. He is one of the staff members working for Princess Salvia.\n\nSalvia's butler is very strict, always making sure that she acts properly. He was unaware that and Salvia had switched places for the day so that Salvia could participate in the Arrowroot Town Pokémon Contest. As such, he was puzzled and embarrassed as to why \"Salvia\" was acting so strange and improper all of a sudden.\n\nHe came close to discovering Dawn and Salvia's switch, but Ash and managed to leave before he found out.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 673,
+    "sectionCount": 2
+  }
+}

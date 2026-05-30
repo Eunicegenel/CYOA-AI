@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Tarroco Island",
+    "slug": "tarroco-island",
+    "pageId": 60456,
+    "revisionId": 4282139
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands",
+    "sourceFileName": "tarroco-island__60456.json",
+    "revisionTimestamp": "2025-04-16T19:52:31Z",
+    "fetchedAt": "2026-05-14T14:53:09.551Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Tarroco Island (Japanese: バンペイユ島 Banpeiyu Island) is one of the Orange Islands. \n\nA small settlement, including several houses and a Pokémon Center, is located on a cliff overlooking the ocean. An Officer Jenny patrols the streets of Tarroco Island.\n\nBecause the island is a 'no-capture zone', it is a very common place for pirates to appear and poach the Pokémon on the island. When and arrived on Tarroco in Viva Las Lapras they learned Captain Crook and his crew were targeting a migrating school of nearby. Ash's Lapras, who had become stranded, recognized these Lapras as its own school. It and the group helped defeat Captain Crook before leaving Ash's team to return to its family.",
+  "plainText": "Tarroco Island (Japanese: バンペイユ島 Banpeiyu Island) is one of the Orange Islands. \n\nA small settlement, including several houses and a Pokémon Center, is located on a cliff overlooking the ocean. An Officer Jenny patrols the streets of Tarroco Island.\n\nBecause the island is a 'no-capture zone', it is a very common place for pirates to appear and poach the Pokémon on the island. When and arrived on Tarroco in Viva Las Lapras they learned Captain Crook and his crew were targeting a migrating school of nearby. Ash's Lapras, who had become stranded, recognized these Lapras as its own school. It and the group helped defeat Captain Crook before leaving Ash's team to return to its family.\n \n\n==Pokémon seen around Tarroco Island==\n \n\n==Trivia==\nIts English name refers to the tarocco ( ), while its Japanese, Banpeiyu, name is another term for the , a large citrus fruit whose appearance is similar to a grapefruit.\n\n==Related articles==\n \n \n \n\nde:Tarroco Island\nes:Isla Tarroco\nit:Isola Tarroco\nzh:晚白柚岛",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Tarroco Island (Japanese: バンペイユ島 Banpeiyu Island) is one of the Orange Islands. \n\nA small settlement, including several houses and a Pokémon Center, is located on a cliff overlooking the ocean. An Officer Jenny patrols the streets of Tarroco Island.\n\nBecause the island is a 'no-capture zone', it is a very common place for pirates to appear and poach the Pokémon on the island. When and arrived on Tarroco in Viva Las Lapras they learned Captain Crook and his crew were targeting a migrating school of nearby. Ash's Lapras, who had become stranded, recognized these Lapras as its own school. It and the group helped defeat Captain Crook before leaving Ash's team to return to its family."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Its English name refers to the tarocco ( ), while its Japanese, Banpeiyu, name is another term for the , a large citrus fruit whose appearance is similar to a grapefruit."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Tarroco Island\nes:Isla Tarroco\nit:Isola Tarroco\nzh:晚白柚岛"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Tarroco Island",
+    "pageType": "general-anime-lore",
+    "searchableText": "Tarroco Island\nCategory:Orange Islands\nTarroco Island (Japanese: バンペイユ島 Banpeiyu Island) is one of the Orange Islands. \n\nA small settlement, including several houses and a Pokémon Center, is located on a cliff overlooking the ocean. An Officer Jenny patrols the streets of Tarroco Island.\n\nBecause the island is a 'no-capture zone', it is a very common place for pirates to appear and poach the Pokémon on the island. When and arrived on Tarroco in Viva Las Lapras they learned Captain Crook and his crew were targeting a migrating school of nearby. Ash's Lapras, who had become stranded, recognized these Lapras as its own school. It and the group helped defeat Captain Crook before leaving Ash's team to return to its family.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1003,
+    "sectionCount": 3
+  }
+}

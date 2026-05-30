@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "GNN",
+    "slug": "gnn",
+    "pageId": 235986,
+    "revisionId": 4545671
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu locations",
+    "sourceFileName": "gnn__235986.json",
+    "revisionTimestamp": "2026-05-06T11:28:52Z",
+    "fetchedAt": "2026-05-14T14:20:41.322Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "]]\nGNN (Japanese: GNN) is a popular local television station headquartered in Ryme City in the game . Most of Chapter 6 takes place here.\n\nThe company's president is Ethan Graham. Emilia Christie, Meiko Okamoto, Keith Norman and Roger Clifford work as a news reporter, a camerawoman, an assistant director, and a producer for GNN, respectively.",
+  "plainText": "]]\nGNN (Japanese: GNN) is a popular local television station headquartered in Ryme City in the game . Most of Chapter 6 takes place here.\n\nThe company's president is Ethan Graham. Emilia Christie, Meiko Okamoto, Keith Norman and Roger Clifford work as a news reporter, a camerawoman, an assistant director, and a producer for GNN, respectively.\n\n==Pokémon==\n \n\n==In other languages==\n \n\n \n \n\n \n \n\nfr:GNN\nzh:ＧＮＮ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "]]\nGNN (Japanese: GNN) is a popular local television station headquartered in Ryme City in the game . Most of Chapter 6 takes place here.\n\nThe company's president is Ethan Graham. Emilia Christie, Meiko Okamoto, Keith Norman and Roger Clifford work as a news reporter, a camerawoman, an assistant director, and a producer for GNN, respectively."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "fr:GNN\nzh:ＧＮＮ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GNN",
+    "pageType": "location",
+    "searchableText": "GNN\nCategory:Detective Pikachu locations\n]]\nGNN (Japanese: GNN) is a popular local television station headquartered in Ryme City in the game . Most of Chapter 6 takes place here.\n\nThe company's president is Ethan Graham. Emilia Christie, Meiko Okamoto, Keith Norman and Roger Clifford work as a news reporter, a camerawoman, an assistant director, and a producer for GNN, respectively.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 410,
+    "sectionCount": 2
+  }
+}

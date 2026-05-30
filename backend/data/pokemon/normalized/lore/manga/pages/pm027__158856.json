@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM027",
+    "slug": "pm027",
+    "pageId": 158856,
+    "revisionId": 4264342
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm027__158856.json",
+    "revisionTimestamp": "2025-03-23T17:35:28Z",
+    "fetchedAt": "2026-05-14T15:30:46.380Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Curry Showdown! Which is the Most Delicious? (Japanese: カレー対決！！ おいしいのはどっち？ Curry Showdown!! Which is the Most Delicious?) is the twenty-seventh chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Curry Showdown! Which is the Most Delicious? (Japanese: カレー対決！！ おいしいのはどっち？ Curry Showdown!! Which is the Most Delicious?) is the twenty-seventh chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \nA curry showdown is about to start between and . Who will win the contest?\n\n==Major events==\nhas a curry cooking competition with his rival, .\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n( 's)\n( 's)\n\n==Trivia==\n\n \n\n \n\nde:Kapitel 27 (Pokémon Pocket Monsters)\nit:PMM027",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Curry Showdown! Which is the Most Delicious? (Japanese: カレー対決！！ おいしいのはどっち？ Curry Showdown!! Which is the Most Delicious?) is the twenty-seventh chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "A curry showdown is about to start between and . Who will win the contest?"
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "has a curry cooking competition with his rival, ."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 27 (Pokémon Pocket Monsters)\nit:PMM027"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM027",
+    "pageType": "chapter",
+    "searchableText": "PM027\nCategory:Pokémon Pocket Monsters chapters\nCurry Showdown! Which is the Most Delicious? (Japanese: カレー対決！！ おいしいのはどっち？ Curry Showdown!! Which is the Most Delicious?) is the twenty-seventh chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 519,
+    "sectionCount": 5
+  }
+}

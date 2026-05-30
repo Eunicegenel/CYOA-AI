@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Concetta",
+    "slug": "concetta",
+    "pageId": 211031,
+    "revisionId": 4289261
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Performers",
+    "sourceFileName": "concetta__211031.json",
+    "revisionTimestamp": "2025-04-28T19:50:42Z",
+    "fetchedAt": "2026-05-14T14:10:17.982Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Concetta (Japanese: キャル Cal) is a minor recurring character in . She is a Pokémon Performer.",
+  "plainText": "Concetta (Japanese: キャル Cal) is a minor recurring character in . She is a Pokémon Performer.\n\n==History==\n \nConcetta first appeared in A Performance Pop Quiz! as a participant in the Anistar City Pokémon Showcase Rookie Class. In the Theme Performance, she competed against and another Performer, but failed to make it to the Freestyle Performance.\n\nIn Party Dancecapades!, Concetta was seen attending a dance party hosted by Monsieur Pierre.\n\nConcetta later competed in the Showcase Rookie Class in Master Class Choices!, where she once again failed to make it past the Theme Performance.\n\nIn Master Class Is in Session!, Concetta competed in the Pokémon Showcase Master Class in Gloire City. In the first round, she went up against Nini and Jessilee. Her performance did not get enough votes from the audience, however, and she was placed in the third spot of the group.\n\nShe appeared alongside Sara Lee in the Poké Problem segment of When Regions Collide!, where they were shown wearing casual clothes and carrying their luggage at an airport in Kanto.\n\n==Pokémon==\n \n \n\n==Showcases==\n===Princess Keys obtained===\nThis listing is of the s Concetta has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)\n\n===Master Class ranking===\nConcetta has achieved the following ranking in the Master Class tournament:\nShowcase - (Master Class Is in Session!)\n\n===Other achievements===\nConcetta has competed in the following Rookie Class tournaments:\nShowcase - Theme Performance (A Performance Pop Quiz!)\nShowcase - Theme Performance (Master Class Choices!)\n\n==Voice actors==\n \n\n==Trivia==\nIn Master Class Choices!, Concetta is referred to as Kiri in the dub.\n \n \n \n \n\nes:Connie/Concetta\nfr:Sirella\nit:Concetta\nja:キャル\nzh:凱兒",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Concetta (Japanese: キャル Cal) is a minor recurring character in . She is a Pokémon Performer."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Concetta first appeared in A Performance Pop Quiz! as a participant in the Anistar City Pokémon Showcase Rookie Class. In the Theme Performance, she competed against and another Performer, but failed to make it to the Freestyle Performance.\n\nIn Party Dancecapades!, Concetta was seen attending a dance party hosted by Monsieur Pierre.\n\nConcetta later competed in the Showcase Rookie Class in Master Class Choices!, where she once again failed to make it past the Theme Performance.\n\nIn Master Class Is in Session!, Concetta competed in the Pokémon Showcase Master Class in Gloire City. In the first round, she went up against Nini and Jessilee. Her performance did not get enough votes from the audience, however, and she was placed in the third spot of the group.\n\nShe appeared alongside Sara Lee in the Poké Problem segment of When Regions Collide!, where they were shown wearing casual clothes and carrying their luggage at an airport in Kanto."
+    },
+    {
+      "heading": "Princess Keys obtained",
+      "level": 3,
+      "text": "This listing is of the s Concetta has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)"
+    },
+    {
+      "heading": "Master Class ranking",
+      "level": 3,
+      "text": "Concetta has achieved the following ranking in the Master Class tournament:\nShowcase - (Master Class Is in Session!)"
+    },
+    {
+      "heading": "Other achievements",
+      "level": 3,
+      "text": "Concetta has competed in the following Rookie Class tournaments:\nShowcase - Theme Performance (A Performance Pop Quiz!)\nShowcase - Theme Performance (Master Class Choices!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In Master Class Choices!, Concetta is referred to as Kiri in the dub.\n \n \n \n \n\nes:Connie/Concetta\nfr:Sirella\nit:Concetta\nja:キャル\nzh:凱兒"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Concetta",
+    "pageType": "general-anime-lore",
+    "searchableText": "Concetta\nCategory:Performers\nConcetta (Japanese: キャル Cal) is a minor recurring character in . She is a Pokémon Performer.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Princess Keys obtained",
+      "Master Class ranking",
+      "Other achievements",
+      "Trivia"
+    ],
+    "characterCount": 1742,
+    "sectionCount": 6
+  }
+}

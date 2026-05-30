@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Yambera",
+    "slug": "yambera",
+    "pageId": 152938,
+    "revisionId": 4534518
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Orange Islands",
+    "sourceFileName": "yambera__152938.json",
+    "revisionTimestamp": "2026-04-18T20:47:30Z",
+    "fetchedAt": "2026-05-14T14:59:42.758Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "(Japanese: ヤンベラ Yambera) is a village located on the eastern part of Mandarin Island South.\nIt is a little village with many historic buildings, contrasting the modern cities of Mandarin Island South, such as Trovitopolis. Yambera is known to host annual Pokémon Contests.\n\nIt is the hometown of rivals and , who are also next-door neighbors. In Wherefore Art Thou, Pokémon?, was determined to help Ralph's and Emily's lovestruck Nidoran become a couple. While their Trainers initially disagreed, a battle against led Ralph and Emily to accept that their Nidoran, who subsequently evolved into and , respectively, were destined to be together.",
+  "plainText": "(Japanese: ヤンベラ Yambera) is a village located on the eastern part of Mandarin Island South.\nIt is a little village with many historic buildings, contrasting the modern cities of Mandarin Island South, such as Trovitopolis. Yambera is known to host annual Pokémon Contests.\n\nIt is the hometown of rivals and , who are also next-door neighbors. In Wherefore Art Thou, Pokémon?, was determined to help Ralph's and Emily's lovestruck Nidoran become a couple. While their Trainers initially disagreed, a battle against led Ralph and Emily to accept that their Nidoran, who subsequently evolved into and , respectively, were destined to be together.\n\n==Places of interest==\n===Pokémon Center===\n \n and stayed at the local Pokémon Center during their time in Yambera.\n\n===Church===\nA Christian church is located in the village center, and is where wedding ceremonies are held for the residents. It appears to be taller than its surrounding buildings. The brown stone building has a bell tower with three bells and a Christian cross on top. Its entrance features a red arch door, and a paved path and hedged garden leads to its entry steps. \n\n==Gallery==\n \n\n==Pokémon seen in Yambera==\n \n\n==Trivia==\nThe architecture in Yambera appears to be a mix of early and construction.\nDue to the heavy influence of William Shakespeare on this episode's plot (an homage to Romeo & Juliet), it is highly likely (but unconfirmed) that the town and its architecture may have been inspired by Stratford-Upon-Avon, which is where Shakespeare was born and raised.\n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n\nes:Yambera\nit:Yambera\nzh:洋贝拉市",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ヤンベラ Yambera) is a village located on the eastern part of Mandarin Island South.\nIt is a little village with many historic buildings, contrasting the modern cities of Mandarin Island South, such as Trovitopolis. Yambera is known to host annual Pokémon Contests.\n\nIt is the hometown of rivals and , who are also next-door neighbors. In Wherefore Art Thou, Pokémon?, was determined to help Ralph's and Emily's lovestruck Nidoran become a couple. While their Trainers initially disagreed, a battle against led Ralph and Emily to accept that their Nidoran, who subsequently evolved into and , respectively, were destined to be together."
+    },
+    {
+      "heading": "Pokémon Center",
+      "level": 3,
+      "text": "and stayed at the local Pokémon Center during their time in Yambera."
+    },
+    {
+      "heading": "Church",
+      "level": 3,
+      "text": "A Christian church is located in the village center, and is where wedding ceremonies are held for the residents. It appears to be taller than its surrounding buildings. The brown stone building has a bell tower with three bells and a Christian cross on top. Its entrance features a red arch door, and a paved path and hedged garden leads to its entry steps."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The architecture in Yambera appears to be a mix of early and construction.\nDue to the heavy influence of William Shakespeare on this episode's plot (an homage to Romeo & Juliet), it is highly likely (but unconfirmed) that the town and its architecture may have been inspired by Stratford-Upon-Avon, which is where Shakespeare was born and raised."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Yambera\nit:Yambera\nzh:洋贝拉市"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yambera",
+    "pageType": "general-anime-lore",
+    "searchableText": "Yambera\nCategory:Orange Islands\n(Japanese: ヤンベラ Yambera) is a village located on the eastern part of Mandarin Island South.\nIt is a little village with many historic buildings, contrasting the modern cities of Mandarin Island South, such as Trovitopolis. Yambera is known to host annual Pokémon Contests.\n\nIt is the hometown of rivals and , who are also next-door neighbors. In Wherefore Art Thou, Pokémon?, was determined to help Ralph's and Emily's lovestruck Nidoran become a couple. While their Trainers initially disagreed, a battle against led Ralph and Emily to accept that their Nidoran, who subsequently evolved into and , respectively, were destined to be together.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon Center",
+      "Church",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1624,
+    "sectionCount": 5
+  }
+}

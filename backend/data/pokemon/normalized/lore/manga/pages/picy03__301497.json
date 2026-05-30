@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PICY03",
+    "slug": "picy03",
+    "pageId": 301497,
+    "revisionId": 4528078
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon the Movie: I Choose You! chapters",
+    "sourceFileName": "picy03__301497.json",
+    "revisionTimestamp": "2026-04-09T16:06:10Z",
+    "fetchedAt": "2026-05-14T15:30:06.092Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Chapter 3 (Japanese: 第３話 Chapter 3) is the third chapter of Pokémon the Movie: I Choose You!",
+  "plainText": "Chapter 3 (Japanese: 第３話 Chapter 3) is the third chapter of Pokémon the Movie: I Choose You!\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Humans====\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nJessie\nJames\nVerity\nSorrel\n\n===Pokémon===\n( 's)\n( )\n(Verity's)\n(Sorrel's)\n\n==Differences between the movie and the manga==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Chapter 3 (Japanese: 第３話 Chapter 3) is the third chapter of Pokémon the Movie: I Choose You!"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jessie\nJames\nVerity\nSorrel"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n( )\n(Verity's)\n(Sorrel's)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PICY03",
+    "pageType": "chapter",
+    "searchableText": "PICY03\nCategory:Pokémon the Movie: I Choose You! chapters\nChapter 3 (Japanese: 第３話 Chapter 3) is the third chapter of Pokémon the Movie: I Choose You!",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 328,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Shiro",
+    "slug": "shiro",
+    "pageId": 15468,
+    "revisionId": 4315847
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "shiro__15468.json",
+    "revisionTimestamp": "2025-06-04T16:43:03Z",
+    "fetchedAt": "2026-05-14T14:49:33.311Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Shiro (Japanese: ジロウ Jirō) is a character of the day who appeared in the episode Two Hits and a Miss.\n\nShiro is a who earned himself the nickname of \"Dojo Destroyer\" after he had claimed victory over 11 fighting dojos. After each victory, he would take their plaques as trophies in the hopes of gaining his future students' respect.\n\nShiro showed up at 's dojo one day, saying he wanted to battle it in order to achieve his goal of becoming a and opening his own Fighting Dojo in his hometown. Kenzo accepted Shiro's battle challenge, but forfeited because of his bad back. Kenzo did not want his granddaughter Chigusa to be the next Shihan, but because he could not battle himself, he allowed her to battle Shiro instead. She eventually succeeded in defeating Shiro after training with , by using her . Shiro then told Kenzo that he saw why his dojo had such an excellent reputation, with Kenzo replying that he was gracious in defeat.",
+  "plainText": "Shiro (Japanese: ジロウ Jirō) is a character of the day who appeared in the episode Two Hits and a Miss.\n\nShiro is a who earned himself the nickname of \"Dojo Destroyer\" after he had claimed victory over 11 fighting dojos. After each victory, he would take their plaques as trophies in the hopes of gaining his future students' respect.\n\nShiro showed up at 's dojo one day, saying he wanted to battle it in order to achieve his goal of becoming a and opening his own Fighting Dojo in his hometown. Kenzo accepted Shiro's battle challenge, but forfeited because of his bad back. Kenzo did not want his granddaughter Chigusa to be the next Shihan, but because he could not battle himself, he allowed her to battle Shiro instead. She eventually succeeded in defeating Shiro after training with , by using her . Shiro then told Kenzo that he saw why his dojo had such an excellent reputation, with Kenzo replying that he was gracious in defeat.\n \n\n==Pokémon==\n \nThis listing is of Shiro's Pokémon in :\n \n\n==Trivia==\nShiro's name was likely lost in translation, as ジ Ji is derivative of シ Shi with a diacritical mark.\n\n==Voice actors==\n \n \n \n\n \n \n \n \n\nde:Dojo Träume!#Jens\nes:Shiro\nfr:Chiro\nit:Shiro",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Shiro (Japanese: ジロウ Jirō) is a character of the day who appeared in the episode Two Hits and a Miss.\n\nShiro is a who earned himself the nickname of \"Dojo Destroyer\" after he had claimed victory over 11 fighting dojos. After each victory, he would take their plaques as trophies in the hopes of gaining his future students' respect.\n\nShiro showed up at 's dojo one day, saying he wanted to battle it in order to achieve his goal of becoming a and opening his own Fighting Dojo in his hometown. Kenzo accepted Shiro's battle challenge, but forfeited because of his bad back. Kenzo did not want his granddaughter Chigusa to be the next Shihan, but because he could not battle himself, he allowed her to battle Shiro instead. She eventually succeeded in defeating Shiro after training with , by using her . Shiro then told Kenzo that he saw why his dojo had such an excellent reputation, with Kenzo replying that he was gracious in defeat."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Shiro's Pokémon in :"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Shiro's name was likely lost in translation, as ジ Ji is derivative of シ Shi with a diacritical mark."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "de:Dojo Träume!#Jens\nes:Shiro\nfr:Chiro\nit:Shiro"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shiro",
+    "pageType": "character",
+    "searchableText": "Shiro\nCategory:Johto characters of the day\nShiro (Japanese: ジロウ Jirō) is a character of the day who appeared in the episode Two Hits and a Miss.\n\nShiro is a who earned himself the nickname of \"Dojo Destroyer\" after he had claimed victory over 11 fighting dojos. After each victory, he would take their plaques as trophies in the hopes of gaining his future students' respect.\n\nShiro showed up at 's dojo one day, saying he wanted to battle it in order to achieve his goal of becoming a and opening his own Fighting Dojo in his hometown. Kenzo accepted Shiro's battle challenge, but forfeited because of his bad back. Kenzo did not want his granddaughter Chigusa to be the next Shihan, but because he could not battle himself, he allowed her to battle Shiro instead. She eventually succeeded in defeating Shiro after training with , by using her . Shiro then told Kenzo that he saw why his dojo had such an excellent reputation, with Kenzo replying that he was gracious in defeat.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia",
+      "Voice actors"
+    ],
+    "characterCount": 1190,
+    "sectionCount": 4
+  }
+}

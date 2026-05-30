@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Manabu Kazuo",
+    "slug": "manabu-kazuo",
+    "pageId": 188685,
+    "revisionId": 4528202
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! characters",
+    "sourceFileName": "manabu-kazuo__188685.json",
+    "revisionTimestamp": "2026-04-09T16:10:06Z",
+    "fetchedAt": "2026-05-14T15:25:45.446Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: 数尾学 Manabu Kazuo) is a character from Pokémon Battrio: Aim to be Battrio Master!.",
+  "plainText": "(Japanese: 数尾学 Manabu Kazuo) is a character from Pokémon Battrio: Aim to be Battrio Master!.\n\n==History==\nManabu first appeared in ABM02 where he saw Ryū and the others with a Battrio machine Dr. Yoshimura brought out. After bragging about his stuff, Manabu challenged Ryū to a match. Despite trying his best and using a team stronger than Ryū's, Manabu was defeated in the end and appeared to respect Ryū as a strong Battrio player.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 数尾学 Manabu Kazuo) is a character from Pokémon Battrio: Aim to be Battrio Master!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Manabu first appeared in ABM02 where he saw Ryū and the others with a Battrio machine Dr. Yoshimura brought out. After bragging about his stuff, Manabu challenged Ryū to a match. Despite trying his best and using a team stronger than Ryū's, Manabu was defeated in the end and appeared to respect Ryū as a strong Battrio player."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Manabu Kazuo",
+    "pageType": "character",
+    "searchableText": "Manabu Kazuo\nCategory:Pokémon Battrio: Aim to be Battrio Master! characters\n(Japanese: 数尾学 Manabu Kazuo) is a character from Pokémon Battrio: Aim to be Battrio Master!.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 446,
+    "sectionCount": 2
+  }
+}

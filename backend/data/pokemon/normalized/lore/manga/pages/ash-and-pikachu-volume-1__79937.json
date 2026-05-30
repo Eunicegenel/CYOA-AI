@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Ash & Pikachu volume 1",
+    "slug": "ash-and-pikachu-volume-1",
+    "pageId": 79937,
+    "revisionId": 4527463
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu volumes",
+    "sourceFileName": "ash-and-pikachu-volume-1__79937.json",
+    "revisionTimestamp": "2026-04-09T15:39:11Z",
+    "fetchedAt": "2026-05-14T15:12:57.555Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Volume One is the first of six volumes of the Ash & Pikachu manga authored and illustrated by Takashi Teshirogi.",
+  "plainText": "Volume One is the first of six volumes of the Ash & Pikachu manga authored and illustrated by Takashi Teshirogi.\n\n==Publications==\n \n \n \n \n\n==Chapters==\nChapter 1: Hoppip, The Wind Calls!\nChapter 2: The Beginning Of Good Luck?! Pokémon Fortune Telling\nChapter 3: Treasure Hunting?! Try The Maze!\nChapter 4: The Cowardly God Of Plagues\nChapter 5: The Murkrows' Plot\nChapter 6: After The Missing Rucksack!!\n\n==Major events==\n\n==Gym battles==\nAsh battles the following Gym Leaders in this volume:\nWhitney in SP02 (win)\n\n \n \n \n\nit:Ash and Pikachu volume 1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume One is the first of six volumes of the Ash & Pikachu manga authored and illustrated by Takashi Teshirogi."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 1: Hoppip, The Wind Calls!\nChapter 2: The Beginning Of Good Luck?! Pokémon Fortune Telling\nChapter 3: Treasure Hunting?! Try The Maze!\nChapter 4: The Cowardly God Of Plagues\nChapter 5: The Murkrows' Plot\nChapter 6: After The Missing Rucksack!!"
+    },
+    {
+      "heading": "Gym battles",
+      "level": 2,
+      "text": "Ash battles the following Gym Leaders in this volume:\nWhitney in SP02 (win)\n\n \n \n \n\nit:Ash and Pikachu volume 1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Ash & Pikachu volume 1",
+    "pageType": "general-manga-lore",
+    "searchableText": "Ash & Pikachu volume 1\nCategory:Ash & Pikachu volumes\nVolume One is the first of six volumes of the Ash & Pikachu manga authored and illustrated by Takashi Teshirogi.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Gym battles"
+    ],
+    "characterCount": 551,
+    "sectionCount": 3
+  }
+}

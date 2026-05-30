@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "BET2",
+    "slug": "bet2",
+    "pageId": 163250,
+    "revisionId": 3778253
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mystery Dungeon: Blazing Exploration Team chapters",
+    "sourceFileName": "bet2__163250.json",
+    "revisionTimestamp": "2023-08-22T07:46:32Z",
+    "fetchedAt": "2026-05-14T15:13:56.142Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 時の歯車をとりもどせ！！ Take Back the Time Gears!!) is the second chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.",
+  "plainText": "(Japanese: 時の歯車をとりもどせ！！ Take Back the Time Gears!!) is the second chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.\n\n==Plot==\n \n\n==Major events==\nTotodile and Honō successfully join the Wigglytuff Guild.\nHonō senses that is in trouble.\nHonō and Totodile confront the Time Gear thief, Grovyle.\nWith the aid of Dusknoir, Grovyle is captured.\nDusknoir reveals that Grovyle is a thief from the future and sends him forward in time.\nDusknoir sends Honō and Totodile to the future as well.\n\n===Debuts===\n\n==Characters==\n===Pokémon===\nHonō\n\n==Trivia==\n \n \n \n\nde:Chapter 2 (Pokémon Mystery Dungeon 2)\nit:BET2\nzh:BET2",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 時の歯車をとりもどせ！！ Take Back the Time Gears!!) is the second chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Totodile and Honō successfully join the Wigglytuff Guild.\nHonō senses that is in trouble.\nHonō and Totodile confront the Time Gear thief, Grovyle.\nWith the aid of Dusknoir, Grovyle is captured.\nDusknoir reveals that Grovyle is a thief from the future and sends him forward in time.\nDusknoir sends Honō and Totodile to the future as well."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "Honō"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Chapter 2 (Pokémon Mystery Dungeon 2)\nit:BET2\nzh:BET2"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "BET2",
+    "pageType": "chapter",
+    "searchableText": "BET2\nCategory:Pokémon Mystery Dungeon: Blazing Exploration Team chapters\n(Japanese: 時の歯車をとりもどせ！！ Take Back the Time Gears!!) is the second chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 630,
+    "sectionCount": 4
+  }
+}

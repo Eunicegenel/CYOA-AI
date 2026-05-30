@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "BET1",
+    "slug": "bet1",
+    "pageId": 108335,
+    "revisionId": 4503999
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Mystery Dungeon: Blazing Exploration Team chapters",
+    "sourceFileName": "bet1__108335.json",
+    "revisionTimestamp": "2026-03-08T11:05:25Z",
+    "fetchedAt": "2026-05-14T15:13:55.467Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 誕生！炎の探検隊！！ Birth! Blazing Exploration Team!!) is the first chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.",
+  "plainText": "(Japanese: 誕生！炎の探検隊！！ Birth! Blazing Exploration Team!!) is the first chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.\n\n==Plot==\n \nThe chapter begins with a timid trying to work up the nerve to enter the Wigglytuff's Guild so that he can become an , but a combination of his timidness and 's words about the guild not accepting cowards causes him to leave. Ashamed at himself, Totodile walks down a road and, unbeknownst to him, is being watched by two figures. As he continues walking, he finds a Chimchar lying on the ground.\n\nHe tries to wake him up but to no avail, thinking that he is dead. The Chimchar suddenly wakes up from his nap. After introducing themselves, Totodile is tricked by a who convince him to give them his prized possession, the Relic Fragment. After chasing them down, Totodile demands his Relic Fragment back, but they refuse to unless they fight them.\n\nAfter a brief talk, the two enter the cave and, after escaping from a pit hole, encounter the thieves. Honō begins battling the two alone but doesn't realize that he is under the effects of and is only attacking the cave. While Honō goes out of control, he starts to cause the cave to collapse, so the two thieves begin to attack him to stop the cave from falling in on itself. In doing so, however, they cause the cave to collapse anyway. Totodile manages to work up the courage to fight and defeats the fleeing Koffing and Zubat. After they retrieve the Relic Fragment, they are rescued by and Honō introduces themselves as the newest Exploration Team, The Blazing Exploration team \"Team Blaze\". The chapter ends with a stealing a mysterious object.\n\n==Major events==\nTotodile tries to join the Wigglytuff Guild but chickens out.\nTotodile meets Honō, a Chimchar that claims he's a human.\nA Zubat and Koffing trick Totodile into giving them his precious treasure.\nHonō and Totodile battle Zubat and Koffing to take back Totodile's Relic Fragment.\nHonō and Totodile meet Dusknoir.\nHonō names the team \"Team Blaze.\"\nA Grovyle steals a mysterious gear.\n\n===Debuts===\n\n==Characters==\n===Pokémon===\nHonō\n\n==Trivia==\n\n \n \n\nde:Chapter 1 (Pokémon Mystery Dungeon 2)\nfr:Pokémon Fushigi no Dungeon: Honō no Tankentai - Chapitre 1\nit:BET1\nzh:BET1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 誕生！炎の探検隊！！ Birth! Blazing Exploration Team!!) is the first chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "The chapter begins with a timid trying to work up the nerve to enter the Wigglytuff's Guild so that he can become an , but a combination of his timidness and 's words about the guild not accepting cowards causes him to leave. Ashamed at himself, Totodile walks down a road and, unbeknownst to him, is being watched by two figures. As he continues walking, he finds a Chimchar lying on the ground.\n\nHe tries to wake him up but to no avail, thinking that he is dead. The Chimchar suddenly wakes up from his nap. After introducing themselves, Totodile is tricked by a who convince him to give them his prized possession, the Relic Fragment. After chasing them down, Totodile demands his Relic Fragment back, but they refuse to unless they fight them.\n\nAfter a brief talk, the two enter the cave and, after escaping from a pit hole, encounter the thieves. Honō begins battling the two alone but doesn't realize that he is under the effects of and is only attacking the cave. While Honō goes out of control, he starts to cause the cave to collapse, so the two thieves begin to attack him to stop the cave from falling in on itself. In doing so, however, they cause the cave to collapse anyway. Totodile manages to work up the courage to fight and defeats the fleeing Koffing and Zubat. After they retrieve the Relic Fragment, they are rescued by and Honō introduces themselves as the newest Exploration Team, The Blazing Exploration team \"Team Blaze\". The chapter ends with a stealing a mysterious object."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Totodile tries to join the Wigglytuff Guild but chickens out.\nTotodile meets Honō, a Chimchar that claims he's a human.\nA Zubat and Koffing trick Totodile into giving them his precious treasure.\nHonō and Totodile battle Zubat and Koffing to take back Totodile's Relic Fragment.\nHonō and Totodile meet Dusknoir.\nHonō names the team \"Team Blaze.\"\nA Grovyle steals a mysterious gear."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "Honō"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Chapter 1 (Pokémon Mystery Dungeon 2)\nfr:Pokémon Fushigi no Dungeon: Honō no Tankentai - Chapitre 1\nit:BET1\nzh:BET1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "BET1",
+    "pageType": "chapter",
+    "searchableText": "BET1\nCategory:Pokémon Mystery Dungeon: Blazing Exploration Team chapters\n(Japanese: 誕生！炎の探検隊！！ Birth! Blazing Exploration Team!!) is the first chapter of the Pokémon Mystery Dungeon: Blazing Exploration Team manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Major events",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 2239,
+    "sectionCount": 5
+  }
+}

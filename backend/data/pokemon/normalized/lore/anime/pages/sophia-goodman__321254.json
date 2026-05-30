@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Sophia Goodman",
+    "slug": "sophia-goodman",
+    "pageId": 321254,
+    "revisionId": 4214653
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu Returns characters",
+    "sourceFileName": "sophia-goodman__321254.json",
+    "revisionTimestamp": "2025-01-03T15:57:10Z",
+    "fetchedAt": "2026-05-14T14:51:55.281Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Sophia Goodman (Japanese: ソフィア・グッドマン Sophia Goodman) is the younger sister of Tim Goodman in the game Detective Pikachu Returns.",
+  "plainText": "Sophia Goodman (Japanese: ソフィア・グッドマン Sophia Goodman) is the younger sister of Tim Goodman in the game Detective Pikachu Returns. \n\n==In the games==\n===Detective Pikachu Returns===\nSophia and her mother, Irene, are first seen in the audience at Tim and 's award ceremony. This is the first time Sophia has visited Ryme City and she visits Ryme Tower during the day while Tim is away. She is seen mostly at home with her mother in the morning as Tim leaves for his investigations and when Tim arrives back home for dinner. \n\nOn the third day, as Tim and Pikachu are leaving the house, Pikachu comments that they have run out of coffee beans. When Sophia asks if Pikachu wants his usual dark roast beans, Tim and Pikachu are astonished to find out that Sophia has been able to understand Pikachu's speech the whole time. Her ability to understand Pikachu was hinted at from the beginning through her manner towards Pikachu and the way she seems to respond to Pikachu after he talks.\n\nSophia is last seen with her family coming out of Hi-Hat Café and asking her father if he could take her out on a case. \n\n===Personality and characteristics===\nSophia is shown to be caring and considers Pikachu as part of the family, and at one point, learns how to make coffee for Pikachu. She also appears to be observant as she notices that Pikachu has \"old man energy\" when Pikachu regains his past memories. She also enjoys sightseeing and wants to spend more time with Tim around Ryme City.\n \n\n===Voice actors===\n \n\n==In other languages==\n \n\n==Related articles==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sophia Goodman (Japanese: ソフィア・グッドマン Sophia Goodman) is the younger sister of Tim Goodman in the game Detective Pikachu Returns."
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 3,
+      "text": "Sophia and her mother, Irene, are first seen in the audience at Tim and 's award ceremony. This is the first time Sophia has visited Ryme City and she visits Ryme Tower during the day while Tim is away. She is seen mostly at home with her mother in the morning as Tim leaves for his investigations and when Tim arrives back home for dinner. \n\nOn the third day, as Tim and Pikachu are leaving the house, Pikachu comments that they have run out of coffee beans. When Sophia asks if Pikachu wants his usual dark roast beans, Tim and Pikachu are astonished to find out that Sophia has been able to understand Pikachu's speech the whole time. Her ability to understand Pikachu was hinted at from the beginning through her manner towards Pikachu and the way she seems to respond to Pikachu after he talks.\n\nSophia is last seen with her family coming out of Hi-Hat Café and asking her father if he could take her out on a case."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 3,
+      "text": "Sophia is shown to be caring and considers Pikachu as part of the family, and at one point, learns how to make coffee for Pikachu. She also appears to be observant as she notices that Pikachu has \"old man energy\" when Pikachu regains his past memories. She also enjoys sightseeing and wants to spend more time with Tim around Ryme City."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sophia Goodman",
+    "pageType": "character",
+    "searchableText": "Sophia Goodman\nCategory:Detective Pikachu Returns characters\nSophia Goodman (Japanese: ソフィア・グッドマン Sophia Goodman) is the younger sister of Tim Goodman in the game Detective Pikachu Returns.",
+    "sectionHeadings": [
+      "Lead",
+      "Detective Pikachu Returns",
+      "Personality and characteristics"
+    ],
+    "characterCount": 1549,
+    "sectionCount": 3
+  }
+}

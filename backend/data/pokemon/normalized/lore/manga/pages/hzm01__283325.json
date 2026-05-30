@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "title": "HZM01",
+    "slug": "hzm01",
+    "pageId": 283325,
+    "revisionId": 4137588
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Anime Pocket Monsters: Liko and Roy's Adventure chapters",
+    "sourceFileName": "hzm01__283325.json",
+    "revisionTimestamp": "2024-09-30T21:02:26Z",
+    "fetchedAt": "2026-05-14T15:21:56.870Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: の まり The Story Begins) is the first regular chapter of the manga. It was first published in the May 2023 issue of CoroCoro Comics, released on April 14, 2023. It is based on the episodes The Pendant That Starts It All (Part One) and The Pendant That Starts It All (Part Two). It is 49 pages long, including the color cover.",
+  "plainText": "(Japanese: の まり The Story Begins) is the first regular chapter of the manga. It was first published in the May 2023 issue of CoroCoro Comics, released on April 14, 2023. It is based on the episodes The Pendant That Starts It All (Part One) and The Pendant That Starts It All (Part Two). It is 49 pages long, including the color cover.\n\n==Plot==\n \n\n==Major events==\nLiko, a beginner from Paldea, enrolls in the Indigo Academy in Kanto.\nLiko receives a as her first partner Pokémon.\nLiko has her first Pokémon battle and loses.\nLiko meets Amethio and gets on the radar of the mysterious Explorers organization.\nLiko meets Pokémon Professor Friede for the first time.\nLiko is introduced to the Rising Volt Tacklers.\n\n===Debuts===\n====Humans====\nFriede\nAmethio\nAnn\nOrla\nMollie\nMurdock\nZirc\nOnia\nLudlow\nNidothing\n\n====Pokémon debuts====\n( )\n( )\n\n(Amethio's; Liko's; Orla's; Rotom Phone)\n(Ann's)\n(Zirc's)\n(Onia's; Zirc's)\n(Amethio's)\n\n==Characters==\n===Humans===\nLiko\nRoy\nFriede\nMollie\nOrla\nLudlow\nMurdock\nNidothing\nAmethio\nOnia\nZirc\nAnn\nStudents\nTeachers\n\n===Pokémon===\n( ; new)\n(Liko's; Rotom Phone)\n( )\n(Friede's; Captain Pikachu)\n(Orla's; Rotom Phone)\n(Nidothing's)\n( )\n(Amethio's; Rotom Phone)\n(Amethio's)\n(Onia's)\n(Zirc's)\n(Zirc's)\n(Ann's; new)\n(Lucius's; Black Rayquaza)\n(Rising Volt Tacklers')\n(student's; silhouette)\n(student's; silhouette)\n\n==Differences between the animated series and the manga==\n \nLiko's time adjusting to Indigo Academy is trimmed down.\n's appearance is omitted.\n\n==References==\n \n\n \n \n \n\nit:HZM01",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: の まり The Story Begins) is the first regular chapter of the manga. It was first published in the May 2023 issue of CoroCoro Comics, released on April 14, 2023. It is based on the episodes The Pendant That Starts It All (Part One) and The Pendant That Starts It All (Part Two). It is 49 pages long, including the color cover."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Liko, a beginner from Paldea, enrolls in the Indigo Academy in Kanto.\nLiko receives a as her first partner Pokémon.\nLiko has her first Pokémon battle and loses.\nLiko meets Amethio and gets on the radar of the mysterious Explorers organization.\nLiko meets Pokémon Professor Friede for the first time.\nLiko is introduced to the Rising Volt Tacklers."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Friede\nAmethio\nAnn\nOrla\nMollie\nMurdock\nZirc\nOnia\nLudlow\nNidothing"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n( )\n\n(Amethio's; Liko's; Orla's; Rotom Phone)\n(Ann's)\n(Zirc's)\n(Onia's; Zirc's)\n(Amethio's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Liko\nRoy\nFriede\nMollie\nOrla\nLudlow\nMurdock\nNidothing\nAmethio\nOnia\nZirc\nAnn\nStudents\nTeachers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; new)\n(Liko's; Rotom Phone)\n( )\n(Friede's; Captain Pikachu)\n(Orla's; Rotom Phone)\n(Nidothing's)\n( )\n(Amethio's; Rotom Phone)\n(Amethio's)\n(Onia's)\n(Zirc's)\n(Zirc's)\n(Ann's; new)\n(Lucius's; Black Rayquaza)\n(Rising Volt Tacklers')\n(student's; silhouette)\n(student's; silhouette)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "Liko's time adjusting to Indigo Academy is trimmed down.\n's appearance is omitted."
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:HZM01"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "HZM01",
+    "pageType": "chapter",
+    "searchableText": "HZM01\nCategory:Anime Pocket Monsters: Liko and Roy's Adventure chapters\n(Japanese: の まり The Story Begins) is the first regular chapter of the manga. It was first published in the May 2023 issue of CoroCoro Comics, released on April 14, 2023. It is based on the episodes The Pendant That Starts It All (Part One) and The Pendant That Starts It All (Part Two). It is 49 pages long, including the color cover.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga",
+      "References"
+    ],
+    "characterCount": 1522,
+    "sectionCount": 8
+  }
+}

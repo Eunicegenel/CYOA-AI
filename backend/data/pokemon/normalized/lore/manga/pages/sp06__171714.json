@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP06",
+    "slug": "sp06",
+    "pageId": 171714,
+    "revisionId": 4114557
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp06__171714.json",
+    "revisionTimestamp": "2024-09-16T20:30:20Z",
+    "fetchedAt": "2026-05-14T15:49:54.542Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "After The Missing Rucksack!! (Japanese: 消えたリュックを追え！！ After that Vanishing Backpack!!) is the sixth chapter of the Ash & Pikachu manga.",
+  "plainText": "After The Missing Rucksack!! (Japanese: 消えたリュックを追え！！ After that Vanishing Backpack!!) is the sixth chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nJessie\nJames\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n\n \n \n\n \n\nit:SP06",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "After The Missing Rucksack!! (Japanese: 消えたリュックを追え！！ After that Vanishing Backpack!!) is the sixth chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jessie\nJames"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n\n \n \n\n \n\nit:SP06"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP06",
+    "pageType": "chapter",
+    "searchableText": "SP06\nCategory:Ash & Pikachu chapters\nAfter The Missing Rucksack!! (Japanese: 消えたリュックを追え！！ After that Vanishing Backpack!!) is the sixth chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 296,
+    "sectionCount": 3
+  }
+}

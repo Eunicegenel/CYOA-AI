@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Lei",
+    "slug": "lei",
+    "pageId": 256555,
+    "revisionId": 4483886
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "lei__256555.json",
+    "revisionTimestamp": "2026-02-07T13:33:32Z",
+    "fetchedAt": "2026-05-14T14:30:49.754Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Lei (Japanese: レイ Lei) is a recurring character who first appears in . He is the baby son of and .",
+  "plainText": "Lei (Japanese: レイ Lei) is a recurring character who first appears in . He is the baby son of and .\n\n==History==\n \n=== ===\nIn the end credits of Thank You, Alola! The Journey Continues!, it was revealed that Burnet was pregnant.\n\n=== ===\nLei debuted in That New Old Gang of Mine!, where he met , Goh, and .\n\nIn Helping the Hometown Hero!, Lei attended a party celebrating Mohn's return to Alola, reuniting with Ash and Goh, and meeting Chloe. The next day, Burnet took him with her to watch a Battle Royal between Ash, Kukui, , and .\n\nIn Paring Pokémon While Parrying! and Partners in Time!, Lei was seen watching Ash's Masters Eight Tournament match against at the Pokémon School.\n \n\n==Personality and characteristics==\n \nLei is shown to be very energetic and happy. Although he met Ash for the first time, he immediately took a liking to him as a big brother. In Helping the Hometown Hero!, Lei is shown to have a fondness for imitation, imitating Ash's excitement when he heard about the upcoming Battle Royal and the Masked Royal pose.\n \n\n==Pokémon==\n===Living with===\nAsh left the remainder of his Alolan party with Kukui and Burnet in Thank You, Alola! The Journey Continues! as he set out to travel the , and Lei therefore lives with them at his house. He also lives with his parent's Pokémon.\n \n\n \n==Trivia==\nLei is the first human character to have been born during the course of the .\nLei is referred to as a girl in the n dub.\n\n==Names==\n \n\n==Related articles==\n \n \n\n \n \n\nes:Lei (Alola)\nit:Keiki\nja:レイ\nzh:雷伊",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lei (Japanese: レイ Lei) is a recurring character who first appears in . He is the baby son of and ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "In the end credits of Thank You, Alola! The Journey Continues!, it was revealed that Burnet was pregnant."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "Lei debuted in That New Old Gang of Mine!, where he met , Goh, and .\n\nIn Helping the Hometown Hero!, Lei attended a party celebrating Mohn's return to Alola, reuniting with Ash and Goh, and meeting Chloe. The next day, Burnet took him with her to watch a Battle Royal between Ash, Kukui, , and .\n\nIn Paring Pokémon While Parrying! and Partners in Time!, Lei was seen watching Ash's Masters Eight Tournament match against at the Pokémon School."
+    },
+    {
+      "heading": "Personality and characteristics",
+      "level": 2,
+      "text": "Lei is shown to be very energetic and happy. Although he met Ash for the first time, he immediately took a liking to him as a big brother. In Helping the Hometown Hero!, Lei is shown to have a fondness for imitation, imitating Ash's excitement when he heard about the upcoming Battle Royal and the Masked Royal pose."
+    },
+    {
+      "heading": "Living with",
+      "level": 3,
+      "text": "Ash left the remainder of his Alolan party with Kukui and Burnet in Thank You, Alola! The Journey Continues! as he set out to travel the , and Lei therefore lives with them at his house. He also lives with his parent's Pokémon."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Lei is the first human character to have been born during the course of the .\nLei is referred to as a girl in the n dub."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Lei (Alola)\nit:Keiki\nja:レイ\nzh:雷伊"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lei",
+    "pageType": "character",
+    "searchableText": "Lei\nCategory:Animation characters\nLei (Japanese: レイ Lei) is a recurring character who first appears in . He is the baby son of and .",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "",
+      "Personality and characteristics",
+      "Living with",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1517,
+    "sectionCount": 7
+  }
+}

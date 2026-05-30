@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pokémon Training Center",
+    "slug": "pokemon-training-center",
+    "pageId": 245322,
+    "revisionId": 4261353
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "pokemon-training-center__245322.json",
+    "revisionTimestamp": "2025-03-19T21:52:59Z",
+    "fetchedAt": "2026-05-14T14:43:53.274Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Pokémon Training Center (Japanese: ポケモン訓練センター Pokémon Training Center) is an -exclusive educational facility in the Sinnoh region near Hearthome City. It was featured in The Electrike Company!.\n\n is the Director of the Pokémon Training Center, which specializes in training beginning s with . The graduated Electric-types go on to work in the power generation industry.\n\nThe facility includes housing for students; stables for the Pokémon; and wide, open spaces used for specialized training.\n\nOne of Cal's students, Jaco, had failed to graduate in time after he was struggling with his partner . However, 's advice and 's mentoring helped Jaco bond with Electrike, who later learned to control its electricity and evolve into a , thus increasing its power significantly. Cal congratulated Jaco on a job well done before escorting Manectric to its power generation job.",
+  "plainText": "The Pokémon Training Center (Japanese: ポケモン訓練センター Pokémon Training Center) is an -exclusive educational facility in the Sinnoh region near Hearthome City. It was featured in The Electrike Company!.\n\n is the Director of the Pokémon Training Center, which specializes in training beginning s with . The graduated Electric-types go on to work in the power generation industry.\n\nThe facility includes housing for students; stables for the Pokémon; and wide, open spaces used for specialized training.\n\nOne of Cal's students, Jaco, had failed to graduate in time after he was struggling with his partner . However, 's advice and 's mentoring helped Jaco bond with Electrike, who later learned to control its electricity and evolve into a , thus increasing its power significantly. Cal congratulated Jaco on a job well done before escorting Manectric to its power generation job.\n\n==Pokémon seen at the Pokémon Training Center==\n \n\n==Trivia==\nIn Bibarel Gnaws Best!, Isis mentioned that she trained her to become a master stonecutter at the Pokémon Training Center. However, it is unclear whether this is the same facility as the one featured in The Electrike Company!.\n\n==In other languages==\n \n \n \n \n \n\nes:Centro de entrenamiento Pokémon\nit:Centro Allenamento Pokémon",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Pokémon Training Center (Japanese: ポケモン訓練センター Pokémon Training Center) is an -exclusive educational facility in the Sinnoh region near Hearthome City. It was featured in The Electrike Company!.\n\n is the Director of the Pokémon Training Center, which specializes in training beginning s with . The graduated Electric-types go on to work in the power generation industry.\n\nThe facility includes housing for students; stables for the Pokémon; and wide, open spaces used for specialized training.\n\nOne of Cal's students, Jaco, had failed to graduate in time after he was struggling with his partner . However, 's advice and 's mentoring helped Jaco bond with Electrike, who later learned to control its electricity and evolve into a , thus increasing its power significantly. Cal congratulated Jaco on a job well done before escorting Manectric to its power generation job."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In Bibarel Gnaws Best!, Isis mentioned that she trained her to become a master stonecutter at the Pokémon Training Center. However, it is unclear whether this is the same facility as the one featured in The Electrike Company!."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Centro de entrenamiento Pokémon\nit:Centro Allenamento Pokémon"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Training Center",
+    "pageType": "location",
+    "searchableText": "Pokémon Training Center\nCategory:Animated series-exclusive locations\nThe Pokémon Training Center (Japanese: ポケモン訓練センター Pokémon Training Center) is an -exclusive educational facility in the Sinnoh region near Hearthome City. It was featured in The Electrike Company!.\n\n is the Director of the Pokémon Training Center, which specializes in training beginning s with . The graduated Electric-types go on to work in the power generation industry.\n\nThe facility includes housing for students; stables for the Pokémon; and wide, open spaces used for specialized training.\n\nOne of Cal's students, Jaco, had failed to graduate in time after he was struggling with his partner . However, 's advice and 's mentoring helped Jaco bond with Electrike, who later learned to control its electricity and evolve into a , thus increasing its power significantly. Cal congratulated Jaco on a job well done before escorting Manectric to its power generation job.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1263,
+    "sectionCount": 3
+  }
+}

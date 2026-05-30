@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Akira (HIBAPC)",
+    "slug": "akira-hibapc",
+    "pageId": 35857,
+    "revisionId": 4526836
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card characters",
+    "sourceFileName": "akira-hibapc__35857.json",
+    "revisionTimestamp": "2026-04-09T15:08:15Z",
+    "fetchedAt": "2026-05-14T15:12:26.094Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: アキラ Akira) is a middle-school student in the manga series How I Became a Pokémon Card. He is an aspiring Pokémon Master, but his only Pokémon is a he received as a present for finishing sixth grade. His best friend is .",
+  "plainText": "(Japanese: アキラ Akira) is a middle-school student in the manga series How I Became a Pokémon Card. He is an aspiring Pokémon Master, but his only Pokémon is a he received as a present for finishing sixth grade. His best friend is .\n \n==Pokémon==\n \n\n \n \n \n\n \n \n\nit:Akira (PCNNW)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: アキラ Akira) is a middle-school student in the manga series How I Became a Pokémon Card. He is an aspiring Pokémon Master, but his only Pokémon is a he received as a present for finishing sixth grade. His best friend is ."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Akira (PCNNW)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Akira (HIBAPC)",
+    "pageType": "character",
+    "searchableText": "Akira (HIBAPC)\nCategory:How I Became a Pokémon Card characters\n(Japanese: アキラ Akira) is a middle-school student in the manga series How I Became a Pokémon Card. He is an aspiring Pokémon Master, but his only Pokémon is a he received as a present for finishing sixth grade. His best friend is .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 276,
+    "sectionCount": 2
+  }
+}

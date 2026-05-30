@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Pepper (HZ102)",
+    "slug": "pepper-hz102",
+    "pageId": 336441,
+    "revisionId": 4543300
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation characters",
+    "sourceFileName": "pepper-hz102__336441.json",
+    "revisionTimestamp": "2026-05-02T16:13:56Z",
+    "fetchedAt": "2026-05-14T14:41:08.304Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Pepper (Japanese: カラトウ Karatō) is a minor recurring character who first appeared in The Knight in the Ruins. They are a of Naranja Academy who is infatuated with . Despite their name, they cannot handle spicy food.",
+  "plainText": "Pepper (Japanese: カラトウ Karatō) is a minor recurring character who first appeared in The Knight in the Ruins. They are a of Naranja Academy who is infatuated with . Despite their name, they cannot handle spicy food.\n\n==History==\nAs Liko was looking for Laquium Signs, she came across meeting Pepper who was trying to find their missing Scovillain that was missing a day before. Before leaving, they asked Liko to let them know if she happened to find their Scovillain.\n\nLiko ran to find that Pepper's Scovillain was attacking multiple small Pokémon. Using as a distraction, took her chance to heal the injured Pokémon. Afterwards, Liko removed the effects of the Laquium with the help of Pagogo.\n\nPepper applied to be a tester for the Strong Sphere, which was granted by Exceed. However, after using it too much, the sphere ran out of Laquium and they sent it back to the company for recharging.\n\nPepper reappeared in HZ136, where they were seen handing in their Strong Sphere to an Exceed employee.\n\n==Pokémon==\n===On hand===\n \n\n \n\n===Traveling with===\n \n\n==Voice actors==\n \n\n \n\n==Names==\n \n \n\n==Notes==\n \n \n \n\n \n \n\nes:Habanero\nit:Chili\nzh:辛唐",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pepper (Japanese: カラトウ Karatō) is a minor recurring character who first appeared in The Knight in the Ruins. They are a of Naranja Academy who is infatuated with . Despite their name, they cannot handle spicy food."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "As Liko was looking for Laquium Signs, she came across meeting Pepper who was trying to find their missing Scovillain that was missing a day before. Before leaving, they asked Liko to let them know if she happened to find their Scovillain.\n\nLiko ran to find that Pepper's Scovillain was attacking multiple small Pokémon. Using as a distraction, took her chance to heal the injured Pokémon. Afterwards, Liko removed the effects of the Laquium with the help of Pagogo.\n\nPepper applied to be a tester for the Strong Sphere, which was granted by Exceed. However, after using it too much, the sphere ran out of Laquium and they sent it back to the company for recharging.\n\nPepper reappeared in HZ136, where they were seen handing in their Strong Sphere to an Exceed employee."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "es:Habanero\nit:Chili\nzh:辛唐"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pepper (HZ102)",
+    "pageType": "character",
+    "searchableText": "Pepper (HZ102)\nCategory:Animation characters\nPepper (Japanese: カラトウ Karatō) is a minor recurring character who first appeared in The Knight in the Ruins. They are a of Naranja Academy who is infatuated with . Despite their name, they cannot handle spicy food.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Notes"
+    ],
+    "characterCount": 1142,
+    "sectionCount": 3
+  }
+}

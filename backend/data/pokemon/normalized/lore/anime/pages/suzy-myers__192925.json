@@ -1,0 +1,105 @@
+{
+  "identity": {
+    "title": "Suzy Myers",
+    "slug": "suzy-myers",
+    "pageId": 192925,
+    "revisionId": 4323472
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "suzy-myers__192925.json",
+    "revisionTimestamp": "2025-06-24T03:30:47Z",
+    "fetchedAt": "2026-05-14T14:52:48.166Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Suzy Myers is an American voice actress for the English-language dub of .",
+  "plainText": "Suzy Myers is an American voice actress for the English-language dub of .\n\n==Biography==\nMyers first began to provide voices for in Pokémon Chronicles. As with most other voice actors who worked with 4Kids Entertainment, she left when and TAJ Productions took over the dubbing and distribution of the series. Later, she provided the voice of Normajean in The Brockster Is In!, making her the final former 4Kids voice actor to return to the in . In , she gained two important roles, voicing the Kalos Pokédex and Clemont's Chespin.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\n======Major======\nBurgundy\nNurse Joy (Alola)\n\n======Minor======\n\nNormajean\nDaniela\nSophie\nLyn\nBerrybaker sister\nLinnea\n(XY117)\n(XY117)\n\n=====Pokémon=====\n======Major======\nBrock's Vulpix (M22)\nClemont's Chespin\nChespie\nNurse Joy's Comfey\n( )\n\n======Minor======\n\nGladion's Eevee\n\nFemale \n(SM015)\n(SM020)\n\n=====Other=====\nKalos Pokédex\n\n====I Choose You! trilogy====\nVerity\n\n===Video games===\n====Super Smash Bros. for Nintendo 3DS/Wii U====\n\n==Other non-Pokémon roles==\nStormy ( (4Kids dub))\nAnna Kaboom ( )\nRoxy ( (Season 7)) (DuArt Film and Video)\n\n==Trivia==\nMyers is a member of Voices for Fosters alongside fellow Pokémon voice actresses Sarah Natochenny and Lisa Ortiz.\n\n==External links==\nTeaching Artists blog\n\n==References==\n \n \n \n \n\nit:Suzy Myers",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Suzy Myers is an American voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Myers first began to provide voices for in Pokémon Chronicles. As with most other voice actors who worked with 4Kids Entertainment, she left when and TAJ Productions took over the dubbing and distribution of the series. Later, she provided the voice of Normajean in The Brockster Is In!, making her the final former 4Kids voice actor to return to the in . In , she gained two important roles, voicing the Kalos Pokédex and Clemont's Chespin."
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Burgundy\nNurse Joy (Alola)"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Normajean\nDaniela\nSophie\nLyn\nBerrybaker sister\nLinnea\n(XY117)\n(XY117)"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Brock's Vulpix (M22)\nClemont's Chespin\nChespie\nNurse Joy's Comfey\n( )"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "Gladion's Eevee\n\nFemale \n(SM015)\n(SM020)"
+    },
+    {
+      "heading": "Other",
+      "level": 5,
+      "text": "Kalos Pokédex"
+    },
+    {
+      "heading": "I Choose You! trilogy",
+      "level": 4,
+      "text": "Verity"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Stormy ( (4Kids dub))\nAnna Kaboom ( )\nRoxy ( (Season 7)) (DuArt Film and Video)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Myers is a member of Voices for Fosters alongside fellow Pokémon voice actresses Sarah Natochenny and Lisa Ortiz."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Teaching Artists blog"
+    },
+    {
+      "heading": "References",
+      "level": 2,
+      "text": "it:Suzy Myers"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Suzy Myers",
+    "pageType": "general-anime-lore",
+    "searchableText": "Suzy Myers\nCategory:TPCi voice actors\nSuzy Myers is an American voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Major",
+      "Minor",
+      "Major",
+      "Minor",
+      "Other",
+      "I Choose You! trilogy",
+      "Other non-Pokémon roles",
+      "Trivia",
+      "External links",
+      "References"
+    ],
+    "characterCount": 1348,
+    "sectionCount": 12
+  }
+}

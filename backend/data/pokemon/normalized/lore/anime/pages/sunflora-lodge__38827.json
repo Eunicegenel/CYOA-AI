@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Sunflora Lodge",
+    "slug": "sunflora-lodge",
+    "pageId": 38827,
+    "revisionId": 4261110
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "sunflora-lodge__38827.json",
+    "revisionTimestamp": "2025-03-19T21:50:20Z",
+    "fetchedAt": "2026-05-14T14:52:39.960Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Sunflora Lodge (Japanese: ペンションキマワリ Pension ) is an -exclusive location in Johto. It appeared in Moving Pictures and is located in between Ecruteak City and Olivine City.\n\nIt is most likely called this because Sophia and Marcello, the two who run the lodge, live here and take their anniversary photograph with hundreds of every year. The wooden construction is at least fifty years old. It was visited by , , , and while they were trying to defrost a after an flew past.\n\nSunflora Lodge is surrounded by open fields and lies to the south of a mountain range that includes Snowtop Mountain.",
+  "plainText": "The Sunflora Lodge (Japanese: ペンションキマワリ Pension ) is an -exclusive location in Johto. It appeared in Moving Pictures and is located in between Ecruteak City and Olivine City.\n\nIt is most likely called this because Sophia and Marcello, the two who run the lodge, live here and take their anniversary photograph with hundreds of every year. The wooden construction is at least fifty years old. It was visited by , , , and while they were trying to defrost a after an flew past.\n\nSunflora Lodge is surrounded by open fields and lies to the south of a mountain range that includes Snowtop Mountain.\n\n==Pokémon seen in Sunflora Lodge==\n \n \n\n==In other languages==\n \n \n \n\n \n\nde:Sonnflora-Garten\nes:Posada Sunflora\nit:Dimora dei Sunflora\nzh:向日花怪旅馆",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Sunflora Lodge (Japanese: ペンションキマワリ Pension ) is an -exclusive location in Johto. It appeared in Moving Pictures and is located in between Ecruteak City and Olivine City.\n\nIt is most likely called this because Sophia and Marcello, the two who run the lodge, live here and take their anniversary photograph with hundreds of every year. The wooden construction is at least fifty years old. It was visited by , , , and while they were trying to defrost a after an flew past.\n\nSunflora Lodge is surrounded by open fields and lies to the south of a mountain range that includes Snowtop Mountain."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Sonnflora-Garten\nes:Posada Sunflora\nit:Dimora dei Sunflora\nzh:向日花怪旅馆"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sunflora Lodge",
+    "pageType": "location",
+    "searchableText": "Sunflora Lodge\nCategory:Animated series-exclusive locations\nThe Sunflora Lodge (Japanese: ペンションキマワリ Pension ) is an -exclusive location in Johto. It appeared in Moving Pictures and is located in between Ecruteak City and Olivine City.\n\nIt is most likely called this because Sophia and Marcello, the two who run the lodge, live here and take their anniversary photograph with hundreds of every year. The wooden construction is at least fifty years old. It was visited by , , , and while they were trying to defrost a after an flew past.\n\nSunflora Lodge is surrounded by open fields and lies to the south of a mountain range that includes Snowtop Mountain.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 740,
+    "sectionCount": 2
+  }
+}

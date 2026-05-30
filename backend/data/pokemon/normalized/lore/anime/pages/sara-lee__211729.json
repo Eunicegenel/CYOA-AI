@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Sara Lee",
+    "slug": "sara-lee",
+    "pageId": 211729,
+    "revisionId": 4284080
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Performers",
+    "sourceFileName": "sara-lee__211729.json",
+    "revisionTimestamp": "2025-04-19T13:35:43Z",
+    "fetchedAt": "2026-05-14T14:48:22.838Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Sara Lee (Japanese: シン・リー Cyn Lee) is a minor recurring character in . She is a Pokémon Performer.",
+  "plainText": "Sara Lee (Japanese: シン・リー Cyn Lee) is a minor recurring character in . She is a Pokémon Performer.\n\n==History==\n \nSara Lee first appeared in A Dancing Debut!, where she was seen participating in the Couriway Town Pokémon Showcase Rookie Class. She gained enough audience votes in the Theme Performance to advance to the Freestyle Performance, but ultimately lost to Jessilee.\n\nIn Master Class Choices!, Sara Lee competed in the Showcase Rookie Class, but this time, she did not make it past the Theme Performance.\n\nIn Master Class Is in Session!, Sara Lee competed in the Pokémon Showcase Master Class in Gloire City. In the first round, she went up against and Miette. Her performance didn't get enough votes from the audience, however, and she ended up being ranked third in the group.\n\nShe appeared alongside Concetta in the Poké Problem segment of When Regions Collide!, where they were shown wearing casual clothes and carrying their luggage at an airport in Kanto.\n\n==Pokémon==\n \nThis listing is of Sara Lee's known in :\n \n\n \n\n==Showcases==\n===Princess Keys obtained===\nThis listing is of the s Sara Lee has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)\n\n===Master Class ranking===\nSara Lee has achieved the following ranking in the Master Class tournament:\nShowcase - (Master Class Is in Session!)\n\n===Other achievements===\nSara Lee has competed in the following Rookie Class tournaments:\nShowcase - Top 5 (A Dancing Debut!)\nShowcase - Theme Performance (Master Class Choices!)\n\n==Voice actors==\n \n\n==Trivia==\nSara's hairstyle and attire are modeled after her Leafeon and Glaceon.\n\n \n \n \n \n\nes:Sara Lee\nfr:Sophilie\nit:Sara Lee\nja:シン・リー\nzh:辛莉",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sara Lee (Japanese: シン・リー Cyn Lee) is a minor recurring character in . She is a Pokémon Performer."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Sara Lee first appeared in A Dancing Debut!, where she was seen participating in the Couriway Town Pokémon Showcase Rookie Class. She gained enough audience votes in the Theme Performance to advance to the Freestyle Performance, but ultimately lost to Jessilee.\n\nIn Master Class Choices!, Sara Lee competed in the Showcase Rookie Class, but this time, she did not make it past the Theme Performance.\n\nIn Master Class Is in Session!, Sara Lee competed in the Pokémon Showcase Master Class in Gloire City. In the first round, she went up against and Miette. Her performance didn't get enough votes from the audience, however, and she ended up being ranked third in the group.\n\nShe appeared alongside Concetta in the Poké Problem segment of When Regions Collide!, where they were shown wearing casual clothes and carrying their luggage at an airport in Kanto."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Sara Lee's known in :"
+    },
+    {
+      "heading": "Princess Keys obtained",
+      "level": 3,
+      "text": "This listing is of the s Sara Lee has obtained:\nAt least three Princess Keys (prior to Master Class Is in Session!)"
+    },
+    {
+      "heading": "Master Class ranking",
+      "level": 3,
+      "text": "Sara Lee has achieved the following ranking in the Master Class tournament:\nShowcase - (Master Class Is in Session!)"
+    },
+    {
+      "heading": "Other achievements",
+      "level": 3,
+      "text": "Sara Lee has competed in the following Rookie Class tournaments:\nShowcase - Top 5 (A Dancing Debut!)\nShowcase - Theme Performance (Master Class Choices!)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Sara's hairstyle and attire are modeled after her Leafeon and Glaceon.\n\n \n \n \n \n\nes:Sara Lee\nfr:Sophilie\nit:Sara Lee\nja:シン・リー\nzh:辛莉"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sara Lee",
+    "pageType": "general-anime-lore",
+    "searchableText": "Sara Lee\nCategory:Performers\nSara Lee (Japanese: シン・リー Cyn Lee) is a minor recurring character in . She is a Pokémon Performer.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Pokémon",
+      "Princess Keys obtained",
+      "Master Class ranking",
+      "Other achievements",
+      "Trivia"
+    ],
+    "characterCount": 1680,
+    "sectionCount": 7
+  }
+}

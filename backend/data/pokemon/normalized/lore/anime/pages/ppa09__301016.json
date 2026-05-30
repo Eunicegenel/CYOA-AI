@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PPA09",
+    "slug": "ppa09",
+    "pageId": 301016,
+    "revisionId": 4548336
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures episodes",
+    "sourceFileName": "ppa09__301016.json",
+    "revisionTimestamp": "2026-05-11T00:22:48Z",
+    "fetchedAt": "2026-05-14T14:44:23.285Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "The Rival Awaits (Japanese: ライバルの存在 A Rival's Existence) is the eighth episode of A Pocketful of Adventures. It first aired in Japan on December 15, 2023, and in the Middle East and North Africa on May 18, 2024.",
+  "plainText": "The Rival Awaits (Japanese: ライバルの存在 A Rival's Existence) is the eighth episode of A Pocketful of Adventures. It first aired in Japan on December 15, 2023, and in the Middle East and North Africa on May 18, 2024.\n \n\n==Plot==\n \n\n==Major events==\nMadoka Akagi settles her differences with Midori Kudo.\nMadoka completes the Pokémon Red campaign.\n\n==Characters==\n===Humans===\nMadoka Akagi\nMadoka's mother\nKoichi Yadoya\nMadoka's father\nMadoka's brother\nMasako\nSora Karasawa\nMidori Kudo\nTakeshi Iwakura\n====Game characters====\n\n===Pokémon===\n\n==Trivia==\nAs part of the conclusion of the Pokémon Red storyline within the program, the credit sequence changed to Madoka putting away her Game Boy inside her belt bag.\n===Errors===\n===Dub edits===\n\n==In other languages==\n \n \n \n \n\n \n\nit:PBT09\nzh:口袋裡的冒險 第9集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Rival Awaits (Japanese: ライバルの存在 A Rival's Existence) is the eighth episode of A Pocketful of Adventures. It first aired in Japan on December 15, 2023, and in the Middle East and North Africa on May 18, 2024."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Madoka Akagi settles her differences with Midori Kudo.\nMadoka completes the Pokémon Red campaign."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Madoka Akagi\nMadoka's mother\nKoichi Yadoya\nMadoka's father\nMadoka's brother\nMasako\nSora Karasawa\nMidori Kudo\nTakeshi Iwakura"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "As part of the conclusion of the Pokémon Red storyline within the program, the credit sequence changed to Madoka putting away her Game Boy inside her belt bag."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:PBT09\nzh:口袋裡的冒險 第9集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPA09",
+    "pageType": "episode",
+    "searchableText": "PPA09\nCategory:A Pocketful of Adventures episodes\nThe Rival Awaits (Japanese: ライバルの存在 A Rival's Existence) is the eighth episode of A Pocketful of Adventures. It first aired in Japan on December 15, 2023, and in the Middle East and North Africa on May 18, 2024.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 794,
+    "sectionCount": 5
+  }
+}

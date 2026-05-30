@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Inland City",
+    "slug": "inland-city",
+    "pageId": 7064,
+    "revisionId": 4352516
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "inland-city__7064.json",
+    "revisionTimestamp": "2025-08-04T16:22:37Z",
+    "fetchedAt": "2026-05-14T14:24:57.390Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Inland City (Japanese: クガシティ Kuga City) is an -exclusive location in Johto, and the largest port city on Blue Point Isle. Located on the southern end of the island, it is known as the entry point to the Whirl Islands. Pokémon Trainers can register for the Whirl Cup here. Off the shore of Inland City is the large blue rock from which Blue Point Isle takes its name. The Pokémon Center here has a large pool that connects to the sea.",
+  "plainText": "Inland City (Japanese: クガシティ Kuga City) is an -exclusive location in Johto, and the largest port city on Blue Point Isle. Located on the southern end of the island, it is known as the entry point to the Whirl Islands. Pokémon Trainers can register for the Whirl Cup here. Off the shore of Inland City is the large blue rock from which Blue Point Isle takes its name. The Pokémon Center here has a large pool that connects to the sea.\n\n==Pokémon seen on or around Inland City==\n \n \n\n==In other languages==\n \n \n \n \n\n \n \n\nde:Binnenland City\nes:Ciudad Inland/Interior\nit:Città dell'Entroterra\nzh:库加市",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Inland City (Japanese: クガシティ Kuga City) is an -exclusive location in Johto, and the largest port city on Blue Point Isle. Located on the southern end of the island, it is known as the entry point to the Whirl Islands. Pokémon Trainers can register for the Whirl Cup here. Off the shore of Inland City is the large blue rock from which Blue Point Isle takes its name. The Pokémon Center here has a large pool that connects to the sea."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Binnenland City\nes:Ciudad Inland/Interior\nit:Città dell'Entroterra\nzh:库加市"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Inland City",
+    "pageType": "location",
+    "searchableText": "Inland City\nCategory:Animated series-exclusive locations\nInland City (Japanese: クガシティ Kuga City) is an -exclusive location in Johto, and the largest port city on Blue Point Isle. Located on the southern end of the island, it is known as the entry point to the Whirl Islands. Pokémon Trainers can register for the Whirl Cup here. Off the shore of Inland City is the large blue rock from which Blue Point Isle takes its name. The Pokémon Center here has a large pool that connects to the sea.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 595,
+    "sectionCount": 2
+  }
+}

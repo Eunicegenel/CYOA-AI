@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Arborville",
+    "slug": "arborville",
+    "pageId": 32007,
+    "revisionId": 4524588
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie locations",
+    "sourceFileName": "arborville__32007.json",
+    "revisionTimestamp": "2026-04-08T01:23:08Z",
+    "fetchedAt": "2026-05-14T14:03:08.378Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Arborville (Japanese: ハテノ村 Hateno Village) is an -exclusive location in the Johto region and one of the settings of Celebi: The Voice of the Forest.",
+  "plainText": "Arborville (Japanese: ハテノ村 Hateno Village) is an -exclusive location in the Johto region and one of the settings of Celebi: The Voice of the Forest. \n\n==Geography==\n 's house]]\n ]]\nThe treetop village lies close to the Lake of Life, home to the Mythical Pokémon who is regarded as \"Voice of the Forest\" by Arborville's residents. The residents of Arborville respect the surrounding forest and watch over one of its main entrances for weary travelers and troublesome Pokémon poachers. According to animated series maps, [needs links] Arborville is located just north of Olivine City. Known residents of Arborville include Towa, , and Mr. White.\n\nIt bears a remarkable similarity to Fortree City, a city in Hoenn that was featured in three years later. Just like Fortree City, all of Arborville's houses are built in trees.\n \n\n==History==\n and passed through Arborville after learning that the area was home to many rare wild Pokémon. They befriended Sam, a boy who had been transported 40 years into the future by Celebi. Before they could help him return to his own time they had to contend with the Iron-Masked Marauder, a Pokémon poacher intent on capturing Celebi. He succeeded in catching Celebi in a Dark Ball, corrupting the Pokémon into destroying the forest. However the group, Sam, the residents of Arborville, and worked together to defeat the Iron-Masked Marauder and free Celebi.\n\n==Names==\n \n \n\n==Related articles==\n \n \n \n\n \n \n\nde:Arborville\nes:Arborville/Arborandia\nit:Arborville\nzh:时拉比之森#果野村",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Arborville (Japanese: ハテノ村 Hateno Village) is an -exclusive location in the Johto region and one of the settings of Celebi: The Voice of the Forest."
+    },
+    {
+      "heading": "Geography",
+      "level": 2,
+      "text": "'s house]]\n ]]\nThe treetop village lies close to the Lake of Life, home to the Mythical Pokémon who is regarded as \"Voice of the Forest\" by Arborville's residents. The residents of Arborville respect the surrounding forest and watch over one of its main entrances for weary travelers and troublesome Pokémon poachers. According to animated series maps, [needs links] Arborville is located just north of Olivine City. Known residents of Arborville include Towa, , and Mr. White.\n\nIt bears a remarkable similarity to Fortree City, a city in Hoenn that was featured in three years later. Just like Fortree City, all of Arborville's houses are built in trees."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "and passed through Arborville after learning that the area was home to many rare wild Pokémon. They befriended Sam, a boy who had been transported 40 years into the future by Celebi. Before they could help him return to his own time they had to contend with the Iron-Masked Marauder, a Pokémon poacher intent on capturing Celebi. He succeeded in catching Celebi in a Dark Ball, corrupting the Pokémon into destroying the forest. However the group, Sam, the residents of Arborville, and worked together to defeat the Iron-Masked Marauder and free Celebi."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Arborville\nes:Arborville/Arborandia\nit:Arborville\nzh:时拉比之森#果野村"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Arborville",
+    "pageType": "movie",
+    "searchableText": "Arborville\nCategory:Movie locations\nArborville (Japanese: ハテノ村 Hateno Village) is an -exclusive location in the Johto region and one of the settings of Celebi: The Voice of the Forest.",
+    "sectionHeadings": [
+      "Lead",
+      "Geography",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 1506,
+    "sectionCount": 4
+  }
+}

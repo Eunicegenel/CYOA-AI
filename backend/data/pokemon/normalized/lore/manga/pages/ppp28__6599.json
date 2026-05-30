@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPP28",
+    "slug": "ppp28",
+    "pageId": 6599,
+    "revisionId": 4528557
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp28__6599.json",
+    "revisionTimestamp": "2026-04-09T16:26:43Z",
+    "fetchedAt": "2026-05-14T15:38:54.080Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Wal of Power (Japanese: ピッピ・ウォールの大特訓 and Super Crash Course) is the 28th chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Wal of Power (Japanese: ピッピ・ウォールの大特訓 and Super Crash Course) is the 28th chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nTired of being weak and picked on, and Walnut team up to train in the art of ninjutsu under a master even Master Ditto looks up to... !\n\n==Major events==\n\n==Characters==\n===Humans===\nWalnut\n\n===Pokémon=== \n( )\n( )\n( )\n(Master Ditto)\n\n \n}}\n \n \n \n\nit:PPP28",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Wal of Power (Japanese: ピッピ・ウォールの大特訓 and Super Crash Course) is the 28th chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Tired of being weak and picked on, and Walnut team up to train in the art of ninjutsu under a master even Master Ditto looks up to... !"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Walnut\n\n===Pokémon=== \n( )\n( )\n( )\n(Master Ditto)\n\n \n}}\n \n \n \n\nit:PPP28"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP28",
+    "pageType": "chapter",
+    "searchableText": "PPP28\nCategory:Magical Pokémon Journey chapters\nWal of Power (Japanese: ピッピ・ウォールの大特訓 and Super Crash Course) is the 28th chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans"
+    ],
+    "characterCount": 385,
+    "sectionCount": 3
+  }
+}

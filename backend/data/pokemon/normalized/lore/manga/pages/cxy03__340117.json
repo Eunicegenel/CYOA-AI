@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "CXY03",
+    "slug": "cxy03",
+    "pageId": 340117,
+    "revisionId": 4383974
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Let's Play the Pokémon Card Game XY! chapters",
+    "sourceFileName": "cxy03__340117.json",
+    "revisionTimestamp": "2025-09-18T21:30:33Z",
+    "fetchedAt": "2026-05-14T15:16:33.213Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the third regular chapter of the Let's Play the Pokémon Card Game XY! manga.",
+  "plainText": "This is the third regular chapter of the Let's Play the Pokémon Card Game XY! manga.\n\n== Plot ==\n \nManabu pulls a M Venusaur-EX from a pack and Uratane decides now is finally the time to explain how Mega Evolution works. He decides to do this in a game using 60 card standard decks and 6 Prize cards to be more interesting to teach. For this, He tasks Manabu to build a 60 card deck by tomorrow with the Manabu pulled. Uratane also explains how Mega Evolution needs to be done from a rather than a . However, Manabu has significant trouble building the deck around just 1 card as the odds of him getting to it in a game are slim. But after a moment of inspiration, he is able to construct his 60 card deck and challenges Uratane to a battle. It is revealed Manabu filled his deck with s with draw effects to get to M Venusaur-EX more quickly while Uratane filled his deck with Trainer cards that can specifically search his deck. An intense battle takes place between Manabu's M Venusaur-EX and Uratane's M Blastoise-EX, where Uratane explains that a turn automatically ends once you Mega Evolve. However, before their game can properly conclude, they are interrupted by a strange man who gives Manabu an offer.\n\n== Major events ==\n\n=== Debuts ===\n\n== Characters ==\n\n=== Humans ===\n\nManabu Kadoo\nHiroshi Uratane\nGuladari\n\nOther depictions\n\n=== Pokémon ===\n\nOther depictions\n\n== Cards featured ==\nManabu's cards:\n\nUratane's cards:\n\n== External links ==\n\nChapter 3 on the Pokémon Card Game official website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the third regular chapter of the Let's Play the Pokémon Card Game XY! manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Manabu pulls a M Venusaur-EX from a pack and Uratane decides now is finally the time to explain how Mega Evolution works. He decides to do this in a game using 60 card standard decks and 6 Prize cards to be more interesting to teach. For this, He tasks Manabu to build a 60 card deck by tomorrow with the Manabu pulled. Uratane also explains how Mega Evolution needs to be done from a rather than a . However, Manabu has significant trouble building the deck around just 1 card as the odds of him getting to it in a game are slim. But after a moment of inspiration, he is able to construct his 60 card deck and challenges Uratane to a battle. It is revealed Manabu filled his deck with s with draw effects to get to M Venusaur-EX more quickly while Uratane filled his deck with Trainer cards that can specifically search his deck. An intense battle takes place between Manabu's M Venusaur-EX and Uratane's M Blastoise-EX, where Uratane explains that a turn automatically ends once you Mega Evolve. However, before their game can properly conclude, they are interrupted by a strange man who gives Manabu an offer."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Manabu Kadoo\nHiroshi Uratane\nGuladari\n\nOther depictions"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "Other depictions"
+    },
+    {
+      "heading": "Cards featured",
+      "level": 2,
+      "text": "Manabu's cards:\n\nUratane's cards:"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 3 on the Pokémon Card Game official website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CXY03",
+    "pageType": "chapter",
+    "searchableText": "CXY03\nCategory:Let's Play the Pokémon Card Game XY! chapters\nThis is the third regular chapter of the Let's Play the Pokémon Card Game XY! manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon",
+      "Cards featured",
+      "External links"
+    ],
+    "characterCount": 1504,
+    "sectionCount": 6
+  }
+}

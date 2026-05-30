@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Lucario Kingdom",
+    "slug": "lucario-kingdom",
+    "pageId": 110092,
+    "revisionId": 4282281
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "lucario-kingdom__110092.json",
+    "revisionTimestamp": "2025-04-16T21:31:51Z",
+    "fetchedAt": "2026-05-14T14:33:21.211Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Lucario Kingdom (Japanese: ルカリオの Lucario Kingdom) is an -exclusive location in Sinnoh. and have been revered as guardians for generations and are said to use their aura powers to protect the kingdom.\n\nPrior to the events of Pokémon Ranger and the Kidnapped Riolu! (Part 1), a group of Pokémon hunters appeared in the Lucario Kingdom and stole the rare Aura Sphere Riolu from its . Riolu managed to escape two different groups of people interested in its power before the s stepped in to return Riolu to the Lucario Kingdom. and assisted Kellyn, and by the end of Pokémon Ranger and the Kidnapped Riolu! (Part 2), Riolu was reunited with its Trainer.",
+  "plainText": "Lucario Kingdom (Japanese: ルカリオの Lucario Kingdom) is an -exclusive location in Sinnoh. and have been revered as guardians for generations and are said to use their aura powers to protect the kingdom.\n\nPrior to the events of Pokémon Ranger and the Kidnapped Riolu! (Part 1), a group of Pokémon hunters appeared in the Lucario Kingdom and stole the rare Aura Sphere Riolu from its . Riolu managed to escape two different groups of people interested in its power before the s stepped in to return Riolu to the Lucario Kingdom. and assisted Kellyn, and by the end of Pokémon Ranger and the Kidnapped Riolu! (Part 2), Riolu was reunited with its Trainer.\n \n\n==Pokémon seen in Lucario Kingdom==\n \n \n\n==Related articles==\n \n \n \n\nfr:Royaume de Lucario\nit:Regno di Lucario\nzh:路卡利歐的王國",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lucario Kingdom (Japanese: ルカリオの Lucario Kingdom) is an -exclusive location in Sinnoh. and have been revered as guardians for generations and are said to use their aura powers to protect the kingdom.\n\nPrior to the events of Pokémon Ranger and the Kidnapped Riolu! (Part 1), a group of Pokémon hunters appeared in the Lucario Kingdom and stole the rare Aura Sphere Riolu from its . Riolu managed to escape two different groups of people interested in its power before the s stepped in to return Riolu to the Lucario Kingdom. and assisted Kellyn, and by the end of Pokémon Ranger and the Kidnapped Riolu! (Part 2), Riolu was reunited with its Trainer."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "fr:Royaume de Lucario\nit:Regno di Lucario\nzh:路卡利歐的王國"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lucario Kingdom",
+    "pageType": "location",
+    "searchableText": "Lucario Kingdom\nCategory:Animated series-exclusive locations\nLucario Kingdom (Japanese: ルカリオの Lucario Kingdom) is an -exclusive location in Sinnoh. and have been revered as guardians for generations and are said to use their aura powers to protect the kingdom.\n\nPrior to the events of Pokémon Ranger and the Kidnapped Riolu! (Part 1), a group of Pokémon hunters appeared in the Lucario Kingdom and stole the rare Aura Sphere Riolu from its . Riolu managed to escape two different groups of people interested in its power before the s stepped in to return Riolu to the Lucario Kingdom. and assisted Kellyn, and by the end of Pokémon Ranger and the Kidnapped Riolu! (Part 2), Riolu was reunited with its Trainer.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 774,
+    "sectionCount": 2
+  }
+}

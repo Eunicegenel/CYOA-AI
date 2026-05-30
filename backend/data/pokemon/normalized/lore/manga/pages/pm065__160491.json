@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PM065",
+    "slug": "pm065",
+    "pageId": 160491,
+    "revisionId": 4527700
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm065__160491.json",
+    "revisionTimestamp": "2026-04-09T15:49:35Z",
+    "fetchedAt": "2026-05-14T15:31:10.575Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Clefairy, the Battle Instructor (Japanese: ピッピのバトル教室 's Battle Classroom) is the sixty-fifth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Clefairy, the Battle Instructor (Japanese: ピッピのバトル教室 's Battle Classroom) is the sixty-fifth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nBoy\n\n===Pokémon===\n( ) \n( )\n( 's)\n(boy's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 65 (Pokémon Pocket Monsters)\nit:PMM065",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Clefairy, the Battle Instructor (Japanese: ピッピのバトル教室 's Battle Classroom) is the sixty-fifth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Boy"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( 's)\n(boy's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 65 (Pokémon Pocket Monsters)\nit:PMM065"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM065",
+    "pageType": "chapter",
+    "searchableText": "PM065\nCategory:Pokémon Pocket Monsters chapters\nClefairy, the Battle Instructor (Japanese: ピッピのバトル教室 's Battle Classroom) is the sixty-fifth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 346,
+    "sectionCount": 4
+  }
+}

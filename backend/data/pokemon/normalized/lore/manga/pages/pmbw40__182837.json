@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW40",
+    "slug": "pmbw40",
+    "pageId": 182837,
+    "revisionId": 4528471
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw40__182837.json",
+    "revisionTimestamp": "2026-04-09T16:23:12Z",
+    "fetchedAt": "2026-05-14T15:32:08.591Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 不思議な力で温泉さがし Use the Mysterious Power to Search for the Hot Springs) is the fortieth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 不思議な力で温泉さがし Use the Mysterious Power to Search for the Hot Springs) is the fortieth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 不思議な力で温泉さがし Use the Mysterious Power to Search for the Hot Springs) is the fortieth chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW40",
+    "pageType": "chapter",
+    "searchableText": "PMBW40\nCategory:Pocket Monsters BW chapters\n(Japanese: 不思議な力で温泉さがし Use the Mysterious Power to Search for the Hot Springs) is the fortieth chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 272,
+    "sectionCount": 2
+  }
+}

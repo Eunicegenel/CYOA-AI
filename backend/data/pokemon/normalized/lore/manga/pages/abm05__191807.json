@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "ABM05",
+    "slug": "abm05",
+    "pageId": 191807,
+    "revisionId": 4526606
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! chapters",
+    "sourceFileName": "abm05__191807.json",
+    "revisionTimestamp": "2026-04-09T14:58:09Z",
+    "fetchedAt": "2026-05-14T15:12:08.588Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 友情パワー大爆発！？ Explosive Power of Friendship!?) is the fifth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+  "plainText": "(Japanese: 友情パワー大爆発！？ Explosive Power of Friendship!?) is the fifth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.\n\n==Plot==\n \n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 友情パワー大爆発！？ Explosive Power of Friendship!?) is the fifth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ABM05",
+    "pageType": "chapter",
+    "searchableText": "ABM05\nCategory:Pokémon Battrio: Aim to be Battrio Master! chapters\n(Japanese: 友情パワー大爆発！？ Explosive Power of Friendship!?) is the fifth chapter of the Pokémon Battrio: Aim to be Battrio Master! manga.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 242,
+    "sectionCount": 1
+  }
+}

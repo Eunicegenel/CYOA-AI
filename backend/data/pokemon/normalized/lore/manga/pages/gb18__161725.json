@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "GB18",
+    "slug": "gb18",
+    "pageId": 161725,
+    "revisionId": 4527034
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Gold & Silver: The Golden Boys chapters",
+    "sourceFileName": "gb18__161725.json",
+    "revisionTimestamp": "2026-04-09T15:16:36Z",
+    "fetchedAt": "2026-05-14T15:19:17.855Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Let's Survive this Sea Battle (Japanese: きりぬけろ！　激闘海上バトル Let's Get this Over! The Fierce Sea Battle) is the eighteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+  "plainText": "Let's Survive this Sea Battle (Japanese: きりぬけろ！　激闘海上バトル Let's Get this Over! The Fierce Sea Battle) is the eighteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga.\n\n==Plot==\n \nThe raft can only hold a pair of children. Two are not strong enough to hold the weight. says that it is unsafe and agrees. A man lends his to help them. Gold and Chris try to get away from a group of , but a couple of Magikarp are not fast enough to help them get away. and are brought out to help. Gold and Chris almost crash into some . They also see and . The Magikarp become tired. Gold and Chris see who also recognizes them. Gold wonders how they got to find the area. The raft breaks. Gold and Chris are threatened by a whirlpool. Gold is not skilled enough to have his use .\n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nJasmine\n\n===Pokémon===\n( )\n( 's)\n( )\n( 's)\n( 's; ×6)\n( 's)\n( 's)\n\n(multiple)\n\n(×3)\n(multiple)\n(multiple)\n(multiple)\n\n \n \n \n\nes:GB18\nit:GB18",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Let's Survive this Sea Battle (Japanese: きりぬけろ！　激闘海上バトル Let's Get this Over! The Fierce Sea Battle) is the eighteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "The raft can only hold a pair of children. Two are not strong enough to hold the weight. says that it is unsafe and agrees. A man lends his to help them. Gold and Chris try to get away from a group of , but a couple of Magikarp are not fast enough to help them get away. and are brought out to help. Gold and Chris almost crash into some . They also see and . The Magikarp become tired. Gold and Chris see who also recognizes them. Gold wonders how they got to find the area. The raft breaks. Gold and Chris are threatened by a whirlpool. Gold is not skilled enough to have his use ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Jasmine"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( 's)\n( )\n( 's)\n( 's; ×6)\n( 's)\n( 's)\n\n(multiple)\n\n(×3)\n(multiple)\n(multiple)\n(multiple)\n\n \n \n \n\nes:GB18\nit:GB18"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "GB18",
+    "pageType": "chapter",
+    "searchableText": "GB18\nCategory:Pokémon Gold & Silver: The Golden Boys chapters\nLet's Survive this Sea Battle (Japanese: きりぬけろ！　激闘海上バトル Let's Get this Over! The Fierce Sea Battle) is the eighteenth chapter of the Pokémon Gold & Silver: The Golden Boys manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 1000,
+    "sectionCount": 4
+  }
+}

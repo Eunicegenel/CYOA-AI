@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Team Science Speed",
+    "slug": "team-science-speed",
+    "pageId": 225505,
+    "revisionId": 4143479
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Alola characters of the day",
+    "sourceFileName": "team-science-speed__225505.json",
+    "revisionTimestamp": "2024-10-11T20:19:57Z",
+    "fetchedAt": "2026-05-14T14:53:35.959Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Science Speed team (Japanese: サイエンススピード Science Speed) are characters of the day who appeared in Mounting an Electrifying Charge!.\n\nThey are a group of s whom entered the Charjabug race with a . They raced against , , and who had entered with Sophocles's Charjabug and , who disguised as a Charjabug. During the race, they managed to keep up with the Red Comet team, the Sophocles Lab team, and the Electric Princess team. During the second section of the race, however, their Charjabug got stuck in a sand pit and was not able to move any further. With this, the Science Speed team was eliminated from the race.",
+  "plainText": "The Science Speed team (Japanese: サイエンススピード Science Speed) are characters of the day who appeared in Mounting an Electrifying Charge!.\n\nThey are a group of s whom entered the Charjabug race with a . They raced against , , and who had entered with Sophocles's Charjabug and , who disguised as a Charjabug. During the race, they managed to keep up with the Red Comet team, the Sophocles Lab team, and the Electric Princess team. During the second section of the race, however, their Charjabug got stuck in a sand pit and was not able to move any further. With this, the Science Speed team was eliminated from the race.\n\n==Pokémon==\nThis listing is of the Science Speed team's known in :\n \n \n\n==Pokémon competitions==\nTeam Science Speed has competed in the following :\nCharjabug race Koko Cup - DNF (Mounting an Electrifying Charge!)\n\n==Voice actors==\n \n\n==In other languages==\n \n \n \n\n \n \n \n\nes:Equipo Velocidad Científica\nit:Squadra Velocità Scientifica\nzh:科学速度队",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Science Speed team (Japanese: サイエンススピード Science Speed) are characters of the day who appeared in Mounting an Electrifying Charge!.\n\nThey are a group of s whom entered the Charjabug race with a . They raced against , , and who had entered with Sophocles's Charjabug and , who disguised as a Charjabug. During the race, they managed to keep up with the Red Comet team, the Sophocles Lab team, and the Electric Princess team. During the second section of the race, however, their Charjabug got stuck in a sand pit and was not able to move any further. With this, the Science Speed team was eliminated from the race."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of the Science Speed team's known in :"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Team Science Speed has competed in the following :\nCharjabug race Koko Cup - DNF (Mounting an Electrifying Charge!)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "es:Equipo Velocidad Científica\nit:Squadra Velocità Scientifica\nzh:科学速度队"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Team Science Speed",
+    "pageType": "character",
+    "searchableText": "Team Science Speed\nCategory:Alola characters of the day\nThe Science Speed team (Japanese: サイエンススピード Science Speed) are characters of the day who appeared in Mounting an Electrifying Charge!.\n\nThey are a group of s whom entered the Charjabug race with a . They raced against , , and who had entered with Sophocles's Charjabug and , who disguised as a Charjabug. During the race, they managed to keep up with the Red Comet team, the Sophocles Lab team, and the Electric Princess team. During the second section of the race, however, their Charjabug got stuck in a sand pit and was not able to move any further. With this, the Science Speed team was eliminated from the race.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions",
+      "In other languages"
+    ],
+    "characterCount": 960,
+    "sectionCount": 4
+  }
+}

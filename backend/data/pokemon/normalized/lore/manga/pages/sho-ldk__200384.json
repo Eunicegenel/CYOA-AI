@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Shō (LDK)",
+    "slug": "sho-ldk",
+    "pageId": 200384,
+    "revisionId": 4132239
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY: The Legend of the Pokémon Dragon King characters",
+    "sourceFileName": "sho-ldk__200384.json",
+    "revisionTimestamp": "2024-09-29T05:18:39Z",
+    "fetchedAt": "2026-05-14T15:49:24.985Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ショウ Shō) is a minor character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He appeared in LDK1.",
+  "plainText": "(Japanese: ショウ Shō) is a minor character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He appeared in LDK1.\n\n==Pokémon==\n \n\n \n \n \n \n \n\n \n\nit:Shō (LDK)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ショウ Shō) is a minor character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He appeared in LDK1."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "it:Shō (LDK)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Shō (LDK)",
+    "pageType": "character",
+    "searchableText": "Shō (LDK)\nCategory:Pocket Monsters XY: The Legend of the Pokémon Dragon King characters\n(Japanese: ショウ Shō) is a minor character in Pocket Monsters XY: The Legend of the Pokémon Dragon King. He appeared in LDK1.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 166,
+    "sectionCount": 2
+  }
+}

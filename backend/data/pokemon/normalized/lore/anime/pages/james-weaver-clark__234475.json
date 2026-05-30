@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "James Weaver Clark",
+    "slug": "james-weaver-clark",
+    "pageId": 234475,
+    "revisionId": 4323688
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "james-weaver-clark__234475.json",
+    "revisionTimestamp": "2025-06-24T03:34:32Z",
+    "fetchedAt": "2026-05-14T14:25:32.515Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "James Weaver Clark is a voice actor for the English dub of .",
+  "plainText": "James Weaver Clark is a voice actor for the English dub of .\n\n==Biography==\nClark is an American voice actor. He joined during , voicing several Pokémon in the Hoopa's Surprise Ring Adventures shorts before joining the during as Mad Magmar. In 2017, he married fellow voice actor Alyson Leigh Rosenfeld, who also works on Pokémon the Series.\n\n==Pokémon roles==\n===Animation===\n==== ====\n=====Humans=====\nMad Magmar\n\n=====Pokémon=====\n======Major======\nAsh's Melmetal\n\n======Minor======\n( )\n( )\n\n==Other non-Pokémon roles==\nTech/Soldier ( )\nTower (Modern Combat Versus)\nLittle Snail (Tip the Mouse)\nCaptain Bus/Captain Snail (Captain Kraken)\nNarrator (Sex Machine)\nTom (Wizard and Cat)\nJeb (Tire Town School)\nTaco (Magic Marker)\nMr. Randolph (A Little Princess)\nTerry (Scheme Squad)\nBrad (Surprise)\nPat (Raising Dion)\nJames (Spidulon)\nAssurance Team (Final Gang Initiation)\nOkko's Father ( )\n\n==External links==\nWebsite\nTwitter\nAnime News Network\n\n \n \n\nit:James Weaver Clark",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "James Weaver Clark is a voice actor for the English dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Clark is an American voice actor. He joined during , voicing several Pokémon in the Hoopa's Surprise Ring Adventures shorts before joining the during as Mad Magmar. In 2017, he married fellow voice actor Alyson Leigh Rosenfeld, who also works on Pokémon the Series."
+    },
+    {
+      "heading": "Humans",
+      "level": 5,
+      "text": "Mad Magmar"
+    },
+    {
+      "heading": "Major",
+      "level": 6,
+      "text": "Ash's Melmetal"
+    },
+    {
+      "heading": "Minor",
+      "level": 6,
+      "text": "( )\n( )"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Tech/Soldier ( )\nTower (Modern Combat Versus)\nLittle Snail (Tip the Mouse)\nCaptain Bus/Captain Snail (Captain Kraken)\nNarrator (Sex Machine)\nTom (Wizard and Cat)\nJeb (Tire Town School)\nTaco (Magic Marker)\nMr. Randolph (A Little Princess)\nTerry (Scheme Squad)\nBrad (Surprise)\nPat (Raising Dion)\nJames (Spidulon)\nAssurance Team (Final Gang Initiation)\nOkko's Father ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Website\nTwitter\nAnime News Network\n\n \n \n\nit:James Weaver Clark"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "James Weaver Clark",
+    "pageType": "general-anime-lore",
+    "searchableText": "James Weaver Clark\nCategory:TPCi voice actors\nJames Weaver Clark is a voice actor for the English dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "Humans",
+      "Major",
+      "Minor",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 973,
+    "sectionCount": 7
+  }
+}

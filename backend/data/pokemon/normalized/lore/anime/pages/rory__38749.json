@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Rory",
+    "slug": "rory",
+    "pageId": 38749,
+    "revisionId": 4331038
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Johto characters of the day",
+    "sourceFileName": "rory__38749.json",
+    "revisionTimestamp": "2025-07-05T16:08:41Z",
+    "fetchedAt": "2026-05-14T14:46:58.602Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Rory (Japanese: ミキオ Mikio) is a character of the day who appeared in Spring Fever. He is a professional digger who travels around the world with his daughter, Peggy, digging hot springs. Large hotels hire him to dig these hot springs in order to build large resorts.",
+  "plainText": "Rory (Japanese: ミキオ Mikio) is a character of the day who appeared in Spring Fever. He is a professional digger who travels around the world with his daughter, Peggy, digging hot springs. Large hotels hire him to dig these hot springs in order to build large resorts.\n \n\n==Pokémon==\n \nThis listing is of Rory's known Pokémon:\n \n\n \n\n==Voice actors==\n \n\n==Trivia==\nRory seems to be based on the Hikers who appear in the games.\nThe Japanese nicknames for all three Swinub literally spell Swinub's name: Urimoo. The dub nicknames spell out Swinub phonetically.\n \n \n\n \n \n \n \n\nde:Heiße Quellen#Rory\nes:Rory\nfr:Rory\nit:Rory",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Rory (Japanese: ミキオ Mikio) is a character of the day who appeared in Spring Fever. He is a professional digger who travels around the world with his daughter, Peggy, digging hot springs. Large hotels hire him to dig these hot springs in order to build large resorts."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Rory's known Pokémon:"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Rory seems to be based on the Hikers who appear in the games.\nThe Japanese nicknames for all three Swinub literally spell Swinub's name: Urimoo. The dub nicknames spell out Swinub phonetically.\n \n \n\n \n \n \n \n\nde:Heiße Quellen#Rory\nes:Rory\nfr:Rory\nit:Rory"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rory",
+    "pageType": "character",
+    "searchableText": "Rory\nCategory:Johto characters of the day\nRory (Japanese: ミキオ Mikio) is a character of the day who appeared in Spring Fever. He is a professional digger who travels around the world with his daughter, Peggy, digging hot springs. Large hotels hire him to dig these hot springs in order to build large resorts.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 615,
+    "sectionCount": 3
+  }
+}

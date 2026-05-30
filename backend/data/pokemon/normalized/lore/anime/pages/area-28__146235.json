@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Area 28",
+    "slug": "area-28",
+    "pageId": 146235,
+    "revisionId": 4261194
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "area-28__146235.json",
+    "revisionTimestamp": "2025-03-19T21:51:21Z",
+    "fetchedAt": "2026-05-14T14:03:12.835Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Area 28 (Japanese: エリア２８ Area 28) is an -exclusive location in the Unova region. It exists along and is notorious for sightings. \n\nProfessor Icarus lived there after he quit his job as a university professor in order to work on ways to manipulate . It was also where he encountered , a Pokémon considered to be .\n\nArea 28 is largely desert, with one diner and Professor Icarus's laboratory the main points of interest.",
+  "plainText": "Area 28 (Japanese: エリア２８ Area 28) is an -exclusive location in the Unova region. It exists along and is notorious for sightings. \n\nProfessor Icarus lived there after he quit his job as a university professor in order to work on ways to manipulate . It was also where he encountered , a Pokémon considered to be .\n\nArea 28 is largely desert, with one diner and Professor Icarus's laboratory the main points of interest. \n\n==Pokémon seen in Area 28==\n \n\n==Trivia==\nArea 28's name is a spoof of , which is often the subject of UFO speculation. Its setting is also based on the real world location.\n\n==In other languages==\n \n\n \n \n \n\nde:Areal 28\nes:Área 28\nit:Area 28\nzh:２８區",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Area 28 (Japanese: エリア２８ Area 28) is an -exclusive location in the Unova region. It exists along and is notorious for sightings. \n\nProfessor Icarus lived there after he quit his job as a university professor in order to work on ways to manipulate . It was also where he encountered , a Pokémon considered to be .\n\nArea 28 is largely desert, with one diner and Professor Icarus's laboratory the main points of interest."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Area 28's name is a spoof of , which is often the subject of UFO speculation. Its setting is also based on the real world location."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Areal 28\nes:Área 28\nit:Area 28\nzh:２８區"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Area 28",
+    "pageType": "location",
+    "searchableText": "Area 28\nCategory:Animated series-exclusive locations\nArea 28 (Japanese: エリア２８ Area 28) is an -exclusive location in the Unova region. It exists along and is notorious for sightings. \n\nProfessor Icarus lived there after he quit his job as a university professor in order to work on ways to manipulate . It was also where he encountered , a Pokémon considered to be .\n\nArea 28 is largely desert, with one diner and Professor Icarus's laboratory the main points of interest.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 669,
+    "sectionCount": 3
+  }
+}

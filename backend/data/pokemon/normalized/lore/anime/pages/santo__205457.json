@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Santo",
+    "slug": "santo",
+    "pageId": 205457,
+    "revisionId": 4494670
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Kalos characters of the day",
+    "sourceFileName": "santo__205457.json",
+    "revisionTimestamp": "2026-02-27T12:34:29Z",
+    "fetchedAt": "2026-05-14T14:48:21.565Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Santo (Japanese: ソルト Salt) is a character of the day who appeared in Performing with Fiery Charm!. He is a Pokémon Connoisseur who acted as one of the judges of the Dendemille Town Rookie Class Pokémon Showcase along with Gena and Delilah.\n\nDuring the Theme Performance, he had his evaluate the Poké Puffs made by the s. They let Miette, Jessilia, and advance to the second round. At the end of the Freestyle Performance, he voted along with the audience to decide the winner of the Pokémon Showcase and was shown to vote for Miette.",
+  "plainText": "Santo (Japanese: ソルト Salt) is a character of the day who appeared in Performing with Fiery Charm!. He is a Pokémon Connoisseur who acted as one of the judges of the Dendemille Town Rookie Class Pokémon Showcase along with Gena and Delilah.\n\nDuring the Theme Performance, he had his evaluate the Poké Puffs made by the s. They let Miette, Jessilia, and advance to the second round. At the end of the Freestyle Performance, he voted along with the audience to decide the winner of the Pokémon Showcase and was shown to vote for Miette.\n\n==Pokémon==\n \n \n\n==Voice actors==\n \n\n==Trivia==\nSanto is the only known Pokémon Connoisseur outside of the Unova region, and the only one whose class is unknown.\n\n \n\n \n \n \n \n\nes:Santo\nfr:Solane (épisode 879)\nit:Sanzio\nja:ソルト (XY編第80話)\nzh:索特",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Santo (Japanese: ソルト Salt) is a character of the day who appeared in Performing with Fiery Charm!. He is a Pokémon Connoisseur who acted as one of the judges of the Dendemille Town Rookie Class Pokémon Showcase along with Gena and Delilah.\n\nDuring the Theme Performance, he had his evaluate the Poké Puffs made by the s. They let Miette, Jessilia, and advance to the second round. At the end of the Freestyle Performance, he voted along with the audience to decide the winner of the Pokémon Showcase and was shown to vote for Miette."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Santo is the only known Pokémon Connoisseur outside of the Unova region, and the only one whose class is unknown.\n\n \n\n \n \n \n \n\nes:Santo\nfr:Solane (épisode 879)\nit:Sanzio\nja:ソルト (XY編第80話)\nzh:索特"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Santo",
+    "pageType": "character",
+    "searchableText": "Santo\nCategory:Kalos characters of the day\nSanto (Japanese: ソルト Salt) is a character of the day who appeared in Performing with Fiery Charm!. He is a Pokémon Connoisseur who acted as one of the judges of the Dendemille Town Rookie Class Pokémon Showcase along with Gena and Delilah.\n\nDuring the Theme Performance, he had his evaluate the Poké Puffs made by the s. They let Miette, Jessilia, and advance to the second round. At the end of the Freestyle Performance, he voted along with the audience to decide the winner of the Pokémon Showcase and was shown to vote for Miette.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 775,
+    "sectionCount": 2
+  }
+}

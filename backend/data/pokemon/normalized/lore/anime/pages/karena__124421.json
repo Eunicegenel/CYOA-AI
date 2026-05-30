@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Karena",
+    "slug": "karena",
+    "pageId": 124421,
+    "revisionId": 4095409
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Unova characters of the day",
+    "sourceFileName": "karena__124421.json",
+    "revisionTimestamp": "2024-09-01T00:26:48Z",
+    "fetchedAt": "2026-05-14T14:28:32.987Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Karena (Japanese: キクヨ Kikuyo) is a character of the day who appeared in Here Comes the Trubbish Squad!.\n\nKarena, alongside her granddaughter Daniela, is the owner of a Day Care close to Nacrene City. When , and arrived at the Day Care, they found a group of schoolchildren rebelling against their teacher for not allowing them to keep . Karena helped the children to keep Trubbish by revealing that Trubbish loses its bad odor once it befriends a person. \n\nIn the end, she gave Ash a Pokémon Egg as a reward for all his efforts in helping the children.",
+  "plainText": "Karena (Japanese: キクヨ Kikuyo) is a character of the day who appeared in Here Comes the Trubbish Squad!.\n\nKarena, alongside her granddaughter Daniela, is the owner of a Day Care close to Nacrene City. When , and arrived at the Day Care, they found a group of schoolchildren rebelling against their teacher for not allowing them to keep . Karena helped the children to keep Trubbish by revealing that Trubbish loses its bad odor once it befriends a person. \n\nIn the end, she gave Ash a Pokémon Egg as a reward for all his efforts in helping the children.\n\n==Pokémon==\n===Given away===\n \n\n==Voice actors==\n \n \n \n\n \n \n \n\nes:Karena/Karina\nit:Karena\nja:キクヨ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Karena (Japanese: キクヨ Kikuyo) is a character of the day who appeared in Here Comes the Trubbish Squad!.\n\nKarena, alongside her granddaughter Daniela, is the owner of a Day Care close to Nacrene City. When , and arrived at the Day Care, they found a group of schoolchildren rebelling against their teacher for not allowing them to keep . Karena helped the children to keep Trubbish by revealing that Trubbish loses its bad odor once it befriends a person. \n\nIn the end, she gave Ash a Pokémon Egg as a reward for all his efforts in helping the children."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Karena/Karina\nit:Karena\nja:キクヨ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Karena",
+    "pageType": "character",
+    "searchableText": "Karena\nCategory:Unova characters of the day\nKarena (Japanese: キクヨ Kikuyo) is a character of the day who appeared in Here Comes the Trubbish Squad!.\n\nKarena, alongside her granddaughter Daniela, is the owner of a Day Care close to Nacrene City. When , and arrived at the Day Care, they found a group of schoolchildren rebelling against their teacher for not allowing them to keep . Karena helped the children to keep Trubbish by revealing that Trubbish loses its bad odor once it befriends a person. \n\nIn the end, she gave Ash a Pokémon Egg as a reward for all his efforts in helping the children.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 650,
+    "sectionCount": 2
+  }
+}

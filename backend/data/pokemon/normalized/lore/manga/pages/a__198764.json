@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "A",
+    "slug": "a",
+    "pageId": 198764,
+    "revisionId": 4284083
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures characters",
+    "sourceFileName": "a__198764.json",
+    "revisionTimestamp": "2025-04-19T13:44:06Z",
+    "fetchedAt": "2026-05-14T15:12:02.968Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "If you were looking for a glitch Pokémon, see A (C0) or ▶ A.\n\n \n\"A\" (Japanese: Aさん Ms. A) is a recurring character in the Pokémon Adventures . Her real name is unknown.",
+  "plainText": "If you were looking for a glitch Pokémon, see A (C0) or ▶ A.\n\n \n\"A\" (Japanese: Aさん Ms. A) is a recurring character in the Pokémon Adventures . Her real name is unknown.\n\n==History==\n=== ===\nA first appeared in Danger: High Voltorb. She was seen on a newspaper that was shown to by the Pokémon Fan Club Chairman. She had received a shock when taking a bath with her .\n\n=== ===\nIn The Last Battle XIII, she was seen taking another bath with her Tentacool. A was one of the people who heard a message from the Pokémon Fan Club Chairman asking for people to send their Pokémon to help battle .\n\n=== ===\nIn Epilogue, A and her Tentacool were among the many people who went to the as a result of Scott wishing on .\n\n==Pokémon==\n \n\n==Trivia==\nIn the English versions of Danger: High Voltorb by Chuang Yi and VIZ, there is a quote by A that was not found in the Japanese version: \"That's the last bath I'll take with my !\" This contradicts her later appearance in The Last Battle XIII, where she is seen bathing with her Tentacool again.\n\n \n \n\nit:A (La Grande Avventura)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "If you were looking for a glitch Pokémon, see A (C0) or ▶ A.\n\n \n\"A\" (Japanese: Aさん Ms. A) is a recurring character in the Pokémon Adventures . Her real name is unknown."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "A first appeared in Danger: High Voltorb. She was seen on a newspaper that was shown to by the Pokémon Fan Club Chairman. She had received a shock when taking a bath with her ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "In The Last Battle XIII, she was seen taking another bath with her Tentacool. A was one of the people who heard a message from the Pokémon Fan Club Chairman asking for people to send their Pokémon to help battle ."
+    },
+    {
+      "heading": "",
+      "level": 3,
+      "text": "In Epilogue, A and her Tentacool were among the many people who went to the as a result of Scott wishing on ."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the English versions of Danger: High Voltorb by Chuang Yi and VIZ, there is a quote by A that was not found in the Japanese version: \"That's the last bath I'll take with my !\" This contradicts her later appearance in The Last Battle XIII, where she is seen bathing with her Tentacool again.\n\n \n \n\nit:A (La Grande Avventura)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "A",
+    "pageType": "character",
+    "searchableText": "A\nCategory:Pokémon Adventures characters\nIf you were looking for a glitch Pokémon, see A (C0) or ▶ A.\n\n \n\"A\" (Japanese: Aさん Ms. A) is a recurring character in the Pokémon Adventures . Her real name is unknown.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "",
+      "",
+      "Trivia"
+    ],
+    "characterCount": 1062,
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pokémon Horizon chapters",
+    "slug": "list-of-pokemon-horizon-chapters",
+    "pageId": 251943,
+    "revisionId": 4131208
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Horizon chapters",
+    "sourceFileName": "list-of-pokemon-horizon-chapters__251943.json",
+    "revisionTimestamp": "2024-09-29T04:14:48Z",
+    "fetchedAt": "2026-05-14T15:24:48.384Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The following is a list of chapters from the Pokémon Horizon created by やぶのてんや Tenya Yabuno. Altogether, there are 11 chapters.",
+  "plainText": "The following is a list of chapters from the Pokémon Horizon created by やぶのてんや Tenya Yabuno. Altogether, there are 11 chapters.\n\n== ==\n \n\n== ==\n \n\n \n\n \n \n\nde:Liste der Manga-Kapitel (Pocket Monsters Horizon)\nes:Lista de capítulos de Pokémon Horizon\nfr:Liste des chapitres de Pokémon Horizon\nit:Elenco dei capitoli di Pokémon Horizon",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The following is a list of chapters from the Pokémon Horizon created by やぶのてんや Tenya Yabuno. Altogether, there are 11 chapters."
+    },
+    {
+      "heading": "",
+      "level": 2,
+      "text": "de:Liste der Manga-Kapitel (Pocket Monsters Horizon)\nes:Lista de capítulos de Pokémon Horizon\nfr:Liste des chapitres de Pokémon Horizon\nit:Elenco dei capitoli di Pokémon Horizon"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon Horizon chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Pokémon Horizon chapters\nCategory:Pokémon Horizon chapters\nThe following is a list of chapters from the Pokémon Horizon created by やぶのてんや Tenya Yabuno. Altogether, there are 11 chapters.",
+    "sectionHeadings": [
+      "Lead",
+      ""
+    ],
+    "characterCount": 332,
+    "sectionCount": 2
+  }
+}

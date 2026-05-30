@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP41",
+    "slug": "pmdp41",
+    "pageId": 176421,
+    "revisionId": 4528393
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp41__176421.json",
+    "revisionTimestamp": "2026-04-09T16:19:01Z",
+    "fetchedAt": "2026-05-14T15:32:38.722Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピVSバルキー直接対決！！ vs , Showdown!!) is the forty-first chapter of the manga.",
+  "plainText": "(Japanese: ピッピVSバルキー直接対決！！ vs , Showdown!!) is the forty-first chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピVSバルキー直接対決！！ vs , Showdown!!) is the forty-first chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP41",
+    "pageType": "chapter",
+    "searchableText": "PMDP41\nCategory:Pocket Monsters DP chapters\n(Japanese: ピッピVSバルキー直接対決！！ vs , Showdown!!) is the forty-first chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 208,
+    "sectionCount": 2
+  }
+}

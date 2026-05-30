@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "Takeshi Tsuruno",
+    "slug": "takeshi-tsuruno",
+    "pageId": 143363,
+    "revisionId": 4354906
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "takeshi-tsuruno__143363.json",
+    "revisionTimestamp": "2025-08-08T20:49:38Z",
+    "fetchedAt": "2026-05-14T14:53:01.223Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Takeshi Tsuruno (Japanese: つるの剛士 Tsuruno Takeshi) is a Japanese voice actor for , as well as a singer and on screen actor. He was born on May 26, 1975 in the , , .",
+  "plainText": "Takeshi Tsuruno (Japanese: つるの剛士 Tsuruno Takeshi) is a Japanese voice actor for , as well as a singer and on screen actor. He was born on May 26, 1975 in the , , .\n\n==Pokémon roles==\n===Animation===\n==== ====\nDamon\n\n====Musical appearances====\nCan You Name All the Pokémon? BW\n\n==Other non-Pokémon roles==\n===TV dramas===\nYukata Kokudo ( )\nUltraman Dyna ( )\nTakumi Akiyama (Namae o Nakushita Megami)\n\n==Solo albums==\nChuru no Uta\nMedalist\nNatsu no Wasuremono feat. Tokyo Ska Paradise Orchestra/Love Letter\nSugar Vine/Two weeks to death\nTsurubum\nTsuruno Oto\nTsuruno Uta\n\n==Group albums==\n===Aladdin===\nHi wa, Mata Noboru\n\n===Shuchishin===\nNakanaide\nShuchishin\nWE LOVE HEXAGON\nYowamushi Santa\n\n \n \n \n \n \n\nit:Takeshi Tsuruno\nja:つるの剛士",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Takeshi Tsuruno (Japanese: つるの剛士 Tsuruno Takeshi) is a Japanese voice actor for , as well as a singer and on screen actor. He was born on May 26, 1975 in the , , ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Damon"
+    },
+    {
+      "heading": "Musical appearances",
+      "level": 4,
+      "text": "Can You Name All the Pokémon? BW"
+    },
+    {
+      "heading": "TV dramas",
+      "level": 3,
+      "text": "Yukata Kokudo ( )\nUltraman Dyna ( )\nTakumi Akiyama (Namae o Nakushita Megami)"
+    },
+    {
+      "heading": "Solo albums",
+      "level": 2,
+      "text": "Churu no Uta\nMedalist\nNatsu no Wasuremono feat. Tokyo Ska Paradise Orchestra/Love Letter\nSugar Vine/Two weeks to death\nTsurubum\nTsuruno Oto\nTsuruno Uta"
+    },
+    {
+      "heading": "Aladdin",
+      "level": 3,
+      "text": "Hi wa, Mata Noboru"
+    },
+    {
+      "heading": "Shuchishin",
+      "level": 3,
+      "text": "Nakanaide\nShuchishin\nWE LOVE HEXAGON\nYowamushi Santa\n\n \n \n \n \n \n\nit:Takeshi Tsuruno\nja:つるの剛士"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Takeshi Tsuruno",
+    "pageType": "general-anime-lore",
+    "searchableText": "Takeshi Tsuruno\nCategory:Japanese voice actors\nTakeshi Tsuruno (Japanese: つるの剛士 Tsuruno Takeshi) is a Japanese voice actor for , as well as a singer and on screen actor. He was born on May 26, 1975 in the , , .",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "Musical appearances",
+      "TV dramas",
+      "Solo albums",
+      "Aladdin",
+      "Shuchishin"
+    ],
+    "characterCount": 730,
+    "sectionCount": 7
+  }
+}

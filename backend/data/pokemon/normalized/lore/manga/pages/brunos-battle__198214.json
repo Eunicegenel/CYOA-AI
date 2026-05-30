@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Bruno's Battle",
+    "slug": "brunos-battle",
+    "pageId": 198214,
+    "revisionId": 4130604
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "brunos-battle__198214.json",
+    "revisionTimestamp": "2024-09-29T03:49:05Z",
+    "fetchedAt": "2026-05-14T15:14:36.971Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Bruno's Battle is the 37th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 44 and 45 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Bruno's Battle is the 37th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 44 and 45 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 84 - Clefabulous Clefable\nChapter 85 - Gimme Shellder\n\n==Important events==\ntells Lorelei her plan to have find .\nRed defeats Bruno.\nRed is broken out of the ice by and is given a Spoon of Destiny.\nRed gets his Pokédex back.\nBlue tries to fight Agatha and her .\nAgatha reveals some of the plan of the Elite Four.\n\n \n\n \n\nfr:Volume 34 (Pokémon Adventures)\nit:Bruno's Battle",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Bruno's Battle is the 37th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 44 and 45 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 84 - Clefabulous Clefable\nChapter 85 - Gimme Shellder"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "tells Lorelei her plan to have find .\nRed defeats Bruno.\nRed is broken out of the ice by and is given a Spoon of Destiny.\nRed gets his Pokédex back.\nBlue tries to fight Agatha and her .\nAgatha reveals some of the plan of the Elite Four.\n\n \n\n \n\nfr:Volume 34 (Pokémon Adventures)\nit:Bruno's Battle"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Bruno's Battle",
+    "pageType": "pokemon-related",
+    "searchableText": "Bruno's Battle\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Bruno's Battle is the 37th monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters 44 and 45 of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 800,
+    "sectionCount": 3
+  }
+}

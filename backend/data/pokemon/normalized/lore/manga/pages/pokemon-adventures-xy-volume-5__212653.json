@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Adventures XY volume 5",
+    "slug": "pokemon-adventures-xy-volume-5",
+    "pageId": 212653,
+    "revisionId": 4298474
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures volumes",
+    "sourceFileName": "pokemon-adventures-xy-volume-5__212653.json",
+    "revisionTimestamp": "2025-05-11T10:05:08Z",
+    "fetchedAt": "2026-05-14T15:35:44.471Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 5 is the fifth volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and were collected in the regular volumes once the had finished.",
+  "plainText": "Volume 5 is the fifth volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and were collected in the regular volumes once the had finished.\n\n==Publications==\n \n \n \n \n \n \n \n \n \n \n\n==Chapters==\nScizor Defends\nHawlucha Attack\nPinsir Changes\nZygarde Appears\nMalamar Traps\nChesnaught Protects\n\n==Important events==\n \n\n==Party changes==\n===Additions===\nY's \"Solsol\" in PS583.\nX's \"Rute\" in PS583.\n\n===Evolutions===\nY's \"Croaky\" evolves into in PS587.\nX's \"Marisso\" evolves into in PS588.\nX's \"Salamè\" evolves into in PS589.\n\n \n\n \n\nde:Band 5 (Pocket Monsters SPECIAL X und Y)\nes:Tomo 5 (Pokémon XY)\nfr:Tome 5 (Pocket Monsters Special X•Y)\nit:Pokémon Adventures XY volume 5\nzh:宝可梦特别篇Ｘ·Ｙ5",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 5 is the fifth volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and were collected in the regular volumes once the had finished."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Scizor Defends\nHawlucha Attack\nPinsir Changes\nZygarde Appears\nMalamar Traps\nChesnaught Protects"
+    },
+    {
+      "heading": "Additions",
+      "level": 3,
+      "text": "Y's \"Solsol\" in PS583.\nX's \"Rute\" in PS583."
+    },
+    {
+      "heading": "Evolutions",
+      "level": 3,
+      "text": "Y's \"Croaky\" evolves into in PS587.\nX's \"Marisso\" evolves into in PS588.\nX's \"Salamè\" evolves into in PS589.\n\n \n\n \n\nde:Band 5 (Pocket Monsters SPECIAL X und Y)\nes:Tomo 5 (Pokémon XY)\nfr:Tome 5 (Pocket Monsters Special X•Y)\nit:Pokémon Adventures XY volume 5\nzh:宝可梦特别篇Ｘ·Ｙ5"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Adventures XY volume 5",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Adventures XY volume 5\nCategory:Pokémon Adventures volumes\nVolume 5 is the fifth volume published by Shogakukan compiling chapters from the of the Pokémon Adventures manga created by Hidenori Kusaka and Satoshi Yamamoto. The chapters in this volume are collected directly from the magazine publication of Pokémon Adventures and were collected in the regular volumes once the had finished.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Additions",
+      "Evolutions"
+    ],
+    "characterCount": 869,
+    "sectionCount": 4
+  }
+}

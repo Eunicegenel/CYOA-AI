@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "PS554",
+    "slug": "ps554",
+    "pageId": 194395,
+    "revisionId": 4549124
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps554__194395.json",
+    "revisionTimestamp": "2026-05-11T01:17:30Z",
+    "fetchedAt": "2026-05-14T15:45:47.245Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Kangaskhan...Kangascan't (Japanese: ガルーラ、試す , Attempt) is the 554th chapter of the Pokémon Adventures manga, and the sixth chapter of the .",
+  "plainText": "Kangaskhan...Kangascan't (Japanese: ガルーラ、試す , Attempt) is the 554th chapter of the Pokémon Adventures manga, and the sixth chapter of the .\n\n==Plot==\n \n\n==Major events==\nand his friends arrive in Santalune City.\ncomes up with a set of rules to make sure that her friends are safe.\nX and Trevor attempt to try and figure out the transformation that Li'l Kanga can use.\nThe group is approached by Viola, who offers to help them.\nWhen Y accepts Viola's offer, runs off in anger because everyone decides to trust her so easily.\nCelosia tricks Shauna into being put under mind control.\n \n \n\n===Debuts===\n====Humans====\n\n====Pokémon debuts====\n\n(Meadow Pattern)\n\n(Debutante, Pharaoh, Matron, and Dandy Trims)\n\n(Shield Forme)\n\n==Characters==\n===Humans===\n\nViola\nMable (flashback)\nAliana (flashback)\nCelosia\n(flashback)\nGroomer\n\n===Pokémon===\n(Kanga; 's)\n(Li'l Kanga; 's)\n(Fletchy; 's)\n( 's; )\n( 's)\n(Viola's)\n(Mable's; flashback)\n(female; Aliana's; flashback)\n(Aliana's; flashback)\n(Celosia's)\n(Celosia's; Shield Forme)\n( 's)\n(Groomer's; Natural, Debutante, Pharaoh, Matron, and Dandy Trims; illusion)\n( 's)\n( 's)\n( 's)\n( ')\n(Trainer's)\n(later )\n(later )\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n\n==Trivia==\nIn the original magazine version of this chapter, the fought was portrayed with white claws. When the chapter was collected into volume format, the claws were changed to black.\n\n==In other languages==\n \n \n \n \n \n\nde:Testlauf mit Kangama\nes:PMS554\nfr:Chapitre 554 (Pocket Monsters Special)\nit:LGA554\nzh:宝可梦特别篇 第554话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Kangaskhan...Kangascan't (Japanese: ガルーラ、試す , Attempt) is the 554th chapter of the Pokémon Adventures manga, and the sixth chapter of the ."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "and his friends arrive in Santalune City.\ncomes up with a set of rules to make sure that her friends are safe.\nX and Trevor attempt to try and figure out the transformation that Li'l Kanga can use.\nThe group is approached by Viola, who offers to help them.\nWhen Y accepts Viola's offer, runs off in anger because everyone decides to trust her so easily.\nCelosia tricks Shauna into being put under mind control."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "(Meadow Pattern)\n\n(Debutante, Pharaoh, Matron, and Dandy Trims)\n\n(Shield Forme)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Viola\nMable (flashback)\nAliana (flashback)\nCelosia\n(flashback)\nGroomer"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Kanga; 's)\n(Li'l Kanga; 's)\n(Fletchy; 's)\n( 's; )\n( 's)\n(Viola's)\n(Mable's; flashback)\n(female; Aliana's; flashback)\n(Aliana's; flashback)\n(Celosia's)\n(Celosia's; Shield Forme)\n( 's)\n(Groomer's; Natural, Debutante, Pharaoh, Matron, and Dandy Trims; illusion)\n( 's)\n( 's)\n( 's)\n( ')\n(Trainer's)\n(later )\n(later )\n(flashback)\n(flashback)\n(flashback)\n(flashback)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In the original magazine version of this chapter, the fought was portrayed with white claws. When the chapter was collected into volume format, the claws were changed to black."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Testlauf mit Kangama\nes:PMS554\nfr:Chapitre 554 (Pocket Monsters Special)\nit:LGA554\nzh:宝可梦特别篇 第554话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS554",
+    "pageType": "chapter",
+    "searchableText": "PS554\nCategory:Pokémon Adventures chapters\nKangaskhan...Kangascan't (Japanese: ガルーラ、試す , Attempt) is the 554th chapter of the Pokémon Adventures manga, and the sixth chapter of the .",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 1521,
+    "sectionCount": 7
+  }
+}

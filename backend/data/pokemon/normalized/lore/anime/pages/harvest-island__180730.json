@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Harvest Island",
+    "slug": "harvest-island",
+    "pageId": 180730,
+    "revisionId": 4318478
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Decolore Islands",
+    "sourceFileName": "harvest-island__180730.json",
+    "revisionTimestamp": "2025-06-11T18:46:51Z",
+    "fetchedAt": "2026-05-14T14:22:03.009Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Harvest Island (Japanese: ミノリ島 Minori Island) is the tenth island and traveled on in the Decolore Islands.\n\nThe island is famous for its Berry trees and produce. It features many sweeping green hills and has a township close to its shipping dock. The island is also known for the Grand Harvest Festival, a celebration of its history, which includes a Pokémon Sumo Tournament.\n\nWhile on Harvest Island, the group met Alexa, a journalist from the Kalos region. Before the Pokémon Sumo Tournament, met another Trainer named Rodney, who he quickly became rivals with after they bumped into each other. In the end, Ash became the Pokémon Sumo Tournament's winner.",
+  "plainText": "Harvest Island (Japanese: ミノリ島 Minori Island) is the tenth island and traveled on in the Decolore Islands.\n\nThe island is famous for its Berry trees and produce. It features many sweeping green hills and has a township close to its shipping dock. The island is also known for the Grand Harvest Festival, a celebration of its history, which includes a Pokémon Sumo Tournament.\n\nWhile on Harvest Island, the group met Alexa, a journalist from the Kalos region. Before the Pokémon Sumo Tournament, met another Trainer named Rodney, who he quickly became rivals with after they bumped into each other. In the end, Ash became the Pokémon Sumo Tournament's winner.\n\n==In other languages==\n \n\n==Related articles==\n \n \n\n \n\nde:Ernte-Insel\nes:Isla de la Cosecha/Isla Cosecha\nit:Isola del Raccolto\nja:ミノリ島\nzh:果实岛",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Harvest Island (Japanese: ミノリ島 Minori Island) is the tenth island and traveled on in the Decolore Islands.\n\nThe island is famous for its Berry trees and produce. It features many sweeping green hills and has a township close to its shipping dock. The island is also known for the Grand Harvest Festival, a celebration of its history, which includes a Pokémon Sumo Tournament.\n\nWhile on Harvest Island, the group met Alexa, a journalist from the Kalos region. Before the Pokémon Sumo Tournament, met another Trainer named Rodney, who he quickly became rivals with after they bumped into each other. In the end, Ash became the Pokémon Sumo Tournament's winner."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Ernte-Insel\nes:Isla de la Cosecha/Isla Cosecha\nit:Isola del Raccolto\nja:ミノリ島\nzh:果实岛"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Harvest Island",
+    "pageType": "general-anime-lore",
+    "searchableText": "Harvest Island\nCategory:Decolore Islands\nHarvest Island (Japanese: ミノリ島 Minori Island) is the tenth island and traveled on in the Decolore Islands.\n\nThe island is famous for its Berry trees and produce. It features many sweeping green hills and has a township close to its shipping dock. The island is also known for the Grand Harvest Festival, a celebration of its history, which includes a Pokémon Sumo Tournament.\n\nWhile on Harvest Island, the group met Alexa, a journalist from the Kalos region. Before the Pokémon Sumo Tournament, met another Trainer named Rodney, who he quickly became rivals with after they bumped into each other. In the end, Ash became the Pokémon Sumo Tournament's winner.",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 801,
+    "sectionCount": 2
+  }
+}

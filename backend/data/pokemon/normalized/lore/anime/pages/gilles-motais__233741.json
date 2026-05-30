@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Gilles Motais",
+    "slug": "gilles-motais",
+    "pageId": 233741,
+    "revisionId": 4528688
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "gilles-motais__233741.json",
+    "revisionTimestamp": "2026-04-09T16:41:33Z",
+    "fetchedAt": "2026-05-14T14:20:27.615Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Gilles Motais is a voice actor for the English-language dub of .",
+  "plainText": "Gilles Motais is a voice actor for the English-language dub of .\n\n==Biography==\nMotais was born in France and is currently a voice actor based in New York City. Motais joined the during , where he gained the role of Monsieur Pierre, which is his only role so far.\n\n==Pokémon roles==\n===Animation===\n==== ====\nMonsieur Pierre\n\n==External links==\nBodalgo profile\n\n \n \n\n \n\nit:Gilles Motais",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Gilles Motais is a voice actor for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Motais was born in France and is currently a voice actor based in New York City. Motais joined the during , where he gained the role of Monsieur Pierre, which is his only role so far."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Monsieur Pierre"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Bodalgo profile\n\n \n \n\n \n\nit:Gilles Motais"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Gilles Motais",
+    "pageType": "general-anime-lore",
+    "searchableText": "Gilles Motais\nCategory:TPCi voice actors\nGilles Motais is a voice actor for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "External links"
+    ],
+    "characterCount": 386,
+    "sectionCount": 4
+  }
+}

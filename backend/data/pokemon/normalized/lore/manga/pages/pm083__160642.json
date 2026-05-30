@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM083",
+    "slug": "pm083",
+    "pageId": 160642,
+    "revisionId": 4527718
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm083__160642.json",
+    "revisionTimestamp": "2026-04-09T15:50:51Z",
+    "fetchedAt": "2026-05-14T15:31:21.852Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Pokémon Snowball Fight (Japanese: ポケモン雪合戦大会 Pokémon Snowball Fight Tournament) is the eighty-third chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Pokémon Snowball Fight (Japanese: ポケモン雪合戦大会 Pokémon Snowball Fight Tournament) is the eighty-third chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n( )\n( )\n( 's)\n( 's)\n\n==Trivia==\n\n \n \n\nde:Kapitel 83 (Pokémon Pocket Monsters)\nit:PMM083",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Snowball Fight (Japanese: ポケモン雪合戦大会 Pokémon Snowball Fight Tournament) is the eighty-third chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( )\n( )\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "de:Kapitel 83 (Pokémon Pocket Monsters)\nit:PMM083"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM083",
+    "pageType": "chapter",
+    "searchableText": "PM083\nCategory:Pokémon Pocket Monsters chapters\nPokémon Snowball Fight (Japanese: ポケモン雪合戦大会 Pokémon Snowball Fight Tournament) is the eighty-third chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 357,
+    "sectionCount": 3
+  }
+}

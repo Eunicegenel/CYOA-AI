@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Big Meowth Day",
+    "slug": "big-meowth-day",
+    "pageId": 38730,
+    "revisionId": 4275733
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese ending themes",
+    "sourceFileName": "big-meowth-day__38730.json",
+    "revisionTimestamp": "2025-04-03T13:05:33Z",
+    "fetchedAt": "2026-05-14T14:05:16.674Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Big Meowth Day (Japanese: ビック・ニャース・デイ Biggu Nyāsu Dei) is the 11th ending theme for Pokémon Sunday. It replaced Spurt!.",
+  "plainText": "Big Meowth Day (Japanese: ビック・ニャース・デイ Biggu Nyāsu Dei) is the 11th ending theme for Pokémon Sunday. It replaced Spurt!.\n\n==Ending animation==\n===Synopsis===\nMeowth, Pikachu and the rest of the Pokémon are enjoying fun in the beach.\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n\n===Lyrics===\n \n\n==Trivia==\n===Errors===\n\n==External links==\nReferences by lyrics in (romanized) Japanese and CD availability\n\n \n \n \n\nja:ビッグ・ニャース・ディ",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Big Meowth Day (Japanese: ビック・ニャース・デイ Biggu Nyāsu Dei) is the 11th ending theme for Pokémon Sunday. It replaced Spurt!."
+    },
+    {
+      "heading": "Synopsis",
+      "level": 3,
+      "text": "Meowth, Pikachu and the rest of the Pokémon are enjoying fun in the beach."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "References by lyrics in (romanized) Japanese and CD availability\n\n \n \n \n\nja:ビッグ・ニャース・ディ"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Big Meowth Day",
+    "pageType": "general-anime-lore",
+    "searchableText": "Big Meowth Day\nCategory:Japanese ending themes\nBig Meowth Day (Japanese: ビック・ニャース・デイ Biggu Nyāsu Dei) is the 11th ending theme for Pokémon Sunday. It replaced Spurt!.",
+    "sectionHeadings": [
+      "Lead",
+      "Synopsis",
+      "Pokémon",
+      "External links"
+    ],
+    "characterCount": 431,
+    "sectionCount": 4
+  }
+}

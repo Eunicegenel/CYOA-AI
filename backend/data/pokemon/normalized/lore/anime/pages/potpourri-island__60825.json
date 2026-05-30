@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Potpourri Island",
+    "slug": "potpourri-island",
+    "pageId": 60825,
+    "revisionId": 4261162
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "potpourri-island__60825.json",
+    "revisionTimestamp": "2025-03-19T21:50:56Z",
+    "fetchedAt": "2026-05-14T14:44:17.049Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Potpourri Island (Japanese: ポプリ島 Potpourri Island) is an -exclusive location south of the Kanto mainland. It is accessible by boat from Fuchsia City. There is a town on one side of the island, called Wisteria Town.",
+  "plainText": "Potpourri Island (Japanese: ポプリ島 Potpourri Island) is an -exclusive location south of the Kanto mainland. It is accessible by boat from Fuchsia City. There is a town on one side of the island, called Wisteria Town.\n\n==In animation==\n \nFollowing 's Battle Pike victory, the group arrived on Potpourri Island in Off the Unbeaten Path. The group and participated in the annual Pokémon Orienteering event alongside one of their Pokémon in a race to find stamps at five checkpoints across the island. James and managed to win the competition and earn the large food prize, which he gave away to Ash and friends for saving the Pokémon Center Nursery's Pokémon from Jessie and 's clutches.\n\nIn the next episode, Ash and his friends traveled to the other side of the island in order to reach Wisteria Town, where a Pokémon Contest was going to take place. , her rival Harley, and several other s entered the event hoping to win the coveted Wisteria Ribbon. May and Harley were pitched against one another in the final round, and Harley managed to defeat her using his , thus winning the competition and earning his fourth Kanto Ribbon.\n \n==Locations==\n===Cities and towns===\nWisteria Town\n\n===Areas of interest===\nLunatone Rock\nRainbow Falls\n\n==Gallery==\n \n\n==Pokémon seen on Potpourri Island==\n \n\n==Trivia==\n===Name origin===\nA is a mixture of dried plants, usually ones that are associated with pleasant fragrances. They are commonly used as air fresheners for domestic purposes.\n\n \n \n \n\n \n\nde:Potpourri Insel\nes:Isla Popurrí\nit:Isola di Potpourri\nzh:香草島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Potpourri Island (Japanese: ポプリ島 Potpourri Island) is an -exclusive location south of the Kanto mainland. It is accessible by boat from Fuchsia City. There is a town on one side of the island, called Wisteria Town."
+    },
+    {
+      "heading": "In animation",
+      "level": 2,
+      "text": "Following 's Battle Pike victory, the group arrived on Potpourri Island in Off the Unbeaten Path. The group and participated in the annual Pokémon Orienteering event alongside one of their Pokémon in a race to find stamps at five checkpoints across the island. James and managed to win the competition and earn the large food prize, which he gave away to Ash and friends for saving the Pokémon Center Nursery's Pokémon from Jessie and 's clutches.\n\nIn the next episode, Ash and his friends traveled to the other side of the island in order to reach Wisteria Town, where a Pokémon Contest was going to take place. , her rival Harley, and several other s entered the event hoping to win the coveted Wisteria Ribbon. May and Harley were pitched against one another in the final round, and Harley managed to defeat her using his , thus winning the competition and earning his fourth Kanto Ribbon."
+    },
+    {
+      "heading": "Cities and towns",
+      "level": 3,
+      "text": "Wisteria Town"
+    },
+    {
+      "heading": "Areas of interest",
+      "level": 3,
+      "text": "Lunatone Rock\nRainbow Falls"
+    },
+    {
+      "heading": "Name origin",
+      "level": 3,
+      "text": "A is a mixture of dried plants, usually ones that are associated with pleasant fragrances. They are commonly used as air fresheners for domestic purposes.\n\n \n \n \n\n \n\nde:Potpourri Insel\nes:Isla Popurrí\nit:Isola di Potpourri\nzh:香草島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Potpourri Island",
+    "pageType": "location",
+    "searchableText": "Potpourri Island\nCategory:Animated series-exclusive locations\nPotpourri Island (Japanese: ポプリ島 Potpourri Island) is an -exclusive location south of the Kanto mainland. It is accessible by boat from Fuchsia City. There is a town on one side of the island, called Wisteria Town.",
+    "sectionHeadings": [
+      "Lead",
+      "In animation",
+      "Cities and towns",
+      "Areas of interest",
+      "Name origin"
+    ],
+    "characterCount": 1548,
+    "sectionCount": 5
+  }
+}

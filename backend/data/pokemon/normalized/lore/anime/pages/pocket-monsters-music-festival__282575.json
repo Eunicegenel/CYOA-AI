@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pocket Monsters Music Festival",
+    "slug": "pocket-monsters-music-festival",
+    "pageId": 282575,
+    "revisionId": 4201702
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon animated series",
+    "sourceFileName": "pocket-monsters-music-festival__282575.json",
+    "revisionTimestamp": "2024-12-12T12:32:50Z",
+    "fetchedAt": "2026-05-14T14:42:24.635Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "The Pocket Monsters Music Festival (Japanese: アニメポケットモンスター Anime Music Festival) is a one-hour special that aired in Japan on March 31, 2023, two weeks before the premiere of Pokémon Horizons: The Series.\n\nIt featured various artists performing theme songs from the Pokémon animated series, including Heart-Pounding Diary, the first opening theme of Pokémon Horizons: The Series.",
+  "plainText": "The Pocket Monsters Music Festival (Japanese: アニメポケットモンスター Anime Music Festival) is a one-hour special that aired in Japan on March 31, 2023, two weeks before the premiere of Pokémon Horizons: The Series.\n\nIt featured various artists performing theme songs from the Pokémon animated series, including Heart-Pounding Diary, the first opening theme of Pokémon Horizons: The Series.\n\n==Setlist==\nAim to Be a Pokémon Master - Rica Matsumoto\nYour Adventure - Taiiku Okazaki\nTogether - Fumie Akiyoshi\nFuture Connection - \nPikachu's Song - \nMeowth's Ballad - \nRica Matsumoto Medley ( /Type: Wild) - Rica Matsumoto\nDreamDream - Shōko Nakagawa\nTo My Best Friend - \nCan You Name All the Pokémon? - ( ) and His Merry Friends\nMovie Main Theme Medley (Ice Cream Syndrome/Together With the Wind) - /Sachiko Kobayashi\nA Small Thing - Asuca Hayashi\nOne, Two, Three - ( × ), ×Go\nHeart-Pounding Diary - feat. \n\n==Cast==\nMC: , Rika Adachi\nSingers:\nFumie Akiyoshi\n\nTaiiku Okazaki\nShōko Nakagawa\nAsuca Hayashi\nRica Matsumoto\n\nGuests:\n( )\n\n==See also==\nNew Series Pocket Monsters Pokémon Investigation Team\n\n==External links==\nOfficial site\n \n\n \n\nzh:宝可梦动画音乐祭",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Pocket Monsters Music Festival (Japanese: アニメポケットモンスター Anime Music Festival) is a one-hour special that aired in Japan on March 31, 2023, two weeks before the premiere of Pokémon Horizons: The Series.\n\nIt featured various artists performing theme songs from the Pokémon animated series, including Heart-Pounding Diary, the first opening theme of Pokémon Horizons: The Series."
+    },
+    {
+      "heading": "Setlist",
+      "level": 2,
+      "text": "Aim to Be a Pokémon Master - Rica Matsumoto\nYour Adventure - Taiiku Okazaki\nTogether - Fumie Akiyoshi\nFuture Connection - \nPikachu's Song - \nMeowth's Ballad - \nRica Matsumoto Medley ( /Type: Wild) - Rica Matsumoto\nDreamDream - Shōko Nakagawa\nTo My Best Friend - \nCan You Name All the Pokémon? - ( ) and His Merry Friends\nMovie Main Theme Medley (Ice Cream Syndrome/Together With the Wind) - /Sachiko Kobayashi\nA Small Thing - Asuca Hayashi\nOne, Two, Three - ( × ), ×Go\nHeart-Pounding Diary - feat."
+    },
+    {
+      "heading": "Cast",
+      "level": 2,
+      "text": "MC: , Rika Adachi\nSingers:\nFumie Akiyoshi\n\nTaiiku Okazaki\nShōko Nakagawa\nAsuca Hayashi\nRica Matsumoto\n\nGuests:\n( )"
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "New Series Pocket Monsters Pokémon Investigation Team"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official site\n \n\n \n\nzh:宝可梦动画音乐祭"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters Music Festival",
+    "pageType": "pokemon-related",
+    "searchableText": "Pocket Monsters Music Festival\nCategory:Pokémon animated series\nThe Pocket Monsters Music Festival (Japanese: アニメポケットモンスター Anime Music Festival) is a one-hour special that aired in Japan on March 31, 2023, two weeks before the premiere of Pokémon Horizons: The Series.\n\nIt featured various artists performing theme songs from the Pokémon animated series, including Heart-Pounding Diary, the first opening theme of Pokémon Horizons: The Series.",
+    "sectionHeadings": [
+      "Lead",
+      "Setlist",
+      "Cast",
+      "See also",
+      "External links"
+    ],
+    "characterCount": 1136,
+    "sectionCount": 5
+  }
+}

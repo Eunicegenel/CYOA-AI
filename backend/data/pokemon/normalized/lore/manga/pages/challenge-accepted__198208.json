@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Challenge Accepted",
+    "slug": "challenge-accepted",
+    "pageId": 198208,
+    "revisionId": 4131031
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures monthly issues",
+    "sourceFileName": "challenge-accepted__198208.json",
+    "revisionTimestamp": "2024-09-29T03:57:48Z",
+    "fetchedAt": "2026-05-14T15:15:41.818Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Adventures: Challenge Accepted is the thirty-second monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-six, twenty-seven, and twenty-eight of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+  "plainText": "Pokémon Adventures: Challenge Accepted is the thirty-second monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-six, twenty-seven, and twenty-eight of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.\n\n==Publications==\n \n \n\n==Chapters==\nChapter 66 - Punching Poliwrath\nChapter 67 - Can You Diglett?\nChapter 68 - Jigglypuff Jive\n\n==Important events==\nMisty tries to save her city from the .\nIn a flashback, what happened to is revealed.\n\n \n \n\nfr:Volume 28 (Pokémon Adventures)\nit:Challenge Accepted",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Adventures: Challenge Accepted is the thirty-second monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-six, twenty-seven, and twenty-eight of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Chapter 66 - Punching Poliwrath\nChapter 67 - Can You Diglett?\nChapter 68 - Jigglypuff Jive"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "Misty tries to save her city from the .\nIn a flashback, what happened to is revealed.\n\n \n \n\nfr:Volume 28 (Pokémon Adventures)\nit:Challenge Accepted"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Challenge Accepted",
+    "pageType": "pokemon-related",
+    "searchableText": "Challenge Accepted\nCategory:Pokémon Adventures monthly issues\nPokémon Adventures: Challenge Accepted is the thirty-second monthly issue released by VIZ Media of the Pokémon Adventures manga created by Hidenori Kusaka and Mato. It contains chapters twenty-six, twenty-seven, and twenty-eight of the . The chapters originally released in this book were later rereleased as part of . As a bonus, it contained a sheet of Pokémon stickers which were not included with the collected volume release.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters",
+      "Important events"
+    ],
+    "characterCount": 727,
+    "sectionCount": 3
+  }
+}

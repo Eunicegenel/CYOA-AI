@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "PPP39",
+    "slug": "ppp39",
+    "pageId": 60656,
+    "revisionId": 4528424
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp39__60656.json",
+    "revisionTimestamp": "2026-04-09T16:19:58Z",
+    "fetchedAt": "2026-05-14T15:39:00.969Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Very First Date (Japanese: はじめてのデート The Very First Date), is the third chapter of the seventh volume of Magical Pokémon Journey.",
+  "plainText": "The Very First Date (Japanese: はじめてのデート The Very First Date), is the third chapter of the seventh volume of Magical Pokémon Journey.\n\n==Plot==\n \n and Lu are going on their first date!\n\n==Important characters and Pokémon==\n\nLu\n\n==Character introductions==\n\n==Important events==\n \n\n \n \n\nit:PPP39",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Very First Date (Japanese: はじめてのデート The Very First Date), is the third chapter of the seventh volume of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "and Lu are going on their first date!"
+    },
+    {
+      "heading": "Important characters and Pokémon",
+      "level": 2,
+      "text": "Lu"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "it:PPP39"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP39",
+    "pageType": "chapter",
+    "searchableText": "PPP39\nCategory:Magical Pokémon Journey chapters\nThe Very First Date (Japanese: はじめてのデート The Very First Date), is the third chapter of the seventh volume of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important characters and Pokémon",
+      "Important events"
+    ],
+    "characterCount": 293,
+    "sectionCount": 4
+  }
+}

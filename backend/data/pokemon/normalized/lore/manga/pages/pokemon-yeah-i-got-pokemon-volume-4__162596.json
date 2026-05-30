@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon: Yeah! I Got Pokémon! volume 4",
+    "slug": "pokemon-yeah-i-got-pokemon-volume-4",
+    "pageId": 162596,
+    "revisionId": 4528001
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon: Yeah! I Got Pokémon! volumes",
+    "sourceFileName": "pokemon-yeah-i-got-pokemon-volume-4__162596.json",
+    "revisionTimestamp": "2026-04-09T16:02:07Z",
+    "fetchedAt": "2026-05-14T15:38:31.725Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 4 is the fourth volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada.",
+  "plainText": "Volume 4 is the fourth volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada.\n\n==Publications==\n \n \n \n \n\n==Chapters==\nGet 1: Run Out the Thieves!\nGet 2: Aim for a Big One, the Bug-Catching Contest!\nGet 3: Beware the Bear in the Forest!\nGet 4: What's Inside the Egg!?\nGet 5: Do Your Best, Tyrogue!\nGet 6: Enter the Rival!\nGet 7: The Rival Reappears!\nGet 8: You Saw a Ghost in the Sea!?\nGet 9: Babysitting Isn't Easy!\nGet 10: Panic at the Game Center!\nGet 11: First Battle of the Electric Pokémon!\nGet 12: The Legendary Pokémon and the Village of the Gods (Part One)\nGet 13: The Legendary Pokémon and the Village of the Gods (Part Two)\nGet 14: The Legendary Pokémon and the Village of the Gods (Part Three)\nSpecial Chapter: Pichu and Pikachu\n\n==Important events==\n\n==Party changes==\n===Additions===\n\n==Trivia==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 4 is the fourth volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Get 1: Run Out the Thieves!\nGet 2: Aim for a Big One, the Bug-Catching Contest!\nGet 3: Beware the Bear in the Forest!\nGet 4: What's Inside the Egg!?\nGet 5: Do Your Best, Tyrogue!\nGet 6: Enter the Rival!\nGet 7: The Rival Reappears!\nGet 8: You Saw a Ghost in the Sea!?\nGet 9: Babysitting Isn't Easy!\nGet 10: Panic at the Game Center!\nGet 11: First Battle of the Electric Pokémon!\nGet 12: The Legendary Pokémon and the Village of the Gods (Part One)\nGet 13: The Legendary Pokémon and the Village of the Gods (Part Two)\nGet 14: The Legendary Pokémon and the Village of the Gods (Part Three)\nSpecial Chapter: Pichu and Pikachu"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon: Yeah! I Got Pokémon! volume 4",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon: Yeah! I Got Pokémon! volume 4\nCategory:Pokémon: Yeah! I Got Pokémon! volumes\nVolume 4 is the fourth volume of the Pokémon: Yeah! I Got Pokémon! manga created by Miho Asada.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 826,
+    "sectionCount": 2
+  }
+}

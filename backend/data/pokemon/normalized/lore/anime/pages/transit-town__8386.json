@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Transit Town",
+    "slug": "transit-town",
+    "pageId": 8386,
+    "revisionId": 4463378
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "transit-town__8386.json",
+    "revisionTimestamp": "2026-01-06T19:15:26Z",
+    "fetchedAt": "2026-05-14T14:55:23.829Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Transit Town (Japanese: ボウゼタウン Bōze Town) is an -exclusive location in Johto, specifically a port town on the northeastern tip of Red Rock Isle. It has one ferry that goes to Olivine City and another that goes to Silver Rock Isle.\n\nAfter visiting Diglett Village on Red Rock Isle, and decided to take the ferry to Silver Rock Isle. They visited the town off-screen at the end of Plant It Now... Diglett Later to take the ferry, but returned in Throwing in the Noctowl to take the ferry to Olivine City. They missed it, however, but met Wings Alexander, a resident of Transit Town and a pilot who was also a skilled Pokémon Trainer in his youth. Wings eventually took them to Olivine City with his plane.",
+  "plainText": "Transit Town (Japanese: ボウゼタウン Bōze Town) is an -exclusive location in Johto, specifically a port town on the northeastern tip of Red Rock Isle. It has one ferry that goes to Olivine City and another that goes to Silver Rock Isle.\n\nAfter visiting Diglett Village on Red Rock Isle, and decided to take the ferry to Silver Rock Isle. They visited the town off-screen at the end of Plant It Now... Diglett Later to take the ferry, but returned in Throwing in the Noctowl to take the ferry to Olivine City. They missed it, however, but met Wings Alexander, a resident of Transit Town and a pilot who was also a skilled Pokémon Trainer in his youth. Wings eventually took them to Olivine City with his plane.\n\n==Pokémon seen in Transit Town==\n \n \n==In other languages==\n \n \n \n \n\n \n \n\nde:Transit City\nes:Ciudad Tránsito\nit:Città di Transito\nzh:鯧魚鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Transit Town (Japanese: ボウゼタウン Bōze Town) is an -exclusive location in Johto, specifically a port town on the northeastern tip of Red Rock Isle. It has one ferry that goes to Olivine City and another that goes to Silver Rock Isle.\n\nAfter visiting Diglett Village on Red Rock Isle, and decided to take the ferry to Silver Rock Isle. They visited the town off-screen at the end of Plant It Now... Diglett Later to take the ferry, but returned in Throwing in the Noctowl to take the ferry to Olivine City. They missed it, however, but met Wings Alexander, a resident of Transit Town and a pilot who was also a skilled Pokémon Trainer in his youth. Wings eventually took them to Olivine City with his plane."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Transit City\nes:Ciudad Tránsito\nit:Città di Transito\nzh:鯧魚鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Transit Town",
+    "pageType": "location",
+    "searchableText": "Transit Town\nCategory:Animated series-exclusive locations\nTransit Town (Japanese: ボウゼタウン Bōze Town) is an -exclusive location in Johto, specifically a port town on the northeastern tip of Red Rock Isle. It has one ferry that goes to Olivine City and another that goes to Silver Rock Isle.\n\nAfter visiting Diglett Village on Red Rock Isle, and decided to take the ferry to Silver Rock Isle. They visited the town off-screen at the end of Plant It Now... Diglett Later to take the ferry, but returned in Throwing in the Noctowl to take the ferry to Olivine City. They missed it, however, but met Wings Alexander, a resident of Transit Town and a pilot who was also a skilled Pokémon Trainer in his youth. Wings eventually took them to Olivine City with his plane.",
+    "sectionHeadings": [
+      "Lead",
+      "In other languages"
+    ],
+    "characterCount": 841,
+    "sectionCount": 2
+  }
+}

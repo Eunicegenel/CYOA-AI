@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "List of Pokémon Horizons: The Series eyecatches",
+    "slug": "list-of-pokemon-horizons-the-series-eyecatches",
+    "pageId": 297987,
+    "revisionId": 4542113
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series segments",
+    "sourceFileName": "list-of-pokemon-horizons-the-series-eyecatches__297987.json",
+    "revisionTimestamp": "2026-05-01T11:39:58Z",
+    "fetchedAt": "2026-05-14T14:32:39.908Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "This is a list of eyecatches used in Pokémon Horizons: The Series. They were first introduced with The Pendant That Starts It All (Part Two).",
+  "plainText": "This is a list of eyecatches used in Pokémon Horizons: The Series. They were first introduced with The Pendant That Starts It All (Part Two).\n\n==List==\n \n\n==Related articles==\nEyecatch\nBonus segment\n \n \n \nzh:寶可夢 地平線/角色過場",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is a list of eyecatches used in Pokémon Horizons: The Series. They were first introduced with The Pendant That Starts It All (Part Two)."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "Eyecatch\nBonus segment\n \n \n \nzh:寶可夢 地平線/角色過場"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon Horizons: The Series eyecatches",
+    "pageType": "pokemon-related",
+    "searchableText": "List of Pokémon Horizons: The Series eyecatches\nCategory:Animated series segments\nThis is a list of eyecatches used in Pokémon Horizons: The Series. They were first introduced with The Pendant That Starts It All (Part Two).",
+    "sectionHeadings": [
+      "Lead",
+      "Related articles"
+    ],
+    "characterCount": 220,
+    "sectionCount": 2
+  }
+}

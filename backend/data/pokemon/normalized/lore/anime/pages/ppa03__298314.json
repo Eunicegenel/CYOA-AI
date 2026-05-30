@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPA03",
+    "slug": "ppa03",
+    "pageId": 298314,
+    "revisionId": 4548346
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures episodes",
+    "sourceFileName": "ppa03__298314.json",
+    "revisionTimestamp": "2026-05-11T00:23:27Z",
+    "fetchedAt": "2026-05-14T14:44:19.530Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "Magikarp Koide (Japanese: コイキングな小出くん。 Koide the .) is the third episode of A Pocketful of Adventures. It first aired in Japan on November 3, 2023, and in the Middle East and North Africa on May 18, 2024.",
+  "plainText": "Magikarp Koide (Japanese: コイキングな小出くん。 Koide the .) is the third episode of A Pocketful of Adventures. It first aired in Japan on November 3, 2023, and in the Middle East and North Africa on May 18, 2024.\n \n\n==Plot==\n==Major events==\n\n==Characters==\n===Humans===\nMadoka Akagi\n \nKoichi Yadoya\n \n \nMasako\nSora Karasawa\nMidori Kudo\nOshou Kamo\nErika Kusano\nMonju\n\n===Pokémon===\n\n==Trivia==\n\n===Errors===\n===Dub edits===\n\n==In other languages==\n \n \n \n \n\n \n\nit:PBT03\nzh:口袋裡的冒險 第3集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Magikarp Koide (Japanese: コイキングな小出くん。 Koide the .) is the third episode of A Pocketful of Adventures. It first aired in Japan on November 3, 2023, and in the Middle East and North Africa on May 18, 2024."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Madoka Akagi\n \nKoichi Yadoya\n \n \nMasako\nSora Karasawa\nMidori Kudo\nOshou Kamo\nErika Kusano\nMonju"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:PBT03\nzh:口袋裡的冒險 第3集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPA03",
+    "pageType": "episode",
+    "searchableText": "PPA03\nCategory:A Pocketful of Adventures episodes\nMagikarp Koide (Japanese: コイキングな小出くん。 Koide the .) is the third episode of A Pocketful of Adventures. It first aired in Japan on November 3, 2023, and in the Middle East and North Africa on May 18, 2024.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "In other languages"
+    ],
+    "characterCount": 473,
+    "sectionCount": 3
+  }
+}

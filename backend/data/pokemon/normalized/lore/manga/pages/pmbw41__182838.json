@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMBW41",
+    "slug": "pmbw41",
+    "pageId": 182838,
+    "revisionId": 4527828
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW chapters",
+    "sourceFileName": "pmbw41__182838.json",
+    "revisionTimestamp": "2026-04-09T15:55:21Z",
+    "fetchedAt": "2026-05-14T15:32:09.209Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ピッピとチラーミィの意外な友情 and 's Unexpected Friendship) is the forty-first chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: ピッピとチラーミィの意外な友情 and 's Unexpected Friendship) is the forty-first chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピッピとチラーミィの意外な友情 and 's Unexpected Friendship) is the forty-first chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMBW41",
+    "pageType": "chapter",
+    "searchableText": "PMBW41\nCategory:Pocket Monsters BW chapters\n(Japanese: ピッピとチラーミィの意外な友情 and 's Unexpected Friendship) is the forty-first chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 253,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PM064",
+    "slug": "pm064",
+    "pageId": 160259,
+    "revisionId": 4528579
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm064__160259.json",
+    "revisionTimestamp": "2026-04-09T16:28:24Z",
+    "fetchedAt": "2026-05-14T15:31:09.954Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Where is Chikorita?! (Japanese: チコリータはどこだ！？ Where is Chikorita!?) is the sixty-fourth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Where is Chikorita?! (Japanese: チコリータはどこだ！？ Where is Chikorita!?) is the sixty-fourth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\nsteals a from .\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nProfessor Elm\n\n===Pokémon===\n( ) \n( )\n( 's; flashback)\n( 's; flashback)\n\n==Trivia==\nGreen steals a Chikorita, which is what does in the games if the starts off with a .\nThis is the first chapter where Green appeared without his .\n\n \n \n\nde:Kapitel 64 (Pokémon Pocket Monsters)",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Where is Chikorita?! (Japanese: チコリータはどこだ！？ Where is Chikorita!?) is the sixty-fourth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "steals a from ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Elm"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( 's; flashback)\n( 's; flashback)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Green steals a Chikorita, which is what does in the games if the starts off with a .\nThis is the first chapter where Green appeared without his .\n\n \n \n\nde:Kapitel 64 (Pokémon Pocket Monsters)"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM064",
+    "pageType": "chapter",
+    "searchableText": "PM064\nCategory:Pokémon Pocket Monsters chapters\nWhere is Chikorita?! (Japanese: チコリータはどこだ！？ Where is Chikorita!?) is the sixty-fourth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 521,
+    "sectionCount": 5
+  }
+}

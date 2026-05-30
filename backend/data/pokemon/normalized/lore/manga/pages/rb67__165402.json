@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB67",
+    "slug": "rb67",
+    "pageId": 165402,
+    "revisionId": 4252908
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb67__165402.json",
+    "revisionTimestamp": "2025-03-04T05:03:23Z",
+    "fetchedAt": "2026-05-14T15:47:58.089Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 進化対最強 Evolution Against the Strongest) is the 67th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 進化対最強 Evolution Against the Strongest) is the 67th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nHariru and Fraud's battle continues.\nFraud throws away his original Burst Heart and reveals a second one containing .\nBack at the town, Ryouga senses the power Fraud exudes, which causes his to react as well. \n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHariru\nFraud\nCarola\nGerubu\nMiruto\nKaruta\nRug\nRyouga\n\n===Pokémon===\n(Hariru's)\n(Fraud's)\n(Fraud's)\n(Carola's)\n\n \n \n \n\n \n\nzh:RB67",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 進化対最強 Evolution Against the Strongest) is the 67th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hariru and Fraud's battle continues.\nFraud throws away his original Burst Heart and reveals a second one containing .\nBack at the town, Ryouga senses the power Fraud exudes, which causes his to react as well."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hariru\nFraud\nCarola\nGerubu\nMiruto\nKaruta\nRug\nRyouga"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Hariru's)\n(Fraud's)\n(Fraud's)\n(Carola's)\n\n \n \n \n\n \n\nzh:RB67"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB67",
+    "pageType": "chapter",
+    "searchableText": "RB67\nCategory:Pokémon RéBURST chapters\n(Japanese: 進化対最強 Evolution Against the Strongest) is the 67th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 534,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Yukinari Okido",
+    "slug": "yukinari-okido",
+    "pageId": 301032,
+    "revisionId": 4331596
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures characters",
+    "sourceFileName": "yukinari-okido__301032.json",
+    "revisionTimestamp": "2025-07-06T19:34:47Z",
+    "fetchedAt": "2026-05-14T15:00:12.945Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Yukinari Okido (Japanese: 大木戸ユキナリ Ōkido Yukinari) is a supporting character in A Pocketful of Adventures. He is Midori Kudo's grandfather and a . He is based on Professor Oak.",
+  "plainText": "Yukinari Okido (Japanese: 大木戸ユキナリ Ōkido Yukinari) is a supporting character in A Pocketful of Adventures. He is Midori Kudo's grandfather and a . He is based on Professor Oak.\n==History==\n==Character==\n==Names==\n \n\n==Trivia==\nSimilar to , where the same seiyuu as Professor Oak narrates the series, also narrates the episodes of the series.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yukinari Okido (Japanese: 大木戸ユキナリ Ōkido Yukinari) is a supporting character in A Pocketful of Adventures. He is Midori Kudo's grandfather and a . He is based on Professor Oak."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Similar to , where the same seiyuu as Professor Oak narrates the series, also narrates the episodes of the series."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yukinari Okido",
+    "pageType": "character",
+    "searchableText": "Yukinari Okido\nCategory:A Pocketful of Adventures characters\nYukinari Okido (Japanese: 大木戸ユキナリ Ōkido Yukinari) is a supporting character in A Pocketful of Adventures. He is Midori Kudo's grandfather and a . He is based on Professor Oak.",
+    "sectionHeadings": [
+      "Lead",
+      "Trivia"
+    ],
+    "characterCount": 340,
+    "sectionCount": 2
+  }
+}

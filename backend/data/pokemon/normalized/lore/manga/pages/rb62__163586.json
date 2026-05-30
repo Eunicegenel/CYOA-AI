@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB62",
+    "slug": "rb62",
+    "pageId": 163586,
+    "revisionId": 4252902
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb62__163586.json",
+    "revisionTimestamp": "2025-03-04T04:38:03Z",
+    "fetchedAt": "2026-05-14T15:47:54.995Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ハリルに何が起こった！？ What Happened to Hariru!?) is the 62nd chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: ハリルに何が起こった！？ What Happened to Hariru!?) is the 62nd chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nHariru's evolves into along with his Burst form.\nRovy and Ganku attempt to defeat the now-stronger Hariru with their Combination Play again.\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nCarola\nHariru\nRovy\nGanku\nMiruto\nYappy\nRug \nKaruta\n\n===Pokémon===\n(Carola's)\n(Hariru's; evolves)\n(Hariru's; newly evolved)\n(Rovy's)\n(Ganku's)\n\n \n \n \n\n \n\nzh:RB62",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ハリルに何が起こった！？ What Happened to Hariru!?) is the 62nd chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Hariru's evolves into along with his Burst form.\nRovy and Ganku attempt to defeat the now-stronger Hariru with their Combination Play again."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Carola\nHariru\nRovy\nGanku\nMiruto\nYappy\nRug \nKaruta"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Carola's)\n(Hariru's; evolves)\n(Hariru's; newly evolved)\n(Rovy's)\n(Ganku's)\n\n \n \n \n\n \n\nzh:RB62"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB62",
+    "pageType": "chapter",
+    "searchableText": "RB62\nCategory:Pokémon RéBURST chapters\n(Japanese: ハリルに何が起こった！？ What Happened to Hariru!?) is the 62nd chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 497,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "PW28",
+    "slug": "pw28",
+    "pageId": 182553,
+    "revisionId": 4528357
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:How I Became a Pokémon Card chapters",
+    "sourceFileName": "pw28__182553.json",
+    "revisionTimestamp": "2026-04-09T16:17:27Z",
+    "fetchedAt": "2026-05-14T15:46:45.424Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: ポケモンの気持ち、ベロリンガの気持ち The Feelings of Pokémon, the Feelings of ) is the twenty eighth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno.",
+  "plainText": "(Japanese: ポケモンの気持ち、ベロリンガの気持ち The Feelings of Pokémon, the Feelings of ) is the twenty eighth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno.\n\n==Plot==\n \n\n==Major events==\n\n==Characters==\n\n===Pokémon===",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンの気持ち、ベロリンガの気持ち The Feelings of Pokémon, the Feelings of ) is the twenty eighth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PW28",
+    "pageType": "chapter",
+    "searchableText": "PW28\nCategory:How I Became a Pokémon Card chapters\n(Japanese: ポケモンの気持ち、ベロリンガの気持ち The Feelings of Pokémon, the Feelings of ) is the twenty eighth chapter of the How I Became a Pokémon Card manga created by 姫野かげまる Kagemaru Himeno.",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 238,
+    "sectionCount": 1
+  }
+}

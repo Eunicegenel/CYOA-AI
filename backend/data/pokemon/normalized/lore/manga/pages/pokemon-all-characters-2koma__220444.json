@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "Pokémon All Characters 2Koma",
+    "slug": "pokemon-all-characters-2koma",
+    "pageId": 220444,
+    "revisionId": 4527764
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 2Koma",
+    "sourceFileName": "pokemon-all-characters-2koma__220444.json",
+    "revisionTimestamp": "2026-04-09T15:52:21Z",
+    "fetchedAt": "2026-05-14T15:35:45.723Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: ポケモン全キャラ2コマまんが Pokémon All Characters 2Koma) is a Pokémon 2Koma created by Takeshi Tamai (玉井 たけし).\n\n \n \n\n \n\n \n\nja:ポケモン全キャラ2コマまんが全集\nzh:宝可梦全角色二格漫画",
+  "plainText": "(Japanese: ポケモン全キャラ2コマまんが Pokémon All Characters 2Koma) is a Pokémon 2Koma created by Takeshi Tamai (玉井 たけし).\n\n \n \n\n \n\n \n\nja:ポケモン全キャラ2コマまんが全集\nzh:宝可梦全角色二格漫画",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモン全キャラ2コマまんが Pokémon All Characters 2Koma) is a Pokémon 2Koma created by Takeshi Tamai (玉井 たけし).\n\n \n \n\n \n\n \n\nja:ポケモン全キャラ2コマまんが全集\nzh:宝可梦全角色二格漫画"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon All Characters 2Koma",
+    "pageType": "character",
+    "searchableText": "Pokémon All Characters 2Koma\nCategory:Pokémon 2Koma\n(Japanese: ポケモン全キャラ2コマまんが Pokémon All Characters 2Koma) is a Pokémon 2Koma created by Takeshi Tamai (玉井 たけし).\n\n \n \n\n \n\n \n\nja:ポケモン全キャラ2コマまんが全集\nzh:宝可梦全角色二格漫画",
+    "sectionHeadings": [
+      "Lead"
+    ],
+    "characterCount": 155,
+    "sectionCount": 1
+  }
+}

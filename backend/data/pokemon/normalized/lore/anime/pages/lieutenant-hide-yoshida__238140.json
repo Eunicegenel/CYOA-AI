@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Lieutenant Hide Yoshida",
+    "slug": "lieutenant-hide-yoshida",
+    "pageId": 238140,
+    "revisionId": 4242794
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Detective Pikachu characters",
+    "sourceFileName": "lieutenant-hide-yoshida__238140.json",
+    "revisionTimestamp": "2025-02-19T12:16:36Z",
+    "fetchedAt": "2026-05-14T14:31:05.676Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Lieutenant Hide Yoshida (Japanese: ヨシダ警部補 Assistant Inspector Yoshida) is one of the characters of . He is a police lieutenant who investigated the death of Harry Goodman. He is portrayed by .",
+  "plainText": "Lieutenant Hide Yoshida (Japanese: ヨシダ警部補 Assistant Inspector Yoshida) is one of the characters of . He is a police lieutenant who investigated the death of Harry Goodman. He is portrayed by .\n\n==In the movie==\nLt. Yoshida first met Harry's son Tim in Ryme City to tell him about his father's death and to give him the keys to his father's house. He appeared to have worked closely with Harry and informed Tim that his father cared a lot for him. \n\nLater, when Tim returned to the police station to tell Yoshida that his father was still alive, Yoshida refused to believe him. To prove Harry's death, he showed Tim the footage of the car crash purported to have killed him. \n\nYoshida later attended the Ryme City Pokémon parade, where he was merged with his when the R substance was released in the city.\n\n===Pokémon===\nThis listing is of Lt. Yoshida's known in the :\n \n\n===Voice actors===\n \n\n==In the TCG==\n \n \nLt. Yoshida was introduced as a in the Pokémon Trading Card Game in the Japanese subset. It forces the opponent to reveal their hand before the player draws two cards. This card has not yet been released in English.\n \n\n==Names==\n \n\n==Related articles==\n \n \n\n \n \n\nde:Yoshida\nes:Detective Yoshida",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lieutenant Hide Yoshida (Japanese: ヨシダ警部補 Assistant Inspector Yoshida) is one of the characters of . He is a police lieutenant who investigated the death of Harry Goodman. He is portrayed by ."
+    },
+    {
+      "heading": "In the movie",
+      "level": 2,
+      "text": "Lt. Yoshida first met Harry's son Tim in Ryme City to tell him about his father's death and to give him the keys to his father's house. He appeared to have worked closely with Harry and informed Tim that his father cared a lot for him. \n\nLater, when Tim returned to the police station to tell Yoshida that his father was still alive, Yoshida refused to believe him. To prove Harry's death, he showed Tim the footage of the car crash purported to have killed him. \n\nYoshida later attended the Ryme City Pokémon parade, where he was merged with his when the R substance was released in the city."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "This listing is of Lt. Yoshida's known in the :"
+    },
+    {
+      "heading": "In the TCG",
+      "level": 2,
+      "text": "Lt. Yoshida was introduced as a in the Pokémon Trading Card Game in the Japanese subset. It forces the opponent to reveal their hand before the player draws two cards. This card has not yet been released in English."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Yoshida\nes:Detective Yoshida"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lieutenant Hide Yoshida",
+    "pageType": "character",
+    "searchableText": "Lieutenant Hide Yoshida\nCategory:Detective Pikachu characters\nLieutenant Hide Yoshida (Japanese: ヨシダ警部補 Assistant Inspector Yoshida) is one of the characters of . He is a police lieutenant who investigated the death of Harry Goodman. He is portrayed by .",
+    "sectionHeadings": [
+      "Lead",
+      "In the movie",
+      "Pokémon",
+      "In the TCG",
+      "Related articles"
+    ],
+    "characterCount": 1206,
+    "sectionCount": 5
+  }
+}

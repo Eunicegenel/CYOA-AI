@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Lost Mayo Maze",
+    "slug": "lost-mayo-maze",
+    "pageId": 343650,
+    "revisionId": 4505129
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "lost-mayo-maze__343650.json",
+    "revisionTimestamp": "2026-03-11T02:34:09Z",
+    "fetchedAt": "2026-05-14T14:33:15.455Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Lost Mayo Maze (Japanese: メイズ Mayo Maze Palace) is an -exclusive location located in Lumiose City.",
+  "plainText": "Lost Mayo Maze (Japanese: メイズ Mayo Maze Palace) is an -exclusive location located in Lumiose City.\n\n==History==\nLost Mayo Maze debuted in Mega Evolution - Roy, where Master Mayonnaise recommended Roy and Ult to train for Mega Evolution. \n\n==Pokémon seen in Lost Mayo Maze==\n \n\n===Pokémon previously seen in Lost Mayo Maze===\n \n\n==Names==\n \n\n==Related articles==\n \n \n\nes:Palacio Mayo-Laberinto\nzh:美乃滋大迷屋",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Lost Mayo Maze (Japanese: メイズ Mayo Maze Palace) is an -exclusive location located in Lumiose City."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Lost Mayo Maze debuted in Mega Evolution - Roy, where Master Mayonnaise recommended Roy and Ult to train for Mega Evolution."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Palacio Mayo-Laberinto\nzh:美乃滋大迷屋"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Lost Mayo Maze",
+    "pageType": "location",
+    "searchableText": "Lost Mayo Maze\nCategory:Animated series-exclusive locations\nLost Mayo Maze (Japanese: メイズ Mayo Maze Palace) is an -exclusive location located in Lumiose City.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Related articles"
+    ],
+    "characterCount": 402,
+    "sectionCount": 3
+  }
+}

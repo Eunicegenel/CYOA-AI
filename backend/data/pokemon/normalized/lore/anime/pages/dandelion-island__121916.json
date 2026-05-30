@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Dandelion Island",
+    "slug": "dandelion-island",
+    "pageId": 121916,
+    "revisionId": 4261303
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "dandelion-island__121916.json",
+    "revisionTimestamp": "2025-03-19T21:52:36Z",
+    "fetchedAt": "2026-05-14T14:11:05.121Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Dandelion Island (Japanese: タンポポ島 Tanpopo Island) is an -exclusive location in Sinnoh, which is nearby Lily of the Valley Island. It appeared in Bucking the Treasure Trend!.\n\nThe island is covered with mountainous and forest terrain. Dandelion Island is most often visited as a restock point for ships in the town on the southern coast of the island. People who actually venture onto the interior of the island to explore are viable to run into Pokémon set as traps such as , , , and , along with and that don't appear on the island's treasure maps. These Pokémon guard a set of ruins, wherein lies a guarding some ancient pottery.\n\nWhen Ash's friends, en route to the Lily of the Valley Island, along with Buck, arrived at these ruins, set off the trap, triggering the Claydol's emergence. Buck later this Claydol and discovered the ancient pottery it was guarding.",
+  "plainText": "Dandelion Island (Japanese: タンポポ島 Tanpopo Island) is an -exclusive location in Sinnoh, which is nearby Lily of the Valley Island. It appeared in Bucking the Treasure Trend!.\n\nThe island is covered with mountainous and forest terrain. Dandelion Island is most often visited as a restock point for ships in the town on the southern coast of the island. People who actually venture onto the interior of the island to explore are viable to run into Pokémon set as traps such as , , , and , along with and that don't appear on the island's treasure maps. These Pokémon guard a set of ruins, wherein lies a guarding some ancient pottery.\n\nWhen Ash's friends, en route to the Lily of the Valley Island, along with Buck, arrived at these ruins, set off the trap, triggering the Claydol's emergence. Buck later this Claydol and discovered the ancient pottery it was guarding.\n\n==Pokémon seen on Dandelion Island==\n \n\n==Caught Pokémon==\n \n\n==Names==\n \n \n \n \n\nit:Isola del Soffione\nzh:蒲公英島",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Dandelion Island (Japanese: タンポポ島 Tanpopo Island) is an -exclusive location in Sinnoh, which is nearby Lily of the Valley Island. It appeared in Bucking the Treasure Trend!.\n\nThe island is covered with mountainous and forest terrain. Dandelion Island is most often visited as a restock point for ships in the town on the southern coast of the island. People who actually venture onto the interior of the island to explore are viable to run into Pokémon set as traps such as , , , and , along with and that don't appear on the island's treasure maps. These Pokémon guard a set of ruins, wherein lies a guarding some ancient pottery.\n\nWhen Ash's friends, en route to the Lily of the Valley Island, along with Buck, arrived at these ruins, set off the trap, triggering the Claydol's emergence. Buck later this Claydol and discovered the ancient pottery it was guarding."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "it:Isola del Soffione\nzh:蒲公英島"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dandelion Island",
+    "pageType": "location",
+    "searchableText": "Dandelion Island\nCategory:Animated series-exclusive locations\nDandelion Island (Japanese: タンポポ島 Tanpopo Island) is an -exclusive location in Sinnoh, which is nearby Lily of the Valley Island. It appeared in Bucking the Treasure Trend!.\n\nThe island is covered with mountainous and forest terrain. Dandelion Island is most often visited as a restock point for ships in the town on the southern coast of the island. People who actually venture onto the interior of the island to explore are viable to run into Pokémon set as traps such as , , , and , along with and that don't appear on the island's treasure maps. These Pokémon guard a set of ruins, wherein lies a guarding some ancient pottery.\n\nWhen Ash's friends, en route to the Lily of the Valley Island, along with Buck, arrived at these ruins, set off the trap, triggering the Claydol's emergence. Buck later this Claydol and discovered the ancient pottery it was guarding.",
+    "sectionHeadings": [
+      "Lead",
+      "Names"
+    ],
+    "characterCount": 978,
+    "sectionCount": 2
+  }
+}

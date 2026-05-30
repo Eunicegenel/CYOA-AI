@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Chamo-Chamo ☆ Pretty ♪ volume 1",
+    "slug": "pokemon-chamo-chamo-pretty-volume-1",
+    "pageId": 84331,
+    "revisionId": 4528332
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Chamo-Chamo ☆ Pretty ♪ volumes",
+    "sourceFileName": "pokemon-chamo-chamo-pretty-volume-1__84331.json",
+    "revisionTimestamp": "2026-04-09T16:16:03Z",
+    "fetchedAt": "2026-05-14T15:36:12.039Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Volume 1 is the first volume of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga created by Yumi Tsukirino.",
+  "plainText": "Volume 1 is the first volume of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga created by Yumi Tsukirino.\n\n==Publications==\n \n \n\n \n==Chapters==\nTorchic Princess\nA Destined Meeting (chamo!?)\nHaruka and Mudkip (chamo!)\nEnter the Idiot Treecko (chamo!)\nEvolution is Scary (chamo?)\nFull of Spinda (chamo!)\nThe Legend of Luvdisc (chamo&hearts;)\nTest of Courage (chamo~)\nAn Elegant Transformation (chamo!?)\nThe Cute Contest (chamo!)\nDrunken Confession (chamo!?)\nEnter Kanata (chamo!)\nGood Luck, Pikachu!",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Volume 1 is the first volume of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga created by Yumi Tsukirino."
+    },
+    {
+      "heading": "Chapters",
+      "level": 2,
+      "text": "Torchic Princess\nA Destined Meeting (chamo!?)\nHaruka and Mudkip (chamo!)\nEnter the Idiot Treecko (chamo!)\nEvolution is Scary (chamo?)\nFull of Spinda (chamo!)\nThe Legend of Luvdisc (chamo&hearts;)\nTest of Courage (chamo~)\nAn Elegant Transformation (chamo!?)\nThe Cute Contest (chamo!)\nDrunken Confession (chamo!?)\nEnter Kanata (chamo!)\nGood Luck, Pikachu!"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Chamo-Chamo ☆ Pretty ♪ volume 1",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Chamo-Chamo ☆ Pretty ♪ volume 1\nCategory:Pokémon Chamo-Chamo ☆ Pretty ♪ volumes\nVolume 1 is the first volume of the Pokémon Chamo-Chamo ☆ Pretty ♪ manga created by Yumi Tsukirino.",
+    "sectionHeadings": [
+      "Lead",
+      "Chapters"
+    ],
+    "characterCount": 491,
+    "sectionCount": 2
+  }
+}

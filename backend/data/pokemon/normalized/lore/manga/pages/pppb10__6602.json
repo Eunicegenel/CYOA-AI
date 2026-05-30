@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PPPB10",
+    "slug": "pppb10",
+    "pageId": 6602,
+    "revisionId": 4528016
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "pppb10__6602.json",
+    "revisionTimestamp": "2026-04-09T16:03:23Z",
+    "fetchedAt": "2026-05-14T15:39:27.324Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Master Plan... for Romance! (Japanese: 恋のドッキドキ大作戦!!, The Romantic Love Super Strategic Attack!!), is the first bonus chapter of the fifth volume of Magical Pokémon Journey.",
+  "plainText": "The Master Plan... for Romance! (Japanese: 恋のドッキドキ大作戦!!, The Romantic Love Super Strategic Attack!!), is the first bonus chapter of the fifth volume of Magical Pokémon Journey.\n\n==Plot==\n \n , , and come across a muscleheaded who's fallen for the beautiful . Can anyone else say \"Beauty and the Beast\"?\n\n==Important characters and Pokémon==\n\n==Character introductions==\n\n==Important events==\n \n\n \n \n\nit:PPPB10",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Master Plan... for Romance! (Japanese: 恋のドッキドキ大作戦!!, The Romantic Love Super Strategic Attack!!), is the first bonus chapter of the fifth volume of Magical Pokémon Journey."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": ", , and come across a muscleheaded who's fallen for the beautiful . Can anyone else say \"Beauty and the Beast\"?"
+    },
+    {
+      "heading": "Important events",
+      "level": 2,
+      "text": "it:PPPB10"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPPB10",
+    "pageType": "chapter",
+    "searchableText": "PPPB10\nCategory:Magical Pokémon Journey chapters\nThe Master Plan... for Romance! (Japanese: 恋のドッキドキ大作戦!!, The Romantic Love Super Strategic Attack!!), is the first bonus chapter of the fifth volume of Magical Pokémon Journey.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Important events"
+    ],
+    "characterCount": 408,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "PM105",
+    "slug": "pm105",
+    "pageId": 160313,
+    "revisionId": 4527134
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Pocket Monsters chapters",
+    "sourceFileName": "pm105__160313.json",
+    "revisionTimestamp": "2026-04-09T15:21:20Z",
+    "fetchedAt": "2026-05-14T15:31:35.665Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Return light to Bellossom!! (Japanese: キレイハナに光を！！ Return the Light to !!) is the one hundredth-fifth chapter of the Pokémon Pocket Monsters manga.",
+  "plainText": "Return light to Bellossom!! (Japanese: キレイハナに光を！！ Return the Light to !!) is the one hundredth-fifth chapter of the Pokémon Pocket Monsters manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( ) \n( )\n( )\n( 's)\n( 's)\n\n==Trivia==\n\n \n \n\nit:PMM105",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Return light to Bellossom!! (Japanese: キレイハナに光を！！ Return the Light to !!) is the one hundredth-fifth chapter of the Pokémon Pocket Monsters manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ) \n( )\n( )\n( 's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "it:PMM105"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PM105",
+    "pageType": "chapter",
+    "searchableText": "PM105\nCategory:Pokémon Pocket Monsters chapters\nReturn light to Bellossom!! (Japanese: キレイハナに光を！！ Return the Light to !!) is the one hundredth-fifth chapter of the Pokémon Pocket Monsters manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 311,
+    "sectionCount": 3
+  }
+}

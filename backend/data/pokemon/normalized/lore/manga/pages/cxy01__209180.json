@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "CXY01",
+    "slug": "cxy01",
+    "pageId": 209180,
+    "revisionId": 4526295
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Let's Play the Pokémon Card Game XY! chapters",
+    "sourceFileName": "cxy01__209180.json",
+    "revisionTimestamp": "2026-04-09T14:35:08Z",
+    "fetchedAt": "2026-05-14T15:16:31.921Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the first regular chapter of the Let's Play the Pokémon Card Game XY! manga. It was first published in the February 2014 issue of CoroCoro Ichiban!, released on December 21, 2013. It is 14 pages long.",
+  "plainText": "This is the first regular chapter of the Let's Play the Pokémon Card Game XY! manga. It was first published in the February 2014 issue of CoroCoro Ichiban!, released on December 21, 2013. It is 14 pages long.\n\n==Plot==\n \nUratane begins teaching Manabu how to play the Pokémon Card Game. After several humiliating losses, Manabu finally gets used to the rules and manages to win against Uratane, who has his first loss in 17 years.\n\n==Major events==\n===Debuts===\n\n==Characters==\n===Humans===\nManabu Kadoo\nHiroshi Uratane\n\nOther depictions\n( box)\n\n===Pokémon===\n\nOther depictions\n( box; XY Beginning Set coin)\n(XY Beginning Set box)\n(XY Beginning Set box; XY Beginning Set coin)\n(XY Beginning Set box)\n(XY Beginning Set box; XY Beginning Set coin)\n(XY Beginning Set box)\n(Uratane's costume)\n(Uratane's costume)\n( pack)\n( pack)\n(Uratane's costume)\n(Uratane's costume)\n\n==Cards featured==\nManabu's cards:\nFletchling (Beginning Set 31)\nTalonflame (XY-P Promo 18)\nFletchinder (Collection Y 12)\nFurfrou (Beginning Set 32)\nEvosoda (Collection X 55)\nFire Energy (XY)\n\nUratane's cards:\nChespin (Beginning Set 3)\nQuilladin (Beginning Set 4)\nChesnaught (Beginning Set 5)\nGrass Energy (XY)\nFroakie (Beginning Set 12)\nEvosoda (Collection X 55)\nFrogadier (Beginning Set 13)\n\n==Trivia==\nWhen Hiroshi Uratane says this is the first time he has lost in 17 years, he might be referring to the age of the card game itself, as when this chapter was released (December 2013), the card game was around that old at the time.\nThis would also imply he has never lost since the release of the card game up until that point.\n\n==External links==\nChapter 1 on the Pokémon Card Game official website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the first regular chapter of the Let's Play the Pokémon Card Game XY! manga. It was first published in the February 2014 issue of CoroCoro Ichiban!, released on December 21, 2013. It is 14 pages long."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Uratane begins teaching Manabu how to play the Pokémon Card Game. After several humiliating losses, Manabu finally gets used to the rules and manages to win against Uratane, who has his first loss in 17 years."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Manabu Kadoo\nHiroshi Uratane\n\nOther depictions\n( box)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "Other depictions\n( box; XY Beginning Set coin)\n(XY Beginning Set box)\n(XY Beginning Set box; XY Beginning Set coin)\n(XY Beginning Set box)\n(XY Beginning Set box; XY Beginning Set coin)\n(XY Beginning Set box)\n(Uratane's costume)\n(Uratane's costume)\n( pack)\n( pack)\n(Uratane's costume)\n(Uratane's costume)"
+    },
+    {
+      "heading": "Cards featured",
+      "level": 2,
+      "text": "Manabu's cards:\nFletchling (Beginning Set 31)\nTalonflame (XY-P Promo 18)\nFletchinder (Collection Y 12)\nFurfrou (Beginning Set 32)\nEvosoda (Collection X 55)\nFire Energy (XY)\n\nUratane's cards:\nChespin (Beginning Set 3)\nQuilladin (Beginning Set 4)\nChesnaught (Beginning Set 5)\nGrass Energy (XY)\nFroakie (Beginning Set 12)\nEvosoda (Collection X 55)\nFrogadier (Beginning Set 13)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "When Hiroshi Uratane says this is the first time he has lost in 17 years, he might be referring to the age of the card game itself, as when this chapter was released (December 2013), the card game was around that old at the time.\nThis would also imply he has never lost since the release of the card game up until that point."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Chapter 1 on the Pokémon Card Game official website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "CXY01",
+    "pageType": "chapter",
+    "searchableText": "CXY01\nCategory:Let's Play the Pokémon Card Game XY! chapters\nThis is the first regular chapter of the Let's Play the Pokémon Card Game XY! manga. It was first published in the February 2014 issue of CoroCoro Ichiban!, released on December 21, 2013. It is 14 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon",
+      "Cards featured",
+      "Trivia",
+      "External links"
+    ],
+    "characterCount": 1668,
+    "sectionCount": 7
+  }
+}

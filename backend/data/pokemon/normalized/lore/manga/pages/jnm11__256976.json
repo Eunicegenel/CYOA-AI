@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "JNM11",
+    "slug": "jnm11",
+    "pageId": 256976,
+    "revisionId": 4528507
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Journeys chapters",
+    "sourceFileName": "jnm11__256976.json",
+    "revisionTimestamp": "2026-04-09T16:24:47Z",
+    "fetchedAt": "2026-05-14T15:22:47.091Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Solitary and Menacing! (Japanese: 孤高の闘士サイトウ！オトスパスの脅威！！ The Solitary Fighter ! The Threatening !!) is the eleventh chapter of the manga. It is based on the animated series episode by the same name.",
+  "plainText": "Solitary and Menacing! (Japanese: 孤高の闘士サイトウ！オトスパスの脅威！！ The Solitary Fighter ! The Threatening !!) is the eleventh chapter of the manga. It is based on the animated series episode by the same name.\n\n==Plot==\n \n\n==Major events==\nis revealed to have a .\nfaces Bea in a World Coronation Series match and loses.\n\n===Debuts===\n====Humans====\nBea\n\n====Pokémon debuts====\n\n( ; Galarian Form)\n\n==Characters==\n===Humans===\n\nGoh\nBea\nKarate Master\ns\n\n===Pokémon===\n( )\n( )\n( ; Galarian Form; debut)\n( )\n(Professor Cerise's; Rotom Phone; ×2)\n(Bea's; debut)\n(Bea's; debut)\n(Bea's; Rotom Phone)\n(Karate Master's)\n(Fighting Dojo's; multiple)\n(Fighting Dojo's; multiple)\n(Drone Rotom)\n(fantasy)\n\n==Differences between the animated series and the manga==\nGoh does not bring his nor does he obtain a from the Karate Master.\nAs the second half of Toughing It Out! was skipped, Ash's Farfetch'd debuts here.\n\n \n \n \n\nde:Stoisch und Bedrohlich! (Pokémon Reisen)\nes:PV011\nit:JNM11",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Solitary and Menacing! (Japanese: 孤高の闘士サイトウ！オトスパスの脅威！！ The Solitary Fighter ! The Threatening !!) is the eleventh chapter of the manga. It is based on the animated series episode by the same name."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "is revealed to have a .\nfaces Bea in a World Coronation Series match and loses."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Bea"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( ; Galarian Form)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Goh\nBea\nKarate Master\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( ; Galarian Form; debut)\n( )\n(Professor Cerise's; Rotom Phone; ×2)\n(Bea's; debut)\n(Bea's; debut)\n(Bea's; Rotom Phone)\n(Karate Master's)\n(Fighting Dojo's; multiple)\n(Fighting Dojo's; multiple)\n(Drone Rotom)\n(fantasy)"
+    },
+    {
+      "heading": "Differences between the animated series and the manga",
+      "level": 2,
+      "text": "Goh does not bring his nor does he obtain a from the Karate Master.\nAs the second half of Toughing It Out! was skipped, Ash's Farfetch'd debuts here.\n\n \n \n \n\nde:Stoisch und Bedrohlich! (Pokémon Reisen)\nes:PV011\nit:JNM11"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "JNM11",
+    "pageType": "chapter",
+    "searchableText": "JNM11\nCategory:Pokémon Journeys chapters\nSolitary and Menacing! (Japanese: 孤高の闘士サイトウ！オトスパスの脅威！！ The Solitary Fighter ! The Threatening !!) is the eleventh chapter of the manga. It is based on the animated series episode by the same name.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Differences between the animated series and the manga"
+    ],
+    "characterCount": 956,
+    "sectionCount": 7
+  }
+}

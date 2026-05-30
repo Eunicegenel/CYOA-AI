@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Dr. Hawthorn",
+    "slug": "dr-hawthorn",
+    "pageId": 230793,
+    "revisionId": 4519806
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga characters",
+    "sourceFileName": "dr-hawthorn__230793.json",
+    "revisionTimestamp": "2026-03-30T16:18:36Z",
+    "fetchedAt": "2026-05-14T15:17:36.179Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Dr. Hawthorn (Japanese: サンザシ博士 Dr. Sanzashi) is a character in Pokémon the Movie: The Power of Us: Zeraora's Story. He is a scientist who lives in Fula City.",
+  "plainText": "Dr. Hawthorn (Japanese: サンザシ博士 Dr. Sanzashi) is a character in Pokémon the Movie: The Power of Us: Zeraora's Story. He is a scientist who lives in Fula City. \n\n==History==\n \nDr. Hawthorn debuted in ESEZ1, where he meets and Margo during Fula City's Wind Festival. He offered to show the two the Mythical Pokémon and took them to his pavilion to go see it. Once they arrived, Hawthorn used his virtual reality technology to send Ash and Margo into a simulation of Fula City's past. There, Ash and Margo witness the birth of Zeraora and how it protected wild Pokémon from Pokémon hunters.\n\nIn ESEZ2, Dr. Hawthorn sent Ash and Margo back into the simulation. However, this time they viewed the events from the perspective of a boy named Norbert (Japanese: ノゾム Nozomu), who got into a confrontation with the Pokémon hunters near Fula City's power plant. Zeraora fought off the hunters' to protect Norbert and his , but during the battle, a catastrophic forest fire was sparked by Tyranitar's . Elekid seemingly perished in the fire, leading Zeraora to rampage and even fight against the that appeared to put the fire out. However, given courage by Zeraora, Norbert found Elekid was still alive and saved it with the help of some of the local Pokémon. As a result, Zeraora calmed down.\n\nLater, after Ash and Margo left, Dr. Hawthorn and Electabuzz were working to clean up the pavilion when Electabuzz found an old photograph of Norbert and Elekid. Dr. Hawthorn recognized it as a photo of himself and Electabuzz from the past, revealing that they were the and Pokémon in Zeraora's story.\n\n==Pokémon==\n \n\n==Names==\n \n \n\nNorbert\n \n \n\n \n \n \n\nit:Dr. Hawthorn",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Dr. Hawthorn (Japanese: サンザシ博士 Dr. Sanzashi) is a character in Pokémon the Movie: The Power of Us: Zeraora's Story. He is a scientist who lives in Fula City."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Dr. Hawthorn debuted in ESEZ1, where he meets and Margo during Fula City's Wind Festival. He offered to show the two the Mythical Pokémon and took them to his pavilion to go see it. Once they arrived, Hawthorn used his virtual reality technology to send Ash and Margo into a simulation of Fula City's past. There, Ash and Margo witness the birth of Zeraora and how it protected wild Pokémon from Pokémon hunters.\n\nIn ESEZ2, Dr. Hawthorn sent Ash and Margo back into the simulation. However, this time they viewed the events from the perspective of a boy named Norbert (Japanese: ノゾム Nozomu), who got into a confrontation with the Pokémon hunters near Fula City's power plant. Zeraora fought off the hunters' to protect Norbert and his , but during the battle, a catastrophic forest fire was sparked by Tyranitar's . Elekid seemingly perished in the fire, leading Zeraora to rampage and even fight against the that appeared to put the fire out. However, given courage by Zeraora, Norbert found Elekid was still alive and saved it with the help of some of the local Pokémon. As a result, Zeraora calmed down.\n\nLater, after Ash and Margo left, Dr. Hawthorn and Electabuzz were working to clean up the pavilion when Electabuzz found an old photograph of Norbert and Elekid. Dr. Hawthorn recognized it as a photo of himself and Electabuzz from the past, revealing that they were the and Pokémon in Zeraora's story."
+    },
+    {
+      "heading": "Names",
+      "level": 2,
+      "text": "Norbert\n \n \n\n \n \n \n\nit:Dr. Hawthorn"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dr. Hawthorn",
+    "pageType": "character",
+    "searchableText": "Dr. Hawthorn\nCategory:Manga characters\nDr. Hawthorn (Japanese: サンザシ博士 Dr. Sanzashi) is a character in Pokémon the Movie: The Power of Us: Zeraora's Story. He is a scientist who lives in Fula City.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Names"
+    ],
+    "characterCount": 1650,
+    "sectionCount": 3
+  }
+}

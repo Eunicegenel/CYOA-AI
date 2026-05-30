@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "P7-15",
+    "slug": "p7-15",
+    "pageId": 233178,
+    "revisionId": 4527675
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Phantom Thief Pokémon 7 chapters",
+    "sourceFileName": "p7-15__233178.json",
+    "revisionTimestamp": "2026-04-09T15:46:48Z",
+    "fetchedAt": "2026-05-14T15:28:10.801Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "This is the fifteenth chapter of the Phantom Thief Pokémon 7 manga. It was never collected into volume format.",
+  "plainText": "This is the fifteenth chapter of the Phantom Thief Pokémon 7 manga. It was never collected into volume format.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHiori\n\nMan\n\n===Pokémon===\n( )\n(Hiori's)\n(man's)\n\n==Trivia==\n\n \n \n\nzh:快盗！宝可梦７ 第15话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "This is the fifteenth chapter of the Phantom Thief Pokémon 7 manga. It was never collected into volume format."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hiori\n\nMan"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n(Hiori's)\n(man's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "zh:快盗！宝可梦７ 第15话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "P7-15",
+    "pageType": "chapter",
+    "searchableText": "P7-15\nCategory:Phantom Thief Pokémon 7 chapters\nThis is the fifteenth chapter of the Phantom Thief Pokémon 7 manga. It was never collected into volume format.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 288,
+    "sectionCount": 4
+  }
+}

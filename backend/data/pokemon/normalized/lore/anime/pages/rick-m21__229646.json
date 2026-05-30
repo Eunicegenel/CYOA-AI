@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Rick (M21)",
+    "slug": "rick-m21",
+    "pageId": 229646,
+    "revisionId": 4487087
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Movie characters",
+    "sourceFileName": "rick-m21__229646.json",
+    "revisionTimestamp": "2026-02-16T01:36:49Z",
+    "fetchedAt": "2026-05-14T14:46:18.203Z"
+  },
+  "classification": {
+    "estimatedPageType": "movie"
+  },
+  "leadText": "Rick (Japanese: リク Riku) is a supporting character who appeared in The Power of Us. He is the younger brother of Risa.",
+  "plainText": "Rick (Japanese: リク Riku) is a supporting character who appeared in The Power of Us. He is the younger brother of Risa.\n\n==History==\n \n \nRick was first seen in the hospital with an injured leg when Risa came to visit him. Rick was sad that he wasn't able to attend the Wind Festival due to the injury, and thus begged Risa to help him a Pokémon. Rick knew Risa would be hesitant to go, so he convinced her with a bribe; a pair of red sunglasses.\n\nThroughout the movie, Rick appeared as the host of the Pokémon Channel, commenting on events taking place in Fula City. However, his identity as the host was only confirmed towards the end of the movie.\n\nRick later contacted Risa as she ran to Fula City with the eternal flame, helping her find a quicker and safer route to the pedestal. Risa was curious as to how Rick knew where exactly she was, but Rick quickly dismissed the question. When Risa revisited Rick in the hospital, she confronted him about it again, but he didn't elaborate.\n\n==Character==\nRick is close to his sister, as seen by the way Risa visits him in the hospital. He knows how to annoy his sister, but nevertheless cares for her immensely.\n \n\n==Voice actors==\n \n\n==Names==\n \n\n==Related articles==\n \n \n\nes:Rick/Ricard\nit:Ricky (F21)\nzh:利酷",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Rick (Japanese: リク Riku) is a supporting character who appeared in The Power of Us. He is the younger brother of Risa."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Rick was first seen in the hospital with an injured leg when Risa came to visit him. Rick was sad that he wasn't able to attend the Wind Festival due to the injury, and thus begged Risa to help him a Pokémon. Rick knew Risa would be hesitant to go, so he convinced her with a bribe; a pair of red sunglasses.\n\nThroughout the movie, Rick appeared as the host of the Pokémon Channel, commenting on events taking place in Fula City. However, his identity as the host was only confirmed towards the end of the movie.\n\nRick later contacted Risa as she ran to Fula City with the eternal flame, helping her find a quicker and safer route to the pedestal. Risa was curious as to how Rick knew where exactly she was, but Rick quickly dismissed the question. When Risa revisited Rick in the hospital, she confronted him about it again, but he didn't elaborate."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Rick is close to his sister, as seen by the way Risa visits him in the hospital. He knows how to annoy his sister, but nevertheless cares for her immensely."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "es:Rick/Ricard\nit:Ricky (F21)\nzh:利酷"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rick (M21)",
+    "pageType": "movie",
+    "searchableText": "Rick (M21)\nCategory:Movie characters\nRick (Japanese: リク Riku) is a supporting character who appeared in The Power of Us. He is the younger brother of Risa.",
+    "sectionHeadings": [
+      "Lead",
+      "History",
+      "Character",
+      "Related articles"
+    ],
+    "characterCount": 1256,
+    "sectionCount": 4
+  }
+}

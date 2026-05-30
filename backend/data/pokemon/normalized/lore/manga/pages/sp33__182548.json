@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP33",
+    "slug": "sp33",
+    "pageId": 182548,
+    "revisionId": 4114579
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp33__182548.json",
+    "revisionTimestamp": "2024-09-16T20:31:00Z",
+    "fetchedAt": "2026-05-14T15:50:12.114Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Off To The Battle Frontier!! (Japanese: いざ！！バトルフロンテイアヘ Lets Go! To the Battle Frontier) is the thirty third chapter of the Ash & Pikachu manga.",
+  "plainText": "Off To The Battle Frontier!! (Japanese: いざ！！バトルフロンテイアヘ Lets Go! To the Battle Frontier) is the thirty third chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMax\nNoland\nScott\n\n===Pokémon===\n( )\n( )\n( ; befriended)\n\n \n \n\n \n\nit:SP33",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Off To The Battle Frontier!! (Japanese: いざ！！バトルフロンテイアヘ Lets Go! To the Battle Frontier) is the thirty third chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max\nNoland\nScott"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( ; befriended)\n\n \n \n\n \n\nit:SP33"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP33",
+    "pageType": "chapter",
+    "searchableText": "SP33\nCategory:Ash & Pikachu chapters\nOff To The Battle Frontier!! (Japanese: いざ！！バトルフロンテイアヘ Lets Go! To the Battle Frontier) is the thirty third chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 314,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "Stone Town",
+    "slug": "stone-town",
+    "pageId": 20091,
+    "revisionId": 4508256
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga locations",
+    "sourceFileName": "stone-town__20091.json",
+    "revisionTimestamp": "2026-03-16T00:02:15Z",
+    "fetchedAt": "2026-05-14T15:50:21.252Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "Stone Town (Japanese: ストンタウン Stone Town) is a small village in Kanto.",
+  "plainText": "Stone Town (Japanese: ストンタウン Stone Town) is a small village in Kanto.\n\n==In animation==\n===Pokémon the Series===\n==== ====\nIn , Stone Town is located in between the and Cinnabar Island, at the foot of Evolution Mountain. It appeared in The Battling Eevee Brothers.\n\nThe one part of Stone Town that sets it apart from other places is the fact that it is a popular place to evolve Pokémon with stones. When and arrived in Stone Town, they came across a party where s from all around were evolving their Pokémon. The party was actually meant for Mikey, the youngest of the Eevee brothers, who had yet to evolve his . In the end, he decided to keep it the way it was, and the brothers eventually decided it was okay for him to do that.\n\nMikey's older brothers also tried to convince and Ash to evolve their and , respectively. Both declined, saying they couldn't force their Pokémon to evolve.\n\n====Pokémon seen in Stone Town====\n \n\n==In the manga==\n ]]\n===The Electric Tale of Pikachu===\nStone Town appeared in To Evolve or Not to Evolve, That is the Question!. In this canon, it is located on . , and travelled there so that Misty could purchase a Water Stone for her . Although she could not afford a stone, she was given one by Mikey, who gave his set of Evolution stones away because he was being pressured to evolve his to join the exclusive club \"Knights of the E Stone\", which requires its members to own a Pokémon evolved by means of an Evolution stone. Ash helped Mikey to defeat his older brothers, allowing him to join the club without needing to evolve Eevee.\n \n\n==Trivia==\nIn an old Pokémon.com summary, it was called Stan Town, which comes from a misinterpretation of the Japanese name. \n\n==In other languages==\n \n\n==Notes==\n \n\n==Related articles==\n \n\n \n \n\n \n\nde:Stone Town\nes:Pueblo Roca/Ciudad Piedra\nit:Stone Town\nzh:史頓鎮",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Stone Town (Japanese: ストンタウン Stone Town) is a small village in Kanto."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "In , Stone Town is located in between the and Cinnabar Island, at the foot of Evolution Mountain. It appeared in The Battling Eevee Brothers.\n\nThe one part of Stone Town that sets it apart from other places is the fact that it is a popular place to evolve Pokémon with stones. When and arrived in Stone Town, they came across a party where s from all around were evolving their Pokémon. The party was actually meant for Mikey, the youngest of the Eevee brothers, who had yet to evolve his . In the end, he decided to keep it the way it was, and the brothers eventually decided it was okay for him to do that.\n\nMikey's older brothers also tried to convince and Ash to evolve their and , respectively. Both declined, saying they couldn't force their Pokémon to evolve."
+    },
+    {
+      "heading": "In the manga",
+      "level": 2,
+      "text": "]]"
+    },
+    {
+      "heading": "The Electric Tale of Pikachu",
+      "level": 3,
+      "text": "Stone Town appeared in To Evolve or Not to Evolve, That is the Question!. In this canon, it is located on . , and travelled there so that Misty could purchase a Water Stone for her . Although she could not afford a stone, she was given one by Mikey, who gave his set of Evolution stones away because he was being pressured to evolve his to join the exclusive club \"Knights of the E Stone\", which requires its members to own a Pokémon evolved by means of an Evolution stone. Ash helped Mikey to defeat his older brothers, allowing him to join the club without needing to evolve Eevee."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "In an old Pokémon.com summary, it was called Stan Town, which comes from a misinterpretation of the Japanese name."
+    },
+    {
+      "heading": "Related articles",
+      "level": 2,
+      "text": "de:Stone Town\nes:Pueblo Roca/Ciudad Piedra\nit:Stone Town\nzh:史頓鎮"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Stone Town",
+    "pageType": "location",
+    "searchableText": "Stone Town\nCategory:Manga locations\nStone Town (Japanese: ストンタウン Stone Town) is a small village in Kanto.",
+    "sectionHeadings": [
+      "Lead",
+      "",
+      "In the manga",
+      "The Electric Tale of Pikachu",
+      "Trivia",
+      "Related articles"
+    ],
+    "characterCount": 1834,
+    "sectionCount": 6
+  }
+}

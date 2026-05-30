@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "HZ137",
+    "slug": "hz137",
+    "pageId": 355512,
+    "revisionId": 4546637
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Episodes storyboarded and directed by Yūji Asada",
+    "sourceFileName": "hz137__355512.json",
+    "revisionTimestamp": "2026-05-08T17:05:39Z",
+    "fetchedAt": "2026-05-14T14:24:35.911Z"
+  },
+  "classification": {
+    "estimatedPageType": "episode"
+  },
+  "leadText": "(Japanese: リブート！冒険の世界へ！！ Reboot! Off to the World of Adventure!!) is the 137th episode of Pokémon Horizons: The Series, and the 1,369th episode of the Pokémon animated series. It is scheduled to air in Japan on May 22, 2026 .",
+  "plainText": "(Japanese: リブート！冒険の世界へ！！ Reboot! Off to the World of Adventure!!) is the 137th episode of Pokémon Horizons: The Series, and the 1,369th episode of the Pokémon animated series. It is scheduled to air in Japan on May 22, 2026 .\n \n \n \n\n==Plot==\n \n \n\n==Major events==\n \n \n \n\n===Debuts===\n \n====Pokémon debuts====\n \n\n==Characters==\n===Humans===\nLiko\nRoy\n \n \n \n \n \n \n \nFriede\n \n \n \n \n \n \n \n \n \n \n \n \n\n===Pokémon===\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n==Trivia==\n \n \nThis is the first episode of the Wonder Voyage arc.\nAs of this episode, - who served as assistant director up to the previous episode - has taken over as director of , succeeding .\n\n===Errors===\n===Dub edits===\n\n==In other languages==\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n\nde:HZ137\nes:EP1373\nfr:LH137\nit:OP137\nja:2023年版第137話\nzh:宝可梦 地平线 第137集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: リブート！冒険の世界へ！！ Reboot! Off to the World of Adventure!!) is the 137th episode of Pokémon Horizons: The Series, and the 1,369th episode of the Pokémon animated series. It is scheduled to air in Japan on May 22, 2026 ."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Liko\nRoy\n \n \n \n \n \n \n \nFriede"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This is the first episode of the Wonder Voyage arc.\nAs of this episode, - who served as assistant director up to the previous episode - has taken over as director of , succeeding ."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:HZ137\nes:EP1373\nfr:LH137\nit:OP137\nja:2023年版第137話\nzh:宝可梦 地平线 第137集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "HZ137",
+    "pageType": "episode",
+    "searchableText": "HZ137\nCategory:Episodes storyboarded and directed by Yūji Asada\n(Japanese: リブート！冒険の世界へ！！ Reboot! Off to the World of Adventure!!) is the 137th episode of Pokémon Horizons: The Series, and the 1,369th episode of the Pokémon animated series. It is scheduled to air in Japan on May 22, 2026 .",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Trivia",
+      "In other languages"
+    ],
+    "characterCount": 884,
+    "sectionCount": 4
+  }
+}

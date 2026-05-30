@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMDP36",
+    "slug": "pmdp36",
+    "pageId": 176415,
+    "revisionId": 4528614
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters DP chapters",
+    "sourceFileName": "pmdp36__176415.json",
+    "revisionTimestamp": "2026-04-09T16:30:26Z",
+    "fetchedAt": "2026-05-14T15:32:35.607Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 恒例！恐怖の年末大掃除！！ Time-Honored Nightmare! The Big Year-End Cleaning!!) is the thirty-sixth chapter of the manga.",
+  "plainText": "(Japanese: 恒例！恐怖の年末大掃除！！ Time-Honored Nightmare! The Big Year-End Cleaning!!) is the thirty-sixth chapter of the manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 恒例！恐怖の年末大掃除！！ Time-Honored Nightmare! The Big Year-End Cleaning!!) is the thirty-sixth chapter of the manga."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMDP36",
+    "pageType": "chapter",
+    "searchableText": "PMDP36\nCategory:Pocket Monsters DP chapters\n(Japanese: 恒例！恐怖の年末大掃除！！ Time-Honored Nightmare! The Big Year-End Cleaning!!) is the thirty-sixth chapter of the manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 243,
+    "sectionCount": 2
+  }
+}

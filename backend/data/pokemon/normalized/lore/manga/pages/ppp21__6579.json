@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PPP21",
+    "slug": "ppp21",
+    "pageId": 6579,
+    "revisionId": 4131809
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Magical Pokémon Journey chapters",
+    "sourceFileName": "ppp21__6579.json",
+    "revisionTimestamp": "2024-09-29T04:25:40Z",
+    "fetchedAt": "2026-05-14T15:38:49.693Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Follow that Love Potion! (Japanese: ホレぐすりを追いかけろ！ Follow that Love Potion!) is the 21st chapter of the Magical Pokémon Journey manga.",
+  "plainText": "Follow that Love Potion! (Japanese: ホレぐすりを追いかけろ！ Follow that Love Potion!) is the 21st chapter of the Magical Pokémon Journey manga.\n\n==Plot==\n \nWanting to secure Pistachio's love for herself, visits Grandpa to ask him to make her a love potion. He agrees, but only on the condition that she becomes his Pokémon. Right as she rejects his offer, Coconut enters the room, furious that Grandpa has used her Fluffy Mushrooms without her permission. Fearful of his granddaughter's rage, Grandpa tells Bulbasaur that he will give her the love potion if she can bring him a Fluffy Mushroom.\n\nBulbasaur sets off to find one of the mushrooms, taking and with her. As the group walks through the woods in the rain, they come across a with a mushroom on its back called \"Winter Bug Summer Grass.\" Believing the mushroom to be the one they are searching for, Bulbasaur leads the others in chasing after it. In their pursuit, the three trip and fall into a deep hole.\n\nBulbasaur attempts to use her vines to reach the top, but they are not long enough to do so. As time passes, Bulbasaur loses hope that the group will ever escape the pit, believing they will freeze to death. Realizing that she may never see Pistachio again, she begins to sob. Despite being afraid as well, Pikachu and Clefairy gather up some leaves and make them into a blanket for Bulbasaur so she will stay warm. Their kindness lightens her mood, and the three lean against each other for some time.\n\nLater that night, a flashlight shines down into the hole. The Pokémon look up to see Pistachio, Hazel, and Grandpa. When Bulbasaur sees how worried Pistachio was for her, she realizes that he already loves her, and she has no need for a love potion after all.\n\nThe next day, Bulbasaur glares angrily at Pistachio as he flirts with Hazel and other girls.\n\n==Major events==\n \n\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nHazel\nGrandpa\nCoconut\nPistachio\n\n===Pokémon===\n( )\n( )\n( )\n\n==Trivia==\nThis chapter includes a short overview of 's character as well as his friendship with Almond.\nprovides the recap at the beginning of the chapter.",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Follow that Love Potion! (Japanese: ホレぐすりを追いかけろ！ Follow that Love Potion!) is the 21st chapter of the Magical Pokémon Journey manga."
+    },
+    {
+      "heading": "Plot",
+      "level": 2,
+      "text": "Wanting to secure Pistachio's love for herself, visits Grandpa to ask him to make her a love potion. He agrees, but only on the condition that she becomes his Pokémon. Right as she rejects his offer, Coconut enters the room, furious that Grandpa has used her Fluffy Mushrooms without her permission. Fearful of his granddaughter's rage, Grandpa tells Bulbasaur that he will give her the love potion if she can bring him a Fluffy Mushroom.\n\nBulbasaur sets off to find one of the mushrooms, taking and with her. As the group walks through the woods in the rain, they come across a with a mushroom on its back called \"Winter Bug Summer Grass.\" Believing the mushroom to be the one they are searching for, Bulbasaur leads the others in chasing after it. In their pursuit, the three trip and fall into a deep hole.\n\nBulbasaur attempts to use her vines to reach the top, but they are not long enough to do so. As time passes, Bulbasaur loses hope that the group will ever escape the pit, believing they will freeze to death. Realizing that she may never see Pistachio again, she begins to sob. Despite being afraid as well, Pikachu and Clefairy gather up some leaves and make them into a blanket for Bulbasaur so she will stay warm. Their kindness lightens her mood, and the three lean against each other for some time.\n\nLater that night, a flashlight shines down into the hole. The Pokémon look up to see Pistachio, Hazel, and Grandpa. When Bulbasaur sees how worried Pistachio was for her, she realizes that he already loves her, and she has no need for a love potion after all.\n\nThe next day, Bulbasaur glares angrily at Pistachio as he flirts with Hazel and other girls."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Hazel\nGrandpa\nCoconut\nPistachio"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "This chapter includes a short overview of 's character as well as his friendship with Almond.\nprovides the recap at the beginning of the chapter."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PPP21",
+    "pageType": "chapter",
+    "searchableText": "PPP21\nCategory:Magical Pokémon Journey chapters\nFollow that Love Potion! (Japanese: ホレぐすりを追いかけろ！ Follow that Love Potion!) is the 21st chapter of the Magical Pokémon Journey manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Plot",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 2116,
+    "sectionCount": 5
+  }
+}

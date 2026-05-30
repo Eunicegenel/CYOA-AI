@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Pokémon Hoenn Collection",
+    "slug": "pokemon-hoenn-collection",
+    "pageId": 202524,
+    "revisionId": 4261495
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation home video",
+    "sourceFileName": "pokemon-hoenn-collection__202524.json",
+    "revisionTimestamp": "2025-03-20T01:11:09Z",
+    "fetchedAt": "2026-05-14T14:42:55.396Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "----\n \n \nThe Pokémon Hoenn Collection is a Region 4 Collector's Pokédex Book DVD set released by in Australia on October 10, 2012 and in New Zealand on October 17, 2012. It contains 16 discs with 133 episodes across them combined. Its catalogue number is DBX13836. The DVDs don't include English closed captioning.\n\nIt contains all of the regular dubbed episodes of that take place in Hoenn. It contains episodes from Advanced, Advanced Challenge, and Advanced Battle.",
+  "plainText": "----\n \n \nThe Pokémon Hoenn Collection is a Region 4 Collector's Pokédex Book DVD set released by in Australia on October 10, 2012 and in New Zealand on October 17, 2012. It contains 16 discs with 133 episodes across them combined. Its catalogue number is DBX13836. The DVDs don't include English closed captioning.\n\nIt contains all of the regular dubbed episodes of that take place in Hoenn. It contains episodes from Advanced, Advanced Challenge, and Advanced Battle.\n\n==Book==\nThe discs come in a large book, designed to resemble the Hoenn Pokédex.\n\nThe front cover and back cover together include portraits of all 135 Generation III Pokémon. Inside the front cover is a map of the Hoenn region in the animated series.\n\nAt the start of the book, there is a brief description of the main characters, having profiles for , Ash's Pikachu, , , and Max. There is also a page featuring images of each of Hoenn Badges and a description of the Gym Leader that gives it (Juan is listed for the , and he is the Gym Leader Ash defeats to obtain it).\n\nThe book has slots for two discs on each side of each page. Next to each disc in the book is an episode listing for that disc as well as a profile of a Pokémon that is featured in at least one of the episodes. This profile includes an original description, its height and weight (in metric units), its types, its , its (but not its Hidden Ability), and its evolutionary line. The episodes are numbered from 1 to 133.\n \n\n==Contents==\n \n\n==Trivia==\nThe episodes The Scheme Team and The Right Place and the Right Mime appear in both the Pokémon Kanto and Orange Islands Collection and the Pokémon Hoenn Collection. While The Scheme Team includes scenes in both Hoenn and Kanto, The Right Place and the Right Mime exclusively takes place in Kanto.\n\n==See also==\nPokémon Kanto and Orange Islands Collection\nPokémon Johto Collection\nPokémon Sinnoh Collection\nPokémon Unova Collection\n\n==External links==\nPokémon Hoenn Collection on JB Hi-Fi Australia's website (archive)\nPokémon Hoenn Collection on JB Hi-Fi New Zealand's website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "----\n \n \nThe Pokémon Hoenn Collection is a Region 4 Collector's Pokédex Book DVD set released by in Australia on October 10, 2012 and in New Zealand on October 17, 2012. It contains 16 discs with 133 episodes across them combined. Its catalogue number is DBX13836. The DVDs don't include English closed captioning.\n\nIt contains all of the regular dubbed episodes of that take place in Hoenn. It contains episodes from Advanced, Advanced Challenge, and Advanced Battle."
+    },
+    {
+      "heading": "Book",
+      "level": 2,
+      "text": "The discs come in a large book, designed to resemble the Hoenn Pokédex.\n\nThe front cover and back cover together include portraits of all 135 Generation III Pokémon. Inside the front cover is a map of the Hoenn region in the animated series.\n\nAt the start of the book, there is a brief description of the main characters, having profiles for , Ash's Pikachu, , , and Max. There is also a page featuring images of each of Hoenn Badges and a description of the Gym Leader that gives it (Juan is listed for the , and he is the Gym Leader Ash defeats to obtain it).\n\nThe book has slots for two discs on each side of each page. Next to each disc in the book is an episode listing for that disc as well as a profile of a Pokémon that is featured in at least one of the episodes. This profile includes an original description, its height and weight (in metric units), its types, its , its (but not its Hidden Ability), and its evolutionary line. The episodes are numbered from 1 to 133."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "The episodes The Scheme Team and The Right Place and the Right Mime appear in both the Pokémon Kanto and Orange Islands Collection and the Pokémon Hoenn Collection. While The Scheme Team includes scenes in both Hoenn and Kanto, The Right Place and the Right Mime exclusively takes place in Kanto."
+    },
+    {
+      "heading": "See also",
+      "level": 2,
+      "text": "Pokémon Kanto and Orange Islands Collection\nPokémon Johto Collection\nPokémon Sinnoh Collection\nPokémon Unova Collection"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Pokémon Hoenn Collection on JB Hi-Fi Australia's website (archive)\nPokémon Hoenn Collection on JB Hi-Fi New Zealand's website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Hoenn Collection",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Hoenn Collection\nCategory:Animation home video\n----\n \n \nThe Pokémon Hoenn Collection is a Region 4 Collector's Pokédex Book DVD set released by in Australia on October 10, 2012 and in New Zealand on October 17, 2012. It contains 16 discs with 133 episodes across them combined. Its catalogue number is DBX13836. The DVDs don't include English closed captioning.\n\nIt contains all of the regular dubbed episodes of that take place in Hoenn. It contains episodes from Advanced, Advanced Challenge, and Advanced Battle.",
+    "sectionHeadings": [
+      "Lead",
+      "Book",
+      "Trivia",
+      "See also",
+      "External links"
+    ],
+    "characterCount": 2065,
+    "sectionCount": 5
+  }
+}

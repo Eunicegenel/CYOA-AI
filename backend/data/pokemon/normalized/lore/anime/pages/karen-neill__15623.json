@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "Karen Neill",
+    "slug": "karen-neill",
+    "pageId": 15623,
+    "revisionId": 4323481
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:4Kids voice actors",
+    "sourceFileName": "karen-neill__15623.json",
+    "revisionTimestamp": "2025-06-24T03:31:00Z",
+    "fetchedAt": "2026-05-14T14:28:32.359Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Karen Neill (born Nell Balaban) is an American voice actress for the English-language dub of .",
+  "plainText": "Karen Neill (born Nell Balaban) is an American voice actress for the English-language dub of .\n\n==Pokémon roles==\nNeill joined the series at the start of and left at the end of the eighth season, when Pokémon USA took over the dubbing and distribution of the series.\n===Animation===\n==== ====\nCaroline (AG069-AG132)\nRoxanne\n\nDr. Abby\nMrs. Grimm\nElisa\n\n==Other non-Pokémon roles==\n( , , , , )\nIshizu Ishtar ( )\nNefertari Vivi (4Kids dub of )\n\n==External links==\nSoundCloud\n \n \n\nit:Karen Neill",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Karen Neill (born Nell Balaban) is an American voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Pokémon roles",
+      "level": 2,
+      "text": "Neill joined the series at the start of and left at the end of the eighth season, when Pokémon USA took over the dubbing and distribution of the series."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Caroline (AG069-AG132)\nRoxanne\n\nDr. Abby\nMrs. Grimm\nElisa"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "( , , , , )\nIshizu Ishtar ( )\nNefertari Vivi (4Kids dub of )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "SoundCloud\n \n \n\nit:Karen Neill"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Karen Neill",
+    "pageType": "general-anime-lore",
+    "searchableText": "Karen Neill\nCategory:4Kids voice actors\nKaren Neill (born Nell Balaban) is an American voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon roles",
+      "",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 491,
+    "sectionCount": 5
+  }
+}

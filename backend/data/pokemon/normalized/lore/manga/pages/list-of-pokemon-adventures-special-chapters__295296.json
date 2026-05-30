@@ -1,0 +1,39 @@
+{
+  "identity": {
+    "title": "List of Pokémon Adventures special chapters",
+    "slug": "list-of-pokemon-adventures-special-chapters",
+    "pageId": 295296,
+    "revisionId": 4218012
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures",
+    "sourceFileName": "list-of-pokemon-adventures-special-chapters__295296.json",
+    "revisionTimestamp": "2025-01-09T20:01:21Z",
+    "fetchedAt": "2026-05-14T15:24:40.164Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "",
+  "plainText": "==Special chapters==\nThese chapters were published in Pokémon the Comic as the result of and Pika respectively winning the human and Pokémon sections on the 2011 Netkun popularity poll. Neither were collected into the volume format as part of any of the story arcs or officially translated into English.\n \n \n \n\n \n \n \n\nit:Elenco dei capitoli speciali di Pokémon Adventures",
+  "sections": [
+    {
+      "heading": "Special chapters",
+      "level": 2,
+      "text": "These chapters were published in Pokémon the Comic as the result of and Pika respectively winning the human and Pokémon sections on the 2011 Netkun popularity poll. Neither were collected into the volume format as part of any of the story arcs or officially translated into English.\n \n \n \n\n \n \n \n\nit:Elenco dei capitoli speciali di Pokémon Adventures"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "List of Pokémon Adventures special chapters",
+    "pageType": "chapter",
+    "searchableText": "List of Pokémon Adventures special chapters\nCategory:Pokémon Adventures",
+    "sectionHeadings": [
+      "Special chapters"
+    ],
+    "characterCount": 371,
+    "sectionCount": 1
+  }
+}

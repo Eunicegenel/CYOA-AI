@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "SP23",
+    "slug": "sp23",
+    "pageId": 182509,
+    "revisionId": 4114562
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp23__182509.json",
+    "revisionTimestamp": "2024-09-16T20:30:28Z",
+    "fetchedAt": "2026-05-14T15:50:05.193Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Two Groups Attacking! Magma VS. Aqua (Japanese: 2大組織襲来！マグマ団VSアクア団 Two Groups Attacking! Team Magma VS. Team Aqua) is the twenty third chapter of the Ash & Pikachu manga.",
+  "plainText": "Two Groups Attacking! Magma VS. Aqua (Japanese: 2大組織襲来！マグマ団VSアクア団 Two Groups Attacking! Team Magma VS. Team Aqua) is the twenty third chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nShelly\nTabitha\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMax\nProfessor Cozmo\nShelly\nTabitha\ns\ns\n\n===Pokémon===\n( )\n( )\n( )\n(Tabitha's)\n( 's)\n( 's)\n( 's)\n( 's)\n\n \n \n\n \n\nit:SP23",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Two Groups Attacking! Magma VS. Aqua (Japanese: 2大組織襲来！マグマ団VSアクア団 Two Groups Attacking! Team Magma VS. Team Aqua) is the twenty third chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Shelly\nTabitha"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max\nProfessor Cozmo\nShelly\nTabitha\ns\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n(Tabitha's)\n( 's)\n( 's)\n( 's)\n( 's)\n\n \n \n\n \n\nit:SP23"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP23",
+    "pageType": "chapter",
+    "searchableText": "SP23\nCategory:Ash & Pikachu chapters\nTwo Groups Attacking! Magma VS. Aqua (Japanese: 2大組織襲来！マグマ団VSアクア団 Two Groups Attacking! Team Magma VS. Team Aqua) is the twenty third chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 416,
+    "sectionCount": 4
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "ICYR4",
+    "slug": "icyr4",
+    "pageId": 224601,
+    "revisionId": 4527884
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "icyr4__224601.json",
+    "revisionTimestamp": "2026-04-09T15:57:38Z",
+    "fetchedAt": "2026-05-14T15:22:01.891Z"
+  },
+  "classification": {
+    "estimatedPageType": "manga-series"
+  },
+  "leadText": "(Japanese: ピカチュウとサトシのぼうし Pikachu and 's Hat) is the fourth and final chapter of Pocket Monsters the Movie: I Choose You! Remix.",
+  "plainText": "(Japanese: ピカチュウとサトシのぼうし Pikachu and 's Hat) is the fourth and final chapter of Pocket Monsters the Movie: I Choose You! Remix.\n\n==Plot==\n \n\n==Major events==\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n\n==In other languages==\n \n\n \n\nit:Pikachu to Satoshi no boushi\nzh:M20RSP",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ピカチュウとサトシのぼうし Pikachu and 's Hat) is the fourth and final chapter of Pocket Monsters the Movie: I Choose You! Remix."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Pikachu to Satoshi no boushi\nzh:M20RSP"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "ICYR4",
+    "pageType": "manga-series",
+    "searchableText": "ICYR4\nCategory:Manga stubs\n(Japanese: ピカチュウとサトシのぼうし Pikachu and 's Hat) is the fourth and final chapter of Pocket Monsters the Movie: I Choose You! Remix.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 277,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Stories Together with Pikachu!",
+    "slug": "pokemon-stories-together-with-pikachu",
+    "pageId": 222256,
+    "revisionId": 4309769
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Manga stubs",
+    "sourceFileName": "pokemon-stories-together-with-pikachu__222256.json",
+    "revisionTimestamp": "2025-05-25T07:04:50Z",
+    "fetchedAt": "2026-05-14T15:37:41.735Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモンおはなしげきじょう ピカチュウとあそぼ！ Pokémon Stories Together with Pikachu!) is a Pokémon manga published in issues of 幼稚園 and later collected into tankōbon. It is adapted by Emiko Yoshino and Keiji Kei.",
+  "plainText": "(Japanese: ポケモンおはなしげきじょう ピカチュウとあそぼ！ Pokémon Stories Together with Pikachu!) is a Pokémon manga published in issues of 幼稚園 and later collected into tankōbon. It is adapted by Emiko Yoshino and Keiji Kei.\n\n==List of volumes==\n \n\n==External links==\nVolume 1 on Shogakukan's website\nVolume 2 on Shogakukan's website\nVolume 3 on Shogakukan's website\n\n \n \n \n\n \n\nit:Pokémon ohanashi gekijō Pikachu to asobo!",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンおはなしげきじょう ピカチュウとあそぼ！ Pokémon Stories Together with Pikachu!) is a Pokémon manga published in issues of 幼稚園 and later collected into tankōbon. It is adapted by Emiko Yoshino and Keiji Kei."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Volume 1 on Shogakukan's website\nVolume 2 on Shogakukan's website\nVolume 3 on Shogakukan's website\n\n \n \n \n\n \n\nit:Pokémon ohanashi gekijō Pikachu to asobo!"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Stories Together with Pikachu!",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Stories Together with Pikachu!\nCategory:Manga stubs\n(Japanese: ポケモンおはなしげきじょう ピカチュウとあそぼ！ Pokémon Stories Together with Pikachu!) is a Pokémon manga published in issues of 幼稚園 and later collected into tankōbon. It is adapted by Emiko Yoshino and Keiji Kei.",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 400,
+    "sectionCount": 2
+  }
+}

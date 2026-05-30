@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pocket Monsters Premier 10",
+    "slug": "pocket-monsters-premier-10",
+    "pageId": 252360,
+    "revisionId": 4201724
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon animated series",
+    "sourceFileName": "pocket-monsters-premier-10__252360.json",
+    "revisionTimestamp": "2024-12-12T12:51:59Z",
+    "fetchedAt": "2026-05-14T14:42:25.277Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pocket Monsters Premier 10 (Japanese: アニメ「ポケットモンスター」プレミア１０ Anime \"Pocket Monsters\" Premier 10) was a series of reruns of ten select episodes from past series of to commemorate its 20th anniversary following the theatrical release of M20. It aired on TV Tokyo every Monday at 1:35 AM from July 24 to September 25, 2017. \n\nFor the series' first episode, a digitally remastered version of EP001 was broadcast on television for the first time.",
+  "plainText": "Pocket Monsters Premier 10 (Japanese: アニメ「ポケットモンスター」プレミア１０ Anime \"Pocket Monsters\" Premier 10) was a series of reruns of ten select episodes from past series of to commemorate its 20th anniversary following the theatrical release of M20. It aired on TV Tokyo every Monday at 1:35 AM from July 24 to September 25, 2017. \n\nFor the series' first episode, a digitally remastered version of EP001 was broadcast on television for the first time.\n\n==Episodes==\n \n\n==Notes==\n \n\n==External links==\nOfficial website (Japanese)\nOfficial announcement (Japanese)\n \n\n \n\nit:Anime \"Pocket Monsters\" Premier 10\nja:アニメ ポケットモンスター プレミア10\nzh:动画「宝可梦」甄选１０",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pocket Monsters Premier 10 (Japanese: アニメ「ポケットモンスター」プレミア１０ Anime \"Pocket Monsters\" Premier 10) was a series of reruns of ten select episodes from past series of to commemorate its 20th anniversary following the theatrical release of M20. It aired on TV Tokyo every Monday at 1:35 AM from July 24 to September 25, 2017. \n\nFor the series' first episode, a digitally remastered version of EP001 was broadcast on television for the first time."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website (Japanese)\nOfficial announcement (Japanese)\n \n\n \n\nit:Anime \"Pocket Monsters\" Premier 10\nja:アニメ ポケットモンスター プレミア10\nzh:动画「宝可梦」甄选１０"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pocket Monsters Premier 10",
+    "pageType": "pokemon-related",
+    "searchableText": "Pocket Monsters Premier 10\nCategory:Pokémon animated series\nPocket Monsters Premier 10 (Japanese: アニメ「ポケットモンスター」プレミア１０ Anime \"Pocket Monsters\" Premier 10) was a series of reruns of ten select episodes from past series of to commemorate its 20th anniversary following the theatrical release of M20. It aired on TV Tokyo every Monday at 1:35 AM from July 24 to September 25, 2017. \n\nFor the series' first episode, a digitally remastered version of EP001 was broadcast on television for the first time.",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 632,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Ruby Sapphire 2Koma",
+    "slug": "pokemon-ruby-sapphire-2koma",
+    "pageId": 220446,
+    "revisionId": 4203508
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon 2Koma",
+    "sourceFileName": "pokemon-ruby-sapphire-2koma__220446.json",
+    "revisionTimestamp": "2024-12-14T19:34:12Z",
+    "fetchedAt": "2026-05-14T15:37:33.652Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "(Japanese: ポケモンルビー・サファイア２コマまんが Pokémon Ruby Sapphire 2Koma Manga Complete Collection) is a Pokémon 2Koma by Hiroshi Takase. It is 224 pages long.",
+  "plainText": "(Japanese: ポケモンルビー・サファイア２コマまんが Pokémon Ruby Sapphire 2Koma Manga Complete Collection) is a Pokémon 2Koma by Hiroshi Takase. It is 224 pages long.\n\n==Publications==\n \n \n\n \n \n \n\n \n\nzh:宝可梦二格漫画全集",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: ポケモンルビー・サファイア２コマまんが Pokémon Ruby Sapphire 2Koma Manga Complete Collection) is a Pokémon 2Koma by Hiroshi Takase. It is 224 pages long."
+    },
+    {
+      "heading": "Publications",
+      "level": 2,
+      "text": "zh:宝可梦二格漫画全集"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Ruby Sapphire 2Koma",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Ruby Sapphire 2Koma\nCategory:Pokémon 2Koma\n(Japanese: ポケモンルビー・サファイア２コマまんが Pokémon Ruby Sapphire 2Koma Manga Complete Collection) is a Pokémon 2Koma by Hiroshi Takase. It is 224 pages long.",
+    "sectionHeadings": [
+      "Lead",
+      "Publications"
+    ],
+    "characterCount": 191,
+    "sectionCount": 2
+  }
+}

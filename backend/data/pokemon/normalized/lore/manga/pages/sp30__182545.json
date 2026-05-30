@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "SP30",
+    "slug": "sp30",
+    "pageId": 182545,
+    "revisionId": 4114573
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp30__182545.json",
+    "revisionTimestamp": "2024-09-16T20:30:50Z",
+    "fetchedAt": "2026-05-14T15:50:10.230Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Birth Of The Invincible Team, Max And Ralts!! (Japanese: マサトとラルトス、最強コンビ誕生！！' and Ralts, Birth of the Strongest Combination!!) is the thirtieth chapter of the Ash & Pikachu manga.",
+  "plainText": "The Birth Of The Invincible Team, Max And Ralts!! (Japanese: マサトとラルトス、最強コンビ誕生！！' and Ralts, Birth of the Strongest Combination!!) is the thirtieth chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMax\nJessie\nJames\n\n===Pokémon===\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n\n \n \n\n \n\nit:SP30",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Birth Of The Invincible Team, Max And Ralts!! (Japanese: マサトとラルトス、最強コンビ誕生！！' and Ralts, Birth of the Strongest Combination!!) is the thirtieth chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max\nJessie\nJames"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n( )\n\n \n \n\n \n\nit:SP30"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP30",
+    "pageType": "chapter",
+    "searchableText": "SP30\nCategory:Ash & Pikachu chapters\nThe Birth Of The Invincible Team, Max And Ralts!! (Japanese: マサトとラルトス、最強コンビ誕生！！' and Ralts, Birth of the Strongest Combination!!) is the thirtieth chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 373,
+    "sectionCount": 3
+  }
+}

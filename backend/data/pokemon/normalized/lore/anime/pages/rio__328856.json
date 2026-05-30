@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Rio",
+    "slug": "rio",
+    "pageId": 328856,
+    "revisionId": 4343937
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Dragonite and the Special Delivery characters",
+    "sourceFileName": "rio__328856.json",
+    "revisionTimestamp": "2025-07-27T05:25:11Z",
+    "fetchedAt": "2026-05-14T14:46:32.090Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Rio (Japanese: リオ Rio) is a major character in Dragonite and the Special Delivery. He is a young boy living in the Paldea region who wrote a letter to his father for his birthday, who is working away from home in the Kanto region.",
+  "plainText": "Rio (Japanese: リオ Rio) is a major character in Dragonite and the Special Delivery. He is a young boy living in the Paldea region who wrote a letter to his father for his birthday, who is working away from home in the Kanto region.\n\n==History==\n===Dragonite and the Special Delivery===\nIn the short, Rio was revealed to have submitted a letter stuffed with fur to the post office, although he forgot to put in the recipient's address. When Hana found Rio and brought him his letter, Rio confessed that the letter is meant to be a gift for his father's birthday, which happened to be today. Hana, Rio, and then flew from Paldea all the way to Kanto so that Rio can deliver the letter to his father on time. Upon landing in Kanto, Rio walked up to his father, read aloud his letter, and presented the Yamper fur to him. Rio's father hugged him tearfully while his colleagues clap and cheer.\n\nIn the epilogue, an older Rio is sent off by his parents as he prepares to attend Uva Academy as a student.\n \n\n==Character==\nRio is a kind, if clumsy, young boy. He deeply loves his parents, as shown when he wishes to send a birthday letter to his father who is working abroad.\n\n==Pokémon==\n===Befriended===\n \n\n==Voice actors==\n \n\n==Gallery==\n===Artwork===\n \n\n==Names==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Rio (Japanese: リオ Rio) is a major character in Dragonite and the Special Delivery. He is a young boy living in the Paldea region who wrote a letter to his father for his birthday, who is working away from home in the Kanto region."
+    },
+    {
+      "heading": "Dragonite and the Special Delivery",
+      "level": 3,
+      "text": "In the short, Rio was revealed to have submitted a letter stuffed with fur to the post office, although he forgot to put in the recipient's address. When Hana found Rio and brought him his letter, Rio confessed that the letter is meant to be a gift for his father's birthday, which happened to be today. Hana, Rio, and then flew from Paldea all the way to Kanto so that Rio can deliver the letter to his father on time. Upon landing in Kanto, Rio walked up to his father, read aloud his letter, and presented the Yamper fur to him. Rio's father hugged him tearfully while his colleagues clap and cheer.\n\nIn the epilogue, an older Rio is sent off by his parents as he prepares to attend Uva Academy as a student."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Rio is a kind, if clumsy, young boy. He deeply loves his parents, as shown when he wishes to send a birthday letter to his father who is working abroad."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Rio",
+    "pageType": "character",
+    "searchableText": "Rio\nCategory:Dragonite and the Special Delivery characters\nRio (Japanese: リオ Rio) is a major character in Dragonite and the Special Delivery. He is a young boy living in the Paldea region who wrote a letter to his father for his birthday, who is working away from home in the Kanto region.",
+    "sectionHeadings": [
+      "Lead",
+      "Dragonite and the Special Delivery",
+      "Character"
+    ],
+    "characterCount": 1258,
+    "sectionCount": 3
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "identity": {
+    "title": "Laura Stahl",
+    "slug": "laura-stahl",
+    "pageId": 349651,
+    "revisionId": 4483722
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:TPCi voice actors",
+    "sourceFileName": "laura-stahl__349651.json",
+    "revisionTimestamp": "2026-02-07T01:25:47Z",
+    "fetchedAt": "2026-05-14T14:30:36.391Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Laura Stahl is an American voice actress for the English-language dub of .",
+  "plainText": "Laura Stahl is an American voice actress for the English-language dub of .\n\n==Biography==\nStahl has worked on many iterations of Pokémon including Pokémon: Twilight Wings, Pokémon Evolutions, Pokémon Masters EX, and Detective Pikachu Returns. Stahl joined the mainline animated series with , where she voiced Ult.\n\n==Pokémon roles==\n===Animation===\n==== ====\nUlt \n\n====Pokémon: Twilight Wings====\nBea\n\n====Pokémon Evolutions====\nZinnia\n\n===Video games===\n====Pokémon Masters EX====\nSkyla\nHau\n\n====Detective Pikachu Returns====\nRachel Myers\n\n==Other non-Pokémon roles==\nSerpico (young) ( )\nWangari ( )\nA.I.C.O. -Incarnation- ( )\nIruma Suzuki ( )\n\n==References==\n \n\n==External links==\nTwitter\nAnime News Network\nBehind the Voice Actors\nInstagram\n\n \n \n\nit:Laura Stahl",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Laura Stahl is an American voice actress for the English-language dub of ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Stahl has worked on many iterations of Pokémon including Pokémon: Twilight Wings, Pokémon Evolutions, Pokémon Masters EX, and Detective Pikachu Returns. Stahl joined the mainline animated series with , where she voiced Ult."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "Ult"
+    },
+    {
+      "heading": "Pokémon: Twilight Wings",
+      "level": 4,
+      "text": "Bea"
+    },
+    {
+      "heading": "Pokémon Evolutions",
+      "level": 4,
+      "text": "Zinnia"
+    },
+    {
+      "heading": "Pokémon Masters EX",
+      "level": 4,
+      "text": "Skyla\nHau"
+    },
+    {
+      "heading": "Detective Pikachu Returns",
+      "level": 4,
+      "text": "Rachel Myers"
+    },
+    {
+      "heading": "Other non-Pokémon roles",
+      "level": 2,
+      "text": "Serpico (young) ( )\nWangari ( )\nA.I.C.O. -Incarnation- ( )\nIruma Suzuki ( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Twitter\nAnime News Network\nBehind the Voice Actors\nInstagram\n\n \n \n\nit:Laura Stahl"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Laura Stahl",
+    "pageType": "general-anime-lore",
+    "searchableText": "Laura Stahl\nCategory:TPCi voice actors\nLaura Stahl is an American voice actress for the English-language dub of .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "Pokémon: Twilight Wings",
+      "Pokémon Evolutions",
+      "Pokémon Masters EX",
+      "Detective Pikachu Returns",
+      "Other non-Pokémon roles",
+      "External links"
+    ],
+    "characterCount": 764,
+    "sectionCount": 9
+  }
+}

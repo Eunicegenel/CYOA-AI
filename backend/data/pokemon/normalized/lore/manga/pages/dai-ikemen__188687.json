@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Dai Ikemen",
+    "slug": "dai-ikemen",
+    "pageId": 188687,
+    "revisionId": 4527037
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Battrio: Aim to be Battrio Master! characters",
+    "sourceFileName": "dai-ikemen__188687.json",
+    "revisionTimestamp": "2026-04-09T15:16:40Z",
+    "fetchedAt": "2026-05-14T15:16:38.725Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "(Japanese: 池面大 Dai Ikemen) is a character from Pokémon Battrio: Aim to be Battrio Master!.",
+  "plainText": "(Japanese: 池面大 Dai Ikemen) is a character from Pokémon Battrio: Aim to be Battrio Master!.\n\n==History==\nDai first appeared in ABM03 where she was in a noodle restaurant. Ryū and his friends took a liking to her. Dai raced Ryū to the Battrio building where they have their match. After a long match, Dai was defeated by Ryū and Ryū celebrated by passing gas.\n\n==Pokémon==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 池面大 Dai Ikemen) is a character from Pokémon Battrio: Aim to be Battrio Master!."
+    },
+    {
+      "heading": "History",
+      "level": 2,
+      "text": "Dai first appeared in ABM03 where she was in a noodle restaurant. Ryū and his friends took a liking to her. Dai raced Ryū to the Battrio building where they have their match. After a long match, Dai was defeated by Ryū and Ryū celebrated by passing gas."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Dai Ikemen",
+    "pageType": "character",
+    "searchableText": "Dai Ikemen\nCategory:Pokémon Battrio: Aim to be Battrio Master! characters\n(Japanese: 池面大 Dai Ikemen) is a character from Pokémon Battrio: Aim to be Battrio Master!.",
+    "sectionHeadings": [
+      "Lead",
+      "History"
+    ],
+    "characterCount": 370,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Sigourney",
+    "slug": "sigourney",
+    "pageId": 17041,
+    "revisionId": 4095286
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Hoenn characters of the day",
+    "sourceFileName": "sigourney__17041.json",
+    "revisionTimestamp": "2024-09-01T00:22:07Z",
+    "fetchedAt": "2026-05-14T14:49:47.971Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Sigourney (Japanese: シゲモリ Shigemori) is a character of the day who appeared in Claydol Big and Tall. He refers to himself as \"the sage of Izabe Island\".\n\nSigourney wanders the Valley of Destruction where he lives, and he sells souvenirs to travelers in the area. He also tells stories of various Pokémon legends. The one he told and was about a that wrought havoc over the small town over 1000 years ago. To stop it, an ancient wizard called the \"White Sage\" used a giant stone Poké Ball to capture it. The Ball fell into Izabe Lake, where it appeared to be safe.\n\n decided to try to get the giant stone Poké Ball, but unwittingly freed the Claydol. Sigourney read from his ancient book, and with the help of Ash and the others, was able to capture the Claydol with another giant stone Poké Ball. Once again, it fell into Lake Izabe like the earlier one did. This time, Ash, Sigourney, and the others hoped it would stay there.",
+  "plainText": "Sigourney (Japanese: シゲモリ Shigemori) is a character of the day who appeared in Claydol Big and Tall. He refers to himself as \"the sage of Izabe Island\".\n\nSigourney wanders the Valley of Destruction where he lives, and he sells souvenirs to travelers in the area. He also tells stories of various Pokémon legends. The one he told and was about a that wrought havoc over the small town over 1000 years ago. To stop it, an ancient wizard called the \"White Sage\" used a giant stone Poké Ball to capture it. The Ball fell into Izabe Lake, where it appeared to be safe.\n\n decided to try to get the giant stone Poké Ball, but unwittingly freed the Claydol. Sigourney read from his ancient book, and with the help of Ash and the others, was able to capture the Claydol with another giant stone Poké Ball. Once again, it fell into Lake Izabe like the earlier one did. This time, Ash, Sigourney, and the others hoped it would stay there.\n\n==Voice actors==\n \n \n \n\n \n \n \n\nes:Sigourney\nit:Sigourney",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Sigourney (Japanese: シゲモリ Shigemori) is a character of the day who appeared in Claydol Big and Tall. He refers to himself as \"the sage of Izabe Island\".\n\nSigourney wanders the Valley of Destruction where he lives, and he sells souvenirs to travelers in the area. He also tells stories of various Pokémon legends. The one he told and was about a that wrought havoc over the small town over 1000 years ago. To stop it, an ancient wizard called the \"White Sage\" used a giant stone Poké Ball to capture it. The Ball fell into Izabe Lake, where it appeared to be safe.\n\n decided to try to get the giant stone Poké Ball, but unwittingly freed the Claydol. Sigourney read from his ancient book, and with the help of Ash and the others, was able to capture the Claydol with another giant stone Poké Ball. Once again, it fell into Lake Izabe like the earlier one did. This time, Ash, Sigourney, and the others hoped it would stay there."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Sigourney\nit:Sigourney"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Sigourney",
+    "pageType": "character",
+    "searchableText": "Sigourney\nCategory:Hoenn characters of the day\nSigourney (Japanese: シゲモリ Shigemori) is a character of the day who appeared in Claydol Big and Tall. He refers to himself as \"the sage of Izabe Island\".\n\nSigourney wanders the Valley of Destruction where he lives, and he sells souvenirs to travelers in the area. He also tells stories of various Pokémon legends. The one he told and was about a that wrought havoc over the small town over 1000 years ago. To stop it, an ancient wizard called the \"White Sage\" used a giant stone Poké Ball to capture it. The Ball fell into Izabe Lake, where it appeared to be safe.\n\n decided to try to get the giant stone Poké Ball, but unwittingly freed the Claydol. Sigourney read from his ancient book, and with the help of Ash and the others, was able to capture the Claydol with another giant stone Poké Ball. Once again, it fell into Lake Izabe like the earlier one did. This time, Ash, Sigourney, and the others hoped it would stay there.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 985,
+    "sectionCount": 2
+  }
+}

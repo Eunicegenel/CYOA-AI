@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB70",
+    "slug": "rb70",
+    "pageId": 167130,
+    "revisionId": 4256250
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb70__167130.json",
+    "revisionTimestamp": "2025-03-09T23:51:38Z",
+    "fetchedAt": "2026-05-14T15:47:59.933Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 試験 Trial) is the 70th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 試験 Trial) is the 70th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nRyouga decides to take the guardian's test.\nDespite his best efforts, Ryouga is unable to touch the statue, but he refuses to give up.\n===Debuts===\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nRyouga\nArcades' caretaker\nYappy\nMiruto\nKaruta\nRug\nGaryū (statue)\n===Pokémon===\n\n \n \n \n\n \n\nzh:RB70",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 試験 Trial) is the 70th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga decides to take the guardian's test.\nDespite his best efforts, Ryouga is unable to touch the statue, but he refuses to give up."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Ryouga\nArcades' caretaker\nYappy\nMiruto\nKaruta\nRug\nGaryū (statue)"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "zh:RB70"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB70",
+    "pageType": "chapter",
+    "searchableText": "RB70\nCategory:Pokémon RéBURST chapters\n(Japanese: 試験 Trial) is the 70th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 398,
+    "sectionCount": 4
+  }
+}

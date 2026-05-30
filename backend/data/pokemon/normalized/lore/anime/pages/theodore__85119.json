@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "title": "Theodore",
+    "slug": "theodore",
+    "pageId": 85119,
+    "revisionId": 4095588
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Sinnoh characters of the day",
+    "sourceFileName": "theodore__85119.json",
+    "revisionTimestamp": "2024-09-01T00:34:20Z",
+    "fetchedAt": "2026-05-14T14:54:18.415Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Theodore (Japanese: タクゾウ Takuzo) is a character of the day who appeared in To Thine Own Pokémon Be True!. He made it to the finals of the Pokémon Ping Pong Tournament with his and lost against O and his . He did not have a speaking role in the episode and never appeared in person, but his face appeared on the screen showing the finalists.",
+  "plainText": "Theodore (Japanese: タクゾウ Takuzo) is a character of the day who appeared in To Thine Own Pokémon Be True!. He made it to the finals of the Pokémon Ping Pong Tournament with his and lost against O and his . He did not have a speaking role in the episode and never appeared in person, but his face appeared on the screen showing the finalists.\n\n==Pokémon==\nThis listing is of Theodore's known Pokémon:\n \n\n==Pokémon competitions==\nTheodore has competed in the following :\nPokémon Ping Pong Tournament - Runner-up (To Thine Own Pokémon Be True!)\n \n \n\n \n \n \n\nfr:Theodore\nit:Theodore",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Theodore (Japanese: タクゾウ Takuzo) is a character of the day who appeared in To Thine Own Pokémon Be True!. He made it to the finals of the Pokémon Ping Pong Tournament with his and lost against O and his . He did not have a speaking role in the episode and never appeared in person, but his face appeared on the screen showing the finalists."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 2,
+      "text": "This listing is of Theodore's known Pokémon:"
+    },
+    {
+      "heading": "Pokémon competitions",
+      "level": 2,
+      "text": "Theodore has competed in the following :\nPokémon Ping Pong Tournament - Runner-up (To Thine Own Pokémon Be True!)\n \n \n\n \n \n \n\nfr:Theodore\nit:Theodore"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Theodore",
+    "pageType": "character",
+    "searchableText": "Theodore\nCategory:Sinnoh characters of the day\nTheodore (Japanese: タクゾウ Takuzo) is a character of the day who appeared in To Thine Own Pokémon Be True!. He made it to the finals of the Pokémon Ping Pong Tournament with his and lost against O and his . He did not have a speaking role in the episode and never appeared in person, but his face appeared on the screen showing the finalists.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon",
+      "Pokémon competitions"
+    ],
+    "characterCount": 576,
+    "sectionCount": 3
+  }
+}

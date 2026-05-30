@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "PMXY02",
+    "slug": "pmxy02",
+    "pageId": 193488,
+    "revisionId": 4528547
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY chapters",
+    "sourceFileName": "pmxy02__193488.json",
+    "revisionTimestamp": "2026-04-09T16:26:24Z",
+    "fetchedAt": "2026-05-14T15:33:54.567Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 学校に泊まろう！ Stay in School!) is the second chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+  "plainText": "(Japanese: 学校に泊まろう！ Stay in School!) is the second chapter of the manga created by 穴久保幸作 Kosaku Anakubo.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\n===Pokémon===\n( )\n( )\n( )",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 学校に泊まろう！ Stay in School!) is the second chapter of the manga created by 穴久保幸作 Kosaku Anakubo."
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n( )"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PMXY02",
+    "pageType": "chapter",
+    "searchableText": "PMXY02\nCategory:Pocket Monsters XY chapters\n(Japanese: 学校に泊まろう！ Stay in School!) is the second chapter of the manga created by 穴久保幸作 Kosaku Anakubo.",
+    "sectionHeadings": [
+      "Lead",
+      "Pokémon"
+    ],
+    "characterCount": 228,
+    "sectionCount": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Pokémon Paradise Resort",
+    "slug": "pokemon-paradise-resort",
+    "pageId": 231552,
+    "revisionId": 4318554
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animated series-exclusive locations",
+    "sourceFileName": "pokemon-paradise-resort__231552.json",
+    "revisionTimestamp": "2025-06-11T20:06:17Z",
+    "fetchedAt": "2026-05-14T14:43:16.428Z"
+  },
+  "classification": {
+    "estimatedPageType": "location"
+  },
+  "leadText": "The Pokémon Paradise Resort (Japanese: ポケモンパラダイスリゾート Pokémon Paradise Resort) is an -exclusive location in the Alola region on Akala Island. It appeared in I Choose Paradise!. It is revealed to be a popular place, and thus, it is hard to get reservations.\n\nIn the episode, was revealed to have reserved a place for the Ultra Guardians. and took a boat to the Pokémon Paradise Resort, taking their Ride Pokémon with them. While they were there, attempted to steal their Pokémon but were defeated.\n\nDuring the group's visit, 's friend was revealed to be a regular customer at the resort.",
+  "plainText": "The Pokémon Paradise Resort (Japanese: ポケモンパラダイスリゾート Pokémon Paradise Resort) is an -exclusive location in the Alola region on Akala Island. It appeared in I Choose Paradise!. It is revealed to be a popular place, and thus, it is hard to get reservations.\n\nIn the episode, was revealed to have reserved a place for the Ultra Guardians. and took a boat to the Pokémon Paradise Resort, taking their Ride Pokémon with them. While they were there, attempted to steal their Pokémon but were defeated.\n\nDuring the group's visit, 's friend was revealed to be a regular customer at the resort.\n\n==Care area==\nThe care area focuses on treating Pokémon. Kiawe's Charizard received treatment there courtesy of James.\n\n==Play area==\nThe play area consists of many locations where Pokémon and Trainers can relax and have fun, including a swimming pool, hot springs, two water-slides where Pokémon can go down in a raft, and a water volleyball net.\n\n==Pokémon seen in the Pokémon Paradise Resort==\n \n\n==In other languages==\n \n\n \n \n\nit:Resort Paradiso dei Pokémon\nzh:宝可梦天堂度假村",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Pokémon Paradise Resort (Japanese: ポケモンパラダイスリゾート Pokémon Paradise Resort) is an -exclusive location in the Alola region on Akala Island. It appeared in I Choose Paradise!. It is revealed to be a popular place, and thus, it is hard to get reservations.\n\nIn the episode, was revealed to have reserved a place for the Ultra Guardians. and took a boat to the Pokémon Paradise Resort, taking their Ride Pokémon with them. While they were there, attempted to steal their Pokémon but were defeated.\n\nDuring the group's visit, 's friend was revealed to be a regular customer at the resort."
+    },
+    {
+      "heading": "Care area",
+      "level": 2,
+      "text": "The care area focuses on treating Pokémon. Kiawe's Charizard received treatment there courtesy of James."
+    },
+    {
+      "heading": "Play area",
+      "level": 2,
+      "text": "The play area consists of many locations where Pokémon and Trainers can relax and have fun, including a swimming pool, hot springs, two water-slides where Pokémon can go down in a raft, and a water volleyball net."
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "it:Resort Paradiso dei Pokémon\nzh:宝可梦天堂度假村"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Paradise Resort",
+    "pageType": "location",
+    "searchableText": "Pokémon Paradise Resort\nCategory:Animated series-exclusive locations\nThe Pokémon Paradise Resort (Japanese: ポケモンパラダイスリゾート Pokémon Paradise Resort) is an -exclusive location in the Alola region on Akala Island. It appeared in I Choose Paradise!. It is revealed to be a popular place, and thus, it is hard to get reservations.\n\nIn the episode, was revealed to have reserved a place for the Ultra Guardians. and took a boat to the Pokémon Paradise Resort, taking their Ride Pokémon with them. While they were there, attempted to steal their Pokémon but were defeated.\n\nDuring the group's visit, 's friend was revealed to be a regular customer at the resort.",
+    "sectionHeadings": [
+      "Lead",
+      "Care area",
+      "Play area",
+      "In other languages"
+    ],
+    "characterCount": 1060,
+    "sectionCount": 4
+  }
+}

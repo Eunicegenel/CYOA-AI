@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "Nicole Fujita",
+    "slug": "nicole-fujita",
+    "pageId": 233169,
+    "revisionId": 4526770
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Japanese voice actors",
+    "sourceFileName": "nicole-fujita__233169.json",
+    "revisionTimestamp": "2026-04-09T15:06:29Z",
+    "fetchedAt": "2026-05-14T14:39:21.636Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-anime-lore"
+  },
+  "leadText": "Nicole Fujita (Japanese: 藤田ニコル Fujita Nikoru) is a Japanese voice actress for .",
+  "plainText": "Nicole Fujita (Japanese: 藤田ニコル Fujita Nikoru) is a Japanese voice actress for .\n\n==Biography==\nFujita was born on February 20, 1998 in , , , and is a Japanese model and . She joined the during , where she gained several roles including including and .\n\n==Pokémon roles==\n===Animation===\n==== ====\n(Pikala's; Curly)\n( )\n\n==External links==\nOfficial website\nTwitter\n\n \n \n\n \n\nit:Nicole Fujita\nja:藤田ニコル\nzh:藤田妮可",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Nicole Fujita (Japanese: 藤田ニコル Fujita Nikoru) is a Japanese voice actress for ."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Fujita was born on February 20, 1998 in , , , and is a Japanese model and . She joined the during , where she gained several roles including including and ."
+    },
+    {
+      "heading": "",
+      "level": 4,
+      "text": "(Pikala's; Curly)\n( )"
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Official website\nTwitter\n\n \n \n\n \n\nit:Nicole Fujita\nja:藤田ニコル\nzh:藤田妮可"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Nicole Fujita",
+    "pageType": "general-anime-lore",
+    "searchableText": "Nicole Fujita\nCategory:Japanese voice actors\nNicole Fujita (Japanese: 藤田ニコル Fujita Nikoru) is a Japanese voice actress for .",
+    "sectionHeadings": [
+      "Lead",
+      "Biography",
+      "",
+      "External links"
+    ],
+    "characterCount": 406,
+    "sectionCount": 4
+  }
+}

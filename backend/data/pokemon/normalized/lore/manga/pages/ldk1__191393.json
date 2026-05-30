@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "LDK1",
+    "slug": "ldk1",
+    "pageId": 191393,
+    "revisionId": 3997549
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters XY: The Legend of the Pokémon Dragon King chapters",
+    "sourceFileName": "ldk1__191393.json",
+    "revisionTimestamp": "2024-04-30T13:04:45Z",
+    "fetchedAt": "2026-05-14T15:24:00.223Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 新たな進化を求めて！！ Seek Out a New Evolution!!) is the first chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.",
+  "plainText": "(Japanese: 新たな進化を求めて！！ Seek Out a New Evolution!!) is the first chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\n\nKanna\nKunio\n\n====Pokémon debuts====\n( 's)\n(Akira's, evolved from Charmander)\n\n(Kanna's)\n\n==Characters==\n===Humans===\n\nKanna\nKunio\n\nFutoshi\n\n===Pokémon===\n( 's)\n(Akira's, evolved from Charmander)\n( 's)\n\n( 's)\n(Futoshi's)\n(Kanna's)\n\n \n \n \n\nit:LDK1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 新たな進化を求めて！！ Seek Out a New Evolution!!) is the first chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Kanna\nKunio"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( 's)\n(Akira's, evolved from Charmander)\n\n(Kanna's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Kanna\nKunio\n\nFutoshi"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( 's)\n(Akira's, evolved from Charmander)\n( 's)\n\n( 's)\n(Futoshi's)\n(Kanna's)\n\n \n \n \n\nit:LDK1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "LDK1",
+    "pageType": "chapter",
+    "searchableText": "LDK1\nCategory:Pocket Monsters XY: The Legend of the Pokémon Dragon King chapters\n(Japanese: 新たな進化を求めて！！ Seek Out a New Evolution!!) is the first chapter of the Pocket Monsters XY: The Legend of the Pokémon Dragon King manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 449,
+    "sectionCount": 5
+  }
+}

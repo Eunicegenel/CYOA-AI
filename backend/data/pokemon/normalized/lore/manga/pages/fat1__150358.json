@@ -1,0 +1,75 @@
+{
+  "identity": {
+    "title": "FAT1",
+    "slug": "fat1",
+    "pageId": 150358,
+    "revisionId": 3919622
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pocket Monsters BW: The Heroes of Fire and Thunder",
+    "sourceFileName": "fat1__150358.json",
+    "revisionTimestamp": "2024-02-14T20:05:04Z",
+    "fetchedAt": "2026-05-14T15:18:45.088Z"
+  },
+  "classification": {
+    "estimatedPageType": "general-manga-lore"
+  },
+  "leadText": "Justice Trainer Shin Appears! (Japanese: 正義のトレーナー、シン見参! Justice Trainer Shin Appears!) is the first chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga.",
+  "plainText": "Justice Trainer Shin Appears! (Japanese: 正義のトレーナー、シン見参! Justice Trainer Shin Appears!) is the first chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga.\n\n==Plot==\n \n\n==Major events==\nShin meets a cloaked traveler, who has his purloined by Team Plasma.\nIn a battle with Togari, Shin retrieves their Purrloin while his evolves.\nThe cloaked traveler reveals his name to be N, and reveals his identity by handing his cloak to a .\n\n===Debuts===\n====Humans====\n\nTogari\nN\n\n====Pokémon debuts====\n\n( )\n(Togari's)\n(N's)\n\n(Togari's)\n(Togari's)\n( )\n\n==Characters==\n===Humans===\n\nN\nTogari\ns\n\n===Pokémon===\n( ; evolves)\n( ; newly evolved)\n(N's)\n(Togari's)\n(Togari's)\n(Togari's)\n( 's)\n\n==Trivia==\n \n \n\n \n\nit:FAT1",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Justice Trainer Shin Appears! (Japanese: 正義のトレーナー、シン見参! Justice Trainer Shin Appears!) is the first chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Shin meets a cloaked traveler, who has his purloined by Team Plasma.\nIn a battle with Togari, Shin retrieves their Purrloin while his evolves.\nThe cloaked traveler reveals his name to be N, and reveals his identity by handing his cloak to a ."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Togari\nN"
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( )\n(Togari's)\n(N's)\n\n(Togari's)\n(Togari's)\n( )"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "N\nTogari\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( ; evolves)\n( ; newly evolved)\n(N's)\n(Togari's)\n(Togari's)\n(Togari's)\n( 's)"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "it:FAT1"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "FAT1",
+    "pageType": "general-manga-lore",
+    "searchableText": "FAT1\nCategory:Pocket Monsters BW: The Heroes of Fire and Thunder\nJustice Trainer Shin Appears! (Japanese: 正義のトレーナー、シン見参! Justice Trainer Shin Appears!) is the first chapter of the Pocket Monsters BW: The Heroes of Fire and Thunder manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "Trivia"
+    ],
+    "characterCount": 718,
+    "sectionCount": 7
+  }
+}

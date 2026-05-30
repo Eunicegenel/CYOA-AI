@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB48",
+    "slug": "rb48",
+    "pageId": 156228,
+    "revisionId": 4247770
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb48__156228.json",
+    "revisionTimestamp": "2025-02-25T02:39:40Z",
+    "fetchedAt": "2026-05-14T15:47:46.098Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 母 Mother) is the 48th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 母 Mother) is the 48th chapter of the Pokémon RéBURST manga.\n\n==Plot==\n \n\n==Major events==\nKaruta reads a letter his mother made for him.\nRūkamu returns, but Karuta manages to defeat him alone.\nKaruta parts ways with Ryouga, Miruto, and Yappy.\n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\nKaruta\nRyouga\nMiruto\nYappy\nKaruta's father (flashback)\nKaruta's mother (flashback)\nIroha\nVillagers\nRūkamu\nHaruna\n\n===Pokémon===\n(Karuta's)\n(Rūkamu's)\n\n \n \n \n\n \n\nzh:RB48",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 母 Mother) is the 48th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Karuta reads a letter his mother made for him.\nRūkamu returns, but Karuta manages to defeat him alone.\nKaruta parts ways with Ryouga, Miruto, and Yappy."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Karuta\nRyouga\nMiruto\nYappy\nKaruta's father (flashback)\nKaruta's mother (flashback)\nIroha\nVillagers\nRūkamu\nHaruna"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Karuta's)\n(Rūkamu's)\n\n \n \n \n\n \n\nzh:RB48"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB48",
+    "pageType": "chapter",
+    "searchableText": "RB48\nCategory:Pokémon RéBURST chapters\n(Japanese: 母 Mother) is the 48th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 489,
+    "sectionCount": 4
+  }
+}

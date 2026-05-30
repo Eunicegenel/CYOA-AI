@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Gym Badge thieves",
+    "slug": "gym-badge-thieves",
+    "pageId": 26794,
+    "revisionId": 4095175
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Chronicles characters of the day",
+    "sourceFileName": "gym-badge-thieves__26794.json",
+    "revisionTimestamp": "2024-09-01T00:17:54Z",
+    "fetchedAt": "2026-05-14T14:21:37.602Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "The Gym Badge thieves are characters of the day who appeared in The Blue Badge of Courage.\n\nThey are known traveling throughout the regions of the Pokémon world, stealing Gym Badges so they don't have to work hard for them, and they sometimes sell them to make some money. As , , and Sakura were visiting the Badge maker Kinso in Rifure Village, the thieves stole the Badges the trio had been working on. Fortunately, Sakura's tracked down the thieves. After being defeated, they returned the Badges and quickly ran away, vowing to never steal any more Gym Badges ever again.",
+  "plainText": "The Gym Badge thieves are characters of the day who appeared in The Blue Badge of Courage.\n\nThey are known traveling throughout the regions of the Pokémon world, stealing Gym Badges so they don't have to work hard for them, and they sometimes sell them to make some money. As , , and Sakura were visiting the Badge maker Kinso in Rifure Village, the thieves stole the Badges the trio had been working on. Fortunately, Sakura's tracked down the thieves. After being defeated, they returned the Badges and quickly ran away, vowing to never steal any more Gym Badges ever again.\n \n==Pokémon==\n \n \n\n \n\n==Voice actors==\n \n\n \n\n \n \n \n\nes:Ladrones de medallas\nit:Ladri delle Medaglie",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Gym Badge thieves are characters of the day who appeared in The Blue Badge of Courage.\n\nThey are known traveling throughout the regions of the Pokémon world, stealing Gym Badges so they don't have to work hard for them, and they sometimes sell them to make some money. As , , and Sakura were visiting the Badge maker Kinso in Rifure Village, the thieves stole the Badges the trio had been working on. Fortunately, Sakura's tracked down the thieves. After being defeated, they returned the Badges and quickly ran away, vowing to never steal any more Gym Badges ever again."
+    },
+    {
+      "heading": "Voice actors",
+      "level": 2,
+      "text": "es:Ladrones de medallas\nit:Ladri delle Medaglie"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Gym Badge thieves",
+    "pageType": "character",
+    "searchableText": "Gym Badge thieves\nCategory:Chronicles characters of the day\nThe Gym Badge thieves are characters of the day who appeared in The Blue Badge of Courage.\n\nThey are known traveling throughout the regions of the Pokémon world, stealing Gym Badges so they don't have to work hard for them, and they sometimes sell them to make some money. As , , and Sakura were visiting the Badge maker Kinso in Rifure Village, the thieves stole the Badges the trio had been working on. Fortunately, Sakura's tracked down the thieves. After being defeated, they returned the Badges and quickly ran away, vowing to never steal any more Gym Badges ever again.",
+    "sectionHeadings": [
+      "Lead",
+      "Voice actors"
+    ],
+    "characterCount": 675,
+    "sectionCount": 2
+  }
+}

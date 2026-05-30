@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "RB74",
+    "slug": "rb74",
+    "pageId": 168415,
+    "revisionId": 4256265
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon RéBURST chapters",
+    "sourceFileName": "rb74__168415.json",
+    "revisionTimestamp": "2025-03-10T00:15:28Z",
+    "fetchedAt": "2026-05-14T15:48:02.451Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "(Japanese: 世界の行方 The Course of the World) is the 74th chapter of the Pokémon RéBURST manga.",
+  "plainText": "(Japanese: 世界の行方 The Course of the World) is the 74th chapter of the Pokémon RéBURST manga.\n==Plot==\n \n==Major events==\nRyouga is defeated by Fraud.\nFraud flies off to the Eternal Tower.\nFraud meets Pauline again and announces to the world of his plans of wiping out all humans and Pokémon.\nGaryū meets Ryouga in his mind.\nRyouga completely fuses with , gaining its tail in the process.\n===Debuts===\n\n====Pokémon debuts====\n==Characters==\n===Humans===\nFraud\nRyouga\nMiruto\nYappy\nPauline\nGaryū \nCarola (flashback)\nHariru (flashback)\nRend (flashback)\nRurimaru (flashback)\n(flashback)\nKaruta (flashback)\nRug (flashback)\nSabin (flashback)\nArcades' caretaker\nCamera crew\nViewers\n\n===Pokémon===\n(Fraud's)\n(Fraud's)\n(Ryouga's)\n\n \n \n \n\n \n\nzh:RB74",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "(Japanese: 世界の行方 The Course of the World) is the 74th chapter of the Pokémon RéBURST manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Ryouga is defeated by Fraud.\nFraud flies off to the Eternal Tower.\nFraud meets Pauline again and announces to the world of his plans of wiping out all humans and Pokémon.\nGaryū meets Ryouga in his mind.\nRyouga completely fuses with , gaining its tail in the process."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Fraud\nRyouga\nMiruto\nYappy\nPauline\nGaryū \nCarola (flashback)\nHariru (flashback)\nRend (flashback)\nRurimaru (flashback)\n(flashback)\nKaruta (flashback)\nRug (flashback)\nSabin (flashback)\nArcades' caretaker\nCamera crew\nViewers"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Fraud's)\n(Fraud's)\n(Ryouga's)\n\n \n \n \n\n \n\nzh:RB74"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "RB74",
+    "pageType": "chapter",
+    "searchableText": "RB74\nCategory:Pokémon RéBURST chapters\n(Japanese: 世界の行方 The Course of the World) is the 74th chapter of the Pokémon RéBURST manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 737,
+    "sectionCount": 4
+  }
+}

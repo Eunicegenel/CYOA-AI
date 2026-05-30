@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Yuki Koide",
+    "slug": "yuki-koide",
+    "pageId": 298340,
+    "revisionId": 4531635
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:A Pocketful of Adventures characters",
+    "sourceFileName": "yuki-koide__298340.json",
+    "revisionTimestamp": "2026-04-14T02:14:46Z",
+    "fetchedAt": "2026-05-14T15:00:12.325Z"
+  },
+  "classification": {
+    "estimatedPageType": "character"
+  },
+  "leadText": "Yuki Koide (Japanese: 小出優希 Koide Yūki) is a main character in A Pocketful of Adventures.",
+  "plainText": "Yuki Koide (Japanese: 小出優希 Koide Yūki) is a main character in A Pocketful of Adventures. \n==History==\n===Season One===\n \n \n==Character==\nKoide is quite clumsy, which earned him comparison to a by Madoka. Despite this, he tries to do what he can for ADventure and his co-workers. With Madoka's help, he managed to demonstrate a firmer stance and impose himself before Erika, even though after that, he still maintained some of his characteristics.\n\n==Gallery==\n \n\n==Names==\n \n==References==",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Yuki Koide (Japanese: 小出優希 Koide Yūki) is a main character in A Pocketful of Adventures."
+    },
+    {
+      "heading": "Character",
+      "level": 2,
+      "text": "Koide is quite clumsy, which earned him comparison to a by Madoka. Despite this, he tries to do what he can for ADventure and his co-workers. With Madoka's help, he managed to demonstrate a firmer stance and impose himself before Erika, even though after that, he still maintained some of his characteristics."
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Yuki Koide",
+    "pageType": "character",
+    "searchableText": "Yuki Koide\nCategory:A Pocketful of Adventures characters\nYuki Koide (Japanese: 小出優希 Koide Yūki) is a main character in A Pocketful of Adventures.",
+    "sectionHeadings": [
+      "Lead",
+      "Character"
+    ],
+    "characterCount": 489,
+    "sectionCount": 2
+  }
+}

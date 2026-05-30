@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "title": "SP29",
+    "slug": "sp29",
+    "pageId": 182544,
+    "revisionId": 4114582
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Ash & Pikachu chapters",
+    "sourceFileName": "sp29__182544.json",
+    "revisionTimestamp": "2024-09-16T20:31:02Z",
+    "fetchedAt": "2026-05-14T15:50:09.583Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Battle Till The End! Drake, One Of The Elite Four! (Japanese: 対決！最強四天王 &bull; ゲンジ！ Showdown! The Strongest Elite Four - !) is the twenty ninth chapter of the Ash & Pikachu manga.",
+  "plainText": "Battle Till The End! Drake, One Of The Elite Four! (Japanese: 対決！最強四天王 &bull; ゲンジ！ Showdown! The Strongest Elite Four - !) is the twenty ninth chapter of the Ash & Pikachu manga.\n\n==Plot==\n \n\n==Major events==\n\n===Debuts===\n====Humans====\nDrake\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n\nMax\nDrake\n\n===Pokémon===\n( )\n( )\n(Drake's)\n(Drake's)\n(Trainer's)\n\n \n \n\n \n\nit:SP29",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Battle Till The End! Drake, One Of The Elite Four! (Japanese: 対決！最強四天王 &bull; ゲンジ！ Showdown! The Strongest Elite Four - !) is the twenty ninth chapter of the Ash & Pikachu manga."
+    },
+    {
+      "heading": "Humans",
+      "level": 4,
+      "text": "Drake"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Max\nDrake"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Drake's)\n(Drake's)\n(Trainer's)\n\n \n \n\n \n\nit:SP29"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "SP29",
+    "pageType": "chapter",
+    "searchableText": "SP29\nCategory:Ash & Pikachu chapters\nBattle Till The End! Drake, One Of The Elite Four! (Japanese: 対決！最強四天王 &bull; ゲンジ！ Showdown! The Strongest Elite Four - !) is the twenty ninth chapter of the Ash & Pikachu manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Humans",
+      "Humans",
+      "Pokémon"
+    ],
+    "characterCount": 379,
+    "sectionCount": 4
+  }
+}

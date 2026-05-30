@@ -1,0 +1,69 @@
+{
+  "identity": {
+    "title": "PASM06",
+    "slug": "pasm06",
+    "pageId": 224083,
+    "revisionId": 4549081
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "pasm06__224083.json",
+    "revisionTimestamp": "2026-05-11T01:12:34Z",
+    "fetchedAt": "2026-05-14T15:28:19.632Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "The Party Crasher and Guzma the Destroyer (Japanese: 乱入！！ 破壊者グズマ！ Intrusion!! Guzma the Destroyer!) is the sixth chapter of the of the Pokémon Adventures manga.",
+  "plainText": "The Party Crasher and Guzma the Destroyer (Japanese: 乱入！！ 破壊者グズマ！ Intrusion!! Guzma the Destroyer!) is the sixth chapter of the of the Pokémon Adventures manga.\n\n==Plot==\n \n==Major events==\n \nGladion defeats Hau and advances to the next round.\nbattles against Guzma and wins, advancing him to the final round.\nis revealed to have obtained a , a , and an .\nMoon and Gladion begin their battle against each other.\n \n \n\n===Debuts===\n\n====Pokémon debuts====\n( 's)\n( 's)\n\n==Characters==\n===Humans===\n\nProfessor Kukui/Masked Royal\nHala\nOlivia\nNanu\nGuzma\nGladion\nHau\nMolayne (silhouette)\nChairtarō\ns\n\n===Pokémon===\n(Cent; Alolan form; 's)\n( ; 's)\n( 's; debut)\n( 's; debut)\n(Alolan form; 's)\n( )\n(Gladion's)\n(Hau's)\n(Guzma's)\n(Guzma's)\n\n \n\n==In other languages==\n \n\n \n \n \n\nde:Der zerstörerische Bromley\nes:PMSSM06\nfr:Chapitre 6 (Pocket Monsters Special Soleil et Lune)\nit:PASM06\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第6话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "The Party Crasher and Guzma the Destroyer (Japanese: 乱入！！ 破壊者グズマ！ Intrusion!! Guzma the Destroyer!) is the sixth chapter of the of the Pokémon Adventures manga."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Gladion defeats Hau and advances to the next round.\nbattles against Guzma and wins, advancing him to the final round.\nis revealed to have obtained a , a , and an .\nMoon and Gladion begin their battle against each other."
+    },
+    {
+      "heading": "Pokémon debuts",
+      "level": 4,
+      "text": "( 's)\n( 's)"
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "Professor Kukui/Masked Royal\nHala\nOlivia\nNanu\nGuzma\nGladion\nHau\nMolayne (silhouette)\nChairtarō\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "(Cent; Alolan form; 's)\n( ; 's)\n( 's; debut)\n( 's; debut)\n(Alolan form; 's)\n( )\n(Gladion's)\n(Hau's)\n(Guzma's)\n(Guzma's)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:Der zerstörerische Bromley\nes:PMSSM06\nfr:Chapitre 6 (Pocket Monsters Special Soleil et Lune)\nit:PASM06\nzh:宝可梦特别篇 太阳·月亮·究极之日·究极之月篇 第6话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PASM06",
+    "pageType": "chapter",
+    "searchableText": "PASM06\nCategory:Pokémon Adventures chapters\nThe Party Crasher and Guzma the Destroyer (Japanese: 乱入！！ 破壊者グズマ！ Intrusion!! Guzma the Destroyer!) is the sixth chapter of the of the Pokémon Adventures manga.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Pokémon debuts",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 901,
+    "sectionCount": 6
+  }
+}

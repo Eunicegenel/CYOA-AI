@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "title": "Pokémon Seasons 1-20: Ultra Collection",
+    "slug": "pokemon-seasons-1-20-ultra-collection",
+    "pageId": 266396,
+    "revisionId": 4346162
+  },
+  "canon": "anime",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Animation home video",
+    "sourceFileName": "pokemon-seasons-1-20-ultra-collection__266396.json",
+    "revisionTimestamp": "2025-07-28T20:16:25Z",
+    "fetchedAt": "2026-05-14T14:43:27.309Z"
+  },
+  "classification": {
+    "estimatedPageType": "pokemon-related"
+  },
+  "leadText": "Pokémon Seasons 1-20: Ultra Collection is a Region 4 DVD released by in Australia on November 7, 2018 . It contains a total of 118 discs with a total runtime of approximately 357 hours from the Slimpack releases of the first 20 seasons of . Its catalogue number is BHE8026.\n\nThe DVDs included in this set are encoded in the color-coding system, and are region-locked to . It utilises , and aspect ratios.",
+  "plainText": "Pokémon Seasons 1-20: Ultra Collection is a Region 4 DVD released by in Australia on November 7, 2018 . It contains a total of 118 discs with a total runtime of approximately 357 hours from the Slimpack releases of the first 20 seasons of . Its catalogue number is BHE8026.\n\nThe DVDs included in this set are encoded in the color-coding system, and are region-locked to . It utilises , and aspect ratios.\n\n==Contents==\n \n\n==External links==\nPokémon Seasons 1-20: Ultra Collection on Shock Entertainment's website\nPokémon Seasons 1-20: Ultra Collection on Amazon Australia's website",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Pokémon Seasons 1-20: Ultra Collection is a Region 4 DVD released by in Australia on November 7, 2018 . It contains a total of 118 discs with a total runtime of approximately 357 hours from the Slimpack releases of the first 20 seasons of . Its catalogue number is BHE8026.\n\nThe DVDs included in this set are encoded in the color-coding system, and are region-locked to . It utilises , and aspect ratios."
+    },
+    {
+      "heading": "External links",
+      "level": 2,
+      "text": "Pokémon Seasons 1-20: Ultra Collection on Shock Entertainment's website\nPokémon Seasons 1-20: Ultra Collection on Amazon Australia's website"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "Pokémon Seasons 1-20: Ultra Collection",
+    "pageType": "pokemon-related",
+    "searchableText": "Pokémon Seasons 1-20: Ultra Collection\nCategory:Animation home video\nPokémon Seasons 1-20: Ultra Collection is a Region 4 DVD released by in Australia on November 7, 2018 . It contains a total of 118 discs with a total runtime of approximately 357 hours from the Slimpack releases of the first 20 seasons of . Its catalogue number is BHE8026.\n\nThe DVDs included in this set are encoded in the color-coding system, and are region-locked to . It utilises , and aspect ratios.",
+    "sectionHeadings": [
+      "Lead",
+      "External links"
+    ],
+    "characterCount": 581,
+    "sectionCount": 2
+  }
+}

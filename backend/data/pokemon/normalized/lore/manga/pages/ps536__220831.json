@@ -1,0 +1,63 @@
+{
+  "identity": {
+    "title": "PS536",
+    "slug": "ps536",
+    "pageId": 220831,
+    "revisionId": 4210492
+  },
+  "canon": "manga",
+  "source": {
+    "provider": "Bulbapedia",
+    "sourceType": "MediaWiki API",
+    "sourceCategory": "Category:Pokémon Adventures chapters",
+    "sourceFileName": "ps536__220831.json",
+    "revisionTimestamp": "2024-12-26T02:07:30Z",
+    "fetchedAt": "2026-05-14T15:45:35.960Z"
+  },
+  "classification": {
+    "estimatedPageType": "chapter"
+  },
+  "leadText": "Cold Storage Battle (Japanese: VSキュレムI VS Kyurem I), titled VS Kyurem I in the Shogakukan Asia translation, is the 536th chapter of the Pokémon Adventures manga, and the 12th chapter of the .\n\nIt is subtitled Kyurem I (Japanese: コンテナ・バトル Container Battle) in the VIZ Media translation and Cold Storage Battle in the Shogakukan Asia translation.",
+  "plainText": "Cold Storage Battle (Japanese: VSキュレムI VS Kyurem I), titled VS Kyurem I in the Shogakukan Asia translation, is the 536th chapter of the Pokémon Adventures manga, and the 12th chapter of the .\n\nIt is subtitled Kyurem I (Japanese: コンテナ・バトル Container Battle) in the VIZ Media translation and Cold Storage Battle in the Shogakukan Asia translation.\n\n==Plot==\n \n\n==Major events==\nZinzolin reveals he managed to capture two years ago.\nColress tells Zinzolin to give him , but Zinzolin refuses.\ndrives off the s and proceeds to call her mother.\nattempts to get Hugh to explain his connection to Team Plasma, but Hugh refuses and runs off.\nsuccessfully arrests Bronius and Ryoku, but soon feels a chill in the air.\nBlake is revealed to have added to his team.\nBlake has Looker take care of Bronius and Ryoku while he sets off on to the Relic Passage.\n\n \n \n\n===Debuts===\n\n====Pokémon debuts====\n\n==Characters==\n===Humans===\n(flashback)\n\n(flashback)\nIris (flashback)\nRoxie\nMarlon (flashback)\nColress\nGhetsis (fantasy)\nHugh\nZinzolin\nGorm (fantasy)\nRood (fantasy)\nBronius\nRyoku\nGiallo (fantasy)\nLeo (flashback)\ns\n\n===Pokémon===\n( )\n( )\n(Kelden; 's)\n(Foongy; 's)\n( )\n(Roxie's)\n(Colress's)\n( 's)\n( s'; multiple)\n\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n(fantasy)\n\n==Trivia==\n==In other languages==\n \n \n \n \n\nde:VS. Kyurem I\nes:PMS536\nfr:Chapitre 536 (Pocket Monsters Special)\nit:LGA536\nja:ポケットモンスターSPECIAL 第536話\nzh:宝可梦特别篇 第536话",
+  "sections": [
+    {
+      "heading": "Lead",
+      "level": 0,
+      "text": "Cold Storage Battle (Japanese: VSキュレムI VS Kyurem I), titled VS Kyurem I in the Shogakukan Asia translation, is the 536th chapter of the Pokémon Adventures manga, and the 12th chapter of the .\n\nIt is subtitled Kyurem I (Japanese: コンテナ・バトル Container Battle) in the VIZ Media translation and Cold Storage Battle in the Shogakukan Asia translation."
+    },
+    {
+      "heading": "Major events",
+      "level": 2,
+      "text": "Zinzolin reveals he managed to capture two years ago.\nColress tells Zinzolin to give him , but Zinzolin refuses.\ndrives off the s and proceeds to call her mother.\nattempts to get Hugh to explain his connection to Team Plasma, but Hugh refuses and runs off.\nsuccessfully arrests Bronius and Ryoku, but soon feels a chill in the air.\nBlake is revealed to have added to his team.\nBlake has Looker take care of Bronius and Ryoku while he sets off on to the Relic Passage."
+    },
+    {
+      "heading": "Humans",
+      "level": 3,
+      "text": "(flashback)\n\n(flashback)\nIris (flashback)\nRoxie\nMarlon (flashback)\nColress\nGhetsis (fantasy)\nHugh\nZinzolin\nGorm (fantasy)\nRood (fantasy)\nBronius\nRyoku\nGiallo (fantasy)\nLeo (flashback)\ns"
+    },
+    {
+      "heading": "Pokémon",
+      "level": 3,
+      "text": "( )\n( )\n(Kelden; 's)\n(Foongy; 's)\n( )\n(Roxie's)\n(Colress's)\n( 's)\n( s'; multiple)\n\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n(flashback)\n(fantasy)"
+    },
+    {
+      "heading": "In other languages",
+      "level": 2,
+      "text": "de:VS. Kyurem I\nes:PMS536\nfr:Chapitre 536 (Pocket Monsters Special)\nit:LGA536\nja:ポケットモンスターSPECIAL 第536話\nzh:宝可梦特别篇 第536话"
+    }
+  ],
+  "aiReadySummary": {
+    "title": "PS536",
+    "pageType": "chapter",
+    "searchableText": "PS536\nCategory:Pokémon Adventures chapters\nCold Storage Battle (Japanese: VSキュレムI VS Kyurem I), titled VS Kyurem I in the Shogakukan Asia translation, is the 536th chapter of the Pokémon Adventures manga, and the 12th chapter of the .\n\nIt is subtitled Kyurem I (Japanese: コンテナ・バトル Container Battle) in the VIZ Media translation and Cold Storage Battle in the Shogakukan Asia translation.",
+    "sectionHeadings": [
+      "Lead",
+      "Major events",
+      "Humans",
+      "Pokémon",
+      "In other languages"
+    ],
+    "characterCount": 1432,
+    "sectionCount": 5
+  }
+}
