@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Animation characters (Pokémon)",
+  "requestedTitle": "Pershie",
+  "resolvedTitle": "Pershie",
+  "pageId": 234195,
+  "revisionId": 4352699,
+  "parentRevisionId": 4132741,
+  "revisionTimestamp": "2025-08-05T03:09:59Z",
+  "fetchedAt": "2026-05-14T14:41:10.143Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "anime",
+  "loreScope": "Category:Animation recursive crawl",
+  "wikitext": "{{AnimePokémonInfobox\n|type1=Dark\n|ball=Unknown\n|nickname=Pershie\n|jnickname=ペルちゃん\n|tmnickname=Per-chan\n|pokemonname=Persian\n|image=[[File:Madame Pershie.png|250px]]\n|caption=Pershie\n|caught=yes\n|epnum=SM007\n|epname=That's Why the Litten is a Scamp!\n|gender=Unknown\n|prevonum=053A\n|noevo=incap\n|current=[[Hau'oli City]]\n|enva1=[[Kate Bristol]] <small>([[SM007]])</small><br>[[Laurie Hymes]] <small>([[SM083]]-present)</small>\n|java1=[[Risa Shimizu]]}}\n'''Pershie''' (Japanese: '''ペルちゃん''' ''Per-chan'') is an {{rf|Alolan}} {{p|Persian}} owned by a {{tc|Madame}}. It tends to wander around the streets of [[Hau'oli City]].\n\n==History==\n[[File:Madame SM.png|thumb|left|250px|Pershie's Trainer]]\nPershie first appeared in ''[[SM007|That's Why the Litten is a Scamp!]]'', where it stole food from {{AP|Litten}}. It was later seen confronting Litten but was stopped by {{Ash}} and {{AP|Pikachu}}. It later reappeared to seek revenge, only to be seen off.\n\nIn ''[[SM083|Dummy, You Shrunk the Kids!]]'', it chased Ash, {{an|Lillie}}, and {{an|Sophocles}} after they were shrunk by {{an|Faba}}'s latest invention. Later, [[Mallow's Tsareena]] intervened and shaved off some of Pershie's fur.\n\nIn ''[[SM099|We Know Where You're Going, Eevee!]]'', Pershie was sitting outside a store while its {{pkmn|Trainer}} was trying on several pieces of jewelry. It soon spotted an [[Sandy|Eevee]] and gave chase. [[Lana's Popplio]] went on to save {{p|Eevee}} using its {{m|Aqua Jet}}, and the trail of water led Pershie to slip. Though Pershie saw Popplio and Eevee fall into a canal, it abandoned the pursuit after its Trainer called it back.\n\n==Personality and characteristics==\nPershie appears to live a life of luxury and is treated more like a pet by its {{pkmn|Trainer}}. However, it is characteristically cruel and manipulative. It enjoys tormenting its victims and is a non-relenting pursuer. It uses its sheer size and sharp claws to intimidate opponents. Despite its manner, it will quickly flee when injured in {{pkmn|battle}}.\n\nIts cunning behavior was showcased in ''[[SM099|We Know Where You're Going, Eevee!]]'', where it pretended to be friendly in order to lure an [[Sandy|Eevee]] to come closer.\n\n==Moves used==\n{{anmov/h|dark||Pershie {{#switch: {{#expr: {{#time: U}} mod 2}}|0=Fury Swipes|1=Power Gem}}.png|Using {{#switch: {{#expr: {{#time: U}} mod 2}}|0=Fury Swipes|1=Power Gem}}}}\n{{anmov|normal|Fury Swipes|SM007|That's Why the Litten is a Scamp!}}\n{{anmov|rock|Power Gem|SM007|That's Why the Litten is a Scamp!}}\n{{anmov/f|dark}}\n\n==Related articles==\n{{Animespecies|Persian}}\n\n{{Project Anime notice|no}}\n\n[[Category:Animation characters (Pokémon)]]\n\n[[it:Pershie]]"
+}

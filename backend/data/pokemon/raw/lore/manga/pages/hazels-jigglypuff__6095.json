@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Manga characters (Pokémon)",
+  "requestedTitle": "Hazel's Jigglypuff",
+  "resolvedTitle": "Hazel's Jigglypuff",
+  "pageId": 6095,
+  "revisionId": 4528330,
+  "parentRevisionId": 4527440,
+  "revisionTimestamp": "2026-04-09T16:16:00Z",
+  "fetchedAt": "2026-05-14T15:21:20.464Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "manga",
+  "loreScope": "Category:Manga recursive crawl",
+  "wikitext": "{{incomplete}}\n{{AnimePokémonInfobox|\nnickname=Jigglypuff |\njnickname=プリン |\ntmnickname=Purin |\nball=Unknown |\nimage=[[File:Jigglypuff MPJ.png|200px]] |\ncaught=yes |\ncaption=Jigglytuff |\ngender=Female |\nability=Unknown |\nnature=Unknown |\ntype1=Normal |\nmedia=manga |\nfirststagename=Jigglypuff |\nprevonum=039 |\npokemonname=Jigglypuff |\nevo=yes |\nepnum=PPP03 |\nepname=Oh, that Cute, Cute Jigglypuff! |\ncurrent=Unknown |\nva=no |\n}}\n\n'''Jigglypuff''' (Japanese: '''プリン''' ''Purin'') is one of the main characters of [[Magical Pokémon Journey]].\n<!--\n== History ==-->\n\n== Personality and characteristics ==\nJigglypuff's family is apparently rich, since she and her sister {{MPJ|Wigglytuff}} live in a mansion with maids and a butler {{MPJ|Squirtle}}. \n\nJigglypuff is very spoiled. She's used to being treated like a little princess and always getting her own way. Whenever she gets mad, she puffs up to an enormous size. She also puffs up to float, and once when she fell from a cliff. She also loves to cook, but everything she makes tastes absolutely vile. In fact, some of the food she makes has almost killed people, or made them explode or faint. Only {{p|Snorlax}} can handle her food.\n\nShe likes to follow butterflies.\n\n==Moves used==\n{{anmov/h|Normal||{{#switch: {{#expr: {{#time: U}} mod 5}}|0=Jigglypuff Disable|1=Jigglypuff Flash|2=Jigglypuff Sing|3=Pichu Cleffa Jigglypuff Igglybuff Charm|4=Jigglypuff Body Slam Igglybuff Pound}} MPJ.png|Using {{#switch: {{#expr: {{#time: U}} mod 5}}|0=Disable|1=Flash|2=Sing|3=Charm|4=Body Slam}}}}\n{{anmov|Normal|Disable|PPP03|Oh, that Cute, Cute Jigglypuff!}}\n{{anmov|Normal|Flash|PPP07|Adventuring the Stone}}\n{{anmov|Normal|Sing|PPP10|Panic at the Cherry Blossom Festival}}\n{{anmov|Normal|Charm|PPP53|The Accidental Treasure}}\n{{anmov|Normal|Body Slam|PPP53|The Accidental Treasure}}\n{{anmov/f|Normal}}\n\n==Related articles==\n{{Animespecies|Jigglypuff}}\n{{MPJ characters}}\n{{stub|Manga}}\n{{DoubleProjectTag|Manga|CharacterDex}}\n\n{{DEFAULTSORT:Jigglypuff}}\n[[Category:Magical Pokémon Journey characters]]\n[[Category:Manga characters (Pokémon)]]\n[[Category:Female characters (Pokémon)]]\n\n[[fr:Rondoudou (PiPiPi)]]\n[[it:Jigglypuff di Nocciola]]\n[[ja:プリン (ポケットモンスター PiPiPi★アドベンチャー)]]"
+}

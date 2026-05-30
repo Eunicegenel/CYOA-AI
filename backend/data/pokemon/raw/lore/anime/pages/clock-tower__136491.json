@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Animated series-exclusive locations",
+  "requestedTitle": "Clock tower",
+  "resolvedTitle": "Clock tower",
+  "pageId": 136491,
+  "revisionId": 4362867,
+  "parentRevisionId": 4352985,
+  "revisionTimestamp": "2025-08-22T13:00:30Z",
+  "fetchedAt": "2026-05-14T14:10:09.961Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "anime",
+  "loreScope": "Category:Animation recursive crawl",
+  "wikitext": "{{AnimeLocationInfobox\n|name=Clock tower\n|image=Clock tower anime.png\n|characters=時計塔\n|japanese=Clock tower\n|imagesize=250px\n|region=Unova\n|epicode=BW008\n|episode=Saving Darmanitan From the Bell!\n}}\n\nThe '''clock tower''' (Japanese: '''{{tt|時計塔|とけいとう}}''' ''clock tower'') is an old landmark that stands in an unnamed, {{pkmn|animated series}}-exclusive town in [[Unova]]. It appeared in ''[[BW008|Saving Darmanitan From the Bell!]]''.\n\nAccording to [[Nurse Joy]], the clock tower is the oldest building in town. It was also home to {{p|Darmanitan}} and its two {{p|Darumaka}} friends, but suddenly, Darmanitan disappeared and the Darumaka started to steal food from people. Since the clock and bell did not work anymore, plans were made to demolish it.\n\n{{Ash}} and {{ashfr}} followed the two Darumaka to the clock tower, which was where they discovered the missing Darmanitan in {{a|Zen Mode}}. They also discovered that Darmanitan was using its {{t|Psychic}} powers to keep the clock tower's bell from crashing to the floor. The hook holding the bell broke and Darmanitan caught it before it fell, but it did not have the strength to hold its weight and subsequently went into Zen Mode. The Darumaka stole food to feed Darmanitan and ultimately save the tower from being destroyed.\n\nAsh and {{an|Cilan}} used their Pokémon to repair the hook and reattach the bell to the ceiling, finally freeing Darmanitan and saving the tower. As the bell started working again, it was decided that it would not be demolished but instead restored.\n\n==Pokémon seen in the clock tower==\n{| style=\"margin:auto; width: 50%\"\n|-\n| {{ActivePoké|Clock tower|Darumaka|Clock tower Darumaka.png|Fire|link=no|nick=Darumaka (×2)}}\n| {{ActivePoké|Clock tower|Darmanitan|Clock tower Darmanitan.png|Fire|{{#switch: {{#expr: {{#time: U}} mod 2}}|0=Fire|1=Psychic}}|link=no}}\n|\n|}\n\n==In other languages==\n{{langtable|color={{colorschemelight|Unova}}|bordercolor={{colorschemedark|Unova}}\n|it=Torre dell'orologio\n|pl=Wieża Zegarowa\n}}\n{{-}}\n{{Unovaanime}}\n{{DoubleProjectTag|Anime|Locations|locations in the animated series.}}\n\n[[Category:Towers]]\n\n[[it:Torre dell'orologio]]\n[[zh:鐘塔]]"
+}

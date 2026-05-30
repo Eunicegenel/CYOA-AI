@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Animated series-exclusive locations",
+  "requestedTitle": "Bloomingvale",
+  "resolvedTitle": "Bloomingvale",
+  "pageId": 31960,
+  "revisionId": 4261231,
+  "parentRevisionId": 4207260,
+  "revisionTimestamp": "2025-03-19T21:51:39Z",
+  "fetchedAt": "2026-05-14T14:05:33.012Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "anime",
+  "loreScope": "Category:Animation recursive crawl",
+  "wikitext": "{{AnimeLocationInfobox\n|name=Bloomingvale\n|characters=ソーラータウン\n|japanese=Solar Town\n|image=Bloomingvale.png\n|imagesize=250px\n|region=Johto\n|epicode=EP135\n|episode=Grin to Win!\n}}\n\n'''Bloomingvale''' (Japanese: '''ソーラータウン''' ''Solar Town'') is an {{pkmn|animated series}}-exclusive town in [[Johto]]. It is located between [[Violet City]] and [[Azalea Town]].\n\nBloomingvale is famous for its {{p|Sunflora}}, and it hosts the [[Sunflora Festival]] every year to showcase the Sun Pokémon in all its glory. Its warm climate and access to mountain fresh waters make it the perfect location to raise Sunflora. The town is spread out over several terraced hills, and locals take pride in keeping their gardens green. Most of the {{pkmn|Trainer}}s in Bloomingvale, including the resident [[Nurse Joy]], [[Sonrisa]], and her neighbor {{OBP|Cyrus|EP135}}, have Sunflora. Locals train their Sunflora all year for the Sunflora Festival in various ways, such as tanning, weight lifting, and keeping them happy.\n\n==Pokémon seen in Bloomingvale==\n{| style=\"margin:left; width: 33.3%\"\n|-\n| {{ActivePoké|Bloomingvale|Sunflora|{{#switch: {{#expr: {{#time: U}} mod 3}}|0=Cyrus|1=Sonrisa|2=Nurse Joy}} Sunflora.png|disp=Sunflora (multiple)|Grass|link=no}}\n|}\n\n==In other languages==\n{{langtable|color={{colorschemelight|Johto}}|bordercolor={{colorschemedark|Johto}}\n|zh_yue=陽光鎮\n|zh_cmn=陽光鎮 / 阳光镇 ''{{tt|Yángguāng Zhèn|Sunshine Town}}''\n|cs=Květné údolí\n|fi=Kukkaislehto\n|de=Bloomingvale\n|it=Bloomingvale<br>Valfiorita{{tt|*|Redub}}\n|pl=Bloomingvale\n|es_la=Valle Florido\n|es_eu=Bloomingvale\n}}\n\n{{Johtoanime}}\n{{DoubleProjectTag|Anime|Locations|locations in the animated series.}}\n[[Category:Towns]]\n\n[[de:Bloomingvale]]\n[[es:Valle Florido/Bloomingvale]]\n[[it:Bloomingvale]]\n[[zh:陽光鎮（城都）]]"
+}

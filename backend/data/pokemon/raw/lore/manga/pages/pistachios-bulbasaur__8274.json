@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Manga characters (Pokémon)",
+  "requestedTitle": "Pistachio's Bulbasaur",
+  "resolvedTitle": "Pistachio's Bulbasaur",
+  "pageId": 8274,
+  "revisionId": 4528635,
+  "parentRevisionId": 4527324,
+  "revisionTimestamp": "2026-04-09T16:32:07Z",
+  "fetchedAt": "2026-05-14T15:30:24.109Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "manga",
+  "loreScope": "Category:Manga recursive crawl",
+  "wikitext": "{{cleanup}}\n{{incomplete}}\n{{AnimePokémonInfobox|\nnickname=Bulbasaur |\njnickname=ダネリーナ |\ntmnickname=Danerina |\nimage=[[File:Bulbasaur MPJ.png|180px]]|\ncaption=Bulbasaur |\nlocation=[[Kanto]] |\ngender=Female |\nnature=Unknown |\ntype1=Grass |\ntype2=Poison |\nmedia=manga |\nepnum=PPP20 |\nepname=Green-Eyed Bulbasaur |\nfirststagename=Bulbasaur |\nsecondstagename=Bulbasaur |\nprevonum=001|\nevo1num=011|\ncurrent=[[Party|With Pistachio]] |\nva=no |\n}}\n'''Bulbasaur''' (Japanese: '''ダネリーナ''' ''Danerina'') is a female {{p|Bulbasaur}} belonging to [[Pistachio]] in [[Magical Pokémon Journey]]. She has a crush on Pistachio and becomes jealous when he is seen talking to other females.\n\nWhile Bulbasaur has a nickname in Japanese, she was not given one in the English translations of the manga. In the Pokémon File at the end of {{Vol|Magical Pokémon Journey|4}}, she is identified as \"Bulba\", but in all of the manga chapters, she is simply named \"Bulbasaur\".\n\n==Moves used==\n{{anmov/h|Grass|Poison|Bulbasaur {{#switch: {{#expr: {{#time: U}} mod 2}}|0=Vine Whip|1=Razor Leaf}} MPJ.png|Using {{#switch: {{#expr: {{#time: U}} mod 2}}|0=Vine Whip|1=Razor Leaf}}}}\n{{anmov|Grass|Vine Whip|PPP21|Follow that Love Potion!}}\n{{anmov|Grass|Razor Leaf|PPP36|Green Jealousy}}\n{{anmov/f|Poison}}\n\n==Names==\n{| class=\"roundy\" align=\"left\" style=\"background: #{{grass color}}; border: 3px solid #{{grass color dark}}\"\n|- align=center\n! style=\"{{roundytl|5px}}\" | Language\n! Name\n! style=\"{{roundytr|5px}}\" | Origin\n|- style=\"background:#FFF;\"\n|Japanese\n|ダネリーナ ''Danerina''\n|Comes from {{tt|Fushigidane|Bulbasaur}}\n|- style=\"background:#FFF;\"\n|English\n|Bulbasaur\n|No nickname in the English translation\n|- style=\"background:#FFF;\"\n|French\n|Bulbina\n|Comes from \"Bulbasaur\"\n|}\n{{-}}\n\n==Related articles==\n{{Animespecies|Bulbasaur}}\n{{stub|Manga}}<br>\n{{MPJ characters}}\n{{DoubleProjectTag|Manga|CharacterDex}}\n[[Category:Magical Pokémon Journey characters]]\n[[Category:Manga characters (Pokémon)|Bulbasaur]]\n[[Category:Female characters (Pokémon)|Bulbasaur]]\n\n[[it:Bulbasaur di Pistachio]]\n[[ja:ダネリーナ]]"
+}

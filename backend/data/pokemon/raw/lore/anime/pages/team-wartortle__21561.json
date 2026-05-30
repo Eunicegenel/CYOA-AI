@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Animation characters (Pokémon)",
+  "requestedTitle": "Team Wartortle",
+  "resolvedTitle": "Team Wartortle",
+  "pageId": 21561,
+  "revisionId": 4388441,
+  "parentRevisionId": 4185754,
+  "revisionTimestamp": "2025-09-25T18:57:33Z",
+  "fetchedAt": "2026-05-14T14:53:37.820Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "anime",
+  "loreScope": "Category:Animation recursive crawl",
+  "wikitext": "{{incomplete|needs=Personality and characteristics section}}\n{{AnimePokémonInfobox|\ntype1=Water|\nnickname=Team Wartortle|\njnickname=チーム・カメール|\ntmnickname=Team Kameil|\nball=Unknown |\nimage=[[File:Team Wartortle.png|255px]] |\ncaption=Team Wartortle|\nlocation=Unknown |\nability=Unknown |\nepnum=EP106|\nepname=The Pokémon Water War|\nprevonum=008|\npokemonname=Wartortle|\ncurrent=[[Ascorbia Island]]|\njava1=[[Yuko Mita]] and various others|\nenva1=[[Eric Stuart]] (all)\n}}\n'''Team Wartortle''' (Japanese: '''チーム・カメール''' ''Team Kameil'') is a group of firefighting {{p|Wartortle}} based in the [[Orange Islands]]. They are led by [[Captain Aidan]].\n\n==History==\n[[File:Team Wartortle leader.png|left|thumb|220px|The leader of Team Wartortle]]\nTeam Wartortle debuted in ''[[EP106|The Pokémon Water War]]''. While on [[Ascorbia Island]], a fire broke out at an old warehouse. {{Ash}} and {{an|Misty}} had their Pokémon attempt to put the fire out, but it did little to stop the flames. When Team Wartortle arrived, they quickly put the fire out. However, the leader and {{AP|Squirtle}} soon developed a rivalry. Squirtle wanted to prove to the head Wartortle that it was just as strong as its [[Evolution|evolved]] form. It proved it when the leader and Squirtle worked together to save a little boy from a burning building. It seemed that after the rescue, the rivalry was settled.\n\nHowever, in ''[[EP147|The Fire-ing Squad!]]'', it started back up again. During a [[Fire and Rescue Grand Prix|Pokémon firefighting competition]], Squirtle was reunited with not only Team Wartortle, but also its old friends from the [[Squirtle Squad]]. Team Wartortle believed they were going to be victorious in the competition, but once again Squirtle refused to be beaten by its evolved form. With its help, the Squirtle Squad won the competition.\n\n==Moves used==\n{{anmov/h|water||Team Wartortle {{#switch: {{#expr: {{#time: U}} mod 2}}|0=Water Gun|1=Withdraw}}.png|Using {{#switch: {{#expr: {{#time: U}} mod 2}}|0=Water Gun|1=Withdraw}}}}\n{{anmov|water|Water Gun|EP106|The Pokémon Water War}}\n{{anmov|water|Withdraw|EP106|The Pokémon Water War}}\n{{anmov/f|water}}\n\n==In other languages==\n{{langtable|color={{water color}}|bordercolor={{water color light}}\n|it=Team Wartortle\n|pl=Zespół Wartortli}}\n\n==Related articles==\n{{Animespecies|Wartortle}}\n{{Project Anime notice}}\n[[Category:Animation characters (Pokémon)]]\n\n[[es:Equipo Wartortle]]\n[[it:Team Wartortle]]\n[[zh:卡咪龟消防队]]"
+}

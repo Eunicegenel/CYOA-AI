@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Pokémon Mystery Dungeon Ginji's Rescue Team characters",
+  "requestedTitle": "Mudkip (Ginji's Rescue Team)",
+  "resolvedTitle": "Mudkip (Ginji's Rescue Team)",
+  "pageId": 15422,
+  "revisionId": 4528563,
+  "parentRevisionId": 4526660,
+  "revisionTimestamp": "2026-04-09T16:26:51Z",
+  "fetchedAt": "2026-05-14T15:27:22.845Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "manga",
+  "loreScope": "Category:Manga recursive crawl",
+  "wikitext": "{{AnimePokémonInfobox|\ntype1=Water|\nball=None|\nnickname=Mudkip |\njnickname=ミズゴロウ |\ntmnickname=Mizugorou |\nimage=[[File:Mudkip GRT.png|220px]] |\ncaught=no |\ncaption=Mudkip |\ngender=Male |\nability=Unknown |\npokemonname=Mudkip|\nlocation=Not caught|\nprevonum=258|\nepnum=GRT1 |\nepname=Pokémon to the Rescue! |\ncurrent={{OBP|Pokémon world|Mystery Dungeon}} |\nmedia=manga |\nva=no|\n}}\n\n'''Mudkip''' (Japanese: '''ミズゴロウ''' ''Mizugorou'') is a Pokémon that [[Ginji]] befriends in [[Pokémon Mystery Dungeon: Ginji's Rescue Team]].\n\n== Character ==\nInitially, Mudkip is a cowardly Pokémon that longs to become stronger and form a rescue team. He idolizes {{p|Alakazam}} of [[Team A.C.T.]].\n\n== History ==\nAfter meeting Ginji and seeing his determination, they team up to form a rescue team. He accompanies Ginji on his adventures and remains extremely loyal to him.\n\nThroughout the story, Mudkip becomes braver and stronger. One example is when he befriends [[Team Meanies|Gengar]] despite the fact that Gengar had mistreated them before.\n\nAt the end of the story, when Ginji becomes a human again, it is revealed that Mudkip continues rescuing Pokémon.\n\n===Moves used===\n{{anmov/h|water||Mudkip {{#switch: {{#expr: {{#time: U}} mod 3}}|0=Water Gun|1=Mud Sport|2=Whirlpool}} GRT.png|Using {{#switch: {{#expr: {{#time: U}} mod 3}}|0=Water Gun|1=Mud Sport|2=Whirlpool}}}}\n{{anmov|Water|Water Gun|GRT1|Pokémon to the Rescue!}}\n{{anmov|Ground|Mud Sport|GRT2|I Want to be Human Again!}}\n{{anmov|Water|Whirlpool|GRT5|Why I Became a Pokémon. The Answer Finally Revealed!!}}\n{{anmov/f|water}}\n\nWith the help of Ginji, Mudkip used Water Gun while Ginji used Flamethrower to create {{m|Rock Slide}} in ''[[GRT3|Goodbye to a Peaceful Village!]]''.\n\n==Related articles==\n{{Animespecies|Mudkip}}\n* [[Ginji]]\n{{stub|Manga}}\n{{DoubleProjectTag|Manga|CharacterDex}}\n\n[[Category:Pokémon Mystery Dungeon Ginji's Rescue Team characters]]\n[[Category:Manga characters (Pokémon)]]\n\n[[fr:Gobou (Secouristes de Ginji)]]\n[[it:Mudkip (Ginji's Rescue Team)]]\n[[zh:水躍魚（銀次的救助隊）]]"
+}

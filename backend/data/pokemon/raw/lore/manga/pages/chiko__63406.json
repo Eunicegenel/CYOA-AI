@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Manga characters (Pokémon)",
+  "requestedTitle": "Chiko",
+  "resolvedTitle": "Chiko",
+  "pageId": 63406,
+  "revisionId": 4526277,
+  "parentRevisionId": 4526000,
+  "revisionTimestamp": "2026-04-09T14:32:55Z",
+  "fetchedAt": "2026-05-14T15:15:49.862Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "manga",
+  "loreScope": "Category:Manga recursive crawl",
+  "wikitext": "{{incomplete}}\n{{AnimePokémonInfobox|\nnickname=Chiko |\njnickname=チコ |\ntmnickname=Chico |\nimage=[[File:Chiko.png|200px]]|\ncaption=Chiko |\nlocation=[[Johto]] |\ngender=Female |\nnature=Unknown |\ntype1=Grass |\nmedia=manga |\nepnum=PPP36 |\nepname=Green Jealousy |\nfirststagename=Chikorita |\nprevonum=152|\ncurrent=Unknown |\nva=no |\n}}\n\n'''Chiko''' (Japanese: '''チコ''' ''Chico'') is a Pokémon in [[Magical Pokémon Journey]]. Chiko is friends with {{TP|Pistachio|Bulbasaur}}.\n\n==History==\nWhen Chiko was first introduced, she fell in love with [[Pistachio]] and caused a fight and a competition with Bulbasaur. However, after she saw Pistachio trying to cheer up Bulbasaur when she lost, she apologized and the two Pokémon became close friends. She often talks in the third person.\n\nLater, she develops a crush on {{TP|Peanut|Charmander}}.\n\n==Personality and characteristics==\nChiko at times can be self-centered and bossy.\n\n==Moves used==\n{{anmov/h|Grass||Chiko {{#switch: {{#expr: {{#time: U}} mod 2}}|0=Razor Leaf|1=Vine Whip}}.png|Using {{#switch: {{#expr: {{#time: U}} mod 2}}|0=Razor Leaf|1=Vine Whip}}}}\n{{anmov|Grass|Razor Leaf|PPP46|Chikorita's Saint Valentine<!--unless if someone knows it appeared earlier D:-->}}\n{{anmov|Grass|Vine Whip|PPP62|Hazel VS Almond!}}\n{{anmov/f|Grass}}\n\n==Related articles==\n{{Animespecies|Chikorita}}\n\n{{MPJ characters}}\n{{stub|Manga}}\n{{DoubleProjectTag|Manga|CharacterDex}}\n\n[[Category:Magical Pokémon Journey characters]]\n[[Category:Manga characters (Pokémon)]]\n[[Category:Nicknamed Pokémon]]\n[[Category:Female characters (Pokémon)]]\n\n[[it:Chiko]]\n[[ja:チコ]]"
+}

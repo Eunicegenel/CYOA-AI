@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Hoenn characters of the day",
+  "requestedTitle": "Bart",
+  "resolvedTitle": "Bart",
+  "pageId": 17229,
+  "revisionId": 4492646,
+  "parentRevisionId": 4469035,
+  "revisionTimestamp": "2026-02-24T22:22:04Z",
+  "fetchedAt": "2026-05-14T14:04:43.685Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "anime",
+  "loreScope": "Category:Animation recursive crawl",
+  "wikitext": "[[File:Bart.png|thumb|250px|Bart]]\n'''Bart''' (Japanese: '''バール''' ''Bar'') is a [[character of the day]] who appeared in ''[[AG083|Unfair Weather Friends]]''. He is the manager of the [[Weather Institute]] in the [[Hoenn]] [[region]].\n\nBart was in the middle of training [[Millie]], a new employee. He was also in charge of protecting the data on the ancient {{OBP|Pokémon|species}}, {{p|Kyogre}} and {{p|Groudon}}, all accessed with a key card which he kept on his person at all times.\n\nWhen [[Team Aqua]] overran the Institute, Bart gave the key card to his {{p|Castform}} and told it to give the data to Millie. Along with {{Ash}} and {{ashfr}}, Millie kept the data out of Team Aqua's hands. However, Millie turned out to be a double agent called [[Brodie]], a member of [[Team Magma]] and master of disguises. He flew away on his jet pack with the data on ancient Pokémon.\n\nBart was freed by Ash and the others. Moments later, the real Millie showed up at the Weather Institute for her first day. Bart quickly showed her to a chaotic study room, and Millie gladly agreed to manually re-enter all of ancient Pokémon data into the Institute's computers.\n\n==Pokémon==\n{{MissingInfo|1|enva}}\n{{TrainerPoké\n|trainer=Bart\n|pkmn=Castform\n|type1=Normal\n|img={{#switch: {{#expr: {{#time: H}} mod 2}}|0=Bart|1=Bart Snowy}} Castform.png\n|img2=Bart {{#switch: {{#expr: {{#time: H}} mod 2}}|0=Sunny|1=Rainy}} Castform.png\n|epnum=AG083\n|epname=Unfair Weather Friends\n|vajp=Nana Mizuki\n|desc={{p|Castform}} is Bart's main Pokémon and plays an important role in the [[Weather Institute]]'s meteorological research. It was used to keep the important data of the [[Legendary Pokémon]] from [[Team Aqua]].\n\nCastform's only known move is {{m|Weather Ball}} and its Ability is {{a|Forecast}}.}}\n\n==Voice actors==\n{{vatable|color={{normal color}}|bordercolor={{normal color light}}\n|ja=古島清孝 ''[[Kiyotaka Furushima]]''\n|en=[[Anthony Salerno]]\n|es_eu=Cholo Moratalla\n|fi=Saku Mäkynen\n|fr_eu=Marc Weiss\n|pt_br=Ivo Roberto \"Tatu\"}}\n{{-}}\n{{Project COD notice}}\n[[Category:Animation characters]]\n[[Category:Hoenn characters of the day]]\n[[Category:Male characters]]\n[[Category:Scientists]]\n\n[[es:Bart]]\n[[fr:Luc]]\n[[it:Bart]]\n[[zh:巴鲁]]"
+}

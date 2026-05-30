@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Pokémon Adventures chapters",
+  "requestedTitle": "User:Tiddlywinks/AdvInfo/header",
+  "resolvedTitle": "User:Tiddlywinks/AdvInfo/header",
+  "pageId": 294101,
+  "revisionId": 3762406,
+  "parentRevisionId": 0,
+  "revisionTimestamp": "2023-08-07T01:32:00Z",
+  "fetchedAt": "2026-05-14T15:52:18.548Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "manga",
+  "loreScope": "Category:Manga recursive crawl",
+  "wikitext": "<div style=\"float: right; background-color: #{{colorschemedark|{{{arc|{{{chapter}}}}}}}}; min-width: 250px; width: 25%; {{roundy|10px}} border: 3px solid #{{colorschemethree|{{{arc|{{{chapter}}}}}}}}; padding: 3px; margin-left: 5px; margin-bottom: 5px; text-align: center; \"><!--manga infobox OPEN-->\n\n<div style=\"font-size: larger; font-weight: bold;\">{{{title_en}}}</div>\n<div style=\"margin: 5px 0px\"><!--image OPEN-->{{#if: {{{image}}}|[[File:{{{image|PS{{{number}}}.jpg}}}|250px]]|<small>''Please upload an image of this round.'' [[Category:Manga chapters in need of images]]</small>}}</div><!--image CLOSE-->\n<div style=\"font-size: smaller; padding: 3px; margin: 5px auto; width: fit-content; background-color: #FFF; {{roundy|10px}}\"><!--jp box OPEN-->\n<div lang=\"ja\" style=\"font-weight: bold;\">{{{title_ja}}}</div>\n<div style=\"font-style: italic;\">{{{title_ro}}}</div>\n</div><!--jp box CLOSE-->\n\n<div style=\"margin: 3px 0px; background-color:#{{colorschemelight|{{{arc|{{{chapter}}}}}}}}; {{roundy|10px}}\"><!--info section OPEN-->\n<div><!--info section header OPEN-->\n<div style=\"font-weight: bold;\">Info</div>\n</div><!--info section header CLOSE-->\n<div style=\"text-align: left; background-color:#FFF; {{roundy|10px}}\"><!--info section rows OPEN-->\n{| style=\"width: 100%\"\n|-\n| class=\"r\" style=\"font-weight: bold; width: 100px;\" | Story arc\n| [[{{{arc|{{{chapter}}}}}} arc|{{{arc|{{{chapter}}}}}}]]<noinclude>\n{{User:Tiddlywinks/AdvInfo/pubrow}}\n{{User:Tiddlywinks/AdvInfo/footer}}\n\n{{documentation}}\n\n[[Category:Infobox templates]]</noinclude>"
+}

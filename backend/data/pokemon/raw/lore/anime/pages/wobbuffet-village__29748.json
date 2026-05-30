@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Animated series-exclusive locations",
+  "requestedTitle": "Wobbuffet Village",
+  "resolvedTitle": "Wobbuffet Village",
+  "pageId": 29748,
+  "revisionId": 4459231,
+  "parentRevisionId": 4261196,
+  "revisionTimestamp": "2025-12-29T20:50:09Z",
+  "fetchedAt": "2026-05-14T14:57:57.645Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "anime",
+  "loreScope": "Category:Animation recursive crawl",
+  "wikitext": "{{AnimeLocationInfobox\n|name=Wobbuffet Village\n|characters=ソーナンスのむら\n|japanese=Sonans Village\n|image=Wobbuffet Village.png\n|imagesize=250px\n|caption=Wobbuffet Village\n|region=Johto\n|epicode=EP173\n|episode=Wobbu-Palooza!\n}}\n\n'''Wobbuffet Village''' (Japanese: '''ソーナンスのむら''' ''{{tt|Sonans|Wobbuffet}} Village'') is an {{pkmn|animated series}}-exclusive location in [[Johto]]. It is a small village located between [[Goldenrod City]] and [[Ecruteak City]]. Its first and only appearance is in ''[[EP173|Wobbu-Palooza!]]''.\n\nThe village's citizens all own a {{p|Wobbuffet}}, including the local [[Officer Jenny]]. The reason for the township's affiliation for the Pokémon is unknown even to the villagers. Wobbuffet Village also hosts the annual [[Wobbuffet Festival]] to commemorate the Patient Pokémon's traditionally easygoing and happy nature.\n\nIn ''[[EP173|Wobbu-Palooza!]]'', {{Ash}} and {{ashfr}} followed a group of Wobbuffet into the village, just in time to see [[Wobbuffet Festival crashers|a trio of festival crashers]] disrupt the Wobbuffet Festival. The festival crashers sought revenge for their defeat during the previous year's festival by {{OBP|Lulu|EP173}}. Ash and his friends tried to intervene, but Officer Jenny quickly stopped the {{pkmn|battle}}. She informed everyone that battles are prohibited during the festival to honor the spirit of Wobbuffet never attacking first. While Ash and his friends complied, the vandals turned their attention to the festival symbol, a large Wobbuffet statue, and began destroying it. \n\nHowever, due to the hospitality {{TRT}} received from Lulu earlier, they intervened with [[Jessie]]'s {{tp|Jessie|Wobbuffet}} single-handedly defeating the festival crashers's Pokémon. The festival crashers left the town, and the festivities proceeded just as planned.\n\n==Pokémon seen in Wobbuffet Village==\n{| style=\"margin:auto; width: 50%\"\n|-\n| {{ActivePoké|Wobbuffet Village|Wobbuffet|{{#switch: {{#expr: {{#time: U}} mod 4}}|0=Lulu|1=Annie|2=Norio|3=Officer Jenny}} Wobbuffet.png|disp= Wobbuffet (multiple)|Psychic|link=no}}\n|\n|}\n\n==In other languages==\n{{langtable|color={{colorschemelight|Johto}}|bordercolor={{colorschemedark|Johto}}\n|ca_vc=Aldea Wobbuffet\n|fi=Wobbuffet-kylä\n|it=Villaggio dei Wobbuffet\n|pl=Wioska Wobbuffetów\n}}\n{{-}}\n{{Johtoanime}}\n{{DoubleProjectTag|Anime|Locations|locations in the animated series.}}\n\n[[Category:Villages]]\n\n[[es:Villa/Aldea Wobbuffet]]\n[[it:Villaggio dei Wobbuffet]]\n[[zh:果然翁之村]]"
+}

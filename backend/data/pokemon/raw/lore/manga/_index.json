@@ -1,0 +1,90 @@
+[
+  {
+    "canon": "manga",
+    "requestedTitle": "Pokémon Adventures",
+    "resolvedTitle": "Pokémon Adventures",
+    "fileName": "pokemon-adventures.json",
+    "pageId": 986,
+    "revisionId": 4501137,
+    "revisionTimestamp": "2026-03-05T23:59:45Z",
+    "fetchedAt": "2026-05-14T13:44:49.097Z",
+    "status": "downloaded"
+  },
+  {
+    "canon": "manga",
+    "requestedTitle": "List of Pokémon Adventures characters",
+    "resolvedTitle": "List of Pokémon Adventures characters",
+    "fileName": "list-of-pokemon-adventures-characters.json",
+    "pageId": 56768,
+    "revisionId": 4541190,
+    "revisionTimestamp": "2026-04-30T00:35:22Z",
+    "fetchedAt": "2026-05-14T13:44:49.800Z",
+    "status": "downloaded"
+  },
+  {
+    "canon": "manga",
+    "requestedTitle": "Red (Adventures)",
+    "resolvedTitle": "Red (Adventures)",
+    "fileName": "red-adventures.json",
+    "pageId": 988,
+    "revisionId": 4532186,
+    "revisionTimestamp": "2026-04-14T20:37:15Z",
+    "fetchedAt": "2026-05-14T13:44:50.475Z",
+    "status": "downloaded"
+  },
+  {
+    "canon": "manga",
+    "requestedTitle": "Blue (Adventures)",
+    "resolvedTitle": "Blue (Adventures)",
+    "fileName": "blue-adventures.json",
+    "pageId": 989,
+    "revisionId": 4540056,
+    "revisionTimestamp": "2026-04-29T01:47:46Z",
+    "fetchedAt": "2026-05-14T13:44:51.164Z",
+    "status": "downloaded"
+  },
+  {
+    "canon": "manga",
+    "requestedTitle": "Green (Adventures)",
+    "resolvedTitle": "Green (Adventures)",
+    "fileName": "green-adventures.json",
+    "pageId": 990,
+    "revisionId": 4532178,
+    "revisionTimestamp": "2026-04-14T20:36:43Z",
+    "fetchedAt": "2026-05-14T13:44:51.824Z",
+    "status": "downloaded"
+  },
+  {
+    "canon": "manga",
+    "requestedTitle": "Yellow (Adventures)",
+    "resolvedTitle": "Yellow (Adventures)",
+    "fileName": "yellow-adventures.json",
+    "pageId": 991,
+    "revisionId": 4516627,
+    "revisionTimestamp": "2026-03-26T14:02:02Z",
+    "fetchedAt": "2026-05-14T13:44:52.492Z",
+    "status": "downloaded"
+  },
+  {
+    "canon": "manga",
+    "requestedTitle": "Red, Green & Blue arc (Adventures)",
+    "resolvedTitle": "Red, Green & Blue arc (Adventures)",
+    "fileName": "red-green-and-blue-arc-adventures.json",
+    "pageId": 20770,
+    "revisionId": 4481406,
+    "revisionTimestamp": "2026-02-03T13:47:08Z",
+    "fetchedAt": "2026-05-14T13:44:53.194Z",
+    "status": "downloaded"
+  },
+  {
+    "canon": "manga",
+    "requestedTitle": "Yellow arc (Adventures)",
+    "resolvedTitle": "Yellow arc (Adventures)",
+    "fileName": "yellow-arc-adventures.json",
+    "pageId": 34468,
+    "revisionId": 4369530,
+    "revisionTimestamp": "2025-08-29T23:42:06Z",
+    "fetchedAt": "2026-05-14T13:44:53.870Z",
+    "status": "downloaded"
+  }
+]

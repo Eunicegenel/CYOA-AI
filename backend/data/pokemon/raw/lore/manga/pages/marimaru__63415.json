@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Manga characters (Pokémon)",
+  "requestedTitle": "Marimaru",
+  "resolvedTitle": "Marimaru",
+  "pageId": 63415,
+  "revisionId": 4527831,
+  "parentRevisionId": 4526474,
+  "revisionTimestamp": "2026-04-09T15:55:26Z",
+  "fetchedAt": "2026-05-14T15:25:50.991Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "manga",
+  "loreScope": "Category:Manga recursive crawl",
+  "wikitext": "{{incomplete|2=History section and a personality and characteristics section}}\n{{AnimePokémonInfobox|\nnickname=Marimaru |\njnickname=マリ丸 |\ntmnickname=Mali-Maru |\nimage=[[File:Marimaru.png|200px]] |\ncaption=Marimaru|\ngender=Female |\nability=Unknown |\nnature=Unknown |\ntype1=Water |\nmedia=manga |\nfirststagename=Marill |\nprevonum=183 |\npokemonname=Marill |\nepnum=PPP44 |\nepname=Apricot, the Super Heroine!! |\ncurrent=[[Party|with Apricot]] |\nva=no |\n}}\n\n'''Marimaru''' (Japanese: '''マリ丸''' ''Mali-Maru'') is a Marill who appeared in [[Magical Pokémon Journey]]. She is [[Apricot]]'s ninja partner, with both of them training under Marimaru's mother, [[Madam Azumarill]].\n<!--\n==History==\n\n==Personality and characteristics==\n-->\n==Moves used==\n{{anmov/h|Water||Marimaru {{#switch: {{#expr: {{#time: U}} mod 3}}|0=Toxic|1=BubbleBeam|2=Ice Beam}}.png|Using {{#switch: {{#expr: {{#time: U}} mod 3}}|0=Toxic|1=Bubble Beam|2=Ice Beam}}}}\n{{anmov|Poison|Toxic|PPP44|Apricot, the Super Heroine!!}}\n{{anmov|Water|Bubble Beam|PPP44|Apricot, the Super Heroine!!}}\n{{anmov|Ice|Ice Beam|PPP44|Apricot, the Super Heroine!!}}\n{{anmov/f|Water}}\n\n==Related articles==\n{{Animespecies|Marill}}\n\n{{stub|Manga}}\n{{-}}\n{{MPJ characters}}\n{{DoubleProjectTag|Manga|CharacterDex}}\n\n[[Category:Magical Pokémon Journey characters]]\n[[Category:Manga characters (Pokémon)]]\n[[Category:Ninjas]]\n[[Category:Nicknamed Pokémon]]\n[[Category:Female characters (Pokémon)]]\n\n[[it:Marimaru]]\n[[ja:マリ丸]]"
+}

@@ -1,0 +1,15 @@
+{
+  "categorySource": "Category:Decolore Islands",
+  "requestedTitle": "Torom Island",
+  "resolvedTitle": "Torom Island",
+  "pageId": 178225,
+  "revisionId": 4318475,
+  "parentRevisionId": 4261208,
+  "revisionTimestamp": "2025-06-11T18:43:32Z",
+  "fetchedAt": "2026-05-14T14:55:07.533Z",
+  "source": "Bulbapedia",
+  "sourceType": "MediaWiki API",
+  "canon": "anime",
+  "loreScope": "Category:Animation recursive crawl",
+  "wikitext": "{{AnimeLocationInfobox\n|name=Torom Island\n|characters=ムトロ島\n|japanese=Mutoro Island\n|image=Torom Island.png\n|imagesize=250px\n|region=Decolore Islands\n|colorscheme=Unova2\n|epicode=BW128\n|episode=To Catch a Rotom!\n}}\n\n'''Torom Island''' (Japanese: '''ムトロ島''' ''Mutoro Island'') is the fifth island {{Ash}}, {{an|Iris}}, and {{an|Cilan}} visited during their travels through the [[Decolore Islands]]. It was featured in ''[[BW128|To Catch a Rotom!]]''.\n\nA large settlement borders Torom Island's coastline and extends up several cliffs. The townspeople have built a special appliance playground to prevent the island's unusually high {{p|Rotom}} population from scaring people inside their homes. The island's large transmission towers also offer the Rotom a home.\n\nThere, {{Ash}} and {{ashfr}} met up with {{an|Professor Oak}}, who came to the island to catch a Rotom for his thesis. With their help, Professor Oak was able to capture a {{TP|Professor Oak|Rotom}} after defeating {{TRT}}.\n\n==Pokémon seen on Torom Island==\n{| style=\"margin:auto; width: 50%\"\n|-\n| {{InactivePoké|Nurse Joy|Audino|Torom Island Nurse Joy Audino.png|Normal|disp=Nurse Joy's Audino|link=Nurse Joy's Audino}}\n| {{InactivePoké|Mutoro Island|Purrloin|Torom Island Purrloin.png|Dark|disp=Purrloin (flashback)|link=no}}\n| {{InactivePoké|Mutoro Island|Rotom|Torom Island {{#switch: {{#expr: {{#time: U}} mod 2}}|0=Rotom|1=Rotom forms}}.png|Electric|Ghost|disp=Rotom (×2)|link=no}}\n|\n|}\n\n===Caught Pokémon===\n{| style=\"margin:auto; width: 50%\"\n|-\n| {{InactivePoké|Mutoro Island|Rotom|Oak Rotom.png|Electric|Ghost|disp=Professor Oak's Rotom|link=Professor Oak's Rotom}}\n|\n|}\n\n==Trivia==\n* \"Torom\" is an anagram of both \"motor\" and {{p|Rotom}}. ムトロ ''Mutoro'' is ロトム ''Rotom'' written backwards.\n\n==In other languages==\n{{langtable|color={{water color light}}|bordercolor={{water color}}\n|zh_yue=落多冇島 ''{{tt|Lohkdōmóuh Dóu|Lodom Island}}''\n|zh_cmn=姆托洛島 ''{{tt|Mǔtuōluò Dǎo|Mutoro Island}}''\n|fi=Torom-saari\n|de=Rotmot-Insel\n|it=Isola di Torom\n|pl=Wyspa Torom\n|es_la=Isla Torom\n|es_eu=Isla Motorrotom\n}}\n\n==Related articles==\n{{Decolore Islands}}\n{{DoubleProjectTag|Anime|Locations|locations in the animated series.}}\n\n[[Category:Islands]]\n\n[[de:Rotmot-Insel]]\n[[es:Isla Torom/Isla Motorrotom]]\n[[it:Isola di Torom]]\n[[ja:ムトロ島]]\n[[zh:姆托洛島]]"
+}
